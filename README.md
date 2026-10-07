@@ -1,6 +1,10 @@
 # 📚 有聲書轉 Markdown (Audiobook to Markdown) 工具
 
+> 🌐 **線上數位圖書館 (GitHub Pages)**：[https://sinliongtoo.github.io/audiobook_md_learn/](https://sinliongtoo.github.io/audiobook_md_learn/)  
+> 包含 83 本有聲書完整逐字稿、時間軸導航、深淺護眼主題與離線閱讀體驗。
+
 這是一套將有聲書音訊（`.mp3`, `.m4a`, `.m4b`, `.wav` 等）高準確度轉換為結構化學習筆記與逐字稿 Markdown (`.md`) 的工具。
+
 
 核心採用 **faster-whisper**（OpenAI Whisper 的 CTranslate2 高效最佳化版本），具備高辨識率、低記憶體佔用與時間軸標記。
 
