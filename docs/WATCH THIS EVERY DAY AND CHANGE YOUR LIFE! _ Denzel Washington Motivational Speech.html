@@ -1,0 +1,709 @@
+<!DOCTYPE html>
+<html lang="zh-Hant" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WATCH THIS EVERY DAY AND CHANGE YOUR LIFE! _ Denzel Washington Motivational Speech - 有聲書學習電子書</title>
+  <style>
+    :root {
+      --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif;
+      --font-serif: "Iansui", "芫荽", Georgia, "Songti TC", "Noto Serif TC", serif;
+      --font-family: var(--font-body);
+      --font-size: 18px;
+      --line-height: 1.85;
+      --content-max-width: 820px;
+      --sidebar-width: 320px;
+      --bg-primary: #fcfcfd;
+      --bg-surface: #ffffff;
+      --bg-sidebar: #f8f9fa;
+      --bg-header: rgba(255, 255, 255, 0.92);
+      --text-primary: #1f2328;
+      --text-secondary: #57606a;
+      --text-muted: #8c959f;
+      --border-color: #e1e4e8;
+      --accent-color: #2563eb;
+      --accent-hover: #1d4ed8;
+      --accent-light: #eff6ff;
+      --badge-bg: #e0f2fe;
+      --badge-text: #0369a1;
+      --card-shadow: 0 1px 3px rgba(0, 0, 0, 0.05), 0 1px 2px rgba(0, 0, 0, 0.03);
+    }
+
+    [data-theme="sepia"] {
+      --bg-primary: #fbf0d9;
+      --bg-surface: #f4e8cf;
+      --bg-sidebar: #efe3c7;
+      --bg-header: rgba(244, 232, 207, 0.94);
+      --text-primary: #433422;
+      --text-secondary: #6e583f;
+      --text-muted: #957d60;
+      --border-color: #e3d3b4;
+      --accent-color: #92400e;
+      --accent-hover: #78350f;
+      --accent-light: #fbeacf;
+      --badge-bg: #ead8b8;
+      --badge-text: #6b4012;
+      --card-shadow: 0 1px 3px rgba(67, 52, 34, 0.08);
+    }
+
+    [data-theme="dark"] {
+      --bg-primary: #0f172a;
+      --bg-surface: #1e293b;
+      --bg-sidebar: #131c31;
+      --bg-header: rgba(30, 41, 59, 0.92);
+      --text-primary: #f1f5f9;
+      --text-secondary: #94a3b8;
+      --text-muted: #64748b;
+      --border-color: #334155;
+      --accent-color: #38bdf8;
+      --accent-hover: #7dd3fc;
+      --accent-light: #1e3a5f;
+      --badge-bg: #1e293b;
+      --badge-text: #38bdf8;
+      --card-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: var(--font-family);
+      font-size: var(--font-size);
+      line-height: var(--line-height);
+      color: var(--text-primary);
+      background-color: var(--bg-primary);
+      transition: background-color 0.25s ease, color 0.25s ease;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* Top Reading Progress Bar */
+    #progress-bar {
+      position: fixed;
+      top: 0;
+      left: 0;
+      height: 3px;
+      background: linear-gradient(90deg, var(--accent-color), #818cf8);
+      width: 0%;
+      z-index: 1000;
+      transition: width 0.1s linear;
+    }
+
+    /* Top Navigation Header */
+    .top-header {
+      position: sticky;
+      top: 0;
+      z-index: 900;
+      height: 60px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 20px;
+      background-color: var(--bg-header);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      border-bottom: 1px solid var(--border-color);
+    }
+
+    .header-left, .header-right {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .btn-icon {
+      background: none;
+      border: 1px solid var(--border-color);
+      color: var(--text-primary);
+      cursor: pointer;
+      font-size: 15px;
+      padding: 6px 12px;
+      border-radius: 8px;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.2s;
+    }
+    .btn-icon:hover {
+      background-color: var(--accent-light);
+      border-color: var(--accent-color);
+      color: var(--accent-color);
+    }
+
+    .home-link {
+      text-decoration: none;
+      color: var(--text-primary);
+      font-weight: 600;
+      font-size: 15px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .home-link:hover {
+      color: var(--accent-color);
+    }
+
+    /* Layout Wrapper */
+    .layout {
+      display: flex;
+      flex: 1;
+      width: 100%;
+      position: relative;
+    }
+
+    /* Sidebar / TOC */
+    .sidebar {
+      width: var(--sidebar-width);
+      position: sticky;
+      top: 60px;
+      height: calc(100vh - 60px);
+      background-color: var(--bg-sidebar);
+      border-right: 1px solid var(--border-color);
+      overflow-y: auto;
+      padding: 20px 16px;
+      flex-shrink: 0;
+      transition: transform 0.3s ease;
+    }
+
+    .sidebar-title {
+      font-size: 14px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      color: var(--text-secondary);
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .toc-search {
+      width: 100%;
+      padding: 8px 12px;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      background: var(--bg-surface);
+      color: var(--text-primary);
+      font-size: 13px;
+      margin-bottom: 14px;
+    }
+    .toc-search:focus {
+      outline: 2px solid var(--accent-color);
+    }
+
+    .toc-list {
+      list-style: none;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 3px;
+    }
+
+    .toc-item a {
+      display: block;
+      padding: 7px 10px;
+      border-radius: 6px;
+      color: var(--text-secondary);
+      text-decoration: none;
+      font-size: 13.5px;
+      font-family: monospace;
+      transition: all 0.15s ease;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .toc-item a:hover {
+      background-color: var(--accent-light);
+      color: var(--accent-color);
+    }
+
+    .toc-item.active a {
+      background-color: var(--accent-color);
+      color: #ffffff;
+      font-weight: 600;
+    }
+
+    /* Main Reader Content */
+    .main-content {
+      flex: 1;
+      min-width: 0;
+      padding: 40px 24px 80px 24px;
+      display: flex;
+      justify-content: center;
+    }
+
+    .reader-container {
+      width: 100%;
+      max-width: var(--content-max-width);
+    }
+
+    /* Book Hero / Header */
+    .book-hero {
+      margin-bottom: 40px;
+      padding-bottom: 24px;
+      border-bottom: 2px solid var(--border-color);
+    }
+
+    .book-hero h1 {
+      font-size: 2.1em;
+      line-height: 1.3;
+      margin-bottom: 16px;
+      color: var(--text-primary);
+      font-weight: 800;
+    }
+
+    .book-meta-chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 14px;
+    }
+
+    .meta-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 5px 12px;
+      border-radius: 20px;
+      background-color: var(--badge-bg);
+      color: var(--badge-text);
+      font-size: 13px;
+      font-weight: 500;
+    }
+
+    /* Content Typography */
+    .transcript-section {
+      margin-bottom: 44px;
+      scroll-margin-top: 80px;
+      padding-top: 10px;
+    }
+
+    .section-header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 16px;
+      padding: 8px 12px;
+      border-radius: 8px;
+      background-color: var(--bg-surface);
+      border-left: 4px solid var(--accent-color);
+      box-shadow: var(--card-shadow);
+    }
+
+    .section-time {
+      font-size: 1.1em;
+      font-weight: 700;
+      color: var(--accent-color);
+      font-family: monospace;
+    }
+
+    .section-badge {
+      font-size: 12px;
+      color: var(--text-muted);
+    }
+
+    .section-body {
+      text-align: justify;
+      hyphens: auto;
+    }
+
+    .section-body p {
+      margin-bottom: 1.25em;
+      text-indent: 1.75em;
+      letter-spacing: 0.01em;
+    }
+
+    /* Floating Navigation Controls */
+    .floating-tools {
+      position: fixed;
+      bottom: 24px;
+      right: 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      z-index: 800;
+    }
+
+    .float-btn {
+      width: 44px;
+      height: 44px;
+      border-radius: 50%;
+      background-color: var(--bg-surface);
+      color: var(--text-primary);
+      border: 1px solid var(--border-color);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 18px;
+      transition: transform 0.2s, background-color 0.2s;
+    }
+    .float-btn:hover {
+      transform: translateY(-2px);
+      background-color: var(--accent-light);
+      color: var(--accent-color);
+    }
+
+    /* Overlay for mobile drawer */
+    .backdrop {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.4);
+      z-index: 850;
+    }
+
+    /* Responsive */
+    @media (max-width: 992px) {
+      .sidebar {
+        position: fixed;
+        left: 0;
+        top: 60px;
+        bottom: 0;
+        z-index: 860;
+        transform: translateX(-100%);
+        box-shadow: 4px 0 16px rgba(0,0,0,0.15);
+      }
+
+      .sidebar.open {
+        transform: translateX(0);
+      }
+
+      .backdrop.open {
+        display: block;
+      }
+    }
+
+    @media (max-width: 640px) {
+      :root {
+        --font-size: 17px;
+      }
+      .main-content {
+        padding: 24px 16px 60px 16px;
+      }
+      .book-hero h1 {
+        font-size: 1.6em;
+      }
+      .top-header {
+        padding: 0 12px;
+      }
+      .section-body p {
+        text-indent: 1.2em;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div id="progress-bar"></div>
+
+  <!-- Top Navigation -->
+  <header class="top-header">
+    <div class="header-left">
+      <button class="btn-icon" id="toggle-sidebar-btn" title="切換目錄">
+        📑 目錄
+      </button>
+      <a href="index.html" class="home-link" title="返回書架">
+        🏠 書架
+      </a>
+    </div>
+
+    <div class="header-right">
+      <!-- Theme Switcher -->
+      <button class="btn-icon" id="theme-btn" title="切換閱讀模式 (明亮/羊皮紙/暗黑)">
+        🎨 <span>外觀</span>
+      </button>
+
+      <!-- Font Style Switcher -->
+      <button class="btn-icon" id="font-family-btn" title="切換黑體/明體">
+        🔤
+      </button>
+
+      <!-- Font Size Adjuster -->
+      <button class="btn-icon" id="font-dec-btn" title="縮小字級">A-</button>
+      <button class="btn-icon" id="font-inc-btn" title="放大字級">A+</button>
+    </div>
+  </header>
+
+  <div class="backdrop" id="backdrop"></div>
+
+  <div class="layout">
+    <!-- Sidebar / TOC -->
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-title">
+        <span>章節目錄</span>
+        <span style="font-size: 12px; font-weight: normal;">共 9 節</span>
+      </div>
+      <input type="text" id="toc-filter" class="toc-search" placeholder="搜尋章節時間...">
+      <ul class="toc-list" id="toc-list">
+        <li class="toc-item"><a href="#sec-000000">⏱️ 00:00:00 - 00:05:00</a></li>
+<li class="toc-item"><a href="#sec-000500">⏱️ 00:05:00 - 00:10:02</a></li>
+<li class="toc-item"><a href="#sec-001002">⏱️ 00:10:02 - 00:15:11</a></li>
+<li class="toc-item"><a href="#sec-001511">⏱️ 00:15:11 - 00:20:16</a></li>
+<li class="toc-item"><a href="#sec-002016">⏱️ 00:20:16 - 00:25:18</a></li>
+<li class="toc-item"><a href="#sec-002518">⏱️ 00:25:18 - 00:30:20</a></li>
+<li class="toc-item"><a href="#sec-003020">⏱️ 00:30:20 - 00:35:21</a></li>
+<li class="toc-item"><a href="#sec-003521">⏱️ 00:35:21 - 00:40:22</a></li>
+<li class="toc-item"><a href="#sec-004022">⏱️ 00:40:22 - 00:44:03</a></li>
+      </ul>
+    </aside>
+
+    <!-- Main Content Reader -->
+    <main class="main-content">
+      <article class="reader-container">
+        <header class="book-hero">
+          <h1>WATCH THIS EVERY DAY AND CHANGE YOUR LIFE! _ Denzel Washington Motivational Speech</h1>
+          <div class="book-meta-chips">
+            <span class="meta-chip">🏷️ 時長：00:44:03</span>
+<span class="meta-chip">🏷️ 模型：small.en</span>
+<span class="meta-chip">🏷️ 日期：2026-09-22</span>
+          </div>
+        </header>
+
+        <!-- Transcript Content -->
+        <div class="book-body">
+          
+        <section class="transcript-section" id="sec-000000">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:00:00 - 00:05:00</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>Let me ask you something. What&#x27;s the first thing you do when you wake up? Do you reach for your phone? Do you scroll through social media checking what the world is doing while your own life stands still? Listen to me. Every single morning you have a choice, a choice to stay the same or a choice to change your life. And if you keep doing what you&#x27;ve always done, you&#x27;ll keep getting what you&#x27;ve always gotten. But today I&#x27;m giving you seven powerful keys, nine lessons that will reshape your mind, your habits and your future. If you truly apply them, if you watch this every day and live by these principles, your life will never be the same again. How you start your day determines how you finish it. Most people wake up reacting to the world, checking messages, stressing over work, rushing out the door already behind before they even begin. And then they wonder why their lives feel chaotic, why they never feel in control. But the greats, the winners, they own their morning. You see, success doesn&#x27;t start when you step into the office, the gym or the world. Success starts the moment you open your eyes. It starts with what you allow into your mind, what you choose to focus on and how you prepare yourself for the battles ahead. Some of the most successful people in the world, business leaders, world-class athletes, top performers in every industry, understand the power of the first hour. They don&#x27;t leave it to chance. They don&#x27;t hit snooze five times. They don&#x27;t roll over and start scrolling through social media, filling their minds with distractions before they&#x27;ve even taken their first deep breath of the day. No, they have a system, a routine, a commitment to themselves. Look at those who have achieved greatness. They all have a ritual, a process that primes them for the day. Some meditate, clearing their minds before the chaos of life takes over. Some read, feeding their minds before the world starts pulling at them. Some write down their goals, reaffirming their vision before the distractions creep in. Some exercise because they know a strong body fuels a strong mind. And some sit in stillness, practicing gratitude, recognizing the gift of another day. And the question is, what do you do? Do you let the day control you? Or do you take control of your day? Because here&#x27;s the truth. If you don&#x27;t command your morning, your morning will command you. Think about a pilot getting ready for takeoff. They don&#x27;t just show up, press a button and hope the plane flies. No, they go through a pre-treat checklist, making sure everything is in place because they know one mistake could mean disaster. Your morning routine is your pre-treat checklist. It&#x27;s your preparation for success, your moment to get aligned, to decide who you&#x27;re gonna be, how you&#x27;re gonna show up and what you&#x27;re going to accomplish. If you wake up every morning in a rush with no plan, no direction, just reacting to whatever happens, guess what? You&#x27;re flying blind. You&#x27;re operating without a strategy. And that&#x27;s why most people never get to where they want to go. They keep hoping for change, but they don&#x27;t set themselves up for it. Every single day you are given the same 24 hours as the most successful people on the planet. The difference is how you use them. The first hour of your day is like a seed. What you plant in that hour will grow throughout the day. If you plant stress, distraction and negativity, don&#x27;t be surprised when that&#x27;s what your entire day looks like. But if you plant intention, focus, discipline and gratitude, you will see the results unfold before you. There was a study that showed people who wake up with a purpose, people who take time in the morning to set their mindset, exercise and engage in personal growth are significantly more productive, more fulfilled and even healthier than those who don&#x27;t. Because success isn&#x27;t just about what you do when you&#x27;re in the spotlight. It&#x27;s about what you do when no one&#x27;s watching. It&#x27;s about the habits you build when there&#x27;s no applause, no recognition, just you and your commitment to becoming better. So here&#x27;s the challenge. Wake up with intention. Stop giving away your first hour to nonsense, to distractions, to the noise of the world. Make it your time. Spend time in silence. Visualize your success. Move your body. Feed your mind. Because if you can win the morning, you can win the day. And if you can win enough days, you can win your life. The choice is yours. Let me tell you the truth. Motivation is unreliable. It&#x27;s like the weather. One day it&#x27;s sunny and you feel unstoppable. The next day it&#x27;s stormy and you don&#x27;t wanna get out of bed. If you rely on motivation, you&#x27;ll never be consistent.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-000500">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:05:00 - 00:10:02</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>You&#x27;ll never build anything lasting. Because motivation is a feeling and feelings change. But discipline, discipline is solid. Discipline doesn&#x27;t care how you feel. Discipline shows up even when motivation is nowhere to be found. Everybody wants success. Everybody wants to be great. But the real question is, are you willing to show up when you don&#x27;t feel like it? When the alarm goes off at 5 a.m. and your bed feels warm and comfortable, do you get up anyway? When your body aches, when your mind is tired, when no one is cheering for you, do you keep pushing? Because that&#x27;s where success is built. Not in the moments when you feel good, but in the moments when you don&#x27;t and you do it anyway. The greatest in the world didn&#x27;t get there by accident. They didn&#x27;t wake up every morning feeling inspired. Muhammad Ali, one of the greatest boxers to ever live, once said, I hated every minute of training, but I said, don&#x27;t quit. Suffer now and live the rest of your life as a champion. He didn&#x27;t wait for motivation to hit him. He trained when he was tired. He trained when he was in pain. He trained when he wanted to quit because he knew champions are made in the moments when nobody&#x27;s watching. Think about the most successful people in any field, athletes, entrepreneurs, artists, leaders. You think they feel like showing up every day? No, but they do it anyway. They push through the days when they&#x27;re exhausted, uninspired and doubting themselves because discipline is the bridge between wanting something and having it. Too many people wait for the perfect moment. They wait until they feel ready. They wait for inspiration to strike and that&#x27;s why they never start. That&#x27;s because they think success is about feeling good all the time. It&#x27;s not. Success is about what you do when you don&#x27;t feel like it. There was a study that followed people who set fitness goals. At the beginning, everybody was excited. Everybody was motivated, but a few weeks in, when the excitement wore off, most people quit. Only a small percentage stuck with it. The difference? The ones who succeeded weren&#x27;t the most motivated. They were the most disciplined. They showed up when they were sore. They showed up when they were tired. They showed up when life got busy because they weren&#x27;t chasing a feeling. They were committed to a result. You have to train yourself to push through, to act regardless of how you feel. Stop waiting for motivation. Stop waiting to feel like it. Just do it. Get up and do it tired. Do it stressed. Do it uncomfortable. Do it when nobody is clapping for you because every time you push past the excuses, you get stronger. You build grit. You build resilience. And that&#x27;s what separates the winners from the rest. So the next time you don&#x27;t feel like showing up, remind yourself, this is the test. This is the moment that counts. Champions aren&#x27;t made when it&#x27;s easy. They&#x27;re made when it&#x27;s hard and they keep going anyway. Train your mind. Build your discipline because motivation might get you started, but discipline will take you all the way. You cannot grow in toxic soil. It doesn&#x27;t matter how strong the seed is. If the environment is wrong, growth will be stunted. The same applies to you. Look around. Who are you surrounding yourself with? What are you consuming? On your phone, on your TV, in your conversations. Because whether you realize it or not, your mind is soaking it all in and it&#x27;s either feeding your growth or poisoning your potential. If you put a shark in a small fish tank, it stays small. It never reaches its full potential. But take that same shark and release it into the ocean. And suddenly it grows. It thrives. It becomes what it was meant to be. The only difference, the environment. Some of you have been living in a tank too small for your dreams. You&#x27;ve been surrounded by people who don&#x27;t believe in you. You&#x27;ve been listening to negativity, drowning in self-doubt, limiting yourself because of where you are. But let me tell you something. Your environment does not have to be your destiny. Too many people stay stuck in places that don&#x27;t serve them. They keep hanging around the same negative people. They keep feeding their minds with junk, gossip, distractions, fear. And then they wonder why they aren&#x27;t growing, why they aren&#x27;t reaching the next level. The truth is simple. You can&#x27;t rise when you&#x27;re anchored down by the wrong environment. Look at the most successful people in the world. They are intentional about their surroundings. They protect their energy. They don&#x27;t waste time with negativity, drama, or people who drain them. They surround themselves with winners,</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-001002">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:10:02 - 00:15:11</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>with people who challenge them, push them, make them better, because they know you become what you are around. If you spend your time with five lazy people, guess what? You&#x27;ll be the sixth. If you surround yourself with five discipline-driven, success-minded individuals, you&#x27;ll rise to their level. It&#x27;s not magic, it&#x27;s environment. Some of you need to do an audit of your life. Who in your circle is pushing you forward? Who is holding you back? Be honest with yourself. Are you in a space that helps you grow? Or are you stuck in a place that&#x27;s keeping you small because you will never reach your full potential in the wrong environment? That means cutting out the negativity. That means limiting time with people who bring you down. That means being mindful of what you consume because everything you allow into your mind and life is shaping you, whether you like it or not. It&#x27;s time to make a decision. Are you going to stay in the tank, stay small, stay stuck, keep letting your environment control you? Or are you going to step into the ocean? Surround yourself with greatness. Put yourself in places where you are challenged, where you can grow, where you can become the person you were meant to be because your environment is either feeding you or destroying you. Choose wisely. Most people are so afraid of failure that they never even try. They let the fear of embarrassment, rejection, or falling short keep them stuck in place. But let me tell you something. Fulfillure is not the opposite of success. It is the path to success. It is the price of greatness. Michael Jordan didn&#x27;t make his high school basketball team. Walt Disney was told he lacked imagination. J.K. Rowling rejected 12 times. Imagine if they had stopped there. Imagine if they had let failure define them. The world wouldn&#x27;t have seen their greatness, but they didn&#x27;t quit. They didn&#x27;t let failure have the final say. You see, failure is not the enemy. It&#x27;s your greatest teacher. Every mistake, every setback, every rejection is a lesson. It&#x27;s life testing you asking, how bad do you want it? And the ones who win in life, they don&#x27;t run from failure. They embrace it. They learn, they adjust, they keep moving. The problem is too many people take failure personally. They think I failed, so I must not be good enough. But failure doesn&#x27;t mean you&#x27;re not good enough. It means you&#x27;re growing. It means you&#x27;re learning. It means you&#x27;re in the game. And as long as you&#x27;re in the game, you still have a shot at winning. Look at a baby learning to walk. They fall down over and over. Do they stop? Do they say, well, I guess walking isn&#x27;t for me? No, they get up. They keep trying. Because failure is how they learn. Balance, coordination, strength, and eventually they walk. Eventually they run. But somewhere along the way, we forget that. We start believing that failure is a sign to stop. It&#x27;s not, it&#x27;s a sign to keep going, to get better, to push harder. Every successful person you admire has failed, probably more times than you can count. The difference is they didn&#x27;t quit. They used their failures as stepping tones. They failed fast, they failed often, and they failed forward. So stop letting failure scare you. Stop letting it hold you back. Shift your mindset. Failure is not final unless you quit. Every setback is a setup for a comeback. Every fall is an opportunity to rise. Learn, adjust, and keep moving. Because success is not about never failing. It&#x27;s about never giving up. People have this idea that success is some big dramatic breakthrough. That one day, everything just clicks, and suddenly they&#x27;ve made it. But that&#x27;s not how it works. Success isn&#x27;t a single moment. It&#x27;s a series of small, consistent steps, repeated day after day. See, the world loves to celebrate the big wins. The championships, the awards, the overnight success stories. But what they don&#x27;t see, the early mornings, the late nights, the hours of work when no one is watching. Success isn&#x27;t about what you do once. It&#x27;s about what you do every single day. Let me put it this way. If you improve just 1% every day by the end of the year, you won&#x27;t just be 365% better. You&#x27;ll be 37 times better because of compound growth. That&#x27;s the power of consistency. That&#x27;s the power of small, daily improvements. Think about an ice cube. You&#x27;re sitting in a freezing room, and the temperature is at 25 degrees. Nothing happens. You raise the temperature at 25 degrees. it to 26, 27, 28. Still nothing. Then 29, 30, 31. No change. But then, at 32 degrees,</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-001511">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:15:11 - 00:20:16</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>that ice cube starts to melt. That one degree shift makes all the difference. Your progress works the same way. Some days, it might feel like nothing is happening. Like you&#x27;re stuck. Like all your hard work isn&#x27;t paying off. But if you keep going, if you keep showing up, keep improving, keep pushing, eventually you&#x27;ll hit your breakthrough. The problem is most people quit before they get there. They stop at 31 degrees. They think the effort isn&#x27;t working, so they give up. But the ones who succeed, they keep going. They trust the process. They understand that greatness isn&#x27;t built in a day. It&#x27;s built daily. So if you want to change your life, start small. Read one page. Do one push-up. Make one call. Take one step. Show up, even when it&#x27;s small. Because those small actions, done consistently, will lead to massive results. You know, it&#x27;s easy to look around and find reasons why things aren&#x27;t going the way we want. It&#x27;s so simple to blame everything and everyone. Our upbringing, our lack of opportunities, our circumstances. And let&#x27;s not forget about those of us who say, if only I had a better boss, or if only my parents did more for me, as if someone out there owes us something. But let me tell you something real. No one is going to come and fix it for you. No one is going to show up with a magic solution that&#x27;s going to change your life overnight. You have to understand this right now. It&#x27;s on you. You are the one who&#x27;s responsible for what happens next. The power to change, to elevate your life, to reach your goals. It&#x27;s in your hands. Sure, life throws curveballs. Sure, the path isn&#x27;t always clear. But guess what? That&#x27;s part of the story. You think the people who&#x27;ve achieved greatness, who&#x27;ve overcome the odds, had it easy? They didn&#x27;t. They fought battles you probably couldn&#x27;t even imagine. But they didn&#x27;t let those battles define them. They didn&#x27;t make excuses. They got up, they worked hard, and they made it happen. Let me tell you something. There are people who&#x27;ve come from nothing and built empires. People who were told they&#x27;d never make it. People who were laughed at, underestimated, and kicked to the curb. Yet they didn&#x27;t stay down. They didn&#x27;t wallow in self-pity. They didn&#x27;t let the obstacles in front of them stop them from pushing forward. Instead, they made a decision. A decision to work harder than everyone else. A decision to keep moving no matter how hard life hit them. And they succeeded. Now you&#x27;ve heard those stories. You&#x27;ve seen the motivational videos, read the books, and you&#x27;ve probably even been inspired by those who&#x27;ve turned their lives around. But the question is, are you going to do something about it? Or are you going to keep sitting there making excuses? Because there&#x27;s a simple truth you need to accept right here and now. Nobody cares. Nobody cares about the hard times you&#x27;ve had, the struggles you&#x27;ve faced, or the difficulties you&#x27;re dealing with. Nobody cares if you&#x27;ve been dealt a bad hand, if you don&#x27;t have all the advantages others have. What matters is what you do with it. And you know what? That&#x27;s freeing. That means you don&#x27;t need anyone&#x27;s permission to go after your dreams. That means you don&#x27;t have to wait for someone to give you the green light. You don&#x27;t need a single person&#x27;s approval. You just need to stop making excuses. Stop blaming the world for where you are. Stop pointing the finger at everyone else and start pointing it at yourself. Look in the mirror. You are the reason why you&#x27;re where you are today. But don&#x27;t let that be a condemnation. Let that be the wake-up call. Every excuse you&#x27;ve made in the past is a chain that&#x27;s been holding you back. Every time you said, I can&#x27;t because you&#x27;ve tied another knot around your potential. Every time you&#x27;ve put the blame on someone else, you&#x27;ve given away a piece of your power. But now, right now, you can make a choice. You can decide that no more excuses will stand between you and your dreams. You can decide to break free from the change you&#x27;ve wrapped around yourself. You can choose to take responsibility. Now, I&#x27;m not saying it&#x27;s going to be easy. Life isn&#x27;t always going to be a straight line. You will face challenges. You will encounter setbacks. But the question is, what are you going to do when that happens? Are you going to quit? Are you going to say, it&#x27;s too hard? Or are you going to double down and push through? You&#x27;ve heard the stories of those who didn&#x27;t quit, of the person who lost everything but found a way to rise from the ashes, of the individual who faced rejection after rejection but kept going until they found the door that would open for them. And there&#x27;s a reason why you hear these stories. It&#x27;s because they show you what&#x27;s possible when you take full</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-002016">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:20:16 - 00:25:18</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>responsibility for your life, when you stop waiting for someone to rescue you and you start rescuing yourself. You don&#x27;t need anyone&#x27;s permission to be great. You don&#x27;t need a handout or a break. What you need is a mindset shift. You need to change the way you see yourself. You need to stop thinking of yourself as a victim and start seeing yourself as the hero of your own story. You need to stop thinking of your past as a weight and start using it as fuel, the pain, the struggles, the setbacks. They don&#x27;t define you, but defines you as how you respond to them. So take responsibility. Own your choices, own your actions, own your dreams. Because at the end of the day, this is your life and nobody else has the power to shape it but you. Don&#x27;t wait for the world to give you what you deserve. Go out and take what&#x27;s yours. The road won&#x27;t always be smooth but if you keep going, you&#x27;ll get there. And when you do, you&#x27;ll realize that it wasn&#x27;t the circumstances that held you back. It was the excuses. So drop them. Work harder. Keep pushing and watch your life transform. What you believe about yourself and about your life will shape everything you experience. Let that sink in for a second. Your life is a direct reflection of your thoughts, the way you think about yourself, about your goals, about what&#x27;s possible for you. That&#x27;s what becomes your reality. It&#x27;s not some mystical thing. It&#x27;s simple truth. If you believe you can&#x27;t, then you won&#x27;t. You&#x27;re setting yourself up for failure before you even start. But on the flip side, if you believe you can, if you truly believe that you are capable of more, you&#x27;ll find a way. You&#x27;ll find the strength, the courage, and the determination to push past every obstacle. The mind is a powerful thing. It can either be your greatest asset or your worst enemy. I know there are days when it&#x27;s tough. I know there are moments when you look at your situation and it feels like the mountain is too high, the path is too steep, and the odds are stacked against you. But I want you to understand something right now. That mountain is not the problem. The problem is how you see that mountain, how you approach it. It all comes down to mindset. If you walk into any situation thinking it&#x27;s too much, thinking that there&#x27;s no way you&#x27;ll make it, you&#x27;ve already lost the battle before it even started. Your mindset, the way you perceive the world, the way you view your challenges, that&#x27;s everything. There&#x27;s a reason why the most successful people in the world keep telling you that mindset matters. There&#x27;s a reason why they keep talking about how important it is to believe in yourself. It&#x27;s not just motivational fluff, it&#x27;s fact. Studies have shown that people who visualize success, who see themselves achieving their goals before they even begin, are significantly more likely to actually make it happen. It&#x27;s not just some mind trick, it&#x27;s science. Your brain doesn&#x27;t know the difference between something real and something imagined. It doesn&#x27;t. If you can see it in your mind, if you can picture it clearly, your brain starts to believe it. And when your brain believes it, your body will follow. Now think about that for a minute. If your brain can&#x27;t tell the difference between something that&#x27;s happening right in front of you and something you&#x27;re imagining, then why not imagine greatness? Why not visualize your success every single day? Why not fill your mind with the images of the life you want, the goals you want to achieve, the person you want to become? Because if you program your mind for greatness, you&#x27;re setting yourself up for success. But that&#x27;s where many of us go wrong. We let negativity run the show. We let those limiting beliefs take root and grow. We tell ourselves I&#x27;m not good enough, or it&#x27;s too late for me, or that&#x27;s just not something I can do. We start to believe the lies we tell ourselves, and before we know it, those lies become our truth. But let me tell you something. You are not your thoughts. You are not the negative things you think about yourself. You have the power to change those thoughts. You have the power to take control of your mind, and when you do, you change everything. You change how you see yourself. You change how you see the world. You change how you see your challenges. And when you change your mindset, your reality will follow suit. There&#x27;s power in your words. There&#x27;s power in what you say to yourself. Every single day you are speaking life or death into your future with the things you say, and I&#x27;m not just talking about the words you say out loud, though those matter too. I&#x27;m talking about the words you say inside your head, the thoughts you entertain when no one else</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-002518">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:25:18 - 00:30:20</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>is around, the negative self-talk, the doubts, the fears. You&#x27;ve got to replace those with something better. You&#x27;ve got to speak life into yourself. You&#x27;ve got to replace those thoughts of I can&#x27;t with I can with I will. You&#x27;ve got to tell yourself I&#x27;m capable. I&#x27;m strong. I&#x27;m worthy. It&#x27;s not always easy. I know the world has a way of knocking us down and making us question ourselves, but let me remind you this isn&#x27;t about the world. This is about you. This is about taking control of your mind and deciding that you are going to rise above whatever challenges come your way. This is about choosing to believe in yourself even when no one else does. This is about deciding that your future is yours to create. What&#x27;s holding you back isn&#x27;t your circumstances. What&#x27;s holding you back isn&#x27;t your past. What&#x27;s holding you back is the story you keep telling yourself about who you are and what you can do. Change that story and you change your life. Start telling yourself a different narrative. Start telling yourself that you&#x27;re more than enough. Start telling yourself that you have everything it takes to succeed. Start telling yourself that your dreams are not too big, that they are not out of reach. You&#x27;ve got to stop letting fear control your thoughts. Fear is a liar. Fear will tell you that you&#x27;re not capable. Fear will tell you that you don&#x27;t have what it takes, but fear is just noise. It&#x27;s just an obstacle you can overcome. When you change the way you think, when you start believing in yourself, fear doesn&#x27;t stand a chance to right now take control, take charge of your thoughts, replace every negative belief with a positive affirmation, visualize your success, see yourself achieving your goals and then go out and make it happen. Because your mindset, it determines your reality and when you believe in yourself, nothing can stop you. Let&#x27;s talk about something that gets overlooked in the pursuit of success. Everybody&#x27;s talking about goals, about grinding, about pushing, about the hustle and don&#x27;t get me wrong, success takes hard work. But here&#x27;s the thing, you can&#x27;t have success without your greatest asset, your body. You can&#x27;t reach the heights you want to reach if you&#x27;re not taking care of yourself. You can&#x27;t build an empire if you&#x27;re too sick, too tired or too worn out to enjoy it. And I&#x27;m telling you this not to scare you, but to remind you of something that&#x27;s easy to forget in the rush of chasing dreams. Health is wealth. It doesn&#x27;t matter how much money you have, how big your house is or how many accolades you collect. If you&#x27;re not healthy, none of that matters. Steve Jobs, one of the most successful men to ever walk the earth, had everything he could have dreamed of. Billions of dollars, the respect of millions, the admiration of the world. But when his time came, none of that could save him. He couldn&#x27;t buy more time. He couldn&#x27;t make his body do what it no longer could. And you know what that teaches us? That no matter how successful you get, it doesn&#x27;t mean a thing if you don&#x27;t have the health to live it out, to enjoy it, to fully experience life. The truth is too many of us are so focused on what we can achieve, what we can accumulate, what we can build, that we forget about the one thing that allows us to experience it all, our health. You want to achieve your dreams? You want to create the life you&#x27;ve been thinking about for so long? Well, it&#x27;s time to realize that your health has to come first. Without a healthy body, the mind is limited. Without taking care of yourself, your energy will run dry. Without the strength to push forward, the drive will fade. You see, we&#x27;re taught from a young age that success is about how much you hustle, how much you work, how much you grind. And while that&#x27;s all important, none of it matters if you&#x27;re not fueling the body that&#x27;s doing the work. I get it. You&#x27;re ambitious. You&#x27;re focused on your career. You&#x27;re focused on making things happen. But I want you to think about this. If you&#x27;re not healthy, how long can you really keep going? How long can you keep running on empty before your body says, I&#x27;ve had enough? Because it will. Trust me, it will. You&#x27;ve got to take care of yourself before life forces you to. And the reality is it&#x27;s so easy to put your health on the back burner. It&#x27;s easy to skip that workout when you&#x27;re tired, to eat the fast food when you&#x27;re too busy to cook. to sacrifice sleep when there&#x27;s so much to do. But every time you make those choices, you&#x27;re trading your long-term health for short-term gain. And what good is success if you don&#x27;t have the energy to enjoy it? What good is it to have everything you&#x27;ve ever dreamed of if you can&#x27;t even enjoy a day with the people you love</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-003020">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:30:20 - 00:35:21</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>because your body is falling apart? Think about the greats. Think about the people you admire. They didn&#x27;t get where they are by neglecting their bodies. They took care of themselves because they understood one thing. A strong body fuels a strong mind. A healthy body gives you the stamina to keep going when others quit. It gives you the energy to work hard, think clearly, and make decisions that will move you forward. You can&#x27;t just focus on your hustle without focusing on the vessel that&#x27;s carrying you. Your body is the vehicle that&#x27;s getting you to your destination. If you don&#x27;t take care of it, you&#x27;re gonna break down long before you get where you&#x27;re trying to go. So here&#x27;s what I&#x27;m asking you to do. Move your body, find time, even on the busiest days, to take care of your physical health. You don&#x27;t have to run a marathon, but get active. Do something, a 20-minute workout, a walk around the block, just move. Because every time you do, you&#x27;re building more than muscle, you&#x27;re building discipline, and you&#x27;re sending a message to yourself that you&#x27;re worth the time and effort. And while you&#x27;re moving your body, start thinking about what you&#x27;re putting into it. If you wanna fuel your ambition, your drive, your passion, you&#x27;ve got to feed yourself the right things. Stop using food as a quick fix to get through the day. Stop reaching for the junk because it&#x27;s easy and convenient. Start making better choices. Start eating the food that will nourish you, that will give you the energy to keep pushing forward, that will help you be at your best, mentally and physically. Don&#x27;t just think of food as fuel. Think of it as the foundation of your success. And don&#x27;t forget to rest. I know how tempting it is to think that you can go, go, go, and that you&#x27;ll catch up on sleep later. But your body needs rest to recover, to rebuild, to strengthen. Without rest, you&#x27;ll burn out. You won&#x27;t be able to think clearly, make the right decisions, or perform at your best. Sleep is as important as work, as important as everything else, so prioritize it. Get the rest your body deserves. Give yourself the time to recharge, so you can go out and give your best when it&#x27;s time to perform. I know it&#x27;s easy to get caught up in the hustle. I know the pressure to succeed can make you feel like you have to sacrifice everything to get to where you want to go. But I&#x27;m telling you this, success is nothing without health. And without health, you can&#x27;t achieve what you were meant to achieve. So take care of yourself now. Don&#x27;t wait until you&#x27;re forced to. Move your body, eat better, prioritize rest. Because when you take care of yourself, you give yourself the energy and strength to build the life you&#x27;ve always dreamed of. Your body is your foundation. Without it, nothing else matters. So treat it like the valuable asset it is. I want you to stop for a moment and think about something we all have in common. It&#x27;s something that doesn&#x27;t care who you are, where you come from, or how successful you are. It&#x27;s something that everyone has, yet so many of us waste time. Time doesn&#x27;t discriminate. It doesn&#x27;t wait for you to catch up. It doesn&#x27;t slow down just because you&#x27;re not ready. Time keeps ticking, second after second, minute after minute, hour after hour. And the truth is, time is the one thing you can never get back. No matter how much money you have, no matter how many connections you make, no matter how many things you achieve, if you don&#x27;t value your time, you&#x27;ve already lost. Imagine for a second that someone deposits $86,400 into your bank account every single morning. Every single day you wake up and there it is, $86,400 waiting for you to use. But here&#x27;s the catch. Whatever you don&#x27;t use by midnight, it disappears. It&#x27;s gone, it&#x27;s erased. You can&#x27;t roll it over into tomorrow. It&#x27;s wasted. How would you spend that money? I&#x27;m willing to bet you&#x27;d be careful. You wouldn&#x27;t waste a cent. Every dollar would count. You&#x27;d plan. You&#x27;d make sure that every penny was used wisely because you know there&#x27;s no way to get it back. Well, guess what? That&#x27;s exactly how much time you have each day. Eight, six, four, zero, zero seconds. Every single day and what you don&#x27;t use, what you don&#x27;t put to good use, it&#x27;s gone. And you&#x27;ll never get those seconds back. Now, think about how you spend your time. Think about how many moments slip away without you even realizing it. Think about the hours you waste scrolling through your phone, binge-watching TV shows, or just procrastinating thinking that you&#x27;ve got all the time in the world. But let me tell you something. There&#x27;s no more time coming. Tomorrow isn&#x27;t promised. You don&#x27;t have the luxury of knowing what the future holds.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-003521">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:35:21 - 00:40:22</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>The time you have right now is all you can count on. And if you waste it, it&#x27;s gone, just like that. So why do we keep putting things off? Why do we keep saying, I&#x27;ll do it tomorrow, or I&#x27;ll start next week, or someday I&#x27;ll make it happen? Every time you say someday, you&#x27;re giving away precious seconds. Every time you procrastinate, every time you delay your dreams, you&#x27;re wasting time that you&#x27;ll never get back. And that time, once it&#x27;s gone, it&#x27;s gone. It&#x27;s not coming back. We all have the same 24 hours in a day. It doesn&#x27;t matter who you are, where you come from, or what your circumstances are. The successful people, the ones you look up to, they didn&#x27;t get where they are by wasting time. They didn&#x27;t sit around waiting for the perfect moment or for the stars to align. They took action. They understood that time doesn&#x27;t wait. They knew that every second counts. And because they understood the value of time, they made sure they didn&#x27;t waste a single one. They made every second count. They used every minute, every hour to work toward their goals, to push themselves to the next level. And that&#x27;s why they achieved what they did. You see, when you&#x27;re sitting there waiting for things to be just right, you&#x27;re not moving forward. When you&#x27;re procrastinating, you&#x27;re not getting closer to your dreams. You&#x27;re standing still. And the longer you stand still, the further you get from where you want to be. You have to stop waiting. Stop waiting for the perfect moment. Stop waiting for everything to fall into place. The time to act is now. The time to take that first step is now. The time to stop making excuses, stop putting things off and stop wasting time is right now. There are people out there who are taking action today. They&#x27;re not waiting for some miracle to happen. They&#x27;re not waiting for the stars to align. They&#x27;re moving even when it&#x27;s hard, even when it&#x27;s uncomfortable, even when they don&#x27;t have all the answers. They&#x27;re putting in the work because they know that time is their most precious asset. And they&#x27;re not going to let it slip through their fingers. Now, I want you to think about what you&#x27;re doing with your time. Think about what you&#x27;re waiting for. Are you sitting there thinking that you&#x27;ll start tomorrow, that you&#x27;ll get to it eventually? Are you telling yourself that someday things will be different? Because let me tell you, someday isn&#x27;t a day of the week. Tomorrow isn&#x27;t guaranteed. The only time you have is right now. So what are you going to do with it? You have dreams, you have goals, you have a vision for your future. But none of that matters if you&#x27;re not willing to act, if you&#x27;re not willing to move with urgency, if you&#x27;re not willing to put in the work now, to make the sacrifices now, to take the risks now, then your dreams will just remain dreams. They&#x27;ll never become your reality. Time will slip away and you&#x27;ll look back one day and realize that you wasted it. Don&#x27;t let that happen. Don&#x27;t let time slip away from you. You have eight, six, four, zero, zero seconds every single day. How will you use them? Will you waste them or will you make every second count? The choice is yours. The clock is ticking and it&#x27;s ticking for all of us. What are you gonna do with the time you have? The time is now. Stop procrastinating. Stop waiting for someday. Start today. Start right now. Time doesn&#x27;t wait for anyone, but if you use it wisely, it will work for you. If you&#x27;re sitting here listening to this right now, I need you to hear me loud and clear. This is your wake up call. This is the moment where you can choose to take action, to decide that you&#x27;re done living the way you&#x27;ve been living and to step up and make a change. Your life is shaped by your choices, your decisions, the actions you take, and the way you show up every single day. Your destiny isn&#x27;t some random occurrence. It&#x27;s a reflection of everything you&#x27;ve chosen to do up to this point. And if you don&#x27;t like where you are, if you&#x27;re not happy with the life you&#x27;re living, then change it. But let me be clear, change doesn&#x27;t just happen because you wish for it. Change doesn&#x27;t happen because you hope it will come someday. Change happens when you make the decision to do something about it. You&#x27;ve been given something right here, right now. You&#x27;ve been given nine principles. These principles are your blueprint. They are the tools you need to build the life you want. These aren&#x27;t just words. These aren&#x27;t just things you listen to and forget about the next day. These are actions waiting to be taken and you have the power to put them into motion. They&#x27;re here to guide you, to push you, to challenge you, but it&#x27;s on you to use them. It&#x27;s on you to take these words and make them real. Watch this every day. Let it sit with you. Let it simmer in your mind.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-004022">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:40:22 - 00:44:03</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>Let these words sink into your spirit. But more importantly, I want you to act on them. Don&#x27;t let this just be something that makes you feel good for a few minutes and then fades into the background of your life. Let this be the spark. Let this be the catalyst that ignites the fire inside you to go out and change your life. Because here&#x27;s the thing, if you don&#x27;t take control, if you don&#x27;t step up and own your life, then someone else will. Someone else will control your time. Someone else will control your actions. Someone else will control your destiny. And you&#x27;ll be left on the sidelines wondering why things aren&#x27;t going the way you wanted. But here&#x27;s the good news. You don&#x27;t have to let that happen. You don&#x27;t have to sit back and let life happen to you. You have the power to take the reins, to steer your life in the direction you want it to go. You have the ability to shape your future by the choices you make today. The question you have to ask yourself is this, will today be the day everything changes? Will today be the day you stop making excuses and start taking action? Will today be the day you take control of your life and make the choices that will move you forward? The answer, my friend, is entirely up to you. It&#x27;s in your hands. You have the power to decide what your life looks like. You have the power to decide who you become. But that power doesn&#x27;t come from wishing. It comes from action. It comes from making the decision to stop waiting and start doing. It comes from putting in the work, from showing up every single day, even when it&#x27;s hard. It comes from choosing to step out of your comfort zone and into the life you&#x27;ve always dreamed of. I know it&#x27;s not going to be easy. I know there will be days when you feel like giving up, days when it seems like the world is against you, days when you wonder if all the effort is worth it. But let me tell you something. Every single one of those days is a test. Every single one of those days is an opportunity to prove to yourself that you&#x27;re capable of more. Every challenge, every setback, every moment of doubt is a chance to rise above it. And when you push through those moments, when you choose to keep going, you become stronger. You become more resilient. You become the person who refuses to let life beat them down. And that&#x27;s the person who gets to claim their success. That&#x27;s the person who gets to live the life they deserve. But none of that happens if you don&#x27;t take action. None of that happens if you don&#x27;t make the decision to change. So right now in this moment, I need you to decide. Decide that you&#x27;re done being stuck. Decide that you&#x27;re done playing small. Decide that today is the day everything changes. Because if you don&#x27;t make that decision, if you don&#x27;t take control of your life, then someone else will decide for you. And trust me, when that happens, it&#x27;s never in your favor. You&#x27;ve been given the principles. You&#x27;ve been given the tools. Now it&#x27;s up to you to take them and make them work for you. Don&#x27;t just sit back and wait for things to magically fall into place. Take control, take action. You have the power to change your life and you have the time to do it. Every day is a new opportunity. Every moment is a chance to move forward. The only question is, are you going to take it? So what&#x27;s it going to be? Are you gonna sit back and let life pass you by? Or are you gonna step up, take charge and make today the day everything changes? The choice is yours. The power is in your hands. Take it.</p>
+          </div>
+        </section>
+        
+        </div>
+      </article>
+    </main>
+  </div>
+
+  <!-- Floating Tools -->
+  <div class="floating-tools">
+    <button class="float-btn" id="scroll-top-btn" title="回到頂部">▲</button>
+  </div>
+
+  <script>
+    // --- Preferences & Theme Logic ---
+    const themes = ['light', 'sepia', 'dark'];
+    const themeNames = {'light': '☀️ 明亮', 'sepia': '📜 護眼', 'dark': '🌙 暗黑'};
+    let currentThemeIdx = themes.indexOf(localStorage.getItem('reader-theme') || 'light');
+    if (currentThemeIdx === -1) currentThemeIdx = 0;
+
+    function applyTheme(theme) {
+      document.documentElement.setAttribute('data-theme', theme);
+      localStorage.setItem('reader-theme', theme);
+      const span = document.querySelector('#theme-btn span');
+      if (span) span.textContent = themeNames[theme].split(' ')[1];
+    }
+    applyTheme(themes[currentThemeIdx]);
+
+    document.getElementById('theme-btn').addEventListener('click', () => {
+      currentThemeIdx = (currentThemeIdx + 1) % themes.length;
+      applyTheme(themes[currentThemeIdx]);
+    });
+
+    // --- Font Family Toggle ---
+    let isSerif = localStorage.getItem('reader-serif') === 'true';
+    function applyFontFamily(serif) {
+      document.documentElement.style.setProperty('--font-family', serif ? 'var(--font-serif)' : 'var(--font-body)');
+      localStorage.setItem('reader-serif', serif);
+    }
+    applyFontFamily(isSerif);
+    document.getElementById('font-family-btn').addEventListener('click', () => {
+      isSerif = !isSerif;
+      applyFontFamily(isSerif);
+    });
+
+    // --- Font Size Adjustment ---
+    let currentFontSize = parseInt(localStorage.getItem('reader-font-size') || '18', 10);
+    function applyFontSize(size) {
+      size = Math.max(14, Math.min(26, size));
+      currentFontSize = size;
+      document.documentElement.style.setProperty('--font-size', size + 'px');
+      localStorage.setItem('reader-font-size', size);
+    }
+    applyFontSize(currentFontSize);
+
+    document.getElementById('font-dec-btn').addEventListener('click', () => applyFontSize(currentFontSize - 1));
+    document.getElementById('font-inc-btn').addEventListener('click', () => applyFontSize(currentFontSize + 1));
+
+    // --- Sidebar Drawer & Backdrop ---
+    const sidebar = document.getElementById('sidebar');
+    const backdrop = document.getElementById('backdrop');
+    const toggleSidebarBtn = document.getElementById('toggle-sidebar-btn');
+
+    function toggleSidebar() {
+      const isOpen = sidebar.classList.toggle('open');
+      backdrop.classList.toggle('open', isOpen);
+    }
+
+    toggleSidebarBtn.addEventListener('click', toggleSidebar);
+    backdrop.addEventListener('click', () => {
+      sidebar.classList.remove('open');
+      backdrop.classList.remove('open');
+    });
+
+    // Close sidebar on item click (mobile)
+    document.querySelectorAll('.toc-item a').forEach(link => {
+      link.addEventListener('click', () => {
+        if (window.innerWidth <= 992) {
+          sidebar.classList.remove('open');
+          backdrop.classList.remove('open');
+        }
+      });
+    });
+
+    // --- TOC Search Filter ---
+    const tocFilter = document.getElementById('toc-filter');
+    const tocItems = document.querySelectorAll('.toc-item');
+    tocFilter.addEventListener('input', (e) => {
+      const q = e.target.value.toLowerCase().trim();
+      tocItems.forEach(item => {
+        const text = item.textContent.toLowerCase();
+        item.style.display = text.includes(q) ? '' : 'none';
+      });
+    });
+
+    // --- Reading Progress & Scroll Spy ---
+    const progressBar = document.getElementById('progress-bar');
+    const sections = Array.from(document.querySelectorAll('.transcript-section'));
+    const tocLinkMap = new Map();
+    document.querySelectorAll('.toc-item a').forEach(a => {
+      const href = a.getAttribute('href');
+      if (href && href.startsWith('#')) {
+        tocLinkMap.set(href.slice(1), a.parentElement);
+      }
+    });
+
+    window.addEventListener('scroll', () => {
+      const winScroll = document.documentElement.scrollTop;
+      const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+      const scrolled = height > 0 ? (winScroll / height) * 100 : 0;
+      progressBar.style.width = scrolled + '%';
+
+      // Scroll spy: find current section
+      let currentSectionId = '';
+      for (const sec of sections) {
+        const rect = sec.getBoundingClientRect();
+        if (rect.top <= 120) {
+          currentSectionId = sec.id;
+        } else {
+          break;
+        }
+      }
+
+      if (currentSectionId) {
+        document.querySelectorAll('.toc-item.active').forEach(el => el.classList.remove('active'));
+        const activeItem = tocLinkMap.get(currentSectionId);
+        if (activeItem) {
+          activeItem.classList.add('active');
+        }
+      }
+    }, { passive: true });
+
+    // --- Scroll Top Button ---
+    document.getElementById('scroll-top-btn').addEventListener('click', () => {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  </script>
+</body>
+</html>

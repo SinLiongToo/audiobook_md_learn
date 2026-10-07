@@ -1,0 +1,649 @@
+<!DOCTYPE html>
+<html lang="zh-Hant" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>How Will You Measure Your Life_ Clay Christensen at TEDxBoston - 有聲書學習電子書</title>
+  <style>
+    :root {
+      --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif;
+      --font-serif: "Iansui", "芫荽", Georgia, "Songti TC", "Noto Serif TC", serif;
+      --font-family: var(--font-body);
+      --font-size: 18px;
+      --line-height: 1.85;
+      --content-max-width: 820px;
+      --sidebar-width: 320px;
+      --bg-primary: #fcfcfd;
+      --bg-surface: #ffffff;
+      --bg-sidebar: #f8f9fa;
+      --bg-header: rgba(255, 255, 255, 0.92);
+      --text-primary: #1f2328;
+      --text-secondary: #57606a;
+      --text-muted: #8c959f;
+      --border-color: #e1e4e8;
+      --accent-color: #2563eb;
+      --accent-hover: #1d4ed8;
+      --accent-light: #eff6ff;
+      --badge-bg: #e0f2fe;
+      --badge-text: #0369a1;
+      --card-shadow: 0 1px 3px rgba(0, 0, 0, 0.05), 0 1px 2px rgba(0, 0, 0, 0.03);
+    }
+
+    [data-theme="sepia"] {
+      --bg-primary: #fbf0d9;
+      --bg-surface: #f4e8cf;
+      --bg-sidebar: #efe3c7;
+      --bg-header: rgba(244, 232, 207, 0.94);
+      --text-primary: #433422;
+      --text-secondary: #6e583f;
+      --text-muted: #957d60;
+      --border-color: #e3d3b4;
+      --accent-color: #92400e;
+      --accent-hover: #78350f;
+      --accent-light: #fbeacf;
+      --badge-bg: #ead8b8;
+      --badge-text: #6b4012;
+      --card-shadow: 0 1px 3px rgba(67, 52, 34, 0.08);
+    }
+
+    [data-theme="dark"] {
+      --bg-primary: #0f172a;
+      --bg-surface: #1e293b;
+      --bg-sidebar: #131c31;
+      --bg-header: rgba(30, 41, 59, 0.92);
+      --text-primary: #f1f5f9;
+      --text-secondary: #94a3b8;
+      --text-muted: #64748b;
+      --border-color: #334155;
+      --accent-color: #38bdf8;
+      --accent-hover: #7dd3fc;
+      --accent-light: #1e3a5f;
+      --badge-bg: #1e293b;
+      --badge-text: #38bdf8;
+      --card-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: var(--font-family);
+      font-size: var(--font-size);
+      line-height: var(--line-height);
+      color: var(--text-primary);
+      background-color: var(--bg-primary);
+      transition: background-color 0.25s ease, color 0.25s ease;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* Top Reading Progress Bar */
+    #progress-bar {
+      position: fixed;
+      top: 0;
+      left: 0;
+      height: 3px;
+      background: linear-gradient(90deg, var(--accent-color), #818cf8);
+      width: 0%;
+      z-index: 1000;
+      transition: width 0.1s linear;
+    }
+
+    /* Top Navigation Header */
+    .top-header {
+      position: sticky;
+      top: 0;
+      z-index: 900;
+      height: 60px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 20px;
+      background-color: var(--bg-header);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      border-bottom: 1px solid var(--border-color);
+    }
+
+    .header-left, .header-right {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .btn-icon {
+      background: none;
+      border: 1px solid var(--border-color);
+      color: var(--text-primary);
+      cursor: pointer;
+      font-size: 15px;
+      padding: 6px 12px;
+      border-radius: 8px;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.2s;
+    }
+    .btn-icon:hover {
+      background-color: var(--accent-light);
+      border-color: var(--accent-color);
+      color: var(--accent-color);
+    }
+
+    .home-link {
+      text-decoration: none;
+      color: var(--text-primary);
+      font-weight: 600;
+      font-size: 15px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .home-link:hover {
+      color: var(--accent-color);
+    }
+
+    /* Layout Wrapper */
+    .layout {
+      display: flex;
+      flex: 1;
+      width: 100%;
+      position: relative;
+    }
+
+    /* Sidebar / TOC */
+    .sidebar {
+      width: var(--sidebar-width);
+      position: sticky;
+      top: 60px;
+      height: calc(100vh - 60px);
+      background-color: var(--bg-sidebar);
+      border-right: 1px solid var(--border-color);
+      overflow-y: auto;
+      padding: 20px 16px;
+      flex-shrink: 0;
+      transition: transform 0.3s ease;
+    }
+
+    .sidebar-title {
+      font-size: 14px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      color: var(--text-secondary);
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .toc-search {
+      width: 100%;
+      padding: 8px 12px;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      background: var(--bg-surface);
+      color: var(--text-primary);
+      font-size: 13px;
+      margin-bottom: 14px;
+    }
+    .toc-search:focus {
+      outline: 2px solid var(--accent-color);
+    }
+
+    .toc-list {
+      list-style: none;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 3px;
+    }
+
+    .toc-item a {
+      display: block;
+      padding: 7px 10px;
+      border-radius: 6px;
+      color: var(--text-secondary);
+      text-decoration: none;
+      font-size: 13.5px;
+      font-family: monospace;
+      transition: all 0.15s ease;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .toc-item a:hover {
+      background-color: var(--accent-light);
+      color: var(--accent-color);
+    }
+
+    .toc-item.active a {
+      background-color: var(--accent-color);
+      color: #ffffff;
+      font-weight: 600;
+    }
+
+    /* Main Reader Content */
+    .main-content {
+      flex: 1;
+      min-width: 0;
+      padding: 40px 24px 80px 24px;
+      display: flex;
+      justify-content: center;
+    }
+
+    .reader-container {
+      width: 100%;
+      max-width: var(--content-max-width);
+    }
+
+    /* Book Hero / Header */
+    .book-hero {
+      margin-bottom: 40px;
+      padding-bottom: 24px;
+      border-bottom: 2px solid var(--border-color);
+    }
+
+    .book-hero h1 {
+      font-size: 2.1em;
+      line-height: 1.3;
+      margin-bottom: 16px;
+      color: var(--text-primary);
+      font-weight: 800;
+    }
+
+    .book-meta-chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 14px;
+    }
+
+    .meta-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 5px 12px;
+      border-radius: 20px;
+      background-color: var(--badge-bg);
+      color: var(--badge-text);
+      font-size: 13px;
+      font-weight: 500;
+    }
+
+    /* Content Typography */
+    .transcript-section {
+      margin-bottom: 44px;
+      scroll-margin-top: 80px;
+      padding-top: 10px;
+    }
+
+    .section-header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 16px;
+      padding: 8px 12px;
+      border-radius: 8px;
+      background-color: var(--bg-surface);
+      border-left: 4px solid var(--accent-color);
+      box-shadow: var(--card-shadow);
+    }
+
+    .section-time {
+      font-size: 1.1em;
+      font-weight: 700;
+      color: var(--accent-color);
+      font-family: monospace;
+    }
+
+    .section-badge {
+      font-size: 12px;
+      color: var(--text-muted);
+    }
+
+    .section-body {
+      text-align: justify;
+      hyphens: auto;
+    }
+
+    .section-body p {
+      margin-bottom: 1.25em;
+      text-indent: 1.75em;
+      letter-spacing: 0.01em;
+    }
+
+    /* Floating Navigation Controls */
+    .floating-tools {
+      position: fixed;
+      bottom: 24px;
+      right: 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      z-index: 800;
+    }
+
+    .float-btn {
+      width: 44px;
+      height: 44px;
+      border-radius: 50%;
+      background-color: var(--bg-surface);
+      color: var(--text-primary);
+      border: 1px solid var(--border-color);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 18px;
+      transition: transform 0.2s, background-color 0.2s;
+    }
+    .float-btn:hover {
+      transform: translateY(-2px);
+      background-color: var(--accent-light);
+      color: var(--accent-color);
+    }
+
+    /* Overlay for mobile drawer */
+    .backdrop {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.4);
+      z-index: 850;
+    }
+
+    /* Responsive */
+    @media (max-width: 992px) {
+      .sidebar {
+        position: fixed;
+        left: 0;
+        top: 60px;
+        bottom: 0;
+        z-index: 860;
+        transform: translateX(-100%);
+        box-shadow: 4px 0 16px rgba(0,0,0,0.15);
+      }
+
+      .sidebar.open {
+        transform: translateX(0);
+      }
+
+      .backdrop.open {
+        display: block;
+      }
+    }
+
+    @media (max-width: 640px) {
+      :root {
+        --font-size: 17px;
+      }
+      .main-content {
+        padding: 24px 16px 60px 16px;
+      }
+      .book-hero h1 {
+        font-size: 1.6em;
+      }
+      .top-header {
+        padding: 0 12px;
+      }
+      .section-body p {
+        text-indent: 1.2em;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div id="progress-bar"></div>
+
+  <!-- Top Navigation -->
+  <header class="top-header">
+    <div class="header-left">
+      <button class="btn-icon" id="toggle-sidebar-btn" title="切換目錄">
+        📑 目錄
+      </button>
+      <a href="index.html" class="home-link" title="返回書架">
+        🏠 書架
+      </a>
+    </div>
+
+    <div class="header-right">
+      <!-- Theme Switcher -->
+      <button class="btn-icon" id="theme-btn" title="切換閱讀模式 (明亮/羊皮紙/暗黑)">
+        🎨 <span>外觀</span>
+      </button>
+
+      <!-- Font Style Switcher -->
+      <button class="btn-icon" id="font-family-btn" title="切換黑體/明體">
+        🔤
+      </button>
+
+      <!-- Font Size Adjuster -->
+      <button class="btn-icon" id="font-dec-btn" title="縮小字級">A-</button>
+      <button class="btn-icon" id="font-inc-btn" title="放大字級">A+</button>
+    </div>
+  </header>
+
+  <div class="backdrop" id="backdrop"></div>
+
+  <div class="layout">
+    <!-- Sidebar / TOC -->
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-title">
+        <span>章節目錄</span>
+        <span style="font-size: 12px; font-weight: normal;">共 4 節</span>
+      </div>
+      <input type="text" id="toc-filter" class="toc-search" placeholder="搜尋章節時間...">
+      <ul class="toc-list" id="toc-list">
+        <li class="toc-item"><a href="#sec-000000">⏱️ 00:00:00 - 00:05:05</a></li>
+<li class="toc-item"><a href="#sec-000505">⏱️ 00:05:05 - 00:10:06</a></li>
+<li class="toc-item"><a href="#sec-001006">⏱️ 00:10:06 - 00:15:11</a></li>
+<li class="toc-item"><a href="#sec-001511">⏱️ 00:15:11 - 00:19:30</a></li>
+      </ul>
+    </aside>
+
+    <!-- Main Content Reader -->
+    <main class="main-content">
+      <article class="reader-container">
+        <header class="book-hero">
+          <h1>How Will You Measure Your Life_ Clay Christensen at TEDxBoston</h1>
+          <div class="book-meta-chips">
+            <span class="meta-chip">🏷️ 時長：00:19:30</span>
+<span class="meta-chip">🏷️ 模型：small.en</span>
+<span class="meta-chip">🏷️ 日期：2026-09-22</span>
+          </div>
+        </header>
+
+        <!-- Transcript Content -->
+        <div class="book-body">
+          
+        <section class="transcript-section" id="sec-000000">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:00:00 - 00:05:05</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>Well, thank you very much. The world is, in many ways, organized in a nested system. And so we have nations. Within those we have industries. Within industries we have corporations. Within those we have business units. Within those we have teams. Within the teams we have people. And within our people we have brains. And we&#x27;re nested. It turns out that, as I have, and my colleagues have tried to understand how business works, we&#x27;ve developed a set of theories. And when I say a theory, what I mean is a statement of causality. An understanding of what causes what and why. And some of you know some of the theories. Disruption is a theory. And what it asserts is that the mechanism that causes successful companies to fall is not that they&#x27;re not at their work, but rather somebody comes in at the bottom of the market and moves up. And that&#x27;s the mechanism, the pursuit of profit at the bottom of the market that makes success so hard to sustain. There&#x27;s another theory called the theory of the preservation of modularity. And the theory of the preservation of modularity explains, among other things, why the euro doesn&#x27;t work. And why SAP implementation systems are so difficult and complicated. And there&#x27;s another theory called jobs to be done. And what it asserts is that, you know, here&#x27;s clay. I have characteristics. I, unfortunately, am 60 years old now. I live in the suburbs. Five children, unfortunately, have all left and are living independently. And life has become boring. But the fact that I have those characteristics doesn&#x27;t cause me to go out and buy the New York Times. There might be a correlation between my characteristics and the propensity to buy the New York Times, but the characteristics don&#x27;t cause me to do anything. What causes us to do something is there&#x27;s a job that arises in our life, and we have to get the job done. And what causes us to buy a product or service is we have to reach out and find something that can do the job and pull it into our lives. And that&#x27;s the causal mechanism behind a purchase, is understanding what&#x27;s the job. And the insight there is that the customer&#x27;s the wrong unit of analysis. It&#x27;s the job that we need to understand. So these are all theories, and some of you know those and a number of others from our research. What we have learned, and inadvertently in many ways, is that these statements of causality apply at every stage in this nested system. And so the theories help us understand why nations lose their competitiveness. Why Japan was so successful and then died, for example. And why America finds it so hard to regain our momentum. And that goes all the way down to the point of teams. Well a number of years ago in my course at the Harvard Business School. In this course we study these theories, try to understand them, then put these theories on like a set of lenses and examine companies or economies or industries and try to understand can we understand why things are happening the way they&#x27;re happening and what actions would lead what results. At the end of the course on the last day, rather than asking them to just put on these lenses and examine yet another company, I ask them to look in the mirror and ask them, can you explain why your life is the way it is today because of these theories?</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-000505">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:05:05 - 00:10:06</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>And can you predict what will happen in your life if you continue to do what you are now doing? And it&#x27;s been a remarkable experience to see the students come back on the last day of class and with causal theories is the explanation what they need to change in their lives so that their life will be the life that they hope to live. And I thought I&#x27;d just offer a couple of these in the hopes that as entrepreneurs and ambitious people you end up living the life that you hope you will live. So one of the things we observed as I mentioned is that what kills successful companies is somebody comes in at the bottom of the market. So if you go back a few years ago in telecommunications, the darlings of the industry were loosened and Nortel made circuit switching technology and this rusty little or small company, not very consequential called Cisco, emerged. And their technology, the router, wasn&#x27;t good enough to be used in voice, but they deployed it at the bottom of the market with data and then went up market and ultimately killed Lucent and Nortel. And the reason why is that when they looked down at a router, the router on every dimension wasn&#x27;t as good. And so they kept making better and better circuit switch devices. And we ask ourselves, I wonder who decided at Lucent that they should go out and get killed? And when was the date on which they decided they would get killed? And the answer, of course, is that nobody made the decision. In fact, what happened is all the individual people in a very successful organization did everything right. But because they did all of these things independently and what made sense in those circumstances, when it summed up, it summed up to disaster. Well, the reason why it sums up to disaster is they&#x27;re trying to maximize their profitability. And typically, the way you calculate profitability, tomorrow&#x27;s investments that pay off tomorrow go to the bottom line and are much more tangible than investments that pay off 10 years from now. Well, when I go back to my graduating classes, I graduated from the MBA program at Harvard in 1979, we have a reunion every five years. When we came back for our fifth reunion, man, everybody was happy. Most of our classmates had married people who were much better looking than my classmates. They&#x27;re doing well in their career. But as we hit the 10th and 15th and 20th and then the 25th anniversaries, oh my gosh, my friends were coming back not happy with their lives. And very many of them had gotten divorced and their spouses had remarried and they were raising my classmates&#x27; children on the other side of the country, alienated from them. And I guarantee that none of my classmates ever planned when they graduated from the business school to go out and get divorced and have children who hate their guts and are being raised by other children. And yet a very large portion of my classmates actually implemented a strategy that they never planned to do. And it turns out that the reason why they do that is the very same mechanism. And that is the pursuit of achievement. So we all, everybody here is driven to achieve. And when you have an extra ounce of energy or 30 minutes of time instinctively and unconsciously, you&#x27;ll allocate it to whatever activities in your life give you the most immediate evidence of achievement. And our careers provide that immediate evidence of achievement. We close a sale, we ship a product, we finish a presentation, we close a deal, we get promoted, we get paid. And our careers provide the most very tangible immediate achievement. In contrast, investments in our families don&#x27;t pay off for a very long time.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-001006">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:10:06 - 00:15:11</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>In fact on a day-to-day basis our children misbehave over and over again. And it really isn&#x27;t until 20 years down the road that you can look at your children and be able to put your hands on your hips and say we raise great children. But on a day-to-day basis achievement doesn&#x27;t at hand when we invest in relationships with our family, with our children and our spouses. And as a consequence people like you and I who plan to have a happy life because our families truly are the deepest source of happiness in our lives find that although that&#x27;s what we want, the way we invest our time and energy and talents causes us to implement a strategy that we wouldn&#x27;t at all plan to pursue. And so I wanted to just offer that one as something to think about. The reason why successful companies fail is they invest in things that provide the most immediate and tangible evidence of achievement. And the reason why they have such a short time horizon is that they are run by people like you and I. And we then apply that very same thinking process in our personal lives with sad results. Let me just offer another thought that might be useful. I was driving to work a number of years ago early and when I was on Huron Avenue in Cambridge I just had a feeling that something important was going to happen to Clay Christensen and I was going to be given a much more consequential business opportunity than I have just as a plain old professor. And a couple of weeks later somebody who was in that position announced that he was leaving and I put two and two together and decided, gosh, it sounds like for whatever reason I just had this feeling that I&#x27;m going to be his replacement. So the day came and they chose another person. And I wondered why did I have that feeling that an important thing was going to happen to me? Did the people kind of lose guts or I don&#x27;t know. But I wrestled with how will they measure Clay Christensen&#x27;s life, you know, if they&#x27;re going to not make me the leader of a large institution, how do I know whether my life has been worth living and again how will I measure my life? And I realized that I studied this for a long time and I reached the strangest conclusion that God doesn&#x27;t employ accountants or statisticians. And what I mean by that is because you and I have finite minds. When we try to understand what&#x27;s going on in the world we have to aggregate things. So in your companies you can&#x27;t keep track of every individual invoice and so you have to aggregate all those up so that you have receivables and payables and revenues and you can&#x27;t keep track of every element of cost and so you have to aggregate all that up into total cost categories and then you subtract that from this and there&#x27;s a number. And that&#x27;s the way we try to understand the world is because we have limited minds. We have to aggregate things up. And then we&#x27;ll look at that number compared to last year&#x27;s number and if it&#x27;s better then we say we&#x27;re doing better. And that&#x27;s the way we look at the world because of our minds. And it has then another interesting effect on us and that is because we have to aggregate we get a sense of hierarchy in the world. In other words people who are higher up in larger organizations are more important than people who preside over fewer numbers of people and fewer numbers down the bottom. And so we tend to get this sense that people who achieve. in a hierarchical sense, their lives will be judged somehow as better, having lived, than those below.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-001511">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:15:11 - 00:19:30</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>And we measure sometimes how high we go or how successful we are by how much money we make. But these are all the result of our having limited minds and they&#x27;re having to aggregate measures of success. And this choice of measurement is actually a big deal. In a company, for example, if you measure profitability by return on net assets, that&#x27;s a ratio. And sure, you could be innovative, develop successful new products, and take that profitability and stick it into the numerator of the ratio. But you could also reduce the denominator of the ratio by outsourcing everything. And the ratio doesn&#x27;t matter whether you build it from the top or subtract from the bottom. If profitability is measured by return on net assets, it causes us to manage it in a particular way. And in a similar way, if we follow our professors&#x27; advices from finance and we measure profitability on innovation in terms of internal rate of return, or IRR, it&#x27;s a ratio. And sure, you could get the ratio up by being successful with innovation, but you also could get that measure up by only investing in short-term projects. And it&#x27;s just a long way of saying, be careful in how you measure success profitability in your company. So how do you measure the success of your life? And as I mentioned, it&#x27;s because we have to aggregate, we have this sense of hierarchy, wealth, and so on. But the reason I concluded that God doesn&#x27;t employ accountants is he has an infinite mind. And what that means, he doesn&#x27;t have to aggregate up above the level of individual people in order to have a perfect understanding of what&#x27;s going on in this world. And when I realized that, that he doesn&#x27;t have to aggregate up above the level of individuals, then I realized, oh my goodness, when I have my interview with God at the end of my life, he&#x27;s not going to ask to show me how high I went into anybody&#x27;s org chart, or how much money I left behind in the bank when I died. But rather he&#x27;s going to say, oh Clay, I put you in that circumstance. Now can we talk about the individual people whose lives you helped to become better people because you worked with them, or they were members of your family, or you just met them and they needed your help. And then Clay, I stuck you in this situation. Now let&#x27;s talk about the individual people whose lives you blessed because you used the talents I gave you to help them. And I realized that that&#x27;s the way God will measure my life, is the individual people whose lives I blessed. And I just want to offer that as the second takeaway from at least what Clay Christensen is thinking about. And that is, it&#x27;s actually really important that you succeed at what you&#x27;re succeeding at, but that isn&#x27;t going to be the measure of your life. God doesn&#x27;t count. He doesn&#x27;t aggregate. And he&#x27;s just going to assess you on the basis of how well you helped other people be better people. Well, God bless you. I hope that some of these ideas will be helpful to you, and that you will be successful in the way that God will measure success. Thank you.</p>
+          </div>
+        </section>
+        
+        </div>
+      </article>
+    </main>
+  </div>
+
+  <!-- Floating Tools -->
+  <div class="floating-tools">
+    <button class="float-btn" id="scroll-top-btn" title="回到頂部">▲</button>
+  </div>
+
+  <script>
+    // --- Preferences & Theme Logic ---
+    const themes = ['light', 'sepia', 'dark'];
+    const themeNames = {'light': '☀️ 明亮', 'sepia': '📜 護眼', 'dark': '🌙 暗黑'};
+    let currentThemeIdx = themes.indexOf(localStorage.getItem('reader-theme') || 'light');
+    if (currentThemeIdx === -1) currentThemeIdx = 0;
+
+    function applyTheme(theme) {
+      document.documentElement.setAttribute('data-theme', theme);
+      localStorage.setItem('reader-theme', theme);
+      const span = document.querySelector('#theme-btn span');
+      if (span) span.textContent = themeNames[theme].split(' ')[1];
+    }
+    applyTheme(themes[currentThemeIdx]);
+
+    document.getElementById('theme-btn').addEventListener('click', () => {
+      currentThemeIdx = (currentThemeIdx + 1) % themes.length;
+      applyTheme(themes[currentThemeIdx]);
+    });
+
+    // --- Font Family Toggle ---
+    let isSerif = localStorage.getItem('reader-serif') === 'true';
+    function applyFontFamily(serif) {
+      document.documentElement.style.setProperty('--font-family', serif ? 'var(--font-serif)' : 'var(--font-body)');
+      localStorage.setItem('reader-serif', serif);
+    }
+    applyFontFamily(isSerif);
+    document.getElementById('font-family-btn').addEventListener('click', () => {
+      isSerif = !isSerif;
+      applyFontFamily(isSerif);
+    });
+
+    // --- Font Size Adjustment ---
+    let currentFontSize = parseInt(localStorage.getItem('reader-font-size') || '18', 10);
+    function applyFontSize(size) {
+      size = Math.max(14, Math.min(26, size));
+      currentFontSize = size;
+      document.documentElement.style.setProperty('--font-size', size + 'px');
+      localStorage.setItem('reader-font-size', size);
+    }
+    applyFontSize(currentFontSize);
+
+    document.getElementById('font-dec-btn').addEventListener('click', () => applyFontSize(currentFontSize - 1));
+    document.getElementById('font-inc-btn').addEventListener('click', () => applyFontSize(currentFontSize + 1));
+
+    // --- Sidebar Drawer & Backdrop ---
+    const sidebar = document.getElementById('sidebar');
+    const backdrop = document.getElementById('backdrop');
+    const toggleSidebarBtn = document.getElementById('toggle-sidebar-btn');
+
+    function toggleSidebar() {
+      const isOpen = sidebar.classList.toggle('open');
+      backdrop.classList.toggle('open', isOpen);
+    }
+
+    toggleSidebarBtn.addEventListener('click', toggleSidebar);
+    backdrop.addEventListener('click', () => {
+      sidebar.classList.remove('open');
+      backdrop.classList.remove('open');
+    });
+
+    // Close sidebar on item click (mobile)
+    document.querySelectorAll('.toc-item a').forEach(link => {
+      link.addEventListener('click', () => {
+        if (window.innerWidth <= 992) {
+          sidebar.classList.remove('open');
+          backdrop.classList.remove('open');
+        }
+      });
+    });
+
+    // --- TOC Search Filter ---
+    const tocFilter = document.getElementById('toc-filter');
+    const tocItems = document.querySelectorAll('.toc-item');
+    tocFilter.addEventListener('input', (e) => {
+      const q = e.target.value.toLowerCase().trim();
+      tocItems.forEach(item => {
+        const text = item.textContent.toLowerCase();
+        item.style.display = text.includes(q) ? '' : 'none';
+      });
+    });
+
+    // --- Reading Progress & Scroll Spy ---
+    const progressBar = document.getElementById('progress-bar');
+    const sections = Array.from(document.querySelectorAll('.transcript-section'));
+    const tocLinkMap = new Map();
+    document.querySelectorAll('.toc-item a').forEach(a => {
+      const href = a.getAttribute('href');
+      if (href && href.startsWith('#')) {
+        tocLinkMap.set(href.slice(1), a.parentElement);
+      }
+    });
+
+    window.addEventListener('scroll', () => {
+      const winScroll = document.documentElement.scrollTop;
+      const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+      const scrolled = height > 0 ? (winScroll / height) * 100 : 0;
+      progressBar.style.width = scrolled + '%';
+
+      // Scroll spy: find current section
+      let currentSectionId = '';
+      for (const sec of sections) {
+        const rect = sec.getBoundingClientRect();
+        if (rect.top <= 120) {
+          currentSectionId = sec.id;
+        } else {
+          break;
+        }
+      }
+
+      if (currentSectionId) {
+        document.querySelectorAll('.toc-item.active').forEach(el => el.classList.remove('active'));
+        const activeItem = tocLinkMap.get(currentSectionId);
+        if (activeItem) {
+          activeItem.classList.add('active');
+        }
+      }
+    }, { passive: true });
+
+    // --- Scroll Top Button ---
+    document.getElementById('scroll-top-btn').addEventListener('click', () => {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  </script>
+</body>
+</html>

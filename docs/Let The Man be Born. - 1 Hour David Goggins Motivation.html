@@ -1,0 +1,745 @@
+<!DOCTYPE html>
+<html lang="zh-Hant" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Let The Man be Born. - 1 Hour David Goggins Motivation - 有聲書學習電子書</title>
+  <style>
+    :root {
+      --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif;
+      --font-serif: "Iansui", "芫荽", Georgia, "Songti TC", "Noto Serif TC", serif;
+      --font-family: var(--font-body);
+      --font-size: 18px;
+      --line-height: 1.85;
+      --content-max-width: 820px;
+      --sidebar-width: 320px;
+      --bg-primary: #fcfcfd;
+      --bg-surface: #ffffff;
+      --bg-sidebar: #f8f9fa;
+      --bg-header: rgba(255, 255, 255, 0.92);
+      --text-primary: #1f2328;
+      --text-secondary: #57606a;
+      --text-muted: #8c959f;
+      --border-color: #e1e4e8;
+      --accent-color: #2563eb;
+      --accent-hover: #1d4ed8;
+      --accent-light: #eff6ff;
+      --badge-bg: #e0f2fe;
+      --badge-text: #0369a1;
+      --card-shadow: 0 1px 3px rgba(0, 0, 0, 0.05), 0 1px 2px rgba(0, 0, 0, 0.03);
+    }
+
+    [data-theme="sepia"] {
+      --bg-primary: #fbf0d9;
+      --bg-surface: #f4e8cf;
+      --bg-sidebar: #efe3c7;
+      --bg-header: rgba(244, 232, 207, 0.94);
+      --text-primary: #433422;
+      --text-secondary: #6e583f;
+      --text-muted: #957d60;
+      --border-color: #e3d3b4;
+      --accent-color: #92400e;
+      --accent-hover: #78350f;
+      --accent-light: #fbeacf;
+      --badge-bg: #ead8b8;
+      --badge-text: #6b4012;
+      --card-shadow: 0 1px 3px rgba(67, 52, 34, 0.08);
+    }
+
+    [data-theme="dark"] {
+      --bg-primary: #0f172a;
+      --bg-surface: #1e293b;
+      --bg-sidebar: #131c31;
+      --bg-header: rgba(30, 41, 59, 0.92);
+      --text-primary: #f1f5f9;
+      --text-secondary: #94a3b8;
+      --text-muted: #64748b;
+      --border-color: #334155;
+      --accent-color: #38bdf8;
+      --accent-hover: #7dd3fc;
+      --accent-light: #1e3a5f;
+      --badge-bg: #1e293b;
+      --badge-text: #38bdf8;
+      --card-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: var(--font-family);
+      font-size: var(--font-size);
+      line-height: var(--line-height);
+      color: var(--text-primary);
+      background-color: var(--bg-primary);
+      transition: background-color 0.25s ease, color 0.25s ease;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* Top Reading Progress Bar */
+    #progress-bar {
+      position: fixed;
+      top: 0;
+      left: 0;
+      height: 3px;
+      background: linear-gradient(90deg, var(--accent-color), #818cf8);
+      width: 0%;
+      z-index: 1000;
+      transition: width 0.1s linear;
+    }
+
+    /* Top Navigation Header */
+    .top-header {
+      position: sticky;
+      top: 0;
+      z-index: 900;
+      height: 60px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 20px;
+      background-color: var(--bg-header);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      border-bottom: 1px solid var(--border-color);
+    }
+
+    .header-left, .header-right {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .btn-icon {
+      background: none;
+      border: 1px solid var(--border-color);
+      color: var(--text-primary);
+      cursor: pointer;
+      font-size: 15px;
+      padding: 6px 12px;
+      border-radius: 8px;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.2s;
+    }
+    .btn-icon:hover {
+      background-color: var(--accent-light);
+      border-color: var(--accent-color);
+      color: var(--accent-color);
+    }
+
+    .home-link {
+      text-decoration: none;
+      color: var(--text-primary);
+      font-weight: 600;
+      font-size: 15px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .home-link:hover {
+      color: var(--accent-color);
+    }
+
+    /* Layout Wrapper */
+    .layout {
+      display: flex;
+      flex: 1;
+      width: 100%;
+      position: relative;
+    }
+
+    /* Sidebar / TOC */
+    .sidebar {
+      width: var(--sidebar-width);
+      position: sticky;
+      top: 60px;
+      height: calc(100vh - 60px);
+      background-color: var(--bg-sidebar);
+      border-right: 1px solid var(--border-color);
+      overflow-y: auto;
+      padding: 20px 16px;
+      flex-shrink: 0;
+      transition: transform 0.3s ease;
+    }
+
+    .sidebar-title {
+      font-size: 14px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      color: var(--text-secondary);
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .toc-search {
+      width: 100%;
+      padding: 8px 12px;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      background: var(--bg-surface);
+      color: var(--text-primary);
+      font-size: 13px;
+      margin-bottom: 14px;
+    }
+    .toc-search:focus {
+      outline: 2px solid var(--accent-color);
+    }
+
+    .toc-list {
+      list-style: none;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 3px;
+    }
+
+    .toc-item a {
+      display: block;
+      padding: 7px 10px;
+      border-radius: 6px;
+      color: var(--text-secondary);
+      text-decoration: none;
+      font-size: 13.5px;
+      font-family: monospace;
+      transition: all 0.15s ease;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .toc-item a:hover {
+      background-color: var(--accent-light);
+      color: var(--accent-color);
+    }
+
+    .toc-item.active a {
+      background-color: var(--accent-color);
+      color: #ffffff;
+      font-weight: 600;
+    }
+
+    /* Main Reader Content */
+    .main-content {
+      flex: 1;
+      min-width: 0;
+      padding: 40px 24px 80px 24px;
+      display: flex;
+      justify-content: center;
+    }
+
+    .reader-container {
+      width: 100%;
+      max-width: var(--content-max-width);
+    }
+
+    /* Book Hero / Header */
+    .book-hero {
+      margin-bottom: 40px;
+      padding-bottom: 24px;
+      border-bottom: 2px solid var(--border-color);
+    }
+
+    .book-hero h1 {
+      font-size: 2.1em;
+      line-height: 1.3;
+      margin-bottom: 16px;
+      color: var(--text-primary);
+      font-weight: 800;
+    }
+
+    .book-meta-chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 14px;
+    }
+
+    .meta-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 5px 12px;
+      border-radius: 20px;
+      background-color: var(--badge-bg);
+      color: var(--badge-text);
+      font-size: 13px;
+      font-weight: 500;
+    }
+
+    /* Content Typography */
+    .transcript-section {
+      margin-bottom: 44px;
+      scroll-margin-top: 80px;
+      padding-top: 10px;
+    }
+
+    .section-header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 16px;
+      padding: 8px 12px;
+      border-radius: 8px;
+      background-color: var(--bg-surface);
+      border-left: 4px solid var(--accent-color);
+      box-shadow: var(--card-shadow);
+    }
+
+    .section-time {
+      font-size: 1.1em;
+      font-weight: 700;
+      color: var(--accent-color);
+      font-family: monospace;
+    }
+
+    .section-badge {
+      font-size: 12px;
+      color: var(--text-muted);
+    }
+
+    .section-body {
+      text-align: justify;
+      hyphens: auto;
+    }
+
+    .section-body p {
+      margin-bottom: 1.25em;
+      text-indent: 1.75em;
+      letter-spacing: 0.01em;
+    }
+
+    /* Floating Navigation Controls */
+    .floating-tools {
+      position: fixed;
+      bottom: 24px;
+      right: 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      z-index: 800;
+    }
+
+    .float-btn {
+      width: 44px;
+      height: 44px;
+      border-radius: 50%;
+      background-color: var(--bg-surface);
+      color: var(--text-primary);
+      border: 1px solid var(--border-color);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 18px;
+      transition: transform 0.2s, background-color 0.2s;
+    }
+    .float-btn:hover {
+      transform: translateY(-2px);
+      background-color: var(--accent-light);
+      color: var(--accent-color);
+    }
+
+    /* Overlay for mobile drawer */
+    .backdrop {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.4);
+      z-index: 850;
+    }
+
+    /* Responsive */
+    @media (max-width: 992px) {
+      .sidebar {
+        position: fixed;
+        left: 0;
+        top: 60px;
+        bottom: 0;
+        z-index: 860;
+        transform: translateX(-100%);
+        box-shadow: 4px 0 16px rgba(0,0,0,0.15);
+      }
+
+      .sidebar.open {
+        transform: translateX(0);
+      }
+
+      .backdrop.open {
+        display: block;
+      }
+    }
+
+    @media (max-width: 640px) {
+      :root {
+        --font-size: 17px;
+      }
+      .main-content {
+        padding: 24px 16px 60px 16px;
+      }
+      .book-hero h1 {
+        font-size: 1.6em;
+      }
+      .top-header {
+        padding: 0 12px;
+      }
+      .section-body p {
+        text-indent: 1.2em;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div id="progress-bar"></div>
+
+  <!-- Top Navigation -->
+  <header class="top-header">
+    <div class="header-left">
+      <button class="btn-icon" id="toggle-sidebar-btn" title="切換目錄">
+        📑 目錄
+      </button>
+      <a href="index.html" class="home-link" title="返回書架">
+        🏠 書架
+      </a>
+    </div>
+
+    <div class="header-right">
+      <!-- Theme Switcher -->
+      <button class="btn-icon" id="theme-btn" title="切換閱讀模式 (明亮/羊皮紙/暗黑)">
+        🎨 <span>外觀</span>
+      </button>
+
+      <!-- Font Style Switcher -->
+      <button class="btn-icon" id="font-family-btn" title="切換黑體/明體">
+        🔤
+      </button>
+
+      <!-- Font Size Adjuster -->
+      <button class="btn-icon" id="font-dec-btn" title="縮小字級">A-</button>
+      <button class="btn-icon" id="font-inc-btn" title="放大字級">A+</button>
+    </div>
+  </header>
+
+  <div class="backdrop" id="backdrop"></div>
+
+  <div class="layout">
+    <!-- Sidebar / TOC -->
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-title">
+        <span>章節目錄</span>
+        <span style="font-size: 12px; font-weight: normal;">共 12 節</span>
+      </div>
+      <input type="text" id="toc-filter" class="toc-search" placeholder="搜尋章節時間...">
+      <ul class="toc-list" id="toc-list">
+        <li class="toc-item"><a href="#sec-000000">⏱️ 00:00:00 - 00:05:04</a></li>
+<li class="toc-item"><a href="#sec-000504">⏱️ 00:05:04 - 00:10:04</a></li>
+<li class="toc-item"><a href="#sec-001004">⏱️ 00:10:04 - 00:15:05</a></li>
+<li class="toc-item"><a href="#sec-001505">⏱️ 00:15:05 - 00:20:06</a></li>
+<li class="toc-item"><a href="#sec-002006">⏱️ 00:20:06 - 00:25:07</a></li>
+<li class="toc-item"><a href="#sec-002507">⏱️ 00:25:07 - 00:30:11</a></li>
+<li class="toc-item"><a href="#sec-003011">⏱️ 00:30:11 - 00:35:11</a></li>
+<li class="toc-item"><a href="#sec-003511">⏱️ 00:35:11 - 00:40:15</a></li>
+<li class="toc-item"><a href="#sec-004015">⏱️ 00:40:15 - 00:45:17</a></li>
+<li class="toc-item"><a href="#sec-004517">⏱️ 00:45:17 - 00:50:17</a></li>
+<li class="toc-item"><a href="#sec-005017">⏱️ 00:50:17 - 00:55:17</a></li>
+<li class="toc-item"><a href="#sec-005517">⏱️ 00:55:17 - 00:57:25</a></li>
+      </ul>
+    </aside>
+
+    <!-- Main Content Reader -->
+    <main class="main-content">
+      <article class="reader-container">
+        <header class="book-hero">
+          <h1>Let The Man be Born. - 1 Hour David Goggins Motivation</h1>
+          <div class="book-meta-chips">
+            <span class="meta-chip">🏷️ 時長：00:57:25</span>
+<span class="meta-chip">🏷️ 模型：small.en</span>
+<span class="meta-chip">🏷️ 日期：2026-09-22</span>
+          </div>
+        </header>
+
+        <!-- Transcript Content -->
+        <div class="book-body">
+          
+        <section class="transcript-section" id="sec-000000">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:00:00 - 00:05:04</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>I didn&#x27;t go deep into the dungeon of my soul to say okay what is making you a quitter what is making you a weak man what is making you afraid and so that&#x27;s why I kept on quitting and going back to start or not knowing how to get through hard times and that&#x27;s why I was telling people I&#x27;m not a theorist I didn&#x27;t study like you know I didn&#x27;t study a book I literally put myself in a fire repeatedly like a sword you put a sword in a fire repeatedly and repeatedly if you keep on doing that you&#x27;re gonna get a nice sword and then keep on beating it you got to beat the shit out of it and that&#x27;s what I am I became that I said okay we can&#x27;t quit you got to figure out why you are this pussy why are you this pussy man what is wrong with you what&#x27;s going on here so I kept on putting the sword back in the deck on fire and I just beat it harder and I beat it harder before I knew I started realizing hmm all right man the brain is starting to get hard the brain is starting to get hard I&#x27;m no longer a theorist I&#x27;m now a practitioner I put it in hell I dissect it while it&#x27;s in hell can you can&#x27;t dissect anything in a normal environment you can&#x27;t dissect anything in 72 degree weather you must put it in the freezer and freeze the fuck out of it and then you dissect it dissecting when it&#x27;s miserable dissect the brain with all this thinking about I need to get out of here man I want to get out of the freezer open the door and he said nah five more seconds man five more seconds in the freezer and that&#x27;s me start to pick that brain apart and that&#x27;s what all this stuff digging me I kept on putting myself back into the freezer or the fire and beating the shit out of myself mentally and physically before I knew it this is what happened I became obsessed with being the baddest motherfucker that God ever created in my back I don&#x27;t care I believe it and I was trying to tell him once you become obsessed with something obsessed it&#x27;s okay to be unbalanced for a while it&#x27;s okay don&#x27;t be all this stuff people say you got to be balanced to be the best in the world at what you do it&#x27;s not about being a Navy SEAL people the best at what you do you have to be unbalanced to find every bit of energy and strength that you have to pull it off then you get balanced once you become great and then you help other people become better from you being the best in the world so if your family doesn&#x27;t understand why are you so that gone crazy because I&#x27;m trying to be the best I can to give you the best that I am and it takes being obsessed to where people think you&#x27;re crazy people look at me so my god you&#x27;re a masochist you&#x27;re this and that I&#x27;m gonna get into how bad I was and all these races and still training I had 21 stretch fractures going through hell with 21 stretch fractures you know I did I take my ankles up roger that I want to be a seal so I did it become obsessed with being great it changes everything everything I do in life it sucks everything I do in life it sucks that&#x27;s why when I was 200 pounds is 24 years old it one like has some big opinion let&#x27;s just go be a Navy SEAL let&#x27;s lose some weight no I knew my entire life was gonna be a struggle this is why I just ignored it I said I&#x27;m not even trying to jump off into this and learn how to read how to write how to memorize how to become something I am not but through that process something happened and I realized this why I feel sorry for no one in this podcast they&#x27;re gonna really not like me because people are gonna think that I am maybe lying or maybe fibbing or exaggerating no I am literally I was the lowest form on earth no talent no ability to learn and I literally know when this rock bottom and to build that up so that question about learning the pain in my eye and I don&#x27;t have to do it I don&#x27;t have to do anything so I thought about when I was growing up is I can&#x27;t wait to one day get to the point where I no longer have to do this stuff what happens I got older it became a way of living so how I do every day is how I do every day it&#x27;s a it&#x27;s a discipline it&#x27;s a regimen they said it said it was a choice I made and the choice I made was what are you willing to sacrifice and what are you willing to give up to find every bit of who you are as a human being and I was willing to give everything to do that there&#x27;s so many times in life you don&#x27;t want to be doing what you&#x27;re doing you</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-000504">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:05:04 - 00:10:04</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>can&#x27;t just quit remember this it&#x27;s in the hobby it&#x27;s in the joke it&#x27;s a lifestyle so what you say to yourself is important there&#x27;s no coach there&#x27;s no training to keep you going it&#x27;s only you so think about this you work in your whole life to get up and see the table to see the table is gonna be the best amongst all the best people in your career field so you finally get that letter it&#x27;s steak lobster it&#x27;s a big dinner everybody&#x27;s showing up dressed to the nines make sure you saw soaking wet getting after it working out hard you respect the event so make sure you put that towel or that nice chair the whole thing is this don&#x27;t say a word stay on counter most uncommon people you&#x27;re never done don&#x27;t stop when you&#x27;re tired stop when you&#x27;re done stay home nothing is nothing just like oh I wake up and I just do this I do that or it just you know I watch people every day go through life and it&#x27;s so easy for me to be where I&#x27;m at today it takes every bit of you so when I speak about it and I get going here you&#x27;ll start seeing me the temple will rise the passion will come out because I&#x27;m back there I&#x27;m doing what I do every day to become a human being and so nothing is easy like running this running it sucks but you have a choice to make do you want to sit down and go back to that guy you want to work so this is what it takes this it takes that misunderstanding of people and they&#x27;ll never get it because they never did got so that is what it takes for me to do that do you may take you something different looks very ugly there&#x27;s no passion no motivation it&#x27;s every day of your life just do 44 degrees was nice and rainy outside no one cares about that it&#x27;s not about the rain for the rain represents life is always giving you a test trying to give you a way out trying to give you excuse not to show up this is my excuse today guess what better have the mentality to show up every day of your life matter what life goes at you it&#x27;s our responsibility to solve the calcium of life prepare for the battle I don&#x27;t care what you&#x27;re going through put my stone at you it&#x27;s your responsibility finds a new 100% take it upon yourself to do that stay hard no passion no discipline no motivation all these words I hate people I hate that&#x27;s something to use these words like is it&#x27;s walking it&#x27;s someone sitting in the room by themselves and they figure themselves out God this is this passion to be 300 pounds worth the motivation when you can&#x27;t read and write where is it so how does this happen I just do it understand I said maybe it&#x27;s the end of this journey there&#x27;ll be something there for me if not I can if not I&#x27;m a 180 by magic folks and there&#x27;s no oh let me wake up and look at some shit no just do your living how do you want to live how do you want to die how do you want to remember that that&#x27;s it that&#x27;s it period you know exactly what to do exactly what because even me in my state of I can&#x27;t read or write I knew exactly what to do it just sucks doing it it sucks to do it it sucks to wake up every morning of your life and say God man I&#x27;m I&#x27;m not smart so guess what I gotta do I gotta I gotta study the same shit that I get one of the highest scores in the nation on and do it again do it again do it again it&#x27;s not just there it&#x27;s not just there permanently but where do you go to you wake up on a morning it&#x27;s cold it&#x27;s wet it&#x27;s dark you&#x27;ve got no cartilage in your knees got shorts whatever it is that&#x27;s the issue today it&#x27;s warm on the couch your missus say stay in bed it&#x27;s comfy it&#x27;s cozy you&#x27;ve got work later on you had an argument last night you&#x27;re slightly hungover I know there&#x27;s a whole bunch of people with that right there that fires me up that makes me that brings joy to my life right there because I know so many people that have the ability and just refuse refuse to</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-001004">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:10:04 - 00:15:05</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>study a few more I refuse to go deeper to go further that&#x27;s it&#x27;s so easy to be great nowadays my friend most people are weak most people don&#x27;t want to go to the extra most people don&#x27;t want to find that extra because it sucks it&#x27;s mission it&#x27;s only you talk about that you were kind of you know lonely by yourself I was the same way that used to hurt me only place to be a lot of people graduate maybe still training a lot of guys don&#x27;t go don&#x27;t want to go back into that water they want to go back into the hard stuff but if something sucks so bad in life this is on this that we&#x27;re talking about now very few people and go back they&#x27;re happy they graduated I&#x27;m the same way I don&#x27;t I have to I must go because that is exactly where all the knowledge of my life exists was back there in which exactly we&#x27;re talking about I didn&#x27;t know anything about this but how I grew up was constantly doing these things to now this is why I wake up I still suck you don&#x27;t sit back I have days I don&#x27;t do by me I know from years of just doing so that&#x27;s that&#x27;s beautiful human beings need to hear this then we start hearing these hacks on this and that is no it&#x27;s no hack yeah you make this and that and saunas and all this shit that they yeah it&#x27;s great there is no way to grow that thing how do you grow it do it that&#x27;s the hack the hack is to suck and that&#x27;s not real life that&#x27;s what works and now you know why so many people have failed to figure out their purpose the purpose of life where do I go because to grow that now you may not look like me how my daily life looks so it&#x27;s a choice that people have to make it and what&#x27;s so funny about it is even the richest of which we have everything always ask me this question I feel like I&#x27;m missing something you&#x27;re never in my life hear me tell you I&#x27;m missing everybody missin this feeling I found long time I found it right there in that real time people are missing exactly what went on with they&#x27;ve got why don&#x27;t you smile I do I do but I figure something out that&#x27;s why I am never you never hear me say I&#x27;m missing something I found it years ago you find it in the suck you find in the suck and you find it repeatedly in the Sun to the point you know exactly who you are most people are missing something because they don&#x27;t know food they do you create your own self most people are missing something cuz there&#x27;s so much trapped in there I don&#x27;t want to say potential think that&#x27;s word used out too much too there&#x27;s so much in you that God or wherever the hell you believe in or if you&#x27;re atheist in you that you have not unlocked that you walk around with this gorgeous wife or great husband all this money like god fuck I&#x27;m missing something yeah because it&#x27;s about 75% of you it&#x27;s still in there still chained up because you just didn&#x27;t want to find your willpower didn&#x27;t want to find your soul your will your heart your determination your guts your courage what that looks like it looks scary like your little scary lava when it scary to wake up every day and say I&#x27;m stupid I want to figure out a way to be smart versus saying man I just can&#x27;t do that so you limit this box so your box becomes so small of things you can do there&#x27;s no hacks bro it&#x27;s you what does you you against you and if you misunderstand that real real I can understand you misunderstand me running on the street shirt off I can I can get it I get it if you misunderstand the same right now today And you don&#x27;t want to fix it. I can&#x27;t give you shit.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-001505">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:15:05 - 00:20:06</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>You can&#x27;t give me shit. You can&#x27;t give me ideas. At the end of the day, when I was losing the weight, I had to miserably wake up every morning in the cold in Indiana in November when it started. I was miserable. This is your new life. Take a relief. There&#x27;s no happiness about it. There&#x27;s no peace about it. It sucks. And that&#x27;s the one thing if I could teach anybody anything, it just sucks. And it&#x27;s going to continue to suck. And when you get to a special part in your life, it might get a little bit better. But to lose... Wait, you have to lose, my friend. Sorry. It&#x27;s going to suck every day. Because if you&#x27;re going to pass, you&#x27;re going to lose weight, you&#x27;ll probably get injured. So then you&#x27;ve got to work on the injury, then you get even more to practice. And then you&#x27;re hungry, and now you&#x27;re depressed. It&#x27;s just a vicious cycle. And if you&#x27;re not strong mentally, and you have no willpower, you&#x27;re going to continue falling back in this whole worst of manner. It&#x27;s just back again. If anything... No, this really sucks. This is real, dude. This is real. I&#x27;m set back, I&#x27;m set back, I&#x27;m set back, I&#x27;m set back. This is what I&#x27;m going to tell you, boy. This is exactly what I&#x27;m going to tell you. Every day you wake up, you&#x27;re going to probably be set back in the first four weeks before you lose to significant weight, because the mind is going to be there the whole time. There&#x27;s no dopamine. There&#x27;s no dopamine in there as soon as it pounds you. You have nothing. Your hormones are shot. You have to envision something that is more powerful than you. Something has to get you out of here. And you have to create it. It has to be false. Because you&#x27;re not it. You&#x27;re that piece of shit. And that&#x27;s the reality of it. So you have to create a false reality to live in that just to get to work on yourself. No one&#x27;s going to fucking come and help me. No one&#x27;s going to fucking help me. It&#x27;s fucking me against me, period. And so I had the man up, and I said, of course the guy started doing his face in every fear I have. No matter what the fuck it is, man, and these things will keep me up. And no one, people who are hearing this shit, they will never really understand and grasp when you face these things and so many things, how they keep you up and haunt you at night. I have two options. Either be that 300-pound guy who&#x27;s prayed for cockroaches and made $1,000 a month, and at 24 years old, knowing when I&#x27;m 50 fuck years old, I can reflect on this and think about what guy I never became, or I can totally just sack it up and fail, and fail, and fail, and try to succeed. So I started calling recruiters up, and some of them will be in Navy SEAL. I&#x27;m not running at 2 o&#x27;clock in the morning, run at 1 o&#x27;clock in the morning, in the gym, long sessions by myself. You, that&#x27;s real. How am I able to just extract dopamine, the good dopamine whenever I want? Man, I&#x27;ve trained 99% of my life alone. No one had me on the back. I did all of the work alone, and while I&#x27;m still hard on myself, I know what I did. So whenever times get bad, people are like, who&#x27;s your carrier of the bullshit? That&#x27;s real. I hate that people know me for that guy, because that guy is not every fucking day. When they see me, they want that energy. That&#x27;s not me every day. I can extract it immediately when I need to because when you train alone, and I lived alone for so many years in this misery, and you&#x27;re able to get out of it by yourself, I can take myself to such a level of real, real passion and purpose, and the feeling I get is something I can&#x27;t even expect by myself. I don&#x27;t need anyone. That&#x27;s why people come to me to motivate them. No one can motivate me. I have a resume full of motivation that whenever I&#x27;m down, I&#x27;m like, oh, hang on, motherfucker. Oh, you know, you know the truth. You know the truth. You know the darkness of the dungeons and the demons that fly. And then from there, it&#x27;s like, okay, you were there. You know this. There was no one there to pick up the rucksack, to pick up the boat, to pick up the log, to go in there. It was you. It was you. There was no battle back at 300 at 275, at 250, at 220. No, that was you. So those things that come out of me, that extract from me in the darkness, people are looking for that pound of back. Where is it? Oh, I don&#x27;t need it. Because what I&#x27;ve done is in the unseen work, I&#x27;ve built Frankenstein.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-002006">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:20:06 - 00:25:07</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>So whenever it&#x27;s nasty, David Goggins goes, we had nobody anyway, mother. So see how I&#x27;m telling myself right now? That&#x27;s me. That fires me the fuck up. That makes me fucking nuts. You had nobody anyway, mother. I look around you. There was no fucking team. It was you. There was no weight loss program. Mom and dad waking you up saying, you can do it. You can be better. Trying to build belief. You built belief when you had nothing. Rock bottom. You did that. So as times get hard for me, the truth comes out. And my truth is powerful as fuck. It&#x27;s real. It&#x27;s tangible. I feel it. It comes out of my brain as I speak about it. I&#x27;m reliving every single dark moment of my life to be here. So that is what people don&#x27;t get. That is what motivates David Goggins, is the unseen work that everybody needs. That pound of back. They need that training partner. They need that accountability coach. I ain&#x27;t here, sir. They need to do that. But it&#x27;s what we&#x27;ve trained ourselves to believe that we need. That life is one big psychological warfare that you play on yourself. You play on yourself, man. The most important conversation I ever had is with myself. And the shit I was telling myself was so fucked up. It was so wrong. It was so misguided. And other people start to write that dialogue for you also. And it starts to be what you say to yourself every single day. And I started creating a whole nother warfare. A whole nother battle started becoming. I was like, oh, hang on a second, guys. You have these tools. You have these tools. Your life was basically the perfect, the perfect grounds for training for where you need to go in your life. All the beatings, all the bullshit, all the, you know, you going through learning disabilities, all the struggles. It was the absolute perfect training ground for you to go to where you need to go. And that&#x27;s how I started looking at my life, where it was me, poopy pants, kick a rock down the street mentality. It was wrong. God just hooked you right the fuck up. He hooked you right up, man, with the perfect place. You were training. For the first 18, 19, 20, you were training for this stuff, man. You have the advantage of everybody else versus, my God, they&#x27;re so above me. They came from a great family. Mom and dad love them. They didn&#x27;t have a learning, they didn&#x27;t start, they didn&#x27;t struggle. No, man, your struggle is what made you who you are now. So I started flipping this into a whole different, I started being a master of what I was scared of. I was scared of my mind. And I became literally a master of that mind. And that&#x27;s what now, from now on, it sets me apart from most people. I started diving into that, and it got me in trouble. For too long in my life, I wanted to be accepted. Growing up, I lied, I fucking did what I could. If you fucking like UFC and I didn&#x27;t, I love it. I love it, man. Let&#x27;s go fucking watch it, man. Be my friend, be my buddy. That fucking weak ass shit. I found out through this path of life, who is David Goggins? Who am I? So going through all, I did it alone. There was no fucking trophy on the fucking wall on the mantel. That trophy&#x27;s in my fucking brain. No one helped me get there. No one paid my fucking bills. No one did shit for me. No one ran those fucking miles, lost that fucking weight. I suffered on my own. And developed this man who said, that&#x27;s who I am, man. A very competitive, ultra-competitive dude that taking what you want, man. I call that personal sovereignty. Exactly. There&#x27;s not a lot of people that have that. That&#x27;s me. There&#x27;s a lot of people that change who they are, depending upon what people want from them. That&#x27;s me. Yeah. That&#x27;s important, man. Most people struggle their whole life to find out who they are, struggle their whole life to find out what defines them, what they actually enjoy and what they don&#x27;t. You start putting yourself in situations that suck, you&#x27;ll find yourself, motherfucker. That fucking purpose is you. We forget that. Every fucking day I wake up, I don&#x27;t want to do some fucking shit. I&#x27;m like, okay, man, do you want to be a bitch today? Do you want to feel like a little bitch? Do you want to walk around all day knowing that you could but you didn&#x27;t? So it&#x27;s before without purpose. You have to learn how to get up and do shit. You ain&#x27;t got no fucking 5K, no 10K. Nothing. Nothing exists. Your life fucking sucks. You&#x27;re in the fucking dungeon. But guess what, motherfucker? You&#x27;re going to get it. Because when that time comes, because time is going to come when that purpose is there, you&#x27;ll be ready. You get it, David? Come on. Yeah, there you go. There you go. Energy. Let it out. Seven, eight, nine, ten. Seen here. There you go. Nobody works like David in this house. Thirteen. Come on. Fourteen. Come on. Fifteen. Shut that muscle down. Get it. Seven, ten. They don&#x27;t know me, son.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-002507">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:25:07 - 00:30:11</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>That&#x27;s why it is a lot of average. And it makes me so fucking mad. Every day I walk this earth and I see average all over me. And they want to ask me, how did you do it? I can&#x27;t tell you how, because you&#x27;re not going to fucking do it. You&#x27;re not going to do it. You&#x27;re going to continue to do it because every day you wake up, like you said, get the coffee. Make the, you make the pancakes. Kiss the girl. Kiss the kids. You wake up, right to work. Immediate your mind is in action. No. No. They don&#x27;t blame them. What the hell are we all waiting for? It&#x27;s going to attack your life. Waiting for the fucking stars to align. Back when I was growing up, the sun came out. All I need is a miracle. Well, guess what? That miracle ain&#x27;t coming. There is no perfect time to start. You got to start now with changing your life. We&#x27;re all being tested in life. And guess what? This is one test you can&#x27;t cheat on. We all have our own test. Some of us are obese. Some of us are insecure. In the military we have this big old rucksack on the back. We have batteries, water, extra gear. Your extra gear is the shit you&#x27;re dealing with in life. And the only way to overcome it is for you and you alone to face it. You got to do your best work when you&#x27;re at least motivated. So those days you don&#x27;t want to do it, guess what you got to do? You got to suck the fuck up and do it. Stay home. Because this world we live in is tough. It&#x27;s tough. It will beat you down. The world and the life that we live in is the ultimate competitor. It will try to take you out. It will find your weakness. And it will fuck this hammer you. It&#x27;s like a personal curse. A hundred percent. So if I can help you build belief, build confidence to the point where nothing can hurt you because you know exactly who you are. You&#x27;ve faced your demons. You&#x27;ve been able to go on an audio book in your mind. Maybe you didn&#x27;t write a book, but in your mind you were able to hear all your past troubles. You were able to listen to them. You were able to say, okay, now I can now talk to people about what I want to do. I&#x27;m no longer embarrassed. I&#x27;m no longer ashamed. Being ashamed is one of the biggest things that kill people nowadays in their minds. Kill them from moving forward. I&#x27;m ashamed of this. Don&#x27;t ever be ashamed of anything you&#x27;ve done in your life. Face it. Fix it. Make it better. Nothing is easy. Nothing is just like, oh, I wake up and I just do this or I do that. No, I watch people every day go through life and it&#x27;s so easy for me to be where I&#x27;m at today. It takes every bit of me. So when I speak about it, it has to get going here. You&#x27;ll start seeing me. The temple will rise. The passion will come out because I&#x27;m back there. I&#x27;m doing what I do every day to become a human being. And so nothing is easy like running is running. It sucks. But you have a choice to make. Do you want to sit down and go back to that guy you once were? No. So this is what it takes. It takes that misunderstanding of people and they&#x27;ll never get it because you never gave a god. So that is what it takes for me to do what I do. It may take you something differently. So for me, everything has to be in the study. Everything has to be in the this. Everything has to be in everywhere I am. It has to be there. Me. Focus where I am. That&#x27;s why you&#x27;re my second pockets of done-sits-rogans since the book came out. I don&#x27;t have time for that. Because if I want to be great, I&#x27;m not trying to maximize money or maximize people knowing me. I do these things because maybe someone out there will understand me and get it and say, I can grow from this guy and others just won&#x27;t. But we don&#x27;t take a second to realize the purpose is always there. The purpose never leaves us because the very purpose is you. It&#x27;s funny, man. People want to know how I&#x27;m always motivated. It&#x27;s the unseen work, which to just say is a true statement. Those are false dopamine hits that people are giving you, man. There&#x27;s no belief. These are teamwork dopamine. Like, I&#x27;m not running at 2 o&#x27;clock in the morning, 1 o&#x27;clock in the morning, in the gym, long sessions by myself. You, that&#x27;s real. How am I able to just extract dopamine, the good dopamine, whatever I want? Man, I&#x27;ve trained 99% of my life alone. No one pat me on the back. I did all of the work alone. And while I&#x27;m still hard on myself, I know what I did. So whenever times get bad, the good. Others, who&#x27;s going to carry the bullshit up? that&#x27;s for real. I hate that people know me for that guy because that guy is not every day like when they see me they want that energy that&#x27;s not me every day I can extract it you need me</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-003011">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:30:11 - 00:35:11</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>I need to because when you train alone and I live alone for so many years it&#x27;s miserable you&#x27;re able to get out by yourself I can take myself to such a level of real real passion and purpose and like the feeling I get is something I can&#x27;t explain by myself I don&#x27;t need anyone that&#x27;s why that&#x27;s why people come to me to motivate them no one can motivate I have a resume full of that whenever I&#x27;m down like oh hang on oh you know you know the truth you know that you do know the darkness of the fucking punches and the demons that fly you know and then from there it&#x27;s like okay you were there you know this there was no one there to pick up the rucksack to pick up the boat to pick up the log to go in there it was you it was you there was no patent but I got 300 at 275 at 250 at 200 no that was you so those things that come out of me that extract from me in the darkness you talk about performance without a purpose what&#x27;s that so like for instance let&#x27;s say you have no races let&#x27;s say you have no classes no nothing we have there&#x27;s no purpose you know people need to have purpose together they need purpose to perform you need to get to a point in your life where there&#x27;s nothing on the docket there&#x27;s no 5k there&#x27;s no there&#x27;s no um I&#x27;m going to get into school to be this or that and still perform to the highest level because what people don&#x27;t get is one day that thing&#x27;s going to come up and if you&#x27;re not constantly performing without purpose you&#x27;re not going to be ready when the time comes it&#x27;s this magical thing purpose that we&#x27;re all looking for but what&#x27;s funny about it all is that we need these things to perform but we don&#x27;t take a second to realize the purpose is always there the purpose never leaves us because the very purpose is you you are always the purpose there may be another purpose like being a seal or going to college or whatever but the main purpose in life is you so if you wake up in the morning and you don&#x27;t want to do something you don&#x27;t care enough about yourself and that&#x27;s what you need to really research is man why am I not doing this for myself because that is that is the number one purpose in life is to better oneself so that&#x27;s the only purpose I believe so the reason I get up every day you know there&#x27;s no races there&#x27;s no school there&#x27;s nothing in front of me is because I have pride in myself a lot of people you know wonder how did you become this how you become so vulnerable how you how are you doing a podcast now you were this kid you overcame things you fought him and now this is what happens this is on the other side of it becomes you become very very powerful when you overcome yourself well everybody is groundhog&#x27;s day again for david goggles if you pan it down here you see it&#x27;s about three o&#x27;clock in the morning and there&#x27;s not a car or a person inside if you pan over here it&#x27;s the same thing not a car or a person inside people want to know where I find my strength at where I get my strength I get it from a lot of places but right now this morning I&#x27;m getting it from there&#x27;s not a mother that&#x27;s up there&#x27;s not a car there&#x27;s not a person everybody&#x27;s in their bed sleep dreading that it&#x27;s a Monday hate it&#x27;s a Monday and I&#x27;m loving it I&#x27;m loving that where everybody&#x27;s getting weaker I&#x27;m getting stronger it&#x27;s not about the running the swimming to push up to sit-ups it&#x27;s about what those things do for your mentality you don&#x27;t get better on the Dagon couch you get better by coming out here and getting the after every Dagon day stay hard it&#x27;s so easy to be great nowadays my friend because most people are weak most people don&#x27;t want to go that extra mile most people don&#x27;t want to find that extra because it sucks it&#x27;s miserable it&#x27;s lonely and so many people just want it the easy way I&#x27;m sorry man it&#x27;s not so what they start to do is they build this narrative it&#x27;s okay when the narrative should be you need to work harder you need to discipline your mind better you need to help people more than just saying it&#x27;s okay it&#x27;s okay that you&#x27;re not willing to help yourself out that&#x27;s not okay it&#x27;s not okay it&#x27;s not acceptable even though it&#x27;s your life if that&#x27;s if if that&#x27;s acceptable that&#x27;s unacceptable and there&#x27;s a lot of people in this world me included that if I accepted that I wouldn&#x27;t be anywhere what do you think most people get wrong about motivation they think that maybe once I get it I&#x27;m gonna hold on to it it&#x27;s nothing is permanent</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-003511">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:35:11 - 00:40:15</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>nothing is permanent and a lot of times you have to learn to perform without motivation and that&#x27;s what people think they think I need to have this motivation to work out to study to be better so if they don&#x27;t have it they just don&#x27;t do it and that&#x27;s where you fail you have to learn to train your mind well beyond motivation if you have motivation that&#x27;s great that&#x27;s some kindling to the fire all it takes is a little bit of parking to burn the whole floor stuff but motivation you have to learn to exist without it you have to learn to be you have to be your best self when you&#x27;re least motivated and now you know why there&#x27;s so many people that have failed in this world it just fucking sucks and that&#x27;s the one thing if I could teach anybody anything it just it sucks and then when did you get to a special part in your life that it might get a little bit better but to lose the weight you have to lose my friend sorry a lot of people who graduate navy seal training a lot of guys don&#x27;t go don&#x27;t don&#x27;t want to go back into that water don&#x27;t want to go back into the hard stuff it may be not anything hard anything hard in life once you get through it it&#x27;s like you become a POW like how many POWs you know want to go back to POW camp none when something sucks so bad in life this is on this that we&#x27;re talking about now very few people want to go back they&#x27;re happy they graduated I realized I&#x27;m the same way I don&#x27;t want to go back I have to go back I must go back because that is exactly where all the knowledge of my life exists was back there in which you exactly be talking about well I didn&#x27;t know anything about this but how I grew a will was constantly doing these things to now it&#x27;s just life I wake up while it still sucks it&#x27;s just life you don&#x27;t sit back and like oh my god like I have days I don&#x27;t want to do it but I know I&#x27;m gonna do it there&#x27;s so many people that fail in this world to figure out their purpose their purpose in life where do I go because to grow that now you may not look like me how my daily life looks don&#x27;t look fun don&#x27;t look it&#x27;s a choice that people have to make in life but what&#x27;s so funny about it is even the richest of rich who have everything they always ask me this question I feel like I&#x27;m missing something I don&#x27;t feel like I&#x27;m missing I don&#x27;t have what you all have but you&#x27;re never in my life hear me tell you I&#x27;m missing something everybody do your best work when you&#x27;re the least motivated so those days you don&#x27;t want to do it guess what you gotta do you got second to do it stay hard that&#x27;s why there&#x27;s a lot of average and it makes me so fucking mad every day I walk this earth and I see average all over the place and they want to ask you how did you do it oh we want to see it good we do who&#x27;s gonna carry the boat in the wall I can&#x27;t tell you how could you not gonna fuck back and do it but don&#x27;t be mad when you&#x27;re laying there in your fucking head you&#x27;re in a hospital you&#x27;re 70 89 years old you&#x27;re thinking I can do something because you did you didn&#x27;t do it you&#x27;re the shit this has to be in you something in you has to wake up and usually the only person I can wake it up is you how bad do you want this if this is bad as you want to live breathe sleep whatever the hell it may be I can look at a lot of people most people don&#x27;t want it that badly that&#x27;s why they always ask the question how you get you know how to do it you know exactly how to do you or how to be me you don&#x27;t want it so I can&#x27;t make you do it nor do I have the time or energy to force you into that place that I know you have to be to do it there&#x27;s no luck in this game and maybe a little bit luck but the luck happens after you bust your ass and you put yourself in that lucky situation luck doesn&#x27;t happen you put yourself in that situation where luck might happen and that&#x27;s what people don&#x27;t know but to get there luck ain&#x27;t gonna happen you have to put yourself in a situation man people talk about discipline determination you know repetitions all this shit consistency why people fall for racking so often is because their mind is full there&#x27;s no room in that mind for discipline there&#x27;s no room for consistency they may do it once or twice but then the mind takes over and that clever garage comes in and then it&#x27;s like a circuit breaker man a circuit breaker just overloads the sparks I&#x27;d rather you hate me</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-004015">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:40:15 - 00:45:17</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>and get better than like me and stay the same a lot of us are foolish I was one of those people back in the fuck day and sometimes I&#x27;m still foolish we think that we&#x27;re working our ass off working hard you know we&#x27;ve been working out hard in the gym for a month but we haven&#x27;t seen any results should we get all down and poop your pants and shit you study for 30 minutes for a test and you didn&#x27;t do as well as you thought what the fuck did you expect you&#x27;re not putting in the work you have to do more you gotta stop telling yourself that you&#x27;re doing enough in life it&#x27;s never enough until you feel this overwhelming feeling of man I&#x27;m out working the crown I&#x27;m not working everybody I&#x27;m doing more it&#x27;s not until then once you get there that&#x27;s when you fucking know you&#x27;ve done enough stay hard you will never understand what is wrong with me and that&#x27;s why I&#x27;m so fucking glad you don&#x27;t because I&#x27;m in the right spot when people don&#x27;t understand you anymore you&#x27;re in that spot of obsession and drive when people are like what the fuck is wrong with this guy I don&#x27;t want to talk to you man because you&#x27;re not going to get it think about how many years months hours seconds days all that shit you have wasted on people who suck the life out of it yeah one thing I did wrong in my life was I tried for so many years to please people and I did it at the expense of myself today&#x27;s a good day for you to go through and shit cam those motherfuckers shit cam those motherfuckers when they call you when they fucking need something shit cam those motherfuckers who can&#x27;t get over shit who continue to bring up shit through the past who can&#x27;t move forward life is short life is precious spend that time with the people you love the people you want to get that time to real friends real family everybody else and they&#x27;re sucking up the air you breathe you need that mother be hard stay hard do it never never in life meet a hater doing better than you that&#x27;s a fact ever remember this it&#x27;s in the hobby it&#x27;s in the fuck it&#x27;s a fucking lifestyle so what you&#x27;re saying to yourself is important there&#x27;s no fucking oh she&#x27;s gonna train to keep you going it&#x27;s only you so think about this work in your whole life to get a fuck hit the table to see the table you&#x27;re gonna be the best amongst all the best people in your career field so you finally get that letter this steak lobster it&#x27;s a big dinner everybody&#x27;s showing up dressed to the nines make sure you saw soaking wet for fucking after working out hard tower on your neck you respect the event so make sure you put that towel over that nice chair so you don&#x27;t fuck up the whole thing is this don&#x27;t say a word stay uncommon amongst uncommon people tonight you&#x27;re never done don&#x27;t stop when you&#x27;re tired stop when you&#x27;re done stay hard there&#x27;s been this unrelenting voice in my head we all have this voice it&#x27;s the right or wrong voice and a lot of times that voice guides us into comfort and my voice guided me to comfort a lot but i had this other voice i heard my whole life say hey motherfucker what are you doing no man we gotta go over here we gotta go over there to to that rock pile over in the corner where nobody&#x27;s at that&#x27;s that&#x27;s where victory&#x27;s at we&#x27;re over there that corner so this voice was giving me all these answers now i wasn&#x27;t a real smart kid growing up but i had this crazy voice in my head saying over there is where the fucking matches are and i wouldn&#x27;t listen to it because over there was pain over there was me looking in the mirror over there was me being accountable for all these things i went through my life even though people put them on me it&#x27;s now mine their own and i didn&#x27;t want to go over there by myself but i had to and this voice was guiding me there out it&#x27;s god whatever we&#x27;ll call it um but that&#x27;s what that&#x27;s what it was in me it self-disciplines everything and if you don&#x27;t have it i&#x27;ll look at you right because i know you&#x27;re capable of more i&#x27;m a boy man fuck that shit we we count on people too much to get us through and we look to our right we look to our left and looking for help and if you can build that self you can build that total accountability in one self and it&#x27;s not about being selfish i&#x27;m trying to create a better meaning so hopefully people who are hearing this are taking it the right way you can say i can run It ain&#x27;t about runnin&#x27; a mile. It ain&#x27;t about runnin&#x27; a tourin&#x27; five fucking miles through and forth, out to be in a city, it ain&#x27;t about shit, shit doesn&#x27;t matter. I want you to see how far you can go. And that&#x27;s all it&#x27;s about, yourself. And that&#x27;s where it all comes from. Well, and we&#x27;re in a culture that is driving everybody</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-004517">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:45:17 - 00:50:17</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>towards this idea that happiness is purchased through luxury, comfort, and ease. And we want it very fast. If you don&#x27;t see results in the first two days in the first week, I&#x27;m done. That&#x27;s the mentality of most people. The struggle is too real, we&#x27;re not patient. In a world where you can Google the best restaurants around me right now, no one is patient. And for you to lose weight, for you to stop drinking, if you&#x27;re where the hell you&#x27;re going through, it takes a lot of patience, a lot of time, and a lot of pitfalls, a lot of plateaus. You can hit so many fucking plateaus, if you don&#x27;t know how to get around that plateau, it&#x27;s not gonna happen fast. Yeah, everybody wants the hack. Yeah, everybody wants the hack. There is no hack, man. There&#x27;s no hack. What do you think is the biggest stumbling block that most people face with this kind of journey? Honestly, is they have the well was me mentality. It&#x27;s too hard, life isn&#x27;t fair, these things in life are not easy for me. You look to your left, you look to your right, and you start to judge yourself off other people. If you&#x27;re a female, well, she&#x27;s skinny, and she doesn&#x27;t work out as hard as I do, and everything starts to corrupt your mind. You start to look around too much at other people and what they&#x27;re doing, and that starts to corrupt your own dialogue. We are judging ourselves against too many people. You have to judge yourself against yourself. And that&#x27;s the one thing I started learning, man. This isn&#x27;t a race against me and Rich Wold. This is a race against David Goggins and David Goggins alone. And once you can silence all that bull, all the outside interference and things that are attracting your mind to everything, you can then start to grow in realizing I&#x27;m stressed out for no reason. This is my own little race. This is my own timeline, and this is how I&#x27;m gonna run it. I think that so many people are so disconnected from themselves. They&#x27;re operating on autopilot, they&#x27;re reacting to their environment. That&#x27;s the big thing, man, and that&#x27;s why it was important for me to finally realize, stop being all these fake people I used to be, stop being afraid. There was no growth until I cut myself down to nothing, to the person I really was, the real human being. And once I found out who I really was, that&#x27;s when I started growing. I was trying to build on top of a lied-up foundation. You can&#x27;t build a house in a fucked-up foundation. So I had to get down to the actual mineral soil of who I was, and that&#x27;s when you can start real growing. And what is the role that suffering plays in that, or the willingness to suffer? It starts to peel all those layers away, all those artificial layers away. If you&#x27;re going to suffer and suffer and go back in the grind, that internal dialogue you have with yourself when you&#x27;re in misery and you&#x27;re uncomfortable, it&#x27;s a real, scary, unfiltered, no-lying dialogue between you and yourself. And people know exactly what the fuck I&#x27;m talking about when you&#x27;re in a bad spot in life and your mind is saying all kinds of shit. That&#x27;s who you really are. That&#x27;s the real you. No Rocky Balboa moment&#x27;s going on up there. Like, hey, you know, it&#x27;s around 14. Let&#x27;s come on, we got this. No, it&#x27;s like, I&#x27;m out of here, man, this is crazy. That&#x27;s where the growth happens. When you&#x27;re able to stay in that moment and talk to yourself, talk to yourself back into the suck of whatever you&#x27;re going through and you start stripping those layers away. But as you&#x27;re stripping those layers away, you&#x27;re building calluses over top of shit in your mind. That&#x27;s where the growth starts to happen. It&#x27;s when you have to force yourself to stay in it. You can&#x27;t leave it. Like that first 100 mile race I&#x27;ve talked about several times, where I lost all, all every- Still the hardest physical thing you&#x27;ve ever done, right? Yes, physically and mentally, because like you just said, I was unprepared for that race. No training, you should just recap it. Like zero training running 100 miles so that you could- And it was like three days later, I&#x27;m in 100 mile race, no training at all. And when you do that, it is, but when it does, if you&#x27;re not going to quit it, like you just talked about, it breaks you down to nothing. You are suffering so badly mentally and physically that all of these demons are coming up. And you&#x27;re trying to find answers and you&#x27;re trying to find answers. It was like living 19 hours. It&#x27;s like five years I put into 19 hours of highs and lows and pitfalls and seeing the sun come up. And it was like, my God, I lived five years in 19 hours. It was unbelievable. It was unbelievable. So do you find yourself chasing that now with every ultra challenge? No, because once you realize what you get from ultra,</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-005017">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:50:17 - 00:55:17</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>what you get from life, I can apply that now just by sitting here with you. Those tools now, I don&#x27;t need to go out even though I still do it and go out and hammer. The hammering part is like a purging of the soul. You go out there and hammer out there. You gotta do that every once in a while. You gotta hammer, man. You gotta get after it. But now I figured out so many different ways and so many different tools through all of the journeys I&#x27;ve been through. Through just growing up, man, just being mature, just being really mature to get into the class I had to get into, I had to lose 106 pounds in less than three months. So I was like, fuck that. I can&#x27;t do that. I grabbed my chocolate milkshake and went back to Ecolab. I&#x27;m going back to work, man. This is my life. So in this job, you&#x27;re looking for cockroaches, looking for rodents and stuff like that. I don&#x27;t like cockroaches too much. I hit the mother loaded cockroaches and this restaurant got full of cockroaches and rodents and everything else. And I sat there and said, this is my life. I said, this is my life. You are exactly who the fuck. This is it. And I said, this ain&#x27;t gonna be it for me. So in that restaurant, I quit my job, left my canister in that restaurant, my spray canister, got back in my Ecolab truck and I went home. And I started working out like somebody, I became the most obsessed person on the planet earth. And I was basically, I had to invent a guy that didn&#x27;t exist. I had to invent a guy that can take any pain, any suffering, any kind of judgment, be called whatever the fuck in the world and be able to stand in the room and say, go fuck yourself. I had to build this callous mind and I built it through suffering. I built it through downright and just crushing myself. If it was raining outside three o&#x27;clock in the morning, if it was snowing, the first thing to think is, don&#x27;t go out there and do shit. My instinct was we gotta go out there. Anything that was horrible in my life that I would normally say no, that was inhumane to most people, I had to go through it. And I started callousing my mind at this point in life. And I lost the weight, I lost the weight and I went back to recruiter, I got into that class and I went through three Navy still held weeks in one year. Only got it ever being three held weeks in one year, to my knowledge. The first one I didn&#x27;t make it through, the next two I did. And that I just didn&#x27;t stop it anymore from there. And I started realizing through this process that the fuck mind is what you created. And I started opening different doors that I didn&#x27;t think were even there. They didn&#x27;t think even existed. And the more doors opened up, the more I started realizing that my potential is damn near endless. And it changed my whole mindset. So I went from David Goggins and I created Goggins. And that journey is a priceless journey that is hard for me to even explain to people because it sounds so quick and easy. Like I lost this weight and I went through three held weeks, I went to Ranger School, I went to Delta Four, Select Central, whatever it is. It was brutal. It&#x27;s a brutal journey every fucking day. Ever, are you happy? If anybody knows my life story and I try to give you just a snippet of it, where I&#x27;m at today is in front of Joe Rogan telling you my life. To get through where I became, to get through where I&#x27;m at now, there&#x27;s nothing but pride I have for myself that I can&#x27;t really show people. Because I have this face that they see like, are you happy? What&#x27;s wrong with you? I&#x27;m driven. I&#x27;m obsessed. And that&#x27;s what you see. So you come back, you do the quarter mile, you walk back home, how do you regroup? So what I did, I sat down there and I put Rocky in. I got my moonshake, put Rocky. You know what? I was big time in Rocky and Platoon. Why Platoon? I love to see people who were getting beat down. And there&#x27;s scenes. There&#x27;s scenes that just drove me and people in my hell weeks, I was in three of them, they&#x27;d always hear me singing these songs. These songs, humming these songs in torturous situations. When everybody&#x27;s quitting this code, I would be somewhere gone. Somewhere fucking gone, if somewhere fucking dark as shit. There&#x27;s a scene in Platoon where Elias, when Barnes shoots Elias, and they think Elias is dead, and the choppers are taking off. And Charlie Sheen&#x27;s asking Tom Berenger, where&#x27;s Elias? Where&#x27;s Elias? Where&#x27;s him to foe? Oh, I found him back there dead somewhere. And through the woods, the Viet Cong is chasing Elias through the woods and shooting him in his back. And all he wants to do is get to the chopper. He&#x27;s getting shot in his back, he&#x27;s getting up, he&#x27;s getting shot in the back, he&#x27;s getting up. And you see this guy just fighting. I love the fucking guy who just fucking fights. And so I put these things in as reminders that you&#x27;re gonna have to fucking suffer, man.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-005517">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:55:17 - 00:57:25</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>This fucking .25, man, this is, man, you&#x27;re gonna have to fucking suffer to go from this fat, insecure motherfucker to one of the best guys on the planet Earth. This journey is gonna take something that is gonna be incomprehensible to most people. And these different visualizations, how I visualize them in my self-talk, it became so nasty and dirty that I almost liked the fact that I went .25. So it became from being defeated to like, man, I have my, maybe the Marvin will go .75. It just became this different mindset. I turned negatives into positives. So I would take it like, who would even think about doing this? So I would sit in my couch saying, who at 297 who can&#x27;t fuck them that great, who&#x27;s scared of the water, we have the balls, they have the balls to fucking end up, quit a job and go and to put everything on himself. So it&#x27;s how I started talking to myself and put myself in a whole different category and that would fuel me the next day. And I just kept using that as fuel and fuel. No one would do this shit. No one would do this shit. You&#x27;re the best motherfucker around. You&#x27;re the best motherfucker ever lived. And I had, I just kept fueling me with the right kind of message that I needed to hear that I was never telling myself. And through time, it became reality to myself. There&#x27;s a lot of people that change who they are depending upon what people want from them. And that&#x27;s me. That&#x27;s important. Most people struggle their whole life to find out who they are, struggle their whole life to find out what defines them, what they actually enjoy and what they don&#x27;t. You start putting yourself in situations that suck, you&#x27;ll find yourself. Yeah. You&#x27;ll find it real quick. It&#x27;s the only way to find yourself. You don&#x27;t find yourself, if you like bench pressing and you bench press all the fucking time, where do you find it out? If you like to swim, that&#x27;s all you want to do is swim. What do you find out? Put that, you know, people always, people talk about triple down on your strengths. That&#x27;s the weakest in the world. No, triple down on your weaknesses. Find out something about yourself.</p>
+          </div>
+        </section>
+        
+        </div>
+      </article>
+    </main>
+  </div>
+
+  <!-- Floating Tools -->
+  <div class="floating-tools">
+    <button class="float-btn" id="scroll-top-btn" title="回到頂部">▲</button>
+  </div>
+
+  <script>
+    // --- Preferences & Theme Logic ---
+    const themes = ['light', 'sepia', 'dark'];
+    const themeNames = {'light': '☀️ 明亮', 'sepia': '📜 護眼', 'dark': '🌙 暗黑'};
+    let currentThemeIdx = themes.indexOf(localStorage.getItem('reader-theme') || 'light');
+    if (currentThemeIdx === -1) currentThemeIdx = 0;
+
+    function applyTheme(theme) {
+      document.documentElement.setAttribute('data-theme', theme);
+      localStorage.setItem('reader-theme', theme);
+      const span = document.querySelector('#theme-btn span');
+      if (span) span.textContent = themeNames[theme].split(' ')[1];
+    }
+    applyTheme(themes[currentThemeIdx]);
+
+    document.getElementById('theme-btn').addEventListener('click', () => {
+      currentThemeIdx = (currentThemeIdx + 1) % themes.length;
+      applyTheme(themes[currentThemeIdx]);
+    });
+
+    // --- Font Family Toggle ---
+    let isSerif = localStorage.getItem('reader-serif') === 'true';
+    function applyFontFamily(serif) {
+      document.documentElement.style.setProperty('--font-family', serif ? 'var(--font-serif)' : 'var(--font-body)');
+      localStorage.setItem('reader-serif', serif);
+    }
+    applyFontFamily(isSerif);
+    document.getElementById('font-family-btn').addEventListener('click', () => {
+      isSerif = !isSerif;
+      applyFontFamily(isSerif);
+    });
+
+    // --- Font Size Adjustment ---
+    let currentFontSize = parseInt(localStorage.getItem('reader-font-size') || '18', 10);
+    function applyFontSize(size) {
+      size = Math.max(14, Math.min(26, size));
+      currentFontSize = size;
+      document.documentElement.style.setProperty('--font-size', size + 'px');
+      localStorage.setItem('reader-font-size', size);
+    }
+    applyFontSize(currentFontSize);
+
+    document.getElementById('font-dec-btn').addEventListener('click', () => applyFontSize(currentFontSize - 1));
+    document.getElementById('font-inc-btn').addEventListener('click', () => applyFontSize(currentFontSize + 1));
+
+    // --- Sidebar Drawer & Backdrop ---
+    const sidebar = document.getElementById('sidebar');
+    const backdrop = document.getElementById('backdrop');
+    const toggleSidebarBtn = document.getElementById('toggle-sidebar-btn');
+
+    function toggleSidebar() {
+      const isOpen = sidebar.classList.toggle('open');
+      backdrop.classList.toggle('open', isOpen);
+    }
+
+    toggleSidebarBtn.addEventListener('click', toggleSidebar);
+    backdrop.addEventListener('click', () => {
+      sidebar.classList.remove('open');
+      backdrop.classList.remove('open');
+    });
+
+    // Close sidebar on item click (mobile)
+    document.querySelectorAll('.toc-item a').forEach(link => {
+      link.addEventListener('click', () => {
+        if (window.innerWidth <= 992) {
+          sidebar.classList.remove('open');
+          backdrop.classList.remove('open');
+        }
+      });
+    });
+
+    // --- TOC Search Filter ---
+    const tocFilter = document.getElementById('toc-filter');
+    const tocItems = document.querySelectorAll('.toc-item');
+    tocFilter.addEventListener('input', (e) => {
+      const q = e.target.value.toLowerCase().trim();
+      tocItems.forEach(item => {
+        const text = item.textContent.toLowerCase();
+        item.style.display = text.includes(q) ? '' : 'none';
+      });
+    });
+
+    // --- Reading Progress & Scroll Spy ---
+    const progressBar = document.getElementById('progress-bar');
+    const sections = Array.from(document.querySelectorAll('.transcript-section'));
+    const tocLinkMap = new Map();
+    document.querySelectorAll('.toc-item a').forEach(a => {
+      const href = a.getAttribute('href');
+      if (href && href.startsWith('#')) {
+        tocLinkMap.set(href.slice(1), a.parentElement);
+      }
+    });
+
+    window.addEventListener('scroll', () => {
+      const winScroll = document.documentElement.scrollTop;
+      const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+      const scrolled = height > 0 ? (winScroll / height) * 100 : 0;
+      progressBar.style.width = scrolled + '%';
+
+      // Scroll spy: find current section
+      let currentSectionId = '';
+      for (const sec of sections) {
+        const rect = sec.getBoundingClientRect();
+        if (rect.top <= 120) {
+          currentSectionId = sec.id;
+        } else {
+          break;
+        }
+      }
+
+      if (currentSectionId) {
+        document.querySelectorAll('.toc-item.active').forEach(el => el.classList.remove('active'));
+        const activeItem = tocLinkMap.get(currentSectionId);
+        if (activeItem) {
+          activeItem.classList.add('active');
+        }
+      }
+    }, { passive: true });
+
+    // --- Scroll Top Button ---
+    document.getElementById('scroll-top-btn').addEventListener('click', () => {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  </script>
+</body>
+</html>

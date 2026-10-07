@@ -1,0 +1,637 @@
+<!DOCTYPE html>
+<html lang="zh-Hant" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nassim Taleb - 4 Rules To Become Antifragile (For A Better Life) - 有聲書學習電子書</title>
+  <style>
+    :root {
+      --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif;
+      --font-serif: "Iansui", "芫荽", Georgia, "Songti TC", "Noto Serif TC", serif;
+      --font-family: var(--font-body);
+      --font-size: 18px;
+      --line-height: 1.85;
+      --content-max-width: 820px;
+      --sidebar-width: 320px;
+      --bg-primary: #fcfcfd;
+      --bg-surface: #ffffff;
+      --bg-sidebar: #f8f9fa;
+      --bg-header: rgba(255, 255, 255, 0.92);
+      --text-primary: #1f2328;
+      --text-secondary: #57606a;
+      --text-muted: #8c959f;
+      --border-color: #e1e4e8;
+      --accent-color: #2563eb;
+      --accent-hover: #1d4ed8;
+      --accent-light: #eff6ff;
+      --badge-bg: #e0f2fe;
+      --badge-text: #0369a1;
+      --card-shadow: 0 1px 3px rgba(0, 0, 0, 0.05), 0 1px 2px rgba(0, 0, 0, 0.03);
+    }
+
+    [data-theme="sepia"] {
+      --bg-primary: #fbf0d9;
+      --bg-surface: #f4e8cf;
+      --bg-sidebar: #efe3c7;
+      --bg-header: rgba(244, 232, 207, 0.94);
+      --text-primary: #433422;
+      --text-secondary: #6e583f;
+      --text-muted: #957d60;
+      --border-color: #e3d3b4;
+      --accent-color: #92400e;
+      --accent-hover: #78350f;
+      --accent-light: #fbeacf;
+      --badge-bg: #ead8b8;
+      --badge-text: #6b4012;
+      --card-shadow: 0 1px 3px rgba(67, 52, 34, 0.08);
+    }
+
+    [data-theme="dark"] {
+      --bg-primary: #0f172a;
+      --bg-surface: #1e293b;
+      --bg-sidebar: #131c31;
+      --bg-header: rgba(30, 41, 59, 0.92);
+      --text-primary: #f1f5f9;
+      --text-secondary: #94a3b8;
+      --text-muted: #64748b;
+      --border-color: #334155;
+      --accent-color: #38bdf8;
+      --accent-hover: #7dd3fc;
+      --accent-light: #1e3a5f;
+      --badge-bg: #1e293b;
+      --badge-text: #38bdf8;
+      --card-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: var(--font-family);
+      font-size: var(--font-size);
+      line-height: var(--line-height);
+      color: var(--text-primary);
+      background-color: var(--bg-primary);
+      transition: background-color 0.25s ease, color 0.25s ease;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* Top Reading Progress Bar */
+    #progress-bar {
+      position: fixed;
+      top: 0;
+      left: 0;
+      height: 3px;
+      background: linear-gradient(90deg, var(--accent-color), #818cf8);
+      width: 0%;
+      z-index: 1000;
+      transition: width 0.1s linear;
+    }
+
+    /* Top Navigation Header */
+    .top-header {
+      position: sticky;
+      top: 0;
+      z-index: 900;
+      height: 60px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 20px;
+      background-color: var(--bg-header);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      border-bottom: 1px solid var(--border-color);
+    }
+
+    .header-left, .header-right {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .btn-icon {
+      background: none;
+      border: 1px solid var(--border-color);
+      color: var(--text-primary);
+      cursor: pointer;
+      font-size: 15px;
+      padding: 6px 12px;
+      border-radius: 8px;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.2s;
+    }
+    .btn-icon:hover {
+      background-color: var(--accent-light);
+      border-color: var(--accent-color);
+      color: var(--accent-color);
+    }
+
+    .home-link {
+      text-decoration: none;
+      color: var(--text-primary);
+      font-weight: 600;
+      font-size: 15px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .home-link:hover {
+      color: var(--accent-color);
+    }
+
+    /* Layout Wrapper */
+    .layout {
+      display: flex;
+      flex: 1;
+      width: 100%;
+      position: relative;
+    }
+
+    /* Sidebar / TOC */
+    .sidebar {
+      width: var(--sidebar-width);
+      position: sticky;
+      top: 60px;
+      height: calc(100vh - 60px);
+      background-color: var(--bg-sidebar);
+      border-right: 1px solid var(--border-color);
+      overflow-y: auto;
+      padding: 20px 16px;
+      flex-shrink: 0;
+      transition: transform 0.3s ease;
+    }
+
+    .sidebar-title {
+      font-size: 14px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      color: var(--text-secondary);
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .toc-search {
+      width: 100%;
+      padding: 8px 12px;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      background: var(--bg-surface);
+      color: var(--text-primary);
+      font-size: 13px;
+      margin-bottom: 14px;
+    }
+    .toc-search:focus {
+      outline: 2px solid var(--accent-color);
+    }
+
+    .toc-list {
+      list-style: none;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 3px;
+    }
+
+    .toc-item a {
+      display: block;
+      padding: 7px 10px;
+      border-radius: 6px;
+      color: var(--text-secondary);
+      text-decoration: none;
+      font-size: 13.5px;
+      font-family: monospace;
+      transition: all 0.15s ease;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .toc-item a:hover {
+      background-color: var(--accent-light);
+      color: var(--accent-color);
+    }
+
+    .toc-item.active a {
+      background-color: var(--accent-color);
+      color: #ffffff;
+      font-weight: 600;
+    }
+
+    /* Main Reader Content */
+    .main-content {
+      flex: 1;
+      min-width: 0;
+      padding: 40px 24px 80px 24px;
+      display: flex;
+      justify-content: center;
+    }
+
+    .reader-container {
+      width: 100%;
+      max-width: var(--content-max-width);
+    }
+
+    /* Book Hero / Header */
+    .book-hero {
+      margin-bottom: 40px;
+      padding-bottom: 24px;
+      border-bottom: 2px solid var(--border-color);
+    }
+
+    .book-hero h1 {
+      font-size: 2.1em;
+      line-height: 1.3;
+      margin-bottom: 16px;
+      color: var(--text-primary);
+      font-weight: 800;
+    }
+
+    .book-meta-chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 14px;
+    }
+
+    .meta-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 5px 12px;
+      border-radius: 20px;
+      background-color: var(--badge-bg);
+      color: var(--badge-text);
+      font-size: 13px;
+      font-weight: 500;
+    }
+
+    /* Content Typography */
+    .transcript-section {
+      margin-bottom: 44px;
+      scroll-margin-top: 80px;
+      padding-top: 10px;
+    }
+
+    .section-header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 16px;
+      padding: 8px 12px;
+      border-radius: 8px;
+      background-color: var(--bg-surface);
+      border-left: 4px solid var(--accent-color);
+      box-shadow: var(--card-shadow);
+    }
+
+    .section-time {
+      font-size: 1.1em;
+      font-weight: 700;
+      color: var(--accent-color);
+      font-family: monospace;
+    }
+
+    .section-badge {
+      font-size: 12px;
+      color: var(--text-muted);
+    }
+
+    .section-body {
+      text-align: justify;
+      hyphens: auto;
+    }
+
+    .section-body p {
+      margin-bottom: 1.25em;
+      text-indent: 1.75em;
+      letter-spacing: 0.01em;
+    }
+
+    /* Floating Navigation Controls */
+    .floating-tools {
+      position: fixed;
+      bottom: 24px;
+      right: 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      z-index: 800;
+    }
+
+    .float-btn {
+      width: 44px;
+      height: 44px;
+      border-radius: 50%;
+      background-color: var(--bg-surface);
+      color: var(--text-primary);
+      border: 1px solid var(--border-color);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 18px;
+      transition: transform 0.2s, background-color 0.2s;
+    }
+    .float-btn:hover {
+      transform: translateY(-2px);
+      background-color: var(--accent-light);
+      color: var(--accent-color);
+    }
+
+    /* Overlay for mobile drawer */
+    .backdrop {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.4);
+      z-index: 850;
+    }
+
+    /* Responsive */
+    @media (max-width: 992px) {
+      .sidebar {
+        position: fixed;
+        left: 0;
+        top: 60px;
+        bottom: 0;
+        z-index: 860;
+        transform: translateX(-100%);
+        box-shadow: 4px 0 16px rgba(0,0,0,0.15);
+      }
+
+      .sidebar.open {
+        transform: translateX(0);
+      }
+
+      .backdrop.open {
+        display: block;
+      }
+    }
+
+    @media (max-width: 640px) {
+      :root {
+        --font-size: 17px;
+      }
+      .main-content {
+        padding: 24px 16px 60px 16px;
+      }
+      .book-hero h1 {
+        font-size: 1.6em;
+      }
+      .top-header {
+        padding: 0 12px;
+      }
+      .section-body p {
+        text-indent: 1.2em;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div id="progress-bar"></div>
+
+  <!-- Top Navigation -->
+  <header class="top-header">
+    <div class="header-left">
+      <button class="btn-icon" id="toggle-sidebar-btn" title="切換目錄">
+        📑 目錄
+      </button>
+      <a href="index.html" class="home-link" title="返回書架">
+        🏠 書架
+      </a>
+    </div>
+
+    <div class="header-right">
+      <!-- Theme Switcher -->
+      <button class="btn-icon" id="theme-btn" title="切換閱讀模式 (明亮/羊皮紙/暗黑)">
+        🎨 <span>外觀</span>
+      </button>
+
+      <!-- Font Style Switcher -->
+      <button class="btn-icon" id="font-family-btn" title="切換黑體/明體">
+        🔤
+      </button>
+
+      <!-- Font Size Adjuster -->
+      <button class="btn-icon" id="font-dec-btn" title="縮小字級">A-</button>
+      <button class="btn-icon" id="font-inc-btn" title="放大字級">A+</button>
+    </div>
+  </header>
+
+  <div class="backdrop" id="backdrop"></div>
+
+  <div class="layout">
+    <!-- Sidebar / TOC -->
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-title">
+        <span>章節目錄</span>
+        <span style="font-size: 12px; font-weight: normal;">共 3 節</span>
+      </div>
+      <input type="text" id="toc-filter" class="toc-search" placeholder="搜尋章節時間...">
+      <ul class="toc-list" id="toc-list">
+        <li class="toc-item"><a href="#sec-000000">⏱️ 00:00:00 - 00:05:00</a></li>
+<li class="toc-item"><a href="#sec-000500">⏱️ 00:05:00 - 00:10:01</a></li>
+<li class="toc-item"><a href="#sec-001001">⏱️ 00:10:01 - 00:13:17</a></li>
+      </ul>
+    </aside>
+
+    <!-- Main Content Reader -->
+    <main class="main-content">
+      <article class="reader-container">
+        <header class="book-hero">
+          <h1>Nassim Taleb - 4 Rules To Become Antifragile (For A Better Life)</h1>
+          <div class="book-meta-chips">
+            <span class="meta-chip">🏷️ 時長：00:13:17</span>
+<span class="meta-chip">🏷️ 模型：small.en</span>
+<span class="meta-chip">🏷️ 日期：2026-09-22</span>
+          </div>
+        </header>
+
+        <!-- Transcript Content -->
+        <div class="book-body">
+          
+        <section class="transcript-section" id="sec-000000">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:00:00 - 00:05:00</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>bad events make people grow. I mean, up to a point, of course, bad events can be, you know, something that kills you, it doesn&#x27;t make you grow. But so there&#x27;s something called post-traumatic growth and psychologists don&#x27;t talk about it. All they talk about is disorder and the idea that nobody doesn&#x27;t make any money selling you, you know, post-traumatic growth. They give you, because they don&#x27;t have to treat you. Nature is treating you. Okay, well, psychologists make money, giving you advice on your post-traumatic disorders. So they like to put disorders. And then, of course, the antifragile, a lot of people upregulate on the stressors. That&#x27;s a post-traumatic growth. In other words, if you need stressors, you must get your stressors. So you know there&#x27;s going to be wind. There&#x27;s an expression in the states, when life gives you a lemon, you make lemonade. The idea is that you know there&#x27;s going to be a lot of wind. So either you go in the basement and start crying as for government money, all right, or there&#x27;s going to be a lot of wind and you say, oh, I&#x27;m going to make some money out of it. Big wood bills. So that&#x27;s the main one. And if you look at the history of civilization and countries, you see a parameter, a little bit of stressor has caused a lot of people to do very well. I think the most successful country in history, Singapore, they have no resources. So when you don&#x27;t have resources, you tend to upregulate. The Phoenicians had no resources. So it forced them to become merchants. And one thing leads to another. So it gets you out of the nostalgic states. And you look at Saudi Arabia, they have all the resources, and look what they&#x27;ve done with them compared to Singapore. In an early chapter of the book, you have a very long table with three columns, fragile, robust, and antifragile. And you can pick any of the rows in that table and elaborate on it. For example, tourists and flaner, one of your favorite words. And there is something quite deep in that discussion. Okay. I was an option trader. Option, you like optionality. You see, you like uncertainty. You benefit from uncertainty. You like some disorder. When you&#x27;re a tourist, you&#x27;re on the track. If the bus is late, you&#x27;re in trouble. If you&#x27;re an adventurer, you benefit. You&#x27;re opportunistically taking advantage of uncertainty. So therefore, you&#x27;re in that category of antifragile. And if you&#x27;re robust, you don&#x27;t care. So the idea of entrepreneurs are in the category of antifragile. And the people who have a very rationalistic thing put on track, you&#x27;re following a certain code, you are fragile. Because if something breaks, you&#x27;re in trouble. Nothing good can happen. Things can go wrong, but they can&#x27;t get better. So the fragile has more downside than upside. Uncertainty harms them. Take a plane ride. If you inject uncertainty into your plane ride, I just came from Europe. It was eight hours. Ended up to be 16. So I was eight hours late. Did anyone have you ever land in JFK coming from Europe eight hours early? No. That&#x27;s so a category of object. You inject uncertainty, the travel time extends. The opposite would be a system in which you inject uncertainty. You have benefits. And that&#x27;s the antifragile, entrepreneurship. If you&#x27;re an adventurer, you like uncertainty. And people, you know, couldn&#x27;t get it. I have a way to explain it. Someone tells me what&#x27;s the difference, was resilient. I says there&#x27;s a big difference. If I buy insurance on my house in 10 times the amount needed, you know, I want an accident to happen. You see, it&#x27;s not as I want. Every day, I want to wake up. I say there&#x27;s no cow, no earthquake, nothing. If at 10 times I get paid 10 times, the damages. So that&#x27;s like inverse insurance. So insurance companies, of course, are short volatility, are harmed by disorder. They are fragile. And someone who has 10 times insurance would benefit from uncertainty. I think that education, it&#x27;s not very good because in higher doses, because it&#x27;s sort of it selects for those who don&#x27;t know how to handle uncertainty. Right. And this is why people, great scientists like Darwin, Einstein, Groton-Dic, all the big, big, big, big scientists are people who were not into the traditional, you know, education system simply because it kills creativity and all that stuff. So when I was about 14, I decided to become a writer. So I realized that if you stick to school, it narrows what you&#x27;re going to know. All right. And to be a writer,</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-000500">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:05:00 - 00:10:01</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>you have to read a lot of books. So I started reading wholesale. And it saved me the bad part of education where you have, you know, to read a certain number of books. And so the narrow education, the broader one, I think that&#x27;s what saved me from this, you know, race. So and then so I had an anti and then developed, you know, very quickly an anti education. I think the only way you can learn things if you&#x27;re autodidact and it allows you not just to have a breadth of things, you know, but to focus on things that are really important to you, not to some second rate person who teaches high school. Right. And I hated my high school teachers. You can understand it was quite rebellious. So that&#x27;s the most. So so it was a so I think that that helped me a lot reading a lot of books. The great American author Mark Twain once said, I never let school get in the way of my education. Yeah, writers usually don&#x27;t like formal education. So but obviously in a in an engineered world in a world that&#x27;s so technically complicated, you&#x27;ve got to have, you know, to deal with it, you have to you have to have some educational. It&#x27;s good to have a minimal education, but not to focus on school, because anything people are going to teach you at school is useless already, or has been used. This is one thing you learn as a trader, anything you&#x27;re going to read the newspaper, say the first 15 pages of the newspaper is absolutely no relevance to anything. It&#x27;s already priced in. So so that&#x27;s the way, you know, it&#x27;s the same way to view education. So if you compare apprenticeship, which is more tinkering, trial and error, more doing things, apprenticeship is something very prevalent in Switzerland and Germany. And I don&#x27;t know about Nordic countries. That&#x27;s vastly more important than education. They think that historic was to the attachment from the world. Yeah, exactly. So in other words, become a vegetable. And that&#x27;s the impression that for a long time, for about 2000 years, he has a story. But when I read the type of people that he wanted to keep the upside and not be hurt, Seneca was the wealthiest man in the world. Okay. And people found inconsistency. He was not against wealth, you see, and he proved, you know, that effectively one that can be a philosopher. What he was, he wanted the upside and then the mental exercise and wakes up rich. Yeah. So he was he was it was he kept the upside. In fact, what they had is my, my thoughts are the people who really had like Buddhist those an attitude, wanted to have the last word was faked. And my definition is I said, they&#x27;re the story saves someone who transforms fear into prudence, mistakes and desire someone who wanted the upside without downside. And Seneca approved it. And the way you get there is Seneca suggesting is through mental exertions. We&#x27;re not through</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-001001">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:10:01 - 00:13:17</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>necessarily some of its action, obviously, but some of it is the way you look at your life, and what you prepare yourself for and what, how you affect your expectations. Exactly. He understood the hedonic treadmill, you know, that Danny Kahneman, he understood it very well, you see, and he wanted to write. Not a bad goal. So here I&#x27;ve introduced the book, and I end the book with the following. The only way you know you&#x27;re alive, you&#x27;re not a machine, is if you like variability. So this is if you&#x27;re anti fragile, it means you&#x27;re alive. Now let me leave you with some quotes and ideas related to these rules. Do hard things. Let&#x27;s hear Navarro, we can&#x27;t stake on this. You know, look at the kids who are born rich, no meaning to their lives. It&#x27;s a terrible place. Yeah, your real resume is just a cataloging of all your suffering. If I were to ask you to describe your real life to yourself, and you look back in your deathbed, you&#x27;re going to go back and say, what are the interesting things I&#x27;ve done? And it&#x27;s all going to be around the sacrifices that you made and the hard things that you did. Anything you&#x27;re given doesn&#x27;t matter. You know, you have your four limbs, you have your brain, you have your head, you have your skin. That&#x27;s all for granted. So you have to do hard things anyway to create your own meaning in life. Quote from Seneca, no man is more unhappy than he who never faces adversity, for he&#x27;s not permitted to prove himself. Go through life as a flaner. Nassim Taleb wrote, if you know in the morning, what your day looks like with any precision, you&#x27;re a little bit dead. The more precision, the more dead you are. You have a calibrated life when most of what you fear has the titling prospect of adventure. Develop an anti education quote from Nassim Taleb, only the auto deducts are free. And now a quote from Jim Brown, formal education will make you a living. Self education will make you a fortune. Adopt an anti fragile life philosophy on his book letters from a stoic Seneca growth set aside a certain number of days during which you shall be content with the scantiest and cheapest fare with course and rough dress saying to yourself the while is this the condition that I feared. Tim Ferriss is also known for following this practice. Let&#x27;s hear it from him for inoculating yourself against that fear of loss failure, especially for things outside of your control. I always talk about it, but I&#x27;ll talk about it again is letters from a stoic by Seneca, like training yourself. I&#x27;ve given hundreds of copies of this book away. The ability to inoculate yourself against fear by training. So for instance, like spending four or five days, not even that much, two days a month where you eat the cheapest food, where the cheapest clothing, don&#x27;t use transportation. Then you ask yourself, you know, all along is this the condition I so feared. Totally. And then your fear of failure. Like this isn&#x27;t so bad. I can do fine.</p>
+          </div>
+        </section>
+        
+        </div>
+      </article>
+    </main>
+  </div>
+
+  <!-- Floating Tools -->
+  <div class="floating-tools">
+    <button class="float-btn" id="scroll-top-btn" title="回到頂部">▲</button>
+  </div>
+
+  <script>
+    // --- Preferences & Theme Logic ---
+    const themes = ['light', 'sepia', 'dark'];
+    const themeNames = {'light': '☀️ 明亮', 'sepia': '📜 護眼', 'dark': '🌙 暗黑'};
+    let currentThemeIdx = themes.indexOf(localStorage.getItem('reader-theme') || 'light');
+    if (currentThemeIdx === -1) currentThemeIdx = 0;
+
+    function applyTheme(theme) {
+      document.documentElement.setAttribute('data-theme', theme);
+      localStorage.setItem('reader-theme', theme);
+      const span = document.querySelector('#theme-btn span');
+      if (span) span.textContent = themeNames[theme].split(' ')[1];
+    }
+    applyTheme(themes[currentThemeIdx]);
+
+    document.getElementById('theme-btn').addEventListener('click', () => {
+      currentThemeIdx = (currentThemeIdx + 1) % themes.length;
+      applyTheme(themes[currentThemeIdx]);
+    });
+
+    // --- Font Family Toggle ---
+    let isSerif = localStorage.getItem('reader-serif') === 'true';
+    function applyFontFamily(serif) {
+      document.documentElement.style.setProperty('--font-family', serif ? 'var(--font-serif)' : 'var(--font-body)');
+      localStorage.setItem('reader-serif', serif);
+    }
+    applyFontFamily(isSerif);
+    document.getElementById('font-family-btn').addEventListener('click', () => {
+      isSerif = !isSerif;
+      applyFontFamily(isSerif);
+    });
+
+    // --- Font Size Adjustment ---
+    let currentFontSize = parseInt(localStorage.getItem('reader-font-size') || '18', 10);
+    function applyFontSize(size) {
+      size = Math.max(14, Math.min(26, size));
+      currentFontSize = size;
+      document.documentElement.style.setProperty('--font-size', size + 'px');
+      localStorage.setItem('reader-font-size', size);
+    }
+    applyFontSize(currentFontSize);
+
+    document.getElementById('font-dec-btn').addEventListener('click', () => applyFontSize(currentFontSize - 1));
+    document.getElementById('font-inc-btn').addEventListener('click', () => applyFontSize(currentFontSize + 1));
+
+    // --- Sidebar Drawer & Backdrop ---
+    const sidebar = document.getElementById('sidebar');
+    const backdrop = document.getElementById('backdrop');
+    const toggleSidebarBtn = document.getElementById('toggle-sidebar-btn');
+
+    function toggleSidebar() {
+      const isOpen = sidebar.classList.toggle('open');
+      backdrop.classList.toggle('open', isOpen);
+    }
+
+    toggleSidebarBtn.addEventListener('click', toggleSidebar);
+    backdrop.addEventListener('click', () => {
+      sidebar.classList.remove('open');
+      backdrop.classList.remove('open');
+    });
+
+    // Close sidebar on item click (mobile)
+    document.querySelectorAll('.toc-item a').forEach(link => {
+      link.addEventListener('click', () => {
+        if (window.innerWidth <= 992) {
+          sidebar.classList.remove('open');
+          backdrop.classList.remove('open');
+        }
+      });
+    });
+
+    // --- TOC Search Filter ---
+    const tocFilter = document.getElementById('toc-filter');
+    const tocItems = document.querySelectorAll('.toc-item');
+    tocFilter.addEventListener('input', (e) => {
+      const q = e.target.value.toLowerCase().trim();
+      tocItems.forEach(item => {
+        const text = item.textContent.toLowerCase();
+        item.style.display = text.includes(q) ? '' : 'none';
+      });
+    });
+
+    // --- Reading Progress & Scroll Spy ---
+    const progressBar = document.getElementById('progress-bar');
+    const sections = Array.from(document.querySelectorAll('.transcript-section'));
+    const tocLinkMap = new Map();
+    document.querySelectorAll('.toc-item a').forEach(a => {
+      const href = a.getAttribute('href');
+      if (href && href.startsWith('#')) {
+        tocLinkMap.set(href.slice(1), a.parentElement);
+      }
+    });
+
+    window.addEventListener('scroll', () => {
+      const winScroll = document.documentElement.scrollTop;
+      const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+      const scrolled = height > 0 ? (winScroll / height) * 100 : 0;
+      progressBar.style.width = scrolled + '%';
+
+      // Scroll spy: find current section
+      let currentSectionId = '';
+      for (const sec of sections) {
+        const rect = sec.getBoundingClientRect();
+        if (rect.top <= 120) {
+          currentSectionId = sec.id;
+        } else {
+          break;
+        }
+      }
+
+      if (currentSectionId) {
+        document.querySelectorAll('.toc-item.active').forEach(el => el.classList.remove('active'));
+        const activeItem = tocLinkMap.get(currentSectionId);
+        if (activeItem) {
+          activeItem.classList.add('active');
+        }
+      }
+    }, { passive: true });
+
+    // --- Scroll Top Button ---
+    document.getElementById('scroll-top-btn').addEventListener('click', () => {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,1021 @@
+<!DOCTYPE html>
+<html lang="zh-Hant" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Zen Mind, Beginner&#x27;s Mind by Shunryu Suzuki (Full Audio book) [u59jJhsXnwI] - 有聲書學習電子書</title>
+  <style>
+    :root {
+      --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif;
+      --font-serif: "Iansui", "芫荽", Georgia, "Songti TC", "Noto Serif TC", serif;
+      --font-family: var(--font-body);
+      --font-size: 18px;
+      --line-height: 1.85;
+      --content-max-width: 820px;
+      --sidebar-width: 320px;
+      --bg-primary: #fcfcfd;
+      --bg-surface: #ffffff;
+      --bg-sidebar: #f8f9fa;
+      --bg-header: rgba(255, 255, 255, 0.92);
+      --text-primary: #1f2328;
+      --text-secondary: #57606a;
+      --text-muted: #8c959f;
+      --border-color: #e1e4e8;
+      --accent-color: #2563eb;
+      --accent-hover: #1d4ed8;
+      --accent-light: #eff6ff;
+      --badge-bg: #e0f2fe;
+      --badge-text: #0369a1;
+      --card-shadow: 0 1px 3px rgba(0, 0, 0, 0.05), 0 1px 2px rgba(0, 0, 0, 0.03);
+    }
+
+    [data-theme="sepia"] {
+      --bg-primary: #fbf0d9;
+      --bg-surface: #f4e8cf;
+      --bg-sidebar: #efe3c7;
+      --bg-header: rgba(244, 232, 207, 0.94);
+      --text-primary: #433422;
+      --text-secondary: #6e583f;
+      --text-muted: #957d60;
+      --border-color: #e3d3b4;
+      --accent-color: #92400e;
+      --accent-hover: #78350f;
+      --accent-light: #fbeacf;
+      --badge-bg: #ead8b8;
+      --badge-text: #6b4012;
+      --card-shadow: 0 1px 3px rgba(67, 52, 34, 0.08);
+    }
+
+    [data-theme="dark"] {
+      --bg-primary: #0f172a;
+      --bg-surface: #1e293b;
+      --bg-sidebar: #131c31;
+      --bg-header: rgba(30, 41, 59, 0.92);
+      --text-primary: #f1f5f9;
+      --text-secondary: #94a3b8;
+      --text-muted: #64748b;
+      --border-color: #334155;
+      --accent-color: #38bdf8;
+      --accent-hover: #7dd3fc;
+      --accent-light: #1e3a5f;
+      --badge-bg: #1e293b;
+      --badge-text: #38bdf8;
+      --card-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: var(--font-family);
+      font-size: var(--font-size);
+      line-height: var(--line-height);
+      color: var(--text-primary);
+      background-color: var(--bg-primary);
+      transition: background-color 0.25s ease, color 0.25s ease;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* Top Reading Progress Bar */
+    #progress-bar {
+      position: fixed;
+      top: 0;
+      left: 0;
+      height: 3px;
+      background: linear-gradient(90deg, var(--accent-color), #818cf8);
+      width: 0%;
+      z-index: 1000;
+      transition: width 0.1s linear;
+    }
+
+    /* Top Navigation Header */
+    .top-header {
+      position: sticky;
+      top: 0;
+      z-index: 900;
+      height: 60px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 20px;
+      background-color: var(--bg-header);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      border-bottom: 1px solid var(--border-color);
+    }
+
+    .header-left, .header-right {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .btn-icon {
+      background: none;
+      border: 1px solid var(--border-color);
+      color: var(--text-primary);
+      cursor: pointer;
+      font-size: 15px;
+      padding: 6px 12px;
+      border-radius: 8px;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.2s;
+    }
+    .btn-icon:hover {
+      background-color: var(--accent-light);
+      border-color: var(--accent-color);
+      color: var(--accent-color);
+    }
+
+    .home-link {
+      text-decoration: none;
+      color: var(--text-primary);
+      font-weight: 600;
+      font-size: 15px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .home-link:hover {
+      color: var(--accent-color);
+    }
+
+    /* Layout Wrapper */
+    .layout {
+      display: flex;
+      flex: 1;
+      width: 100%;
+      position: relative;
+    }
+
+    /* Sidebar / TOC */
+    .sidebar {
+      width: var(--sidebar-width);
+      position: sticky;
+      top: 60px;
+      height: calc(100vh - 60px);
+      background-color: var(--bg-sidebar);
+      border-right: 1px solid var(--border-color);
+      overflow-y: auto;
+      padding: 20px 16px;
+      flex-shrink: 0;
+      transition: transform 0.3s ease;
+    }
+
+    .sidebar-title {
+      font-size: 14px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      color: var(--text-secondary);
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .toc-search {
+      width: 100%;
+      padding: 8px 12px;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      background: var(--bg-surface);
+      color: var(--text-primary);
+      font-size: 13px;
+      margin-bottom: 14px;
+    }
+    .toc-search:focus {
+      outline: 2px solid var(--accent-color);
+    }
+
+    .toc-list {
+      list-style: none;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 3px;
+    }
+
+    .toc-item a {
+      display: block;
+      padding: 7px 10px;
+      border-radius: 6px;
+      color: var(--text-secondary);
+      text-decoration: none;
+      font-size: 13.5px;
+      font-family: monospace;
+      transition: all 0.15s ease;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .toc-item a:hover {
+      background-color: var(--accent-light);
+      color: var(--accent-color);
+    }
+
+    .toc-item.active a {
+      background-color: var(--accent-color);
+      color: #ffffff;
+      font-weight: 600;
+    }
+
+    /* Main Reader Content */
+    .main-content {
+      flex: 1;
+      min-width: 0;
+      padding: 40px 24px 80px 24px;
+      display: flex;
+      justify-content: center;
+    }
+
+    .reader-container {
+      width: 100%;
+      max-width: var(--content-max-width);
+    }
+
+    /* Book Hero / Header */
+    .book-hero {
+      margin-bottom: 40px;
+      padding-bottom: 24px;
+      border-bottom: 2px solid var(--border-color);
+    }
+
+    .book-hero h1 {
+      font-size: 2.1em;
+      line-height: 1.3;
+      margin-bottom: 16px;
+      color: var(--text-primary);
+      font-weight: 800;
+    }
+
+    .book-meta-chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 14px;
+    }
+
+    .meta-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 5px 12px;
+      border-radius: 20px;
+      background-color: var(--badge-bg);
+      color: var(--badge-text);
+      font-size: 13px;
+      font-weight: 500;
+    }
+
+    /* Content Typography */
+    .transcript-section {
+      margin-bottom: 44px;
+      scroll-margin-top: 80px;
+      padding-top: 10px;
+    }
+
+    .section-header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 16px;
+      padding: 8px 12px;
+      border-radius: 8px;
+      background-color: var(--bg-surface);
+      border-left: 4px solid var(--accent-color);
+      box-shadow: var(--card-shadow);
+    }
+
+    .section-time {
+      font-size: 1.1em;
+      font-weight: 700;
+      color: var(--accent-color);
+      font-family: monospace;
+    }
+
+    .section-badge {
+      font-size: 12px;
+      color: var(--text-muted);
+    }
+
+    .section-body {
+      text-align: justify;
+      hyphens: auto;
+    }
+
+    .section-body p {
+      margin-bottom: 1.25em;
+      text-indent: 1.75em;
+      letter-spacing: 0.01em;
+    }
+
+    /* Floating Navigation Controls */
+    .floating-tools {
+      position: fixed;
+      bottom: 24px;
+      right: 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      z-index: 800;
+    }
+
+    .float-btn {
+      width: 44px;
+      height: 44px;
+      border-radius: 50%;
+      background-color: var(--bg-surface);
+      color: var(--text-primary);
+      border: 1px solid var(--border-color);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 18px;
+      transition: transform 0.2s, background-color 0.2s;
+    }
+    .float-btn:hover {
+      transform: translateY(-2px);
+      background-color: var(--accent-light);
+      color: var(--accent-color);
+    }
+
+    /* Overlay for mobile drawer */
+    .backdrop {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.4);
+      z-index: 850;
+    }
+
+    /* Responsive */
+    @media (max-width: 992px) {
+      .sidebar {
+        position: fixed;
+        left: 0;
+        top: 60px;
+        bottom: 0;
+        z-index: 860;
+        transform: translateX(-100%);
+        box-shadow: 4px 0 16px rgba(0,0,0,0.15);
+      }
+
+      .sidebar.open {
+        transform: translateX(0);
+      }
+
+      .backdrop.open {
+        display: block;
+      }
+    }
+
+    @media (max-width: 640px) {
+      :root {
+        --font-size: 17px;
+      }
+      .main-content {
+        padding: 24px 16px 60px 16px;
+      }
+      .book-hero h1 {
+        font-size: 1.6em;
+      }
+      .top-header {
+        padding: 0 12px;
+      }
+      .section-body p {
+        text-indent: 1.2em;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div id="progress-bar"></div>
+
+  <!-- Top Navigation -->
+  <header class="top-header">
+    <div class="header-left">
+      <button class="btn-icon" id="toggle-sidebar-btn" title="切換目錄">
+        📑 目錄
+      </button>
+      <a href="index.html" class="home-link" title="返回書架">
+        🏠 書架
+      </a>
+    </div>
+
+    <div class="header-right">
+      <!-- Theme Switcher -->
+      <button class="btn-icon" id="theme-btn" title="切換閱讀模式 (明亮/羊皮紙/暗黑)">
+        🎨 <span>外觀</span>
+      </button>
+
+      <!-- Font Style Switcher -->
+      <button class="btn-icon" id="font-family-btn" title="切換黑體/明體">
+        🔤
+      </button>
+
+      <!-- Font Size Adjuster -->
+      <button class="btn-icon" id="font-dec-btn" title="縮小字級">A-</button>
+      <button class="btn-icon" id="font-inc-btn" title="放大字級">A+</button>
+    </div>
+  </header>
+
+  <div class="backdrop" id="backdrop"></div>
+
+  <div class="layout">
+    <!-- Sidebar / TOC -->
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-title">
+        <span>章節目錄</span>
+        <span style="font-size: 12px; font-weight: normal;">共 35 節</span>
+      </div>
+      <input type="text" id="toc-filter" class="toc-search" placeholder="搜尋章節時間...">
+      <ul class="toc-list" id="toc-list">
+        <li class="toc-item"><a href="#sec-000000">⏱️ 00:00:00 - 00:05:00</a></li>
+<li class="toc-item"><a href="#sec-000500">⏱️ 00:05:00 - 00:10:02</a></li>
+<li class="toc-item"><a href="#sec-001002">⏱️ 00:10:02 - 00:15:05</a></li>
+<li class="toc-item"><a href="#sec-001505">⏱️ 00:15:05 - 00:20:06</a></li>
+<li class="toc-item"><a href="#sec-002006">⏱️ 00:20:06 - 00:25:08</a></li>
+<li class="toc-item"><a href="#sec-002508">⏱️ 00:25:08 - 00:30:14</a></li>
+<li class="toc-item"><a href="#sec-003014">⏱️ 00:30:14 - 00:35:17</a></li>
+<li class="toc-item"><a href="#sec-003517">⏱️ 00:35:17 - 00:40:18</a></li>
+<li class="toc-item"><a href="#sec-004018">⏱️ 00:40:18 - 00:45:20</a></li>
+<li class="toc-item"><a href="#sec-004520">⏱️ 00:45:20 - 00:50:21</a></li>
+<li class="toc-item"><a href="#sec-005021">⏱️ 00:50:21 - 00:55:21</a></li>
+<li class="toc-item"><a href="#sec-005521">⏱️ 00:55:21 - 01:00:23</a></li>
+<li class="toc-item"><a href="#sec-010023">⏱️ 01:00:23 - 01:05:24</a></li>
+<li class="toc-item"><a href="#sec-010524">⏱️ 01:05:24 - 01:10:31</a></li>
+<li class="toc-item"><a href="#sec-011031">⏱️ 01:10:31 - 01:15:34</a></li>
+<li class="toc-item"><a href="#sec-011534">⏱️ 01:15:34 - 01:20:35</a></li>
+<li class="toc-item"><a href="#sec-012035">⏱️ 01:20:35 - 01:25:36</a></li>
+<li class="toc-item"><a href="#sec-012536">⏱️ 01:25:36 - 01:30:40</a></li>
+<li class="toc-item"><a href="#sec-013040">⏱️ 01:30:40 - 01:35:41</a></li>
+<li class="toc-item"><a href="#sec-013541">⏱️ 01:35:41 - 01:40:43</a></li>
+<li class="toc-item"><a href="#sec-014043">⏱️ 01:40:43 - 01:45:45</a></li>
+<li class="toc-item"><a href="#sec-014545">⏱️ 01:45:45 - 01:50:49</a></li>
+<li class="toc-item"><a href="#sec-015049">⏱️ 01:50:49 - 01:55:50</a></li>
+<li class="toc-item"><a href="#sec-015550">⏱️ 01:55:50 - 02:00:52</a></li>
+<li class="toc-item"><a href="#sec-020052">⏱️ 02:00:52 - 02:05:53</a></li>
+<li class="toc-item"><a href="#sec-020553">⏱️ 02:05:53 - 02:10:56</a></li>
+<li class="toc-item"><a href="#sec-021056">⏱️ 02:10:56 - 02:15:58</a></li>
+<li class="toc-item"><a href="#sec-021558">⏱️ 02:15:58 - 02:20:58</a></li>
+<li class="toc-item"><a href="#sec-022058">⏱️ 02:20:58 - 02:26:03</a></li>
+<li class="toc-item"><a href="#sec-022603">⏱️ 02:26:03 - 02:31:04</a></li>
+<li class="toc-item"><a href="#sec-023104">⏱️ 02:31:04 - 02:36:08</a></li>
+<li class="toc-item"><a href="#sec-023608">⏱️ 02:36:08 - 02:41:10</a></li>
+<li class="toc-item"><a href="#sec-024110">⏱️ 02:41:10 - 02:46:14</a></li>
+<li class="toc-item"><a href="#sec-024614">⏱️ 02:46:14 - 02:51:17</a></li>
+<li class="toc-item"><a href="#sec-025117">⏱️ 02:51:17 - 02:56:19</a></li>
+      </ul>
+    </aside>
+
+    <!-- Main Content Reader -->
+    <main class="main-content">
+      <article class="reader-container">
+        <header class="book-hero">
+          <h1>Zen Mind, Beginner&#x27;s Mind by Shunryu Suzuki (Full Audio book) [u59jJhsXnwI]</h1>
+          <div class="book-meta-chips">
+            <span class="meta-chip">🏷️ 時長：02:56:19</span>
+<span class="meta-chip">🏷️ 模型：small.en</span>
+<span class="meta-chip">🏷️ 日期：2026-09-22</span>
+          </div>
+        </header>
+
+        <!-- Transcript Content -->
+        <div class="book-body">
+          
+        <section class="transcript-section" id="sec-000000">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:00:00 - 00:05:00</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>Beginner&#x27;s mind. People say that practicing Zen is difficult, but there&#x27;s a misunderstanding as to why. It&#x27;s not difficult because it is hard to sit in the cross-legged position or to attain enlightenment. It is difficult because it is hard to keep our mind pure and our practice pure in its fundamental sense. The Zen school developed in many ways after it was established in China, but at the same time it became more and more impure. But I do not want to talk about Chinese Zen or the history of Zen. I&#x27;m interested in helping you keep your practice from becoming impure. In Japan we have the phrase shoshin, which means beginner&#x27;s mind. The goal of practice is always to keep our beginner&#x27;s mind. Suppose you recite the Prajna Paramita Sutra only once. It might be a very good recitation. But what would happen to you if you recited it twice, three times, four times, or more? You might easily lose your original attitude towards it. The same thing will happen in your other Zen practices. For a while you will keep your beginner&#x27;s mind. But if you continue to practice one, two, three years or more, although you may improve some, you are liable to lose the limitless meaning of original mind. For Zen students, the most important thing is not to be dualistic. Our original mind includes everything within itself. It is always rich and sufficient within itself. You should not lose your self-sufficient state of mind. This does not mean a closed mind, but actually an empty mind and a ready mind. If your mind is empty, it is always ready for anything. It is open to everything. In the beginner&#x27;s mind there are many possibilities. In the expert&#x27;s mind there are few. If you discriminate too much, you limit yourself. If you are too demanding or too greedy, your mind is not rich and self-sufficient. If we lose our original self-sufficient mind, we will lose all precepts. When your mind becomes demanding, when you long for something, you will end up violating your own precepts, not to tell lies, not to steal, not to kill, not to be immoral and so forth. If you keep your original mind, the precepts will keep themselves. In the beginner&#x27;s mind there is no thought, I have attained something. All self-centered thoughts limit our vast mind. When we have no thought of achievement, no thought of self, we are true beginners. Then we can really learn something. The beginner&#x27;s mind is the mind of compassion. When our mind is compassionate, it is boundless. Dogen Zenji, the founder of our school, always emphasized how important it is to resume our boundless original mind. Then we are always true to ourselves, in sympathy with all beings, and can actually practice. So the most difficult thing is always to keep your beginner&#x27;s mind. There is no need to have a deep understanding of Zen. Even though you read much Zen literature, you must read each sentence with a fresh mind. You should not say, I know what Zen is, or I have attained enlightenment. This is also the real secret of the arts. Always be a beginner. Be very, very careful about this point. If you start to practice Azen, you will begin to appreciate your beginner&#x27;s mind. It is the secret of Zen practice. Right practice. Now I would like to talk about our Zazen posture. When you sit in the full lotus position, your left foot is on your right thigh, and your right foot is on your left thigh. When we cross our legs like this, even though we have a right leg and a left leg, they have become one. The position expresses the oneness of duality, not two and not one. This is the most important teaching, not two and not one. Our body and mind are not two and not one.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-000500">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:05:00 - 00:10:02</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>If you think your body and mind are two, that is wrong. If you think that they are one, that is also wrong. Our body and mind are both two and one. We usually think that if something is not one, it is more than one. If it is not singular, it is plural, but in actual experience, our life is not only plural, but also singular. Each one of us is both dependent and independent. After some years, we will die. If we just think that it is the end of our life, this will be the wrong understanding. But on the other hand, if we think that we do not die, this is also wrong. We die and we do not die. This is the right understanding. Some people may say that our mind or soul exists forever, and it is only our physical body which dies. But this is not exactly right, because both mind and body have their end. But at the same time, it is also true that they exist eternally. And even though we say mind and body, they are actually two sides of one coin. This is the right understanding. So when we take this posture, it symbolizes this truth. When I have the left foot on the right side of my body and the right foot on the left side of my body, I do not know which is which. So either may be the left or the right side. The most important thing in taking the Zazen posture is to keep your spine straight. Your ears and your shoulders should be on one line. Relax your shoulders and push up toward the ceiling with the back of your head. And you should pull your chin in. When your chin is tilted up, you have no strength in your posture. You are probably dreaming. To gain strength in your posture, press your diaphragm down toward your hata or lower abdomen. This will help you maintain your physical and mental balance. When you try to keep this posture, at first you may find some difficulty breathing naturally. But when you get accustomed to it, you will be able to breathe naturally and deeply. Your hands should form the cosmic mudra. If you put your left hand on top of your right, middle joints of your middle fingers together, and touch your thumbs lightly together, as if you held a piece of paper between them, your hands will make a beautiful oval. You should keep this universal mudra with great care, as if you were holding something very precious in your hand. Your hands should be held against your body, with your thumbs at about the height of your navel. Hold your arms freely and easily, and slightly away from your body, as if you held an egg under each arm without breaking it. You should not be tilted sideways, backwards, or forwards. You should be sitting straight up, as if you were supporting the sky with your head. This is not just form or breathing. It expresses the key point of Buddhism. It is a perfect expression of your Buddha nature. If you want true understanding of Buddhism, you should practice this way. These forms are not a means of obtaining the right state of mind. To take this posture itself is the purpose of our practice. When you have this posture, you have the right state of mind, so there&#x27;s no need to try to attain some special state. When you try to attain something, your mind starts to wander about somewhere else. When you do not try to attain anything, you have your own body and mind right here. As N-Master would say, kill the Buddha. Kill the Buddha if the Buddha exists somewhere else. Kill the Buddha because you should resume your own Buddha nature. Doing something is expressing your own nature. We do not exist for the sake of something else. We exist for the sake of ourselves. This is the fundamental teaching expressed in the forms we observe. Next is for sitting. When we stand in the send-out, we have some rules. But the purpose of these rules is not to make everyone the same, but to allow each to express his own self most freely. For instance, each one of us has his own way of standing. So our standing posture is based on the proportions of our own bodies. When you stand, your heels should be as far apart as the width of your own fist. Your big toes in line with the centers of your breasts. As in Zazen, put some strength in your abdomen.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-001002">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:10:02 - 00:15:05</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>Here also your hands should express yourself. Hold your left hand against your chest, with fingers encircling your thumb, and put your right hand over it. In your thumb pointing downward and your forearms parallel to the floor, you feel as if you have some round pillar in your grasp, a big round temple pillar, so you cannot be slumped or tilted to the side. The most important point is to own your own physical body. If you slump, you will lose yourself. Your mind will be wandering about somewhere else. You will not be in your body. This is not the way. You must exist right here, right now. This is the key point. You must have your own body and mind. Everything should exist in the right place, in the right way, then there is no problem. If the microphone I use when I speak exists somewhere else, it will not serve its purpose. When we have our body and mind in order, everything else will exist in the right place, in the right way. But usually without being aware of it, we try to change something other than ourselves. We try to order things outside us. But it is impossible to organize things if you yourself are not in order. When you do things in the right way, at the right time, everything else will be organized. You are the boss. When the boss is sleeping, everyone is sleeping. When the boss does something right, everyone will do everything right and at the right time. That is the secret of Buddhism. So try always to keep the right posture, not only when you practice azen, but in all your activities. Take the right posture when you are driving your car and when you are reading. If you read in a slumped position, you cannot stay awake long. Try. You will discover how important it is to keep the right posture. This is the true teaching. The teaching which is written on paper is not the true teaching. Written teaching is a kind of food for your brain. Of course, it is necessary to take some food for your brain, but it is more important to be yourself by practicing the right way of life. That is why Buddha could not accept the religions existing at his time. He studied many religions, but he was not satisfied with their practices. He could not find the answer in asceticism or in philosophies. He was not interested in some metaphysical existence, but in his own body and mind, here and now. And when he found himself, he found that everything that exists has Buddha nature. That was his enlightenment. That is not some good feeling or some particular state of mind. The state of mind that exists when you sit in the right posture is, itself, enlightenment. If you cannot be satisfied with the state of mind you have in Zazen, it means your mind is still wandering about. Our body and mind should not be wobbling or wandering about. In this posture, there is no need to talk about the right state of mind. You already have it. This is the conclusion of Buddhism. Breathing When we practice Zazen, our mind always follows our breathing. When we inhale, the air comes into the inner world. When we exhale, the air goes out to the outer world. The inner world is limitless, and the outer world is also limitless. We say inner world or outer world, but actually there is just one whole world. In this limitless world, our throat is like a swinging door. The air comes in and goes out like someone passing through a swinging door. If you think, I breathe, the eye is extra. There is no you to say, I. What we call I is just a swinging door, which moves when we inhale and when we exhale. It just moves, that&#x27;s all. When your mind is pure and calm enough to follow this movement, there is nothing. No I, no world, no mind, no body, just a swinging door. So when we practice Zazen, all that exists is the movement of the breathing, but we are aware of this movement. You should not be absent-minded. But, to be aware of the movement does not mean to be aware of your small self, but rather</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-001505">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:15:05 - 00:20:06</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>of your universal nature or Buddha nature. This kind of awareness is very important, because we are usually so one-sided. Our usual understanding of life is dualistic—you and I, this and that good and bad. But actually, these discriminations are themselves the awareness of the universal existence. You means to be aware of the universe in the form of you, and I means to be aware of it in the form of I. You and I are just swinging doors. This kind of understanding is necessary. This should not even be called understanding. It is actually the true experience of life through Zen practice. So when you practice Zen, there is no idea of time or space. You may say we started sitting at a quarter to six in this room. Thus, you have some idea of time, a quarter to six, and some idea of space in this room. Actually what you are doing, however, is just sitting and being aware of the universal activity. That is all. This moment the swinging door is opening in one direction, and the next moment the swinging door will be opening in the opposite direction. Moment after moment, each one of us repeats this activity. Here there is no idea of time or space. Time and space are one. You may say, I must do something this afternoon, but actually there is no this afternoon. We do things one after the other, that is all. There is no such time as this afternoon, or one o&#x27;clock, or two o&#x27;clock. At one o&#x27;clock you will eat your lunch. To eat lunch is itself one o&#x27;clock. You will be somewhere, but that place cannot be separated from one o&#x27;clock. For someone who actually appreciates our life, they are the same. When we become tired of our life, we may say, I shouldn&#x27;t have come to this place. It may have been much better to have gone to some other place for lunch. This place is not so good. In your mind you create an idea of place separate from an actual time. Or you may say, this is bad, so I should not do this. Actually when you say, I should not do this, you are doing not doing in that moment. So there is no choice for you. When you separate the idea of time and space, you feel as if you have some choice. But actually you have to do something, or you have to do not doing. Not to do something is doing something. Good and bad are only in your mind. So we should not say, this is good or this is bad. Instead of saying bad, you should say, not to do. If you think this is bad, it will create some confusion for you. So in the realm of pure religion, there is no confusion of time and space or good or bad. All that we should do is just do something as it comes. Do something. Whatever it is, we should do it, even if it is not doing something. We should live in this moment. So when we sit, we concentrate on our breathing, and we become a swinging door, and we do something we should do, something we must do. This is Zen practice. In this practice, there is no confusion. If you establish this kind of life, you have no confusion whatsoever. Tozan, a famous Zen master, said, The Blue Mountain is the father of the White Cloud. The White Cloud is the son of the Blue Mountain. All day long they depend on each other, without being dependent on each other. The White Cloud is always the White Cloud. The Blue Mountain is always the Blue Mountain. This is a pure, clear interpretation of life. There may be many things like the White Cloud and Blue Mountain. Man and woman, teacher and disciple, they depend on each other. But the White Cloud should not be bothered by the Blue Mountain. The Blue Mountain should not be bothered by the White Cloud. They are quite independent, but yet dependent. This is how we live and how we practice Azen. When we become truly ourselves, we just become a swinging door, and we are purely independent of and at the same time dependent upon everything. Without air we cannot breathe. Each one of us is in the midst of myriads of worlds. We are in the center of the world, always, moment after moment. So we are completely dependent and independent.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-002006">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:20:06 - 00:25:08</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>If you have this kind of experience, this kind of existence, you have absolute independence. You will not be bothered by anything. So when you practice Azen, your mind should be concentrated on your breathing. This kind of activity is the fundamental activity of the Universal Being. But this experience, this practice, it is impossible to attain absolute freedom, control. To live in the realm of Buddha nature means to die as a small being, moment after moment. When we lose our balance, we die, but at the same time we also develop ourselves, we grow. Whatever we see is changing, losing its balance. The reason everything looks beautiful is because it is out of balance. But its background is always in perfect harmony. This is how everything exists in the realm of Buddha nature, losing its balance against a background of perfect balance. So if you see things without realizing the background of Buddha nature, everything appears to be in the form of suffering. But if you understand the background of existence, you realize that suffering itself is how we live and how we extend our life. So in Zen, sometimes we emphasize the imbalance or disorder of life. Nowadays, traditional Japanese painting has become pretty formal and lifeless. That is why modern art has developed. Some painters used to practice putting dots on paper in artistic disorder. This is rather difficult. Even though you try to do it, usually what you do is arranged in some order. You think you can control it, but you cannot. It is almost impossible to arrange your dots out of order. It is the same with taking care of your everyday life. Even though you try to put people under some control, it is impossible. You cannot do it. The best way to control people is to encourage them to be mischievous. Then they will be in control in its wider sense. To give your sheep or cow a large, spacious meadow is the way to control him. So it is with people. First let them do what they want and watch them. This is the best policy. To ignore them is not good. That is the worst policy. The second worst is trying to control them. The best one is to watch them, just to watch them, without trying to control them. The same way works for you yourself as well. If you want to obtain perfect calmness in your zazen, you should not be bothered by the various images you find in your mind. Let them come and let them go. Then they will be under control. But this policy is not so easy. It sounds easy, but it requires some special effort. How to make this kind of effort is the secret of practice. Suppose you are sitting under some extraordinary circumstances. If you try to calm your mind, you will be unable to sit. And if you try not to be disturbed, your effort will not be the right effort. The only effort that will help you is to count your breathing, or to concentrate on your inhaling and exhaling. We say concentration, but to concentrate your mind on something is not the true purpose of zen. The true purpose is to see things as they are, to observe things as they are, and to let everything go as it goes. This is to put everything under control, in its widest sense. Zen practice is to open up our small mind. So concentrating is just an aid to help you realize big mind, or the mind that is everything. If you want to discover the true meaning of zen in your everyday life, you have to understand the meaning of keeping your mind on your breathing and your body in the right posture in zazen. You should follow the rules of practice, and your study should become more subtle and careful. Only in this way can you experience the vital freedom of zen. Dogen Zenji said, time goes from present to past. This is absurd, but in our practice, sometimes it is true.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-002508">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:25:08 - 00:30:14</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>Instead of time progressing from past to present, it goes backwards from present to past. Yoshitsune was a famous warrior who lived in medieval Japan. Because of the situation of the country at that time, he was sent to the northern provinces where he was killed. Before he left, he bade farewell to his wife, and soon after, she wrote in a poem, Just as you unreal the thread from a school, I want the past to become present. When she said this, actually she made past time present. In her mind, the past became alive and was the present. So as Dogen said, time goes from present to past. This is not true in our logical mind, but it is in the actual experience of making past time present. There we have poetry, and there we have human life. When we experience this kind of truth, it means we have found the true meaning of time. Time constantly goes from past to present and from present to future. This is true, but it is also true that time goes from future to present and from present to past. A Zen master once said, to go eastward one mile is to go westward one mile. This is vital freedom. We should acquire this kind of perfect freedom. But perfect freedom is not found without some rules. People, especially young people, think that freedom is to do just what they want, that in Zen there is no need for rules. But it is absolutely necessary for us to have some rules. But this does not mean always to be under control. As long as you have rules, you have a chance for freedom. To try to obtain freedom without being aware of the rules means nothing. It is to acquire this perfect freedom that we practice, Zazen. Mindweeds. When the alarm rings early in the morning and you get up, I think you do not feel so good. It is not easy to go and sit. And even after you arrive at the Zendo and begin Zazen, you have to encourage yourself to sit well. These are just waves of your mind. In pure Zazen, there should not be any waves in your mind. While you are sitting, these waves will become smaller and smaller, and your effort will change into some subtle feeling. We say, pulling out the weeds, we give nourishment to the plant. We pull the weeds and bury them near the plant to give it nourishment. So even though you have some difficulty in your practice, even though you have some waves while you are sitting, those waves themselves will help you. So you should not be bothered by your mind. You should rather be grateful for the weeds, because eventually they will enrich your practice. If you have some experience of how the weeds in your mind change into mental nourishment, your practice will make remarkable progress. You will feel the progress. You will feel how they change into self-nourishment. Of course, it is not so difficult to give some philosophical or psychological interpretation of our practice, but that is not enough. We must have the actual experience of how our weeds change into nourishment. Strictly speaking, any effort we make is not good for our practice, because it creates waves in our mind. It is impossible, however, to attain absolute calmness of our mind without any effort. We must make some effort, but we must forget ourselves in the effort we make. In this realm there is no subjectivity or objectivity. Our mind is just calm, without even any awareness. In this unawareness, every effort and every idea and thought will vanish. So it is necessary for us to encourage ourselves and to make an effort up to the last moment when all effort disappears. You should keep your mind on your breathing until you are not aware of it. of your breathing. We should try to continue our effort forever, but we should not expect to reach some stage when we will forget all about it. We should just try to keep our mind</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-003014">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:30:14 - 00:35:17</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>on our breathing. That is our actual practice. That effort will be refined more and more while you are sitting. At first, the effort you make is quite rough and impure, but by the power of practice, the effort will become purer and purer. When your effort becomes pure, your body and mind become pure. This is the way we practice Zen. Once you understand our innate power to purify ourselves and our surroundings, you can act properly and you will learn from those around you and you will become friendly with others. This is the merit of Zen practice. But the way of practice is just to be concentrated on your breathing with the right posture and with great, pure effort. This is how we practice Zen, the marrow of Zen. In our scriptures, Samyukta Gama Sutra, Volume 33, it is said that there are four kinds of horses, excellent ones, good ones, poor ones, and bad ones. The best horse will run slow and fast, right and left at the driver&#x27;s will, before it sees the shadow of the whip. The second best will run as well as the first one does, just before the whip reaches its skin. The third one will run when it feels pain on its body. The fourth will run after the pain penetrates to the marrow of its bones. You can imagine how difficult it is for the fourth one to learn how to run. When we hear this story, almost all of us want to be the best horse. If it is impossible to be the best one, we want to be the second best. This is, I think, the usual understanding of this story and of Zen. You may think that when you sit in Zazen, you will find out whether you are one of the best horses or one of the worst ones. Here, however, there is a misunderstanding of Zen. If you think the aim of Zen practice is to train you to become one of the best horses, you will have a big problem. This is not the right understanding. If you practice Zen in the right way, it does not matter whether you are the best horse or the worst one. When you consider the mercy of Buddha, how do you think Buddha will feel about the four kinds of horses? He will have more sympathy for the worst one than for the best one. When you are determined to practice Zazen with the great mind of Buddha, you will find the worst horse is the most valuable one. In your very imperfections, you will find the basis for your firm, way-seeking mind. Those who can sit perfectly, physically, usually take more time to obtain the true way of Zen, the actual feeling of Zen, the marrow of Zen. But those who find great difficulties in practicing Zen will find more meaning in it. So I think that sometimes the best horse may be the worst horse, and the worst horse can be the best one. If you study calligraphy, you will find that those who are not so clever usually become the best calligraphers. Those who are very clever with their hands often encounter great difficulty after they have reached a certain stage. This is also true in art and in Zen. It is true in life. So when we talk about Zen, we cannot say, he is good or he is bad, in the ordinary sense of the words. The posture taken in Zazen is not the same for each of us. For some, it may be impossible to take the cross-legged posture. But even though you cannot take the right posture, when you arouse your real way-seeking mind, you can practice Zen in its true sense. Actually it is easier for those who have difficulties in sitting to arouse the true way-seeking mind than for those who can sit easily. When we reflect on what we are doing in our everyday life, we are always ashamed of ourselves. One of my students wrote to me saying, you sent me a calendar and I am trying to follow the good mottos which appear on each page. But the year has hardly begun and already I have failed. Dogen Zenji said, Shoshaku Jushaku.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-003517">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:35:17 - 00:40:18</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>Shaku generally means mistake or wrong. Shoshaku Shushaku means to succeed wrong with wrong or one continuous mistake. According to Dogen, one continuous mistake can also be Zen. A Zen master&#x27;s life could be said to be so many years of Shoshaku Jushaku. This means so many years of one single-minded effort. We say a good father is not a good father. Do you understand? One who thinks he is a good father is not a good father. One who thinks he is a good husband is not a good husband. One who thinks he is one of the worst husbands may be a good one if he is always trying to be a good husband with a single-hearted effort. If you find it impossible to sit because of some pain or some physical difficulty, then you should sit anyway using a thick cushion or a chair. Even though you are the worst horse, you will get to the marrow of Zen. Suppose your children are suffering from a hopeless disease. You do not know what to do. You cannot lie in bed. Normally, the most comfortable place for you would be a warm, comfortable bed, but now because of your mental agony, you cannot rest. You may walk up and down, in and out, but this does not help. Actually, the best way to relieve your mental suffering is to sit in Zazen, even in such a confused state of mind and bad posture. If you have no experience of sitting in this kind of difficult situation, you are not a Zen student. No other activity will appease your suffering. In other restless positions, you have no power to accept your difficulties, but in the Zazen posture, which you have acquired by long, hard practice, your body and mind have great power to accept things as they are, whether they are agreeable or disagreeable. When you feel disagreeable, it is better for you to sit. There is no other way to accept your problem and work on it. Whether you are the best horse or the worst, or whether your posture is good or bad is out of the question. Everyone can practice Zazen, and in this way, work on his problems and accept them. When you are sitting in the middle of your own problem, which is more real to you, your problem or you yourself. The awareness that you are here right now is the ultimate fact. This is the point you will realize by Zazen practice. In continuous practice, under a succession of agreeable and disagreeable situations, you will realize the marrow of Zen and acquire its true strength. Bowing. After Zazen, we bow to the floor nine times. By bowing, we are giving up ourselves. To give up ourselves means to give up our dualistic ideas, so there is no difference between Zazen practice and bowing. Usually to bow means to pay our respects to something which is more worthy of respect than ourselves. But when you bow to Buddha, you should have no idea of Buddha. You just become one with Buddha. You are already Buddha himself. When you become one with Buddha, one with everything that exists, you find a true meaning of being. When you forget all your dualistic ideas, everything becomes your teacher, and everything can be the object of worship. When everything exists within your big mind, all dualistic relationships drop away. There is no distinction between heaven and earth, man and woman, teacher and disciple. Sometimes a man bows to a woman. Sometimes a woman bows to a man. Sometimes the disciple bows to the master. Sometimes the master bows to the disciple. A master who cannot bow to his disciple cannot bow to Buddha. Sometimes the master and disciple bow together to Buddha. Sometimes we may bow to cats and dogs. In your big mind, everything has the same value. Everything is Buddha himself. You see something or hear a sound,</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-004018">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:40:18 - 00:45:20</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>and there you have everything, just as it is. In your practice, you should accept everything, as it is, giving to each thing the same respect given to a Buddha. Here there is Buddhahood. Then Buddha bows to Buddha, and you bow to yourself. This is the true bow. If you do not have this firm conviction of big mind in your practice, your bow will be dualistic. When you are just yourself, you bow to yourself in its true sense, and you are one with everything. Only when you are you yourself can you bow to everything in its true sense. Bowing is a very serious practice. You should be prepared to bow even in your last moment. When you cannot do anything except bow, you should do it. This kind of conviction is necessary. Bow with this spirit and all the precepts, all the teachings are yours, and you will possess everything within your big mind. Senoriku, the founder of the Japanese tea ceremony, committed Harakiri, ritual suicide by disembowelment, in 1591 at the order of his lord, Hideyoshi. Just before Riku took his own life, he said, when I have this sword, there is no Buddha and no patriarchs. He meant that when we have the sword of big mind, there is no dualistic world. The only thing which exists is this spirit. This kind of imperturbable spirit was always present in Riku&#x27;s tea ceremony. He never did anything in just a dualistic way. He was ready to die in each moment. In ceremony after ceremony he died, and he renewed himself. This is the spirit of the tea ceremony. This is how we bow. My teacher had a callous on his forehead from bowing. He knew he was an obstinate, stubborn fellow, and so he bowed and bowed and bowed. The reason he bowed was that inside himself he always heard his master&#x27;s scolding voice. He had joined the Soto order when he was 30, which for a Japanese priest is rather late. When we were young, we were less stubborn, and it is easier to get rid of our selfishness. So his master always called my teacher, you lately joined fellow, and scolded him for joining so late. Actually, his master loved him for his stubborn character. When my teacher was 70, he said, when I was young, I was like a tiger, but now I&#x27;m like a cat. He was very pleased to be like a cat. Bowing helps to eliminate our self-centered ideas. This is not so easy. It is difficult to get rid of these ideas, and bowing is a very valuable practice. The result is not the point. It is the effort to improve ourselves that is valuable. There is no end to this practice. Each bow expresses one of the four Buddhist vows. These vows are, although sentient beings are innumerable, we vow to save them. Although our evil desires are limitless, we vow to be rid of them. Although the teaching is limitless, we vow to learn it all. Although Buddhism is unattainable, we vow to attain it. If it is unattainable, how can we attain it? But we should. That is Buddhism. To think because it is possible we will do it is not Buddhism. Even though it is impossible, we have to do it because our true nature wants us to. But actually, whether or not it is possible is not the point. If it is our inmost desire to get rid of our self-centered ideas, we have to do it. When we make this effort, our inmost desire is appeased and nirvana is there. Before you determine to do it, you have difficulty. But once you start to do it, you have none. Your effort appeases your inmost desire. There is no other way to attain calmness. Calmness of mind does not mean you should stop your activity. Real calmness should be found in activity itself.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-004520">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:45:20 - 00:50:21</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>We say it is easy to have calmness in inactivity. It is hard to have calmness in activity. But calmness in activity is true calmness. After you have practiced for a while, you will realize that it is not possible to make rapid extraordinary progress. Even though you try very hard, the progress you make is always little by little. It is not like going out in a shower in which you know when you get wet. In a fog, you do not know you are getting wet. But as you keep walking, you get wet little by little. If your mind has ideas of progress, you may say, oh, this pace is terrible. But actually it is not. When you get wet in a fog, it is very difficult to dry yourself. So there is no need to worry about progress. It is like studying a foreign language. You cannot do it all of a sudden, but by repeating it over and over, you will master it. This is the soto way of practice. We can say either that we make progress little by little, or that we do not even expect to make progress. Just to be sincere and make our full effort in each moment is enough. There is no nirvana outside our practice. Something special. I do not feel like speaking after zazen. I feel the practice of zazen is enough. But if I must say something, I think I would like to talk about how wonderful it is to practice zazen. Our purpose is just to keep this practice forever. This practice started from beginningless time, and it will continue into an endless future. Strictly speaking, for a human being, there is no other practice than this practice. There is no other way of life than this way of life. Zen practice is the direct expression of our true nature. Of course, whatever we do is the expression of our true nature. But without this practice, it is difficult to realize. It is our human nature to be active, and the nature of every existence. As long as we are alive, we are always doing something. But as long as you think, I am doing this, or I have to do this, or I must attain something special, you are actually not doing anything. When you give up, when you no longer want something, or when you do not try to do anything special, then you do something. When there is no gaining idea in what you do, then you do something. In Zazen, what you are doing is not for the sake of anything. You may feel as if you are doing something special, but actually it is only the expression of your true nature. It is the activity which appeases your inmost desire. But as long as you think you are practicing Zazen for the sake of something, that is not true practice. If you continue this simple practice every day, you will obtain a wonderful power. Before you attain it, it is something wonderful. But after you obtain it, it is nothing special. It is just you, yourself, nothing special. As a Chinese poem says, I went and I returned. It was nothing special. Roson, famous for its misty mountains, Seiko, for its water. People think it must be wonderful to see the famous range of mountains covered by mists, and the water said to cover all the earth. But if you go there, you will just see water and mountains. Nothing special. It is a kind of mystery that for people who have no experience of enlightenment, enlightenment is something wonderful. But if they attain it, it is nothing. But yet it is not nothing. Do you understand? For a mother with children, having children is nothing special. That is Zazen. So if you continue this practice, more and more you will acquire something. Nothing special, but nevertheless something. You may say universal nature, or Buddha nature, or enlightenment. You may call it by many names, but for the person who has it, it is nothing and it is something. When we express our true nature, we are human beings. When we do not, we do not know what we are. We are not an animal because we walk on two legs.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-005021">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:50:21 - 00:55:21</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>We are something different from an animal, but what are we? We may be a ghost. We do not know what to call ourselves. Such a creature does not actually exist. It is a delusion. We are not a human being anymore, but we do exist. When Zen is not Zen, nothing exists. Intellectually my talk makes no sense, but if you have experienced true practice, you will understand what I mean. If something exists, it has its own true nature, its Buddha nature. In the Parinirvana Sutra, Buddha says, everything has Buddha nature. But Dogen reads it in this way, everything is Buddha nature. There is a difference. If you say everything has Buddha nature, it means Buddha nature is in each existence. So Buddha nature and each existence are different. But when you say everything is Buddha nature, it means everything is Buddha nature itself. When there is no Buddha nature, there is nothing at all. Something apart from Buddha nature is just a delusion. It may exist in your mind, but such things actually do not exist. So to be a human being is to be a Buddha. Buddha nature is just another name for human nature, our true human nature. Thus, even though you do not do anything, you are actually doing something. You are expressing yourself. You are expressing your true nature. Your eyes will express, your voice will express, your demeanor will express. The most important thing is to express your true nature in the simplest, most adequate way and to appreciate it in the smallest existence. While you are continuing this practice, week after week, year after year, your experience will become deeper and deeper, and your experience will cover everything you do in your everyday life. The most important thing is to forget all gaining ideas, all dualistic ideas. In other words, just practice zazin in a certain posture. Do not think about anything. Just remain on your cushion without expecting anything. And eventually, you will resume your own true nature. That is to say, your own true nature resumes itself. PART TWO Right Attitude Single-minded way, the purpose of my talk is not to give you some intellectual understanding, but just to express my appreciation of our Zen practice. To be able to sit with you in zazin is very, very unusual. Of course, whatever we do is unusual because our life itself is so unusual. Buddha said, to appreciate your human life is as rare as soil on your fingernail. You know dirt hardly ever sticks on your nail. Our human life is rare and wonderful. When I sit, I want to remain sitting forever, but I encourage myself to have another practice, for instance, to recite the sutra or to bow. And when I bow, I think, this is wonderful, but I have to change my practice again to recite the sutra. So the purpose of my talk is to express my appreciation. That is all. Our way is not to sit to acquire something. It is to express our true nature. That is our practice. If you want to express yourself, your true nature, there should be some natural and appropriate way of expression. Even swaying right and left as you sit down or get up from zazin is an expression of yourself. It is not preparation for practice or relaxation after practice. It is part of the practice. So we should not do it as if it were preparing for something else. This should be true in your everyday life. To cook or to fix some food is not preparation. According to Dogen, it is practice. To cook is not just to prepare food for someone or for yourself. It is to express your sincerity. So when you cook, you should express yourself and your activity in the kitchen. You should allow yourself plenty of time. You should work on it with nothing in your mind, and without expecting anything, you should just cook.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-005521">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:55:21 - 01:00:23</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>It is also an expression of our sincerity, a part of our practice. It is necessary to sit in zazin in this way, but sitting is not our only way. Whatever you do, it should be an expression of the same deep activity. We should appreciate what we are doing. There is no preparation for something else. The bodhisattva&#x27;s way is called the single-minded way, or one railway track thousands of miles long. The railway track is always the same. If it were to become wider or narrower, it would be disastrous. Wherever you go, the railway track is always the same. That is the bodhisattva&#x27;s way. So even if the sun were to rise from the west, the bodhisattva has only one way. His way is in each moment to express his nature and his sincerity. We say railway track, but actually there is no such thing. Sincerity itself is the railway track. The sights we see from the train will change, but we are always running on the same track, and there is no beginning or end to the track. Beginningless and endless track, there is no starting point, nor goal, nothing to attain. Just to run on the track is our way. This is the nature of our zen practice. But when you become curious about the railway track, danger is there. You should not see the railway track. If you look at the track, you will become dizzy. Just appreciate the sights you see from the train. That&#x27;s our way. There is no need for the passengers to be curious about the track. Someone will take care of it, Buddha will take care of it. But sometimes we try to explain the railway track because we become curious if something is always the same. We wonder, how is it possible for the bodhisattva always to be the same? What is his secret? But there is no secret. Everyone has the same nature as the railway track. There were two good friends, Chokai and Hofuku. They were talking about the bodhisattva&#x27;s way, and Chokai said, even if the Arhat, an enlightened one, were to have evil desires, still the Tathagata Buddha does not have two kinds of words. I say that the Tathagata has words, but no dualistic words. Hofuku said, even though you say so, your comment is not perfect. Chokai asked, what is your understanding of the Tathagata&#x27;s words? Hofuku said, we have had enough discussion, so let&#x27;s have a cup of tea. Hofuku did not give his friend an answer because it is impossible to give a verbal interpretation of our way. Nevertheless, as a part of their practice, these two good friends discussed the bodhisattva&#x27;s way, even though they did not expect to find a new interpretation. So Hofuku answered, our discussion is over. Let&#x27;s have a cup of tea. That&#x27;s a very good answer, isn&#x27;t it? It&#x27;s the same for my talk. When my talk is over, your listening is over. There&#x27;s no need to remember what I say. There&#x27;s no need to understand what I say. You understand. You have full understanding within yourself. There is no problem. Repetition. The Indian thought and practice encountered by Buddha was based on an idea of human beings as a combination of spiritual and physical elements. They thought that the physical side of man bound the spiritual side, and so their religious practice was aimed at making the physical element weaker in order to free and strengthen the spirit. Thus the practice Buddha found in India emphasized asceticism. But Buddha found when he practiced asceticism that there was no limit to the attempt to purge ourselves physically, and that it made religious practice very idealistic. This kind of war with our body can only end when we die. But according to this Indian thought, we will return in another life, and another life, to repeat the struggle over and over again without ever attaining perfect enlightenment. And even if you think you can make your physical strength weak enough to free your spiritual power, it will only work as long as you continue your asceticism. practice. If you resume your everyday life, you&#x27;ll have to strengthen your body, but then you&#x27;ll have to weaken it again to regain your spiritual power, and then you&#x27;ll have to repeat this process over and over again. This may be too great a simplification of the Indian practice encountered by Buddha, and we may laugh at it, but actually some people continue this practice even today. Sometimes</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-010023">
+          <div class="section-header">
+            <span class="section-time">⏱️ 01:00:23 - 01:05:24</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>without realizing it, this idea of asceticism is in the back of their minds, but practicing in this way will not result in any progress. Buddha&#x27;s way was quite different. At first he studied the Hindu practice of his time and area, and he practiced asceticism, but Buddha was not interested in the elements comprising human beings nor in metaphysical theories of existence. He was more concerned about how he himself existed in this moment. That was his point. Bread is made from flour. How flour becomes bread when put in the oven was for Buddha the most important thing. How we become enlightened was his main interest. The enlightened person is some perfect, desirable character for himself and for others. Buddha wanted to find out how human beings developed this ideal character, how various sages in the past became sages. In order to find out how dough became perfect bread, he made it over and over again until he became quite successful. That was his practice. But we may find it not so interesting to cook the same thing over and over again every day. It is rather tedious, you may say. If you lose the spirit of repetition, it will become quite difficult, but it will not be difficult if you are full of strength and vitality. Anyway, we cannot keep still. We have to do something. So if you do something, you should be very observant and careful and alert. Our way is to put the dough in the oven and watch it carefully. Once you know how the dough becomes bread, you will understand enlightenment. So how this physical body becomes a sage is our main interest. We are not so concerned about what flour is or what dough is or what a sage is. A sage is a sage. Metaphysical explanations of human nature are not the point. So the kind of practice we stress thus cannot become too idealistic. If an artist becomes too idealistic, he will commit suicide, because between his ideal and his actual ability, there is a great gap. Because there is no bridge long enough to go across the gap, he will begin to despair. That is the usual spiritual way. But our spiritual way is not so idealistic. In some sense we should be idealistic. At least we should be interested in making bread which tastes and looks good. Actual practice is repeating over and over again until you find out how to become bread. There is no secret in our way. Just to practice a Zen and put ourselves into the oven is our way. Zen and Excitement My master died when I was thirty-one. Although I wanted to devote myself just to Zen practice at a Heiji monastery, I had to succeed my master at his temple. I became quite busy, and being so young I had many difficulties. These difficulties gave me some experience, but it meant nothing compared with the true, calm, serene way of life. It is necessary for us to keep the constant way. Zen is not some kind of excitement, but concentration on our usual everyday routine. If you become too busy and too excited, your mind becomes rough and ragged. This is not good. If possible, try to be always calm and joyful, and keep yourself from excitement. Usually we become busier and busier, day by day, year by year, especially in our modern world. If we revisit old, familiar places after a long time, we are astonished by the changes. It cannot be helped. But if we become interested in some excitement or in our own change, we will become completely involved in our busy life and we will be lost. But if your mind is calm and constant, you can keep yourself away from the noisy world, even though you are in the midst of it. In the midst of noise and change, your mind will be quiet and stable. Zen is not something to get excited about. Some people start to practice Zen just out of curiosity, and they only make themselves busier. If your practice makes you worse, it is ridiculous. I think that if you try to do Zazen once a week, that will make you busy enough. Do not be too interested in Zen. When young people get excited about Zen, they often give up schooling and go to some mountain or forest in order to sit. That kind of interest is not true interest.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-010524">
+          <div class="section-header">
+            <span class="section-time">⏱️ 01:05:24 - 01:10:31</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>Just continue in your calm, ordinary practice, and your character will be built up. If your mind is always busy, there will be no time to build, and you will not be successful, particularly if you work too hard on it. Building character is like making bread. You have to mix it, little by little, step by step, and moderate temperature is needed. You know yourself quite well, and you know how much temperature you need. You know exactly what you need. But if you get too excited, you will forget how much temperature is good for you, and you will lose your own way. This is very dangerous. Buddha said the same thing about the good ox driver. The driver knows how much load the ox can carry, and he keeps the ox from being overloaded. You know your way and your state of mind do not carry too much. Buddha also said that building character is like building a dam. You should be very careful in making the bank. If you try to do it all at once, water will leak from it. Make the bank carefully, and you will end up with a fine dam for the reservoir. Our unexciting way of practice may appear to be very negative. This is not so. It is a wise and effective way to work on ourselves. It is just very plain. I find this point very difficult for people, especially young people, to understand. On the other hand, it may seem as if I am speaking about gradual attainment. This is not so either. In fact, this is the sudden way, because when your practice is calm and ordinary, everyday life itself is enlightenment. Right effort. The most important point in our practice is to have right or perfect effort. Right effort directed in the right direction is necessary. If your effort is headed in the wrong direction, especially if you are not aware of this, it is diluted effort. Our effort in our practice should be directed from achievement to non-achievement. Usually when you do something, you want to achieve something. You attach to some result. To achievement to non-achievement means to be rid of the unnecessary and bad results of effort. If you do something in the spirit of non-achievement, there is a good quality in it. So just to do something without any particular effort is enough. When you make some special effort to achieve something, some excessive quality, some extra element is involved in it. You should get rid of excessive things. If your practice is good, without being aware of it, you will become proud of your practice. That pride is extra. What you do is good, but something more is added to it, so you should get rid of that something which is extra. This point is very, very important, but usually we are not subtle enough to realize it, and we go in the wrong direction. Because all of us are doing the same thing and making the same mistake, we do not realize it. So without realizing it, we are making many mistakes, and we create problems among us. This kind of bad effort is called being Dharma-ridden or practice-ridden. You are involved in some idea of practice or attainment, and you cannot get out of it. When you are involved in some dualistic idea, it means your practice is not pure. By purity, we do not mean to polish something, trying to make some impure thing pure. By purity, we just mean things as they are. When something is added, that is impure. When something becomes dualistic, that is not pure. If you think you will get something from practicing Zazen, already you are involved in impure practice. It is all right to say there is practice and there is enlightenment, but we should not be caught by the statement. You should not be tainted by it. When you practice Zazen, just practice Zazen. If enlightenment comes, it just comes. We should not attach to the attainment. The true quality of Zazen is always there, even if you are not aware of it. So forget all about what you think you may have gained from it. Just do it. The quality of Zazen will express itself. Then you will have it. People ask what it means to practice Zazen with no gaining idea. What kind of effort is necessary for that kind of practice? The answer is effort to get rid of something extra from our practice. If some extra idea comes,</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-011031">
+          <div class="section-header">
+            <span class="section-time">⏱️ 01:10:31 - 01:15:34</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>you should try to stop it. You should remain in pure practice. That is the point toward which our effort is directed. We say to hear the sound of one hand clapping. Usually the sound of clapping is made with two hands, and we think that clapping with one hand makes no sound at all. But actually, one hand is sound. Even though you do not hear it, there is sound. If you clap with two hands, you can hear the sound. But if sound did not already exist before you clapped, you could not make the sound. Before you make it, there is sound. Because there is sound, you can make it, and you can hear it. Sound is everywhere. If you just practice it, there is sound. Do not try to listen to it. If you do not listen to it, the sound is all over. Because you try to hear it, sometimes there is sound, and sometimes there is no sound. Do you understand? Even though you do not do anything, you have the quality of zazen, always. But if you try to find it, if you try to see the quality, you have no quality. You are living in this world as one individual. But before you take the form of a human being, you are already there, always there. We are always here. Do you understand? You think before you were born, you were not here. But how is it possible for you to appear in this world when there is no you? Because you are already there, you can appear in the world. Also, it is not possible for something to vanish which does not exist. Because something is there, something can vanish. You may think that when you die, you disappear, you no longer exist. But even though you vanish, something which is existent cannot be non-existent. That is the magic. We ourselves cannot put any magic spells on this world. The world is its own magic. If we are looking at something, it can vanish from our sight. But if we do not try to see it, that something cannot vanish. Because you are watching it, it can disappear. But if no one is watching, how is it possible for anything to disappear? If someone is watching you, you can escape from him. But if no one is watching, you cannot escape from yourself. So try not to see something in particular. Try not to achieve anything special. You already have everything in your own pure quality. If you understand this ultimate fact, there is no fear. There may be some difficulty, of course, but there is no fear. If people have difficulty without being aware of the difficulty, that is true difficulty. They may appear very confident. They may think they are making a big effort in the right direction, but without knowing it, what they do comes out of fear. Something may vanish for them. But if your effort is in the right direction, then there is no fear of losing anything. Even if it is in the wrong direction, if you are aware of that, you will not be deluded. There is nothing to lose. There is only the constant pure quality of right practice. No Trace When we practice zazen our mind is calm and quite simple. But usually our mind is very busy and complicated, and it is difficult to be concentrated on what we are doing. This is because before we act we think, and this thinking leaves some trace. Our activity is shadowed by some preconceived idea. The thinking not only leaves some trace or shadow, but also gives us many other notions about other activities and things. These traces and notions make our minds very complicated. When we do something with a quite simple, clear mind, we have no notion or shadows, and our activity is strong and straightforward. But when we do something with a complicated mind, in relation to other things or people or society, our activity becomes very complex. Most people have a double or triple notion in one activity. There is a saying to catch two birds with one stone. That is what people usually try to do. Because they want to catch too many birds, they find it difficult to be concentrated on one activity, and they</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-011534">
+          <div class="section-header">
+            <span class="section-time">⏱️ 01:15:34 - 01:20:35</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>may end up not catching any birds at all. That kind of thinking always leaves its shadow on their activity. The shadow is not actually the thinking itself. Of course, it is often necessary to think or prepare before we act, but right thinking does not leave any shadow. Thinking which leaves traces comes out of your relative confused mind. Relative mind is the mind which sets itself in relation to other things, thus limiting itself. It is this small mind which creates gaining ideas and leaves traces of itself. If you leave a trace of your thinking on your activity, you will be attached to the trace. For instance, you may say, this is what I have done, but actually it is not so. In your recollection, you may say, I did such and such a thing in some certain way, but actually that is never exactly what happened. When you think in this way, you limit the actual experience of what you have done. So if you attach to the idea of what you have done, you are involved in selfish ideas. Often we think what we have done is good, but it may not actually be so. When we become old, we are very often proud of what we have done. When others listen to someone proudly telling something which he has done, they will feel funny because they know his recollection is one-sided. They know that what he has told them is not exactly what he did. Moreover, if he is proud of what he did, that pride will create some problem for him. Repeating his recollections in this way, his personality will be twisted more and more until he becomes quite a disagreeable stubborn fellow. This is an example of leaving a trace of one&#x27;s thinking. We should not forget what we did, but it should be without an extra trace. To leave a trace is not the same as to remember something. It is necessary to remember what we have done, but we should not become attached to what we have done in some special sense. What we call attachment is just these traces of our thought and activity. In order not to leave any traces, when you do something you should do it with your whole body and mind. You should be concentrated on what you do. You should do it completely like a good bonfire. You should not be a smoky fire. You should burn yourself completely. If you do not burn yourself completely, a trace of yourself will be left in what you do. You will have something remaining which is not completely burned out. Zen activity is activity which is completely burned out, with nothing remaining but ashes. This is the goal of our practice. That is what Dogen meant when he said, ashes do not come back to firewood. Ash is ash. Ash should be completely ash. The firewood should be firewood. When this kind of activity takes place, one activity covers everything. So our practice is not a matter of one hour or two hours or one day or one year. If you practice zazen with your whole body and mind, even for a moment, that is zazen. So moment after moment you should devote yourself to your practice. You should not have any remains after you do something. But this does not mean to forget all about it. If you understand this point, all the dualistic thinking and all the problems of life will vanish. When you practice Zen, you become one with Zen. There is no you and no zazen. When you bow, there is no Buddha and no you. One complete bowing takes place. That is all. This is nirvana. When Buddha transmitted our practice to Maha Kashyapa, he just picked up a flower with a smile. Only Maha Kashyapa understood what he meant. No one else understood. We do not know if this is a historical event or not, but it means something. It is a demonstration of our traditional way. Some activity which covers everything is true activity. And the secret of this activity is transmitted from Buddha to us. This is Zen practice, not some teaching taught by Buddha or some rules of life set up by him. The teaching or the rules should be changed according to the place or according to the people who observe them. But the secret of this practice</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-012035">
+          <div class="section-header">
+            <span class="section-time">⏱️ 01:20:35 - 01:25:36</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>cannot be changed. It is always true. So for us, there is no other way to live in this world. I think this is quite true. And this is easy to accept, easy to understand, and easy to practice. If you compare the kind of life based on this practice with what is happening in this world or in human society, you will find out just how valuable the truth Buddha left us is. It is quite simple, and practice is quite simple. But even so, we should not ignore it. Its great value must be discovered. Usually when it is so simple, we say, Oh, I know that. It is quite simple. Everyone knows that. But if we do not find its value, it means nothing. It is the same as not knowing. The more you understand culture, the more you will understand how true and how necessary this teaching is. Instead of only criticizing your culture, you should devote your mind and body to practicing this simple way. Then society and culture will grow out of you. It may be all right for the people who are too attached to their culture to be critical. Their critical attitude means they are coming back to the simple truth left by Buddha. But our approach is just to be concentrated on a simple basic practice and a simple basic understanding of life. There should be no traces in our activity. We should not attach to some fancy ideas or to some beautiful things. We should not seek for something good. The truth is always near at hand within your reach. God-giving. Every existence in nature, every existence in the human world, every cultural work that we create, is something which was given or is being given to us, relatively speaking. But as everything is originally one, we are in actuality giving out everything. Moment after moment, we are creating something, and this is the joy of our life. But this eye which is creating and always giving out something is not the small eye, it is the big eye. Even though you do not realize the oneness of this big eye with everything, when you give something you feel good, because at that time you feel at one with what you were giving. This is why it feels better to give than to take. We have a saying, Danya Prajna Paramita. Danya means to give. Prajna is wisdom, and Paramita means to cross over or to reach the other shore. Our life can be seen as a crossing of a river. The goal of our life&#x27;s effort is to reach the other shore, nirvana. Prajna Paramita, the true wisdom of life, is that in each step of the way the other shore is actually reached. To reach the other shore with each step of the crossing is the way of true living. Danya Prajna Paramita is the first of the six ways of true living. The second is Sila Prajna Paramita, or the Buddhist precepts. Then there are Kshanti Prajna Paramita, or endurance, Viriya Prajna Paramita, or ardor and constant effort, Dayana Prajna Paramita, or Zen practice, and Prajna Paramita, or wisdom. Actually, these six Prajna Paramita are one, but as we can observe life from various sides, we count six. Dogan Zenji said, To give is nonattachment. That is, just not to attach to anything is to give. It does not matter what is given. To give a penny or a piece of leaf is Danya Prajna Paramita. To give one line or even one word of teaching is Danya Prajna Paramita. If given in the spirit of nonattachment, the material offering and the teaching offering have the same value. With the right spirit, all that we do, all that we create is Danya Prajna Paramita. So Dogan said, To produce something, to participate in human activity, is also Danya Prajna Paramita. To provide a ferryboat for people, or to make a bridge for people, is Danya Prajna Paramita. Actually, to give one line of the teaching may be to make a ferryboat</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-012536">
+          <div class="section-header">
+            <span class="section-time">⏱️ 01:25:36 - 01:30:40</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>for someone. According to Christianity, every existence in nature is something which was created for or given to us by God. That is the perfect idea of giving. But if you think that God created man, and that you are somehow separate from God, you are liable to think you have the ability to create something separate, something not given by Him. For instance, we create airplanes and highways, and when we repeat, I create, I create, I create, soon we forget who is actually the I which creates the various things. We soon forget about God. This is the danger of human culture. Actually, to create with the big I is to give. We cannot create and own what we create for ourselves, since everything was created by God. This point should not be forgotten. But because we do forget who is doing the creating, and the reason for the creation, we become attached to the material or exchange value. This has no value in comparison to the absolute value of something as God&#x27;s creation. Even though something has no material or relative value to any small I, it has absolute value in itself. Not to be attached to something is to be aware of its absolute value. Everything you do should be based on such an awareness, and not on material or self-centered ideas of value. Then whatever you do is true giving, is Danya Prajna Paramita. When we sit in the cross-legged posture, we resume our fundamental activity of creation. There are perhaps three kinds of creation. The first is to be aware of ourselves after we finish sahaja. When we sit, we are nothing. We do not even realize what we are. We just sit. But when we stand up, we are there. That is the first step in creation. When you are there, everything else is there. Everything is created all at once. When we emerge from nothing, when everything emerges from nothing, we see it all as fresh new creation. This is non-attachment. The second kind of creation is when you act or produce or prepare something like food or tea. The third kind is to create something within yourself, such as education or culture or art or some system for our society. So there are three kinds of creation. But if you forget the first, the most important one, the other two will be like children who have lost their parents. Their creation will mean nothing. Usually everyone forgets about zazen. Everyone forgets about God. They work very hard at the second and third kinds of creation. But God does not help the activity. How is it possible for Him to help when He does not realize who He is? That is why we have so many problems in this world. When we forget the fundamental source of our creating, we are like children who do not know what to do when they lose their parents. If you understand Danya Prajna Paramita, you will understand how it is we create so many problems for ourselves. Of course, to live is to create problems. If we did not appear in this world, our parents would have no difficulty with us. Just by appearing, we create problems for them. This is all right. Everything creates some problems. But usually people think that when they die, everything is over. The problems disappear. But your death may create problems too. Actually, our problems should be solved or dissolved in this life. But if we are aware that what we do or what we create is really the gift of the big eye, then we will not be attached to it, and we will not create problems for ourselves or for others. And we should forget day by day what we have done. This is true non-attachment, and we should do something new. To do something new, of course we must know our past, and this is all right. But we should not keep holding on to anything we have done. We should only reflect on it. And we must have some idea of what we should do in the future. But the future is the future. The past is the past. Now we should work on something new. This is our attitude and how we should live in this world. This is Danya Prajna Paramita, to give something or to create something for ourselves. So to do something through and through is to resume our true activity of creation.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-013040">
+          <div class="section-header">
+            <span class="section-time">⏱️ 01:30:40 - 01:35:41</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>This is why we sit. If we do not forget this point, everything will be carried on beautifully. But once we forget this point, the world will be filled with confusion. It&#x27;s in practice. There are several poor ways of practice which you should understand. Usually when you practice Zazan you become very idealistic and you set up an ideal or goal which you strive to attain and fulfill. But as I have often said, this is absurd. When you are idealistic, you have some gaining idea within yourself. By the time you attain your ideal or goal, your gaining idea will create another ideal. So as long as your practice is based on a gaining idea and you practice Zazan in an idealistic way, you will have no time actually to attain your ideal. Moreover, you will be sacrificing the meat of your practice. Because your attainment is always ahead, you will always be sacrificing yourself now for some ideal in the future. You end up with nothing. This is absurd. It is not adequate practice at all. But even worse than this idealistic attitude is to practice Zazan in competition with someone else. This is a poor, shabby kind of practice. Our Soto way puts an emphasis on Shikantaza or just sitting. Actually we do not have any particular name for our practice. When we practice Zazan, we just practice it. And whether we find joy in our practice or not, we just do it. Even though we are sleepy and we are tired of practicing Zazan, of repeating the same thing day after day, even so, we continue our practice. Whether or not someone encourages our practice, we just do it. Even when you practice Zazan alone, without a teacher, I think you will find some way to tell whether your practice is adequate or not. When you are tired of sitting, or when you are disgusted with your practice, you should recognize this as a warning signal. You become discouraged with your practice when your practice has been idealistic. You have some gaining idea in your practice, and it is not pure enough. It is when your practice is rather greedy that you become discouraged with it. So you should be grateful that you have a sign or warning signal to show you the weak point in your practice. At that time, forgetting all about your mistake and renewing your way, you can resume your original practice. This is a very important point. So as long as you continue your practice, you are quite safe. But as it is very difficult to continue, you must find some way to encourage yourself. As it is hard to encourage yourself without becoming involved in some poor kind of practice, to continue our pure practice by yourself may be rather difficult. This is why we have a teacher. With your teacher, you will correct your practice. Of course, you will have a very hard time with him, but even so, you will always be safe from wrong practice. Most Zen Buddhist priests have had a difficult time with their masters. When they talk about the difficulties, you may think that without this kind of hardship you cannot practice zazen, but this is not true. Whether you have difficulties in your practice or not, as long as you continue it, you have pure practice in its true sense. Even when you are not aware of it, you have it. So Dogen Zenji said, do not think you will necessarily be aware of your own enlightenment. Whether or not you are aware of it, you have your own true enlightenment within your practice. Another mistake will be to practice for the sake of the joy you find in it. Actually, when your practice is involved in a feeling of joy, it is not in very good shape either. Of course, this is not poor practice, but compared to the true practice, it is not so good. In Hinayana Buddhism, practice is classified in four ways. The best way is just to do it without having any joy in it, not even spiritual joy. This way is just to do it, forgetting your physical and mental feeling, forgetting all about yourself and your practice. This is the fourth stage, or the highest stage. The next highest stage is to have just physical joy in your practice. At this stage, you find some pleasure in practice and you will practice because of the pleasure you find in it. In the second stage, you have both mental and physical joy, or good feeling. These two middle stages are stages in which you practice asana because you feel good in</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-013541">
+          <div class="section-header">
+            <span class="section-time">⏱️ 01:35:41 - 01:40:43</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>your practice. The first stage is when you have no thinking and no curiosity in your practice. These four stages also apply to our Mahayana practice, and the highest is just to practice it. If you find some difficulty in your practice, that is the warning that you have some wrong idea, so you have to be careful. But do not give up your practice. Continue it knowing your weakness. Here there is no gaining idea. Here there is no fixed idea of attainment. You do not say, this is enlightenment, or that is not right practice. Even in wrong practice, when you realize it and continue, there is right practice. Our practice cannot be perfect. But without being discouraged by this, we should continue it. This is the secret of practice. And if you want to find some encouragement in your discouragement, getting tired of practice is itself the encouragement. You encourage yourself when you get tired of it. When you do not want to do it, that is the warning signal. It is like having a toothache when your teeth are not so good. When you feel some pain in your teeth, you go to a dentist. That is our way. The cause of conflict is some fixed idea or one-sided idea. When everyone knows the value of pure practice, we will have little conflict in our world. This is the secret of our practice and Dogen&#x27;s Enji&#x27;s way. Everyone repeats this point in his book, Shobogenzo, the Treasury of the True Dharma. If you understand the cause of conflict as some fixed or one-sided idea, you can find meaning in various practices without being caught by any of them. If you do not realize this point, you will be easily caught by some particular way and you will say, this is enlightenment. This is perfect practice. This is our way. The rest of the ways are not perfect. This is the best way. This is a big mistake. There is no particular way in true practice. You should find your own way and you should know what kind of practice you have right now. Knowing both the advantages and disadvantages of some special practice, you can practice that special way without danger. But if you have a one-sided attitude, you will ignore the disadvantage of the practice emphasizing only its good part. Eventually, you will discover the worst side of the practice and become discouraged when it is too late. This is silly. We should be grateful that the ancient teachers point out this mistake. Limiting your activity. In our practice, we have no particular purpose or goal nor any special object of worship. In this respect, our practice is somewhat different from the usual religious practices. Josu, a great Chinese sand master, said, a clay Buddha cannot cross water, a bronze Buddha cannot get through a furnace, a wooden Buddha cannot get through a fire. Whatever it is, if your practice is directed toward some particular object, such as a clay, a bronze or a wooden Buddha, it will not always work. So as long as you have some particular goal in your practice, that practice will not help you completely. It may help you as long as you are directed toward that goal, but when you resume your everyday life, it will not work. You may think that if there is no purpose or no goal in our practice, we will not know what to do. But there is a way. The way to practice without having any goal is to limit your activity or to be concentrated on what you are doing in this moment. Instead of having some particular object in mind, you should limit your activity. When your mind is wandering about elsewhere, you have no chance to express yourself. But if you limit your activity to what you can do just now in this moment, then you can express fully your true nature, which is the universal Buddha nature. This is our way. When we practice sasa and we limit our activity to the smallest extent, just keeping the right posture and being concentrated on sitting is how we express the universal nature. Then we become Buddha, and we express Buddha nature. So instead of having some object of worship, we just concentrate on the activity which we do in each moment. When you bow, you should just bow. When you sit, you should just sit. When you eat, you should just eat. If you do this, the universal nature is there. In Japanese, we call it ichigyo zamai, or one act samadhi.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-014043">
+          <div class="section-header">
+            <span class="section-time">⏱️ 01:40:43 - 01:45:45</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>Samai, or samadhi, is concentration. Ichigyo is one practice. I think some of you who practice zasan here may believe in some other religion, but I do not mind. Our practice has nothing to do with some particular religious belief. And for you, there is no need to hesitate to practice our way, because it has nothing to do with Christianity, or Shintoism, or Hinduism. Our practice is for everyone. Usually when someone believes in a particular religion, his attitude becomes more and more a sharp angle, pointing away from himself. But our way is not like this. In our way, the point of the sharp angle is always toward ourselves, not away from ourselves. So there is no need to worry about the difference between Buddhism and the religion you may believe in. Jashu&#x27;s statement about the different Buddhas concerns those who direct their practice toward some particular Buddha. One kind of Buddha will not serve your purpose completely. You will have to throw it away sometime, or at least ignore it. But if you understand the secret of our practice, wherever you go, you yourself are boss. No matter what the situation, you cannot neglect Buddha because you yourself are Buddha. Only this Buddha will help you completely. Study Yourself The purpose of studying Buddhism is not to study Buddhism, but to study ourselves. It is impossible to study ourselves without some teaching. If you want to know what water is, you need science, and the scientist needs a laboratory. In the laboratory, there are various ways in which to study what water is. Thus, it is possible to know what kind of elements water has, the various forms it takes, and its nature. But it is impossible thereby to know water in itself. It is the same thing with us. We need some teaching. But just by studying the teaching alone, it is impossible to know what I in myself am. Through the teaching we may understand our human nature, but the teaching is not we ourselves. It is some explanation of ourselves. So if you are attached to the teaching, or to the teacher, that is a big mistake. The moment you meet a teacher, you should leave the teacher, and you should be independent. You need a teacher so that you can become independent. If you are not attached to him, the teacher will show you the way to yourself. You have a teacher for yourself, not for the teacher. Rinzai, an early Chinese Zen master, analyzed how to teach his disciples in four ways. Sometimes he talked about the disciple himself. Sometimes he talked about the teaching itself. Sometimes he gave an interpretation of the disciple or the teaching. And finally, sometimes he did not give any instruction at all to his disciples. He knew that even without being given any instruction, a student is a student. Strictly speaking, there is no need to teach the student, because the student himself is Buddha, even though he may not be aware of it. And even though he is aware of his true nature, if he is attached to this awareness, that is already wrong. When he is not aware of it, he has everything. But when he becomes aware of it, he thinks that what he is aware of is himself, which is a big mistake. When you do not hear anything from the teacher but just sit, this is called teaching without teaching. But sometimes this is not sufficient. So we listen to lectures and have discussions. But we should remember that the purpose of practice in a particular place is to study ourselves. To be independent, we study. Like the scientist, we have to have some means by which to study. We need a teacher, because it is impossible to study. study ourselves by ourselves. But you should not make a mistake. You should not take what you have learned with a teacher for you yourself. The study you make with your teacher is a part of your everyday life, a part of your incessant activity. In this sense, there is no difference between the practice and the activity you have in everyday life. So to find the meaning of your life in the zendo is to find the meaning of your everyday life. To be aware of the meaning of your life, you practice asin. When I was at a Heiji monastery in Japan, everyone was just doing what he should do. That is all. It is the same as waking up in the morning. We have to get up.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-014545">
+          <div class="section-header">
+            <span class="section-time">⏱️ 01:45:45 - 01:50:49</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>At a Heiji monastery, when we had to sit, we sat. When we had to bow to Buddha, we bowed to Buddha. That is all. And when we were practicing, we did not feel anything special. We did not even feel that we were leading a monastic life. For us, the monastic life was the usual life, and people who came from the city were unusual people. When we saw them, we felt, oh, some unusual people have come. But once I had left a Heiji and been away for some time, coming back was different. I heard the various sounds of practice, the bells and the monks reciting the sutra, and I had a deep feeling. There were tears flowing out of my eyes, nose, and mouth. It is the people who are outside of the monastery who feel its atmosphere. Those who are practicing actually do not feel anything. I think this is true for everything. When we hear the sound of the pine trees on a windy day, perhaps the wind is just blowing, and the pine tree is just standing in the wind. That is all that they are doing. But the people who listen to the wind in the tree will write a poem or will feel something unusual. That is, I think, the way everything is. So to feel something about Buddhism is not the main point. Whether that feeling is good or bad is out of the question. We do not mind whatever it is. Buddhism is not good or bad. We are doing what we should do. That is Buddhism. Of course, some encouragement is necessary, but then encouragement is just encouragement. It is not the true purpose of practice, it is just medicine. When we become discouraged, we want some medicine. When we are in good spirits, we do not need any medicine. You should not mistake medicine for food. Sometimes medicine is necessary, but it should not become our food. So of Rinzai&#x27;s four ways of practice, the perfect one is not to give a student any interpretation of himself, nor to give him any encouragement. If we think of ourselves as our bodies, the teaching then may be our clothing. Sometimes we talk about our clothing. Sometimes we talk about our body. But neither body nor clothing is actually we ourselves. We ourselves are the big activity. We are just expressing the smallest particle of the big activity, that is all. So it is all right to talk about ourselves, but actually there is no need to do so. Before we open our mouths, we are already expressing the big existence, including ourselves. So the purpose of talking about ourselves is to correct the misunderstanding we have when we are attached to any particular temporal form or color of the big activity. It is necessary to talk about what our body is and what our activity is, so that we may not make any mistake about them. So to talk about ourselves is actually to forget about ourselves. Dogen&#x27;s Enji said, to study Buddhism is to study ourselves. To study ourselves is to forget ourselves. When you become attached to a temporal expression of your true nature, it is necessary to talk about Buddhism, or else you will think the temporal expression is it. But this particular expression of it is not it, and yet at the same time it is it. For a while this is it, for the smallest particle of time this is it, but it is not always so, the very next instant it is not so, and thus this is not it. So that you will realize this fact, it is necessary to study Buddhism. But the purpose of studying Buddhism is to study ourselves and to forget ourselves. When we forget ourselves, we actually are the true activity of the big existence, or reality itself. When we realize this fact, there is no problem whatsoever in this world, and we can enjoy our life without feeling any difficulties. The purpose of our practice is to be aware of this fact, to polish a tile. Zen stories, or koans, are very difficult to understand before you know what we are doing moment after moment. But if you know exactly what we are doing in each moment, you will not find koans so difficult. There are so many koans. I have often talked to you about a frog, and each time everybody laughs. But a frog is very interesting. He sits like us too, you know. But he does not think that he is doing anything so special. When you go to a zendo and sit, you may think you are doing some special thing. While your husband or wife is sleeping, you are practicing zazen. You are doing some special thing and your spouse is lazy.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-015049">
+          <div class="section-header">
+            <span class="section-time">⏱️ 01:50:49 - 01:55:50</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>That may be your understanding of zazen. But look at the frog. A frog also sits like us, but he has no idea of zazen. Watch him. If something annoys him, he will make a face. If something comes along to eat, he will snap it up and eat. And he eats sitting. Actually, that is our zazen. Not any special thing. Here is a kind of frog koan for you. Basso was a famous Zen master called the Horse Master. He was the disciple of Nangaku, one of the sixth patriarch&#x27;s disciples. One day while he was studying under Nangaku, Basso was sitting practicing zazen. He was a man of large physical build. When he talked, his tongue reached to his nose. His voice was loud and his zazen must have been very good. Nangaku saw him sitting like a great mountain or like a frog. Nangaku asked, What are you doing? I am practicing zazen, Basso replied. Why are you practicing zazen? I want to attain enlightenment. I want to be a Buddha, the disciple said. Do you know what the teacher did? He picked up a tile and he started to polish it. In Japan, after taking a tile from the kiln, we polish it to give it a beautiful finish. So Nangaku picked up a tile and started to polish it. Basso, his disciple, asked, What are you doing? I want to make this tile into a jewel, Nangaku said. How is it possible to make a tile a jewel, Basso asked. How is it possible to become a Buddha by practicing zazen, Nangaku replied. Do you want to attain Buddhahood? There is no Buddhahood beside your ordinary mind. The cart does not go. Which do you whip? The cart or the horse, the master asked. Nangaku&#x27;s meaning here is that whatever you do, that is zazen. True zazen is beyond being in bed or sitting in the zendo. If your husband or wife is in bed, that is zazen. If you think I am sitting here and my spouse is in bed, then even though you are sitting here in the cross-legged position, that is not true zazen. You should be like a frog always. That is true zazen. Dogen Zenji commented on this poem. He said, When the horse-master becomes the horse-master, Zen becomes Zen. When Basso becomes Basso, his zazen becomes true zazen and Zen becomes Zen. What is true zazen? When you become you. When you are you, then no matter what you do, that is zazen. Even though you are in bed, you may not be you most of the time. Even though you are sitting in the zendo, I wonder whether you are you in the true sense. Here is another famous poem. Zuikan was a Zen master who always used to address himself. Zuikan, he would call, and then he would answer, yes? Zuikan, yes. Of course he was living all alone in his small zendo, and of course he knew who he was. But sometimes he lost himself. And whenever he lost himself, he would address himself. Zuikan, yes? If we are like a frog, we are always ourselves. But even a frog sometimes loses himself and he makes a sour face. And if something comes along, he will snap at it and eat it. So I think a frog is always addressing himself. I think you should do that also. Even in zazen you will lose yourself. When you become sleepy or when your mind starts to wander about, you lose yourself. When your legs become painful, why are my legs so painful? You lose yourself. Because you lose yourself, your problem will be a problem for you. If you do not lose yourself, then even though you have difficulty, there is actually no problem whatsoever. You just sit in the midst of the problem. When you are a part of the problem, or when the problem is a part of you, there is no problem because you are the problem itself. The problem is you, yourself. If this is so, there is no problem. When your life is always a part of your surroundings, in other words, when you are called back to yourself in the present moment, then there is no problem. When you start to wander about in some delusion, which is something apart from you yourself,</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-015550">
+          <div class="section-header">
+            <span class="section-time">⏱️ 01:55:50 - 02:00:52</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>then your surroundings are not real anymore, and your mind is not real anymore. If you, yourself, are deluded, then your surroundings are also a misty, foggy delusion. Once you are in the midst of delusion, there is no end to delusion. You will be involved in deluded ideas one after another. Most people live in delusion, involved in their problem, trying to solve their problem. But just to live is actually to live in problems. And to solve the problem is to be a part of it, to be one with it. So which do you hit, the cart or the horse? Which do you hit, yourself or your problems? If you start questioning which you should hit, that means you have already started to wander about. But when you actually hit the horse, the cart will go. In truth, the cart and the horse are not different. When you are you, there is no problem of whether you should hit the cart or the horse. When you are you, zazen becomes true zazen. So when you practice zazen, your problem will practice zazen, and everything else will practice zazen too. Even though your spouse is in bed, he or she is also practicing zazen when you practice zazen. But when you do not practice true zazen, then there is your spouse and there is yourself, each quite different, quite separate from the other. So if you yourself have true practice, then everything else is practicing our way at the same time. That is why we should always address ourselves, checking up on ourselves like a doctor, tapping himself. This is very important. This kind of practice should be continued moment after moment, incessantly. We say, when the night is here, the dawn comes. It means there is no gap between the dawn and the night. Before the summer is over, autumn comes. In this way, we should understand our life. We should practice with this understanding and solve our problems in this way. Actually, just to work on the problem, if you do it with single-minded effort, is enough. You should just polish the tile. That is our practice. The purpose of practice is not to make a tile a jewel. Just continue sitting. That is practice in its true sense. It is not a matter of whether or not it is possible to attain Buddhahood. Whether or not it is possible to make a tile a jewel. Just to work and live in this world with this understanding is the most important point. That is our practice. That is true zazen. So we say, when you eat, eat. You should eat what is there, you know. Sometimes you do not eat it. Even though you are eating, your mind is somewhere else. You do not taste what you have in your mouth. As long as you can eat when you are eating, you are all right. Do not worry a bit. It means you are you, yourself. When you are you, you see things as they are, and you become one with your surroundings. There is your true self. There you have true practice. You have the practice of a frog. Here is a good example of our practice. When a frog becomes a frog, zen becomes zen. When you understand a frog through and through, you attain enlightenment. You are Buddha, and you are good for others too, husband or wife or son or daughter. This is zazen. Nirvana, the waterfall. If you go to Japan and visit a haiji monastery, just before you enter you will see a small bridge called hanshaku-kyo, which means half-dipper bridge. Whenever Dogen zenji dipped water from the river, he used... only half a dipperful, returning the rest to the river again, without throwing it away. That is why we call the bridge hanshakukyo, half-dipper bridge. At Eheji, when we wash our face, we fill the basin to just seventy percent of its capacity, and after we wash, we empty the water towards rather than away from our body. This expresses respect for the water. This kind of practice is not based on any idea of being economical. It may be difficult to understand why Dogen returned half of the water he dipped to the river. This kind of practice is beyond our thinking. When we feel the beauty of the river, when we are one with the water, we intuitively do it in Dogen&#x27;s way. It is our true nature</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-020052">
+          <div class="section-header">
+            <span class="section-time">⏱️ 02:00:52 - 02:05:53</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>to do so. But if your true nature is covered by ideas of economy or efficiency, Dogen&#x27;s way makes no sense. I went to Yosemite National Park, and I saw some huge waterfalls. The highest one there is one thousand three hundred and forty feet high, and from it the water comes down like a curtain thrown from the top of the mountain. It does not seem to come down swiftly, as you might expect. It seems to come down very slowly because of the distance. And the water does not come down as one stream, but is separated into many tiny streams. From a distance it looks like a curtain. And I thought it must be a very difficult experience for each drop of water to come down from the top of such a high mountain. It takes time, you know, a long time for the water finally to reach the bottom of the waterfall. And it seems to me that our human life may be like this. We have many difficult experiences in our life, but at the same time I thought the water was not originally separated, but was one whole river. Only when it is separated does it have some difficulty in falling. It is as if the water does not have any feeling when it is one whole river. Only when separated into many drops can it begin to have or to express some feeling. When we see one whole river we do not feel the living activity of the water, but when we dip a part of the water into a dipper we experience some feeling of the water, and we also feel the value of the person who uses the water. Feeling ourselves and the water in this way we cannot use it in just a material way. It is a living thing. Before we were born we had no feeling. We were one with the universe. This is called mind only, or essence of mind, or big mind. After we are separated by birth from this oneness, as the water falling from the waterfall is separated by the wind and rocks, then we have feeling. You have difficulty because you have feeling. You attach to the feeling you have without knowing just how this kind of feeling is created. When you do not realize that you are one with the river or one with the universe, you have fear. Whether it is separated into drops or not, water is water. Therefore life and death are the same thing. When we realize this fact, we have no fear of death anymore, and we have no actual difficulty in our life. When the water returns to its original oneness with the river, it no longer has any individual feeling to it. It resumes its own nature and finds composure. How very glad the water must be to come back to the original river. If this is so, what feeling will we have when we die? I think we are like the water and the dipper. We will have composure then, perfect composure. It may be too perfect for us just now, because we are so much attached to our own feeling, to our individual existence. For us just now, we have some fear of death. But after we resume our true original nature, there is nirvana. That is why we say, to attain nirvana is to pass away. To pass away is not a very adequate expression. Perhaps to pass on or to go on or to join would be better. Will you try to find some better expression for death? When you find it, you will have quite a new interpretation of your life. It will be like my experience when I saw the water in the big waterfall. Imagine it was 1,340 feet high. We say everything comes out of emptiness. One whole river or one whole mind is emptiness. When we reach this understanding, we find the true meaning of our life. When we reach this understanding, we can see the beauty of human life. Before we realize this fact, everything that we see is just delusion. Sometimes we overestimate the beauty. Sometimes we underestimate or ignore the beauty, because our small mind is not in accord with reality. To talk about it in this way is quite easy, but to have the actual feeling is not so easy. But by your practice of zasen, you can cultivate this feeling. When you can sit with your whole body and mind, and with the oneness of your mind and body, under the control of the universal mind, you can easily attain</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-020553">
+          <div class="section-header">
+            <span class="section-time">⏱️ 02:05:53 - 02:10:56</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>this kind of right understanding. Your everyday life will be renewed without being attached to an old, erroneous interpretation of life. When you realize this fact, you will discover how meaningless your old interpretation was and how much useless effort you had been making. You will find the true meaning of life, and even though you have difficulty falling upright from the top of the waterfall to the bottom of the mountain, you will enjoy your life. Part 3. Right Understanding. Traditional Zen spirit. The most important things in our practice are our physical posture and our way of breathing. We are not so concerned about a deep understanding of Buddhism. As a philosophy, Buddhism is a very deep, wide, and firm system of thought. But Zen is not concerned about philosophical understanding. We emphasize practice. We should understand why our physical posture and breathing exercise are so important. Instead of having a deep understanding of the teaching, we need a strong confidence in our teaching, which says that originally we have Buddha nature. Our practice is based on this faith. Before Bodhidharma went to China, almost all the well-known stock words of Zen were in use. For instance, there was the term sudden enlightenment. Sudden enlightenment is not an adequate translation, but tentatively I will use the expression. Enlightenment comes all of a sudden to us. This is true enlightenment. Before Bodhidharma, people thought that after a long preparation, sudden enlightenment would come. Thus Zen practice was a kind of training to gain enlightenment. Actually, many people today are practicing Zazen with this idea. But this is not the traditional understanding of Zen. The understanding passed down from Buddha to our time is that when you start Zazen, there is enlightenment, even without any preparation. Whether you practice Zazen or not, you have Buddha nature. Because you have it, there is enlightenment in your practice. The points we emphasize are not the stage we attain, but the strong confidence we have in our original nature and the sincerity of our practice. We should practice Zen with the same sincerity as Buddha. If originally we have Buddha nature, the reason we practice Zazen is that we must behave like Buddha. To transmit our way is to transmit our spirit from Buddha. So we have to harmonize our spirit, our physical posture, and our activity with the traditional way. You may attain some particular stage of course, but the spirit of your practice should not be based on an egoistic idea. According to the traditional Buddhist understanding, our human nature is without ego. When we have no idea of ego, we have Buddha&#x27;s view of life. Our egoistic ideas are delusion, covering our Buddha nature. We are always creating and following them, and in repeating this process over and over again, our life becomes completely occupied by ego-centered ideas. This is called karmic life or karma. The Buddhist life should not be karmic life. The purpose of our practice is to cut off the karmic spinning mind. If you are trying to attain enlightenment, that is a part of karma. You are creating and being driven by karma, and you are wasting your time on your black cushion. According to Bodhidharma&#x27;s understanding, practice based on any gaining idea is just a repetition of your karma. Forgetting this point, many later Zen masters have emphasized some stage to be attained by practice. More important than any stage which you will attain is your sincerity, your right effort. Right effort must be based on a true understanding of our traditional practice. When you understand this point, you will understand how important it is to keep your posture right. When you do not understand this point, the posture and the way of breathing are just a means to attain enlightenment. If this is your attitude, it would be much better to take some drugs instead of sitting in the cross-legged position. If our practice is only a means to attain enlightenment, there is actually no way to attain it. We lose the meaning of the way to the goal. But when we believe in our way firmly, we have already attained enlightenment. When you believe in your way, enlightenment is there. But when you cannot believe in the meaning of the practice which you are doing in this moment, you cannot do anything. You</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-021056">
+          <div class="section-header">
+            <span class="section-time">⏱️ 02:10:56 - 02:15:58</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>are just wandering around the goal with your monkey mind. You are always looking for something without knowing what you are doing. If you want to see something, you should open your eyes. When you do not understand Bodhidharma Zen, you are trying to look at something with your eyes closed. We do not slight the idea of attaining enlightenment, but the most important thing is this moment, not some day in the future. We have to make our effort in this moment. This is the most important thing for our practice. Before Bodhidharma, the study of Buddha&#x27;s teaching resulted in a deep and lofty philosophy of Buddhism, and people tried to attain its high ideals. This is a mistake. Bodhidharma discovered that it was a mistake to create some lofty or deep idea and then try to attain it by the practice of zasen. If that is our zasen, it is nothing different from our usual activity or monkey mind. It looks like a very good, a very lofty and holy activity, but actually there is no difference between it and our monkey mind. That is the point that Bodhidharma emphasized. Before Buddha attained enlightenment, he made all possible efforts for us, and at last he attained a thorough understanding of the various ways. You may think Buddha attained some stage where he was free from karmic life, but it is not so. Many stories were told by Buddha about his experiences after he attained enlightenment. He was not at all different from us. When his country was at war with a powerful neighbor, he told his disciples of his own karma, of how he suffered when he saw that his country was going to be conquered by the neighboring king. If he had been someone who had attained an enlightenment in which there was no karma, there would have been no reason for him to suffer so. And even after he attained enlightenment, he continued the same effort we are making. But his view of life was not shaky. His view of life was stable, and he watched everyone&#x27;s life, including his own life. He watched himself and he watched others with the same eyes that he watched stones or plants or anything else. He had a very scientific understanding. That was his way of life after he attained enlightenment. When we have the traditional spirit to follow the truth as it goes, and to practice our way without any egoistic idea, then we will attain enlightenment in its true sense. And when we understand this point, we will make our best effort in each moment. That is true understanding of Buddhism. So our understanding of Buddhism is not just an intellectual understanding. Our understanding at the same time is its own expression, is the practice itself. Not by reading or contemplation of philosophy, but only through practice, actual practice, can we understand what Buddhism is. Constantly, we should practice azen with strong confidence in our true nature, breaking the chain of karmic activity and finding our place in the world of actual practice. Transiency. The basic teaching of Buddhism is the teaching of transiency or change. That everything changes is the basic truth for each existence. No one can deny this truth, and all teaching of Buddhism is condensed within it. This is the teaching for all of us. Wherever we go, this teaching is true. This teaching is also understood as the teaching of selflessness. Because each existence is in constant change, there is no abiding self. In fact, the self-nature of each existence is nothing but change itself. the self-nature of all existence. There is no special separate self-nature for each existence. This is also called the teaching of nirvana. When we realize the everlasting truth of everything changes and find our composure in it, we find ourselves in nirvana. Without accepting the fact that everything changes, we cannot find perfect composure. But unfortunately, although it is true, it is difficult for us to accept it. Because we cannot accept the truth of transiency, we suffer. So the cause of suffering is our non-acceptance of this truth. The teaching of the cause of suffering and the teaching that everything changes are thus two sides of one coin. But subjectively, transiency is the cause of our suffering.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-021558">
+          <div class="section-header">
+            <span class="section-time">⏱️ 02:15:58 - 02:20:58</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>Objectively, this teaching is simply the basic truth that everything changes. Dogen Zenji said, teaching which does not sound as if it is forcing something on you is not true teaching. The teaching itself is true, and in itself does not force anything upon us. But because of our human tendency, we receive the teaching as if something was being forced on us. But whether we feel good or bad about it, this truth exists. If nothing exists, this truth does not exist. Buddhism exists because of each particular existence. We should find perfect existence through imperfect existence. We should find perfection in imperfection. For us, complete perfection is not different from imperfection. The eternal exists because of non-eternal existence. In Buddhism, it is a heretical view to expect something outside this world. We do not seek for something besides ourselves. We should find the truth in this world through our difficulties, through our suffering. This is the basic teaching of Buddhism. Pleasure is not different from difficulty. Good is not different from bad. Bad is good, good is bad. There are two sides of one coin. So enlightenment should be in practice. That is the right understanding of practice and the right understanding of our life. So to find pleasure in suffering is the only way to accept the truth of transiency. Without realizing how to accept this truth, you cannot live in this world. Even though you try to escape from it, your effort will be in vain. If you think that there is some other way to accept the eternal truth that everything changes, that is your delusion. This is the basic teaching of how to live in this world. Whatever you may feel about it, you have to accept it. You have to make this kind of effort. So until we become strong enough to accept difficulty as pleasure, we have to continue this effort. Actually, if you become honest enough or straightforward enough, it is not so difficult to accept this truth. You can change your way of thinking a little bit. It is difficult, but this difficulty will not always be the same. Sometimes it will be difficult, and sometimes it will not be so difficult. If you are suffering, you will have some pleasure in the teaching that everything changes. When you are in trouble, it is quite easy to accept the teaching. So why not accept it at other times? It is the same thing. Sometimes you may laugh at yourself, discovering how selfish you are. But no matter how you feel about this teaching, it is very important for you to change your way of thinking and accept the truth of transiency. Emptiness If you want to understand Buddhism, it is necessary for you to forget all about your preconceived ideas. To begin with, you must give up the idea of substantiality or existence. The usual view of life is firmly rooted in the idea of existence. For most people, everything exists. They think whatever they see and whatever they hear exists. Of course, the bird we see and hear exists. It exists. But what I mean by that may not be exactly what you mean. The Buddhist understanding of life includes both existence and non-existence. The bird both exists and does not exist at the same time. We say that a view of life based on existence alone is heretical. If you take things too seriously as if they existed substantially or permanently, you are called a heretic. Most people may be heretics. We say true existence comes from emptiness and goes back again into emptiness. What appears from emptiness is true existence. We have to go through the gate of emptiness. This idea of existence is very difficult to explain. Many people these days have begun to feel, at least intellectually, the emptiness of the modern world or the self-contradiction of their culture. In the past, for instance, the Japanese people had a firm confidence in the permanent existence of their culture and their traditional way of life. But since they lost the war, they have become very skeptical. Some people think this skeptical attitude is awful. But actually, it is better than the old attitude. As long as we have some definite idea about or some hope in the future, we cannot really be serious with the moment that exists right now.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-022058">
+          <div class="section-header">
+            <span class="section-time">⏱️ 02:20:58 - 02:26:03</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>You may say, I can do it tomorrow or next year, believing that something that exists today will exist tomorrow. Even though you are not trying so hard, you expect that some promising thing will come as long as you follow a certain way. But there is no certain way that exists permanently. There is no way set up for us. Moment after moment, we have to find our own way. Some idea of perfection or some perfect way which is set up by someone else is not the true way for us. Each one of us must make his own true way. And when we do, that way will express the universal way. This is the mystery. When you understand one thing through and through, you understand everything. When you try to understand everything, you will not understand anything. The best way is to understand yourself and then you will understand everything. So when you try hard to make your own way, you will help others and you will be helped by others. Before you make your own way, you cannot help anyone and no one can help you. To be independent in this true sense, we have to forget everything which we have in our mind and discover something quite new and different moment after moment. This is how we live in this world. So we say true understanding will come out of emptiness. When you study Buddhism, you should have a general house cleaning of your mind. You must take everything out of your room and clean it thoroughly. If it is necessary, you may bring everything back in again. You may want many things, so one by one you can bring them back. But if they&#x27;re not necessary, there&#x27;s no need to keep them. We see the flying bird. Sometimes we see the trace of it. Actually, we cannot see the trace of a flying bird, but sometimes we feel as if we could. This is also good. If it is necessary, you should bring back in the things you took from your room. But before you put something in your room, it is necessary for you to take out something. If you do not, your room will become crowded with old useless junk. We say, step by step, I stop the sound of the murmuring brook. When you walk along the brook, you&#x27;ll hear the water running. The sound is continuous, but you must be able to stop it if you want to stop it. This is freedom. This is renunciation. One after another, you will have various thoughts in your mind. But if you want to stop your thinking, you can. So when you are able to stop the sound of the murmuring brook, you will appreciate the feeling of your work. But as long as you have some fixed idea or are caught by some habitual way of doing things, you cannot appreciate things in their true sense. If you seek for freedom, you cannot find it. Absolute freedom itself is necessary before you can acquire absolute freedom. That is our practice. Our way is not always to go in one direction. Sometimes we go east, sometimes we go west. To go one mile to the west means to go back one mile to the east. Usually, if you go one mile to the east, it is the opposite of going one mile to the west. But if it is possible to go one mile to the east, that means it is possible to go one mile to the west. This is freedom. Without this freedom, you cannot be concentrated on what you do. You may think you are concentrated on something, but before you obtain this freedom, you will have some uneasiness in what you are doing. Because you were bound by some idea of going east or west, your activity is in dichotomy or duality. As long as you are caught by duality, you cannot attain absolute freedom and you cannot concentrate. Concentration is not to try hard to watch something. In Zazan, if you try to look at one spot, you will be tired in about five minutes. This is not concentration. Concentration means freedom. So your effort should be directed at nothing. You should be concentrated on nothing. In Zazan practice, we say your mind should be concentrated on your breathing. But the way to keep your mind on your breathing is to forget all about yourself and just to sit and feel your breathing. If you are concentrated on your breathing, you will forget yourself. And if you forget yourself, you will be concentrated on your breathing. I do not know which is first. So actually, there is no need to try too hard to be concentrated on your breathing. Just do as much as you can. If you continue this practice, eventually you will experience the true existence which comes from emptiness.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-022603">
+          <div class="section-header">
+            <span class="section-time">⏱️ 02:26:03 - 02:31:04</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>Believing in Nothing I discovered that it is necessary, absolutely necessary, to believe in nothing. That is, we have to believe in something which has no form and no color, something which exists before all forms and colors appear. This is a very important point. No matter what God or doctrine you believe in, if you become attached to it, your belief will be based more or less on a self-centered idea. You strive for a perfect faith in order to save yourself. But it will take time to attain such a perfect faith. You will be involved in an idealistic practice. In constantly seeking to actualize your ideal, you will have no time for composure. But if you are always prepared for accepting everything we see as something appearing from nothing, knowing that there is some reason why a phenomenal existence of such and such a form and color appears, then at that moment you will have perfect composure. When you have a headache, there is some reason why you have a headache. If you know why you have a headache, you will feel better. But if you do not know why, you may say, oh, I have a terrible headache. Maybe it is because of my bad practice. If my meditation or Zen practice were better, I wouldn&#x27;t have this kind of trouble. If you understand conditions in this way, you will not have perfect faith in yourself or in your practice until you attain perfection. You will be so busy trying that I am afraid you will have no time to attain perfect practice. So you may have to keep your headache all the time. This is a rather silly kind of practice. This kind of practice will not work. But if you believe in something which exists before you have the headache, and if you know the reason why you have the headache, then you will feel better naturally. To have a headache will be all right, because you are healthy enough to have a headache. If you have a stomach ache, your stomach is healthy enough to have pain. But if your stomach becomes accustomed to its poor condition, you will have no pain. That is awful. You will be coming to the end of your life from your stomach trouble. So it is absolutely necessary for everyone to believe in nothing. But I do not mean voidness. There is something. But that something is something which is always prepared for taking some particular form, and it has some rules or theory or truth in its activity. This is called Buddha nature or Buddha himself. When this existence is personified, we call it Buddha. When we understand it as the ultimate truth, we call it Dharma. And when we accept the truth and act as a part of the Buddha, or according to the theory, we call ourselves Sangha. But even though there are three Buddha forms, it is one existence which has no form or color, and it is always ready to take form and color. This is not just theory. This is not just the teaching of Buddhism. This is the absolutely necessary understanding of our life. Without this understanding, our religion will not help us. We will be bound by our religion, and we will have more trouble because of it. If you become the victim of Buddhism, I may be very happy, but you will not be so happy. So this kind of understanding is very, very important. While you are practicing Zazen, you may hear the rain dropping from the roof in the dark. Later, the wonderful mist will be coming through the big trees, and still later, when people start to work, they will see the beautiful mountains. But some people will be annoyed if they hear the rain when they are lying in their beds in the morning, because... they do not know that later they will see the beautiful sun rising from the east. If our mind is concentrated on ourselves, we will have this kind of worry. But if we accept ourselves as the embodiment of the truth, or Buddha-nature, we will have no worry, we will think, now it is raining, but we don&#x27;t know what will happen in the next moment. By the time we go out, it may be a beautiful day or a stormy day. Since we don&#x27;t know, let&#x27;s appreciate the sound of the rain, now. This kind of attitude is the right attitude. If you understand yourself as a temporal embodiment of the truth, you will have no difficulty whatsoever. You will appreciate your surroundings, and you will appreciate yourself as a wonderful part of Buddha&#x27;s great activity, even in the midst of difficulties. This is our way of life. Using the Buddha&#x27;s terminology, we should begin with enlightenment and proceed to practice, and then to thinking. Usually, thinking is rather self-centered. In our everyday life,</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-023104">
+          <div class="section-header">
+            <span class="section-time">⏱️ 02:31:04 - 02:36:08</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>our thinking is 99% self-centered. Why do I have suffering? Why do I have trouble? This kind of thinking is 99% of our thinking. For example, when we start to study science or read a difficult sutra, we very soon become sleepy or drowsy. But we are always wide awake, and very much interested in our self-centered thinking. But if enlightenment comes first before thinking, before practice, your thinking in your practice will not be self-centered. By enlightenment, I mean believing in nothing, believing in something which has no form or no color, which is ready to take form or color. This enlightenment is the immutable truth. It is on this original truth that our activity, our thinking, and our practice should be based. Original Buddhism. Walking, standing, sitting, and lying down are the four activities or ways of behavior in Buddhism. Zazen is not one of the four ways of behavior, and according to Dogan Zenji, the Soto school is not one of the many schools of Buddhism. The Chinese Soto school may be one of the many schools of Buddhism, but according to Dogan, his way was not one of the many schools. If this is so, you may ask, why we put emphasis on the sitting posture, or why we put emphasis on having a teacher. The reason is because Zazen is not just one of the four ways of behavior. Zazen is a practice which contains innumerable activities. Zazen started even before Buddha, and will continue forever. So this sitting posture cannot be compared to the other four activities. Usually people put emphasis on some particular position or on some particular understanding of Buddhism, and they think, this is Buddhism. But we cannot compare our way with the practice as people normally understand. Our teaching cannot be compared to other teachings of Buddhism. This is why we should have a teacher who does not attach to any particular understanding of Buddhism. The original teaching of Buddha includes all the various schools. As Buddhists, our traditional effort should be like Buddha&#x27;s. We should not attach to any particular school or doctrine. But usually, if we have no teacher, and if we take pride in our own understanding, we will lose the original characteristic of Buddha&#x27;s teaching, which includes all the various teachings. Because Buddha was the founder of the teaching, people tentatively called his teaching Buddhism. But actually, Buddhism is not some particular teaching. Buddhism is just truth, which includes various truths in it. Zazen practice is the practice which includes the various activities of life. So actually, we do not emphasize the sitting posture alone. How to sit is how to act. We study how to act by sitting, and this is the most basic activity for us. That is why we practice zazen in this way. Even though we practice zazen, we should not call ourselves the zen school. We just practice zazen, taking our example from Buddha. That is why we practice. Buddha taught us how to act through our practice. That is why we sit. To do something, to live in each moment, means to be the temporal activity of Buddha. To sit in this way is to be Buddha himself, to be as the historical Buddha was. The same thing applies to everything we do, everything is Buddha&#x27;s activity. So whatever you do, or even if you keep from doing something, Buddha is in that activity. Because people have no such understanding of Buddha, they think that what they do is the most important thing without knowing who it is that is actually doing it. People think they are doing very various things, but actually Buddha is doing everything. Each one of us has his own name, but those names are the many names of one Buddha. Each one of us has many activities, but these activities are all Buddha&#x27;s activities. Without knowing this, people put emphasis on some activity. When they put emphasis on zazen, it is not true zazen. It looks as if they are sitting in the same way as Buddha, but there is a big difference in their understanding of our practice. They understand this sitting posture is just one of the four basic postures of man, and they think, I now take this posture. But zazen is all the postures, and each posture is Buddha&#x27;s posture. This understanding is the right understanding of the zazen posture. If you practice in this way, it is Buddhism. This is a very, very important point. So Dogen did not call himself a Soto teacher or a Soto disciple. He said, other people may call us the Soto school, but there is no reason for us to call ourselves Soto. You</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-023608">
+          <div class="section-header">
+            <span class="section-time">⏱️ 02:36:08 - 02:41:10</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>should not even use the name Soto. No school should consider itself a separate school. It should just be one tentative form of Buddhism. But as long as various schools do not accept this kind of understanding, as long as they continue calling themselves by their particular names, we must accept the tentative name of Soto. But I want to make this point clear. Actually we are not the Soto school at all. We are just Buddhists. We are not even Zen Buddhists. We are just Buddhists. If we understand this point, we are truly Buddhists. Buddha&#x27;s teaching is everywhere. Today it is raining. This is Buddha&#x27;s teaching. People think their own way or their own religious understanding is Buddha&#x27;s way without knowing what they are hearing or what they are doing or where they are. Religion is not any particular teaching. Religion is everywhere. We have to understand our teaching in this way. We should forget all about some particular teaching. We should not ask which is good or bad. There should not be any particular teaching. Teaching is in each moment, in every existence. That is the true teaching. Buddha&#x27;s enlightenment. I am very glad to be here on the day Buddha attained enlightenment under the bow tree. When he attained enlightenment under the bow tree, he said, it is wonderful to see Buddha nature in everything and in each individual. What he meant was that when we practice as Zen, we have Buddha nature and each of us is Buddha himself. By practice he did not mean just to sit under the bow tree or to sit in the cross-legged posture. It is true that this posture is the basic one or original way for us. But actually what Buddha meant was that mountains, trees, flowing water, flowers and plants, everything as it is, is the way Buddha is. It means everything is taking Buddha&#x27;s activity, each thing in its own way. But the way each thing exists is not to be understood by itself in its own realm of consciousness. What we see or what we hear is just a part or a limited idea of what we actually are. But when we just are, each just existing in his own way, we are expressing Buddha himself. In other words, when we practice something such as Zazen, then there is Buddha&#x27;s way or Buddha nature. When we ask what Buddha nature is, it vanishes. But when we just practice Zazen, we have full understanding of it. The only way to understand Buddha nature is just to practice Zazen, just to be here as we are. So what Buddha meant by Buddha nature was to be there as he was, beyond the realm of consciousness. Buddha nature is our original nature. We have it before we practice Zazen and before we acknowledge it in terms of consciousness. So in this sense, whatever we do is Buddha&#x27;s activity. If you want to understand it, you cannot understand it. When you give up trying to understand it, true understanding is always there. Usually after Zazen, I give a talk. But the reason people come is not just to listen to my talk, but to practice Zazen. We should never forget this point. The reason I talk is to encourage you to practice Zazen in Buddha&#x27;s way. So we say that although you have Buddha nature, if you are under the idea of doing or not doing Zazen, or if you cannot admit that you are Buddha, then you understand neither Buddha nature nor Zazen. But when you practice Zazen in the same way as Buddha did, you will understand what our way is. We do not talk so much, but through our activity we communicate with each other, intentionally or unintentionally. We should always be alert enough to communicate with or without words. If this point is lost, we will lose the most important point of Buddhism. Wherever we go, we should not lose this way of life. That is called being Buddha, or being the boss. Wherever you go, you should be the master of your surroundings. This means you should not lose your way. So this is called Buddha, because if you exist in this way always, you are Buddha himself, without trying to be Buddha, you are Buddha. This is how we attain enlightenment. To attain enlightenment is to be always with Buddha. By repeating the same thing over and over, we will</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-024110">
+          <div class="section-header">
+            <span class="section-time">⏱️ 02:41:10 - 02:46:14</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>acquire this kind of understanding. But if you lose this point and take pride in your attainment, or become discouraged because of your idealistic effort, your practice will confine you by a thick wall. We should not confine ourselves by a self-built wall. So when Zazen time comes, just to get up, to go and sit with your teacher, and to talk to him, and listen to him, and then go home again, all these procedures are our practice. In this way, without any idea of attainment, you are always Buddha. This is true practice of Zazen. Then you may understand the true meaning of Buddha&#x27;s first statement. See Buddha nature in various beings, and in every one of us. Epilogue, Zen Mind. Here in America, we cannot define Zen Buddhists the same way we do in Japan. American students are not priests, and yet not completely laymen. I understand it this way, that you are not priests is an easy matter, but that you are not exactly laymen is more difficult. I think you are special people, and want some special practice that is not exactly priest practice, and not exactly laymen&#x27;s practice. You are on your way to discovering some appropriate way of life. I think that is our Zen community, our group. But we must also know what our undivided original way is, and what Dogen&#x27;s practice is. Dogen&#x27;s Enji said that some may attain enlightenment and some may not. This is a point I am very much interested in. Although we all have the same fundamental practice which we carry out in the same way, some may attain enlightenment and some may not. It means that even if we have no experience of enlightenment, if we sit in the proper way with the right attitude and understanding of practice, then that is Zen. The main point is to practice seriously, and the important attitude is to understand and have confidence in Big Mind. We say Big Mind, or Small Mind, or Buddha Mind, or Zen Mind, and these words mean something you know, but something we cannot and should not try to understand in terms of experience. We talk about enlightenment experience, but it is not some experience we will have in terms of good or bad, time or space, past or future. It is experience or consciousness beyond those distinctions or feelings. So we should not ask, what is enlightenment experience? That kind of question means you do not know what Zen experience is. Enlightenment cannot be asked for in your ordinary way of thinking. When you are not involved in this way of thinking, you have some chance of understanding what Zen experience is. The Big Mind in which we must have confidence is not something which you can experience objectively. It is something which is always with you, always on your side. Your eyes are on your side, for you cannot see your eyes, and your eyes cannot see themselves. Eyes only see things outside, objective things. If you reflect on yourself, that self is not your true self anymore. You cannot project yourself as some objective thing to think about. The mind which is always on your side is not just your mind, it is universal mind, always the same, not different from another&#x27;s mind. It is Zen mind, it is big. big mind. This mind is whatever you see. Your true mind is always with whatever you see. Although you do not know your own mind, it is there. At the very moment you see something, it is there. This is very interesting. Your mind is always with the things you observe. So you see, this mind is at the same time everything. True mind is watching mind. You cannot say, this is myself, my small mind, or my limited mind, and that is big mind. That is limiting yourself, restricting your true mind, objectifying your mind. Bodhidharma said, in order to see a fish, you must watch the water. Actually, when you see water, you see the true fish. Before you see Buddha nature, you watch your mind. When you see the water, there is true nature. True nature is watching water. When you say, Māyśāsān is very poor, here you have true nature, but foolishly you do not realize it. You ignore it on purpose.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-024614">
+          <div class="section-header">
+            <span class="section-time">⏱️ 02:46:14 - 02:51:17</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>There is immense importance in the eye with which you watch your mind. That eye is not the big eye. It is the eye which is incessantly active, always swimming, always flying through the vast air with wings. By wings, I mean thought and activity. The vast sky is home, my home. There is no bird or air. When the fish swims, water and fish are the fish. There is nothing but fish. Do you understand? You cannot find Buddha nature by vivisection. Reality cannot be caught by thinking or feeling mind. Moment after moment, to watch your breathing, to watch your posture is true nature. There is no secret beyond this point. We Buddhists do not have any idea of material only, or mind only, or the products of our mind, or mind as an attribute of being. What we are always talking about is that mind and body, mind and material are always one. But if you listen carelessly, it sounds as if we are talking about some attribute of being or about material or spiritual. That will be a version of it, maybe. But actually, we are pointing out mind which is always on this side, which is true mind. Enlightenment experience is to figure out, to understand, to realize this mind which is always with us and which we cannot see. Do you understand? If you try to attain enlightenment as if you see a bright star in the sky, it will be beautiful and you may think, ah, this is enlightenment. That is not enlightenment. That understanding is literally heresy. Even though you do not know it, in that understanding you have the idea of material only. Dozens of your enlightenment experiences are like that. Some material only, some object of your mind, as if through good practice you have found that bright star. That is the idea of self and object. It is not the way to seek for enlightenment. The Zen school is based on our actual nature, on our true mind as expressed and realized in practice. Zen does not depend on a particular teaching, nor does it substitute teaching for practice. We practice asen to express our true nature, not to attain enlightenment. Bodhidharma&#x27;s Buddhism is to be practice, to be enlightenment. At first this may be a kind of belief, but later it is something the student feels or already has. Physical practice and rules are not so easy to understand, maybe especially for Americans. You have an idea of freedom which concentrates on physical freedom, on freedom of activity. This idea causes you some mental suffering and loss of freedom. You think you want to limit your thinking. You think some of your thinking is unnecessary, or painful, or entangling, but you do not think you want to limit your physical activity. For this reason, Hyakujo established the rules and way of Zen life in China. He was interested in expressing and transmitting the freedom of true mind. Zen mind is transmitted in our Zen way of life based on Hyakujo&#x27;s rules. I think we naturally need some way of life as a group and as Zen students in America. And as Hyakujo established our way of monastic life in China, I think we must establish an American way of Zen life. I am not saying this jokingly, I am pretty serious, but I do not want to be too serious. If we become too serious, we will lose our way. If we are playing games, we will lose our way. Little by little, with patience and endurance, we must find the way for ourselves, find out how to live with ourselves and with each other. In this way, we will find out our precepts. If we practice hard, concentrate on Zazen, and organize our life so that we can sit well, we will find out what we are doing. But you have to be careful in the rules and way you establish. If it is too strict, you will fail. If it is too loose, the rules will not work. Our way should be strict enough to have authority, and authority everyone should obey. The rules should be possible to observe. This is how Zen tradition was built up, decided, little by little, created by us in our practice.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-025117">
+          <div class="section-header">
+            <span class="section-time">⏱️ 02:51:17 - 02:56:19</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>We cannot force anything. But once the rules have been decided, we should obey them completely until they are changed. It is not a matter of good or bad, convenient or inconvenient. You just do it without question. That way, your mind is free. The important thing is to obey your rules without discrimination. This way, you will know the pure Zen mind. To have our own way of life means to encourage people to have a more spiritual and adequate way of life as human beings. And I think one day you will have your own practice in America. The only way to study pure mind is through practice. Our inmost nature wants some medium, some way to express and realize itself. We answer this inmost request through our rules, and patriarch after patriarch shows us his true mind. In this way, we will have an accurate, deep understanding of practice. We must have more experience of our practice. At least, we must have some enlightenment experience. You must put confidence in the big mind which is always with you. You should be able to appreciate things as an expression of big mind. This is more than faith. This is ultimate truth which you cannot reject. Whether it is difficult or easy to practice, difficult or easy to understand, you can only practice it. Priest or layman is not the point. To find yourself as someone who is doing something is the point. To resume your actual being through practice, to resume the you which is always with everything, with Buddha, which is fully supported by everything. Right now, you may say it is impossible, but it is possible. Even in one moment you can do it. It is possible this moment, it is this moment, that you can do it in this moment means you can always do it. So if you have this confidence, this is your enlightenment experience. If you have this strong confidence in your big mind, you are already a Buddhist in the true sense, even though you do not attain enlightenment. That is why Dogenzenji said, do not expect that all who practice asan will attain enlightenment about this mind which is always with us. He meant, if you think that big mind is somewhere outside yourself, outside of your practice, then that is a mistake. Big mind is always with us. That is why I repeat the same thing over and over when I think you do not understand. Zen is not just for the man who can fold his legs or who has great spiritual ability. Everyone has Buddha nature. We each must find some way to realize our true nature. The purpose of practice is to have direct experience of the Buddha nature which everyone has. Whatever you do should be the direct experience of Buddha nature. Buddha nature means to be aware of Buddha nature. Your efforts should extend to saving all sentient beings. If my words are not good enough, I will hit you. Then you will understand what I mean. And if you do not understand me just now, some day you will. Some day someone will understand. I will wait for the island I was told is moving slowly up the coast from Los Angeles to Seattle. I feel Americans, especially young Americans, have a great opportunity to find out the true way of life for human beings. You are quite free from material things and you begin Zen practice with a very pure mind, a beginner&#x27;s mind. You can understand Buddha&#x27;s teaching exactly as he meant it. But we must not be attached to America or Buddhism or even to our practice. We must have beginner&#x27;s mind, free from possessing anything, a mind that knows everything is in flowing change. Nothing exists but momentarily in its present form and color. One thing flows into another and cannot be grasped. Before the rain stops, we hear a bird. Even under the heavy snow, we see snowdrops and some new growth. In the east, I saw rhubarb already. In Japan, in the spring, we eat cucumbers.</p>
+          </div>
+        </section>
+        
+        </div>
+      </article>
+    </main>
+  </div>
+
+  <!-- Floating Tools -->
+  <div class="floating-tools">
+    <button class="float-btn" id="scroll-top-btn" title="回到頂部">▲</button>
+  </div>
+
+  <script>
+    // --- Preferences & Theme Logic ---
+    const themes = ['light', 'sepia', 'dark'];
+    const themeNames = {'light': '☀️ 明亮', 'sepia': '📜 護眼', 'dark': '🌙 暗黑'};
+    let currentThemeIdx = themes.indexOf(localStorage.getItem('reader-theme') || 'light');
+    if (currentThemeIdx === -1) currentThemeIdx = 0;
+
+    function applyTheme(theme) {
+      document.documentElement.setAttribute('data-theme', theme);
+      localStorage.setItem('reader-theme', theme);
+      const span = document.querySelector('#theme-btn span');
+      if (span) span.textContent = themeNames[theme].split(' ')[1];
+    }
+    applyTheme(themes[currentThemeIdx]);
+
+    document.getElementById('theme-btn').addEventListener('click', () => {
+      currentThemeIdx = (currentThemeIdx + 1) % themes.length;
+      applyTheme(themes[currentThemeIdx]);
+    });
+
+    // --- Font Family Toggle ---
+    let isSerif = localStorage.getItem('reader-serif') === 'true';
+    function applyFontFamily(serif) {
+      document.documentElement.style.setProperty('--font-family', serif ? 'var(--font-serif)' : 'var(--font-body)');
+      localStorage.setItem('reader-serif', serif);
+    }
+    applyFontFamily(isSerif);
+    document.getElementById('font-family-btn').addEventListener('click', () => {
+      isSerif = !isSerif;
+      applyFontFamily(isSerif);
+    });
+
+    // --- Font Size Adjustment ---
+    let currentFontSize = parseInt(localStorage.getItem('reader-font-size') || '18', 10);
+    function applyFontSize(size) {
+      size = Math.max(14, Math.min(26, size));
+      currentFontSize = size;
+      document.documentElement.style.setProperty('--font-size', size + 'px');
+      localStorage.setItem('reader-font-size', size);
+    }
+    applyFontSize(currentFontSize);
+
+    document.getElementById('font-dec-btn').addEventListener('click', () => applyFontSize(currentFontSize - 1));
+    document.getElementById('font-inc-btn').addEventListener('click', () => applyFontSize(currentFontSize + 1));
+
+    // --- Sidebar Drawer & Backdrop ---
+    const sidebar = document.getElementById('sidebar');
+    const backdrop = document.getElementById('backdrop');
+    const toggleSidebarBtn = document.getElementById('toggle-sidebar-btn');
+
+    function toggleSidebar() {
+      const isOpen = sidebar.classList.toggle('open');
+      backdrop.classList.toggle('open', isOpen);
+    }
+
+    toggleSidebarBtn.addEventListener('click', toggleSidebar);
+    backdrop.addEventListener('click', () => {
+      sidebar.classList.remove('open');
+      backdrop.classList.remove('open');
+    });
+
+    // Close sidebar on item click (mobile)
+    document.querySelectorAll('.toc-item a').forEach(link => {
+      link.addEventListener('click', () => {
+        if (window.innerWidth <= 992) {
+          sidebar.classList.remove('open');
+          backdrop.classList.remove('open');
+        }
+      });
+    });
+
+    // --- TOC Search Filter ---
+    const tocFilter = document.getElementById('toc-filter');
+    const tocItems = document.querySelectorAll('.toc-item');
+    tocFilter.addEventListener('input', (e) => {
+      const q = e.target.value.toLowerCase().trim();
+      tocItems.forEach(item => {
+        const text = item.textContent.toLowerCase();
+        item.style.display = text.includes(q) ? '' : 'none';
+      });
+    });
+
+    // --- Reading Progress & Scroll Spy ---
+    const progressBar = document.getElementById('progress-bar');
+    const sections = Array.from(document.querySelectorAll('.transcript-section'));
+    const tocLinkMap = new Map();
+    document.querySelectorAll('.toc-item a').forEach(a => {
+      const href = a.getAttribute('href');
+      if (href && href.startsWith('#')) {
+        tocLinkMap.set(href.slice(1), a.parentElement);
+      }
+    });
+
+    window.addEventListener('scroll', () => {
+      const winScroll = document.documentElement.scrollTop;
+      const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+      const scrolled = height > 0 ? (winScroll / height) * 100 : 0;
+      progressBar.style.width = scrolled + '%';
+
+      // Scroll spy: find current section
+      let currentSectionId = '';
+      for (const sec of sections) {
+        const rect = sec.getBoundingClientRect();
+        if (rect.top <= 120) {
+          currentSectionId = sec.id;
+        } else {
+          break;
+        }
+      }
+
+      if (currentSectionId) {
+        document.querySelectorAll('.toc-item.active').forEach(el => el.classList.remove('active'));
+        const activeItem = tocLinkMap.get(currentSectionId);
+        if (activeItem) {
+          activeItem.classList.add('active');
+        }
+      }
+    }, { passive: true });
+
+    // --- Scroll Top Button ---
+    document.getElementById('scroll-top-btn').addEventListener('click', () => {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  </script>
+</body>
+</html>

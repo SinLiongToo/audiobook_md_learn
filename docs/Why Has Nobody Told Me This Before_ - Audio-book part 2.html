@@ -1,0 +1,997 @@
+<!DOCTYPE html>
+<html lang="zh-Hant" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Why Has Nobody Told Me This Before_ - Audio-book part 2 - 有聲書學習電子書</title>
+  <style>
+    :root {
+      --font-body: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans TC", "PingFang TC", "Microsoft JhengHei", sans-serif;
+      --font-serif: "Iansui", "芫荽", Georgia, "Songti TC", "Noto Serif TC", serif;
+      --font-family: var(--font-body);
+      --font-size: 18px;
+      --line-height: 1.85;
+      --content-max-width: 820px;
+      --sidebar-width: 320px;
+      --bg-primary: #fcfcfd;
+      --bg-surface: #ffffff;
+      --bg-sidebar: #f8f9fa;
+      --bg-header: rgba(255, 255, 255, 0.92);
+      --text-primary: #1f2328;
+      --text-secondary: #57606a;
+      --text-muted: #8c959f;
+      --border-color: #e1e4e8;
+      --accent-color: #2563eb;
+      --accent-hover: #1d4ed8;
+      --accent-light: #eff6ff;
+      --badge-bg: #e0f2fe;
+      --badge-text: #0369a1;
+      --card-shadow: 0 1px 3px rgba(0, 0, 0, 0.05), 0 1px 2px rgba(0, 0, 0, 0.03);
+    }
+
+    [data-theme="sepia"] {
+      --bg-primary: #fbf0d9;
+      --bg-surface: #f4e8cf;
+      --bg-sidebar: #efe3c7;
+      --bg-header: rgba(244, 232, 207, 0.94);
+      --text-primary: #433422;
+      --text-secondary: #6e583f;
+      --text-muted: #957d60;
+      --border-color: #e3d3b4;
+      --accent-color: #92400e;
+      --accent-hover: #78350f;
+      --accent-light: #fbeacf;
+      --badge-bg: #ead8b8;
+      --badge-text: #6b4012;
+      --card-shadow: 0 1px 3px rgba(67, 52, 34, 0.08);
+    }
+
+    [data-theme="dark"] {
+      --bg-primary: #0f172a;
+      --bg-surface: #1e293b;
+      --bg-sidebar: #131c31;
+      --bg-header: rgba(30, 41, 59, 0.92);
+      --text-primary: #f1f5f9;
+      --text-secondary: #94a3b8;
+      --text-muted: #64748b;
+      --border-color: #334155;
+      --accent-color: #38bdf8;
+      --accent-hover: #7dd3fc;
+      --accent-light: #1e3a5f;
+      --badge-bg: #1e293b;
+      --badge-text: #38bdf8;
+      --card-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: var(--font-family);
+      font-size: var(--font-size);
+      line-height: var(--line-height);
+      color: var(--text-primary);
+      background-color: var(--bg-primary);
+      transition: background-color 0.25s ease, color 0.25s ease;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* Top Reading Progress Bar */
+    #progress-bar {
+      position: fixed;
+      top: 0;
+      left: 0;
+      height: 3px;
+      background: linear-gradient(90deg, var(--accent-color), #818cf8);
+      width: 0%;
+      z-index: 1000;
+      transition: width 0.1s linear;
+    }
+
+    /* Top Navigation Header */
+    .top-header {
+      position: sticky;
+      top: 0;
+      z-index: 900;
+      height: 60px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0 20px;
+      background-color: var(--bg-header);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
+      border-bottom: 1px solid var(--border-color);
+    }
+
+    .header-left, .header-right {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .btn-icon {
+      background: none;
+      border: 1px solid var(--border-color);
+      color: var(--text-primary);
+      cursor: pointer;
+      font-size: 15px;
+      padding: 6px 12px;
+      border-radius: 8px;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.2s;
+    }
+    .btn-icon:hover {
+      background-color: var(--accent-light);
+      border-color: var(--accent-color);
+      color: var(--accent-color);
+    }
+
+    .home-link {
+      text-decoration: none;
+      color: var(--text-primary);
+      font-weight: 600;
+      font-size: 15px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .home-link:hover {
+      color: var(--accent-color);
+    }
+
+    /* Layout Wrapper */
+    .layout {
+      display: flex;
+      flex: 1;
+      width: 100%;
+      position: relative;
+    }
+
+    /* Sidebar / TOC */
+    .sidebar {
+      width: var(--sidebar-width);
+      position: sticky;
+      top: 60px;
+      height: calc(100vh - 60px);
+      background-color: var(--bg-sidebar);
+      border-right: 1px solid var(--border-color);
+      overflow-y: auto;
+      padding: 20px 16px;
+      flex-shrink: 0;
+      transition: transform 0.3s ease;
+    }
+
+    .sidebar-title {
+      font-size: 14px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+      color: var(--text-secondary);
+      margin-bottom: 12px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .toc-search {
+      width: 100%;
+      padding: 8px 12px;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      background: var(--bg-surface);
+      color: var(--text-primary);
+      font-size: 13px;
+      margin-bottom: 14px;
+    }
+    .toc-search:focus {
+      outline: 2px solid var(--accent-color);
+    }
+
+    .toc-list {
+      list-style: none;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 3px;
+    }
+
+    .toc-item a {
+      display: block;
+      padding: 7px 10px;
+      border-radius: 6px;
+      color: var(--text-secondary);
+      text-decoration: none;
+      font-size: 13.5px;
+      font-family: monospace;
+      transition: all 0.15s ease;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .toc-item a:hover {
+      background-color: var(--accent-light);
+      color: var(--accent-color);
+    }
+
+    .toc-item.active a {
+      background-color: var(--accent-color);
+      color: #ffffff;
+      font-weight: 600;
+    }
+
+    /* Main Reader Content */
+    .main-content {
+      flex: 1;
+      min-width: 0;
+      padding: 40px 24px 80px 24px;
+      display: flex;
+      justify-content: center;
+    }
+
+    .reader-container {
+      width: 100%;
+      max-width: var(--content-max-width);
+    }
+
+    /* Book Hero / Header */
+    .book-hero {
+      margin-bottom: 40px;
+      padding-bottom: 24px;
+      border-bottom: 2px solid var(--border-color);
+    }
+
+    .book-hero h1 {
+      font-size: 2.1em;
+      line-height: 1.3;
+      margin-bottom: 16px;
+      color: var(--text-primary);
+      font-weight: 800;
+    }
+
+    .book-meta-chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 14px;
+    }
+
+    .meta-chip {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 5px 12px;
+      border-radius: 20px;
+      background-color: var(--badge-bg);
+      color: var(--badge-text);
+      font-size: 13px;
+      font-weight: 500;
+    }
+
+    /* Content Typography */
+    .transcript-section {
+      margin-bottom: 44px;
+      scroll-margin-top: 80px;
+      padding-top: 10px;
+    }
+
+    .section-header {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 16px;
+      padding: 8px 12px;
+      border-radius: 8px;
+      background-color: var(--bg-surface);
+      border-left: 4px solid var(--accent-color);
+      box-shadow: var(--card-shadow);
+    }
+
+    .section-time {
+      font-size: 1.1em;
+      font-weight: 700;
+      color: var(--accent-color);
+      font-family: monospace;
+    }
+
+    .section-badge {
+      font-size: 12px;
+      color: var(--text-muted);
+    }
+
+    .section-body {
+      text-align: justify;
+      hyphens: auto;
+    }
+
+    .section-body p {
+      margin-bottom: 1.25em;
+      text-indent: 1.75em;
+      letter-spacing: 0.01em;
+    }
+
+    /* Floating Navigation Controls */
+    .floating-tools {
+      position: fixed;
+      bottom: 24px;
+      right: 24px;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      z-index: 800;
+    }
+
+    .float-btn {
+      width: 44px;
+      height: 44px;
+      border-radius: 50%;
+      background-color: var(--bg-surface);
+      color: var(--text-primary);
+      border: 1px solid var(--border-color);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 18px;
+      transition: transform 0.2s, background-color 0.2s;
+    }
+    .float-btn:hover {
+      transform: translateY(-2px);
+      background-color: var(--accent-light);
+      color: var(--accent-color);
+    }
+
+    /* Overlay for mobile drawer */
+    .backdrop {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.4);
+      z-index: 850;
+    }
+
+    /* Responsive */
+    @media (max-width: 992px) {
+      .sidebar {
+        position: fixed;
+        left: 0;
+        top: 60px;
+        bottom: 0;
+        z-index: 860;
+        transform: translateX(-100%);
+        box-shadow: 4px 0 16px rgba(0,0,0,0.15);
+      }
+
+      .sidebar.open {
+        transform: translateX(0);
+      }
+
+      .backdrop.open {
+        display: block;
+      }
+    }
+
+    @media (max-width: 640px) {
+      :root {
+        --font-size: 17px;
+      }
+      .main-content {
+        padding: 24px 16px 60px 16px;
+      }
+      .book-hero h1 {
+        font-size: 1.6em;
+      }
+      .top-header {
+        padding: 0 12px;
+      }
+      .section-body p {
+        text-indent: 1.2em;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div id="progress-bar"></div>
+
+  <!-- Top Navigation -->
+  <header class="top-header">
+    <div class="header-left">
+      <button class="btn-icon" id="toggle-sidebar-btn" title="切換目錄">
+        📑 目錄
+      </button>
+      <a href="index.html" class="home-link" title="返回書架">
+        🏠 書架
+      </a>
+    </div>
+
+    <div class="header-right">
+      <!-- Theme Switcher -->
+      <button class="btn-icon" id="theme-btn" title="切換閱讀模式 (明亮/羊皮紙/暗黑)">
+        🎨 <span>外觀</span>
+      </button>
+
+      <!-- Font Style Switcher -->
+      <button class="btn-icon" id="font-family-btn" title="切換黑體/明體">
+        🔤
+      </button>
+
+      <!-- Font Size Adjuster -->
+      <button class="btn-icon" id="font-dec-btn" title="縮小字級">A-</button>
+      <button class="btn-icon" id="font-inc-btn" title="放大字級">A+</button>
+    </div>
+  </header>
+
+  <div class="backdrop" id="backdrop"></div>
+
+  <div class="layout">
+    <!-- Sidebar / TOC -->
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-title">
+        <span>章節目錄</span>
+        <span style="font-size: 12px; font-weight: normal;">共 33 節</span>
+      </div>
+      <input type="text" id="toc-filter" class="toc-search" placeholder="搜尋章節時間...">
+      <ul class="toc-list" id="toc-list">
+        <li class="toc-item"><a href="#sec-000000">⏱️ 00:00:00 - 00:05:07</a></li>
+<li class="toc-item"><a href="#sec-000507">⏱️ 00:05:07 - 00:10:09</a></li>
+<li class="toc-item"><a href="#sec-001009">⏱️ 00:10:09 - 00:15:13</a></li>
+<li class="toc-item"><a href="#sec-001513">⏱️ 00:15:13 - 00:20:15</a></li>
+<li class="toc-item"><a href="#sec-002015">⏱️ 00:20:15 - 00:25:17</a></li>
+<li class="toc-item"><a href="#sec-002517">⏱️ 00:25:17 - 00:30:18</a></li>
+<li class="toc-item"><a href="#sec-003018">⏱️ 00:30:18 - 00:35:21</a></li>
+<li class="toc-item"><a href="#sec-003521">⏱️ 00:35:21 - 00:40:25</a></li>
+<li class="toc-item"><a href="#sec-004025">⏱️ 00:40:25 - 00:45:30</a></li>
+<li class="toc-item"><a href="#sec-004530">⏱️ 00:45:30 - 00:50:31</a></li>
+<li class="toc-item"><a href="#sec-005031">⏱️ 00:50:31 - 00:55:38</a></li>
+<li class="toc-item"><a href="#sec-005538">⏱️ 00:55:38 - 01:00:42</a></li>
+<li class="toc-item"><a href="#sec-010042">⏱️ 01:00:42 - 01:05:42</a></li>
+<li class="toc-item"><a href="#sec-010542">⏱️ 01:05:42 - 01:10:43</a></li>
+<li class="toc-item"><a href="#sec-011043">⏱️ 01:10:43 - 01:15:45</a></li>
+<li class="toc-item"><a href="#sec-011545">⏱️ 01:15:45 - 01:20:47</a></li>
+<li class="toc-item"><a href="#sec-012047">⏱️ 01:20:47 - 01:25:52</a></li>
+<li class="toc-item"><a href="#sec-012552">⏱️ 01:25:52 - 01:30:53</a></li>
+<li class="toc-item"><a href="#sec-013053">⏱️ 01:30:53 - 01:35:53</a></li>
+<li class="toc-item"><a href="#sec-013553">⏱️ 01:35:53 - 01:40:54</a></li>
+<li class="toc-item"><a href="#sec-014054">⏱️ 01:40:54 - 01:45:55</a></li>
+<li class="toc-item"><a href="#sec-014555">⏱️ 01:45:55 - 01:50:58</a></li>
+<li class="toc-item"><a href="#sec-015058">⏱️ 01:50:58 - 01:55:58</a></li>
+<li class="toc-item"><a href="#sec-015558">⏱️ 01:55:58 - 02:01:00</a></li>
+<li class="toc-item"><a href="#sec-020100">⏱️ 02:01:00 - 02:06:00</a></li>
+<li class="toc-item"><a href="#sec-020600">⏱️ 02:06:00 - 02:11:00</a></li>
+<li class="toc-item"><a href="#sec-021100">⏱️ 02:11:00 - 02:16:03</a></li>
+<li class="toc-item"><a href="#sec-021603">⏱️ 02:16:03 - 02:21:04</a></li>
+<li class="toc-item"><a href="#sec-022104">⏱️ 02:21:04 - 02:26:04</a></li>
+<li class="toc-item"><a href="#sec-022604">⏱️ 02:26:04 - 02:31:08</a></li>
+<li class="toc-item"><a href="#sec-023108">⏱️ 02:31:08 - 02:36:10</a></li>
+<li class="toc-item"><a href="#sec-023610">⏱️ 02:36:10 - 02:41:13</a></li>
+<li class="toc-item"><a href="#sec-024113">⏱️ 02:41:13 - 02:43:19</a></li>
+      </ul>
+    </aside>
+
+    <!-- Main Content Reader -->
+    <main class="main-content">
+      <article class="reader-container">
+        <header class="book-hero">
+          <h1>Why Has Nobody Told Me This Before_ - Audio-book part 2</h1>
+          <div class="book-meta-chips">
+            <span class="meta-chip">🏷️ 時長：02:43:19</span>
+<span class="meta-chip">🏷️ 模型：small.en</span>
+<span class="meta-chip">🏷️ 日期：2026-09-22</span>
+          </div>
+        </header>
+
+        <!-- Transcript Content -->
+        <div class="book-body">
+          
+        <section class="transcript-section" id="sec-000000">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:00:00 - 00:05:07</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>Chapter 5. How to get the basics right. Imagine taking the best football team in the world and PU-ing them on. The pitch without any defense players on their side. Suddenly. Opponents that never previously posed any threat would stand a much. Be a chance at winning. While the defense players may not be as. Exciting as the strikers, we all underestimate their power to change the. Game. We all have the tendency to neglect the basics. Your mother tells you. To get to bed early and eat your greens and you can&#x27;t help but roll your. Eyes. Thanks, mum. But when it comes to defense players, you don&#x27;t. Know what you&#x27;ve got till it&#x27;s gone. The basics are the first thing we let. Slide when we are not feeling so good. We withdraw from friends, we. Drink too much co-e-e and then can&#x27;t sleep. We stop exercising. But. What D.I. Arence does it really make? Well, the science suggests that it&#x27;s. A bit like taking each of your defense players owe the pitch and leaving. An open goal. The basics are not glamorous. They don&#x27;t give us that hit of having. Bought something that promises to fix everything. But they are cash in. The health bank. When life starts throwing things at you, those. Defenses are going to keep you standing and help to pull you back up if. You fall. It&#x27;s worth pointing out that you don&#x27;t have to approach them all. Perfectly. There is no perfect diet that everyone agrees on or optimal. Amount and type of social interaction. These are not goals to be. Achieved to perfection. They are foundations. Those defense players. Need as much nurturing as the strikers, because they are crucial for. Staying in the game. But where one slips, another can help out. When. Those defenses get compromised, it&#x27;s not a sign of fault or failure. It&#x27;s. Generally a sign that life is happening. For example, a new parent is. Likely to have no control over the sleep deprivation they face. But they. Can take extra care to eat well and keep up social contact with friends. And family, which will help to keep them well throughout that period. Understanding what those main defenses are means that we can. Keep them on the radar. We can check in with them on a regular basis. And look for small ways in which we might be able to improve them and. Strengthen them. If you are tempted to skip over this because you think you&#x27;ve heard. It all before, then it&#x27;s even more important to read it. We underestimate. The power of these defenses so much that they are OEM the first. Things we let go when we are under stress or not feeling so good. But. Not only is the science crystal clear on these. In recent years, it has also. Shown their potency to be even more far reaching than we once. Thought. Exercise. Whether you&#x27;re low mood is mild and intermeant or you live with a. Major depressive disorder. Exercise has potent antidepressant ex. Shutch at all. 2016. For those who use antidepressant medication. Adding an exercise leads to be a results. Mure et al. 2014. Exercise leads to higher circulating levels of dopamine as well as. More available dopamine receptors in the brain. Alson. 2011. This. Means it increases your capacity for pleasure in everyday life. McGonagall. 2019. So finding exercise you enjoy does not only owe a. You joy while you are exercising, but increases your sensitivity to find. Joy in all the other aspects of your life. Unfortunately for us. The concept of exercise has been branded as a. Painful process that you must go through for the purpose of altering. Your appearance. The conversation is mostly centered around enduring. Pain for some aesthetic gain. No wonder that so many people see. Exercise as not for them. The focus on how moving your body makes you feel has been layout. Of the conversation for too long. Yet. Throughout the pandemic many. People have rediscovered the joys of exercising in green spaces. Being. Forced to spend so much time indoors made the EX of that daily. Walk all the more salient. The psychological impact of exercising. Not on. A treadmill indoors. But outside in nature is starting to be. Demonstrated by the science. In a study of adults undergoing cognitive. Behavioral therapy. CBT. For depression. The group whose therapy. Was provided in a forest searing showed a remission rate that was 61 per. Sent higher than those who underwent the same program in a. Hospital searing. Kim et al. 2009. For those who can&#x27;t stand the</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-000507">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:05:07 - 00:10:09</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>idea of vigorous exercise, the slower. Movements of yoga can still have significant EX on mood as well as. Increase the ability to calm the mind and body more quickly. Josephson. et al. 2013. Deciding to add an exercise to your life does not mean you have to. Take up ultra marathons or weight leaning at an expensive gym. In fact, it. Is much easier to gain momentum if you start as small as you can. You. Might not even leave the house to begin with. You might put on your. Favorite music and dance around until you feel a leela out of breath. If. You can make it small and choose something that has the potential to. Bring you joy. It is much more likely to be sustainable. A one oh. Workout won&#x27;t change everything, but a small increase in physical. Activity that you can keep up has the power to become a catalyst for. Significant life change. Exercise does much more than just give you a leela boost in mood. It. Positively impacts on your mind and body in countless ways. But don&#x27;t. Take my word for it. Find a way to increase your activity in a way that. Feels enjoyable or meaningful to you and see how you start to feel. Sleep. Take anyone on this earth and start depriving them of sleep and that. Person will become vulnerable to both physical and mental illness. But. That relationship between sleep and mental health works both ways. When your mental health dips because of stress, low mood or anxiety. Your sleep is likely to be disturbed at some point too. Whichever came. First, you can almost guarantee that when your sleep takes a dive so will. Your mood and your belief in your ability to bounce back. When you. Haven&#x27;t had enough sleep. Everything feels 10 times harder. Sleep has a. Profound E E C T on every aspect of your well-being. So if you think you&#x27;re. Sleep is not as good as it could be. It is well worth your time and he ought. To try improving it. For those who experience long-term insomnia, working with a. Specialist is highly recommended. But if you want to work on improving. The amount or quality of sleep you are geeing. I have included a list of. Tips below to get you started. Again, we are not aiming for perfection. And you don&#x27;t have to do everything on the list to get good enough. Sleep. There are times when life happens and it pulls you away from a. Healthy sleep par earn. If you work sure s. Travel long haul have young. Children or a habit of staying up late playing computer games. You can learn to check in with yourself and put in place whatever is necessary to steer you back in the right direction. Keep vigorous exercise to earlier in the day and try using the. Evenings for relaxation. A warm bath before bed can help your body reach a temperature. That is optimal for sleep. Try to get as much natural light as possible within the first 30. Minutes are waking. Our circadian rhythm that regulates our. Sleep par earn is governed by exposure to light. Indoor light can. Help, but natural light outdoors is best, even on a cloudy day. Step. Outside for 10 minutes first thing in the morning. Also make time to. Get outside as much as possible throughout the day. In the evening, when the sun goes down, keep lights low. When it. Comes to screens, the research suggests it is less about the color. Of the screenlight and more about the brightness. So turn down. The brightness on screens in the evening as much as possible and. Switch them all together as early as possible. Make time in the day to tackle things you are worried about. Make. Your decisions. Make your plans. Take something. Oh, your to do list. G. In good sleep is also about what you do during the day. We are much be at problem solving during the daylight hours, but. If we push those problems away and ignore them, they tend to. Pop up at night when we are trying to sleep. So clear the desk and. Clear your mind as much as you can. For those nights when laying your head on the pillow is the cue for. Your brain to switch on and start worrying. Try keeping a worry list. Put pen and paper beside the bed. When a worry pops into your. Mind. Write it down. Just a few words or bullet points. Do the same. For any other worries that come up. This becomes your to do list. For the next day. You make a promise to yourself that you will. Dedicate time tomorrow to working through these problems. That. Where you are free to let them go for now and refocus your. And tie on on rest. You can&#x27;t force sleep.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-001009">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:10:09 - 00:15:13</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>Making sleep happen is not something you. Can choose to do. Sleep happens when we create an environment. In which the body and mind can feel safe and calm. So don&#x27;t. Concentrate on sleep. Concentrate on relaxation. Rest and calm. Your brain will do the rest. Avoid CAI&#x27;ing in the later noon and evening. The energy. Drinks that are being promoted to young people OEN contain high. Levels of CAI&#x27;ing that disturb sleep and cause symptoms of. Anxiety. As a general rule it&#x27;s a good idea not to consume too much of. Anything in the lead up to bedtime. This especially includes big. Meals with high levels of refined sugar. Anything that gives you a. Spike in stress levels is not going to help you get to sleep and stay. Asleep. Nutrition. Mental health and physical health are weaves in the same basket. If one. Moves. The other moves. In recent years the science has made strides in. Demonstrating this. How you feed your brain influences how you feel. The research is even showing that improvements in nutrition can. Have large benefits for depressive symptoms. Jacker et al. 2017. And. Making positive changes to how we eat might help prevent depression. As we age. Sanchez Viegas et al. 2013. When we understand that our mood is influenced by several factors. It makes good sense to tackle that from all sides. With just a moment of. Reflection most of us could easily come up with a few ways in which we. Could nourish our body be a. The research being done across the. World suggests there is not one strict diet that protects your mental. Health. The traditional Mediterranean diet shows the largest and. Strongest evidence base for mental health benefits but many others. Show a reduced risk of depression including the traditional Norwegian. Japanese and Anglo-Saxon diets too. Jacker. 2019. The things they all. Tend to have in common are the inclusion of whole, unprocessed food. Healthy fats and whole grains. There is a lot of misinformation around food, so in the resources. Section of this book I have included suggestions for further reading. From credible sources, if you would like to read further. But the. Overarching idea is that making good nutrition a priority and educating. Yourself about what that looks like if you need to is a great idea for. Tackling low mood and improving your mental health. But as I mentioned before, making huge life transformations. Overnight is less helpful if you cannot sustain them. Instead, it is helpful. To ask ourselves on a regular basis what is one small change I could. Put in place today that would improve my nutritional intake. Then. Repeat this every day. Routine. Another key defense player for mental health and resilience seems to. Be routine. This may have been the most underestimated influence on. Our wellbeing until the pandemic turned routine upside down and inside. Out for so many people. Repetition and predictability help us feel safe. But we also have a. Need for variety and a sense of adventure. So we like to have routine. And we like to break those routines occasionally. Preferably with. Something pleasurable, meaningful or exciting. When we are not feeling so great, routine can suur. You might stay. Up late watching television because you are blocking out stressful. Thoughts about work the next day. Then it&#x27;s harder to get up in the. Morning, so you stop your morning workout. Or maybe you are out of work for a period of time and you start. Taking a nap in the afternoon, but then struggle to sleep at night. Being. Oh work changes how much social interaction you get. You don&#x27;t leave. The house for days and struggle with finding a reason to shower. Or. Even get up in the morning. Then your appetite goes but you have no. Energy. So you mostly spend the day drinking co-e-e. And so the. Cascading e-e-c-t of a routine change unfolds. Each of these seemingly small changes my eyes because they add up. To uncreate your experience as a whole. If you have a tall glass of. Water and you pour a small drop of cordial into it. You might barely be. Able to notice a di your rents. If you add another couple of small drops. The general color of the water begins to change. Enough of those. Small drops over time will dramatically change the overall color and taste of the water. So each small drop counts, even though they may not be enough by themselves to change how you feel entirely.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-001513">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:15:13 - 00:20:15</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>That said, there is no perfect routine. Establishing a balance of predictability and adventure that works for you within your unique circumstances is key. Noticing when that goes oat-track and pulling it. Back is a big step in the right direction. Human connection. While looking at er your own body and mind is essential, nurturing. Good quality relationships is one of the most powerful tools we have in. Maintaining good mental health throughout the lifespan, Waldinger and... Shultz, 2010. When our relationships are not going well, it can have a catastrophic... Impact on our mood and emotional state. It can also work the other. Way. Deterioration in our mood can be damaging to our relationships. It. Can leave us feeling disconnected from the people around us and... Trigger a deep sense of loneliness. When you&#x27;re feeling low, the thought of facing anyone can be... Exhausting and overwhelming. This is the trap of depression. It tells us... To withdraw, hide away, don&#x27;t see anyone until we feel be-er. So we... Wait to feel be-er. But in doing so we hold ourselves back. Taking some. Time to be alone can be re-energizing and recharging, but it can also... Very easily become a downward spiral of rumination and self-loathing. That feeds depression and keeps it going. Being with others, even when we don&#x27;t feel like it... To observe them. Interact with them and build connections with them... Can help to lee our... Mood and pull us out of our own head and back into the real world. We. Know from the research that good quality social support is associated. With be-er outcomes when it comes to mood, knock a horror at all, 2009. Many of those people who never tell a soul when they&#x27;re struggling... Firmly believe that presenting themselves as anything less than there. Best would make them a burden to the people around them. But the... Science suggests otherwise. Social support has positive EX for both. The one receiving it and the one providing it, in a gokey at all, 2012. So... When we are struggling and we want to pull ourselves up from low... Mood, one of the most powerful things we can do is swim against that. Strong tide that is pushing us towards isolation and loneliness. We must. Not wait until we feel like it, because feeling like it doesn&#x27;t come first. The action must come first. The feeling follows on a hour. The more time. You spend making real connections with other people, the more you. We&#x27;ll start to improve your mental health. Spending time with other people doesn&#x27;t mean we have to talk about... How we feel. In fact, we don&#x27;t have to talk at all. Just be around people. Watch them, smile at them. Share whatever conversation you can. Manage. Low mood and depression can make us feel uncomfortable. And anxious around people. We get concerned with how we might be. Coming across. We tend to spend so much of our time criticizing... Ourselves that we start to assume that others are judging us too. Can. You remember which thought bias this was. Despite all the thoughts and feelings that hold us back from each... Other, human connection is our inbuilt mechanism for resilience. When. We struggle, connection helps. Good quality, safe connection. If that... Can&#x27;t be found in family or friends, then professionals can provide that. Until you are able to find and create new, meaningful relationships in... Your own life. Chapter summary. Our mental health defense players provide the foundations of... Good health. When we nurture them daily they pay us back. With interest. If you do one thing today, make it exercise. Choose something. You enjoy and you increase your chances of keeping it going. The relationship between sleep and mental health works both. Ways. Prioritizing sleep will help your mental health. And. Making changes to your day will at ECT your sleep. How you feed your brain influences how you feel. Traditional. Mediterranean. Japanese and Norwegian diets show benefits. For mental health. Human connection is a powerful tool for stress resilience. Your relationships change your biology and psychology. Chapter 6. Understanding motivation. As we build up the psychological toolkit with skills that help us manage. Through life, it&#x27;s easy to imagine that motivation is one of those tools. But motivation is not a skill. Neither is it a fixed personality trait that... We are either born with or without.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-002015">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:20:15 - 00:25:17</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>So many of us know exactly what we need to do, we just really don&#x27;t. Feel like doing it right now. And when later comes, we don&#x27;t feel like it. Then either. Sometimes we can get all fired up about a goal and things. Start moving in the right direction. But a few days later that feeling... Fizzles out again and we&#x27;re back to square one. Motivation that goes up and down is not a fault in the system. It&#x27;s. Part of being human. It is a sensation that comes and goes just like our... Emotions, so we can&#x27;t always rely on it to be there. But what does that. Mean for our dreams and goals. Your brain is constantly paying an end tie on to what is happening in your body. It knows what is happening to your heart rate, your breathing, your muscles, and it reacts to the information it receives, making. Judgments about how much energy it should expend on the task in. Front of you. This means we have more influence over those feelings. Then we think. When we start to change what we are doing with the... Body, it has an influence on the activity in the brain, which in turn... Influences the feelings that are produced in the body. This is something. We can use to our advantage. When we&#x27;re dealing with that can&#x27;t be bothered feeling there are. Two main prongs of our act. Learning how to cultivate that feeling of motivation and energy to... Increase the chances of it appearing more OEM. Learning how to act in line with your best interests even when. Motivation is absent. Developing the capacity to do what you need. To do, even when a part of you doesn&#x27;t feel like it. Procrastination or anhedonia. I want to make a distinction here between procrastination and... Anhedonia. Procrastination is something everyone does. It&#x27;s when we... Put something oh because the job we need to do triggers a stress. Reaction, or some other feeling that is aversive. I have made hundreds. Of educational videos for social media, but give me a video to make. That feels uncomfortable or DI cult to get right and I will skirt around. The job all day, convincing myself that all those other things I am. Geeing done is me being productive. In fact, it&#x27;s usually me. Procrastinating because the idea of making that particular video feels. DI cult or uncomfortable that day. Anhedonia is something DI errant. This is when we stop taking. Pleasure in the things that we use to enjoy. Anhedonia is associated. With a number of mental health problems, including depression. When? We feel that way, we start to question whether anything is worth the. Eaught. Things that once brought joy start to feel meaningless. So we... Stop doing the things that have the potential to lead our mood because. We have no desire for them anymore. When you start to avoid something that is important or potentially. Meaningful to you, the natural response is to wait until you feel like it. Once again. You wait until you feel energized or motivated already. The problem with this is that the feeling does not arrive spontaneously. We need to create it through action. Doing nothing feeds the lethargy. And that can&#x27;t be bothered feeling and makes it worse. Motivation is a. Wonderful byproduct of action. It&#x27;s that great feeling you get when. You are on your way out of the gym, not on your way in. It&#x27;s that. Feeling of energy and momentum you get once you have started. Something and your brain and body start to rise to the challenge for. You. Sometimes the feeling is fleeting. At other times it lasts for much. Longer. Much of that will depend on all the other factors that are either. Working to foster it or squash it. So when we start doing something, even when your flat mood says, I. Don&#x27;t feel like it. We can trigger a biological and emotional share. This. Doesn&#x27;t mean that PUing some music on or doing a single workout is. Going to solve all your problems or change your life. But it sets in. Motion a series of events that should s your direction. If you start doing. That thing that you wish you felt like doing, you have more chance of. Stimulating your brain in a way that brings about enjoyment or a sense. Of motivation. For someone who is struggling with depression and Sue airing from. And hedonia as a part of that, the pleasure in activities and the. Motivation to engage in them takes time to return and can be very up. And down for a long while. There is a period in which we have to grind. Doing things that matter to us, even when we don&#x27;t feel like it in order. To reengage with the pleasure we used to feel.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-002517">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:25:17 - 00:30:18</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>Chapter summary. Motivation is not something you are born with. The feeling that you are energized and want to do something. Cannot be relied upon to always be there. Mastering motivation is building the capacity to do what. Maers most to you, even when a part of you does not feel. Like it. Procrastination is OEN avoidance of stress or discomfort. And hedonia is when we no longer get a sense of pleasure from. The activities that we use to enjoy. This is OEN associated. With low mood and depression. If something Maers to you and could benefit your health. Don&#x27;t wait until you feel like it. Do it anyway. Chapter 7. How to nurture that. Motivation feeling. Motivation is more than just a reason for doing something. When we. Use that word in conversation, we OEN mean a feeling of enthusiasm. Or drive that fluctuates just like any other. Some things nurture that. Feeling, others FLA EN it. What things do you do that are OEN followed? By a feeling of motivation and energy. Science tells us about the things that work for most people. But the. Detail you can establish from looking at your own life with curiosity. Adds significant value. You cannot change something you are not aware. Of. So spending time observing and documenting the thing you are. Trying to tackle is hugely important and gives you the best chance of. Generating that feeling of motivation more of the time. Here are some things that invite that feeling to be present. Move your body. Motivation does not come from a specific location in your brain. It is. Not a fixed part of your personality. It&#x27;s also not an essential tool that. We use to make us move. It is most OEN a consequence of that. Movement. But what if you have no motivation to exercise? Perhaps the key to. Making exercise a sustainable part of everyday life is to find a form of. Movement that you can begin even when your motivation is low. Research shows that doing even small amounts of exercise is be a. The nothing and anything more than your usual amount of movement. Will help boost your willpower. Barton and pre-y. 2010. Find something. That feels easy. Something that brings you joy. Something that feels like. Precious time out rather than another boring job that has to get done. Add in friends, good music, and anything that helps you to look forward. To it each day, rather than dread it. Adding in some form of exercise, however moderate, will pay you. Back in feelings of motivation. You may have to use the strategy of. Acting opposite to the urges, because you won&#x27;t feel like working out. But the impact this simple action will have on that can&#x27;t be bothered. Feeling for the rest of the day is unmatched. Make this one thing. Happen and you are setting yourself up to win. Staying connected with the goal. In therapy we OEN set goals with people and help them to work out. How they are going to achieve them. But the real work happens when. Things slip o&#x27; track. This is the point at which those without support. Might be vulnerable to giving up. But we need to get to work using the. Set back to strengthen the future. If we can be or understand what. Cause the failure and that geeing back on track is just part of the. Process, then we are in a good position to predict when it could happen. Again and steer around those challenges in the future. I think one of the reasons that some of my clients say they feel so. Much more motivated or earn appointment is because they have spent. Time reconnecting with their goals. If that thing we are working on is. Not fresh in our minds we can quickly lose momentum. Whether you are working on improving mood or any other aspect of. Your well being it is paramount that you stay connected with your goals. Because they will demand constant nurturing. Return to them on a daily. Basis. You can do this through journaling. It doesn&#x27;t have to be a hugely. Time consuming task. It can be one minute at the beginning of your. Day listing the one or two things you will be doing that day towards. Your goal. Then at the end of the day writing a few lines to reflect on. Your experience. This kind of task is easy to maintain because it doesn&#x27;t. Require. too much time, maybe a couple of minutes at most. But it. Ensures that you are accountable to yourself every day and keeps you. Focused on your goals. Keep it small. Any big task will invite that can&#x27;t-be-bothered feeling, so keep it small. And keep it focused.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-003018">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:30:18 - 00:35:21</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>People transform their lives with therapy but that. Doesn&#x27;t happen overnight. They don&#x27;t return to their second. And problem free and with an entirely new mindset. Individuals take home just one task at a time and focus on that. We can. Only focus on one thing at a time and we only have limited ability to do. Things that we don&#x27;t feel like doing. But of course most of us don&#x27;t stick to this. We can see that life. Needs an overhaul and we try to do one big transformation all at once. We expect too much of ourselves and then fall into despair when we. Run out or give up. When that happens, we are less likely to try again. When motivation for a long-term goal dips, it helps to have small. Rewards along the way. Not so much external rewards, but internal. Ones. That emotional pat on the back you provide for yourself when. You congratulate yourself for your e-orts and acknowledge that it has. Been worth it because you are heading in the right direction. Doing this. Helps you to lean back into e-ort, knowing that you are on the way. Towards the changes you want to see. When we acknowledge the progress and small victories along the. Way we start to recognize that our e-orts can influence our world. Feeling that we have agency in this way helps us to feel energized to. Keep trying. This is a great reason to start small and develop new. Habits, ensuring that each one gets embedded. Perhaps you sustain the. Habit of prioritizing your healthy behaviors, they will sustain you. Resisting temptation. Sometimes we are trying to build motivation to help us take action. But. Change can also demand the willpower to resist temptation and the. Urges to do things that take us in the opposite direction to our goals. I must have been around the age of three or four when I visited my. This house and walked into the garden to find my grandfather. Using a garden strimmer. Something wasn&#x27;t working right, so he flipped. The tool upside down and started pulling bits of grass out from between. The blades. He turned to me and said, whatever you do, do not press. That red BU on. I sat on the grass next to the red BU on on the side of the strimmer. And fixed my gaze on it. Don&#x27;t press it. Don&#x27;t press it. I wondered if it. Was one of those BU ons that gave a satisfying click when you pressed. It. Don&#x27;t press it. It looked really smooth along the top. Don&#x27;t press it. Like a magnet, my hand reached out and pressed that red BU on. There. Strimmer instantly responded with a loud noise as the blade swung. Into action. As luck would have it, no fingers were lost that day, but I. Did learn a new curse word. Focusing on the thing I was not supposed to do turned out not to be. A helpful strategy. So what does help when positive change demands? That we resist temptation. One of the biggest factors is managing. Stress. The physiology of self-control is optimal when stress is low and. Heart rate variability is high. Heart rate variability is a measure of the. Variation in time between each heartbeat. So it tells us how much your heart rate changes throughout the day. You might notice that when you get out of bed in the morning, your heart speeds up. Or when you run for the bus, then it gradually comes back down again. This means your body gears you up for action when needed and calms the body back down to rest and recover. But when we are under lots of stress, heart rate may remain high throughout the day, reduced variability. When it comes to resisting temptation and maximizing our willpower. We need that capacity to calm the body and mind. Anything that. Increases stress is going to have a negative impact on our ability to. Make wise choices for our future. Stress increases the likelihood that. We will instead act based on how we feel right now and sabotage our. Goals. So if you are sleep deprived, depressed, anxious or not eating. Well, your heart rate variability goes down along with your chances of sticking to your goals, whether you are trying to give up smoking or unhealthy foods or just trying to regulate your emotions in healthier ways when it comes to relieving stress and increasing your capacity for willpower. Exercise is a top choice. It has both an immediate ECT and a long-term impact. Oton and Cheng, 2006, Rensberg et al., 2009. So whatever change you are working on, increasing your level of activity, even in a small way,</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-003521">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:35:21 - 00:40:25</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>is a great way of strengthening your willpower to keep it up. McGonagall, 2012. Another big player in managing stress and the ability to make wise decisions is sleep. You only need one bad night&#x27;s sleep to struggle with. Post stress, trouble concentrating and low mood the next day. Self control takes energy and if you haven&#x27;t had enough sleep, your brain has less access to that energy and becomes more vulnerable to. High stress reactions, squashing your capacity to control your actions. Change your relationship with failure. Something that can zap motivation is the prospect of failure. But that depends on the relationship we have with failure. If slipping up and. Going oat track means we engage in vicious self-a, ac and relentless. Self-criticism, we are likely to feel ashamed and defeated. If we. Associate failure with unworthiness, then starting anything new is going. To feel overwhelming and procrastination will be front and center. We. Protect ourselves from the psychological threat of shame by. Sabotaging the process before it gets started. Shame is not as helpful for motivation as you might think. When we. Get caught in self-criticism and shame, we feel inadequate, defective. And inferior. When we feel that way we want to hide, get smaller. Disappear. It produces urges to escape and avoid, rather than to dust. Ourselves oh and try again. In fact, it is so painful that it induces strong. Loses to block that feeling, which is risky for anyone living with. Addiction. So if we want to persist at something and feel motivated to. Keep trying, we have to think carefully about how we respond to failure. Along the way. If there is ever resistance in therapy, it is when you explore the idea. Of being self-compassionate. I hear things like, I will lose my drive. Become lazy. I would never achieve anything. I can&#x27;t just let myself oh. The hook like that. Most people are shocked and surprised to find out. That self-criticism is more likely to lead to an increase in depression. Rather than motivation, Gilbert et al., 2010. Self-compassion, on the. Other hand, treating yourself with kindness, respect, honesty and. Encouragement or error failure, is associated with increased motivation. Can be error outcomes, Wal et al., 2010. Try this. If we are not aware of our self-criticism and the impact. It is having on our fear of failure and motivation, then it is much. Harder to change it. Use these prompts to reflect on the way. You talk to yourself a error or setback. When you experience failure, what does your self-criticism sound like? What emotions are a ached to it? Do you suppose that the failure reveals something about your inadequacy or incompetence as a person? Do you notice any shame or hopelessness associated with that? What coping strategies tend to follow that self-criticism? How does that impact on your original goals? Think of a time when you failed at something and someone responded to you with kindness and encouragement. How did that feel? How did that help you to try again and succeed? Toolkit. How to respond to failure with compassion and. Accountability so you can get back on track. Bring to mind a recent memory of a failure or setback. Then work. Through the following exercise. 1. Notice what emotions are brought up by that memory and where. You feel them in your body. 2. How did the self-criticism sound? What words and phrases came? Hope and how did they influence how you felt? 3. How did you then respond to the feelings? 4. Bring to mind someone that you love or respect. If they. Experienced the same failure, how might you have responded to? Them di erantly? Why would you have shown them that respect? 5. How would you want them to perceive the setback in order to get? Them back on track. Chapter summary. While we can&#x27;t control the feeling of motivation, these are. Things we can do to increase the chances of feeling it more. OEN. Physical movement cultivates feelings of motivation. Small. Amounts are bigger than nothing and can help build. Momentum. Staying connected with your goal helps to keep triggering. Moments of increased motivation. Small and consistent beats 1-0 grand gestures. Bring to rest and replenish between stressful situations. Helps to maximize will power. Shame is not as helpful for motivation as you might think.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-004025">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:40:25 - 00:45:30</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>Changing your relationship with failure will help your. Motivation. Chapter 8. How do you make yourself do? Something when you don&#x27;t feel. Like it. No more are how much we reduce our stress and cultivate motivation, it. Can be fleeting. It comes and goes. So we cannot rely on it to always be. There. And there will always be things that we will never feel like doing. Tax returns. Insurance renewals. Taking the bins out. How do we make? Those happen, even when a part of us would prefer not to. Feelings are OEN accompanied by urges. Those urges are. Suggestions. Nudges. Persuasions telling us to try this or that to relieve. The discomfort that we feel or to seek the reward that we anticipate. While those urges can be powerful, we don&#x27;t have to do what they say. Opposite action. When we were children, my sisters, and I would share a packet of polo. Mince and compete for who could go the longest without crunching the. Mint, a challenge that is much more DI cult than it sounds. The urge. To crunch the mints felt almost undeniable at the time. It demanded. Since concentration and focus. As soon as you got distracted and let. Your guard down, your brain would take over on autopilot for you and. The mint was history. If you try that game, what you notice is that your awareness focuses. On your experience. You get to observe the sensation of an urge. And. You get to create a gap between urge and action. Simply by paying. For Ention, you get to choose whether you go with the urge or against it. When the task is as simple as holding back from crunching a mint, all. You need is a bit of competitive sibling rivalry to keep you on task. When we are trying to tackle much stronger urges toward ingrained. Par earns of behavior that come along with intense emotional states. The challenge is much harder. The skill of acting opposite to an urge, to instead choose a behavior. That is more in line with where you want to go, is a key skill that people. Learn in therapy, Linnehan, 1993. The opposite action skill is the. Deliberate attempt to take an action that is the opposite of what the. Emotion is telling you to do. This is especially helpful when you&#x27;re coping. Strategies tend to cause you harm. Mindfulness is a key component of this skill. Paying a Ention to our. Experience, and the thoughts, emotions, and urges that come with it. Allows us to pause for just long enough to make an informed. Sometimes pre-planned decision about what to do next. This means we. Can act based on our values rather than our emotions. The pain barrier. The best strategy for motivation is to take motivation out of the. Equation. Things we do every day, whether we feel like it or. Not. For example, in the morning, you don&#x27;t ask yourself whether you. Have the motivation to clean your teeth, it&#x27;s just something you do. It is. A habit so well practiced that you don&#x27;t need to think about it any. More. You just do it. The reason for that is because it has been a non-negotiable part of your daily routine for most of your life. Imagine your brain is like a jungle. For every action that you take, the. Brain has to make connections or pathways between DI errant areas. When you repeat an action on a regular basis over a long period of. Time, like cleaning your teeth, those pathways become well trodden. And established. Those smooth, wide paths become easier to access so. That your brain can do much of that action without you having to. Consciously think too much about it. But when you start something new you have to carve out a fresh. Path, sometimes from scratch. That takes huge amounts of conscious. E-ought. And if you don&#x27;t use that path OEN enough, it will always be. E-oughtful. Any time that you are under stress your brain will. Automatically choose the easiest route, which is the path well trodden. But if you can repeat that new behavior as OEN as you can, for. If times, then a new habit is established and becomes easier to. Use when you most need it. Here are a few tips on how to establish a new habit. Habit. Make the new behavior as easy as possible to do, especially in moments when you might not feel like taking action. Set up your environment in a way that supports your new change. Of behavior. In the early stages of the change, you cannot rely on. Habit. Make clear plans and set reminders if necessary. Add in a mix of short-term and longer-term rewards. Internal. Rewards work bigger than external ones. So we don&#x27;t need</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-004530">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:45:30 - 00:50:31</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>trophies. As much as we need that internal celebration and... Acknowledgment that we are on the right track. Get clarity on why you are making this change and why it mar hers. So much to you. You can use the values exercises in this book too. Help with that. See page 286. Establish this change as a part of... Your identity. This is how you do things now. How to persist for the long haul. Over the years, psychology research has challenged the idea that... Success is all down to innate talents and has shown that grit. Duckworth et al. 2007 and, in particular, perseverance play a vital role in our ability to succeed. Creed et al. 2017. But how do we? Achieve the kind of stamina that we need to be able to persevere even. In the face of setbacks. Something that many people learn the hard way is that it doesn&#x27;t. Mean just continuing to drive forward until you burn out. When we are. Working on long-term goals and making changes that we want to. Maintain, we have to learn to counterbalance the stress of aort with. The replenishment of rest. We don&#x27;t need to always be working or. Always feel energized and refreshed. We need to be able to listen to. The body and step back from aort so that we are ready to drive. Forward once again. Just as elite athletes may nap in between training sessions and. Professional singers rest their voices by going for days without. Speaking, we need to recognize that regular rest and replenishment is. Crucial if we want to persevere at anything for the long haul. But not all breaks are equal. Most days are broken up by those quiet. Sometimes boring moments in between periods of intense work and. Eort. But if we use those in between moments to clear emails, scroll. Through social media or get a few things done, the body and brain will not be returning to a rest state to recharge. So the next time you reach for your phone to fill the 15 minutes between meetings, why not step outside for some fresh air or find a space to close your eyes for a moment instead. We also need to make use of small rewards as we work on big goals. When we break down big challenges into smaller tasks and reward ourselves for reaching those milestones, we get the benefits of small dopamine hits along the way dopamine not only gives us a little buzz that feels rewarding. It also drives us to look ahead to the next milestone and motivates us to keeping driving forward. It enables us to imagine how we might feel once we accomplish the challenge faced and triggers desire and enthusiasm Lieberman and long 2019. So building in those small rewards along the way helps to refuel your desire for the end goal and your capacity to persevere. Let&#x27;s say you are trying to run further than you ever have. When you start to feel tired, you tell yourself you are just going to get to the end of this road. When you do, you mentally give yourself a pat on the back for achieving it. You see it as a sign that you are on the right track. This internal reward to yourself gives you a dopamine release. This suppresses the noradrenaline that causes you to give up. As a result, you get an extra boost to keep going for a bit longer. This is not the same as positive self talk. You focus on a small, specific goal and the accomplishment of it means you are heading in the direction of your ultimate goal. Hubberman 2021. So when the task ahead feels like a mountain to climb, you don&#x27;t look up at the peak. You narrow your focus and set yourself the challenge to make it to that next Ridge. When you get there, you allow yourself to absorb that feeling of being on your way. Then you go again, gratitude. A gratitude practice can be a powerful tool for longer term goals that demand persistent aort. Turning your anti on towards gratitude self generates those internal rewards that replenish and restore your capacity to keep returning to the E or that is required of you. A simple sure of language can help us turn towards gratitude. For example, try switching I have to with I get to as previously mentioned, we can also practice gratitude in a more formal way by sighing down with pen and paper and writing down the things that we feel grateful for each day. When we do that, we are turning our anti on on purpose in a way that should s our emotional state. But it is</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-005031">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:50:31 - 00:55:38</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>not only that immediate impact on our emotions that we gain. When we practice gratitude on a regular basis, we are repeating an action. As described previously, the more we repeat an action, the easier it becomes for the brain to do it with less aort in the future. Almost like a mental muscle. PU in the representatives in each day makes it much easier to think in a helpful way when we might need to in the future pre planning. In therapy, we own create crisis plans with people. Sometimes those are about staying safe in life or death situations. At other times they are to prevent relapse of addiction or GE in O track with a goal at a time when they might be vulnerable to giving up. You can make use of this to improve your chances of sticking to any plan. Look ahead at the change you want to make write down all the potential hurdles that could cause you to get O track for each hurdle, make a plan of action about how you will prevent those hurdles from causing you to get O track or give up on your goals. Engineer the situation in advance to make acting in line with your values and goals as easy as possible and sabotaging those goals based on emotional urges as DI cult as possible. For example, if you want to get up on time every day, put the alarm clock just outside your room so that you have no choice but to get up. If you can anticipate the situations that may be DI cult and have a plan in place to deal with them, you won&#x27;t have to think on your feet and wrestle with temptation or motivation at a time when you may feel vulnerable. This is just who I am now returning to your identity as motivation rises and falls along the journey of change returning to your sense of self and the identity you want to create can help you to persist when motivation has disappeared. If you see yourself as someone who looks at their dental hygiene, you pick up the toothbrush every day whether you feel like it or not, because it is just what you do. Our sense of identity does not have to be entirely fixed by what is laid out for us early in life. We continue to create and build on that identity throughout life with everything we do. When our goals are underlined by our intention to become the person we want to be, or even be a when we have decided that this is who we are now, then we can act in line with that even on the days when motivation is low. For more on how to steer your sense of identity, see chapter 33 on how to work out what matters toolkit future self memory and journaling improves your chance of making bigger choices spend time imagining your future when we create a vivid image of ourselves in the future the easier it becomes to make choices in the here and now that will benefit your future peters and bushel 2010 think about yourself at a point in the future and how you might feel about the choices you have made what you said yes to and what you said no to how will those choices have acted your life which of your choices and actions do you think you will be most proud of when you reach that time in the future what will you be focusing on how will you feel about your past self when you look back pros and cons from dialectical behavior therapy dbt dbt is a psychological therapy that helps people to find safe ways to manage intense emotions but the skills taught in dbt can be useful in many aspects of life including those days when we are trying to stay on track with our goals but we don&#x27;t feel motivated here is one of those skills while it is helpful to consider the future that we do want it is also helpful to look at the future we don&#x27;t want in therapy some people spend time exploring in detail the pros and cons of both staying the same and working hard on change you can use the table below to try for yourself it pays to spend time being honest with yourself about the true extent of the cost of things remaining as they are while change inevitably has disadvantages we may have to tolerate distress and endure discomfort in our eorts they may be outweighed by the price we pay for staying as we are this can be a valuable exercise to come back to when we start to feel like giving up on a positive life change or we get o track change keeping things the same try this building on your identity with intention takes some thought and conscious eort try sighing down with pen and paper to write out some answers</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-005538">
+          <div class="section-header">
+            <span class="section-time">⏱️ 00:55:38 - 01:00:42</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>to these questions be a still use a journal and keep coming back to your responses whenever you are working on a life change what is the larger overall change that i am trying to make why is this change so important to me what kind of person do i want to be as i face this challenge how could i approach this challenge in a way that would make me feel proud when i look back on this period of my life regardless of the outcome what are those smaller goals that i need to achieve along the way how would i like to face those days when motivation is low am i listening to my body and what it needs chapter summary we cannot rely on motivation to be there all the time we can practice acting in opposition to urges so that we can act in line with our values rather than how we feel right now repeat a new behavior enough times and it will become habit for any big goal rest and replenishment along the way is vital just ask any elite athlete make use of small rewards along the way chapter 9 big life changes where do i start sometimes you reach a moment in your life when you realize a change is needed and you know exactly what that change is but it doesn&#x27;t always happen like that more oen than not we go through a period of strain and discomfort we start to recognize that things are not as we would like them to be but we can&#x27;t pinpoint exactly why or how we can begin to make it be a this is where your incredible human brain comes into its own in chapter 3 we talked about metacognition our ability to not only consciously experience the world but to also then think about and reassess the experience we had this is a key life skill that we make use of in therapy it is the epicenter of any big life change you cannot change what you cannot make sense of albert einstein reportedly once said if i had an hour to solve a problem i&#x27;d spend five why five minutes thinking about the problem and five minutes thinking about solutions this quote oen comes to mind when i hear the common misconception that therapy consists of sighing in a room and dwelling on your problems it does involve thinking about your problems but there is method in that the most reactive way to resolve a problem is to understand the problem inside out so how do we use metacognition when we are facing big changes building awareness begins with looking back for anyone in therapy or counseling you can talk about things that have happened and get useful prompts from the therapist to help you make sense of it for those who are using a self-help approach journaling is a great place to start there is no pressure to write huge amounts or to write in a way that makes sense to anyone else the aim is to build on your ability to reflect on your experiences and how you responded to them for example let&#x27;s say you failed an exam and in the moments are finding out you called yourself a stream of unprintable names and told yourself that you will never amount to anything metacognition involves reflecting on those thoughts and how they further impacted on your experience the power of using metacognition is that it opens up our ability to be accountable to ourselves and to examine the part we play in staying the same or making change it reveals the big influence that seemingly small behaviors can have both positive and negative journaling in this way can feel strange if we are used to glossing over things without paying too much or anti on to the details but over time those details can help us to build our awareness of our experience in hindsight as we start to spot the cycles and par earns of behavior in the moment as they happen this is when we create the possibility of choosing something di errant and making the positive changes that we want for our ourselves. Try this. Use these journal prompts to help you explore the problems you are tackling and practice the skill of thinking about. Your thoughts. Describe any significant events that happened. What thoughts did you have at the time? How did that way of thinking impact on how you felt? Describe any emotions you noticed. What triggered those emotions? What urges did you have? How did you respond to the feeling? What were the consequences of your response? Chapter Summary. It&#x27;s not always clear what we need to change and how to do. It. You cannot change what you cannot make sense of. Get to know your problem inside out to make it</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-010042">
+          <div class="section-header">
+            <span class="section-time">⏱️ 01:00:42 - 01:05:42</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>easier to. Identify which way to go next. Start by reflecting on situations uh-uh they have happened. Be ready to get honest with yourself about ways you may. Contribute to the problem or keep yourself stuck. Therapy supports you through this process. But if you don&#x27;t. Have access to therapy. Journaling can be a good place to. Start. Chapter 10. Make it all go away. If you ever go to therapy, very early on the therapist will ask you what. You want from the process. Most people will include emotions in there. Answer. They have some painful or unpleasant emotions that they want. To get rid of. And are missing out on some of the more enjoyable or. Calm ones that they would like to feel again. And why wouldn&#x27;t they? We all just want to be happy. They feel at the mercy of those painful. Emotions and want them gone. Far from making emotions go away in therapy, you learn to change. Your relationship with them. To welcome them all. To pay a end tie on to. Them. To see them for what they are. And to act in ways that will. Influence them and change the intensity of them. Emotions are neither your enemy nor your friend. They do not occur. Because your brain has a few cogs misaligned or because you are a. Sensitive soul, as you were told in the past. Emotions are your brains. Are amped to explain and are act meaning to what is going on in your. World and your body. Your brain receives information from your. Physical senses about the outside world and from your bodily functions. Like your heart rate, lungs, hormones and immune function. It then uses. Memory of these sensations that occurred in the past to make some. Sense of them now. This is why the heart palpitations brought on by. Too many cups of co ee can culminate in a panic or ac. The pounding. Heart, faster breathing and sweaty palms all feel a bit familiar to that. Time you had a panic or ac in the supermarket. The physical sensations. Feel just like fear and your brain gets the message that all is not well. Which ramps up your threat response. Wouldn&#x27;t it be great if we could wake up in the morning and just. Decide what to feel that day. Enter love, excitement and joy, please. Unfortunately, it is not so simple. The opposite of this idea is that. Emotions just pop up with no trigger and we have no control over. What happens or when it happens? All we can do is try to resist them. Block them out and be rational. But this is also not the case. While we cannot directly trigger all emotions, we have much more influence over. Our emotional state than we were ever taught to believe. This does not. Mean that you are to blame for feeling emotional discomfort. It means that we get to learn about the many ways we can take responsibility for our own well-being and construct new emotional experiences. What not to do with emotions. Push them away. Imagine you are at the beach. You walk into the sea up to your chest. The waves need to pass over you to get to the shore. If you try to hold the waves back and prevent them reaching the shore, you learn how. Powerful those waves are. They push you back and you quickly get. Engulfed and overwhelmed. But you don&#x27;t have to tumble and struggle. Against the waves. Those waves are coming no more or what. When you. Accept that, you can focus on keeping your head above the water as it. Passes. You still feel the E X. Might even get Lied oh your feet for a. Moment. But you move with the water and brace yourself ready to land. Back on your feet. Dealing with emotion is much the same as standing in the waves. When we try to stop feelings in their tracks, we easily get knocked. Oh, our feet and find ourselves in trouble, struggling to catch a breath and. Work out which way is up. When we allow the emotion to wash over us. It rises, peaks and descends, taking its natural course. Believe they are facts. Emotions are real and valid, but they are not facts. They are a guess. A. Perspective that we try on for size. An emotion is the brains are emped. To make sense of the world so that you can meet your needs and. Survive. Given that what you feel is not a factual statement, neither are. Thoughts. That is partly why therapies like CBT, cognitive behavioral therapy can be so helpful to many people. It gives us practice at being able to step back from thoughts and feelings and see them for what they are. Just one possible perspective.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-010542">
+          <div class="section-header">
+            <span class="section-time">⏱️ 01:05:42 - 01:10:43</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>If we know that thoughts and feelings are not facts, but they are causing us distress, it makes sense to check it out and see whether it is a true reflection of reality or whether an alternative would be more. Helpful. When we treat our current thoughts and emotions as facts, we. Allow them to determine our thoughts and actions of the future. Then. Life becomes a series of emotional reactions rather than informed. Choices. So how do we stop buying into thoughts as if they are facts? We ask. Questions. Something that therapy gives us practice at is being curious. About experiences in both our inner world and the world around us. Individuals sit down opposite me and start talking about the things they. Got wrong that week, and feelings they shouldn&#x27;t have had, stepping. Into the old habit of self-criticism and self-loathing. Then we share our. Perspective to a bird&#x27;s eye view. We look at how those behaviors fit. Our formulation. We show into curiosity, where there is no need for self or act. So, whether it has been a great week or a hard one, we learn. And grow. Holding curiosity allows us to look at our mistakes and learn, when. They might otherwise be too painful to acknowledge. Holding curiosity. Brings with it a sense of hope and energy for the future. Whatever. Happens, we&#x27;re always learning. Toolkit. Examine your coping strategies. What are the first signs for you that emotional discomfort is? Present. Is it a behavior? Do you recognize your blocking or protective behaviors? Where do you feel the emotion in your body? What thoughts are there? What beliefs are you buying into? About this situation. What EECT is that having on you? Try writing down those thoughts and narratives. What can they tell you about what you are afraid of? What behaviors tend to follow a strong emotion? Do those behaviors help you in the short term? What is their longer term impact? Ask a trusted friend to go over the story with you and help. You identify any biases or misunderstandings. Explore with. Them the DI errant perspectives you might have. Chapter Summary. Emotions are neither your enemy, not your friend. We have more influence over our emotional state than we. Were ever taught to believe. Pushing emotion away can cause more problems than. Allowing it to wash over us and take its natural course. Emotions are not facts but are one possible perspective. If there is painful emotion, get curious, ask questions. What? Can they tell you? Chapter 11. What to do with emotions? If you have skipped straight to this chapter, you may be looking for the. Answer to emotional pain. What is that thing to make it all go away? Well, if that is you, bear with me. Please don&#x27;t close the book just yet. But I am about to tell you the opposite of what you&#x27;re probably hoping. To here. Somewhere in the middle of clinical training, we had an introduction. To mindfulness. You might think that a bunch of trainee clinical. Psychologists would be open-minded enough to sit and learn patiently. But the room was full of giggles as we all tried to sit in silence and. Notice what we felt. Clinical training is all about doing, GE-ing things. Done. We were all firmly in doing mode. To sure into just being was. Proving a challenge for everyone in the room, much to the teachers. Annoyance. At the time, I admit I was full of judgments about how I. Couldn&#x27;t see myself using this or teaching it to anyone. But it was part of the program, so I had to try it out. As training. Progressed and became more stressful, I found myself in the midst of. Assessment season with a thesis to write and exams looming. Tension. Was high. One of my favored tools for stress management at the time. Was running. I took a break from the desk and went out for a run. Through the local countryside. My head was buzzing with to-do lists. And fears about GE-ing everything done and GE-ing it right. I had. Another go at using mindfulness, this time while I was moving. I followed a long gravel track through the woods and listened to the. Sound of my feet highing the stones. I allowed the feelings of anxiety. And stress to be with me. I didn&#x27;t try to push them away. I didn&#x27;t try to. Plan or problem solve. Every few seconds my mind would be oh, telling. Me about the things I should be doing instead of this. Oh airing up worst case scenarios of missing deadlines, failing assignments and an email I. Needed to send when I got back</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-011043">
+          <div class="section-header">
+            <span class="section-time">⏱️ 01:10:43 - 01:15:45</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>home. Every time, I let the thoughts. Come. And every time, I let them pass behind me and returned to the. Sound of my feet on the gravel. I must have gone through this process a. Thousand times. Distract. Pull back. Distract. Pull back. On the way back. Home, as I approached the end of the track, it hit me. I realized what it. Was that all the academic texts were struggling to convince me of. I still. Had all the same hurdles to face. But I wasn&#x27;t fighting against the. Tension. I was allowing it to pass, so that is what it did. The idea of welcoming all emotional experience feels almost. Alarming at first. It is the opposite of what many of us are taught to do. With feelings. We are taught that feelings are the opposite of rationality. Something to be squashed down and hidden pushed to the back of your mind unspoken, but allowing them to rise up and even welcoming it. Many of us fear emotions that is until we begin allowing ourselves to experience them and understand that they all rise and fall like waves. Mindfulness enables us to use the tool of awareness. Awareness. Sounds very basic and rather vague, but it&#x27;s the tool we never know we. Need until we use it. Switching oh the autopilot and building awareness. Of thoughts, emotions, urges and actions adds in an amber light before. The green light flashes and we act on an urge or emotion. It owes us. The chance to consciously pause where autopilot may have driven us. Forward. So we give ourselves more chance to make di errant choices based on our values rather than simply responding to emotion as an artist works closely on a small detail of a large painting. She will occasionally take a step back and check that each new action fits in with the vision she has for the whole picture. The metacognition tool of pausing between emotion and action is that same process of stepping back even just for a moment to check in with your thoughts. And actions to see if they will be in line with the person you want to be. The ability to check in on the bigger picture, even for the smallest of moments can have a powerful impact on the way we live life. As the river of constant thoughts flows, we get to put our head above water and check those thoughts are heading in the direction we want to move in. We can consider that direction in the context of our meaning and purpose and not just move with the flow because that is. The way it naturally goes. See emotions for what they are. Seeing emotions for what they are is key to being able to process them in a healthy way. You are not your feelings and your feelings are not who you are. The sensation of an emotion is an experience that moves through you. Each emotion can owe you information, but not necessarily the whole story. If there is something emotions are pre why useful for it&#x27;s telling you what you need. When we allow ourselves to feel emotion without blocking it out or pushing it away, we can turn towards it with curiosity and learn discovering what we need is even more valuable. If we then use that information to do what is necessary and meet those needs. I think it is always useful to start with the physical as we discussed in previous chapters, no amount of therapy or psychological skills is going to overturn the destructive impact of poor sleep or diet and lack of physical activity. Once we start taking care of the body we live in, we are already well on the way to being able to work on the rest pick a name. When you feel something, give it a name, learn lots of names for lots of emotions. We don&#x27;t only feel happy, sad, fearful or angry. We feel vulnerable and ashamed, by err and grateful, inadequate and excited. In therapy, a lot of work is put into this. Notice what you feel, notice. Where you feel it in your body, and label it. It is common for people to recognize the physical sensations, but have no idea what that emotion is. Perhaps a legacy of past teachings that we don&#x27;t talk about. Emotions. Nobody needed a name for each DI errant emotion because they never voiced it out loud. But they were able to pick out the. Physical manifestation of it because it has always been more acceptable. To tell someone you feel sick and have a pounding heart, then to say. You feel vulnerable and insecure. Increasing your emotional vocabulary so that you can distinguish.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-011545">
+          <div class="section-header">
+            <span class="section-time">⏱️ 01:15:45 - 01:20:47</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>Finally between DI errant emotions helps you to regulate those emotions. And choose the most helpful responses in social situations. Castanet. Ull. 2015. Self-soothing. When painful emotions become intense, it&#x27;s very easy to say they will. Rise, peak and descend, but the reality of that experience can be. Excrutiating, and lead to strong urges to do unhealthy or even. Dangerous things to make it all disappear sooner. While some self-help books might tell you that you can just think. Positive thoughts to change how you feel, I would say that&#x27;s going to be. A struggle. Trying to change how you think is hard enough when you. Are feeling fine. Trying to change the thoughts that arrive at the height. Of distress feels nearly impossible. When we are overwhelmed, the best. Strategy is to step back and be mindful of that emotion as much as. Possible, see it as a temporary experience, and to turn down the dial on. Our threat response by soothing our way through it. In a therapy called Dialectical Behavior Therapy, DBT, we teach. Individuals how to soothe their way through distressing emotions with. Simple skills that help you to ride the wave until it comes back down. These are called distress tolerance skills. One of those skills is called. Self-soothing, Linnehan. 1993. Self-soothing is any set of behaviors that help you to feel safe and. Soothed as you experience a painful emotion. When your threat. Response is triggered, the message being received by your brain is, we. Are not safe. All is not okay. Do something about this now. If we want. That distressing emotion to stop escalating and start its process of. Coming back down to baseline, we need to feed our body and brain. New information that we are safe. There are lots of ways we can do. This, because your brain takes its information from each of your senses. That means you can use each of those to send messages to your brain. That you are safe. Your brain also takes its information from the physical. State of your body, including your heart rate, breathing rate, and muscle. Tension. This is why physical experiences that relax muscles, such as a. Warm bath, can be active in contributing to geeing you through. Distress. Other self-soothing ideas include. A warm drink. A chat with a trusted friend or loved one. Physical movement. Calming music. Beautiful images. Slow breathing. Relaxation techniques. Ascent or perfume you associate with safeness and comfort. One of the quickest ways to tell your brain that you are safe is actually. Through your sense of smell. Finding a scent that you associate with. Safety or comfort. Maybe the perfume of a loved one or a lavender. Scent that you find calming, can be helpful in helping you to focus the. Mind and calm the body at the same time. For those who struggle with. Distressing emotions when out in public. Here&#x27;s an example. A popular. Choice in therapy has been to carefully unstitch a sew toy, fill it with. Lavender, and sew it back up. Then whenever you are out in public and. Start to feel overwhelmed, you can breathe in the scent and ground. Yourself, soothe yourself through it without anyone even noticing. A great tool that is OEM used in dbt is to create self-soothing. Boxes. The reason this is such a great idea is that when you are in emotional pain at the height of your distress, your brain is set up to bypass your problem solving capabilities. If you are under threat, you don&#x27;t have time to think things through. This is when your brain makes a quick guess for you and acts on impulse. A self-soothing box is something you prepare in advance when you are able to think through what most helps in times of distress. Grab an old shoe box and fill it. With anything that could help to soothe you when you are in distress. As described above, anything that you associate with feelings of safety. And comfort is great to include. I have a self-soothing box in my. Therapy room that I use as an example. Inside that box is a note to call. A particular friend. Seeking help may not be our first thought when we are struggling, but following a simple instruction to call a trusted friend can steer us in the right direction. As we know from previous chapters, human connection helps us to recover from stress more quickly. Other things that I included in my self-soothing box are a pen and pad of paper. If you cannot bring yourself to talk, then expressive writing</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-012047">
+          <div class="section-header">
+            <span class="section-time">⏱️ 01:20:47 - 01:25:52</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>has. Been shown to help us to process emotion and make sense of what is. Happening. The box could also include lavender oil or any scent that you. Associate with comfort, some photographs of people who care about. You and whom you care about, and a list of soothing or uppling music. Tracks to play. Carefully chosen music can have a powerful impact on. Our emotional state. Create a playlist of tracks that will help you to feel. Calm, safe and soothed when you are distressed. My box also includes a teabag, because in England we associate tea. With comfort and connection. Including something like this in the box is. Simply a clear instruction to follow when you might otherwise be. Struggling to think through what you need. Crucially, keep that box somewhere that is easy to find when you. Might need it. This tool is all about making things easier for you to cope. In the way that you want to during the toughest of times, to help you. Stay away from the less than healthy habits when you are vulnerable to. Using them. Chapter summary. You are not your feelings and your feelings are not who you. Are. The sensation of emotion is an experience that moves. Through you. Each emotion can owe you information but not necessarily. The whole story. If there is something emotions are useful for, it&#x27;s telling us. What we need. When you feel something, give it a name. Try to label. Emotions with more detail than just happy or sad. Allow emotions to be present and soothe your way through. Rather than blocking them out. Chapter 12. How to harness the power of. Your words. The language we use can have powerful EX on our experience of. The world. It is our tool for making sense of things, helping us to. Categorize sensations, learn from past experiences, share that. Knowledge and predict and plan for future experiences. Some words for emotions have gradually been used more and more. To mean DI errant things, until they have taken on broad and vague. Meanings. Happy has become an umbrella term for anything positive. To the extent that nobody really knows if what they are feeling. Qualifies as happy. If I feel passionate, am I happy? If I feel calm and content, am I happy? If I feel inspired and energized, is that happy? The same has happened to words like depression. What is a. Depressed mood, exactly. Sadness. Emptiness. Agitation. Numbness. Uneasiness. Restlessness. Flatness. And does any of this really matter? Well, as it turns out, it does. Having fewer concepts or words to DI differentiate discrete negative. Emotions is associated with higher levels of depression or are stressful. Life events, star it all, 2020. Those who are able to distinguish. Between negative feelings tend to be more flexible in how they. Respond to problems. For example, they are less likely to binge drink. Under stress, are less reactive to rejection and show less anxiety and. Fewer depressive disorders, Kasten et al., 2015. This does not mean. That those things are caused by the DI cultize in distinguishing. Between negative feelings, but it does show that we have a powerful. Tool that we can use to help us through DI cult times. The more new words you can build up to DI differentiate between. Feelings, the more options your brain has for making sense of various. Sensations and emotions. When you have a more accurate word for a. Feeling, this helps to regulate your emotions and in turn means less. Stress for your body and mind overall. This is a crucial tool if you want. To be more flexible and reactive in how you respond to challenges that. You face, Feldman Barr, 2017. The good news is that this is a skill we can all keep building upon. Here are some ideas for how to build up your emotional vocabulary. Get specific when you feel something try to go beyond. I feel awesome or I&#x27;m not happy. What other words can you use to describe this feeling? Is it a combination of feelings? What physical sensations do you notice? One emotion label may not be enough to encapsulate this feeling. Is it a combination of feelings? For example, I feel nervous and also excited. There is no right or wrong way to label an emotion. The key is to find a description that you and the people around you can become familiar with. If you can&#x27;t find the words, you can make up your own or find words</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-012552">
+          <div class="section-header">
+            <span class="section-time">⏱️ 01:25:52 - 01:30:53</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>from other languages that don&#x27;t have a clear translation. Explore new experiences and play around with ways to describe those experiences from tasting new foods to meeting new people reading books or visiting somewhere new each new experience. Oh, as the opportunity to view things from a di errant perspective when it comes to building up the ability to describe those new experiences take every opportunity to learn new words. This does not have to only come from books although it can. It can also come from music, movies and any other place that exposes you to new words to describe how you feel write down experiences and explore ways to describe how you felt. If you OEN feel at a loss for words when trying to describe how you feel and need help to build up your emotional vocabulary, the feeling wheel Wilcox 1982 is a great resource that is OEN used in therapy for exactly this purpose. You can keep a copy in the cover of your journal and use it to find more specific words. You can also use the blank spaces to add in your own words as you come across them in other places figure seven use the feeling wheel Wilcox 1982 to help you find the words to describe how you feel don&#x27;t only focus on the negative emotions journaling is a helpful way to process and understand the experiences and emotions that happen to you but journaling is not only helpful for making sense of di cult experiences it&#x27;s also important to spend time writing about positive experiences even small moments that felt positive this is because every action is a specific part of neural activity in the brain when you repeat an activity over and over that neural pathway is strengthened and becomes easier for your brain to access so if you want to be able to more easily cultivate positive feelings thoughts and memories put in the practice by keeping a journal when you get practice at cultivating certain feelings and experiences in this way it gets easier to access those feelings in the future chapter summary the language we use has a powerful ect on our experience of the world the more words you have to describe how you feel the b o if you don&#x27;t have the words you can use something like the feeling wheel to give you prompts notice the words others use read books and explore the ways you can keep building your emotional vocabulary chapter 13 how to support someone if you are supporting a loved one as they struggle with their mental health it is quite possible that you feel completely inadequate you don&#x27;t know how to fix it you&#x27;re not sure what is the right thing to say you want to make it all okay for them but you can&#x27;t so you feel lost desperately wanting to help and not knowing how when someone we love is suerring sometimes the stress that it brings up can give us the urge to escape how we feel about their pain but when we do that we can feel even more helpless and paralyzed because we stop ourselves from providing even some low-level support that could help us to feel more confident in the supporting role in agoki at all 2012 while there are no hard and fast rules for supporting someone through mental health problems there are a few things that can help along the way one when we focus on trying to fix the problem it is easy to underestimate the power of simply being there most people don&#x27;t want to be told what to do but they do want someone to keep showing up to check in and show they care too if the love one has a specific diagnosis, it can help to learn about how to X them and get more specific advice on the challenges they are facing three. Don&#x27;t forget that the person you are supporting will have an idea of what they need. So asking them how they would like you to support them can help to give you guidance while also communicating to them that you are listening for caring for someone can put a strain on your own mental health. But you cannot support them at your best if your mental health starts to deteriorate. So it is absolutely imperative that you prioritize your own health too, even in small ways. Keep a close eye on the basics. Keep track of your sleep, routine, nutritional, intake, exercise and social contact. 5. Get your own support.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-013053">
+          <div class="section-header">
+            <span class="section-time">⏱️ 01:30:53 - 01:35:53</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>Whether it be someone you trust a support group or a professional, having a safe space to talk about your own feelings and think about how to move forward can help to stop you burning out six set boundaries. Supporting someone else does not mean that your life no longer Mars GE and clarity on your own values can help to keep you going when things get tough, but also to ensure that you can maintain some balance. 7. Work on a crisis plan. If the person you are caring for ever feels unsafe, then it is important to have a crisis plan. It doesn&#x27;t need to be complex, acknowledge any early warning signs that things may be deteriorating and list the things that both of you can do to ensure everybody&#x27;s safety in that scenario. 8. It is easy to underestimate the power of listening with compassion, kindness and curiosity. The problems may not disappear when you do that, but you are helping that person to feel cared for and less alone, which greatly improves their chances of recovery social support is a powerful tool and it does not need to come with all. The answers just a big dose of compassion 9. Supporting someone does not mean that you have to connect with big intense conversations human connection in the smallest of moments, my eyes walking while you are talking can help those who feel uncomfortable with opening up. You can also say nothing at all. Everybody spending time together, even in silence, is okay. By being there, you are helping them to feel less alone and more. Cared for. 10. If you are trying to help that person open up about their struggles, using open questions that ask for more than a yes or no answer, can help. For example, rather than are you okay, try what are you. Thinking. 11. Listen carefully. Don&#x27;t owe her advice unless they ask for it. Just reflect. Back what you hear them saying, let them know they are being. Heard and respected. 12. If that person talks about feeling hopeless or helpless, says that. They cannot see a way out, or you become concerned about their. Safety. Always seek professional advice. 13. Don&#x27;t underestimate the power of practical help. If someone is. Having struggles with mental health, physical health, pre and postnatal periods, or grief, all of these can make the usual day to day. Tasks more DI cult. For example, helping someone to eat a few. Healthy meals each week by turning up with a homemade dinner. Is a great way to support a loved one. 14. Being sensitive to situations in which your loved one may feel. Especially vulnerable, or asking them if you don&#x27;t know, means. That you can be there for them when they most need it. 4. Example. If a loved one is recently bereaved and has to end a. Social function alone for the first time, don&#x27;t avoid them. Lean in. And show them love and kindness. Those situations will still be. Hard, but feeling less alone can mean everything. 15. It&#x27;s okay to change the subject. Being around someone does not. Mean you have to focus on their struggles the whole time. Distraction can be a welcome relief that they might find DI cult to. Achieve when alone. 16. Have no expectations about their healing or recovery. It is never. Smooth and linear. There will be good days and bad days. Being. Surrounded by loved ones who are accepting of those UPS and. Downs over the years will help them to do the same. 17. Be honest. If you want to be supportive but you are not sure how. Say that out loud. Ask the person to let you know if you are saying. Or doing something that is not helpful. This openness allows. Everyone to feel less anxious and to truly connect, knowing that. The situation is working for everyone. Chapter summary. It is normal to feel overwhelmed or inadequate when. Supporting someone with mental health problems. You want. To fix it but you don&#x27;t know how. Leaning in to support someone who is soo-erring can be. Stressful as you don&#x27;t want to say the wrong thing. But don&#x27;t. Avoid them. You don&#x27;t have to fix everything to be a great support. Look at her yourself to prevent burnout. Get your own support. And set clear boundaries. Never underestimate the power of listening.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-013553">
+          <div class="section-header">
+            <span class="section-time">⏱️ 01:35:53 - 01:40:54</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>Chapter 14. Understanding grief. We owe En associate grief with the death of a loved one. But we can. Grieve at other times too. Endings that feel significant to us can trigger. A grief reaction, even if the ending was not caused by death. We have fought our way through a pandemic that changed our lives. Along the way we lost friends, family, livelihoods, jobs, family. Businesses built over generations. We lost financial security, final. Friends with loved ones, and precious time to hold and be close to. Them. We lost a sense of certainty about what the future holds, and. Access to the social support that would help us cope with that. There. Profound losses experienced by so many have changed the world and. Le a psychological fallout that is heavy with grief. For anyone feeling the EX of a loss, these are some things too. Remember. Grief is normal. I have met so many people who tell themselves that they are failing at. Life because they are struggling to cope with grief. They make broad. Judgments about their strength of character, as if grief is a disorder or. A problem they should have fixed. Grief is a normal part of human. Experience. It is a necessary process to go through when we. Experience the loss of someone or something that we loved, needed. Felt connected to and that held meaning in our life. Sadness can be a part of grief. But there is much more to grief than. Sadness. It can be a deep yearning for the person who is gone. Relationships are at the core of what it means to be human. Among the. People I have met in my career so far, their human connections have. Been the most meaningful aspects of their lives. When the relationship. Ends, the need for that connection doesn&#x27;t stop. Your body grieves too. As explained in previous chapters, everything. We think and feel happens within the body. Grief is no DI errant. There. Loss of a loved one is a huge psychological and physical threat. The pain. Can feel both emotional and physical. The stress response is repeatedly. Triggered. In talking about things that help us through grief, let&#x27;s be clear on. What help means. Things that help do not make the pain disappear or. Make us forget or force us to let go. Help might be as simple as finding. Out that the rollercoaster of emotions you feel is normal. It might be. Finding new ways to sit with and process the pain in a safe and healthy. Way. Grief can feel intolerable. It makes absolute sense that our most. Natural human response to that might be to block it out. The pain is so. Less and vast that it is terrifying. So we push it away if we can. But. When we block one emotion, we tend to block them all. We can be low. Feeling hollow, numb and struggling to find meaning and to engage with. Life in the way we once did. If we find a way to push it all down under the surface, maybe by. Keeping really busy, numbing ourselves with alcohol or with denial of. What has happened, we may feel like we&#x27;re doing okay. In something. Small that seems insignificant blows the lid o and this world of pain. Explodes, leaving us in shock and questioning whether we can cope. Unresolved grief is associated with depression, suicidality and alcohol. Abuse, Zisook and Lyons, 1990. So denying our grief and pushing it away. Feels like self-protection but in the longer term can be the opposite. How easy it is to say all this. How hard it is in reality to experience it. When we block out pain, it is for good reason. An ocean of grief as. Deep as it is wide, it feels too big, too much, never ending. How do we. Possibly face something like that. We can start by understanding what. To expect. We can also make sure we get to know what helps us. Navigate the experience. Then we take things one experience at a time. We take a few strides into that ocean of grief. We feel it. We breathe. We step back and rest for a moment. Over time we learn to take more. Steps, go deeper, immerse ourselves, knowing that we can safely return. To the shore. Feeling the grief does not make it disappear. But we build. Up our strength to know that we can be reminded and yet still return to. Engage with life as it is today. Another summary. Endings that feel significant can trigger a grief reaction, even. If the end was not caused by death.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-014054">
+          <div class="section-header">
+            <span class="section-time">⏱️ 01:40:54 - 01:45:55</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>Grief is a normal and natural part of being human. The pain can feel both emotional and physical. Things that help do not make the pain disappear or force you. To let go. Trying to completely block out grief can lead to problems. Further down the line. Chapter 15. The Stages of Grief. You might have heard about the stages of grief as originally described. By Elizabeth Kubleros, 1969. Since then, it has been established that. They are not experienced in stages and they do not happen in any. Particular order or time frame. But they do describe some of the most. Common experiences that can be a part of normal, healthy grief. It is. Important to remember that these are not a prescription for how you. Could be grieving. They are not a rule book for the best type of. Grieving. They are descriptions of experiences you might notice along. The way. So if you recognize any of them in your own experience, or in. A loved one, you know these are a part of normal, healthy grief. Denial. Denial and shock can help us survive the overwhelming pain of grief. It does not mean that we deny any of it is happening. But there may. Be a gradual pacing of how you take on board the situation you are. Facing and the new reality that awaits you, whether you chose it or. Not. Over time, denial begins to fade and this allows new waves of. Emotion to surface. Anger. Underneath anger is OEM intense pain or fear. When we allow. Ourselves to truly feel that anger and express it, we can bring those. Other emotions to the surface and work on them. But many people. Have been taught to fear anger and to feel ashamed of expressing it. So we hold it under the surface, but like holding air underwater, it. Soon bubbles up in another time or place. An outburst at a friend or. Doctor or family member that appears out of character. Anger is there to agitate us to move and make something happen. When we experience anger about something that we cannot control. Facing physical movement helps us to use that physiological arousal in. The way it was designed to be used. Venting in that way can be. Helpful to use up that energy generated by anger and bring ourselves. Back down to baseline, at least for a while. Once the body is calm. You are then more able to access the cognitive function necessary to. Get clarity on your thoughts and feelings or any problem solving to. Be done. It can be helpful to do that with a trusted friend or loved. One who can support you, or by writing things down. We know from. The research that ruminating alone on angry feelings can make the. Anger and aggression more intense rather than less, Bushman, 2002. Trying to do any sort of deep relaxation exercise before you have. Used physical action to move through the anger and bring your level. The arousal back down may be too DI cult. But once you have. Expressed it in any way that best suits you, using guided relaxations. Can be helpful to replenish the body and mind until the next wave of. Anger arrives. Bargaining. Maybe this occurs in fleeting moments. Maybe it&#x27;s hours or days. Spent ruminating over the what if, and if only, thoughts. This. Can easily lead down a path towards self blame. We start to wonder. What could have been DI errant if we had made DI errant choices at. DI errant times. We may start bargaining with a god, if we have one. Or the universe. Or maybe we promise to do things DI errantly from. Now on and devote our life to making things be er in some way. Trying desperately in our mind to make it all okay again. We just want. Things back the way they were. Depression. The word depression here is used to describe that deep loss, an intense sadness and emptiness that follows a bereavement. This is a normal reaction to loss and does not necessarily indicate a mental illness. Depression is a normal response to a depressing situation. Sometimes people around us can feel frightened by it and naturally want to fix it or cure it, or worse, want you to snap out of it. But recognizing depression as a normal part of healthy grief means that we can try to soothe ourselves through that pain and work hard. To re-engage with normal life and look at our well-being as much as we can. The ideas and tools covered in section 1 still apply here. But. We also don&#x27;t have to deny pain or push it down and hide it, as I will.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-014555">
+          <div class="section-header">
+            <span class="section-time">⏱️ 01:45:55 - 01:50:58</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>Explain later. Acceptance. When we give grief the time and space it needs, we begin to feel. More able to step forward and play an active part in life again. Acceptance can be misunderstood as agreeing with or liking the. Situation. That is not true. In acceptance, the new reality is still not. Okay. It is still not as we want it to be. But we begin to take on the. New reality, listen to our needs, open up to new experiences and. Make connections. It is also important to point out that acceptance is not an end. Point in grief. It might be fleeting moments in which you have found. A way to live in this new reality. There may be other moments when. You return to bargaining and yearning for that person. Going back. And forth between these states is normal, and it&#x27;s to be expected as. You face all the new challenges and experiences in your life. This. Means if you have started to find new moments of contentment or. Joy. Things seem to be going okay, and then you find yourself. Overwhelmed with a wave of anger or sadness or anything else. That does not mean you have gone backwards. You are not geeing. Grief wrong. Grief comes in waves that we can&#x27;t always predict. Chapter summary. Denial can help us survive the overwhelming pain of grief. As. Denial fades. This allows new waves of emotion to surface. When we experience anger about something we can&#x27;t control. Using physical movement helps us to use the physiological. Arousal and bring the body back down to calm for a while. Ruminating over the what IFS can easily lead down a path of. Self-blame. Depression is a normal reaction or a bereavement. Acceptance is not the same as liking or agreeing with the. Situation. Chapter 16. The Tasks of Mourning. So how do we begin to get through this intense, confusing, and OEM? Chaotic experience that we call grief. William Worden, 2011, described what he thought were the four. Tasks of Mourning. One. To find some acceptance in the new reality or the loss. Two. To work through the pain of grief. Three. To adjust to an environment in which that loved one is missing. Four. To find a way to keep a connection with them in a new way while. Also engaging in life as it is now. A era loss, people deal with their grief in DI errant ways. While some. Are oriented towards feeling the pain and emotions that arise, others. Focus on trying their best to distract themselves from the. Overwhelming emotions. Neither of these are wrong. In fact, we need. Both. We cannot work through grief all in one go and feel that much. Emotional pain without rest. But we cannot do the work through grief. Without allowing ourselves the space to feel it. So the work becomes a. Process of movement between feeling the pain and replenishing the. Body and mind with something distracting or comforting that allows. You a break between the waves of emotion, strobe and shut, 1999. So spending time with the emotions that come up, whether you. Made an active choice to go there by looking in a memory box or. Visiting a memorial or if that emotion rose up without choice is a. Necessary part of that process. It allows the feelings to unfold and be expressed through talking writing or weeping. When you feel you need to step back from that it helps to turn your anti onto. Something that brings the stress response back down. Using the self soothing skills from section three can be helpful. See page 109, especially. When the pain has been overwhelming. Grounding techniques may also. Be helpful here, but there is no set prescription as every individual. Every relationship and therefore every grieving process is unique. There. Key is to find something safe that allows you some time for restoration. Even if that time is short. One of the problems with the trying to get on with it mode and not. Allowing ourselves to focus on the loss at any point is that it can take. Relentless aort and there is no break from that. We might then need to stay busy for fear of being overwhelmed. If we press pause, so we become stuck. We&#x27;re not able to rest because the work of keeping the pain at arms length is constant. When pain is vast, the actions we take. To push it down and keep it under the surface can cause damage to. Both the individual and their relationships. If you disconnect with one emotion, you disconnect from them all.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-015058">
+          <div class="section-header">
+            <span class="section-time">⏱️ 01:50:58 - 01:55:58</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>Feel whatever is there. It is okay when you are grieving to feel everything. It is okay to feel despair. It is okay to feel rage. It is okay to feel confused. It is also okay to. Feel joy. It is okay to smile if that is where the moment takes you. It is okay. To enjoy the warm sun on your face for a moment, or laugh at. Someone&#x27;s joke. It is all okay. It is normal to feel guilty when you start to. Allow yourself to live again, but allowing small moments of joy to wash. Over you is just as important to the process of grieving as allowing the. Pain too. Over time we learn to engage with life and recognize that does. Not mean forging. The love and connection continues. Small steps forward every day. Do not underestimate the power of the smallest steps forward. If. Standing upright and washing your face every day feels like a B.A. La. Then let washing your face each morning become the current goal. Meet each chapter from where you are and push it where it moves. No expectations. Expectations about how you should feel, how you should behave, and. How quickly you should heal, only make grief harder. Many of those. Expectations come from a history of our misunderstanding about grief. As a taboo subject. Thanks to some pioneers in this area of research, we. Now have a much bigger understanding of the process of grief and how. To help ourselves through it. The expectations lead people to falsely. Believe that they are going mad, geeing it all wrong, weak and alone. In. Reality, all the feelings, the ups and downs, are all a normal part of the. Process. The lack of conversation about grief leads us to worry about. Whether we are geeing it right. The opposite to this and a much more. Helpful approach is cultivating a compassionate connection with. Yourself and others. One that allows you to express your feelings in A. Safe place. Expression. Expressing how you feel is not always easy. Some have the urge to talk. Others clam up and can&#x27;t find the words. If you want to talk, find. Someone whom you trust and start talking. If you have all of those very. Normal fears of being a burden, upsing the other person, say so. A. Good friend will tell you what they can manage. If you cannot talk, write. In whatever way the words come to you. The act of geeing those thoughts and feelings out onto the page can. Help to unravel some of what is going on in your mind and body. It is. Through the processing of those painful feelings that the work of. Grieving is done. Some people find expression through painting, music, movement or. Poetry. Whatever Ours a safe avenue for you to release and express. That raw emotion is worth making time and space for. If you are not. Sure where to start? Just start with anything that comes naturally to. You. Start with the thing that has helped in the past. Or start with. Something just because you are curious about how it might be. If you don&#x27;t have a therapist to hold the boundaries for you, this is. Something you can do to ensure that you step into and back out of the. Emotion. There is a time to feel and a time to block a time for turning. Towards and a time for turning away to rest your mind and body. So if. You are going to spend some time releasing and expressing that. Emotion have those safety nets that help you back. Remember and keep living when remembering someone causes pain and engaging in the present. Without them causes pain. The two experiences can feel at war with each other. The demands of life keep coming and just one memory can. Crop up and bring you to your knees. Perhaps one of the things that changes over time with grief is the. Bringing together of these two things. Or the discovery. Through trying. Of a way the two needs can coexist. The need to engage in life and the. Need to remember and stay connected with the person lost. This could. Be making time for moments that celebrate their life. Spending time in. Rituals that help you to continue your relationship with them. While also. Making deliberate choices every day to live in a way that honors both. Past and future. The work of grief appears to be about stepping into your pain. Allowing it to wash over you. Soothing and supporting yourself through. It. And stepping out of it again and into life as it is now. Finding ways to. Rest and nourish your body and mind through the exhaustion of grief. Samuel.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-015558">
+          <div class="section-header">
+            <span class="section-time">⏱️ 01:55:58 - 02:01:00</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>2017. Grow around the wound. The wound that is the following a loss is not something to be fixed or. Healed. We do not want to forget that person we want to remember. Them and continue to feel connected to them. So the wound does not. Diminish or disappear. It remains while we work hard to build a life. Around it. Rando. 1993. This is a concept that many people find helpful. In therapy. The person is just as important to you as they ever were and. So the pain of losing them continues. But we find a way to acknowledge. Their life while beginning to grow and create a life with meaning and. Purpose alongside that grief. You find ways to remember celebrate and feel your connection to. That person and to keep living. You learn that pain and joy despair and. Meaning can all be a part of life. You learn what you are capable of. Surviving the depths from which you can pull yourself up and from. That you keep going. When to get professional help. Going to a counselor or therapist does not mean you are geeing the. Grief thing wrong. We need support to get us through the pain of grief. But not everybody has someone that they trust or want to talk openly. With. The therapy room can become a sanctuary. A safe space to. Release raw emotion with someone who is trained to sit firm with you. Through that. The therapist can help you to make sense of things. Use. Skills to help you manage safely understand more about grief and listen. In a way you have never been listened to before without judgment. Advice or a emps to minimize and fix things for you. A therapist. Knows that the work of grief is through the pain and their work is to. Walk through it with you and owe her a guide when you need it. Chapter Summary Grief demands that we work through the pain. It takes time to adjust to a life in which the loved one is. Missing. We need to find a way to keep that connection going with the. Loved one without their physical presence. Acceptance of the new reality means we can continue to. Engage with the things that marr to us. Whatever you feel. It&#x27;s okay to feel that. Do not underestimate small steps and steady progress. Chapter 17 The Pillars of Strength The grief psychotherapist Julia Samuel set out the key structures that. Support us to rebuild our lives through grief, 2017. She calls them. Pillars of strength because they take work and persistence to build. By. Nurturing each of them, we gain a stable structure to help us through. The pillars of strength are listed below. One. Relationship with the person who has died. When we lose a loved one, our relationship and love for that person. Does not end. Adapting to the loss involves finding new ways to feel. Close to the loved one. For example, visiting a special place that you. Shared or spending time at a grave or memorial. Two. Relationship with the self. Every other section in this book touches on self-awareness and. Working through grief demands the same. In understanding our own. Coping mechanisms, finding ways to get support and look at our. Health and well-being throughout, we must listen to our own needs as. Best we can along the way. Three. Expressing grief. There is no correct way to express grief. If you prefer to do that. Through quiet reflection, memorials or sharing with friends, the act of. Allowing yourself to feel whatever comes up and expressing that. Helps the natural process. When emotions are especially. Overwhelming you can make use of the skills. in section 3 too. Help. See page 99. 4. Time. P.U.ing an expectation on how much time you should need for grief. Is searing yourself up for struggle. When everything is overwhelming. It helps to focus only on each day as it comes until you feel strong. Enough to take a broader view of the future. Adding pressure to feel. A certain way in a particular time frame only adds pain and distress. 5. Mind and body. As I covered in section 1, our physical state, emotions, thoughts and. Actions are like weaves in a basket. See page 53. We cannot change. One without influencing the other. This makes taking care of all of. Those aspects of our experience even more important. Regular. Exercise, eating well and ensuring we maintain some social contact. Will all help us to strengthen our mental health when we most need.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-020100">
+          <div class="section-header">
+            <span class="section-time">⏱️ 02:01:00 - 02:06:00</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>It. 6. Limits. When loved ones around us may be full of advice about how we. Should be managing and when we should be GEing back into. Everyday life. Remembering our capacity for holding boundaries. Becomes an essential tool. If we are building self-awareness and. Listening to our own needs. Sometimes we need to put boundaries in. Place and maintain them in order to do what is in our best interests. 7. Structure. I have spoken in previous chapters about our human need for balance. Between predictability and adventure. Structure and flexibility. When. Our mental health becomes vulnerable or or a loss. It makes sense to. Oh or a degree of flexibility that allows for grieving. While also. Maintaining some level of structure and routine that helps prevent. Deterioration of your mental health from the absence of healthy. Behaviors such as exercise and social. 8. Focusing. When there are not enough words to describe the sensations that we. Feel. Focusing our entire on on simply observing our internal world. And visualizing those sensations in the body can help to build. Awareness of our own should s in emotional and physical state. Chapter summary. We can rebuild a life or a bereavement with time, work and. Persistence. Create new ways you can feel close to your loved one with a. Special place or memorial. Listen to your needs as much as you can along the way. There is no correct way to express grief. Drop any expectations about how much time you should. Spend grieving. Chapter 18. Dealing with criticism and. Disapproval. Criticism and disapproval is something we all have to face at some. Point. But nobody ever really teaches us how to deal with it in a way. That allows that feedback to enhance our life instead of destroying our. Self-esteem. Even the anticipation of criticism or disapproval can be enough to. Cause a paralysis in our ability to strive for things that Mara most to. Us. So not having the skills to deal with criticism or disapproval in a. Healthy way can cost you now this chapter is not about to tell you to just stop caring what. Anyone else thinks of you in fact we are built to care about how we are being perceived by those around us criticism can be a sign that we haven&#x27;t lived up to expectation in some way and sometimes. But not always can signal a risk of rejection or abandonment so receiving. Criticism will naturally trigger your stress response. That response gears us up ready to do something about it historically rejection from our. Community was a serious threat to our survival these days things are di errant in some ways but similar in others rejection and loneliness continue to be a big threat to our health and the brain continues doing its job of trying to keep us safe in a group beyond simply keeping us safe our capacity to imagine what others might think of us is a key skill that helps us to function in the social groups that we live in we develop our sense of self and identity not only from our own experience and how we interact with others but also through what we imagine those other people really think of us the ideas and perceptions they might have of us this is called the looking glass self coolly 1902 so it makes sense that what i believe you think of me is going to influence what i do next so when we try to tell ourselves to just stop caring what anyone else thinks even if we feel a momentary boost the impact of that is oen short lived at best people pleasing people pleasing is more than just being nice to people anyone would recommend being nice to people but people pleasing is a par urn of behavior in which you consistently put all others before yourself even to the detriment of your own health and well-being it can leave us feeling unable to express our needs likes and dislikes and unable to hold boundaries or even keep ourselves safe we say yes when actually we want to need to say no we feel resentful of being taken advantage of but unable to change it by asking for anything d.i. errant and the fear of disapproval never disappears because there is always the possibility of p.u.ing a foot wrong making a wrong choice and displeasing someone even if that person is someone we don&#x27;t like or spend time with while it is in us all to care about the</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-020600">
+          <div class="section-header">
+            <span class="section-time">⏱️ 02:06:00 - 02:11:00</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>approval of our peers people pleasing takes it much further if we grow up in an environment in which it is not safe to disagree or express d.i. errants if disapproval is expressed with rage or contempt then as children we learn how to survive that environment keeping other people happy becomes a survival skill that we hone and perfect throughout childhood it is only later as adults that those behavior par earns become detrimental to our relationships we second guess every move we make always tentatively trying to work out what others are expecting of us it may even prevent us from making new connections as we hold back on interactions when there is no guarantee that the other person likes us back living a life of people pleasing is further complicated by the fact that other people don&#x27;t always voice their disapproval with criticism we can fear and feel disapproval even when the other person never says a word when we don&#x27;t have that information our mind starts to fill in the blanks for us the spotlight eest is a term originally coined by thomas gillovich and kenneth savitsky 2000 to describe the tendency of humans to overestimate how much others are focused on us we are each at the center of our own spotlight of an tie on and we tend to imagine that others are focused on us too when in reality everyone&#x27;s spotlights are usually on themselves so we can owe en make the assumption that others are judging us negatively or disapproving when they may not be thinking about us at all those who feel socially anxious tend to focus their anti on more on how they are being perceived by those around them clark and wells 1995 but those who feel more confident tend to have a more outward focus of an tie on leading with a curiosity for other people so if we have this brain that is set up to care a great deal what everyone else is thinking or maybe we notice a tendency towards people pleasing par earns how do we live alongside that how do we ensure that we can have those meaningful relationships but not become trapped by constant worries about disapproval and judgment and how can we pick ourselves back up when disapproval from someone else stops us from living in line with what ma urs to us the tasks of dealing with criticism building up the ability to tolerate the criticism that could be helpful and use it to your advantage while maintaining a sense of self-worth being open to learning from negative feedback that could help you make progress learning to let go of criticisms that reflect the values of someone else rather than your own geeing clarity on which opinions mara the most to you and why so that it becomes easier to know when to reflect and learn and when to let go and move on understanding people most people who are highly critical of others tend to be highly critical of themselves also it can reflect the way they have learned to speak to themselves and everyone else they criticize because it is what they do not necessarily because it is any reflection on your worthiness as a human being especially when it is a very personal act on your character as opposed to anything that could be in any way helpful to you on your path as humans we also have a tendency towards egocentric thinking which can play out in our insistence that other people live by the same values and obey the same rules that we have set for ourselves this means that criticism can oen be based on the critical person&#x27;s view of the world neglecting the fact that we all have di errant life experiences values and personalities understanding that people tend to criticize others based on their own rules for living is helpful to remember especially for anyone with that tendency towards people pleasing we want everyone&#x27;s approval but if each person is unique with their own ideas and views then we simply cannot please everyone all of the time if we have a close relationship with the person then we are likely to value their opinions more which can make the criticism more painful but we also may have the insight to be uh understand what lies behind the disapproval context is everything but we don&#x27;t always have access to it when we don&#x27;t have that context it is much harder to see the criticism for what it is one person&#x27;s idea that is wrapped up in their own experiences the natural instinct is to take on</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-021100">
+          <div class="section-header">
+            <span class="section-time">⏱️ 02:11:00 - 02:16:03</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>the criticism as a factual statement that says something about who we are and to start questioning our own self-worth nurturing self-worth not all criticism is bad when feedback focuses on a specific behavior we tend to feel guilty which prompts us to correct our mistakes to repair the relationship when criticism acts our personality and our sense of worth as a person we tend to feel that in the form of shame shame is the intensely painful feeling that can be mixed with other emotions like anger or disgust it is di errant from embarrassment which is less intense and tends to be felt in public shame is much more painful we feel unable to speak think clearly or do anything we want to disappear and hide the sheer intensity of the physical reaction makes it di cult to recover from shame triggers our threat system in such a way that it can feel like someone held a match to all our other emotions so we get a rush of anger fear or disgust to go along with it then the self-aac comes swarming in like soldiers over a hill coming at you with self-criticism self-denigration and blame with that sort of onslaught the instinct is to block it all out but shame is not easy to ignore so we go for the most absorbing addictive behaviors that owe a instant relief shame resilience is something we can learn but it is a life practice building resilience to shame does not mean you never feel it instead it means we learn how to dust ourselves oh and get back up being able to experience shame and come back from it without losing your sense of self-worth involves geeing to know what triggers shame for you there are certain aspects of our lives and things we do that we perceive to be a part of who we are that may be parenting or physical appearance or creativity anything that you link to your self-worth can give rise to shame in order to build and maintain a sense of self-worth we need to understand that our worthiness as a human being is not dependent on living mistake free reality checking the criticism and all the judgments that follow whether it comes from someone else or inside your own head judgments and opinions are not facts they are narratives and stories that can significantly change our experience of the world so looking at your self-worth involves taking the name calling and personal acts out of the equation and focusing on the specific concrete behaviors and their consequences reminding yourself that being imperfect making mistakes or failing is all a part of being human making friends with your fallibility means that when you do fail you don&#x27;t have to feel worthless you can use each experience to your advantage by learning from it minding what you say criticism will always hurt a leela that is our brain doing its best to keep us safe there is no antidote that makes it all okay forever and ever criticisms bouncing oh your armor what use is armor anyway when the worst critic is in your own head a harsh comment or criticism can leave you feeling winded of course naturally you then spend the next five hours rehearsing it again in your head the brain wants to pay a rent ion to it because it is a threat but each time you go over it in your mind the stress response is triggered again so one kick in the stomach can feel more like a hundred kicks in the stomach time spent thinking over a helpful criticism that we can put to. Good use and that adds to the work we are doing in the world is. Time well spent. Ruminating and churning over a nasty comment. With no sense of how this can help you is just a continuation of the. A ac on your character. Talking to yourself in the right way or a criticism. This is vital if. You want to have the capacity to move through shame and bounce. Back. When we are in shame we may feel a sense of self loathing. And we convince ourselves that we need to continue the act. The idea of responding to ourselves with respect and compassion. Feels undeserved and indulgent as if it would let you owe the hook. And stop you bothering to try harder. But in reality, if you want a. Man to get up o the ground, you have to stop beating him. The. Key to using all criticism to your advantage is having your own. Back. Having so much self compassion that you are able to listen to. Criticism and decide which of that</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-021603">
+          <div class="section-header">
+            <span class="section-time">⏱️ 02:16:03 - 02:21:04</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>criticism you will take on board. And use to your advantage as a learning experience. And which. Voices owe you nothing but dense in your self esteem and crushed. Confidence. Talking about shame itself. Reach out to someone you trust and. Confide in them. Secrets, silence and judgment intensify shame. Sharing our experience with someone who responds with empathy. Helps us to leave shame behind and move on. Understanding you. Living the life you want to live in the face of criticism means geeing. Clear on. The opinions that truly ma&#x27;er to you and why. Whose opinions? Ma&#x27;er most to you. Saying I don&#x27;t care what anyone thinks is. Rarely true and hides a world of insecurities. It stops us creating. Meaningful connections with others because it closes oh any. Avenue of communication in which both voices ma&#x27;er. But the list. Of whose opinions truly ma&#x27;er needs to be small. It is also worth. Pointing out that acknowledging who ma&#x27;er&#x27;s does not mean it is. Your responsibility to please them. It just means you are willing to. Listen to their feedback, even when it is not praise, because you. Know it is likely to be honest and in your best interests, therefore. Most likely to be helpful. Why you do what you do. The one person you most need the. Approval of is you. When the way we are living is out of line with. Our values and what ma&#x27;er&#x27;s most. Life stops feeling meaningful or. Satisfying. Understanding the kind of person you want to be and. How you want to live your life. How you want to contribute to the. World is the road you want to stay close to. When you know. Exactly who you are and who you want to be. It is much easier to. Choose which criticisms to take on board and which ones to let go. Where those familiar critical voices are really coming from and. Whether they are warranted and helpful or detrimental to our. Well being. When there is someone in your life who is predictably. Critical. You hear their voice before they even say anything. Over. Time we internalize their constant criticism so that it becomes the. Way we speak to ourselves. So we may be highly self critical. Because we have learned to be. Recognizing that we learned that. Way of speaking to ourselves helps us to acknowledge that we can. Re-learn a new internal dialogue that serves us be a. Chapter summary. Learning the skills to deal with criticism and disapproval in a. Healthy way is a crucial life skill. We are built to care what others think of us, so telling. Ourselves that we don&#x27;t care is not the answer. People pleasing is more than just being nice to people. It is. The persistent placing of others wants or needs above your. Own, even to the detriment of your own health and well being. Understanding why some people are highly critical helps. Nurturing your own self worth and resilience to shame is both. Possible and potentially life altering. Chapter 19. The key to building confidence. As a teenager growing up in a small town, I thought of myself as a. Confident person. Then I lay that small town and went ode to university. Over 100 miles away. But much of my confidence, which I thought was. Part of me stayed at home. I was vulnerable, unsure of myself, not. Clear on who I needed to be to fit in. Over time, university life became. The new normal and I built up my confidence, brick by brick, once again. A. R. I graduated, I got a job as a researcher for an addiction service. Feeling confident to meet the demands of university was no longer. Enough. I needed to tolerate that vulnerable feeling once again in order. To build up confidence in this new arena. The same happened when I. Began my clinical training, then a qualification, the birth of my. First child, when I started my own practice and again when I started. Making my work public on social media. With every turn I have ever made, the confidence that once seemed. Enough suddenly seems inadequate and vulnerability returns. Confidence is like a home that you build for yourself. When you go. Somewhere new, you must build a new one. But when we do, we&#x27;re not. Starting from scratch. Every time we step into the unknown and try. Something new, experience that vulnerability, make mistakes, get. Through them and build some confidence, we move on to the next. Chapter with evidence that we can get through tough challenges. We. Bring with us the courage</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-022104">
+          <div class="section-header">
+            <span class="section-time">⏱️ 02:21:04 - 02:26:04</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>we need to take that leap of faith again and. Again. That same leap of faith the trapeze artist must take every time. She lets go of one bar before grabbing the next one. She is always. Vulnerable, never completely safe, but each time she tries, she knows. She can meet that risk with the courage needed to make it happen. To build confidence, go where you have. None. Confident is not the same as comfortable. One of the biggest. Misconceptions about becoming self-confident is that it means living. Fearlessly. The key to building confidence is quite the opposite. It. Means we are willing to let fear be present as we do the things that. Ma&#x27;er to us. When we establish some self-confidence in something, it feels good. We want to stay there and hold on to it. But if we only go where we. Feel confident, then confidence never expands beyond that. If we only. Do the things we know we can do well, fear of the new and unknown. Tends to grow. Building confidence inevitably demands that we make. Friends with vulnerability because it is the only way to be without. Confidence for a while. But the only way confidence can grow is when we are willing to be. Without it. When we can step into fear and sit with the unknown, it is. The courage of doing so that builds confidence from the ground up. Courage comes first, confidence comes second. This doesn&#x27;t mean that. We have to dive in at the emotional deep end and risk overwhelming. Ourselves. But it does mean that we must recognize how fear helps us to. Perform at our best and that we need to change our relationship with. That fear so that we no longer need to eliminate it before we try. We. Learn to take fear with us. Here is the learning model, Luckner and Nadler 1991, that we can use. As a guide for building confidence. Note down what aspects of your life. Might be in the comfort zone, what tasks feel challenging but. Manageable and which things you would put in the panic zone. Every. Time you step into the stretch zone, you are doing the work of building. Your confidence by flexing your courage. When you are trying to build self-confidence, it is a process of. Building self-acceptance, self-compassion and learning the value in. Vulnerability and fear. It is OEN a balancing act that doesn&#x27;t always feel. Easy. Along the way, all of the tools in this book can be used, as they. Each help to build up your capacity to both lean into E-ought and tolerate. The discomfort, then pull back and replenish. Figure 8. The learning model, Luckner and Nadler 1991. Some of the main ingredients for that leap of faith we need for. Stepping into the stretch zone are. Recognition that you can improve with E-ought. Willingness to tolerate the discomfort of being vulnerable for A. While. The commitment to yourself that you will always have your own. Back and do the best by yourself whether you succeed or fail. This. Means embracing self-compassion as a life practice and being your. Own coach, not your worst critic. Understanding how to move through the shame that can arise. From failure to prevent our tendency to quit on our dreams in an. E-ought to avoid the shame of a setback. See section 3 for more on. This. To build confidence, we don&#x27;t have to live in fear. We have to. Develop a daily par-earn of stepping into fear, sighing with it, and. Stepping back out, giving ourselves time to recover and replenish. Ready for tomorrow. See section 6 on fear. Why you don&#x27;t need to work on your self-esteem. There is a whole industry built on the concept of self-esteem and the. Idea that if we can just believe in ourselves, we will perform be a and. Improve our relationships and our overall happiness in life. Self-esteem generally means being able to evaluate yourself. Positively and believe in those appraisals, Harris. 2010. So anyone. Trying to help you increase your self-esteem might ask you to list what. You like about yourself and what your strengths are, and try to. Convince you to believe that you can become a success in the world. But we have a problem with the concept of success. We link it to the. Idea of wealth, winning, standing out and being acknowledged by. Others. So how do you know if you&#x27;re winning? You compare yourself to. Others. Maybe you go online and pick any of the 4.6 billion internet. Users from across the world. With a pool that size, you are guaranteed. To find someone who is doing bigger than you at something.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-022604">
+          <div class="section-header">
+            <span class="section-time">⏱️ 02:26:04 - 02:31:08</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>When you. Do. Self-esteem might take a hit because if you are not the winner, you. Can start to see yourself as a loser instead. What if you stay oh in and only compare yourself to your friends. And family instead. Doing that is not going to nurture healthy. Relationships. Associating a measure of success to worthiness would. Inevitably make it DI cult to truly connect with the people you are. Comparing yourself to. What happens when you lose your job and your. Friend gets a promotion. A review of the research by a group of. Psychologists showed that high self-esteem is not linked with be a. Relationships or be a performance. But it does correlate with. Arrogance, prejudice and discrimination, Baumeister et al. 2003. They. Found no significant evidence that trying to boost self-esteem through. Intervention had any benefits. Self-esteem cannot be relied on when it is contingent on being a. Success. It is psychological rent that you can never stop paying. There. Second you notice signs that you might be less than, you brand yourself. As not enough. So you keep running on a hamster wheel of success. Driven by a scarcity mindset and the fear of being inadequate. Ditch the positive affirmations. You cannot open a social media platform without coming across an. O airing of daily oremations. The idea behind this is that if you say. Something to yourself enough times you will start to believe it and. Become it. But as it turns out, things aren&#x27;t quite that simple. For those. Who already have high self-esteem and believe in themselves. Repeating. Oremations can have a small benefit of feeling a lie la bieur. But some. Studies have shown that for people with low self-esteem. Repeating. Oremations and statements that they don&#x27;t believe. For example. I am. Strong. I am lovable. Or being asked to focus on all the reasons that. Statement is true. Tended to make them feel worse. Would at all. 2009. The reason for this may be that internal dialogue we all have. If you. Say out loud that you are strong and lovable. But you don&#x27;t believe that. You are. Then your inner critic will get to work coming up with all the. Reasons why you are not strong or lovable. The result is an internal. Biele. And plenty of time to focus on all the narratives that bring you. Down while you are desperately trying to push them away. So what works instead? Well, the study I previously mentioned found. That when those with low self-esteem were told it is okay to experience. Negative thoughts, their mood improved. They no longer had to biele. With trying to convince themselves of something they didn&#x27;t yet. Believe. Therefore, on the days when we don&#x27;t feel strong, we don&#x27;t. Need to tell ourselves that we are. We can acknowledge that feeling. This way sometimes is a part of being human. We can respond to it with. Compassion and encouragement. We can then turn to the things that. Help us to feel confident in our own strength again. By using all the. Tools at our disposal to move through tough times in line with the. Person we want to be. The way that we start to believe something. More positive about ourselves is to use action to create evidence for it. While oremations may not be the best strategy for those with low. Self-esteem. Words still mar. If mistakes and failure lead to an. Onslaught of self-a. Do not let any of it go unchecked. Professional. Athletes have professional coaches for a reason. In day-to-day life we. We don&#x27;t have that, so we must be that voice for ourselves. The natural. Emotional response to failure influences our thoughts and makes us. More vulnerable to self-criticism. So we can&#x27;t always stop it, but we can. Respond to it with an alternative that serves us be a. To build. Confidence, you have to get to work being your own coach instead of. Your own worst critic. That includes responding to failure in a way that. Will help you to get up, dust yourself oh and get back out there. A. Professional coach would not bully you with words, or chant. Aremations that you couldn&#x27;t believe in. They bring honesty, accountability, unconditional encouragement and support. They are in. Your corner, whatever the score, with your best interests at heart. Doing that for yourself is not always easy, but is a life skill that we can. Improve on with practice. Toolkit. Changing your relationship with fear to build. Confidence. To begin building confidence in something that makes you feel nervous.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-023108">
+          <div class="section-header">
+            <span class="section-time">⏱️ 02:31:08 - 02:36:10</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>You can practice welcoming the sensations of fear and sighing with. Them, without pushing them away. To do this, we don&#x27;t have to put. Ourselves in a situation that causes intense panic or terror. In fact, that. Is not advisable. Instead, we can practice by dipping a toe in the water. Stepping slightly out of that comfort zone just enough that you can feel. The stress response without feeling overwhelmed. Write down the situation in which you would like to build more. Confidence. Put the most vulnerable situation at the top. Then list. Any variations of that situation that may feel more manageable but. Still challenging. For example, if I want to build my confidence in. Social situations, I may put parties at the top of the list as the. Occasion in which I feel least confident. Slightly easier than that. Might be a party at which I know everyone. Easier than that might. Be a small gathering of close friends. Easier still might be going to a. Cafe with a trusted friend. Once you have your list, you don&#x27;t start. At the top. You take the scenario that presents a challenge but still. Feels possible. You then repeat that behavior as OEM as you can. Once your confidence grows and that situation becomes a comfort. Zone, you move up to the next thing on the list. The perfect nurturer is a tool originally developed by Paul Gilbert and. Deborah Lee and used in compassion focused therapy, CFT. It can be. A helpful way to turn your focus towards the self talk you need when. Building your confidence. A perfect nurturer is an image of a person that you can return to in. Order to feel safe and nurtured when that is what you need. If you. Prefer the idea of a coach, you can use that instead. Create an image in your mind of the perfect nurturer or. Coach, this could be a real or imagined person. Imagine you are sharing with them what you are currently. Facing, how you feel about it and what you want to work on. Take some time to imagine in detail how that perfect. Nurturer or coach might respond and write it down. This sets the tone for the words you can start using to respond to yourself as you work on building your own confidence and inevitably face vulnerability along the way. Chapter summary. Confidence cannot grow if we are never willing to be without it. To build confidence, go where you have none. Repeat every day and watch your confidence develop. Confidence is situation specific, but what you keep as you. Move around is the belief that you can tolerate the fear as confidence grows. You do not need to overwhelm yourself with your worst case scenario. Start with small changes along the way. Be your own coach, not your worst critic. Challenge comes before confidence. Chapter 20. You are not your mistakes. Most self doubt is linked to the relationship we have with failure. I am. Not about to sit here and tell you to just be okay with failure, then. Everything will be easy. That is not true. Failure is never easy. It stings. Every time. We all want to be enough. We all want to be acceptable. The failure is a sign that maybe we weren&#x27;t enough this time. It is not only our relationship with our own failure that needs to change, but also how we respond to the failure of others. You don&#x27;t. Have to spend too long on chia to develop an overwhelming fear of. Failure. Say the wrong thing in a tweet and a collective army of. Tweeters invade and hound you with verbal abuse, demanding you be pulled down from whatever heights you may have climbed in your. Lifetime. I have seen this happen to people who make simple mistakes. In their use of language and immediately apologize for it. Given that. Social media is a magnified reflection of who we are as a society. This. Speaks to me about the intense shame we associate with any form of. Failure. Those who are highly self critical are more likely to be critical of. Others. People believe that mistakes and shortcomings should be met. With humiliation and shame no ma er what the intention, how do we. Ever begin to be okay with taking risks and making mistakes ourselves. Something that has helped me a lot is understanding that how other. People respond to my failures does not provide an accurate assessment. Of my personality and worthiness as a human, but instead indicates. How that person relates to failure. Understanding failure is hard in. Environments where people attack each other for mistakes.</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-023610">
+          <div class="section-header">
+            <span class="section-time">⏱️ 02:36:10 - 02:41:13</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>No ma er. How hostile we are towards failure collectively. Changing our. Relationship with failure must begin with us. Failure hurts every time. Whether the environment is safe or not. Therefore, we avoid it at all. Costs. We quit when things get hard, we switch to an easier, safer. Option, or we refuse to begin at all. All of those choices are addictive. Because they bring that blissful sense of relief. Phew. I don&#x27;t have to. Face that today. We do that enough times and it becomes a par-urn in. Our lives that keeps us stuck in a comfort zone that feels like treacle. With all its lethargy and lack of energy for anything. If the opposite of resisting failure is accepting it as a part of growth. And learning, how do we do that. It is one thing to communicate. Something intellectually, it is quite another to feel it and truly believe it. In the moment. Saying it is only useful if you can buy into it. Belief is. Everything. So we need to say something that we can buy into. Therefore, it is no use trying to convince ourselves that it is safe to fail. We cannot guarantee how others will react. There will always be critics. Not everyone is going to help you up when you fall. Our only option is. To commit wholeheartedly to doing that for ourselves. Start by. Recognizing that coming back from failure cannot be dependent on. Others. Using support that is available is always a good idea, but we. Cannot always count on someone else being there, so commieing to. Ourselves that we will take responsibility to tend to our wounds with. Everyone and dust ourselves away or a fall is essential if our. Resilience is not to be dependent on others doing that for us. Bouncing back from failure. One. Recognize the sensations in your body and signs in your urges and. Actions that indicate to you how you are feeling. If you find. Yourself using all of your favorite numbing activities. Hours of. TV. Alcohol or social media. The sting of failure drives us to block. So even if you don&#x27;t initially notice the feeling, you can notice the. Blocking behavior. 2. Get unstuck. Remember the story about Jim Carrey removing the. Mask. It had less power over him when it was not right in front of. His face. We can do this with emotion by seeing it as an experience. Washing over us, not as who we are. If you can label the emotion. It enables your mind to take a step back from it. If you can label. The power of your thoughts that will do the same thing. The account of what is going on as told by your mind is not a fact, but a theory opinion story or idea that opinion is tinted with critical voices from your past and present memories of feeling vulnerable or having failed as we get to know the power of those critical voices and where they may have come from. We can even give. That stream of thought and aim. There is Helga giving her to sense. Doing this can be powerful at helping us to get some distance from the self a act and giving us more choice over whether we buy into it as factual or see it as just one very unhelpful option 3. Notice the urges to block the painful feelings and keep reminding yourself that you do not have to act on those urges when we stop fighting emotion but instead allow it to wash over us in all its might it is painful and it is messy but it also washes past if we try to push it down and hold it under it stays there waiting for its chance to be processed the opposite of blocking emotion is to be curious about it move towards it observe and notice the whole experience all while doing step 4 4 soothe your way through and have your own back with the commitment of the best friend you could ever wish for be honest with yourself while also wearing unconditional love and support wow that was tough hold on the best kind of friends know they cannot fix things for us but they stand strong by our side through the whole thing 5. Get learning anyone coaching a professional athlete will analyze each performance they don&#x27;t only look for what went wrong they also look at what is working so when the pain of the setback has been calmed get to work on making that experience useful for you don&#x27;t neglect to notice the things you did well appreciate what worked and what didn&#x27;t be</p>
+          </div>
+        </section>
+        
+
+        <section class="transcript-section" id="sec-024113">
+          <div class="section-header">
+            <span class="section-time">⏱️ 02:41:13 - 02:43:19</span>
+            <span class="section-badge">有聲書逐字學習段落</span>
+          </div>
+          <div class="section-body">
+            <p>your own coach so that you can learn from the experience and move forward 6. Return to what more is failure and setbacks hurt every time but dusting o and ging back out there may still be in line with our values when the pain of failure is still present it can be di cult to even consider trying again instead we want to run and hide coming back to your values and the reason you are doing this thing will help you make a decision based on your best interests and the life you want to have rather than basing that decision purely on the pain that being said I don&#x27;t want to trivialize just how much we can be overwhelmed with emotion a failure so take your time it is important to work through the experience first and try again when you are ready check out the chapter on values for more details see page 284 but in the heat of the moment we don&#x27;t always have time to whip out our worksheets and double check what is in line with our values in that moment simply ask yourself when I look back on this time what choices would I be proud of what actions could I take that I will be grateful I took a year from now how can I learn from this and keep moving forward chapter summary most self-doubt is linked to the relationship we have with failure how other people respond to your failure does not say anything about your own personality or worthiness the sting of failure can drive us to numb or block emotion so even if you don&#x27;t initially notice the feeling you can notice the blocking behaviors be your own coach and turn failure into a learning experience as you keep moving forwards in line with what ma is most to you the emotional response to failure can be overwhelming so take your time</p>
+          </div>
+        </section>
+        
+        </div>
+      </article>
+    </main>
+  </div>
+
+  <!-- Floating Tools -->
+  <div class="floating-tools">
+    <button class="float-btn" id="scroll-top-btn" title="回到頂部">▲</button>
+  </div>
+
+  <script>
+    // --- Preferences & Theme Logic ---
+    const themes = ['light', 'sepia', 'dark'];
+    const themeNames = {'light': '☀️ 明亮', 'sepia': '📜 護眼', 'dark': '🌙 暗黑'};
+    let currentThemeIdx = themes.indexOf(localStorage.getItem('reader-theme') || 'light');
+    if (currentThemeIdx === -1) currentThemeIdx = 0;
+
+    function applyTheme(theme) {
+      document.documentElement.setAttribute('data-theme', theme);
+      localStorage.setItem('reader-theme', theme);
+      const span = document.querySelector('#theme-btn span');
+      if (span) span.textContent = themeNames[theme].split(' ')[1];
+    }
+    applyTheme(themes[currentThemeIdx]);
+
+    document.getElementById('theme-btn').addEventListener('click', () => {
+      currentThemeIdx = (currentThemeIdx + 1) % themes.length;
+      applyTheme(themes[currentThemeIdx]);
+    });
+
+    // --- Font Family Toggle ---
+    let isSerif = localStorage.getItem('reader-serif') === 'true';
+    function applyFontFamily(serif) {
+      document.documentElement.style.setProperty('--font-family', serif ? 'var(--font-serif)' : 'var(--font-body)');
+      localStorage.setItem('reader-serif', serif);
+    }
+    applyFontFamily(isSerif);
+    document.getElementById('font-family-btn').addEventListener('click', () => {
+      isSerif = !isSerif;
+      applyFontFamily(isSerif);
+    });
+
+    // --- Font Size Adjustment ---
+    let currentFontSize = parseInt(localStorage.getItem('reader-font-size') || '18', 10);
+    function applyFontSize(size) {
+      size = Math.max(14, Math.min(26, size));
+      currentFontSize = size;
+      document.documentElement.style.setProperty('--font-size', size + 'px');
+      localStorage.setItem('reader-font-size', size);
+    }
+    applyFontSize(currentFontSize);
+
+    document.getElementById('font-dec-btn').addEventListener('click', () => applyFontSize(currentFontSize - 1));
+    document.getElementById('font-inc-btn').addEventListener('click', () => applyFontSize(currentFontSize + 1));
+
+    // --- Sidebar Drawer & Backdrop ---
+    const sidebar = document.getElementById('sidebar');
+    const backdrop = document.getElementById('backdrop');
+    const toggleSidebarBtn = document.getElementById('toggle-sidebar-btn');
+
+    function toggleSidebar() {
+      const isOpen = sidebar.classList.toggle('open');
+      backdrop.classList.toggle('open', isOpen);
+    }
+
+    toggleSidebarBtn.addEventListener('click', toggleSidebar);
+    backdrop.addEventListener('click', () => {
+      sidebar.classList.remove('open');
+      backdrop.classList.remove('open');
+    });
+
+    // Close sidebar on item click (mobile)
+    document.querySelectorAll('.toc-item a').forEach(link => {
+      link.addEventListener('click', () => {
+        if (window.innerWidth <= 992) {
+          sidebar.classList.remove('open');
+          backdrop.classList.remove('open');
+        }
+      });
+    });
+
+    // --- TOC Search Filter ---
+    const tocFilter = document.getElementById('toc-filter');
+    const tocItems = document.querySelectorAll('.toc-item');
+    tocFilter.addEventListener('input', (e) => {
+      const q = e.target.value.toLowerCase().trim();
+      tocItems.forEach(item => {
+        const text = item.textContent.toLowerCase();
+        item.style.display = text.includes(q) ? '' : 'none';
+      });
+    });
+
+    // --- Reading Progress & Scroll Spy ---
+    const progressBar = document.getElementById('progress-bar');
+    const sections = Array.from(document.querySelectorAll('.transcript-section'));
+    const tocLinkMap = new Map();
+    document.querySelectorAll('.toc-item a').forEach(a => {
+      const href = a.getAttribute('href');
+      if (href && href.startsWith('#')) {
+        tocLinkMap.set(href.slice(1), a.parentElement);
+      }
+    });
+
+    window.addEventListener('scroll', () => {
+      const winScroll = document.documentElement.scrollTop;
+      const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+      const scrolled = height > 0 ? (winScroll / height) * 100 : 0;
+      progressBar.style.width = scrolled + '%';
+
+      // Scroll spy: find current section
+      let currentSectionId = '';
+      for (const sec of sections) {
+        const rect = sec.getBoundingClientRect();
+        if (rect.top <= 120) {
+          currentSectionId = sec.id;
+        } else {
+          break;
+        }
+      }
+
+      if (currentSectionId) {
+        document.querySelectorAll('.toc-item.active').forEach(el => el.classList.remove('active'));
+        const activeItem = tocLinkMap.get(currentSectionId);
+        if (activeItem) {
+          activeItem.classList.add('active');
+        }
+      }
+    }, { passive: true });
+
+    // --- Scroll Top Button ---
+    document.getElementById('scroll-top-btn').addEventListener('click', () => {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  </script>
+</body>
+</html>
