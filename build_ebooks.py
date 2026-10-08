@@ -3,6 +3,7 @@
 """
 Audiobook Markdown to Standalone HTML eBook Reader Generator
 Transforms transcribed markdown study notes into beautiful, responsive, offline-ready HTML eBooks.
+Features intelligent punctuation enhancement, natural paragraph grouping, and customizable typography.
 """
 
 import os
@@ -19,7 +20,7 @@ if sys.platform == "win32":
         pass
 
 HTML_EBOOK_TEMPLATE = """<!DOCTYPE html>
-<html lang="zh-Hant" data-theme="light">
+<html lang="zh-Hant" data-theme="light" data-p-style="indent" data-line-height="normal">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -30,13 +31,13 @@ HTML_EBOOK_TEMPLATE = """<!DOCTYPE html>
       --font-serif: "Iansui", "芫荽", Georgia, "Songti TC", "Noto Serif TC", serif;
       --font-family: var(--font-body);
       --font-size: 18px;
-      --line-height: 1.85;
+      --line-height: 1.88;
       --content-max-width: 820px;
       --sidebar-width: 320px;
       --bg-primary: #fcfcfd;
       --bg-surface: #ffffff;
       --bg-sidebar: #f8f9fa;
-      --bg-header: rgba(255, 255, 255, 0.92);
+      --bg-header: rgba(255, 255, 255, 0.94);
       --text-primary: #1f2328;
       --text-secondary: #57606a;
       --text-muted: #8c959f;
@@ -46,6 +47,7 @@ HTML_EBOOK_TEMPLATE = """<!DOCTYPE html>
       --accent-light: #eff6ff;
       --badge-bg: #e0f2fe;
       --badge-text: #0369a1;
+      --subhead-bg: #f1f5f9;
       --card-shadow: 0 1px 3px rgba(0, 0, 0, 0.05), 0 1px 2px rgba(0, 0, 0, 0.03);
     }}
 
@@ -53,7 +55,7 @@ HTML_EBOOK_TEMPLATE = """<!DOCTYPE html>
       --bg-primary: #fbf0d9;
       --bg-surface: #f4e8cf;
       --bg-sidebar: #efe3c7;
-      --bg-header: rgba(244, 232, 207, 0.94);
+      --bg-header: rgba(244, 232, 207, 0.95);
       --text-primary: #433422;
       --text-secondary: #6e583f;
       --text-muted: #957d60;
@@ -63,6 +65,7 @@ HTML_EBOOK_TEMPLATE = """<!DOCTYPE html>
       --accent-light: #fbeacf;
       --badge-bg: #ead8b8;
       --badge-text: #6b4012;
+      --subhead-bg: #ecdcb9;
       --card-shadow: 0 1px 3px rgba(67, 52, 34, 0.08);
     }}
 
@@ -70,7 +73,7 @@ HTML_EBOOK_TEMPLATE = """<!DOCTYPE html>
       --bg-primary: #0f172a;
       --bg-surface: #1e293b;
       --bg-sidebar: #131c31;
-      --bg-header: rgba(30, 41, 59, 0.92);
+      --bg-header: rgba(30, 41, 59, 0.94);
       --text-primary: #f1f5f9;
       --text-secondary: #94a3b8;
       --text-muted: #64748b;
@@ -80,7 +83,18 @@ HTML_EBOOK_TEMPLATE = """<!DOCTYPE html>
       --accent-light: #1e3a5f;
       --badge-bg: #1e293b;
       --badge-text: #38bdf8;
+      --subhead-bg: #1e293b;
       --card-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+    }}
+
+    [data-line-height="compact"] {{
+      --line-height: 1.68;
+    }}
+    [data-line-height="normal"] {{
+      --line-height: 1.88;
+    }}
+    [data-line-height="loose"] {{
+      --line-height: 2.12;
     }}
 
     * {{
@@ -136,7 +150,8 @@ HTML_EBOOK_TEMPLATE = """<!DOCTYPE html>
     .header-left, .header-right {{
       display: flex;
       align-items: center;
-      gap: 12px;
+      gap: 10px;
+      flex-wrap: nowrap;
     }}
 
     .btn-icon {{
@@ -144,13 +159,15 @@ HTML_EBOOK_TEMPLATE = """<!DOCTYPE html>
       border: 1px solid var(--border-color);
       color: var(--text-primary);
       cursor: pointer;
-      font-size: 15px;
-      padding: 6px 12px;
+      font-size: 14px;
+      padding: 6px 10px;
       border-radius: 8px;
       display: inline-flex;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
       transition: all 0.2s;
+      white-space: nowrap;
+      user-select: none;
     }}
     .btn-icon:hover {{
       background-color: var(--accent-light);
@@ -162,7 +179,7 @@ HTML_EBOOK_TEMPLATE = """<!DOCTYPE html>
       text-decoration: none;
       color: var(--text-primary);
       font-weight: 600;
-      font-size: 15px;
+      font-size: 14px;
       display: flex;
       align-items: center;
       gap: 6px;
@@ -276,10 +293,11 @@ HTML_EBOOK_TEMPLATE = """<!DOCTYPE html>
 
     .book-hero h1 {{
       font-size: 2.1em;
-      line-height: 1.3;
+      line-height: 1.35;
       margin-bottom: 16px;
       color: var(--text-primary);
       font-weight: 800;
+      letter-spacing: -0.01em;
     }}
 
     .book-meta-chips {{
@@ -301,19 +319,19 @@ HTML_EBOOK_TEMPLATE = """<!DOCTYPE html>
       font-weight: 500;
     }}
 
-    /* Content Typography */
+    /* Content Typography & Enhanced Paragraphs */
     .transcript-section {{
-      margin-bottom: 44px;
+      margin-bottom: 50px;
       scroll-margin-top: 80px;
-      padding-top: 10px;
+      padding-top: 12px;
     }}
 
     .section-header {{
       display: flex;
       align-items: center;
       gap: 12px;
-      margin-bottom: 16px;
-      padding: 8px 12px;
+      margin-bottom: 20px;
+      padding: 9px 14px;
       border-radius: 8px;
       background-color: var(--bg-surface);
       border-left: 4px solid var(--accent-color);
@@ -332,15 +350,42 @@ HTML_EBOOK_TEMPLATE = """<!DOCTYPE html>
       color: var(--text-muted);
     }}
 
-    .section-body {{
-      text-align: justify;
-      hyphens: auto;
+    .section-subhead {{
+      font-size: 1.22em;
+      font-weight: 700;
+      margin: 1.8em 0 1em 0;
+      padding: 7px 14px;
+      border-left: 4px solid var(--accent-color);
+      background: var(--subhead-bg);
+      border-radius: 4px;
+      letter-spacing: 0.02em;
+      color: var(--text-primary);
     }}
 
-    .section-body p {{
-      margin-bottom: 1.25em;
-      text-indent: 1.75em;
-      letter-spacing: 0.01em;
+    .section-body {{
+      text-align: justify;
+      text-justify: inter-ideograph;
+      word-break: break-word;
+      hyphens: auto;
+      letter-spacing: 0.015em;
+    }}
+
+    /* Indented paragraph style (Traditional) */
+    [data-p-style="indent"] .section-body p {{
+      text-indent: 2em;
+      margin-bottom: 1.15em;
+      line-height: var(--line-height);
+    }}
+
+    /* Block paragraph style (Modern with whitespace) */
+    [data-p-style="block"] .section-body p {{
+      text-indent: 0;
+      margin-bottom: 1.55em;
+      line-height: var(--line-height);
+    }}
+
+    .section-body p:last-child {{
+      margin-bottom: 0;
     }}
 
     /* Floating Navigation Controls */
@@ -413,13 +458,17 @@ HTML_EBOOK_TEMPLATE = """<!DOCTYPE html>
         padding: 24px 16px 60px 16px;
       }}
       .book-hero h1 {{
-        font-size: 1.6em;
+        font-size: 1.55em;
       }}
       .top-header {{
-        padding: 0 12px;
+        padding: 0 10px;
       }}
-      .section-body p {{
-        text-indent: 1.2em;
+      .btn-icon {{
+        padding: 5px 8px;
+        font-size: 13px;
+      }}
+      [data-p-style="indent"] .section-body p {{
+        text-indent: 1.5em;
       }}
     }}
   </style>
@@ -430,7 +479,7 @@ HTML_EBOOK_TEMPLATE = """<!DOCTYPE html>
   <!-- Top Navigation -->
   <header class="top-header">
     <div class="header-left">
-      <button class="btn-icon" id="toggle-sidebar-btn" title="切換目錄">
+      <button class="btn-icon" id="toggle-sidebar-btn" title="切換章節目錄">
         📑 目錄
       </button>
       <a href="index.html" class="home-link" title="返回書架">
@@ -439,14 +488,24 @@ HTML_EBOOK_TEMPLATE = """<!DOCTYPE html>
     </div>
 
     <div class="header-right">
-      <!-- Theme Switcher -->
-      <button class="btn-icon" id="theme-btn" title="切換閱讀模式 (明亮/羊皮紙/暗黑)">
-        🎨 <span>外觀</span>
+      <!-- Paragraph Style Toggle -->
+      <button class="btn-icon" id="p-style-btn" title="切換段落格式 (縮排 / 間距)">
+        ¶ <span id="p-style-label">縮排</span>
+      </button>
+
+      <!-- Line Height Toggle -->
+      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 精簡)">
+        ↕ <span id="line-height-label">行距</span>
       </button>
 
       <!-- Font Style Switcher -->
-      <button class="btn-icon" id="font-family-btn" title="切換黑體/明體">
+      <button class="btn-icon" id="font-family-btn" title="切換黑體 / 明體">
         🔤
+      </button>
+
+      <!-- Theme Switcher -->
+      <button class="btn-icon" id="theme-btn" title="切換外觀 (明亮 / 護眼 / 暗黑)">
+        🎨 <span id="theme-label">明亮</span>
       </button>
 
       <!-- Font Size Adjuster -->
@@ -503,7 +562,7 @@ HTML_EBOOK_TEMPLATE = """<!DOCTYPE html>
     function applyTheme(theme) {{
       document.documentElement.setAttribute('data-theme', theme);
       localStorage.setItem('reader-theme', theme);
-      const span = document.querySelector('#theme-btn span');
+      const span = document.getElementById('theme-label');
       if (span) span.textContent = themeNames[theme].split(' ')[1];
     }}
     applyTheme(themes[currentThemeIdx]);
@@ -511,6 +570,45 @@ HTML_EBOOK_TEMPLATE = """<!DOCTYPE html>
     document.getElementById('theme-btn').addEventListener('click', () => {{
       currentThemeIdx = (currentThemeIdx + 1) % themes.length;
       applyTheme(themes[currentThemeIdx]);
+    }});
+
+    // --- Paragraph Style Toggle (Indent vs Block) ---
+    const pStyles = ['indent', 'block'];
+    const pStyleNames = {{'indent': '縮排', 'block': '留白'}};
+    let currentPStyle = localStorage.getItem('reader-p-style') || 'indent';
+    if (!pStyles.includes(currentPStyle)) currentPStyle = 'indent';
+
+    function applyPStyle(style) {{
+      document.documentElement.setAttribute('data-p-style', style);
+      localStorage.setItem('reader-p-style', style);
+      const label = document.getElementById('p-style-label');
+      if (label) label.textContent = pStyleNames[style];
+    }}
+    applyPStyle(currentPStyle);
+
+    document.getElementById('p-style-btn').addEventListener('click', () => {{
+      currentPStyle = currentPStyle === 'indent' ? 'block' : 'indent';
+      applyPStyle(currentPStyle);
+    }});
+
+    // --- Line Height Toggle ---
+    const lineHeights = ['normal', 'loose', 'compact'];
+    const lhNames = {{'normal': '舒適', 'loose': '寬鬆', 'compact': '緊湊'}};
+    let currentLH = localStorage.getItem('reader-line-height') || 'normal';
+    if (!lineHeights.includes(currentLH)) currentLH = 'normal';
+
+    function applyLineHeight(lh) {{
+      document.documentElement.setAttribute('data-line-height', lh);
+      localStorage.setItem('reader-line-height', lh);
+      const label = document.getElementById('line-height-label');
+      if (label) label.textContent = lhNames[lh];
+    }}
+    applyLineHeight(currentLH);
+
+    document.getElementById('line-height-btn').addEventListener('click', () => {{
+      const idx = (lineHeights.indexOf(currentLH) + 1) % lineHeights.length;
+      currentLH = lineHeights[idx];
+      applyLineHeight(currentLH);
     }});
 
     // --- Font Family Toggle ---
@@ -554,7 +652,6 @@ HTML_EBOOK_TEMPLATE = """<!DOCTYPE html>
       backdrop.classList.remove('open');
     }});
 
-    // Close sidebar on item click (mobile)
     document.querySelectorAll('.toc-item a').forEach(link => {{
       link.addEventListener('click', () => {{
         if (window.innerWidth <= 992) {{
@@ -592,7 +689,6 @@ HTML_EBOOK_TEMPLATE = """<!DOCTYPE html>
       const scrolled = height > 0 ? (winScroll / height) * 100 : 0;
       progressBar.style.width = scrolled + '%';
 
-      // Scroll spy: find current section
       let currentSectionId = '';
       for (const sec of sections) {{
         const rect = sec.getBoundingClientRect();
@@ -612,7 +708,6 @@ HTML_EBOOK_TEMPLATE = """<!DOCTYPE html>
       }}
     }}, {{ passive: true }});
 
-    // --- Scroll Top Button ---
     document.getElementById('scroll-top-btn').addEventListener('click', () => {{
       window.scrollTo({{ top: 0, behavior: 'smooth' }});
     }});
@@ -822,7 +917,6 @@ INDEX_SHELF_TEMPLATE = """<!DOCTYPE html>
   </div>
 
   <script>
-    // Theme logic
     const themeBtn = document.getElementById('theme-btn');
     let isDark = localStorage.getItem('shelf-theme') === 'dark';
     function applyTheme() {{
@@ -836,7 +930,6 @@ INDEX_SHELF_TEMPLATE = """<!DOCTYPE html>
       applyTheme();
     }});
 
-    // Search filter
     const searchInput = document.getElementById('search-input');
     const cards = document.querySelectorAll('.book-card');
     const noResults = document.getElementById('no-results');
@@ -862,6 +955,139 @@ INDEX_SHELF_TEMPLATE = """<!DOCTYPE html>
 </html>
 """
 
+def enhance_transcript_text(raw_text: str) -> list:
+    """
+    Cleans punctuation, formats dialogue, and splits long continuous speech
+    into comfortable, human-readable paragraphs (3-5 sentences each).
+    """
+    text = raw_text.strip()
+    if not text:
+        return []
+
+    # 1. Normalize spaces before punctuation
+    text = re.sub(r'\s+([,.;:?!])', r'\1', text)
+
+    # 2. Chinese-specific punctuation & typography
+    is_chinese = bool(re.search(r'[\u4e00-\u9fff]', text))
+    if is_chinese:
+        text = re.sub(r'([\u4e00-\u9fff]),', r'\1，', text)
+        text = re.sub(r',([\u4e00-\u9fff])', r'，\1', text)
+        text = re.sub(r'([\u4e00-\u9fff])\.', r'\1。', text)
+        text = re.sub(r'([\u4e00-\u9fff])\?', r'\1？', text)
+        text = re.sub(r'([\u4e00-\u9fff])!', r'\1！', text)
+        text = re.sub(r'([\u4e00-\u9fff]):', r'\1：', text)
+        text = re.sub(r'([\u4e00-\u9fff]);', r'\1；', text)
+        # Remove whitespace between Chinese characters
+        text = re.sub(r'([\u4e00-\u9fff])\s+([\u4e00-\u9fff])', r'\1\2', text)
+        # Dialogue formatting
+        text = re.sub(r'(說|道|問|答|喊)[，：]\s*([「"“]?)([^。！？，\n]+[。！？])', r'\1：「\3」', text)
+        # Pangu spacing
+        text = re.sub(r'([\u4e00-\u9fff])([a-zA-Z0-9])', r'\1 \2', text)
+        text = re.sub(r'([a-zA-Z0-9])([\u4e00-\u9fff])', r'\1 \2', text)
+
+    # 3. Detect transition from all-caps chapter titles to body prose
+    text = re.sub(r'([A-Z]{2,}(?:[\s,:\-–—]+[A-Z]{2,})+)\s+([A-Z][a-z]+|\bI\s+[a-z]+)', r'\1.\n\n\2', text)
+
+    # 4. Spacing after punctuation
+    text = re.sub(r'([.?!])([A-Z])', r'\1 \2', text)
+
+    # 5. Direct speech quotes in English
+    text = re.sub(r'\b(said|asked|told him|told her|replied|yelled|whispered|screamed),\s+([A-Z][^\.\?!]+[\.\?!])', r'\1, “\2”', text)
+
+    # 6. Straight quotes to curly quotes (protect any existing html tags)
+    text = re.sub(r'(?<!<[^>])"([^"\n]+)"', r'“\1”', text)
+
+    # 7. Contractions apostrophes
+    text = re.sub(r"([A-Za-z])'([A-Za-z])", r'\1’\2', text)
+
+    # 8. Ellipses & dashes
+    text = re.sub(r'\.{3,}', '…', text)
+    text = re.sub(r'\s+--\s+|\s+--|--\s+', ' — ', text)
+
+    # 9. Sentence tokenization with protection
+    protected = {}
+    abbrs = [
+        r'Mr\.', r'Mrs\.', r'Ms\.', r'Dr\.', r'Prof\.', r'Sr\.', r'Jr\.',
+        r'vs\.', r'etc\.', r'i\.e\.', r'e\.g\.', r'vol\.', r'no\.',
+        r'J\.\s*C\.', r'B\.\s*F\.', r'U\.\s*S\.', r'U\.\s*K\.', r'a\.m\.', r'p\.m\.'
+    ]
+    for idx, abbr in enumerate(abbrs):
+        pattern = re.compile(abbr, re.IGNORECASE)
+        for m in pattern.finditer(text):
+            tok = f"__ABBR_{idx}_{len(protected)}__"
+            protected[tok] = m.group(0)
+            text = text.replace(m.group(0), tok, 1)
+
+    def num_replace(m):
+        tok = f"__NUM_{len(protected)}__"
+        protected[tok] = m.group(0)
+        return tok
+    text = re.sub(r'\b\d+\.\d+\b', num_replace, text)
+
+    raw_sents = re.split(r'(?<=[.?!…])\s+(?=[A-Z“「])|(?<=[。！？…])(?=[^\s。！？…])', text)
+
+    sentences = []
+    for s in raw_sents:
+        s = s.strip()
+        if not s:
+            continue
+        for tok, orig in protected.items():
+            s = s.replace(tok, orig)
+        sentences.append(s)
+
+    # 10. Group sentences into natural paragraphs
+    paragraphs = []
+    current_p = []
+
+    transitions = (
+        'however', 'meanwhile', 'furthermore', 'in fact', 'on the other hand',
+        'one day', 'years later', 'days later', 'finally', 'suddenly',
+        'for example', 'in contrast', 'in other words', 'now,', 'first,', 'second,',
+        'the premise of this book', 'the lesson here', 'then he waited', 'the truth is',
+        'when i opened my eyes', 'my recovery', 'how i learned', 'how and why',
+        'problem number one', 'problem number two', 'problem number three',
+        'however,', 'therefore,', 'moreover,', 'consequently,',
+        '然而', '但是', '因此', '例如', '有一天', '總之', '事實上', '最後', '第一', '第二'
+    )
+
+    for sent in sentences:
+        is_subhead = False
+        words = [w for w in re.findall(r'[a-zA-Z]+', sent) if len(w) > 1]
+        if words and len(words) >= 2 and all(w.isupper() for w in words):
+            is_subhead = True
+        elif re.match(r'^(?:Chapter|Part|Rule|Introduction)\s+\d+', sent, re.I):
+            is_subhead = True
+
+        if is_subhead:
+            if current_p:
+                paragraphs.append(" ".join(current_p))
+                current_p = []
+            paragraphs.append(f"###SUBHEAD###{sent}")
+            continue
+
+        has_dialogue = '“' in sent or '「' in sent
+        sent_lower = sent.lower()
+        has_transition = any(sent_lower.startswith(t) for t in transitions)
+
+        should_break = False
+        if len(current_p) >= 2 and (has_transition or has_dialogue):
+            should_break = True
+        elif len(current_p) >= 4:
+            should_break = True
+        elif sum(len(s.split()) for s in current_p) >= 85:
+            should_break = True
+
+        if should_break and current_p:
+            paragraphs.append(" ".join(current_p))
+            current_p = []
+
+        current_p.append(sent)
+
+    if current_p:
+        paragraphs.append(" ".join(current_p))
+
+    return paragraphs
+
 def parse_markdown_audiobook(md_path: Path):
     """Parses an audiobook transcript markdown file into structured data."""
     text = md_path.read_text(encoding="utf-8", errors="replace")
@@ -872,7 +1098,7 @@ def parse_markdown_audiobook(md_path: Path):
     toc_links = []
     sections = []
 
-    # 1. Extract Title if first header
+    # 1. Extract Title
     i = 0
     while i < len(lines):
         line = lines[i].strip()
@@ -882,13 +1108,11 @@ def parse_markdown_audiobook(md_path: Path):
             break
         i += 1
 
-    # 2. Extract Metadata blockquote (e.g., > **時長**：`...`)
+    # 2. Extract Metadata blockquote
     while i < len(lines):
         line = lines[i].strip()
         if line.startswith(">"):
-            # Clean markdown formatting inside blockquote
             raw_meta = line.lstrip("> ").strip()
-            # Split by | or find patterns
             parts = [p.strip() for p in raw_meta.split("|")]
             for p in parts:
                 cleaned = re.sub(r'[*`]', '', p)
@@ -908,11 +1132,13 @@ def parse_markdown_audiobook(md_path: Path):
     def commit_section():
         nonlocal current_sec_id, current_sec_time, current_paragraphs
         if current_sec_id or current_paragraphs:
-            body_text = "\n\n".join(current_paragraphs).strip()
+            raw_body = "\n\n".join(current_paragraphs).strip()
+            # Perform punctuation enhancement and paragraph grouping
+            enhanced_paras = enhance_transcript_text(raw_body)
             sections.append({
                 "id": current_sec_id or f"sec-{len(sections):04d}",
                 "time": current_sec_time or "段落內容",
-                "body": body_text
+                "paragraphs": enhanced_paras
             })
             current_paragraphs = []
             current_sec_id = ""
@@ -924,7 +1150,6 @@ def parse_markdown_audiobook(md_path: Path):
         line = lines[i]
         stripped = line.strip()
 
-        # Check TOC section
         if stripped.startswith("## 目錄") or stripped.startswith("## Table of Contents"):
             in_toc_area = True
             i += 1
@@ -943,7 +1168,6 @@ def parse_markdown_audiobook(md_path: Path):
             if stripped.startswith("<a id=") or stripped.startswith("### "):
                 in_toc_area = False
 
-        # Anchor tag check: <a id="sec-000000"></a>
         m_anchor = re.match(r'<a\s+id="([^"]+)"></a>', stripped)
         if m_anchor:
             commit_section()
@@ -951,25 +1175,21 @@ def parse_markdown_audiobook(md_path: Path):
             i += 1
             continue
 
-        # Header check: ### ⏱️ [00:00:00 - 00:05:01]
         m_head = re.match(r'^###\s*(?:⏱️)?\s*\[?([0-9: \-]+)\]?', stripped)
         if m_head:
             if not current_sec_id:
                 commit_section()
             current_sec_time = m_head.group(1).strip()
             if not current_sec_id:
-                # generate id from time
                 clean_digits = re.sub(r'[^0-9]', '', current_sec_time)[:6]
                 current_sec_id = f"sec-{clean_digits}" if clean_digits else f"sec-{len(sections):04d}"
             i += 1
             continue
 
-        # Skip separator or main section divider
         if stripped == "---" or stripped.startswith("## 逐字稿與筆記") or stripped.startswith("## "):
             i += 1
             continue
 
-        # Regular paragraph text
         if stripped:
             current_paragraphs.append(stripped)
 
@@ -983,6 +1203,33 @@ def parse_markdown_audiobook(md_path: Path):
         "toc_links": toc_links,
         "sections": sections
     }
+
+def update_markdown_source(md_path: Path, parsed: dict):
+    """Updates original markdown file with cleanly formatted paragraphs and subheads."""
+    lines = []
+    lines.append(f"# {parsed['title']}\n")
+    if parsed["meta_chips"]:
+        meta_str = " | ".join([f"**{m}**" for m in parsed["meta_chips"]])
+        lines.append(f"> {meta_str}\n")
+
+    lines.append("## 目錄 (Table of Contents)\n")
+    for sec in parsed["sections"]:
+        lines.append(f"- [{sec['time']}](#{sec['id']})")
+    lines.append("\n---\n")
+
+    lines.append("## 逐字稿與筆記\n")
+    for sec in parsed["sections"]:
+        lines.append(f'<a id="{sec["id"]}"></a>')
+        lines.append(f'### ⏱️ [{sec["time"]}]\n')
+        for p in sec["paragraphs"]:
+            if p.startswith("###SUBHEAD###"):
+                sub_title = p[len("###SUBHEAD###"):].strip()
+                lines.append(f"#### {sub_title}\n")
+            else:
+                lines.append(f"{p}\n")
+        lines.append("")
+
+    md_path.write_text("\n".join(lines), encoding="utf-8")
 
 def render_book_html(book_data: dict) -> str:
     """Renders structured book data into complete self-contained HTML."""
@@ -1013,8 +1260,17 @@ def render_book_html(book_data: dict) -> str:
     for sec in sections:
         sec_id = html.escape(sec["id"])
         sec_time = html.escape(sec["time"])
-        paragraphs = sec["body"].split("\n\n")
-        p_html = "".join([f"<p>{html.escape(p)}</p>" for p in paragraphs if p.strip()])
+
+        body_elements = []
+        for p in sec["paragraphs"]:
+            if p.startswith("###SUBHEAD###"):
+                sub_title = html.escape(p[len("###SUBHEAD###"):].strip())
+                body_elements.append(f'<h4 class="section-subhead">{sub_title}</h4>')
+            else:
+                p_text = html.escape(p)
+                body_elements.append(f'<p class="prose-p">{p_text}</p>')
+
+        p_html = "\n".join(body_elements)
 
         sec_block = f"""
         <section class="transcript-section" id="{sec_id}">
@@ -1052,7 +1308,7 @@ def main():
         return
 
     md_files = sorted(list(input_dir.glob("*.md")))
-    print(f"📚 找到 {len(md_files)} 個 Markdown 檔案，開始轉換為獨立 HTML 電子書至 docs/...")
+    print(f"📚 找到 {len(md_files)} 個 Markdown 檔案，開始增強標點符號、段落切分並輸出 HTML 電子書至 docs/...")
 
     books_catalog = []
     total_sections_count = 0
@@ -1060,11 +1316,14 @@ def main():
     for idx, md_path in enumerate(md_files, 1):
         try:
             parsed = parse_markdown_audiobook(md_path)
+
+            # Update markdown file itself with enhanced paragraphs
+            update_markdown_source(md_path, parsed)
+
+            # Render HTML eBook
             book_html = render_book_html(parsed)
 
-            # Generate safe html filename
             safe_filename = md_path.stem.strip()
-            # replace illegal filename chars
             for char in r'<>:"/\|?*':
                 safe_filename = safe_filename.replace(char, "_")
             out_html_path = output_dir / f"{safe_filename}.html"
@@ -1080,9 +1339,9 @@ def main():
                 "meta": parsed["meta_chips"]
             })
 
-            print(f"[{idx:02d}/{len(md_files):02d}] ✅ 成功渲染: {out_html_path.name} ({sec_cnt} 小節)")
+            print(f"[{idx:02d}/{len(md_files):02d}] ✅ 完成段落增強與渲染: {out_html_path.name} ({sec_cnt} 小節)")
         except Exception as e:
-            print(f"[{idx:02d}/{len(md_files):02d}] ❌ 渲染失敗 {md_path.name}: {e}")
+            print(f"[{idx:02d}/{len(md_files):02d}] ❌ 處理失敗 {md_path.name}: {e}")
 
     # Generate Bookshelf index.html
     cards = []
@@ -1107,7 +1366,7 @@ def main():
 
     index_path = output_dir / "index.html"
     index_path.write_text(shelf_html, encoding="utf-8")
-    print(f"\n🎉 全數完成！已生成數位書架首頁: {index_path}")
+    print(f"\n🎉 全數完成！已更新 Markdown 檔案、HTML 電子書與數位書架首頁: {index_path}")
 
 if __name__ == "__main__":
     main()

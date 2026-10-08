@@ -945,7 +945,6 @@
   </div>
 
   <script>
-    // Theme logic
     const themeBtn = document.getElementById('theme-btn');
     let isDark = localStorage.getItem('shelf-theme') === 'dark';
     function applyTheme() {
@@ -959,7 +958,6 @@
       applyTheme();
     });
 
-    // Search filter
     const searchInput = document.getElementById('search-input');
     const cards = document.querySelectorAll('.book-card');
     const noResults = document.getElementById('no-results');

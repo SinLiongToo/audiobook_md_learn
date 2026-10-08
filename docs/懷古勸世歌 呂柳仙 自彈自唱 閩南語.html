@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="zh-Hant" data-theme="light">
+<html lang="zh-Hant" data-theme="light" data-p-style="indent" data-line-height="normal">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,13 +10,13 @@
       --font-serif: "Iansui", "芫荽", Georgia, "Songti TC", "Noto Serif TC", serif;
       --font-family: var(--font-body);
       --font-size: 18px;
-      --line-height: 1.85;
+      --line-height: 1.88;
       --content-max-width: 820px;
       --sidebar-width: 320px;
       --bg-primary: #fcfcfd;
       --bg-surface: #ffffff;
       --bg-sidebar: #f8f9fa;
-      --bg-header: rgba(255, 255, 255, 0.92);
+      --bg-header: rgba(255, 255, 255, 0.94);
       --text-primary: #1f2328;
       --text-secondary: #57606a;
       --text-muted: #8c959f;
@@ -26,6 +26,7 @@
       --accent-light: #eff6ff;
       --badge-bg: #e0f2fe;
       --badge-text: #0369a1;
+      --subhead-bg: #f1f5f9;
       --card-shadow: 0 1px 3px rgba(0, 0, 0, 0.05), 0 1px 2px rgba(0, 0, 0, 0.03);
     }
 
@@ -33,7 +34,7 @@
       --bg-primary: #fbf0d9;
       --bg-surface: #f4e8cf;
       --bg-sidebar: #efe3c7;
-      --bg-header: rgba(244, 232, 207, 0.94);
+      --bg-header: rgba(244, 232, 207, 0.95);
       --text-primary: #433422;
       --text-secondary: #6e583f;
       --text-muted: #957d60;
@@ -43,6 +44,7 @@
       --accent-light: #fbeacf;
       --badge-bg: #ead8b8;
       --badge-text: #6b4012;
+      --subhead-bg: #ecdcb9;
       --card-shadow: 0 1px 3px rgba(67, 52, 34, 0.08);
     }
 
@@ -50,7 +52,7 @@
       --bg-primary: #0f172a;
       --bg-surface: #1e293b;
       --bg-sidebar: #131c31;
-      --bg-header: rgba(30, 41, 59, 0.92);
+      --bg-header: rgba(30, 41, 59, 0.94);
       --text-primary: #f1f5f9;
       --text-secondary: #94a3b8;
       --text-muted: #64748b;
@@ -60,7 +62,18 @@
       --accent-light: #1e3a5f;
       --badge-bg: #1e293b;
       --badge-text: #38bdf8;
+      --subhead-bg: #1e293b;
       --card-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+    }
+
+    [data-line-height="compact"] {
+      --line-height: 1.68;
+    }
+    [data-line-height="normal"] {
+      --line-height: 1.88;
+    }
+    [data-line-height="loose"] {
+      --line-height: 2.12;
     }
 
     * {
@@ -116,7 +129,8 @@
     .header-left, .header-right {
       display: flex;
       align-items: center;
-      gap: 12px;
+      gap: 10px;
+      flex-wrap: nowrap;
     }
 
     .btn-icon {
@@ -124,13 +138,15 @@
       border: 1px solid var(--border-color);
       color: var(--text-primary);
       cursor: pointer;
-      font-size: 15px;
-      padding: 6px 12px;
+      font-size: 14px;
+      padding: 6px 10px;
       border-radius: 8px;
       display: inline-flex;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
       transition: all 0.2s;
+      white-space: nowrap;
+      user-select: none;
     }
     .btn-icon:hover {
       background-color: var(--accent-light);
@@ -142,7 +158,7 @@
       text-decoration: none;
       color: var(--text-primary);
       font-weight: 600;
-      font-size: 15px;
+      font-size: 14px;
       display: flex;
       align-items: center;
       gap: 6px;
@@ -256,10 +272,11 @@
 
     .book-hero h1 {
       font-size: 2.1em;
-      line-height: 1.3;
+      line-height: 1.35;
       margin-bottom: 16px;
       color: var(--text-primary);
       font-weight: 800;
+      letter-spacing: -0.01em;
     }
 
     .book-meta-chips {
@@ -281,19 +298,19 @@
       font-weight: 500;
     }
 
-    /* Content Typography */
+    /* Content Typography & Enhanced Paragraphs */
     .transcript-section {
-      margin-bottom: 44px;
+      margin-bottom: 50px;
       scroll-margin-top: 80px;
-      padding-top: 10px;
+      padding-top: 12px;
     }
 
     .section-header {
       display: flex;
       align-items: center;
       gap: 12px;
-      margin-bottom: 16px;
-      padding: 8px 12px;
+      margin-bottom: 20px;
+      padding: 9px 14px;
       border-radius: 8px;
       background-color: var(--bg-surface);
       border-left: 4px solid var(--accent-color);
@@ -312,15 +329,42 @@
       color: var(--text-muted);
     }
 
-    .section-body {
-      text-align: justify;
-      hyphens: auto;
+    .section-subhead {
+      font-size: 1.22em;
+      font-weight: 700;
+      margin: 1.8em 0 1em 0;
+      padding: 7px 14px;
+      border-left: 4px solid var(--accent-color);
+      background: var(--subhead-bg);
+      border-radius: 4px;
+      letter-spacing: 0.02em;
+      color: var(--text-primary);
     }
 
-    .section-body p {
-      margin-bottom: 1.25em;
-      text-indent: 1.75em;
-      letter-spacing: 0.01em;
+    .section-body {
+      text-align: justify;
+      text-justify: inter-ideograph;
+      word-break: break-word;
+      hyphens: auto;
+      letter-spacing: 0.015em;
+    }
+
+    /* Indented paragraph style (Traditional) */
+    [data-p-style="indent"] .section-body p {
+      text-indent: 2em;
+      margin-bottom: 1.15em;
+      line-height: var(--line-height);
+    }
+
+    /* Block paragraph style (Modern with whitespace) */
+    [data-p-style="block"] .section-body p {
+      text-indent: 0;
+      margin-bottom: 1.55em;
+      line-height: var(--line-height);
+    }
+
+    .section-body p:last-child {
+      margin-bottom: 0;
     }
 
     /* Floating Navigation Controls */
@@ -393,13 +437,17 @@
         padding: 24px 16px 60px 16px;
       }
       .book-hero h1 {
-        font-size: 1.6em;
+        font-size: 1.55em;
       }
       .top-header {
-        padding: 0 12px;
+        padding: 0 10px;
       }
-      .section-body p {
-        text-indent: 1.2em;
+      .btn-icon {
+        padding: 5px 8px;
+        font-size: 13px;
+      }
+      [data-p-style="indent"] .section-body p {
+        text-indent: 1.5em;
       }
     }
   </style>
@@ -410,7 +458,7 @@
   <!-- Top Navigation -->
   <header class="top-header">
     <div class="header-left">
-      <button class="btn-icon" id="toggle-sidebar-btn" title="切換目錄">
+      <button class="btn-icon" id="toggle-sidebar-btn" title="切換章節目錄">
         📑 目錄
       </button>
       <a href="index.html" class="home-link" title="返回書架">
@@ -419,14 +467,24 @@
     </div>
 
     <div class="header-right">
-      <!-- Theme Switcher -->
-      <button class="btn-icon" id="theme-btn" title="切換閱讀模式 (明亮/羊皮紙/暗黑)">
-        🎨 <span>外觀</span>
+      <!-- Paragraph Style Toggle -->
+      <button class="btn-icon" id="p-style-btn" title="切換段落格式 (縮排 / 間距)">
+        ¶ <span id="p-style-label">縮排</span>
+      </button>
+
+      <!-- Line Height Toggle -->
+      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 精簡)">
+        ↕ <span id="line-height-label">行距</span>
       </button>
 
       <!-- Font Style Switcher -->
-      <button class="btn-icon" id="font-family-btn" title="切換黑體/明體">
+      <button class="btn-icon" id="font-family-btn" title="切換黑體 / 明體">
         🔤
+      </button>
+
+      <!-- Theme Switcher -->
+      <button class="btn-icon" id="theme-btn" title="切換外觀 (明亮 / 護眼 / 暗黑)">
+        🎨 <span id="theme-label">明亮</span>
       </button>
 
       <!-- Font Size Adjuster -->
@@ -472,7 +530,7 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p>K-Swan, Chikwan, U-Tika, Han-Swan, A-Kwan, Med-Au-Tire-Mia-Sia, Hong-Ri-Wu-Tuan, Se-Kan-Nang,</p>
+            <p class="prose-p">K-Swan, Chikwan, U-Tika, Han-Swan, A-Kwan, Med-Au-Tire-Mia-Sia, Hong-Ri-Wu-Tuan, Se-Kan-Nang,</p>
           </div>
         </section>
         
@@ -483,7 +541,7 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p>U-E-K-Pin, Kat-Yung-Hung, Bo-Ji-Tik-Di, Lang-Shan-Sew, Dim-Shion-Kyeong-Wad-Nan-Nung, Se-Tung-Stang-Tua, Se-Kan-Noo-Ri, Tai-Lo-Ki-Bo-Nan-Din, Hu-Tai-Chim-San-I-Wang-Chin, Hang-A-Bo, Te-A-Kia-Tere-Tee-Yau-Pin, Makaboo-Tee, Bap-Pee-Lang-Kwa-Kino, Chen-Chen-Di-Liu-Lai-Ka-Lung, E-Kia-U-Tino, E-Kim-Hul, Te-Se-Tere-Tik-Pap-Poon, Bap-Pang-Sew-Tue-Hok-Kia-Sew-Nee, Tai-Kena-U-In-Tia-Wag-Kang, K-Hok-Kwan-Shen-Pia-Sar-Pang, He-Bo-Hoon-Ting-See-Ting-Tang, Hila-See-Lang-Dang-See-Lang, He-Bo-See-Kia-See-Tran-See, K-Pua-See-Ting-Woo-Poo-Yee, He-Kia-Nang-Kong-Woo-Yoo-Yoo-Yoo, Seok-e-Sie-Pietwa-Lang, Hila-Sew-Tang-Ting-Woo-Yah-Tia-Tew-Sew-Ting-Tang, E-Kia-U-Tik-Pap-Poo-Yoo-Yoo-Yoo-Yang, K-Hok-Kwan-Sew-Tik-Poo-Yoo-Yoo-Ting-Toe, K-Hanyong-Kend-Dee-Yoon-Tang-Kong,</p>
+            <p class="prose-p">U-E-K-Pin, Kat-Yung-Hung, Bo-Ji-Tik-Di, Lang-Shan-Sew, Dim-Shion-Kyeong-Wad-Nan-Nung, Se-Tung-Stang-Tua, Se-Kan-Noo-Ri, Tai-Lo-Ki-Bo-Nan-Din, Hu-Tai-Chim-San-I-Wang-Chin, Hang-A-Bo, Te-A-Kia-Tere-Tee-Yau-Pin, Makaboo-Tee, Bap-Pee-Lang-Kwa-Kino, Chen-Chen-Di-Liu-Lai-Ka-Lung, E-Kia-U-Tino, E-Kim-Hul, Te-Se-Tere-Tik-Pap-Poon, Bap-Pang-Sew-Tue-Hok-Kia-Sew-Nee, Tai-Kena-U-In-Tia-Wag-Kang, K-Hok-Kwan-Shen-Pia-Sar-Pang, He-Bo-Hoon-Ting-See-Ting-Tang, Hila-See-Lang-Dang-See-Lang, He-Bo-See-Kia-See-Tran-See, K-Pua-See-Ting-Woo-Poo-Yee, He-Kia-Nang-Kong-Woo-Yoo-Yoo-Yoo, Seok-e-Sie-Pietwa-Lang, Hila-Sew-Tang-Ting-Woo-Yah-Tia-Tew-Sew-Ting-Tang, E-Kia-U-Tik-Pap-Poo-Yoo-Yoo-Yoo-Yang, K-Hok-Kwan-Sew-Tik-Poo-Yoo-Yoo-Ting-Toe, K-Hanyong-Kend-Dee-Yoon-Tang-Kong,</p>
           </div>
         </section>
         
@@ -507,7 +565,7 @@
     function applyTheme(theme) {
       document.documentElement.setAttribute('data-theme', theme);
       localStorage.setItem('reader-theme', theme);
-      const span = document.querySelector('#theme-btn span');
+      const span = document.getElementById('theme-label');
       if (span) span.textContent = themeNames[theme].split(' ')[1];
     }
     applyTheme(themes[currentThemeIdx]);
@@ -515,6 +573,45 @@
     document.getElementById('theme-btn').addEventListener('click', () => {
       currentThemeIdx = (currentThemeIdx + 1) % themes.length;
       applyTheme(themes[currentThemeIdx]);
+    });
+
+    // --- Paragraph Style Toggle (Indent vs Block) ---
+    const pStyles = ['indent', 'block'];
+    const pStyleNames = {'indent': '縮排', 'block': '留白'};
+    let currentPStyle = localStorage.getItem('reader-p-style') || 'indent';
+    if (!pStyles.includes(currentPStyle)) currentPStyle = 'indent';
+
+    function applyPStyle(style) {
+      document.documentElement.setAttribute('data-p-style', style);
+      localStorage.setItem('reader-p-style', style);
+      const label = document.getElementById('p-style-label');
+      if (label) label.textContent = pStyleNames[style];
+    }
+    applyPStyle(currentPStyle);
+
+    document.getElementById('p-style-btn').addEventListener('click', () => {
+      currentPStyle = currentPStyle === 'indent' ? 'block' : 'indent';
+      applyPStyle(currentPStyle);
+    });
+
+    // --- Line Height Toggle ---
+    const lineHeights = ['normal', 'loose', 'compact'];
+    const lhNames = {'normal': '舒適', 'loose': '寬鬆', 'compact': '緊湊'};
+    let currentLH = localStorage.getItem('reader-line-height') || 'normal';
+    if (!lineHeights.includes(currentLH)) currentLH = 'normal';
+
+    function applyLineHeight(lh) {
+      document.documentElement.setAttribute('data-line-height', lh);
+      localStorage.setItem('reader-line-height', lh);
+      const label = document.getElementById('line-height-label');
+      if (label) label.textContent = lhNames[lh];
+    }
+    applyLineHeight(currentLH);
+
+    document.getElementById('line-height-btn').addEventListener('click', () => {
+      const idx = (lineHeights.indexOf(currentLH) + 1) % lineHeights.length;
+      currentLH = lineHeights[idx];
+      applyLineHeight(currentLH);
     });
 
     // --- Font Family Toggle ---
@@ -558,7 +655,6 @@
       backdrop.classList.remove('open');
     });
 
-    // Close sidebar on item click (mobile)
     document.querySelectorAll('.toc-item a').forEach(link => {
       link.addEventListener('click', () => {
         if (window.innerWidth <= 992) {
@@ -596,7 +692,6 @@
       const scrolled = height > 0 ? (winScroll / height) * 100 : 0;
       progressBar.style.width = scrolled + '%';
 
-      // Scroll spy: find current section
       let currentSectionId = '';
       for (const sec of sections) {
         const rect = sec.getBoundingClientRect();
@@ -616,7 +711,6 @@
       }
     }, { passive: true });
 
-    // --- Scroll Top Button ---
     document.getElementById('scroll-top-btn').addEventListener('click', () => {
       window.scrollTo({ top: 0, behavior: 'smooth' });
     });

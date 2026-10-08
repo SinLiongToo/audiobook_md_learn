@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="zh-Hant" data-theme="light">
+<html lang="zh-Hant" data-theme="light" data-p-style="indent" data-line-height="normal">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,13 +10,13 @@
       --font-serif: "Iansui", "芫荽", Georgia, "Songti TC", "Noto Serif TC", serif;
       --font-family: var(--font-body);
       --font-size: 18px;
-      --line-height: 1.85;
+      --line-height: 1.88;
       --content-max-width: 820px;
       --sidebar-width: 320px;
       --bg-primary: #fcfcfd;
       --bg-surface: #ffffff;
       --bg-sidebar: #f8f9fa;
-      --bg-header: rgba(255, 255, 255, 0.92);
+      --bg-header: rgba(255, 255, 255, 0.94);
       --text-primary: #1f2328;
       --text-secondary: #57606a;
       --text-muted: #8c959f;
@@ -26,6 +26,7 @@
       --accent-light: #eff6ff;
       --badge-bg: #e0f2fe;
       --badge-text: #0369a1;
+      --subhead-bg: #f1f5f9;
       --card-shadow: 0 1px 3px rgba(0, 0, 0, 0.05), 0 1px 2px rgba(0, 0, 0, 0.03);
     }
 
@@ -33,7 +34,7 @@
       --bg-primary: #fbf0d9;
       --bg-surface: #f4e8cf;
       --bg-sidebar: #efe3c7;
-      --bg-header: rgba(244, 232, 207, 0.94);
+      --bg-header: rgba(244, 232, 207, 0.95);
       --text-primary: #433422;
       --text-secondary: #6e583f;
       --text-muted: #957d60;
@@ -43,6 +44,7 @@
       --accent-light: #fbeacf;
       --badge-bg: #ead8b8;
       --badge-text: #6b4012;
+      --subhead-bg: #ecdcb9;
       --card-shadow: 0 1px 3px rgba(67, 52, 34, 0.08);
     }
 
@@ -50,7 +52,7 @@
       --bg-primary: #0f172a;
       --bg-surface: #1e293b;
       --bg-sidebar: #131c31;
-      --bg-header: rgba(30, 41, 59, 0.92);
+      --bg-header: rgba(30, 41, 59, 0.94);
       --text-primary: #f1f5f9;
       --text-secondary: #94a3b8;
       --text-muted: #64748b;
@@ -60,7 +62,18 @@
       --accent-light: #1e3a5f;
       --badge-bg: #1e293b;
       --badge-text: #38bdf8;
+      --subhead-bg: #1e293b;
       --card-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+    }
+
+    [data-line-height="compact"] {
+      --line-height: 1.68;
+    }
+    [data-line-height="normal"] {
+      --line-height: 1.88;
+    }
+    [data-line-height="loose"] {
+      --line-height: 2.12;
     }
 
     * {
@@ -116,7 +129,8 @@
     .header-left, .header-right {
       display: flex;
       align-items: center;
-      gap: 12px;
+      gap: 10px;
+      flex-wrap: nowrap;
     }
 
     .btn-icon {
@@ -124,13 +138,15 @@
       border: 1px solid var(--border-color);
       color: var(--text-primary);
       cursor: pointer;
-      font-size: 15px;
-      padding: 6px 12px;
+      font-size: 14px;
+      padding: 6px 10px;
       border-radius: 8px;
       display: inline-flex;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
       transition: all 0.2s;
+      white-space: nowrap;
+      user-select: none;
     }
     .btn-icon:hover {
       background-color: var(--accent-light);
@@ -142,7 +158,7 @@
       text-decoration: none;
       color: var(--text-primary);
       font-weight: 600;
-      font-size: 15px;
+      font-size: 14px;
       display: flex;
       align-items: center;
       gap: 6px;
@@ -256,10 +272,11 @@
 
     .book-hero h1 {
       font-size: 2.1em;
-      line-height: 1.3;
+      line-height: 1.35;
       margin-bottom: 16px;
       color: var(--text-primary);
       font-weight: 800;
+      letter-spacing: -0.01em;
     }
 
     .book-meta-chips {
@@ -281,19 +298,19 @@
       font-weight: 500;
     }
 
-    /* Content Typography */
+    /* Content Typography & Enhanced Paragraphs */
     .transcript-section {
-      margin-bottom: 44px;
+      margin-bottom: 50px;
       scroll-margin-top: 80px;
-      padding-top: 10px;
+      padding-top: 12px;
     }
 
     .section-header {
       display: flex;
       align-items: center;
       gap: 12px;
-      margin-bottom: 16px;
-      padding: 8px 12px;
+      margin-bottom: 20px;
+      padding: 9px 14px;
       border-radius: 8px;
       background-color: var(--bg-surface);
       border-left: 4px solid var(--accent-color);
@@ -312,15 +329,42 @@
       color: var(--text-muted);
     }
 
-    .section-body {
-      text-align: justify;
-      hyphens: auto;
+    .section-subhead {
+      font-size: 1.22em;
+      font-weight: 700;
+      margin: 1.8em 0 1em 0;
+      padding: 7px 14px;
+      border-left: 4px solid var(--accent-color);
+      background: var(--subhead-bg);
+      border-radius: 4px;
+      letter-spacing: 0.02em;
+      color: var(--text-primary);
     }
 
-    .section-body p {
-      margin-bottom: 1.25em;
-      text-indent: 1.75em;
-      letter-spacing: 0.01em;
+    .section-body {
+      text-align: justify;
+      text-justify: inter-ideograph;
+      word-break: break-word;
+      hyphens: auto;
+      letter-spacing: 0.015em;
+    }
+
+    /* Indented paragraph style (Traditional) */
+    [data-p-style="indent"] .section-body p {
+      text-indent: 2em;
+      margin-bottom: 1.15em;
+      line-height: var(--line-height);
+    }
+
+    /* Block paragraph style (Modern with whitespace) */
+    [data-p-style="block"] .section-body p {
+      text-indent: 0;
+      margin-bottom: 1.55em;
+      line-height: var(--line-height);
+    }
+
+    .section-body p:last-child {
+      margin-bottom: 0;
     }
 
     /* Floating Navigation Controls */
@@ -393,13 +437,17 @@
         padding: 24px 16px 60px 16px;
       }
       .book-hero h1 {
-        font-size: 1.6em;
+        font-size: 1.55em;
       }
       .top-header {
-        padding: 0 12px;
+        padding: 0 10px;
       }
-      .section-body p {
-        text-indent: 1.2em;
+      .btn-icon {
+        padding: 5px 8px;
+        font-size: 13px;
+      }
+      [data-p-style="indent"] .section-body p {
+        text-indent: 1.5em;
       }
     }
   </style>
@@ -410,7 +458,7 @@
   <!-- Top Navigation -->
   <header class="top-header">
     <div class="header-left">
-      <button class="btn-icon" id="toggle-sidebar-btn" title="切換目錄">
+      <button class="btn-icon" id="toggle-sidebar-btn" title="切換章節目錄">
         📑 目錄
       </button>
       <a href="index.html" class="home-link" title="返回書架">
@@ -419,14 +467,24 @@
     </div>
 
     <div class="header-right">
-      <!-- Theme Switcher -->
-      <button class="btn-icon" id="theme-btn" title="切換閱讀模式 (明亮/羊皮紙/暗黑)">
-        🎨 <span>外觀</span>
+      <!-- Paragraph Style Toggle -->
+      <button class="btn-icon" id="p-style-btn" title="切換段落格式 (縮排 / 間距)">
+        ¶ <span id="p-style-label">縮排</span>
+      </button>
+
+      <!-- Line Height Toggle -->
+      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 精簡)">
+        ↕ <span id="line-height-label">行距</span>
       </button>
 
       <!-- Font Style Switcher -->
-      <button class="btn-icon" id="font-family-btn" title="切換黑體/明體">
+      <button class="btn-icon" id="font-family-btn" title="切換黑體 / 明體">
         🔤
+      </button>
+
+      <!-- Theme Switcher -->
+      <button class="btn-icon" id="theme-btn" title="切換外觀 (明亮 / 護眼 / 暗黑)">
+        🎨 <span id="theme-label">明亮</span>
       </button>
 
       <!-- Font Size Adjuster -->
@@ -475,7 +533,21 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p>The average human lifespan is abysmally brief. Living to be eighty years old gives you around four thousand weeks. It&#x27;s no secret that time is one of our most precious resources. Today, many of us are haunted by the feeling that we should be more productive, more efficient, or devoting our time to something else entirely. The truth is that our obsession with productivity is taking a toll. Instead of reaching a perfect state of efficiency, life hacks and time management techniques leave us feeling stressed and empty. In this summary, you&#x27;ll discover ideas about time and time management that encourage you to let go of traditional approaches and embrace the joy of finitude. Chapter 1 You&#x27;ll Never Be Able to Master Your Time For most of human history, people have wanted to be rich so that they wouldn&#x27;t have to work as hard. But in recent years, being busy has become a lauded life choice known as hustle. Research shows that the wealthier you are, the more likely you are to be anxious about not having enough time to get everything done. And our capitalist economy is to blame. Capitalism drives us to leverage our time, abilities, and resources in order to reap the greatest profit. In the process, many wealthy people achieve success at the cost of living a meaningful life. Meanwhile, the gig economy has forced those less fortunate to work multiple jobs with little financial security. Of course, being too busy isn&#x27;t everybody&#x27;s problem. But for those of us who are obsessed with filling every waking moment with productivity, it&#x27;s time we took a deeper look at this desire. The key message here is, you&#x27;ll never be able to master your time. As a self-proclaimed productivity nut, the author spent years attempting to optimize his time management skills. He bought expensive notepads, experimented with techniques like scheduling his day in 15-minute blocks, and sorted his life into A, B, and C priorities. These methods made him feel like he was always on the brink of mastering his productivity. But the day on which he finally conquered his time never arrived. Instead, he was left feeling more anxious than ever. One day he had an epiphany, his efforts to optimize his time were futile. While he thought of himself as a productive person, the painful truth was that the tasks he fulfilled most effectively were insignificant. Sure, he could dutifully clear his inbox. But responding to emails only led to more emails. Meanwhile, things which were important to him, like researching an article he planned to write, were left undone. The author&#x27;s experiences taught him an important lesson. The more you try to conquer your time, the more frustrated, stressed, and empty you feel. He calls this the paradox of limitation. But in reality, you&#x27;ll never be able to accomplish everything you&#x27;d like to. And by facing this fact, you can begin to focus on what matters. In the author&#x27;s case, giving up the desire to master time and surrendering to the unknown changed his life. He even committed to a long-term relationship and started a family. Chapter two, our ways of thinking about time, are inherently modern. If you were a peasant in early medieval England, your problems might have included rampant disease, making payments to the church, or performing backbreaking labor for the Lord who owned the land you lived on. But one problem you wouldn&#x27;t have faced was struggling with your time. As a farmer, you&#x27;d have risen with the sun and gone to sleep at dusk. Tasks like milking the cows and harvesting crops would have been done as needed. As for timing things? You might have said that a task took as long as a misery while or the time it takes to recite Psalm 50 from the Bible. And since farm work was indefinite, there was no need to rush to complete a task. The thought of attaining the perfect work-life balance would have been irrelevant in medieval England. As it turns out, our obsession with time management is a modern development. Here&#x27;s the key message, our ways of thinking about time are inherently modern. Part of the reason that pre-modern people weren&#x27;t worried about having too little time is that they didn&#x27;t think of their lifetimes as limited. Instead, people considered their time on earth as an inconsequential prelude to eternity. So there was no need to worry about what you didn&#x27;t achieve in this lifetime. Pre-modern people also tended to think of world history as stagnant. In some cultures, people believed that history cycled through several predictable stages. This changed drastically with the emergence of secular modernism.</p>
+            <p class="prose-p">The average human lifespan is abysmally brief. Living to be eighty years old gives you around four thousand weeks. It’s no secret that time is one of our most precious resources. Today, many of us are haunted by the feeling that we should be more productive, more efficient, or devoting our time to something else entirely.</p>
+<p class="prose-p">The truth is that our obsession with productivity is taking a toll. Instead of reaching a perfect state of efficiency, life hacks and time management techniques leave us feeling stressed and empty. In this summary, you’ll discover ideas about time and time management that encourage you to let go of traditional approaches and embrace the joy of finitude.</p>
+<h4 class="section-subhead">Chapter 1 You’ll Never Be Able to Master Your Time For most of human history, people have wanted to be rich so that they wouldn’t have to work as hard.</h4>
+<p class="prose-p">But in recent years, being busy has become a lauded life choice known as hustle. Research shows that the wealthier you are, the more likely you are to be anxious about not having enough time to get everything done. And our capitalist economy is to blame. Capitalism drives us to leverage our time, abilities, and resources in order to reap the greatest profit.</p>
+<p class="prose-p">In the process, many wealthy people achieve success at the cost of living a meaningful life. Meanwhile, the gig economy has forced those less fortunate to work multiple jobs with little financial security. Of course, being too busy isn’t everybody’s problem. But for those of us who are obsessed with filling every waking moment with productivity, it’s time we took a deeper look at this desire.</p>
+<p class="prose-p">The key message here is, you’ll never be able to master your time. As a self-proclaimed productivity nut, the author spent years attempting to optimize his time management skills. He bought expensive notepads, experimented with techniques like scheduling his day in 15-minute blocks, and sorted his life into A, B, and C priorities. These methods made him feel like he was always on the brink of mastering his productivity.</p>
+<p class="prose-p">But the day on which he finally conquered his time never arrived. Instead, he was left feeling more anxious than ever.</p>
+<p class="prose-p">One day he had an epiphany, his efforts to optimize his time were futile. While he thought of himself as a productive person, the painful truth was that the tasks he fulfilled most effectively were insignificant. Sure, he could dutifully clear his inbox. But responding to emails only led to more emails.</p>
+<p class="prose-p">Meanwhile, things which were important to him, like researching an article he planned to write, were left undone. The author’s experiences taught him an important lesson. The more you try to conquer your time, the more frustrated, stressed, and empty you feel. He calls this the paradox of limitation.</p>
+<p class="prose-p">But in reality, you’ll never be able to accomplish everything you’d like to. And by facing this fact, you can begin to focus on what matters. In the author’s case, giving up the desire to master time and surrendering to the unknown changed his life. He even committed to a long-term relationship and started a family.</p>
+<p class="prose-p">Chapter two, our ways of thinking about time, are inherently modern. If you were a peasant in early medieval England, your problems might have included rampant disease, making payments to the church, or performing backbreaking labor for the Lord who owned the land you lived on. But one problem you wouldn’t have faced was struggling with your time. As a farmer, you’d have risen with the sun and gone to sleep at dusk.</p>
+<p class="prose-p">Tasks like milking the cows and harvesting crops would have been done as needed. As for timing things? You might have said that a task took as long as a misery while or the time it takes to recite Psalm 50 from the Bible. And since farm work was indefinite, there was no need to rush to complete a task.</p>
+<p class="prose-p">The thought of attaining the perfect work-life balance would have been irrelevant in medieval England. As it turns out, our obsession with time management is a modern development. Here’s the key message, our ways of thinking about time are inherently modern. Part of the reason that pre-modern people weren’t worried about having too little time is that they didn’t think of their lifetimes as limited.</p>
+<p class="prose-p">Instead, people considered their time on earth as an inconsequential prelude to eternity. So there was no need to worry about what you didn’t achieve in this lifetime. Pre-modern people also tended to think of world history as stagnant. In some cultures, people believed that history cycled through several predictable stages.</p>
+<p class="prose-p">This changed drastically with the emergence of secular modernism.</p>
           </div>
         </section>
         
@@ -486,7 +558,21 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p>In the modern era, people began to understand history as always moving toward an idealized future. With the shift from religion at the heart of meaning and the rise of skepticism about an afterlife, people began to occupy themselves with making the most of their limited time on earth. Secular thought wasn&#x27;t the only variable in our modern way of thinking about time. The development of clocks also played a role in our modern time-related troubles. Mechanical clocks are widely believed to have been invented by medieval monks who needed to tell the time in order to chant morning prayers before sunrise. But clocks became particularly important during the development of modern industrial labor. While laborers had once been paid for vaguely defined terms like a day&#x27;s work, during the Industrial Revolution, factory owners began paying their employees by the hour so as to increase their profits. As a result, time slowly transformed from concept to resource something to be used rather than the stuff life was made of. Chapter 3 By Facing Our Finitude, We Can Cultivate a Fulfilling Life Any inquiry into time would be incomplete without considering the work of the German philosopher Martin Heidegger. In his magnum opus Being in Time, Heidegger argues that our finite human existence is bound with time. In other words, we are the limited time that we spend on this planet. Our finitude defines our existence. Unfortunately, most of us spend our time avoiding or denying this fact. Heidegger calls this falling. Some of us avoid the idea of finitude by seeking distractions or losing ourselves in the daily grind. Others take comfort with the belief that they don&#x27;t have to choose what to do at all. These people follow a prescriptive existence by getting married or remaining in a soul-destroying job. So what should you do if you want to live an authentic life? According to Heidegger, you have to face up to your limitations. This is the key message. By facing our finitude, we can cultivate a fulfilling life. The realization that your time on Earth is limited doesn&#x27;t have to be a morbid thought. Every year, the contemporary Swedish philosopher Martin Haglund spends his summer vacation with his extended family on Sweden&#x27;s Baltic coast. The key to the Joy Haglund experiences during these vacations is that they&#x27;re limited. Since Haglund doesn&#x27;t believe in eternity, he knows that he won&#x27;t be able to enjoy these vacations forever. His relationships with his family members who attend are bound by their mortality. And even the coastline where the vacations take place is temporary due to the retreating glaciers in the region. Embracing finitude shouldn&#x27;t be about feeling stressed about mortality. From another perspective, it&#x27;s miraculous that you have any time at all. This was something that the Canadian writer David Kane realized when a mass shooting occurred on Danforth Avenue in Toronto just two weeks after he attended an event at the site. Kane realized that there was no cosmic law guaranteeing his survival. Of course, the author doesn&#x27;t spend every waking moment contemplating his mortality. According to Heidegger, embracing finitude means realizing that every choice about what to do with your time requires sacrifices. But rather than feeling defeated that you can&#x27;t accomplish everything, your choices could symbolize a commitment to choosing what matters most to you whether you&#x27;re foregoing other options to support your family, watch a sunset, or write a novel. Chapter 4 Become a Better Procrastinator by Prioritizing Limited Goals. Philosophers like Heidegger who have written about finitude tend to avoid giving practical advice about time management for fear of wandering too close to the self-help genre. But by considering Heidegger&#x27;s idea that deciding what we don&#x27;t want to spend time on is a core challenge, we can draw some conclusions. In short, we need to improve our ability to procrastinate. Many of us reprimand ourselves for our tendency to procrastinate. But procrastination is a human tendency and is inevitable. To become better procrastinators, it&#x27;s time to shift our focus from attempting to get everything done to prioritizing what matters most. The key message here? Become a better procrastinator by prioritizing limited goals. The first principle to becoming a better procrastinator is by paying yourself first with your time. Say you have a task that is very important to you. This could be a creative project or even developing a relationship you haven&#x27;t had the time for. Instead of waiting for a moment when you have time to do it, actively make time in your schedule. You might try working on a project</p>
+            <p class="prose-p">In the modern era, people began to understand history as always moving toward an idealized future. With the shift from religion at the heart of meaning and the rise of skepticism about an afterlife, people began to occupy themselves with making the most of their limited time on earth. Secular thought wasn’t the only variable in our modern way of thinking about time. The development of clocks also played a role in our modern time-related troubles.</p>
+<p class="prose-p">Mechanical clocks are widely believed to have been invented by medieval monks who needed to tell the time in order to chant morning prayers before sunrise. But clocks became particularly important during the development of modern industrial labor. While laborers had once been paid for vaguely defined terms like a day’s work, during the Industrial Revolution, factory owners began paying their employees by the hour so as to increase their profits. As a result, time slowly transformed from concept to resource something to be used rather than the stuff life was made of.</p>
+<h4 class="section-subhead">Chapter 3 By Facing Our Finitude, We Can Cultivate a Fulfilling Life Any inquiry into time would be incomplete without considering the work of the German philosopher Martin Heidegger.</h4>
+<p class="prose-p">In his magnum opus Being in Time, Heidegger argues that our finite human existence is bound with time. In other words, we are the limited time that we spend on this planet. Our finitude defines our existence. Unfortunately, most of us spend our time avoiding or denying this fact.</p>
+<p class="prose-p">Heidegger calls this falling. Some of us avoid the idea of finitude by seeking distractions or losing ourselves in the daily grind. Others take comfort with the belief that they don’t have to choose what to do at all. These people follow a prescriptive existence by getting married or remaining in a soul-destroying job.</p>
+<p class="prose-p">So what should you do if you want to live an authentic life? According to Heidegger, you have to face up to your limitations. This is the key message. By facing our finitude, we can cultivate a fulfilling life.</p>
+<p class="prose-p">The realization that your time on Earth is limited doesn’t have to be a morbid thought. Every year, the contemporary Swedish philosopher Martin Haglund spends his summer vacation with his extended family on Sweden’s Baltic coast. The key to the Joy Haglund experiences during these vacations is that they’re limited. Since Haglund doesn’t believe in eternity, he knows that he won’t be able to enjoy these vacations forever.</p>
+<p class="prose-p">His relationships with his family members who attend are bound by their mortality. And even the coastline where the vacations take place is temporary due to the retreating glaciers in the region. Embracing finitude shouldn’t be about feeling stressed about mortality. From another perspective, it’s miraculous that you have any time at all.</p>
+<p class="prose-p">This was something that the Canadian writer David Kane realized when a mass shooting occurred on Danforth Avenue in Toronto just two weeks after he attended an event at the site. Kane realized that there was no cosmic law guaranteeing his survival. Of course, the author doesn’t spend every waking moment contemplating his mortality. According to Heidegger, embracing finitude means realizing that every choice about what to do with your time requires sacrifices.</p>
+<p class="prose-p">But rather than feeling defeated that you can’t accomplish everything, your choices could symbolize a commitment to choosing what matters most to you whether you’re foregoing other options to support your family, watch a sunset, or write a novel.</p>
+<h4 class="section-subhead">Chapter 4 Become a Better Procrastinator by Prioritizing Limited Goals.</h4>
+<p class="prose-p">Philosophers like Heidegger who have written about finitude tend to avoid giving practical advice about time management for fear of wandering too close to the self-help genre. But by considering Heidegger’s idea that deciding what we don’t want to spend time on is a core challenge, we can draw some conclusions. In short, we need to improve our ability to procrastinate. Many of us reprimand ourselves for our tendency to procrastinate.</p>
+<p class="prose-p">But procrastination is a human tendency and is inevitable. To become better procrastinators, it’s time to shift our focus from attempting to get everything done to prioritizing what matters most. The key message here? Become a better procrastinator by prioritizing limited goals.</p>
+<p class="prose-p">The first principle to becoming a better procrastinator is by paying yourself first with your time. Say you have a task that is very important to you. This could be a creative project or even developing a relationship you haven’t had the time for. Instead of waiting for a moment when you have time to do it, actively make time in your schedule.</p>
+<p class="prose-p">You might try working on a project</p>
           </div>
         </section>
         
@@ -497,7 +583,20 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p>for the first hour after you wake up or scheduling time in your calendar. The second principle is limiting your works in progress. When considering what you want to accomplish, it might be tempting to start a slew of new projects simultaneously. But by having multiple projects on your plate, what tends to happen is that you jump from one to another whenever one project becomes difficult or boring. As a result, you never finish what&#x27;s important to you. Tackling one project at a time forces you to break it down into smaller tasks. On any given day, you&#x27;ll only be completing a few items while working up to your goal. The final principle is to avoid second tier priorities. Whether we like it or not, we simply don&#x27;t have time to accomplish everything we want to do. Whether it&#x27;s a friendship you only somewhat enjoy or a semi-interesting job opportunity, learn how to say no to some of the things you might want to do. If an activity isn&#x27;t in your top five things you want to get out of life, it might be in your best interest to avoid it. Chapter 5 There&#x27;s more to your distractions than meets the eye. Even if you live to be eighty, you won&#x27;t really have four thousand weeks. Life is filled with all kinds of unexpected events. And we also tend to get distracted. Philosophers since the time of the ancient Greeks have been concerned about the human proclivity toward distraction. Their chief concern has been the fact that our reality is defined by our attention. Of course, achieving complete control over your attention is impossible and undesirable. According to neuroscientists, involuntary attention is crucial to our survival. It enables us to move out of the way of an approaching bus. At the same time, to accomplish our goals, we need to master a certain level of focus. Here&#x27;s the key message, there&#x27;s more to your distractions than meets the eye. Today, the most obvious distractions we face come from digital technologies. By now, many of us are aware that technology companies profit from capturing and tracking our attention and selling our data to advertisers. Companies achieve this through persuasive design which keeps us addicted to our screens. But the danger with technology isn&#x27;t just that it wastes the time we spend on it. Social media also distorts our perceptions of the world. Technology influences our ideas about what&#x27;s important, the threats we face, and our political opponents. This has a tangible effect on how we behave offline. The author was an avid Twitter user until he realized that technology was taking a toll even after he&#x27;d signed off for the day. After his child was born, he&#x27;d speculate how to describe his son&#x27;s adorable behavior in a tweet instead of cherishing moments together. But technology alone isn&#x27;t to blame for our tendency to become distracted. The truth is that doing what matters to us can cause unexpected discomfort. If you were trying to write a book in a remote cabin, you&#x27;d likely still find it painful or boring to focus entirely on your project. You might avoid work with a nap or by daydreaming. The reason that doing the work you enjoy can cause discomfort is that when you focus on an activity that actually matters, it forces you to face your limitations. You might find that you don&#x27;t have the talent to pull off a creative project. And so you tend to avoid these realities by succumbing to distractions. By becoming aware of this predicament, you can work through your discomfort instead of giving in to every resistant impulse. Have you ever felt like tasks always take longer than planned? The cognitive scientist Douglas Hofstadter realized this phenomenon and gave it a name, Hofstadter&#x27;s Law. According to this law, if you try to give yourself extra time to account for running overtime, you&#x27;ll still end up running over your new estimated time. Hofstadter proclaimed his law somewhat in jest. But if you&#x27;ve ever tried to plan a project, you know its principle tends to be true. Yet, while we realize that life is often out of our control, many of us spend our lives tediously trying to schedule every minute of our time. This is the key message, live for the present moment rather than for the future. The author grew up in a family that arrived at the airport three hours early. But eventually, he realized that no matter how much you plan, there&#x27;s no guarantee that things will turn out as you&#x27;d like. Trying to control your f- future only transfers your stress to worrying about the next month, event, or project.</p>
+            <p class="prose-p">for the first hour after you wake up or scheduling time in your calendar. The second principle is limiting your works in progress. When considering what you want to accomplish, it might be tempting to start a slew of new projects simultaneously. But by having multiple projects on your plate, what tends to happen is that you jump from one to another whenever one project becomes difficult or boring.</p>
+<p class="prose-p">As a result, you never finish what’s important to you. Tackling one project at a time forces you to break it down into smaller tasks. On any given day, you’ll only be completing a few items while working up to your goal. The final principle is to avoid second tier priorities.</p>
+<p class="prose-p">Whether we like it or not, we simply don’t have time to accomplish everything we want to do. Whether it’s a friendship you only somewhat enjoy or a semi-interesting job opportunity, learn how to say no to some of the things you might want to do. If an activity isn’t in your top five things you want to get out of life, it might be in your best interest to avoid it.</p>
+<h4 class="section-subhead">Chapter 5 There’s more to your distractions than meets the eye.</h4>
+<p class="prose-p">Even if you live to be eighty, you won’t really have four thousand weeks. Life is filled with all kinds of unexpected events. And we also tend to get distracted. Philosophers since the time of the ancient Greeks have been concerned about the human proclivity toward distraction.</p>
+<p class="prose-p">Their chief concern has been the fact that our reality is defined by our attention. Of course, achieving complete control over your attention is impossible and undesirable. According to neuroscientists, involuntary attention is crucial to our survival. It enables us to move out of the way of an approaching bus.</p>
+<p class="prose-p">At the same time, to accomplish our goals, we need to master a certain level of focus. Here’s the key message, there’s more to your distractions than meets the eye. Today, the most obvious distractions we face come from digital technologies. By now, many of us are aware that technology companies profit from capturing and tracking our attention and selling our data to advertisers.</p>
+<p class="prose-p">Companies achieve this through persuasive design which keeps us addicted to our screens. But the danger with technology isn’t just that it wastes the time we spend on it. Social media also distorts our perceptions of the world. Technology influences our ideas about what’s important, the threats we face, and our political opponents.</p>
+<p class="prose-p">This has a tangible effect on how we behave offline. The author was an avid Twitter user until he realized that technology was taking a toll even after he’d signed off for the day. After his child was born, he’d speculate how to describe his son’s adorable behavior in a tweet instead of cherishing moments together. But technology alone isn’t to blame for our tendency to become distracted.</p>
+<p class="prose-p">The truth is that doing what matters to us can cause unexpected discomfort. If you were trying to write a book in a remote cabin, you’d likely still find it painful or boring to focus entirely on your project. You might avoid work with a nap or by daydreaming. The reason that doing the work you enjoy can cause discomfort is that when you focus on an activity that actually matters, it forces you to face your limitations.</p>
+<p class="prose-p">You might find that you don’t have the talent to pull off a creative project. And so you tend to avoid these realities by succumbing to distractions. By becoming aware of this predicament, you can work through your discomfort instead of giving in to every resistant impulse. Have you ever felt like tasks always take longer than planned?</p>
+<p class="prose-p">The cognitive scientist Douglas Hofstadter realized this phenomenon and gave it a name, Hofstadter’s Law. According to this law, if you try to give yourself extra time to account for running overtime, you’ll still end up running over your new estimated time. Hofstadter proclaimed his law somewhat in jest. But if you’ve ever tried to plan a project, you know its principle tends to be true.</p>
+<p class="prose-p">Yet, while we realize that life is often out of our control, many of us spend our lives tediously trying to schedule every minute of our time. This is the key message, live for the present moment rather than for the future. The author grew up in a family that arrived at the airport three hours early. But eventually, he realized that no matter how much you plan, there’s no guarantee that things will turn out as you’d like.</p>
+<p class="prose-p">Trying to control your f- future only transfers your stress to worrying about the next month, event, or project.</p>
           </div>
         </section>
         
@@ -508,7 +607,20 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p>Obsessive planning isn&#x27;t the only way that we tend to live in the future. Many of us are susceptible to something the author refers to as the when I finally mindset. We tell ourselves that when we finally meet the perfect significant other, tackle our mental health issues, or manage our workload, life will finally begin. Our present moment is perpetually striving towards some idealized future state. Of course, someone living from paycheck to paycheck and aspiring to a better job isn&#x27;t to blame for wanting a better future for themselves. But the rest of us might do ourselves a favor by attempting to live in the present moment instead of living for the future. If you&#x27;ve ever attempted to live in the present moment, you&#x27;ll know that it&#x27;s easier said than done. In Zen and the Art of Motorcycle Maintenance, author Robert Persig recalls one moment of viewing the much photographed Crater Lake in Oregon. Standing in front of the collapsed prehistoric volcano, Persig couldn&#x27;t help but feel distant from the moment. The beauty of the site is eclipsed by the fact that it&#x27;s become an acclaimed tourist attraction. As a result, the experience of living in the moment was obscured. Instead of berating yourself for not being able to enjoy the present moment enough, try simply acknowledging the fact that you&#x27;re always living in the present moment. You can&#x27;t succeed or fail at living in the present moment because, whether you like it or not, the present moment is all that exists. Chapter 7 Take Up Hobbies or Spend Time with Family and Friends to Reap the Benefits of Leisure Time In his 1962 book The Decline of Pleasure, the critic Walter Kern noted our increasing tendency to fill our free time with productive activities. We party to expand our network or spend a weekend at home to renovate the house. But increasingly, we fail to find the time to relax. The decline of leisure was a byproduct of the Industrial Revolution. Factory owners encouraged workers to use their time off in ways that would enhance their productivity at work. This was, ironically, exacerbated by labor reformers and union leaders who argued that workers would use their additional free time to improve themselves through education or cultural activities. This idea of spending our free time well continues to grip us today. To reap the pleasure of experience fully, it&#x27;s about time that we redefined our approach to leisure. The key message here is, take up hobbies or spend time with family and friends to reap the benefits of leisure time. These days, having a hobby can be somewhat embarrassing. Calling something a hobby tends to imply that you&#x27;re an amateur. It&#x27;s much more fashionable to pack in a side hustle or an activity that&#x27;s intended to bring profit. But having a hobby can enrich your life precisely because it&#x27;s done simply for the sake of pleasure. Giving yourself permission to be mediocre at something can be liberating. For over two decades, the British rock star Rod Stewart has enjoyed building a model railway of a 1940s American urban landscape. Clearly, Stewart&#x27;s motive with the project wasn&#x27;t to boost his brand. And he wasn&#x27;t especially gifted at creating models. In fact, he hired someone to do the electrical wiring. Hobbies can enrich your experience. But when pondering what to do with your leisure time, you might consider spending time with others. A study in Sweden found that antidepressant sales fell at a greater rate when more people were on holiday. In other words, Swedish people were the most content when they were able to share their time off with others. These findings have significant implications for being a digital nomad to the lifestyle in which people increasingly eschew stuffy offices to run internet companies from their laptops. While digital nomads are free to lay back in idyllic locations such as Thailand or Guatemala, increasingly many are realizing that traveling alone can be lonely. Chapter 8 Practice Cosmic Insignificance Therapy Instead of Worrying About Your Life&#x27;s Purpose One day, flying above the American Midwest during a business trip, the vice president of a medical instruments company had an epiphany that she hated her life. Although she used to feel passionate about her work, it had ceased to feel meaningful. Now she&#x27;s simply clung onto the hope that her hard work might lead to happiness down the line. Finding yourself doubting how you spend your days can be deeply unsettling. But it&#x27;s a necessary first step toward building a fulfilling life. Which leads us to a fundamental question about time management. How do we make the time we have count? The Key Message Practice Cosmic Insignificance Therapy Instead</p>
+            <p class="prose-p">Obsessive planning isn’t the only way that we tend to live in the future. Many of us are susceptible to something the author refers to as the when I finally mindset. We tell ourselves that when we finally meet the perfect significant other, tackle our mental health issues, or manage our workload, life will finally begin. Our present moment is perpetually striving towards some idealized future state.</p>
+<p class="prose-p">Of course, someone living from paycheck to paycheck and aspiring to a better job isn’t to blame for wanting a better future for themselves. But the rest of us might do ourselves a favor by attempting to live in the present moment instead of living for the future. If you’ve ever attempted to live in the present moment, you’ll know that it’s easier said than done. In Zen and the Art of Motorcycle Maintenance, author Robert Persig recalls one moment of viewing the much photographed Crater Lake in Oregon.</p>
+<p class="prose-p">Standing in front of the collapsed prehistoric volcano, Persig couldn’t help but feel distant from the moment. The beauty of the site is eclipsed by the fact that it’s become an acclaimed tourist attraction. As a result, the experience of living in the moment was obscured. Instead of berating yourself for not being able to enjoy the present moment enough, try simply acknowledging the fact that you’re always living in the present moment.</p>
+<p class="prose-p">You can’t succeed or fail at living in the present moment because, whether you like it or not, the present moment is all that exists.</p>
+<h4 class="section-subhead">Chapter 7 Take Up Hobbies or Spend Time with Family and Friends to Reap the Benefits of Leisure Time In his 1962 book The Decline of Pleasure, the critic Walter Kern noted our increasing tendency to fill our free time with productive activities.</h4>
+<p class="prose-p">We party to expand our network or spend a weekend at home to renovate the house. But increasingly, we fail to find the time to relax. The decline of leisure was a byproduct of the Industrial Revolution. Factory owners encouraged workers to use their time off in ways that would enhance their productivity at work.</p>
+<p class="prose-p">This was, ironically, exacerbated by labor reformers and union leaders who argued that workers would use their additional free time to improve themselves through education or cultural activities. This idea of spending our free time well continues to grip us today. To reap the pleasure of experience fully, it’s about time that we redefined our approach to leisure. The key message here is, take up hobbies or spend time with family and friends to reap the benefits of leisure time.</p>
+<p class="prose-p">These days, having a hobby can be somewhat embarrassing. Calling something a hobby tends to imply that you’re an amateur. It’s much more fashionable to pack in a side hustle or an activity that’s intended to bring profit. But having a hobby can enrich your life precisely because it’s done simply for the sake of pleasure.</p>
+<p class="prose-p">Giving yourself permission to be mediocre at something can be liberating. For over two decades, the British rock star Rod Stewart has enjoyed building a model railway of a 1940s American urban landscape. Clearly, Stewart’s motive with the project wasn’t to boost his brand. And he wasn’t especially gifted at creating models.</p>
+<p class="prose-p">In fact, he hired someone to do the electrical wiring. Hobbies can enrich your experience. But when pondering what to do with your leisure time, you might consider spending time with others. A study in Sweden found that antidepressant sales fell at a greater rate when more people were on holiday.</p>
+<p class="prose-p">In other words, Swedish people were the most content when they were able to share their time off with others. These findings have significant implications for being a digital nomad to the lifestyle in which people increasingly eschew stuffy offices to run internet companies from their laptops. While digital nomads are free to lay back in idyllic locations such as Thailand or Guatemala, increasingly many are realizing that traveling alone can be lonely.</p>
+<h4 class="section-subhead">Chapter 8 Practice Cosmic Insignificance Therapy Instead of Worrying About Your Life’s Purpose One day, flying above the American Midwest during a business trip, the vice president of a medical instruments company had an epiphany that she hated her life.</h4>
+<p class="prose-p">Although she used to feel passionate about her work, it had ceased to feel meaningful. Now she’s simply clung onto the hope that her hard work might lead to happiness down the line. Finding yourself doubting how you spend your days can be deeply unsettling. But it’s a necessary first step toward building a fulfilling life.</p>
+<p class="prose-p">Which leads us to a fundamental question about time management. How do we make the time we have count? The Key Message Practice Cosmic Insignificance Therapy Instead</p>
           </div>
         </section>
         
@@ -519,7 +631,14 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p>of Worrying About Your Life&#x27;s Purpose When the coronavirus pandemic hit in 2020 forcing governments across the world to impose lockdowns, there was a general consensus in the United States that along with the trauma and loss, the pandemic was a tipping point which made us pause and consider what really matters. Even the underfunded healthcare systems and racial inequalities that the pandemic exposed contributed to the feeling that we were finally being reminded of what matters most. The problem with trying to pin that down is that it can be an overwhelmingly grandiose exercise. Many New Age enthusiasts believe that we&#x27;re each endowed with a lofty life purpose. So, if you aren&#x27;t in a position to leave your office job, you might feel like having a meaningful life isn&#x27;t on the cards for you. In reality, however, what you do with your time has no significance in the eyes of the universe. We&#x27;re biologically wired to perceive the universe from our point of view. This motivates us to reproduce and pass along our genes. But in the grand scheme of universal time, our individual lives are completely insignificant. At first, this might seem like a terrifying thought. But if you think about it, it&#x27;s also incredibly liberating. Embracing your insignificance releases you from the impossible standard you set for yourself to make your time on Earth remarkable. In the eyes of cosmic insignificance therapy, any career is as worthwhile as preparing a nourishing meal for your child. It doesn&#x27;t matter that you aren&#x27;t as talented as Mozart or Albert Einstein. In the eyes of the universe, writing a book or pursuing any goal that you care about is a worthy way to spend your four thousand weeks. Little summary, the modern way of thinking about time is a futile attempt to master it. But you can liberate yourself from this societal mindset. By working with rather than against your human limitations such as procrastination, distraction, and the ability to live in the present moment, you can embrace your mortality and cultivate a meaningful life. Actionable advice, adopt boring or single-purpose technology. We often succumb to the seduction of digital distractions because they offer us an escape from feeling constrained by our limitations. To combat this tendency, make your smartphone as boring as possible by removing all of your social media apps and turning on the grayscale mode in your accessibility settings. You can also try using technology that&#x27;s designed for a single purpose. For example, read books on an e-reader instead of your phone, you&#x27;ll be much less likely to divert your focus. Thanks for listening. If you enjoyed this, please like and subscribe to The Literary Digest for more videos like this one. And don&#x27;t forget to leave a comment below and let us know what you found most helpful. Until next time, keep striving for success.</p>
+            <p class="prose-p">of Worrying About Your Life’s Purpose When the coronavirus pandemic hit in 2020 forcing governments across the world to impose lockdowns, there was a general consensus in the United States that along with the trauma and loss, the pandemic was a tipping point which made us pause and consider what really matters. Even the underfunded healthcare systems and racial inequalities that the pandemic exposed contributed to the feeling that we were finally being reminded of what matters most. The problem with trying to pin that down is that it can be an overwhelmingly grandiose exercise.</p>
+<p class="prose-p">Many New Age enthusiasts believe that we’re each endowed with a lofty life purpose. So, if you aren’t in a position to leave your office job, you might feel like having a meaningful life isn’t on the cards for you. In reality, however, what you do with your time has no significance in the eyes of the universe. We’re biologically wired to perceive the universe from our point of view.</p>
+<p class="prose-p">This motivates us to reproduce and pass along our genes. But in the grand scheme of universal time, our individual lives are completely insignificant. At first, this might seem like a terrifying thought. But if you think about it, it’s also incredibly liberating.</p>
+<p class="prose-p">Embracing your insignificance releases you from the impossible standard you set for yourself to make your time on Earth remarkable. In the eyes of cosmic insignificance therapy, any career is as worthwhile as preparing a nourishing meal for your child. It doesn’t matter that you aren’t as talented as Mozart or Albert Einstein. In the eyes of the universe, writing a book or pursuing any goal that you care about is a worthy way to spend your four thousand weeks.</p>
+<p class="prose-p">Little summary, the modern way of thinking about time is a futile attempt to master it. But you can liberate yourself from this societal mindset. By working with rather than against your human limitations such as procrastination, distraction, and the ability to live in the present moment, you can embrace your mortality and cultivate a meaningful life. Actionable advice, adopt boring or single-purpose technology.</p>
+<p class="prose-p">We often succumb to the seduction of digital distractions because they offer us an escape from feeling constrained by our limitations. To combat this tendency, make your smartphone as boring as possible by removing all of your social media apps and turning on the grayscale mode in your accessibility settings. You can also try using technology that’s designed for a single purpose.</p>
+<p class="prose-p">For example, read books on an e-reader instead of your phone, you’ll be much less likely to divert your focus. Thanks for listening. If you enjoyed this, please like and subscribe to The Literary Digest for more videos like this one. And don’t forget to leave a comment below and let us know what you found most helpful.</p>
+<p class="prose-p">Until next time, keep striving for success.</p>
           </div>
         </section>
         
@@ -543,7 +662,7 @@
     function applyTheme(theme) {
       document.documentElement.setAttribute('data-theme', theme);
       localStorage.setItem('reader-theme', theme);
-      const span = document.querySelector('#theme-btn span');
+      const span = document.getElementById('theme-label');
       if (span) span.textContent = themeNames[theme].split(' ')[1];
     }
     applyTheme(themes[currentThemeIdx]);
@@ -551,6 +670,45 @@
     document.getElementById('theme-btn').addEventListener('click', () => {
       currentThemeIdx = (currentThemeIdx + 1) % themes.length;
       applyTheme(themes[currentThemeIdx]);
+    });
+
+    // --- Paragraph Style Toggle (Indent vs Block) ---
+    const pStyles = ['indent', 'block'];
+    const pStyleNames = {'indent': '縮排', 'block': '留白'};
+    let currentPStyle = localStorage.getItem('reader-p-style') || 'indent';
+    if (!pStyles.includes(currentPStyle)) currentPStyle = 'indent';
+
+    function applyPStyle(style) {
+      document.documentElement.setAttribute('data-p-style', style);
+      localStorage.setItem('reader-p-style', style);
+      const label = document.getElementById('p-style-label');
+      if (label) label.textContent = pStyleNames[style];
+    }
+    applyPStyle(currentPStyle);
+
+    document.getElementById('p-style-btn').addEventListener('click', () => {
+      currentPStyle = currentPStyle === 'indent' ? 'block' : 'indent';
+      applyPStyle(currentPStyle);
+    });
+
+    // --- Line Height Toggle ---
+    const lineHeights = ['normal', 'loose', 'compact'];
+    const lhNames = {'normal': '舒適', 'loose': '寬鬆', 'compact': '緊湊'};
+    let currentLH = localStorage.getItem('reader-line-height') || 'normal';
+    if (!lineHeights.includes(currentLH)) currentLH = 'normal';
+
+    function applyLineHeight(lh) {
+      document.documentElement.setAttribute('data-line-height', lh);
+      localStorage.setItem('reader-line-height', lh);
+      const label = document.getElementById('line-height-label');
+      if (label) label.textContent = lhNames[lh];
+    }
+    applyLineHeight(currentLH);
+
+    document.getElementById('line-height-btn').addEventListener('click', () => {
+      const idx = (lineHeights.indexOf(currentLH) + 1) % lineHeights.length;
+      currentLH = lineHeights[idx];
+      applyLineHeight(currentLH);
     });
 
     // --- Font Family Toggle ---
@@ -594,7 +752,6 @@
       backdrop.classList.remove('open');
     });
 
-    // Close sidebar on item click (mobile)
     document.querySelectorAll('.toc-item a').forEach(link => {
       link.addEventListener('click', () => {
         if (window.innerWidth <= 992) {
@@ -632,7 +789,6 @@
       const scrolled = height > 0 ? (winScroll / height) * 100 : 0;
       progressBar.style.width = scrolled + '%';
 
-      // Scroll spy: find current section
       let currentSectionId = '';
       for (const sec of sections) {
         const rect = sec.getBoundingClientRect();
@@ -652,7 +808,6 @@
       }
     }, { passive: true });
 
-    // --- Scroll Top Button ---
     document.getElementById('scroll-top-btn').addEventListener('click', () => {
       window.scrollTo({ top: 0, behavior: 'smooth' });
     });
