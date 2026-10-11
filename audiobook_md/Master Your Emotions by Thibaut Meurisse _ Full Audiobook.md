@@ -113,17 +113,15 @@ In this book, I include a number of different exercises. Though I don’t expect
 
 Emotions are complex and I believe it would benefit us all to deepen our understanding of the topic.
 
-#### Part 1.
+#### Part 1. What Emotions Are. Have you ever wondered what emotions are and what purpose they serve? In this section, we’ll discuss how your survival mechanism affects your emotions.
 
-What Emotions Are. Have you ever wondered what emotions are and what purpose they serve? In this section, we’ll discuss how your survival mechanism affects your emotions. Then, we’ll explain what the ego is and how it impacts your emotions.
+Then, we’ll explain what the ego is and how it impacts your emotions. Finally, we’ll discover the mechanism behind emotions and learn why negative emotions can be so hard to deal with. 1. How your survival mechanism affects your emotions. Why people have a bias towards negativity.
 
-Finally, we’ll discover the mechanism behind emotions and learn why negative emotions can be so hard to deal with. 1. How your survival mechanism affects your emotions. Why people have a bias towards negativity. Your brain is designed for survival, which explains why you’re able to read this book at this very moment.
+Your brain is designed for survival, which explains why you’re able to read this book at this very moment. When you think about it, the probability of you being born was extremely low. For this miracle to happen, all the generations before you had to survive long enough to procreate. In their quest for survival and procreation, they must have faced death hundreds or perhaps thousands of times.
 
-When you think about it, the probability of you being born was extremely low. For this miracle to happen, all the generations before you had to survive long enough to procreate. In their quest for survival and procreation, they must have faced death hundreds or perhaps thousands of times. Fortunately, unlike your ancestors, you’re, probably, not facing death every day.
+Fortunately, unlike your ancestors, you’re, probably, not facing death every day. In fact, in many parts of the world, life has never been safer. Yet, your survival mechanism hasn’t changed much. Your brain still scans your environment looking for potential threats.
 
-In fact, in many parts of the world, life has never been safer. Yet, your survival mechanism hasn’t changed much. Your brain still scans your environment looking for potential threats. In many ways, some parts of your brain have become obsolete.
-
-While you may not be seconds away from being eaten by a predator, your brain still gives significantly more weight to negative events than to positive ones. Fear of rejection is one example of a bias toward negativity. In the past, being rejected from your tribe would reduce your chances of survival significantly.
+In many ways, some parts of your brain have become obsolete. While you may not be seconds away from being eaten by a predator, your brain still gives significantly more weight to negative events than to positive ones. Fear of rejection is one example of a bias toward negativity. In the past, being rejected from your tribe would reduce your chances of survival significantly.
 
 Therefore, you learn to look for any sign of rejection, and this became hardwired in your brain. Nowadays, being rejected often carries little or no consequence to your long-term survival. You could be hated by the entire world and still have a job, a roof and plenty of food on the table, yet, your brain is still programmed to perceive rejection as a threat to your survival. This is why rejection can be so painful.
 
@@ -571,13 +569,13 @@ Relaxed? Start creating playlists for specific moods you want to experience. Act
 
 Section 2. That impact your emotions.
 
-#### Part 3.
+#### Part 3. How TO change your emotions the mind always seeks to deny the now and to escape from it.
 
-How TO change your emotions the mind always seeks to deny the now and to escape from it. In other words, the more you are identified with your mind, the more you suffer. Or you may put it like this, the more you are able to honor and accept the now, the more you are free of pain, of suffering, and free of the egoic mind. Eckhart Tolle, the power or now.
+In other words, the more you are identified with your mind, the more you suffer. Or you may put it like this, the more you are able to honor and accept the now, the more you are free of pain, of suffering, and free of the egoic mind. Eckhart Tolle, the power or now. In this section, we’ll explore how you can deal with negative emotions and condition your mind to experience more positive ones.
 
-In this section, we’ll explore how you can deal with negative emotions and condition your mind to experience more positive ones. First, we’ll discuss how emotions are formed. Then, we’ll discuss the benefit of positive thinking and how to use it to condition your mind. After that, we’ll see why positive thinking isn’t enough and what else you can do to deal with negative emotions.
+First, we’ll discuss how emotions are formed. Then, we’ll discuss the benefit of positive thinking and how to use it to condition your mind. After that, we’ll see why positive thinking isn’t enough and what else you can do to deal with negative emotions. More specifically, you’ll learn how to let go of your emotions.
 
-More specifically, you’ll learn how to let go of your emotions. How to change your story and create a more empowering one how to condition your mind. How to use your behaviors to change your emotions, and how to modify your environment to reduce negative emotions.
+How to change your story and create a more empowering one how to condition your mind. How to use your behaviors to change your emotions, and how to modify your environment to reduce negative emotions.
 
 Finally, I’ll share with you a list of short-term and long-term strategies you can use to better deal with negative emotions. Let’s get started. 11. How emotions are formed. When a thought emerges on the canvas of your mind, if you don’t drop it, its pursuit will either take the form of a desire or an emotion, positive or negative.
 
@@ -975,11 +973,9 @@ Consult a professional, if you have deep emotional issues such as extreme low se
 
 How to change your emotions, short-term solutions slash long-term solutions.
 
-#### Part 4.
+#### Part 4. How to use your emotions to grow. I suggest to you that every situation, every moment, provides the opportunity for self-growth and development of your character. Reality keeps bringing us circumstances, sometimes I picture them as waves breaking on the shore and we have the chance to keep merging with that reality to fit ourselves to it, to dive into those waves.
 
-How to use your emotions to grow. I suggest to you that every situation, every moment, provides the opportunity for self-growth and development of your character. Reality keeps bringing us circumstances, sometimes I picture them as waves breaking on the shore and we have the chance to keep merging with that reality to fit ourselves to it, to dive into those waves. David K.
-
-Reynolds, author of Constructive Living. We’ve seen what emotions are, how they are formed, and how you can reprogram your mind to experience more positive emotions.
+David K. Reynolds, author of Constructive Living. We’ve seen what emotions are, how they are formed, and how you can reprogram your mind to experience more positive emotions.
 
 Now, let’s see how you can use your emotions as a tool for personal growth. Most people underestimate how useful emotions can be. They never truly realize they can use their emotions to grow. Think of it this way.
 

@@ -251,17 +251,15 @@ Add a supporting voice or emphasize an important manga idea. We hope these will 
 
 Him.
 
-#### Chapter 1a Portrait of Charles T.
+#### Chapter 1a Portrait of Charles T. Mungerby, Michael Brogy. The extraordinary story of Berkshire Hathaway are two financial geniuses. The widely acclaimed Warren Buffett and his silent partner, Charlie Munger, who relishes his obscurity.
 
-Mungerby, Michael Brogy. The extraordinary story of Berkshire Hathaway are two financial geniuses. The widely acclaimed Warren Buffett and his silent partner, Charlie Munger, who relishes his obscurity. Charlie is Warren’s friend, lawyer, advisor, devil’s advocate.
+Charlie is Warren’s friend, lawyer, advisor, devil’s advocate. Warren once called him the abominable no man and one of the largest stockholders in the world. None of the most successful publicly traded companies in American business history. Since 1964, when Warren and, some years later, Charlie assumed management of Berkshire, its market value has increased an astonishing 13,500 times from 10 million to roughly 135 billion.
 
-Warren once called him the abominable no man and one of the largest stockholders in the world. None of the most successful publicly traded companies in American business history. Since 1964, when Warren and, some years later, Charlie assumed management of Berkshire, its market value has increased an astonishing 13,500 times from 10 million to roughly 135 billion. Without much of an increase in outstanding shares.
+Without much of an increase in outstanding shares. Duke Phenomenal Growth is the singular achievement of these two unassuming Midwesterners, who combine their synergistic abilities to recognize and seize opportunities other businessmen consistently overlook. While Warren is one of the most admired and publicized business leaders in the country, Charlie has purposefully sidestepped the limelight, choosing relative anonymity instead. To better understand this complex and highly private businessman, we must start at the beginning.
 
-Duke Phenomenal Growth is the singular achievement of these two unassuming Midwesterners, who combine their synergistic abilities to recognize and seize opportunities other businessmen consistently overlook. While Warren is one of the most admired and publicized business leaders in the country, Charlie has purposefully sidestepped the limelight, choosing relative anonymity instead. To better understand this complex and highly private businessman, we must start at the beginning. Charles Thomas Munger was born on January 1, 1924, in America’s heartland, Omaha, Nebraska-Dottet.
+Charles Thomas Munger was born on January 1, 1924, in America’s heartland, Omaha, Nebraska-Dottet. Many notables share his Midwestern roots. Will Rogers, Henry Fonda, John Pershing, Harry Truman, Walt Disney, Ann Landers, Gerald Ford and, of course, Warren Buffet. Charlie, initial crossed paths with the Buffet family during the formative years of his life when he worked at Buffet Sun, an upscale grocery store in Omaha, about six blocks from the Munger household.
 
-Many notables share his Midwestern roots. Will Rogers, Henry Fonda, John Pershing, Harry Truman, Walt Disney, Ann Landers, Gerald Ford and, of course, Warren Buffet. Charlie, initial crossed paths with the Buffet family during the formative years of his life when he worked at Buffet Sun, an upscale grocery store in Omaha, about six blocks from the Munger household. The boss and part-owner was Warren’s grandfather, Ernest, a strict disciplinarian.
-
-He’s scheduled his young workers for twelve-hour shifts, with no meals or breaks. According to Charlie, his boss, Staunch, ati-socialist attitude was manifested in his rule requiring the boys to present two pennies at the end of their shifts to cover their share of the cost of the new Social Security Act. In return, they received a two-daily wake-along with a considerable lecture about the evils of socialism, the arduous working conditions in the Buffet grocery store had a lasting influence on both Charlie and Warren Tunce.
+The boss and part-owner was Warren’s grandfather, Ernest, a strict disciplinarian. He’s scheduled his young workers for twelve-hour shifts, with no meals or breaks. According to Charlie, his boss, Staunch, ati-socialist attitude was manifested in his rule requiring the boys to present two pennies at the end of their shifts to cover their share of the cost of the new Social Security Act. In return, they received a two-daily wake-along with a considerable lecture about the evils of socialism, the arduous working conditions in the Buffet grocery store had a lasting influence on both Charlie and Warren Tunce.
 
 Warren, six years younger, served his hard times under grandpa Ernest several years after his future business partner had moved on. Charlie’s formal education began at Dundee Elementary School, where he and his younger sisters, Mary and Carol, were indoctrinated with ethical homilies.
 
@@ -2305,17 +2303,17 @@ But the size of this psychology department gap is preposterously large. In fact,
 
 The academically correct reaction to this immense and well-publicized fiasco would have been the sort of reaction Boeing would display if three of its new airplanes crashed in a single week. After all, proct integrity is involved in each case, and the plain educational failure was immense. But almost no such responsible Boeing-like reaction has come from academia. Instead, academia, by and large, continues in its Balkanized way to tolerate psychology professors, who misteach psychology, non-psychology professors, who fail to consider psychological effects obviously crucial in their sub…
 
-matter and professional schools that carefully preserve psychological ignorance coming in with each entering class, and are proud of their inadequacies. Even though this regrettable blindness and lassitude is now the normal academic result, are there exceptions providing hope that disgraceful shortcomings of the education establishment will eventually be corrected? Here, my answer is a very optimistic yes. For instance, consider the recent behavior of the economics department of the University of Chicago.
+matter and professional schools that carefully preserve psychological ignorance coming in with each entering class, and are proud of their inadequacies.
 
-Over the last decade, this department has enjoyed a near-monopoly of the Nobel Prizes in economics, largely by getting good predictions out of free-market models postulating man’s rationality. And what is the reaction of this department after winning so steadily with its rational man? Per… proach?
+Even though this regrettable blindness and lassitude is now the normal academic result, are there exceptions providing hope that disgraceful shortcomings of the education establishment will eventually be corrected? Here, my answer is a very optimistic yes. For instance, consider the recent behavior of the economics department of the University of Chicago. Over the last decade, this department has enjoyed a near-monopoly of the Nobel Prizes in economics, largely by getting good predictions out of free-market models postulating man’s rationality.
 
-Well, it has just invited into a precious slot amid its company of greats a wise and witty Cornell economist, Richard Thaler, DOF 55, and it has done this because Thaler pokes fun at much that is wholly at the University of Chicago. Indeed, Thaler believes with me that people are often massively irrational in ways predicted by psychology that must be taken into account in in… macro-economic. In so behaving, the University of Chicago is imitating Darwin, who spent much of his long life thinking in reverse as he tried to disprove his own hardest-won and best-loved idea.
+And what is the reaction of this department after winning so steadily with its rational man? Per… proach? Well, it has just invited into a precious slot amid its company of greats a wise and witty Cornell economist, Richard Thaler, DOF 55, and it has done this because Thaler pokes fun at much that is wholly at the University of Chicago. Indeed, Thaler believes with me that people are often massively irrational in ways predicted by psychology that must be taken into account in in… macro-economic.
 
-And so long as there are parts of academia that keep alive its best values by thinking in reverse like Darwin, we can confidently expect that silly educational practices will eventually be replaced by… beta-1s, exactly as Carl Jacobi might have predicted. This will happen because the Darwinian approach, with its habitual objectivity taken on as a sort of hair-shirt, is a mighty approach indeed. No lesser figure than Einstein said that one of the four causes of his achievement was self-criticism, ranking right up there alongside curiosity, concentration, and perseverance.
+In so behaving, the University of Chicago is imitating Darwin, who spent much of his long life thinking in reverse as he tried to disprove his own hardest-won and best-loved idea. And so long as there are parts of academia that keep alive its best values by thinking in reverse like Darwin, we can confidently expect that silly educational practices will eventually be replaced by… beta-1s, exactly as Carl Jacobi might have predicted. This will happen because the Darwinian approach, with its habitual objectivity taken on as a sort of hair-shirt, is a mighty approach indeed.
 
-And, to further… apprecate the power of self-criticism, consider where lies the grave of that very ungifted undergraduate, Charles Darwin Dot. It is in Westminster Abbey, right next to the headstone of Isaac Newton, perhaps the most gifted student who ever lived, honored on that headstone in eight Latin words constituting the most eloquent praise in all graveyard print. There is a lot at stake.
+No lesser figure than Einstein said that one of the four causes of his achievement was self-criticism, ranking right up there alongside curiosity, concentration, and perseverance. And, to further… apprecate the power of self-criticism, consider where lies the grave of that very ungifted undergraduate, Charles Darwin Dot. It is in Westminster Abbey, right next to the headstone of Isaac Newton, perhaps the most gifted student who ever lived, honored on that headstone in eight Latin words constituting the most eloquent praise in all graveyard print.
 
-If, in many high places, a universal product as successful, a Coca-Cola is not properly understood and explained, it can’t bode well for our competency in dealing with much else that is important. Of course, those of you with fifty percent of net worth in Coca-Cola stock, occurring because you tried to invest ten percent after thinking like I did in making my pitch to glots, can ignore my message about psychology as too elementary for useful transmission.
+There is a lot at stake. If, in many high places, a universal product as successful, a Coca-Cola is not properly understood and explained, it can’t bode well for our competency in dealing with much else that is important. Of course, those of you with fifty percent of net worth in Coca-Cola stock, occurring because you tried to invest ten percent after thinking like I did in making my pitch to glots, can ignore my message about psychology as too elementary for useful transmission.
 
 
 <a id="sec-055854"></a>
@@ -2343,11 +2341,9 @@ Then, finally, I preferred to maintain the original unhelpful order of the two t
 
 If they are willing to endure this ordeal, I predict that at least some of them will find the result worth the effort.
 
-#### Chapter 4 Talk 5 The Need for More Multidisciplinary Skills from Educational Professionals Implications, April 24, 1998.
+#### Chapter 4 Talk 5 The Need for More Multidisciplinary Skills from Educational Professionals Implications, April 24, 1998. Reunion of Harvard Law School Class of 1948. Having ranted in the previous speech about all that is wrong in academia, Charlie holds fourth here on the solution, delivered in 1998 at the key eighth reunion of his Harvard Law School Class. His talk focuses on a hugely complicated, ishweth, narrowness of elite education and segments.
 
-Reunion of Harvard Law School Class of 1948. Having ranted in the previous speech about all that is wrong in academia, Charlie holds fourth here on the solution, delivered in 1998 at the key eighth reunion of his Harvard Law School Class. His talk focuses on a hugely complicated, ishweth, narrowness of elite education and segments. It into elements whose solutions, when taken together, form a satisfactory answer to the problem.
-
-Through a series of rhetorical questions, Charlie posits that professionals such as attorneys, to their own detriment, lack multidisciplinary skill. From his own extensive multidisciplinary studies, he recognizes that there are subconscious mental tendencies that keep people from broadening their own horizons sufficiently. Nonetheless, he brings unique and memorable solutions to the problem.
+It into elements whose solutions, when taken together, form a satisfactory answer to the problem. Through a series of rhetorical questions, Charlie posits that professionals such as attorneys, to their own detriment, lack multidisciplinary skill. From his own extensive multidisciplinary studies, he recognizes that there are subconscious mental tendencies that keep people from broadening their own horizons sufficiently. Nonetheless, he brings unique and memorable solutions to the problem.
 
 
 <a id="sec-060355"></a>
@@ -2861,11 +2857,11 @@ The accounting profession now requires that some provision for stock option cost
 
 Moreover, the part of the cost that is charged to earnings is often manipulated downward by dubious techniques. What this accounting saga constitutes is one more sad example of evil rewarded dying hard, as a great many people conclude that something can’t be evil if they are profiting from it.
 
-#### Chapter 4.
+#### Chapter 4. Talk 93 Academic Economics. Strengths and faults after considering interdisciplinary.
 
-Talk 93 Academic Economics. Strengths and faults after considering interdisciplinary. Nays October 3, 2003, Herb K. Undergraduate Lecture, University of California, Santa Barbara Economics Department.
+Nays October 3, 2003, Herb K. Undergraduate Lecture, University of California, Santa Barbara Economics Department. The editor of this book spent twelve consecutive hours with Charlie on the day he delivered the speech at the University of California at Santa Barbara, our schedule that day, a two-hour drive each way from Los Angeles, lunch, pre-talk meetings, the talk, itself a post-talk reception, and finally dinner at the home of Jeff Henley, chief financial officer, and now chairman of Oracle. Despite then being within a few months of his dirth day, Charlie performed like a tireless virtuoso.
 
-The editor of this book spent twelve consecutive hours with Charlie on the day he delivered the speech at the University of California at Santa Barbara, our schedule that day, a two-hour drive each way from Los Angeles, lunch, pre-talk meetings, the talk, itself a post-talk reception, and finally dinner at the home of Jeff Henley, chief financial officer, and now chairman of Oracle. Despite then being within a few months of his dirth day, Charlie performed like a tireless virtuoso. His sharpness, stamina,
+His sharpness, stamina,
 
 
 <a id="sec-075017"></a>
@@ -3377,25 +3373,25 @@ Freeman supplies a marvellous quotation on this subject
 
 from Rabbi Eliza Ben Azariah. Where there is no bread, there is no law. Where there is no law, there is no bread.
 
-#### Chapter 4.
+#### Chapter 4. Talk, Tenphoreski Gould.
 
-Talk, Tenphoreski Gould. School of Law commencement address, May 13th, 27th University of Southern California on a warm late spring day in 2007. Charlie address 107. Andinity IV.
+School of Law commencement address, May 13th, 27th University of Southern California on a warm late spring day in 2007. Charlie address 107. Andinity IV. Juris Doctor, 89.
 
-Juris Doctor, 89. Master of Laws, and three Master of Comparative Laws degree recipients in the University of Southern California’s Alumni Park. Gatti I. He offered insights into the practices that have contributed to his success, and to his standing as one of the wealthiest people in the world.
+Master of Laws, and three Master of Comparative Laws degree recipients in the University of Southern California’s Alumni Park. Gatti I. He offered insights into the practices that have contributed to his success, and to his standing as one of the wealthiest people in the world. He observed that the acquisition of wisdom is a moral duty, and he stressed that while attending law school, he realized the best road to success in life and learning would be a multidisciplinary one.
 
-He observed that the acquisition of wisdom is a moral duty, and he stressed that while attending law school, he realized the best road to success in life and learning would be a multidisciplinary one. Following the audience’s enthusiastic reaction to this speech, U. S. C. law Dean Edward J. McCaffery awarded Charlie Honorary Admission into the Order of the Quaff, a scholastic society founded to encourage excellence in legal education. No doubt many of you are wondering why this speaker is.
+Following the audience’s enthusiastic reaction to this speech, U. S. C. law Dean Edward J. McCaffery awarded Charlie Honorary Admission into the Order of the Quaff, a scholastic society founded to encourage excellence in legal education. No doubt many of you are wondering why this speaker is. Oh, oh, well, the answer is obvious.
 
-Oh, oh, well, the answer is obvious. He hasn’t died yet. And why was this speaker chosen? Well, I don’t know that.
+He hasn’t died yet. And why was this speaker chosen? Well, I don’t know that. He’d like to think that the development department had nothing to do with it.
 
-He’d like to think that the development department had nothing to do with it. Whatever the reason, I think it’s fitting that I am speaking here because I see a crowd of older people in the rear, not wearing robes, and I know from having educated an army of descendants who it is that really deserves a lot of the honors that are being given today to the robe-wearing students in front. The sacrifices and the wisdom and the value transfer that come from one generation to the next should always be appreciated.
+Whatever the reason, I think it’s fitting that I am speaking here because I see a crowd of older people in the rear, not wearing robes, and I know from having educated an army of descendants who it is that really deserves a lot of the honors that are being given today to the robe-wearing students in front. The sacrifices and the wisdom and the value transfer that come from one generation to the next should always be appreciated. I also take pleasure from the sea of Asian faces to my left.
 
-I also take pleasure from the sea of Asian faces to my left. All my life I have admired Confucius. I like the idea of filial piety, eighty-nine of ideas or values that are taught, and duties that come naturally that should be passed on to the next generation. You people who don’t think there’s anything in this idea, please note how fast Asian people are rising in American life.
+All my life I have admired Confucius. I like the idea of filial piety, eighty-nine of ideas or values that are taught, and duties that come naturally that should be passed on to the next generation. You people who don’t think there’s anything in this idea, please note how fast Asian people are rising in American life. I think they have something.
 
-I think they have something. All right. I’ve scratched out a few notes, and am going to try and give an account of certain ideas and attitudes that have worked well for me. I don’t claim that they’re perfect for everybody, but I think many of them contain universal values and that many of them are can’t-fail ideas.
+All right. I’ve scratched out a few notes, and am going to try and give an account of certain ideas and attitudes that have worked well for me. I don’t claim that they’re perfect for everybody, but I think many of them contain universal values and that many of them are can’t-fail ideas. What are the core ideas that helped me?
 
-What are the core ideas that helped me? Well, luckily, I had the idea at a very early age that the safest way to try to get what you want is to try to deserve what you want. It’s such a simple idea. It’s the golden rule.
+Well, luckily, I had the idea at a very early age that the safest way to try to get what you want is to try to deserve what you want. It’s such a simple idea. It’s the golden rule. You want to deliver to the world what you would buy if you were on the other end.
 
-You want to deliver to the world what you would buy if you were on the other end. There is no ethos in my opinion that is better for any lawyer or any other person to have. By and large, the people who have had this ethos win in life, and they don’t win just money and honors. They win the respect, the deserved trust of the people they deal with, and there is huge pleasure in life to be obtained from getting deserved trust.
+There is no ethos in my opinion that is better for any lawyer or any other person to have. By and large, the people who have had this ethos win in life, and they don’t win just money and honors. They win the respect, the deserved trust of the people they deal with, and there is huge pleasure in life to be obtained from getting deserved trust.
 
 Now, occasionally, you will find a perfect oak of a person who dies rich and widely known. But mostly these people are fully understood as despicable by the surrounding civilization.
 
@@ -3539,7 +3535,7 @@ Well, the top seven learned more in memory, but the importance of the learning m
 
 You do not want to choose a brain surgeon for your child by drawing straws to select one of fifty applicants, all of whom take turns doing procedures. You don’t want your airplanes designed in too egalitarian a fashion. You don’t want your Berkshire Hathaways run that way either. You want to provide a lot of playing time for your best player.
 
-I frequently tell the, aest, antinines, apocryphal story about how Max Planck, after he won the Nobel Prize, went around Germany giving the same standard lecture on the new quantum mechanics. Over time his chauffeur memorized the lecture, and said, “Would you mind, Professor Planck, because it’s so boring to stay in our routine, if I gave the lecture in Munich, and you just sat in front, wearing my chauffeur’s hat, Planck said, Why not?” And he chauffeur got up and gave this long lecture on quantum mechanics, after which a physics professor stood up and asked a perfectly ghastly question.
+I frequently tell the, aest, antinines, apocryphal story about how Max Planck, after he won the Nobel Prize, went around Germany giving the same standard lecture on the new quantum mechanics. Over time his chauffeur memorized the lecture, and said, “Would you mind, Professor Planck, because it’s so boring to stay in our routine, if I gave the lecture in Munich, and you just sat in front, wearing my chauffeur’s hat, Planck said, “Why not?”” And he chauffeur got up and gave this long lecture on quantum mechanics, after which a physics professor stood up and asked a perfectly ghastly question.
 
 The speaker said, “Well, in surprise that in an advanced city like Munich I get such an elementary question.” In going to ask my chauffeur to reply, Well, the reason I tell that story is not to celebrate the quick-wittedness of the protagonist. In the world I think we have two kinds of knowledge. One is Planck knowledge, that of the people who really know. We’ve paid the dues, they have the aptitude.
 
@@ -3591,9 +3587,7 @@ And if you’re proposed marriage, contract has forty-seven pages. My suggestion
 
 In the end, in speaking toward the only outcome feasible for old valiant for truth in Pilgrim’s Progress. Ninety-five, my sword, I leave to him who can wield it.
 
-#### CHAPTER IV.
-
-TALK 11.5.
+#### CHAPTER IV. TALK 11.5.
 
 
 <a id="sec-094634"></a>
@@ -3705,9 +3699,7 @@ This can occur through deliberate human man-pollation or otherwise if one doesn�
 
 With this introductory instruction from ants, magicians, and the grand general principle of social psychology, I will next simply number and list psychology-based tendencies that, while generally useful, often mislead.
 
-#### DISCUSSION OF ERS.
-
-Fromage Tendency We will come later, together with a description of some antidotes to these errors, followed by some general discussion. Here are the tendencies, reward and punishment super-response tendency-liking, loving tendency disliking, hating tendency-sidote, avoidance tendency-inconsistency, avoidance tendency-curiosity, tendency-curiosity, tendency-kenshinfer, tendency-shinruence from mere association, tendency-simple, pain-avoiding
+#### DISCUSSION OF ERS. Fromage Tendency We will come later, together with a description of some antidotes to these errors, followed by some general discussion. Here are the tendencies, reward and punishment super-response tendency-liking, loving tendency disliking, hating tendency-sidote, avoidance tendency-inconsistency, avoidance tendency-curiosity, tendency-curiosity, tendency-kenshinfer, tendency-shinruence from mere association, tendency-simple, pain-avoiding
 
 
 <a id="sec-101149"></a>
@@ -3805,15 +3797,15 @@ Overall costs and their
 
 businesses will perish if costs exceed sales. Replace such owners by salaried employees of the state, and you will normally get a substantial reduction in overall efficiency, as each employee who replaces an owner is subject to incentive-caused bias, as he determines what service he will give in exchange for his salary, and how much he will yield to peer pressure from many fellow employees who do not desire his creation of any strong performance model. Another generalized consequence of incentive-caused bias is that man tends to game all human systems, often displaying great ingenuity in wrongly serving himself at the expense of others.
 
-Anti-gaming features, therefore, constitute a huge and necessary part of almost all system design. As needed, in system design is… an admonition, dread, and avoid as much you can, rewarding people for what can be easily faked. Yet our legislators and judges, usually including many lawyers educated in eminent universities, often ignore this injunction.
+Anti-gaming features, therefore, constitute a huge and necessary part of almost all system design. As needed, in system design is… an admonition, dread, and avoid as much you can, rewarding people for what can be easily faked. Yet our legislators and judges, usually including many lawyers educated in eminent universities, often ignore this injunction. Society consequently pays a huge price in the deterioration of behavior and efficiency, as well as the incurrence of unfair costs and wealth transfer.
 
-Society consequently pays a huge price in the deterioration of behavior and efficiency, as well as the incurrence of unfair costs and wealth transfer. If education were, improve, with psychological reality becoming better taught and assimilated, better system design might well come out of our legislatures and courts. Of course, money is now the main reward that drives habits. A monkey can be trained to seek and work for an intrinsically worthless token as if it were a banana, if the token is routinely exchangeable for a banana.
+If education were, improve, with psychological reality becoming better taught and assimilated, better system design might well come out of our legislatures and courts. Of course, money is now the main reward that drives habits. A monkey can be trained to seek and work for an intrinsically worthless token as if it were a banana, if the token is routinely exchangeable for a banana. So it is with humans working for… moon, only more so, because human money is exchangeable for many desired things in addition to food, and one ordinarily gains status from either holding or spending it.
 
-So it is with humans working for… moon, only more so, because human money is exchangeable for many desired things in addition to food, and one ordinarily gains status from either holding or spending it. Moreover, a rich person will often, through habit, work, or connive energetically for more money long after he has almost no real need for more. Averaged doubt, money is a mainspring of modern civilization, having little precedent into behavior of non-human animals, found heart. Money rewards are also intertwined with other forms of reward.
+Moreover, a rich person will often, through habit, work, or connive energetically for more money long after he has almost no real need for more. Averaged doubt, money is a mainspring of modern civilization, having little precedent into behavior of non-human animals, found heart. Money rewards are also intertwined with other forms of reward. For instance, some people use money to buy status, and others use status to get money, while still others sort of do both things at the same time.
 
-For instance, some people use money to buy status, and others use status to get money, while still others sort of do both things at the same time. Although money is the main driver among rewards, it is not the only reward that works. People also change their behavior and cognition for sex, friendship companionship, advancement in status, and other non-monetary items. Granny’s rule provides another example of reward superpower so extreme in its effects that it must be mentioned here. You can successfully manipulate your own behavior with this rule, even if you are using as rewards items that you already possess.
+Although money is the main driver among rewards, it is not the only reward that works. People also change their behavior and cognition for sex, friendship companionship, advancement in status, and other non-monetary items. Granny’s rule provides another example of reward superpower so extreme in its effects that it must be mentioned here. You can successfully manipulate your own behavior with this rule, even if you are using as rewards items that you already possess. Indeed, consultant PhD periodigists often urge business organizations to improve their reward systems by teaching executives to use Granny’s rule to govern their own daily behavior.
 
-Indeed, consultant PhD periodigists often urge business organizations to improve their reward systems by teaching executives to use Granny’s rule to govern their own daily behavior. Granny’s rule, to be specific, is the requirement that children eat their carrots before they get dessert. The business version requires that executives force themselves daily to first do their unpleasant and necessary tasks before rewarding themselves by proceeding to their pleasant tasks. Given reward superpower, this practice is wise and sound.
+Granny’s rule, to be specific, is the requirement that children eat their carrots before they get dessert. The business version requires that executives force themselves daily to first do their unpleasant and necessary tasks before rewarding themselves by proceeding to their pleasant tasks. Given reward superpower, this practice is wise and sound.
 
 Moreover, the rule can also be used in the non-business part of life. The emphasis on daily use of this practice is not accidental. The consultants well know, after the teaching of Skinner, that prompt rewards work best. Punishments, of course, also strongly influence behavior and cognition, although not so flexibly and wonderfully.
 
@@ -3925,7 +3917,7 @@ Educational institutions that create a climate where much of this goes on are, I
 <a id="sec-105724"></a>
 ### ⏱️ [10:57:24 - 11:02:24]
 
-is a lot of innate curiosity in mammals. Wu’i's non-human version is highest among apes and monkeys. Abdu’n chisa' anzari kenya tam un she’o. Butchti, a soft highest among apes.
+is a lot of innate curiosity in mammals. Wu’i’s non-human version is highest among apes and monkeys. Abdu’n chisa' anzari kenya tam un she’o. Butchti, a soft highest among apes.
 
 Man’s curiosity, in turn, is much stronger than that of his Simeon relative. In advanced human civilization, culture greatly increases the effectiveness of curiosity in advancing knowledge. For instance, Athens, including its colony Alexandria, developed much math and science out of pure curiosity, while the Romans made almost no, contributing to either math or science. They instead concentrated their attention on the practical engineering of mines, roads, aqueducts, etc. Curiosity, enhanced by the best of modern education, which is, by definition, a minority part in many plus much helps man to prevent or reduce bad consequences arising from other psychological tendencies.
 

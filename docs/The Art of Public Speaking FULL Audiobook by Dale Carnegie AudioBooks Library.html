@@ -66,26 +66,12 @@
       --card-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
     }
 
-    [data-line-height="compact"] {
-      --line-height: 1.68;
-    }
-    [data-line-height="normal"] {
-      --line-height: 1.88;
-    }
-    [data-line-height="loose"] {
-      --line-height: 2.12;
-    }
+    [data-line-height="compact"] { --line-height: 1.68; }
+    [data-line-height="normal"] { --line-height: 1.88; }
+    [data-line-height="loose"] { --line-height: 2.12; }
 
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
-    html {
-      scroll-behavior: smooth;
-    }
-
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
     body {
       font-family: var(--font-family);
       font-size: var(--font-size);
@@ -119,7 +105,7 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 0 20px;
+      padding: 0 18px;
       background-color: var(--bg-header);
       backdrop-filter: blur(8px);
       -webkit-backdrop-filter: blur(8px);
@@ -129,7 +115,7 @@
     .header-left, .header-right {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 8px;
       flex-wrap: nowrap;
     }
 
@@ -138,7 +124,7 @@
       border: 1px solid var(--border-color);
       color: var(--text-primary);
       cursor: pointer;
-      font-size: 14px;
+      font-size: 13.5px;
       padding: 6px 10px;
       border-radius: 8px;
       display: inline-flex;
@@ -147,6 +133,7 @@
       transition: all 0.2s;
       white-space: nowrap;
       user-select: none;
+      text-decoration: none;
     }
     .btn-icon:hover {
       background-color: var(--accent-light);
@@ -161,11 +148,132 @@
       font-size: 14px;
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
+    }
+    .home-link:hover { color: var(--accent-color); }
+
+    /* In-Page Search Bar Dropdown */
+    .inpage-search-bar {
+      position: sticky;
+      top: 60px;
+      z-index: 890;
+      background-color: var(--bg-surface);
+      border-bottom: 1px solid var(--border-color);
+      padding: 10px 18px;
+      display: none;
+      align-items: center;
+      gap: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    }
+    .inpage-search-bar.active { display: flex; }
+
+    .inpage-search-input-wrapper {
+      flex: 1;
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    .inpage-search-input {
+      width: 100%;
+      padding: 8px 36px 8px 12px;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      font-size: 14px;
+    }
+    .inpage-search-input:focus { outline: 2px solid var(--accent-color); }
+
+    .inpage-search-clear {
+      position: absolute;
+      right: 10px;
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 16px;
     }
 
-    .home-link:hover {
+    .inpage-search-count {
+      font-size: 13px;
+      color: var(--text-secondary);
+      font-family: monospace;
+      white-space: nowrap;
+    }
+    .search-nav-btns { display: flex; gap: 6px; }
+
+    /* In-Page Search Results Drawer */
+    .inpage-search-drawer {
+      position: fixed;
+      right: 20px;
+      top: 120px;
+      width: 360px;
+      max-height: calc(100vh - 160px);
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+      z-index: 895;
+      display: none;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .inpage-search-drawer.active { display: flex; }
+    .inpage-search-drawer-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-weight: 600;
+      font-size: 14px;
+    }
+    .inpage-search-drawer-list {
+      overflow-y: auto;
+      padding: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .search-result-item {
+      padding: 10px 12px;
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+      background: var(--bg-primary);
+      cursor: pointer;
+      font-size: 13px;
+      transition: all 0.15s;
+    }
+    .search-result-item:hover, .search-result-item.active {
+      border-color: var(--accent-color);
+      background: var(--accent-light);
+    }
+    .search-result-time {
+      font-weight: 700;
       color: var(--accent-color);
+      font-family: monospace;
+      margin-bottom: 4px;
+    }
+    .search-result-snippet {
+      color: var(--text-primary);
+      line-height: 1.5;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    /* Highlight mark */
+    mark.search-highlight {
+      background-color: #fef08a;
+      color: #1f2937;
+      padding: 1px 3px;
+      border-radius: 3px;
+    }
+    mark.search-highlight.active-match {
+      background-color: #f97316;
+      color: #ffffff;
+      outline: 2px solid #ea580c;
     }
 
     /* Layout Wrapper */
@@ -212,9 +320,7 @@
       font-size: 13px;
       margin-bottom: 14px;
     }
-    .toc-search:focus {
-      outline: 2px solid var(--accent-color);
-    }
+    .toc-search:focus { outline: 2px solid var(--accent-color); }
 
     .toc-list {
       list-style: none;
@@ -237,12 +343,10 @@
       overflow: hidden;
       text-overflow: ellipsis;
     }
-
     .toc-item a:hover {
       background-color: var(--accent-light);
       color: var(--accent-color);
     }
-
     .toc-item.active a {
       background-color: var(--accent-color);
       color: #ffffff;
@@ -257,19 +361,17 @@
       display: flex;
       justify-content: center;
     }
-
     .reader-container {
       width: 100%;
       max-width: var(--content-max-width);
     }
 
-    /* Book Hero / Header */
+    /* Book Hero */
     .book-hero {
       margin-bottom: 40px;
       padding-bottom: 24px;
       border-bottom: 2px solid var(--border-color);
     }
-
     .book-hero h1 {
       font-size: 2.1em;
       line-height: 1.35;
@@ -285,7 +387,6 @@
       gap: 10px;
       margin-top: 14px;
     }
-
     .meta-chip {
       display: inline-flex;
       align-items: center;
@@ -297,8 +398,13 @@
       font-size: 13px;
       font-weight: 500;
     }
+    .meta-chip.cat-badge {
+      background-color: #06b6d422;
+      color: #06b6d4;
+      font-weight: 600;
+    }
 
-    /* Content Typography & Enhanced Paragraphs */
+    /* Content Typography */
     .transcript-section {
       margin-bottom: 50px;
       scroll-margin-top: 80px;
@@ -349,25 +455,22 @@
       letter-spacing: 0.015em;
     }
 
-    /* Indented paragraph style (Traditional) */
+    /* Indented paragraph style */
     [data-p-style="indent"] .section-body p {
       text-indent: 2em;
       margin-bottom: 1.15em;
       line-height: var(--line-height);
     }
 
-    /* Block paragraph style (Modern with whitespace) */
+    /* Block paragraph style */
     [data-p-style="block"] .section-body p {
       text-indent: 0;
       margin-bottom: 1.55em;
       line-height: var(--line-height);
     }
+    .section-body p:last-child { margin-bottom: 0; }
 
-    .section-body p:last-child {
-      margin-bottom: 0;
-    }
-
-    /* Floating Navigation Controls */
+    /* Floating Tools */
     .floating-tools {
       position: fixed;
       bottom: 24px;
@@ -377,7 +480,6 @@
       gap: 10px;
       z-index: 800;
     }
-
     .float-btn {
       width: 44px;
       height: 44px;
@@ -399,7 +501,6 @@
       color: var(--accent-color);
     }
 
-    /* Overlay for mobile drawer */
     .backdrop {
       display: none;
       position: fixed;
@@ -419,36 +520,22 @@
         transform: translateX(-100%);
         box-shadow: 4px 0 16px rgba(0,0,0,0.15);
       }
-
-      .sidebar.open {
-        transform: translateX(0);
-      }
-
-      .backdrop.open {
-        display: block;
+      .sidebar.open { transform: translateX(0); }
+      .backdrop.open { display: block; }
+      .inpage-search-drawer {
+        left: 20px;
+        right: 20px;
+        width: auto;
       }
     }
 
     @media (max-width: 640px) {
-      :root {
-        --font-size: 17px;
-      }
-      .main-content {
-        padding: 24px 16px 60px 16px;
-      }
-      .book-hero h1 {
-        font-size: 1.55em;
-      }
-      .top-header {
-        padding: 0 10px;
-      }
-      .btn-icon {
-        padding: 5px 8px;
-        font-size: 13px;
-      }
-      [data-p-style="indent"] .section-body p {
-        text-indent: 1.5em;
-      }
+      :root { --font-size: 17px; }
+      .main-content { padding: 24px 16px 60px 16px; }
+      .book-hero h1 { font-size: 1.55em; }
+      .top-header { padding: 0 10px; }
+      .btn-icon { padding: 5px 7px; font-size: 12.5px; }
+      [data-p-style="indent"] .section-body p { text-indent: 1.5em; }
     }
   </style>
 </head>
@@ -464,6 +551,14 @@
       <a href="index.html" class="home-link" title="返回書架">
         🏠 書架
       </a>
+      <!-- Search Inside Book Button -->
+      <button class="btn-icon" id="search-toggle-btn" title="搜尋本書內文 (Ctrl+F)">
+        🔍 <span>搜尋內文</span>
+      </button>
+      <!-- Global Search Link -->
+      <a href="index.html?tab=search" class="btn-icon" title="前往全書庫全文檢索">
+        🌐 <span>全庫搜尋</span>
+      </a>
     </div>
 
     <div class="header-right">
@@ -473,7 +568,7 @@
       </button>
 
       <!-- Line Height Toggle -->
-      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 精簡)">
+      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 緊湊)">
         ↕ <span id="line-height-label">行距</span>
       </button>
 
@@ -492,6 +587,29 @@
       <button class="btn-icon" id="font-inc-btn" title="放大字級">A+</button>
     </div>
   </header>
+
+  <!-- In-Page Search Bar Dropdown -->
+  <div class="inpage-search-bar" id="inpage-search-bar">
+    <div class="inpage-search-input-wrapper">
+      <input type="text" id="inpage-search-input" class="inpage-search-input" placeholder="🔍 搜尋本書內文關鍵字 (按 Enter 尋找下一處，Esc 關閉)...">
+      <button class="inpage-search-clear" id="inpage-search-clear" title="清空">✕</button>
+    </div>
+    <span class="inpage-search-count" id="inpage-search-count">0 / 0</span>
+    <div class="search-nav-btns">
+      <button class="btn-icon" id="inpage-search-prev" title="上一處 (Shift+Enter)">▲</button>
+      <button class="btn-icon" id="inpage-search-next" title="下一處 (Enter)">▼</button>
+      <button class="btn-icon" id="inpage-search-close" title="關閉搜尋 (Esc)">✕</button>
+    </div>
+  </div>
+
+  <!-- In-Page Search Results Drawer -->
+  <div class="inpage-search-drawer" id="inpage-search-drawer">
+    <div class="inpage-search-drawer-header">
+      <span>搜尋結果清單</span>
+      <button class="btn-icon" id="inpage-drawer-close" style="padding: 2px 6px;">✕</button>
+    </div>
+    <div class="inpage-search-drawer-list" id="inpage-search-drawer-list"></div>
+  </div>
 
   <div class="backdrop" id="backdrop"></div>
 
@@ -651,6 +769,7 @@
         <header class="book-hero">
           <h1>The Art of Public Speaking FULL Audiobook by Dale Carnegie AudioBooks Library</h1>
           <div class="book-meta-chips">
+            <span class="meta-chip cat-badge">🎯 領導與策略</span>
             <span class="meta-chip">🏷️ 時長：11:33:02</span>
 <span class="meta-chip">🏷️ 模型：small.en</span>
 <span class="meta-chip">🏷️ 日期：2026-09-22</span>
@@ -658,7 +777,7 @@
         </header>
 
         <!-- Transcript Content -->
-        <div class="book-body">
+        <div class="book-body" id="book-body">
           
         <section class="transcript-section" id="sec-000000">
           <div class="section-header">
@@ -748,9 +867,11 @@
 <p class="prose-p">Many of these ideas will be amplified and enforced in a more specific way. But through all these chapters on an art which Mr. Gladstone believed to be more powerful than the public press, the note of justifiable self-confidence must sound again and again. Questions and Exercises 1. What is the cause of self-consciousness? 2.</p>
 <p class="prose-p">Why are animals free from it? 3. What is your observation regarding self-consciousness in children? 4. Why are you free from it under the stress of unusual excitement? 5. How does moderate excitement affect you? 6.</p>
 <p class="prose-p">What are the two fundamental requisites for the acquiring of self-confidence? Which is the more important? 7. What effect does confidence on the part of the speaker have on the audience? 8. Write out a two-minute speech on confidence and cowardice. 9.</p>
-<p class="prose-p">What effect do habits of thought have on confidence? In this connection read the chapter on Right Thinking and Personality. 10. Write out very briefly any experience you may have had involving the teachings of this chapter. 11. Keep a three-minute talk on stage fright, including a kindly imitation of two or more victims. CHAPTER 2.</p>
-<h4 class="section-subhead">THE SIN OF MONOTONY.</h4>
-<h4 class="section-subhead">ONE DAY ON WE WAS BORN FROM UNIFORMITY, MOAT.</h4>
+<p class="prose-p">What effect do habits of thought have on confidence? In this connection read the chapter on Right Thinking and Personality. 10. Write out very briefly any experience you may have had involving the teachings of this chapter. 11. Keep a three-minute talk on stage fright, including a kindly imitation of two or more victims. CHAPTER 2.
+
+#### THE SIN OF MONOTONY.
+
+#### ONE DAY ON WE WAS BORN FROM UNIFORMITY, MOAT.</p>
 <p class="prose-p">Our English has changed with the years so that many words now connote more than they did originally. This is true of the word monotonous. From having but one tone it has come to mean more broadly lack of variation. The monotonous speaker not only drones along in the same volume and pitch of tone but uses always the same emphasis, the same speed, the same thoughts, or dispenses with thought</p>
           </div>
         </section>
@@ -795,12 +916,12 @@
 <p class="prose-p">Sight some instances in nature 3. Sight instances in man’s daily life 4. Describe some of the effects of monotony in both cases 5. Read aloud some speech without paying particular attention to its meaning or force 6.</p>
 <p class="prose-p">Now repeat it after you have thoroughly assimilated its matter and spirit. What difference do you notice in its renunciation? Section 3. The Art of Public Speaking.</p>
 <p class="prose-p">This is a LibriVox recording. All LibriVox recordings are in the public domain. For more information, or to volunteer, please visit librivox.org. Recording by Joe Mabry.</p>
-<p class="prose-p">The Art of Public Speaking by Dale Carnegie and Joseph Berg Ezenwein. Section 3.</p>
-<h4 class="section-subhead">Chapter 3.</h4>
-<p class="prose-p">Efficiency Through Emphasis and Subordination In a word, the principle of emphasis is followed best not by remembering particular rules, but by being full of a particular feeling. C. S. Baldwin, Writing and Speaking.</p>
-<p class="prose-p">The gun that scatters too much does not bag the birds. The same principle applies to speech. The speaker that fires his force and emphasis at random into a sentence will not get results. Not every word is of special importance, therefore only certain words demand emphasis.</p>
-<p class="prose-p">You say Massachusetts and Minneapolis. You do not emphasize each syllable alike, but hit the accen- its syllable with force and hurry over the own important ones. Now why do you not apply this principle in speaking a sentence? To some extent you do, in ordinary speech.</p>
-<p class="prose-p">But do you in public discourse? It is there that monotony caused by lack of</p>
+<p class="prose-p">The Art of Public Speaking by Dale Carnegie and Joseph Berg Ezenwein. Section 3.
+
+#### Chapter 3. Efficiency Through Emphasis and Subordination In a word, the principle of emphasis is followed best not by remembering particular rules, but by being full of a particular feeling. C.</p>
+<p class="prose-p">S. Baldwin, Writing and Speaking. The gun that scatters too much does not bag the birds. The same principle applies to speech.</p>
+<p class="prose-p">The speaker that fires his force and emphasis at random into a sentence will not get results. Not every word is of special importance, therefore only certain words demand emphasis. You say Massachusetts and Minneapolis. You do not emphasize each syllable alike, but hit the accen- its syllable with force and hurry over the own important ones.</p>
+<p class="prose-p">Now why do you not apply this principle in speaking a sentence? To some extent you do, in ordinary speech. But do you in public discourse? It is there that monotony caused by lack of</p>
           </div>
         </section>
         
@@ -866,10 +987,13 @@
 <p class="prose-p">Are there any others you would emphasize? Why? The old astronomer said give me a larger eye and I will discover new stars and suns. That is what the republic needs today, new men, men who are wise toward the soil, toward the grains, toward the tools.</p>
 <p class="prose-p">If God would only raise up for the people two or three men like Watt, Fulton, and McCormick, they would be worth more to the state than that treasure-box named California or Mexico. And the real supremacy of man is based upon his capacity for education. Man is unique in the length of his childhood, which means the period of plasticity and education, the childhood of a moth, the distance that stands between the hatching of the robin and its maturity, represent a few hours or a few weeks, but twenty years for growth stands between man’s cradle and his citizenship.</p>
 <p class="prose-p">This protracted childhood makes it possible to hand over to the boy all the accumulated stores achieved by races and civilizations through thousands of years. Anonymous You must understand that there are no steel riveted rules of emphasis. It is not always possible to designate which word must and which must not be emphasized. One speaker will put one interpretation on a speech, another speaker will use different emphasis to bring out a different interpretation.</p>
-<p class="prose-p">No one can say that one interpretation is right and the other wrong. This principle must be borne in mind in all our marked exercises. Here your own intelligence must guide, and greatly to your profit.</p>
-<h4 class="section-subhead">QUESTIONS AND EXERCISES 1.</h4>
-<h4 class="section-subhead">WHAT IS EMPHASIS 2.</h4>
-<h4 class="section-subhead">DESCRIBE ONE METHOD OF DESTROYING MONOTONY OF THOUGHT PRESENTATION 3.</h4>
+<p class="prose-p">No one can say that one interpretation is right and the other wrong. This principle must be borne in mind in all our marked exercises. Here your own intelligence must guide, and greatly to your profit.
+
+#### QUESTIONS AND EXERCISES 1.
+
+#### WHAT IS EMPHASIS 2.
+
+#### DESCRIBE ONE METHOD OF DESTROYING MONOTONY OF THOUGHT PRESENTATION 3.</p>
           </div>
         </section>
         
@@ -880,25 +1004,34 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <h4 class="section-subhead">WHAT RELATION DOES THIS HAVE TO THE USE OF THE VOICE? 4.</h4>
-<h4 class="section-subhead">WHICH WORDS SHOULD BE EMPHASISED WHICH SUBORDINATED IN A SENTENCE? 5.</h4>
-<p class="prose-p">READ THE SELECTIONS ON PAGES 50, 51, 52, 53, and 54, devoting special attention to emphasizing the important words or phrases and subordinating the unimportant ones.</p>
-<h4 class="section-subhead">READ AGAIN, CHANGING EMPHASIS SLIGHTLY.</h4>
-<h4 class="section-subhead">WHAT IS THE EFFECT? 6.</h4>
-<h4 class="section-subhead">READ SOME SENTENCE REPEATEDLY, EMPHASISING A DIFFERENT WORD EACH TIME, AND SHOW HOW THE MEANING IS CHANGED, AS IS DONE ON PAGE 22. 7.</h4>
-<h4 class="section-subhead">WHAT IS THE EFFECT OF A LACK OF EMPHASIS? 8.</h4>
-<h4 class="section-subhead">READ THE SELECTIONS ON PAGES 30 AND 48, EMPHASISING EVERY WORD.</h4>
-<h4 class="section-subhead">WHAT IS THE EFFECT ON THE EMPHASIS? 9.</h4>
+            <h4 class="section-subhead">#### WHAT RELATION DOES THIS HAVE TO THE USE OF THE VOICE? 4.
+
+#### WHICH WORDS SHOULD BE EMPHASISED WHICH SUBORDINATED IN A SENTENCE? 5.</h4>
+<p class="prose-p">READ THE SELECTIONS ON PAGES 50, 51, 52, 53, and 54, devoting special attention to emphasizing the important words or phrases and subordinating the unimportant ones.
+
+#### READ AGAIN, CHANGING EMPHASIS SLIGHTLY.
+
+#### WHAT IS THE EFFECT? 6.
+
+#### READ SOME SENTENCE REPEATEDLY, EMPHASISING A DIFFERENT WORD EACH TIME, AND SHOW HOW THE MEANING IS CHANGED, AS IS DONE ON PAGE 22. 7.
+
+#### WHAT IS THE EFFECT OF A LACK OF EMPHASIS? 8.
+
+#### READ THE SELECTIONS ON PAGES 30 AND 48, EMPHASISING EVERY WORD.
+
+#### WHAT IS THE EFFECT ON THE EMPHASIS? 9.</p>
 <p class="prose-p">When is it permissible to emphasize every single word in a sentence? 10. Note the emphasis and subordination in some conversation or speech you have heard. Were they well made? Why?</p>
 <p class="prose-p">Can you suggest any improvement? 11. From a newspaper or a magazine, clip a report of an address or a biographical eulogy. Mark the passage for emphasis and bring it with you to class. 12. In the following passage, would you make any changes in the author’s markings for emphasis? 13.</p>
 <p class="prose-p">Where? Why? Bear in mind that not all words marked require the same degree of emphasis. In a wide variety of emphasis, and in nice shading of the gradations, lie the excellence of emphatic speech. 14.</p>
 <p class="prose-p">I would call him Napoleon, but Napoleon made his way to empire over broken oaths and through a sea of blood. This man never broke his word. No retaliation was his great motto and the rule of his life, and the last words uttered to his son in France were these, quote, My boy, you will one day go back to Santo Domingo, forget that France murdered your father, unquote. I would call him Cromwell, but Cromwell was only a soldier, and the state he founded went down with him into his grave.</p>
 <p class="prose-p">I would call him Washington, but the great Virginian held slaves. This man risks his empire rather than prevent the slave trade in the humblest village of his dominions. You think me a fanatic to-night, for you read history, not with your eyes, but with your prejudices. But fifty years hence, when truth gets a hearing, the muse of history will put Phocion for the Greek, and Brutus for the Roman, Hampton for England, Lafayette for France.</p>
-<p class="prose-p">Choose Washington as the bright consummate flower of our earlier civilization, and John Brown the ripe fruit of our noonday, then, dipping her pan in the sunlight, will write in the clear blue above them all, the name of the soldier, the statesman, the martyr.</p>
-<h4 class="section-subhead">CHAPTER IV.</h4>
-<h4 class="section-subhead">EFFICIENCY THROUGH CHANGE OF PITCH.</h4>
-<p class="prose-p">Speech is simply a modified form of singing, the principal difference being in the fact that in singing the vowel sounds are prolonged and the intervals are short, whereas in speech the words are uttered in what may be called staccato tones, the vowels not being specifically prolonged and the intervals between the words being more distinct. The fact that in singing we have a larger range of tones does not properly distinguish it from ordinary speech. In speech we have likewise a variation of tones, and even in ordinary conversation there is a difference of from three to six semitones, as I have found in my investigations, and in some persons the range is as high as one octave.</p>
-<p class="prose-p">William Sheppagrell, Popular Science Monthly. By pitch, as everyone knows, we mean the relative position of a vocal tone, as high, medium, low, or any variation between. In public speech we apply it not only to a single utterance, as an exclamation or a monosyllable, O, or thee, but to any group of syllables, words, and even sentences that may be spoken in a single tone. This distinction it is important to keep in mind, for the efficient speaker not only changes</p>
+<p class="prose-p">Choose Washington as the bright consummate flower of our earlier civilization, and John Brown the ripe fruit of our noonday, then, dipping her pan in the sunlight, will write in the clear blue above them all, the name of the soldier, the statesman, the martyr.
+
+#### CHAPTER IV.
+
+#### EFFICIENCY THROUGH CHANGE OF PITCH. Speech is simply a modified form of singing, the principal difference being in the fact that in singing the vowel sounds are prolonged and the intervals are short, whereas in speech the words are uttered in what may be called staccato tones, the vowels not being specifically prolonged and the intervals between the words being more distinct.</p>
+<p class="prose-p">The fact that in singing we have a larger range of tones does not properly distinguish it from ordinary speech. In speech we have likewise a variation of tones, and even in ordinary conversation there is a difference of from three to six semitones, as I have found in my investigations, and in some persons the range is as high as one octave. William Sheppagrell, Popular Science Monthly. By pitch, as everyone knows, we mean the relative position of a vocal tone, as high, medium, low, or any variation between.</p>
+<p class="prose-p">In public speech we apply it not only to a single utterance, as an exclamation or a monosyllable, O, or thee, but to any group of syllables, words, and even sentences that may be spoken in a single tone. This distinction it is important to keep in mind, for the efficient speaker not only changes</p>
           </div>
         </section>
         
@@ -1003,8 +1136,10 @@
             <p class="prose-p">past with the spectacle of a republic, compact, united, indissoluble in the bonds of love. Loving from the lakes to the gulf, the wounds of war healed in every heart as on every hill, serene and resplendent at the summit of human achievement and earth glory, blazing out the path and making clear the way up which all the nations of the earth must come in God’s appointed time. Henry W. Grady, The Race Problem I would call him Napoleon, but Napoleon made his way to empire over broken oaths and through a sea of blood.</p>
 <p class="prose-p">This man never broke his word. No retaliation was his great motto and the rule of his life, and the last words uttered to his son in France were these, My boy, you will one day go back to Santo Domingo, forget that France murdered your father. I would call him Cromwell, but Cromwell was only a soldier, and the state he founded went down with him into his grave. I would call him Washington, but the great Virginian held slaves.</p>
 <p class="prose-p">This man risked his empire rather than permit the slave trade in the humblest village of his dominions. You thank me a fanatic tonight, for you read history not with your eyes but with your prejudices. But fifty years hence, when truth gets a hearing, the muse of history will put Phocion for the Greek and Brutus for the Roman, Hampton for England, Lafayette for France, choose Washington as the bright consummate flower of our earlier civilization, and John Brown the ripe fruit of our noonday, then, dipping her pen in the sunlight, will write in the clear blue, above them all, the name of the soldier, the statesman, the martyr, to Saint Louverture.</p>
-<p class="prose-p">Wendell Phillips to Saint Louverture. Still on the following selections for change of pitch, Beecher’s Abraham Lincoln, page seventy-six, Seward’s Irrepressible Conflict, page sixty-seven, Everett’s History of Liberty, page seventy-eight, Grady’s The Race Problem, page thirty-six, and Beveridge’s Past Prosperity Around, page four-seventy. The Art of Public Speaking, by Dale Carnegie and Joseph Berg Eisenwein, section five. CHAPTER V.</p>
-<h4 class="section-subhead">EFFICIENCY THROUGH CHANGE OF PACE.</h4>
+<p class="prose-p">Wendell Phillips to Saint Louverture. Still on the following selections for change of pitch, Beecher’s Abraham Lincoln, page seventy-six, Seward’s Irrepressible Conflict, page sixty-seven, Everett’s History of Liberty, page seventy-eight, Grady’s The Race Problem, page thirty-six, and Beveridge’s Past Prosperity Around, page four-seventy. The Art of Public Speaking, by Dale Carnegie and Joseph Berg Eisenwein, section five.</p>
+<h4 class="section-subhead">CHAPTER V.
+
+#### EFFICIENCY THROUGH CHANGE OF PACE.</h4>
 <p class="prose-p">Here how he clears the points of faith, where Ratlin and Thumpin, now meekly calm, now wild and wrath, he’s stampin&#x27; and he’s jumpin&#x27;. Robert Burns, holy fair. The Latins have bequeathed to us a word that has no precise equivalent in our tongue, therefore we have accepted it, body unchanged. It is the word tempo, and means rate of movement, as measured by the time consumed in executing that movement.</p>
 <p class="prose-p">Thus far its use has been largely limited to the vocal and musical arts, but it would not be surprising to hear tempo applied to more concrete matters, for it perfectly illustrates the real meaning of the word to say that an ox-cart moves in slow tempo, an express train in a fast tempo. Our guns that fire six hundred times a minute shoot at a fast tempo. The old muzzle-loader that required three minutes to load shot at a slow tempo. Every musician understands this principle.</p>
 <p class="prose-p">It requires longer to sing a half note than it does an eighth note. Now tempo is a tremendously important element in good platform work, for when a speaker delivers a whole address at very nearly the same rate of speed, he is depriving himself of one of his chief means of emphasis and power. The baseball pitcher, the bowler and cricket, the tennis server, all know the value of change of pace. change of tempo, in delivering their ball, and so must the public speaker observe its power.</p>
@@ -1026,12 +1161,12 @@
 <p class="prose-p">When you and I, behind the veil, are past, oh, but the long, long while, the world shall last, which of our coming and departure heeds, as the seven seas should heed a pebble cast. 3. Note, in the following selections, the passages that should be given a fast tempo are in italics, those that should be given in a slow tempo are in small capitals. Practice these selections, and then try others, changing from fast to slow tempo on different parts, carefully noting the effect. 2.</p>
 <p class="prose-p">No Mirabeau, Napoleon, Burns, Cromwell, no man adequate to do anything, but is first of all in right earnest about it, what I call a sincere man. I should say sincerity, a great, deep, genuine sincerity, is the first characteristic of a man in any way heroic, not the sincerity that calls itself sincere. Ah, no, that is a very poor matter indeed. A shallow, braggart, conscious sincerity, oftenest self-conceit mainly.</p>
 <p class="prose-p">The great man’s sincerity is of a kind he cannot speak of, is not conscious of. Thomas Carlyle 3. True worth is in being, not seeming, in doing each day that goes by some little good, not in dreaming of great things, to do by and by. For whatever men say in their blindness, and in spite of the follies of youth, there is nothing so kingly as kindness, and nothing so royal as truth.</p>
-<p class="prose-p">Anonymous. 4. To get a natural effect, where would you use slow and where-fast tempo in the following?</p>
-<h4 class="section-subhead">FOOLS GOLD.</h4>
-<p class="prose-p">See him there, cold and gray, watch him as he tries to play. No, he doesn’t know the way. He began to learn too late. She’s a grim old hag, is fate, for she let him have his pile, smiling to herself the while, knowing what the cost would be when he’d found the golden key.</p>
-<p class="prose-p">Multimillionaire is he, many times more rich than we, but at that I wouldn’t trade with the bargain that he made. Came here many years ago, not a person did he know, had the money-hunger bad, mad for money, piggish mad. Didn’t let a joy divert him. Didn’t let a sorrow hurt him.</p>
-<p class="prose-p">Let his friends and kin desert him, while he planned and plugged and hurried, on his quest for golden power. Every single wakeful hour with the money-thought he’d dour, all the while as he grew older and grew bolder, he grew colder. And he thought that some day he would take the time to play, but say he was wrong. Life’s a song in the spring.</p>
-<p class="prose-p">Youth can sing</p>
+<p class="prose-p">Anonymous. 4. To get a natural effect, where would you use slow and where-fast tempo in the following?
+
+#### FOOLS GOLD. See him there, cold and gray, watch him as he tries to play. No, he doesn’t know the way.</p>
+<p class="prose-p">He began to learn too late. She’s a grim old hag, is fate, for she let him have his pile, smiling to herself the while, knowing what the cost would be when he’d found the golden key. Multimillionaire is he, many times more rich than we, but at that I wouldn’t trade with the bargain that he made. Came here many years ago, not a person did he know, had the money-hunger bad, mad for money, piggish mad.</p>
+<p class="prose-p">Didn’t let a joy divert him. Didn’t let a sorrow hurt him. Let his friends and kin desert him, while he planned and plugged and hurried, on his quest for golden power. Every single wakeful hour with the money-thought he’d dour, all the while as he grew older and grew bolder, he grew colder.</p>
+<p class="prose-p">And he thought that some day he would take the time to play, but say he was wrong. Life’s a song in the spring. Youth can sing</p>
           </div>
         </section>
         
@@ -1259,8 +1394,10 @@
           </div>
           <div class="section-body">
             <p class="prose-p">with brave words spoken in the old tones to drive from their hearts the awful fear. We see them part. We see the wife standing in the door, with the babe in her arms, standing in the sunlight sobbing. At the turn of the road a hand waves.</p>
-<p class="prose-p">She answers by holding high in her loving hands the child. He is gone. And forever. ROBERT J.</p>
-<h4 class="section-subhead">INGERSAW TO THE SOLDIERS OF INDIANAPOLIS 8.</h4>
+<p class="prose-p">She answers by holding high in her loving hands the child. He is gone. And forever.</p>
+<h4 class="section-subhead">ROBERT J.
+
+#### INGERSAW TO THE SOLDIERS OF INDIANAPOLIS 8.</h4>
 <p class="prose-p">Where would you pause in the following selections? Try pausing in different places and note the effect it gives. The moving finger writes and having writ moves on. Nor all your piety nor which shall lure it back to cancel half a line.</p>
 <p class="prose-p">Nor all your tears. Wash out a word of it. The history of woman-kind is a story of abuse. For ages men beat, sold, and abused their wives and daughters like cattle.</p>
 <p class="prose-p">The Spartan mother that gave birth to one of her own sex disgraced herself. The girl-babies were often deserted in the mountains to starve. China bound and deformed their feet. Turkey veiled their faces.</p>
@@ -1305,12 +1442,13 @@
 <p class="prose-p">This evening I told Sir Robert what’s his name. He was a fool. I was quite right in this. He is.</p>
 <p class="prose-p">Every evening since the ship left Vancouver he has presided over the round table in the middle of the smoking-room. There he sips his coffee and the cooler, and holds forth on every subject known to the mind of man. Each subject is his subject. He is an elderly person with a bad face and a drooping left eyelid.</p>
 <p class="prose-p">They tell me that he is in the British service. I judge somewhere down in Malaysia, where they drink more than is good for them. Deliver the two following selections with great earnestness, and note how the inflections differ from the foregoing. Then re-read these selections in a light, superficial manner, noting that the change of attitude is expressed through a change of inflection.</p>
-<p class="prose-p">When I read a sublime fact in Plutarch, or an unselfish deed in a line of poetry, or a thrill beneath some heroic legend, it is no longer fairyland. I have seen it matched.</p>
-<h4 class="section-subhead">WINDOW PHILIPS.</h4>
-<p class="prose-p">Thought is deeper than all speech, feeling deeper than all thought. Souls to souls can never teach what unto themselves was taught. CRANCH It must be made perfectly clear that inflection deals mostly in subtle, delicate shading within single words, and is not by any means accomplished by a general rise or fall in the voice in speaking a sentence. Yet certain sentences may be effectively delivered with just such inflection.</p>
-<p class="prose-p">Try this sentence in several ways, making no modulation until you come to the last two syllables, as indicated. And yet I told him distinctly, and yet I told him distinctly, and yet I told him distinctly. Now try this sentence by inflecting the important words so as to bring out various shades of The first forms, illustrated, show change of pitch within a single word. The forms you will work out for yourself should show a number of such inflections throughout the sentence.</p>
-<p class="prose-p">One of the chief means of securing emphasis is to employ long-falling inflection on the emphatic words, that is, to let the voice fall to a lower pitch on an interior vowel sound and a word. Try it on the words, EVARY, ELIMOSCINARY, and DESTROY. Use long-falling inflections on the italicized words in the following selection, noting their emphatic power. Are there any other words here that long-falling inflections would help to make expressive?</p>
-<p class="prose-p">Address in the Dartmouth College Case This, sir, is my case. It is the case not merely of that humble institution. It is the</p>
+<p class="prose-p">When I read a sublime fact in Plutarch, or an unselfish deed in a line of poetry, or a thrill beneath some heroic legend, it is no longer fairyland. I have seen it matched.
+
+#### WINDOW PHILIPS. Thought is deeper than all speech, feeling deeper than all thought. Souls to souls can never teach what unto themselves was taught.</p>
+<p class="prose-p">CRANCH It must be made perfectly clear that inflection deals mostly in subtle, delicate shading within single words, and is not by any means accomplished by a general rise or fall in the voice in speaking a sentence. Yet certain sentences may be effectively delivered with just such inflection. Try this sentence in several ways, making no modulation until you come to the last two syllables, as indicated. And yet I told him distinctly, and yet I told him distinctly, and yet I told him distinctly.</p>
+<p class="prose-p">Now try this sentence by inflecting the important words so as to bring out various shades of The first forms, illustrated, show change of pitch within a single word. The forms you will work out for yourself should show a number of such inflections throughout the sentence. One of the chief means of securing emphasis is to employ long-falling inflection on the emphatic words, that is, to let the voice fall to a lower pitch on an interior vowel sound and a word. Try it on the words, EVARY, ELIMOSCINARY, and DESTROY.</p>
+<p class="prose-p">Use long-falling inflections on the italicized words in the following selection, noting their emphatic power. Are there any other words here that long-falling inflections would help to make expressive? Address in the Dartmouth College Case This, sir, is my case. It is the case not merely of that humble institution.</p>
+<p class="prose-p">It is the</p>
           </div>
         </section>
         
@@ -1386,8 +1524,9 @@
 <p class="prose-p">Let us meet it as men who know their duty and prize their blessings. Our position is the most enviable, the most responsible, which men can fill. If this generation does its duty, the cause of constitutional freedom is safe. If we fail, if we fail, not only do we defraud our children of the inheritance which we receive from our fathers, but we blast the hopes of the friends of liberty throughout our continent, throughout Europe, throughout the world, to the end of time.</p>
 <p class="prose-p">History is not without her examples of hard-fought fields, or the banner of liberty has floated triumphantly on the wildest storm of battle. She is without her examples of people by whom the dear-bought treasure has been wisely employed and safely handed down. The eyes of the world are turned for that example to us. Let us then, as we assemble on the birthday of the nation, as we gather upon the green turf, once wet with precious blood.</p>
 <p class="prose-p">Let us devote— ATTENTION is the microscope of the mental eye. Its power may be high or low, its field of view narrow or broad. When high power is used, attention is confined within very circumscribed limits, but its action is exceedingly intense and absorbing. It sees but few things, but these few things are observed through and through.</p>
-<p class="prose-p">Mental energy and activity, whether of perception or of thought, thus concentrated, act like the sun’s rays concentrated by the burning glass. The object is illumined, heated, set on fire. Impressions are so deep that they can never be effaced. Attention of this sort is the prime condition of the most productive mental labor.</p>
-<h4 class="section-subhead">DANIEL PUTNAM, PSYCHOLOGY.</h4>
+<p class="prose-p">Mental energy and activity, whether of perception or of thought, thus concentrated, act like the sun’s rays concentrated by the burning glass. The object is illumined, heated, set on fire. Impressions are so deep that they can never be effaced. Attention of this sort is the prime condition of the most productive mental labor.
+
+#### DANIEL PUTNAM, PSYCHOLOGY.</p>
 <p class="prose-p">Try to rub the top of your head forward and backward at the same time that you are patting your chest. Unless your powers of coordination and nation are well developed, you will find it confusing, if not impossible. The brain needs special training before it can do two or more things efficiently at the same instant. It may seem like splitting a hair between its north and northwest corner, but some psychologists argue that no brain can think two distinct thoughts absolutely simultaneously.</p>
 <p class="prose-p">That what seems to be simultaneous is really very rapid rotation from the first thought to the second and back again, just as in the above-sided experiment the attention must shift from one hand to the other, until one or the other movement becomes partly or wholly automatic. Whatever is the psychological truth of this contention, it is undeniable that the mind measurably loses grip on one idea, the moment the attention is projected decidedly ahead to a second or a third idea. A fault in public speakers, that is as pernicious as it is common, is that they try to think of the succeeding sentence while still uttering the former, and in this way their concentration trails off.</p>
 <p class="prose-p">In consequence, they start their sentences strongly, and end them weakly. In a well-prepared written speech, the emphatic word usually comes at one end of the sentence. But an emphatic word needs emphatic expression, and this is precisely what it does not get, when concentration flags by leaping too soon to that which is next to be uttered. Concentrate all your mental energies on the present sentence.</p>
@@ -1485,13 +1624,14 @@
 <p class="prose-p">It matters little which. Only so that there be fire.</p>
 <p class="prose-p">However skillfully your engine is constructed, however well it works, you will have no force if the fire has gone out under the boiler. It matters little how well you have mastered poise, pause, modulation, and tempo. If your speech lacks fire, it is dead. Neither a dead engine nor a dead speech will move anybody.</p>
 <p class="prose-p">Four factors of force are measurably within your control, and in that far may be acquired. Ideas, feeling about the subject, wording, and delivery. Each of these is more or less fully discussed in this volume, except wording, which really requires a fuller rhetorical study than can here be ventured. It is, however, of the utmost importance that you should be aware of precisely how wording bears upon force in a sentence.</p>
-<p class="prose-p">Study the Working Principles of Rhetoric by John Franklin Gennung, or the Rhetorical Treatises of Adam Sherman Hill, of Charles Sears Baldwin, or any others whose names may easily be learned from any teacher. Here are a few suggestions on the use of words to attain force.</p>
-<h4 class="section-subhead">CHOICE OF WORDS.</h4>
-<p class="prose-p">Plain words are more forceful than words less commonly used. Juggle has more vigor than prestidigitate. Short words are stronger than long words. End has more directness than terminate.</p>
-<p class="prose-p">Saxon words are usually more forceful than Latinistic words. More force use wars against rather than militate against. Specific words are stronger than general words. Pressman is more definite than printer.</p>
-<p class="prose-p">Connotative words, those that suggest more than they say, have more power than ordinary words. She let herself be married, expresses more than she married. Epithates, figuratively descriptive words, are more effective than direct names. Go tell that old fox, has more punch than go tell that sly fellow.</p>
-<p class="prose-p">Onomatopoietic words, words that convey the sense by the sound, are more powerful than other words. Crash is more effective than cataclysm.</p>
-<h4 class="section-subhead">ARRANGEMENT OF WORDS.</h4>
+<p class="prose-p">Study the Working Principles of Rhetoric by John Franklin Gennung, or the Rhetorical Treatises of Adam Sherman Hill, of Charles Sears Baldwin, or any others whose names may easily be learned from any teacher. Here are a few suggestions on the use of words to attain force.
+
+#### CHOICE OF WORDS. Plain words are more forceful than words less commonly used. Juggle has more vigor than prestidigitate.</p>
+<p class="prose-p">Short words are stronger than long words. End has more directness than terminate. Saxon words are usually more forceful than Latinistic words. More force use wars against rather than militate against.</p>
+<p class="prose-p">Specific words are stronger than general words. Pressman is more definite than printer. Connotative words, those that suggest more than they say, have more power than ordinary words. She let herself be married, expresses more than she married.</p>
+<p class="prose-p">Epithates, figuratively descriptive words, are more effective than direct names. Go tell that old fox, has more punch than go tell that sly fellow. Onomatopoietic words, words that convey the sense by the sound, are more powerful than other words. Crash is more effective than cataclysm.
+
+#### ARRANGEMENT OF WORDS.</p>
 <p class="prose-p">Cut out modifiers. Cut out connectives. Begin with words that demand attention. End with words that deserve distinction, says Professor Barrett Wendell.</p>
 <p class="prose-p">Set strong ideas over against weaker ones, so as to gain strength by the contrast. Avoid elaborate sentence structure. Short sentences are stronger than long ones. Cut out every useless word, so as to give prominence to the really important ones.</p>
 <p class="prose-p">Let each sentence be a condensed battering ram swinging to its final blow on the attention. A familiar, homely idiom, if not worn by much use, is more effective than a highly formal</p>
@@ -1600,14 +1740,14 @@
             <p class="prose-p">Dante wrote out his heart in the Divine Comedy. Bunyan entered into the spirit of his pilgrim’s progress so thoroughly that he fell down on the floor of Bedford jail and wept for joy. Turner, who lived in a garret, arose before daybreak and walked over the hills nine miles to see the sunrise on the ocean that he might catch the spirit of its wonderful beauty. Wendell Phillips&#x27; sentences were full of silent lightning because he bore in his heart the sorrow of five million slaves.</p>
 <p class="prose-p">There is only one way to get feeling into your speaking, and whatever else you forget, not this. You must actually enter into the character you impersonate, the cause you advocate, the case you argue. Enter into it so deeply that it clothes you, enthralls you, possesses you wholly. Then you are, in the true meaning of the word, in sympathy with your subject, for its feeling is your feeling, you feel with it, and therefore your enthusiasm is both genuine and contagious.</p>
 <p class="prose-p">The carpenter, who spoke as never man spake, uttered words born out of a passion of love for humanity. He had entered into humanity, and thus became man. But we must not look upon the foregoing words as a facile prescription for decocting a feeling, which may then be ladled out to a complacent audience in quantities to suit the need of the moment. Genuine feeling in a speech is bone and blood of the speech itself, and not something that may be added to it or subtracted at will.</p>
-<p class="prose-p">In the ideal address theme, speaker and audience become one, fused by the emotion and thought of the hour.</p>
-<h4 class="section-subhead">THE NEED OF SYMPATHY FOR HUMANITY.</h4>
-<p class="prose-p">It is impossible to lay too much stress on the necessity for the speakers having a broad and deep tenderness for human nature. One of Victor Hugo’s biographers attributes his power as an orator and writer to his wide sympathies and profound religious feelings. Recently we heard the editor of Collier’s Weekly speak on short story writing, and he so often emphasized the necessity for this broad love of humanity, this truly religious feeling, that he apologized twice for delivering a sermon. Few if any of the immortal speeches were ever delivered for a selfish or a narrow cause.</p>
-<p class="prose-p">They were born out of a passionate desire to help humanity. Instances, Paul’s address to the Athenians on Mars Hill, Lincoln’s Gettysburg speech, the Sermon on the Mount, Henry’s address before the Virginia Convention of Delegates. The seal and sign of greatness is a desire to serve others. Self-preservation is the first law of life, but self-abnegation is the first law of greatness, and of art.</p>
-<p class="prose-p">Selfishness is the fundamental cause of all sin. It is the thing that all great religions, all worthy philosophies, have struck at. Out of a heart of real sympathy and love comes the speeches that move humanity. Former United States Senator Albert J.</p>
-<p class="prose-p">Beveridge, in an introduction to one of the volumes of Modern Eloquence, says, The profoundest feeling among the masses the most influential element in their character is the religious element. It is as instinctive and elemental as the law of self-preservation. It informs the whole intellect and personality of the people. And he who would greatly influence the people, by uttering their unformed thoughts, must have this great and unanalyzable bond of sympathy with them.</p>
-<p class="prose-p">When the men of Ulster armed themselves to oppose the passage of the Home Rule Act, one of the present writers, assigned to a hundred men Home Rule as the topic for an address, to be prepared by each. Among this group were some brilliant speakers, several of them experienced lawyers and political campaigners. Some of their addresses showed a remarkable knowledge and grasp of the subject. Others were clothed in the most attractive phrases.</p>
-<p class="prose-p">But a clerk, without a great deal of education and experience, arose and told how he spent his boyhood days in Ulster, how his mother, while holding him on her lap, had pictured to him Ulster’s deeds of valour. He spoke of a picture in his uncle’s home that showed the men of Ulster conquering a tyrant and marching on to victory. His voice quivered, and with a hand pointing upward, he declared that if the men of Ulster went to war they would not go alone.</p>
+<p class="prose-p">In the ideal address theme, speaker and audience become one, fused by the emotion and thought of the hour.
+
+#### THE NEED OF SYMPATHY FOR HUMANITY. It is impossible to lay too much stress on the necessity for the speakers having a broad and deep tenderness for human nature. One of Victor Hugo’s biographers attributes his power as an orator and writer to his wide sympathies and profound religious feelings. Recently we heard the editor of Collier’s Weekly speak on short story writing, and he so often emphasized the necessity for this broad love of humanity, this truly religious feeling, that he apologized twice for delivering a sermon.</p>
+<p class="prose-p">Few if any of the immortal speeches were ever delivered for a selfish or a narrow cause. They were born out of a passionate desire to help humanity. Instances, Paul’s address to the Athenians on Mars Hill, Lincoln’s Gettysburg speech, the Sermon on the Mount, Henry’s address before the Virginia Convention of Delegates. The seal and sign of greatness is a desire to serve others.</p>
+<p class="prose-p">Self-preservation is the first law of life, but self-abnegation is the first law of greatness, and of art. Selfishness is the fundamental cause of all sin. It is the thing that all great religions, all worthy philosophies, have struck at. Out of a heart of real sympathy and love comes the speeches that move humanity.</p>
+<p class="prose-p">Former United States Senator Albert J. Beveridge, in an introduction to one of the volumes of Modern Eloquence, says, The profoundest feeling among the masses the most influential element in their character is the religious element. It is as instinctive and elemental as the law of self-preservation. It informs the whole intellect and personality of the people.</p>
+<p class="prose-p">And he who would greatly influence the people, by uttering their unformed thoughts, must have this great and unanalyzable bond of sympathy with them. When the men of Ulster armed themselves to oppose the passage of the Home Rule Act, one of the present writers, assigned to a hundred men Home Rule as the topic for an address, to be prepared by each. Among this group were some brilliant speakers, several of them experienced lawyers and political campaigners. Some of their addresses showed a remarkable knowledge and grasp of the subject.</p>
+<p class="prose-p">Others were clothed in the most attractive phrases. But a clerk, without a great deal of education and experience, arose and told how he spent his boyhood days in Ulster, how his mother, while holding him on her lap, had pictured to him Ulster’s deeds of valour. He spoke of a picture in his uncle’s home that showed the men of Ulster conquering a tyrant and marching on to victory. His voice quivered, and with a hand pointing upward, he declared that if the men of Ulster went to war they would not go alone.</p>
 <p class="prose-p">A great God would go with them. The speech thrilled and electrified the audience. It thrills yet, as we recall it. The high-sounding phrases the historical knowledge, the philosophical treatment of the other speakers largely failed to arouse any deep interest, while the genuine conviction and feeling of the modest clerk, speaking on a subject that lay deep in his heart, not only electrified his audience but won their personal sympathy for the cause he advocated.</p>
 <p class="prose-p">As Webster said, it is of no use to try to pretend to sympathy or feelings. It cannot be done successfully. Nature is forever putting a premium on reality. What is false is soon detected as such.</p>
 <p class="prose-p">The thoughts and feelings that create and mould the speech in the study must be born again when the speech is delivered from the Platform. Do not let your words say one thing in your voice and attitude another. There is no room here for half-hearted, nonchalant</p>
@@ -1826,11 +1966,11 @@
 <p class="prose-p">This evening I told Sir Robert what’s his name. He was a fool. I was quite right in this. He is.</p>
 <p class="prose-p">Every evening since the ship left Vancouver he has presided over the round table in the middle of the smoking room. There he sips his coffee and the cooler and holds forth on every subject known to the mind of man. Each subject is his subject. He is an elderly person with a bad face and a drooping left eyelid.</p>
 <p class="prose-p">They tell me that he is in the British service. judge somewhere down in Malaysia, where they drink more than is good for them. Deliver the two following selections with great earnestness, and note how the inflections differ from the foregoing. Then reread these selections in a light, superficial manner, noting that the change of attitude is expressed through a change of inflection. When I read a sublime fact in Plutarch, or an unselfish deed in a line of poetry, or thrill beneath some heroic legend, it is no longer fairyland.</p>
-<p class="prose-p">I have seen it matched.</p>
-<h4 class="section-subhead">WINDOW PHILIPS.</h4>
-<p class="prose-p">Thought is deeper than all speech, feeling deeper than all thought. Souls to souls can never teach what unto themselves was taught. CRANCH It must be made perfectly clear that inflection deals mostly in subtle, delicate shading WITH IN SINGLE WORDS, and is not by any means accomplished by a general rise or fall in the voice in speaking a sentence, yet certain sentences may be effectively delivered with just such inflection. Try this sentence in several ways, making no modulation until you come to the last two syllables, as indicated.</p>
-<p class="prose-p">And yet I told him distinctly, and yet I told him distinctly, and yet I told him distinctly, try this sentence by inflecting the important words so as to bring out various shades of meaning. The first forms, illustrated, show change of pitch within a single word. The forms you will work out for yourself should show a number of such inflections throughout the sentence. One of the chief means of securing emphasis is to employ long-falling inflection on the emphatic words, that is, to let the voice fall to a lower pitch on an interior vowel sound and a word.</p>
-<p class="prose-p">Try it on the words, EVARY, ELIMOSCINARY, and DESTROY. Use long-falling</p>
+<p class="prose-p">I have seen it matched.
+
+#### WINDOW PHILIPS. Thought is deeper than all speech, feeling deeper than all thought. Souls to souls can never teach what unto themselves was taught. CRANCH It must be made perfectly clear that inflection deals mostly in subtle, delicate shading WITH IN SINGLE WORDS, and is not by any means accomplished by a general rise or fall in the voice in speaking a sentence, yet certain sentences may be effectively delivered with just such inflection.</p>
+<p class="prose-p">Try this sentence in several ways, making no modulation until you come to the last two syllables, as indicated. And yet I told him distinctly, and yet I told him distinctly, and yet I told him distinctly, try this sentence by inflecting the important words so as to bring out various shades of meaning. The first forms, illustrated, show change of pitch within a single word. The forms you will work out for yourself should show a number of such inflections throughout the sentence.</p>
+<p class="prose-p">One of the chief means of securing emphasis is to employ long-falling inflection on the emphatic words, that is, to let the voice fall to a lower pitch on an interior vowel sound and a word. Try it on the words, EVARY, ELIMOSCINARY, and DESTROY. Use long-falling</p>
           </div>
         </section>
         
@@ -1841,22 +1981,22 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">inflections on the italicized words in the following selection, noting their emphatic power. Are there any other words here that long-falling inflections would help to make expressive?</p>
-<h4 class="section-subhead">ADDRESS IN THE DARTMOTH COLLEGE CASE.</h4>
-<p class="prose-p">This, sir, is my case. It is the case not merely of that humble institution. It is the case of every college in our land. It is more.</p>
-<p class="prose-p">It is the case of every, even-moscinary, institution throughout our country. Of all those great charities founded by the piety of our ancestors to alleviate human misery and scatter blessings along the pathway of life. Sir, you may DESTROY this little institution. It is WEAK.</p>
-<p class="prose-p">It is in your hands. I know it is one of the lesser lights in the literary horizon of our country. You may put it out, but if you do, you must carry through your work. You must extinguish one act or another all those great lights of science which for more than a century have thrown their radiance over our land.</p>
-<p class="prose-p">It is, sir, as I have said, a small college, and yet there are those who LOVE it. Sir, I know not how others may feel, but as for myself, when I see my alma mater surrounded like Caesar in the Senate House by those who are reiterating stab after stab, I would not for this right hand have her turn to me and say, and thou to my son, Daniel Webster. Be careful not to over-inflect. Too much modulation produces an unpleasant effect of artificiality.</p>
-<p class="prose-p">Like a mature matron trying to be kittenish. It is a short step between true expression and unintentional burlesque. Scrutinize your own tones. Take a single expression like, Oh, no. Or, oh, I see.</p>
-<p class="prose-p">Or, indeed. And by patient self-examination, see how many shades of meaning may be expressed by inflection. This sort of common-sense practice will do you more good than a book of rules. But don’t forget to listen to your own voice.</p>
-<p class="prose-p">Questions and Exercises. 1. In your own words define A. Cadence. B.</p>
-<p class="prose-p">Modulation. C. Inflection. D.</p>
-<p class="prose-p">Emphasis. 2. Name five ways of destroying monotony and gaining effectiveness in speech. 3. What states of mind does falling in inflection signify? Make as full a list as you can. 4.</p>
-<p class="prose-p">Do the same for rising inflection. 5. How does the voice bend in expressing A. Surprise. B.</p>
-<p class="prose-p">Shame. C. Hate. D.</p>
-<p class="prose-p">Formality. E. Excitement. 6. Reread some sentence several times and by using different inflections change the meaning with each reading. 7.</p>
-<p class="prose-p">Note the inflections employed in some speech or conversation. Were they the best that could be used to bring out the meaning? Criticize and illustrate. 8. Render the following passages.</p>
-<p class="prose-p">Has the gentleman done? Has he completely done?</p>
+            <p class="prose-p">inflections on the italicized words in the following selection, noting their emphatic power. Are there any other words here that long-falling inflections would help to make expressive?
+
+#### ADDRESS IN THE DARTMOTH COLLEGE CASE. This, sir, is my case. It is the case not merely of that humble institution.</p>
+<p class="prose-p">It is the case of every college in our land. It is more. It is the case of every, even-moscinary, institution throughout our country. Of all those great charities founded by the piety of our ancestors to alleviate human misery and scatter blessings along the pathway of life.</p>
+<p class="prose-p">Sir, you may DESTROY this little institution. It is WEAK. It is in your hands. I know it is one of the lesser lights in the literary horizon of our country.</p>
+<p class="prose-p">You may put it out, but if you do, you must carry through your work. You must extinguish one act or another all those great lights of science which for more than a century have thrown their radiance over our land. It is, sir, as I have said, a small college, and yet there are those who LOVE it. Sir, I know not how others may feel, but as for myself, when I see my alma mater surrounded like Caesar in the Senate House by those who are reiterating stab after stab, I would not for this right hand have her turn to me and say, and thou to my son, Daniel Webster.</p>
+<p class="prose-p">Be careful not to over-inflect. Too much modulation produces an unpleasant effect of artificiality. Like a mature matron trying to be kittenish. It is a short step between true expression and unintentional burlesque.</p>
+<p class="prose-p">Scrutinize your own tones. Take a single expression like, Oh, no. Or, oh, I see. Or, indeed. And by patient self-examination, see how many shades of meaning may be expressed by inflection.</p>
+<p class="prose-p">This sort of common-sense practice will do you more good than a book of rules. But don’t forget to listen to your own voice. Questions and Exercises. 1. In your own words define A.</p>
+<p class="prose-p">Cadence. B. Modulation. C.</p>
+<p class="prose-p">Inflection. D. Emphasis. 2. Name five ways of destroying monotony and gaining effectiveness in speech. 3.</p>
+<p class="prose-p">What states of mind does falling in inflection signify? Make as full a list as you can. 4. Do the same for rising inflection. 5. How does the voice bend in expressing A.</p>
+<p class="prose-p">Surprise. B. Shame. C.</p>
+<p class="prose-p">Hate. D. Formality. E.</p>
+<p class="prose-p">Excitement. 6. Reread some sentence several times and by using different inflections change the meaning with each reading. 7. Note the inflections employed in some speech or conversation. Were they the best that could be used to bring out the meaning?</p>
+<p class="prose-p">Criticize and illustrate. 8. Render the following passages. Has the gentleman done? Has he completely done?</p>
 <p class="prose-p">And God said, “Let there be light?” And there was light. 9. Invent an indirect question and show how it would naturally be inflected. 10. Does a direct question always require a rising inflection? Illustrate. 11.</p>
 <p class="prose-p">Illustrate</p>
           </div>
@@ -1898,10 +2038,11 @@
 <p class="prose-p">Is any man dead that ever was fit to live? Disenthralled of flesh, and risen to the unobstructed sphere where passion never comes, he begins his illimitable work. His life now is grafted upon the infinite, and will be fruitful as no earthly life can be. Pass on, thou that hast overcome.</p>
 <p class="prose-p">Your sorrows, O people, are his peace. Your bells and bands and muffled drums sound triumph in his ear. Wail and weep here. God makes it echo joy and triumph there.</p>
 <p class="prose-p">Pass on, Victor. Four years ago, O Illinois, we took near mists an untried man, and from among the people we return him to you, a mighty conqueror. Not thine any more, but the nations. Not ours, but the worlds.</p>
-<p class="prose-p">Give him place, ye prairies, in the midst of this great continent his dust shall rest, a sacred treasure to myriads, who shall make pilgrimage to that shrine to kindle anew their zeal and patriotism. Ye winds, that move over the mighty places of the West, chant his requiem. Ye people, behold a martyr whose blood, as so many inarticulate words, pleads for fidelity, for law, for liberty, and reward beecher.</p>
-<h4 class="section-subhead">THE HISTORY OF LIBERTY.</h4>
-<p class="prose-p">The event which we commemorate is all important, not merely in our own annals, but in those of the world. The sitentious English poet has declared that the proper study of mankind is man, and of all inquiries of a temporal nature. The history of our fellow beings is unquestionably among the most interesting. But not all the chapters of human history are alike important.</p>
-<p class="prose-p">The annals of our race have been filled up with incidents which concern not or at least ought not to concern the great company of mankind. History, as it has often been written, is the genealogy of princes, the field-book of conquerors, and the fortunes of our fellow men have been treated only so far as they have been affected by the influence of the great masters and destroyers of our race. Such history is, I will not say, a worthless</p>
+<p class="prose-p">Give him place, ye prairies, in the midst of this great continent his dust shall rest, a sacred treasure to myriads, who shall make pilgrimage to that shrine to kindle anew their zeal and patriotism. Ye winds, that move over the mighty places of the West, chant his requiem. Ye people, behold a martyr whose blood, as so many inarticulate words, pleads for fidelity, for law, for liberty, and reward beecher.
+
+#### THE HISTORY OF LIBERTY. The event which we commemorate is all important, not merely in our own annals, but in those of the world.</p>
+<p class="prose-p">The sitentious English poet has declared that the proper study of mankind is man, and of all inquiries of a temporal nature. The history of our fellow beings is unquestionably among the most interesting. But not all the chapters of human history are alike important. The annals of our race have been filled up with incidents which concern not or at least ought not to concern the great company of mankind.</p>
+<p class="prose-p">History, as it has often been written, is the genealogy of princes, the field-book of conquerors, and the fortunes of our fellow men have been treated only so far as they have been affected by the influence of the great masters and destroyers of our race. Such history is, I will not say, a worthless</p>
           </div>
         </section>
         
@@ -1917,8 +2058,9 @@
 <p class="prose-p">Our position is the most enviable, the most responsible, which men can fill. If this generation does its duty, the cause of constitutional freedom is safe. If we fail, if we fail, not only do we defraud our children of the inheritance which we receive from our fathers, but we blast the hopes of the friends of liberty throughout dark continents, throughout Europe, throughout the world, to the end of time. History is not without her examples of hard-fought fields, where the banner of liberty has floated triumphantly on the wildest storm of battle.</p>
 <p class="prose-p">She is without her examples of people by whom the dear-bought treasure has been wisely employed and safely handed down. The eyes of the world are turned for that example to us. Let us then, as we assemble on the birthday of the nation, as we gather upon the green turf, once wet with precious blood, let us devour the world. Section 8.</p>
 <p class="prose-p">Concentration in Delivery Attention is the microscope of the mental eye. Its power may be high or low, its field of view narrow or broad. When high power is used attention is confined within very circumscribed limits, but its action is exceedingly intense and absorbing. It sees but few things, but these few things are observed through and through.</p>
-<p class="prose-p">Mental energy and activity, whether of perception or of thought, thus concentrated, act like the sun’s rays concentrated by the burning glass. The object is illumined, heated, set on fire. Impressions are so deep that they can never be effaced. Attention of this sort is the prime condition of the most productive mental labor.</p>
-<h4 class="section-subhead">DANIEL PUTNAM PSYCHOLOGY.</h4>
+<p class="prose-p">Mental energy and activity, whether of perception or of thought, thus concentrated, act like the sun’s rays concentrated by the burning glass. The object is illumined, heated, set on fire. Impressions are so deep that they can never be effaced. Attention of this sort is the prime condition of the most productive mental labor.
+
+#### DANIEL PUTNAM PSYCHOLOGY.</p>
 <p class="prose-p">Try to rub the top of your head forward and backward at the same time that you are patting your chest. Unless your powers of coordination are well developed you will find it confusing, if not impossible. The brain needs special training before it can do two or more things efficiently at the same instant. It may seem like splitting a hair between its north and northwest corner, but some psychologists argue that no brain can think two distinct thoughts absolutely simultaneously.</p>
 <p class="prose-p">That what seems to be simultaneous is really very rapid rotation from the first thought to the second and back again, just as in the above-sided experiment the attention must shift from one hand to the other until one or the other movement becomes partly or wholly automatic. Whatever is the psychological truth of this contention, it is undeniable that the mind measurably loses grip on one idea the moment the attention is projected decidedly ahead to a second or a third idea. A fault in public speakers, that is as pernicious as it is common, is that they try to think of the succeeding sentence while still uttering the former, and in this way their concentration trails off.</p>
 <p class="prose-p">In consequence they start their sentences strongly, and end them weakly. In a well-prepared written speech the emphatic word usually comes at one end of the sentence.</p>
@@ -2094,14 +2236,20 @@
 <p class="prose-p">The girl babies were often deserted in the mountains to starve. China bound and deformed their feet. Turkey veiled their faces. America denied them equal educational advantages with men.</p>
 <p class="prose-p">Most of the world still refuses them the right to participate in the government, and everywhere women bear the brunt of an unequal standard of morality. But the women are on the march. They are walking upward to the sunlit plains where the thinking people rule. China has ceased binding their feet.</p>
 <p class="prose-p">In the shadow of the harem, Turkey has opened a school for girls. America has given women equal educational advantages, and America, we believe, will enfranchise them. We can do little to help, and not much to hinder, this great movement. The thinking people have put their okay upon it.</p>
-<p class="prose-p">It is moving forward to its goal just as surely as this old earth is swinging from the grip of winter toward the spring’s blossoms and the summer’s harvest.</p>
-<h4 class="section-subhead">FROM AN EDITORIAL BY D.</h4>
-<p class="prose-p">C.</p>
-<h4 class="section-subhead">IN LESLIE’S WEEKLY, JUNE 4, 1914.</h4>
-<h4 class="section-subhead">USED BY PERMISSION. 9.</h4>
-<h4 class="section-subhead">READ ALLOWED THE FOLLOWING ADDRESS.</h4>
-<h4 class="section-subhead">PAYING CAREFUL ATTENTION TO PAWS WHEREVER THE EMPHASIS MAY, THEREBY, BE HIGHTENED.</h4>
-<h4 class="section-subhead">THE IRREPRESSIBLE CONFLICT.</h4>
+<p class="prose-p">It is moving forward to its goal just as surely as this old earth is swinging from the grip of winter toward the spring’s blossoms and the summer’s harvest.
+
+#### FROM AN EDITORIAL BY D.</p>
+<h4 class="section-subhead">C.
+
+#### IN LESLIE’S WEEKLY, JUNE 4, 1914.
+
+#### USED BY PERMISSION. 9.
+
+#### READ ALLOWED THE FOLLOWING ADDRESS.
+
+#### PAYING CAREFUL ATTENTION TO PAWS WHEREVER THE EMPHASIS MAY, THEREBY, BE HIGHTENED.
+
+#### THE IRREPRESSIBLE CONFLICT.</h4>
 <p class="prose-p">At last the Republican Party has appeared. It avows now, as the Republican Party of 1800 did, in one word, its faith and its works. Simple and exact justice to all men. Even when it first entered the field, only half organized, it struck a blow which only just failed to secure complete and triumphant victory.</p>
 <p class="prose-p">In this, its second campaign, it has already won advantages which render that triumph now both easy and certain. The secret of its assured success lies in that very characteristic which, in the mouth of scoffers, precedes its great and lasting imbecility and reproach. It lies in the fact that it is a party of one idea, but that is a noble one. An idea that fills and expands all generous souls.</p>
 <p class="prose-p">The idea of</p>
@@ -2301,10 +2449,12 @@
 <p class="prose-p">The art of public speaking. Sense never fails to give them that have it, words enough to make them understood. It too often happens in some conversations, as in apothecary shops, that those pots that are empty, or have things of small value in them, are as godly dressed as those that are full of precious drugs. They that soar too high often fall hard, making a low and level dwelling preferable.</p>
 <p class="prose-p">The tallest trees are most in the power of the winds, and ambitious men of the blasts of fortune. Buildings have need of a good foundation, that lie so much exposed to the weather. CHAPTER I. Acquiring confidence before an audience.</p>
 <p class="prose-p">There is a strange sensation often experienced in the presence of an audience. It may proceed from the gaze of the many eyes that turn upon the speaker, especially if he permits himself to steadily return that gaze. Most speakers have been conscious of this in a nameless thrill, a real something pervading the atmosphere, tangible, evessent, indescribable. All writers have borne testimony to the power of a speaker’s eye in impressing an audience.</p>
-<p class="prose-p">This influence which we are now considering is the reverse of that picture. The power their eyes may exert upon him, especially before he begins to speak. After the inward fires of oratory are fanned into flame, the eyes of the audience lose all terror.</p>
-<h4 class="section-subhead">WILLIAM PITTINGER.</h4>
-<h4 class="section-subhead">EXTEMPEROUS SPEECH.</h4>
-<p class="prose-p">Students of public speaking continually ask, How can I overcome self-consciousness and the fear that paralyzes me before an audience? Did you ever notice in looking from a train window that some horses feed near the track and never even pause to look up at the thundering cars? While just ahead at the next railroad crossing a farmer’s wife will be nervously trying to quiet her scared horse as the train goes by? How would you cure a horse that is afraid of cars, graze him in a backwards lot where he would never see steam engines</p>
+<p class="prose-p">This influence which we are now considering is the reverse of that picture. The power their eyes may exert upon him, especially before he begins to speak. After the inward fires of oratory are fanned into flame, the eyes of the audience lose all terror.
+
+#### WILLIAM PITTINGER.
+
+#### EXTEMPEROUS SPEECH. Students of public speaking continually ask, How can I overcome self-consciousness and the fear that paralyzes me before an audience?</p>
+<p class="prose-p">Did you ever notice in looking from a train window that some horses feed near the track and never even pause to look up at the thundering cars? While just ahead at the next railroad crossing a farmer’s wife will be nervously trying to quiet her scared horse as the train goes by? How would you cure a horse that is afraid of cars, graze him in a backwards lot where he would never see steam engines</p>
           </div>
         </section>
         
@@ -2373,15 +2523,17 @@
 <p class="prose-p">What is the cause of self-consciousness? 2. Why are animals free from it? 3. What is your observation regarding self-consciousness in children? 4. Why are you free from it under the stress of unusual excitement? 5.</p>
 <p class="prose-p">How does moderate excitement affect you? 6. What are the two fundamental requisites for the acquiring of self-confidence? Which is the more important? 7. What effect does confidence on the part of the speaker have on the audience? 8.</p>
 <p class="prose-p">Write out a two-minute speech on confidence and cowardice. 9. What effect do habits of thought have on confidence? In this connection, read the chapter on, Write Thinking and Personality. 10. Write out very briefly any experience you may have had involving the teachings of this chapter. 11.</p>
-<p class="prose-p">Keep a three-minute talk on stage fright, including a kindly imitation of two or more victims. CHAPTER II.</p>
-<h4 class="section-subhead">THE SIN OF MONOTONY.</h4>
-<h4 class="section-subhead">SUNDAY ON WE WAS BORN FROM UNIFORMITY, MOAT.</h4>
-<p class="prose-p">Our English has changed with the years so that many words now connote more than they did originally. This is true of the word monotonous. From having but one tone, it has come to mean more broadly, lack of variation. The monotonous speaker not only drones along in the same volume and pitch of tone, but uses always the same emphasis, the same speed, the same thoughts, or dispenses with thought altogether.</p>
-<p class="prose-p">Monotony, the cardinal and most common sin of the public speaker, is not a transgression. It is, rather, a sin of omission. For it consists in living up to the confession of the prayer-book, We have left undone those things we ought to have done. Emerson says, quote, �The virtue of art lies in detachment, in sequestering one object from the embarrassing variety.� That is just what the monotonous speaker fails to do.</p>
-<p class="prose-p">He does not detach one thought or phrase from another. They are all expressed in the same manner. To tell you that your speech as monotonous may mean very little to you, so let us look at the nature, and the curse, of monotony and other spheres of life. Then we shall appreciate more fully how it will blight an otherwise good speech.</p>
-<p class="prose-p">If the Victrola in the adjoining apartment grinds out just three selections over and over again, it is pretty safe to assume that your neighbor has no other records. If a speaker uses only a few of his powers, it points very plainly to the fact that the rest of his powers are not developed. Monotony reveals our limitations. In its effect on its victim monotony is actually deadly.</p>
-<p class="prose-p">It will drive the bloom from the cheek and the luster from the eye as quickly as sin, and often leads to viciousness. The worst punishment that human ingenuity has ever been able to invent is extreme monotony, solitary confinement. Lay a marble on the table and do nothing eighteen hours of the day but change that marble from one point to another and back again, and you will go insane if you continue long enough. So this thing that shortens life, and is used as the most cruel of punishments in our prisons, is the thing that will destroy all the life and force of a speech.</p>
-<p class="prose-p">Avoid it as you would shun a deadly dull boar. The idle rich can have half a dozen homes, command all the varieties of foods gathered from the four corners of the earth, and sail for Africa or Alaska at their pleasure. But the poverty-stricken man must walk or take a street car. He does not have the choice of yacht, auto, or special train.</p>
+<p class="prose-p">Keep a three-minute talk on stage fright, including a kindly imitation of two or more victims. CHAPTER II.
+
+#### THE SIN OF MONOTONY.
+
+#### SUNDAY ON WE WAS BORN FROM UNIFORMITY, MOAT. Our English has changed with the years so that many words now connote more than they did originally. This is true of the word monotonous. From having but one tone, it has come to mean more broadly, lack of variation.</p>
+<p class="prose-p">The monotonous speaker not only drones along in the same volume and pitch of tone, but uses always the same emphasis, the same speed, the same thoughts, or dispenses with thought altogether. Monotony, the cardinal and most common sin of the public speaker, is not a transgression. It is, rather, a sin of omission. For it consists in living up to the confession of the prayer-book, We have left undone those things we ought to have done.</p>
+<p class="prose-p">Emerson says, quote, �The virtue of art lies in detachment, in sequestering one object from the embarrassing variety.� That is just what the monotonous speaker fails to do. He does not detach one thought or phrase from another. They are all expressed in the same manner. To tell you that your speech as monotonous may mean very little to you, so let us look at the nature, and the curse, of monotony and other spheres of life.</p>
+<p class="prose-p">Then we shall appreciate more fully how it will blight an otherwise good speech. If the Victrola in the adjoining apartment grinds out just three selections over and over again, it is pretty safe to assume that your neighbor has no other records. If a speaker uses only a few of his powers, it points very plainly to the fact that the rest of his powers are not developed. Monotony reveals our limitations.</p>
+<p class="prose-p">In its effect on its victim monotony is actually deadly. It will drive the bloom from the cheek and the luster from the eye as quickly as sin, and often leads to viciousness. The worst punishment that human ingenuity has ever been able to invent is extreme monotony, solitary confinement. Lay a marble on the table and do nothing eighteen hours of the day but change that marble from one point to another and back again, and you will go insane if you continue long enough.</p>
+<p class="prose-p">So this thing that shortens life, and is used as the most cruel of punishments in our prisons, is the thing that will destroy all the life and force of a speech. Avoid it as you would shun a deadly dull boar. The idle rich can have half a dozen homes, command all the varieties of foods gathered from the four corners of the earth, and sail for Africa or Alaska at their pleasure. But the poverty-stricken man must walk or take a street car.</p>
+<p class="prose-p">He does not have the choice of yacht, auto, or special train.</p>
           </div>
         </section>
         
@@ -2420,17 +2572,18 @@
 <p class="prose-p">What are the causes of monotony 2. Sight some instances in nature 3. Sight instances in man’s daily life 4. Describe some of the effects of monotony in both cases 5.</p>
 <p class="prose-p">Read aloud some speech without paying particular attention to its meaning or force 6. Now repeat it after you have thoroughly assimilated its matter and spirit. What difference do you notice in its renteration? Section 3.</p>
 <p class="prose-p">The Art of Public Speaking. This is a LibriVox recording. All LibriVox recordings are in the public domain. For more information or to volunteer, please visit librivox.org.</p>
-<p class="prose-p">Recording by Joe Mabry. The Art of Public Speaking by Dale Carnegie and Joseph Berg Ezenwein. Section 3.</p>
-<h4 class="section-subhead">Chapter 3.</h4>
-<p class="prose-p">Efficiency Through Emphasis and Subordination In a word, the principle of emphasis is followed best not by remembering particular rules but by being full of a particular feeling. C. S. Baldwin.</p>
-<p class="prose-p">Writing and Speaking. The gun that scatters too much does not bag the birds. The same principle applies to speech. The speaker that fires his force and emphasis at random into a sentence will not get results.</p>
-<p class="prose-p">Not every word is of special importance, therefore only certain words demand emphasis. You say Massachusetts and Minneapolis. You do not emphasize each syllable alike but hit the accented syllable with force and hurry over the own important ones. Now why do you not apply this principle in speaking a sentence?</p>
-<p class="prose-p">To some extent you do, in ordinary speech. But do you in public discourse? It is there that monotony caused by lack of emphasis is so painfully apparent. So far as emphasis is concerned, you may consider the average sentence as just one big word with the important word as the accented syllable.</p>
-<p class="prose-p">Note the following, quote, destiny is not a matter of chance, it is a matter of choice, end quote. You might as well say Massachusetts emphasizing every syllable equally as to lay equal stress on each word in the foregoing sentences. Speak it aloud and see. Of course you will want to emphasize destiny for it is the principle idea in your declaration.</p>
-<p class="prose-p">And you will put some emphasis on not, else your hearers may think you are affirming that destiny is a matter of chance. By all means you must emphasize chance, for it is one of the two big ideas in the statement. Another reason why chance takes emphasis is that it is contrasted with choice in the next sentence. Obviously the author has contrasted these ideas purposely, so that they might be more emphatic, and here we see that contrast is one of the very first devices to gain emphasis.</p>
-<p class="prose-p">As a public speaker, you can assist this emphasis of contrast with your voice. If you say, my horse is not black, what color immediately comes into mind? White naturally, for that is the opposite of black. If you wish to bring out the thought that destiny is a matter of choice, you can do so more effectively by first saying that destiny is not a matter of chance.</p>
-<p class="prose-p">Is not the color of the horse impressed upon us more emphatically when you say, my horse is not black, he is white? Then it would be by hearing you assert merely that your horse is white. In the second sentence of the statement there is only one important word, choice. It is the one word that positively defines the quality of the subject being discussed, and the author of those lines desired to bring it out emphatically, as he has shown by contrasting it with another idea.</p>
-<p class="prose-p">These lines then would read like this. Destiny is not a matter of chance, it is a matter of choice. Now read this over striking the words in capitals with a great deal of force.</p>
+<p class="prose-p">Recording by Joe Mabry. The Art of Public Speaking by Dale Carnegie and Joseph Berg Ezenwein. Section 3.
+
+#### Chapter 3. Efficiency Through Emphasis and Subordination In a word, the principle of emphasis is followed best not by remembering particular rules but by being full of a particular feeling.</p>
+<p class="prose-p">C. S. Baldwin. Writing and Speaking.</p>
+<p class="prose-p">The gun that scatters too much does not bag the birds. The same principle applies to speech. The speaker that fires his force and emphasis at random into a sentence will not get results. Not every word is of special importance, therefore only certain words demand emphasis.</p>
+<p class="prose-p">You say Massachusetts and Minneapolis. You do not emphasize each syllable alike but hit the accented syllable with force and hurry over the own important ones. Now why do you not apply this principle in speaking a sentence? To some extent you do, in ordinary speech.</p>
+<p class="prose-p">But do you in public discourse? It is there that monotony caused by lack of emphasis is so painfully apparent. So far as emphasis is concerned, you may consider the average sentence as just one big word with the important word as the accented syllable. Note the following, quote, destiny is not a matter of chance, it is a matter of choice, end quote.</p>
+<p class="prose-p">You might as well say Massachusetts emphasizing every syllable equally as to lay equal stress on each word in the foregoing sentences. Speak it aloud and see. Of course you will want to emphasize destiny for it is the principle idea in your declaration. And you will put some emphasis on not, else your hearers may think you are affirming that destiny is a matter of chance.</p>
+<p class="prose-p">By all means you must emphasize chance, for it is one of the two big ideas in the statement. Another reason why chance takes emphasis is that it is contrasted with choice in the next sentence. Obviously the author has contrasted these ideas purposely, so that they might be more emphatic, and here we see that contrast is one of the very first devices to gain emphasis. As a public speaker, you can assist this emphasis of contrast with your voice.</p>
+<p class="prose-p">If you say, my horse is not black, what color immediately comes into mind? White naturally, for that is the opposite of black. If you wish to bring out the thought that destiny is a matter of choice, you can do so more effectively by first saying that destiny is not a matter of chance. Is not the color of the horse impressed upon us more emphatically when you say, my horse is not black, he is white?</p>
+<p class="prose-p">Then it would be by hearing you assert merely that your horse is white. In the second sentence of the statement there is only one important word, choice. It is the one word that positively defines the quality of the subject being discussed, and the author of those lines desired to bring it out emphatically, as he has shown by contrasting it with another idea. These lines then would read like this.</p>
+<p class="prose-p">Destiny is not a matter of chance, it is a matter of choice. Now read this over striking the words in capitals with a great deal of force.</p>
           </div>
         </section>
         
@@ -2489,11 +2642,11 @@
 <p class="prose-p">We lie on soft beds, sit near the radiator on a cold day, eat cherry pie, and devote our attention to one of the opposite sex, not because we have reasoned out that it is the right thing to do, but because it feels right. No one but a dyspeptic chooses his diet from a chart. Our feelings dictate what we shall eat and generally how we shall act. Man is a feeling animal, hence the public speaker’s ability to arouse men to action depends almost wholly on his ability to touch their emotions.</p>
 <p class="prose-p">Negro mothers on the auction-block, seeing their children sold away from them into slavery, have flamed out some of America’s most stirring speeches. True, the mother did not have any knowledge of the technique of speaking, but she had something greater than all technique, more effective than reason. FEELING The great speeches of the world have not been delivered on tariff reductions or post office appropriations. The speeches that will live have been charged with emotional force.</p>
 <p class="prose-p">Prosperity and peace are poor developers of eloquence. When great wrongs are to be righted, when the public heart is flaming with passion, that is the occasion for memorable speaking. Patrick Henry made an immortal address, for in an epochal crisis he pleaded for liberty. He had roused himself to the point where he could honestly and passionately exclaim, Give me liberty or give me death.</p>
-<p class="prose-p">His fame would have been different if he had lived today and argued for the recall of judges.</p>
-<h4 class="section-subhead">THE POWER OF ENTHUSIASM.</h4>
-<p class="prose-p">People parties hire bands and pay for applause. They argue that, for vote-getting, to stir up enthusiasm is more effective than reasoning. How far they are right depends on the hearers, but there can be no doubt about the contagious nature of enthusiasm. A watch manufacturer in New York tried out two series of watch advertisements.</p>
-<p class="prose-p">One argued the superior construction, workmanship, durability, and guarantee offered with the watch. The other was headed a watch to be proud of and dwelt upon the pleasure and pride of ownership. The latter series sold twice as many as the former. A salesman for a locomotive works informed the writer that in selling railroad engines emotional appeal was stronger than an argument based on mechanical excellence.</p>
-<p class="prose-p">Illustrations without number might be cited to show that in all our actions we are emotional beings. The speaker who would speak efficiently must develop the power to arouse feeling. Webster, great debater that he was, knew that the real secret of a speaker’s power was an emotional one.</p>
+<p class="prose-p">His fame would have been different if he had lived today and argued for the recall of judges.
+
+#### THE POWER OF ENTHUSIASM. People parties hire bands and pay for applause. They argue that, for vote-getting, to stir up enthusiasm is more effective than reasoning. How far they are right depends on the hearers, but there can be no doubt about the contagious nature of enthusiasm.</p>
+<p class="prose-p">A watch manufacturer in New York tried out two series of watch advertisements. One argued the superior construction, workmanship, durability, and guarantee offered with the watch. The other was headed a watch to be proud of and dwelt upon the pleasure and pride of ownership. The latter series sold twice as many as the former.</p>
+<p class="prose-p">A salesman for a locomotive works informed the writer that in selling railroad engines emotional appeal was stronger than an argument based on mechanical excellence. Illustrations without number might be cited to show that in all our actions we are emotional beings. The speaker who would speak efficiently must develop the power to arouse feeling. Webster, great debater that he was, knew that the real secret of a speaker’s power was an emotional one.</p>
 <p class="prose-p">He eloquently says of eloquence, “… affected passion, intense expression, the pomp of declamation, all may aspire after it, they cannot reach it. It comes if it comes at all, like the outbreak of a fountain from the earth, or the bursting forth of volcanic fires with spontaneous, original, native force.” The graces taught in the schools, the costly ornaments and studied contrivances of speech, shock and disgust men, when their own lives and the fate of their wives, their children and their country, hang on the decision of the hour.</p>
 <p class="prose-p">Then words have lost their power, rhetoric is in vain, and all elaborate oratory contemptible. Even genius itself then feels rebuked and subdued, as in the presence of higher qualities. Then patriotism is eloquent. Then self-devotion is eloquent.</p>
 <p class="prose-p">The clear conception outrunning the deductions of logic, the high purpose, the firm resolve, the dauntless spirit, speaking on the tongue, beaming from the eye, informing every feature, and urging the whole man onward, right onward, to his subject. This, this is eloquence. Or rather, it is something greater and higher than all events. It is action.</p>
@@ -2811,18 +2964,19 @@
           <div class="section-body">
             <p class="prose-p">5. How does moderate excitement affect you? 6. What are the two fundamental requisites for the acquiring of self-confidence? Which is the more important? 7.</p>
 <p class="prose-p">What effect does confidence on the part of the speaker have on the audience? 8. Write out a two-minute speech on confidence and cowardice. 9. What effect do habits of thought have on confidence? In this connection read the chapter on right thinking and personality. 10.</p>
-<p class="prose-p">Write out very briefly any experience you may have had involving the teachings of this chapter. 11. Keep a three-minute talk on stage fright, including a kindly imitation of two or more victims. CHAPTER II.</p>
-<h4 class="section-subhead">THE SIN OF MONOTONY.</h4>
-<h4 class="section-subhead">ONE DAY ON WE WAS BORN FROM UNIFORMITY, MOAT.</h4>
-<p class="prose-p">Our English has changed with the years so that many words now connote more than they did originally. This is true of the word monotonous. From having but one tone it has come to mean more broadly lack of variation. The monotonous speaker not only drones along in the same volume and pitch of tone but uses always the same emphasis, the same speed, the same thoughts, or dispenses with thought altogether.</p>
-<p class="prose-p">Monotony, the cardinal and most common sin of the public speaker, is not a transgression. It is rather a sin of omission, for it consists in living up to the confession of the prayer-book, We have left undone those things we ought to have done. Emerson says, quote, The virtue of art lies in detachment, in sequestering one object from the embarrassing variety, end quote. That is just what the monotonous speaker fails to do.</p>
-<p class="prose-p">He does not detach one thought or phrase from another. They are all expressed in the same manner. To tell you that your speech as monotonous may mean very little to you, so let us look at the nature, and the curse, of monotony and other spheres of life, then we shall appreciate more fully how it will blight an otherwise good speech. If the Victrola in the adjoining apartment grinds out just three selections over and over again, it is pretty safe to assume that your neighbor has no other records.</p>
-<p class="prose-p">If a speaker uses only a few of his powers, it points very plainly to the fact that the rest of his powers are not developed. Monotony reveals our limitations. In its effect on its victim, monotony is actually deadly. It will drive the bloom from the cheek and the luster from the eye as quickly as sin, and often leads to viciousness.</p>
-<p class="prose-p">The worst punishment that human ingenuity has ever been able to invent is extreme monotony, solitary confinement. Lay a marble on the table and do nothing eighteen hours of the day but change that marble from one point to another and back again, and you will go insane if you continue long enough. So this thing that shortens life, and is used as the most cruel of punishments in our prisons, is the thing that will destroy all the life and force of a speech.</p>
-<p class="prose-p">Avoid it as you would shun a deadly dull boar. The idle rich can have half a dozen homes, command all the varieties of foods gathered from the four corners of the earth, and sail for Africa or Alaska at their pleasure. But the poverty-stricken man must walk or take a street car. He does not have the choice of yacht, auto, or special train.</p>
-<p class="prose-p">He must spend the most of his life in labor and be content with the staples of the food market. Monotony is poverty, whether in speech or in life. Subscribe to increase the variety of your speech as the businessman labors to augment his wealth. Bird songs, forest glens, and mountains are not monotonous.</p>
-<p class="prose-p">It is the long rows of brown stone fronts and the miles of paved streets that are so terribly same. Nature in her wealth gives us endless variety. Man with his limitations is often monotonous. Get back to nature in your methods of speech-making.</p>
-<p class="prose-p">The power of variety lies in its pleasure-giving quality.</p>
+<p class="prose-p">Write out very briefly any experience you may have had involving the teachings of this chapter. 11. Keep a three-minute talk on stage fright, including a kindly imitation of two or more victims. CHAPTER II.
+
+#### THE SIN OF MONOTONY.
+
+#### ONE DAY ON WE WAS BORN FROM UNIFORMITY, MOAT. Our English has changed with the years so that many words now connote more than they did originally. This is true of the word monotonous.</p>
+<p class="prose-p">From having but one tone it has come to mean more broadly lack of variation. The monotonous speaker not only drones along in the same volume and pitch of tone but uses always the same emphasis, the same speed, the same thoughts, or dispenses with thought altogether. Monotony, the cardinal and most common sin of the public speaker, is not a transgression. It is rather a sin of omission, for it consists in living up to the confession of the prayer-book, We have left undone those things we ought to have done.</p>
+<p class="prose-p">Emerson says, quote, The virtue of art lies in detachment, in sequestering one object from the embarrassing variety, end quote. That is just what the monotonous speaker fails to do. He does not detach one thought or phrase from another. They are all expressed in the same manner.</p>
+<p class="prose-p">To tell you that your speech as monotonous may mean very little to you, so let us look at the nature, and the curse, of monotony and other spheres of life, then we shall appreciate more fully how it will blight an otherwise good speech. If the Victrola in the adjoining apartment grinds out just three selections over and over again, it is pretty safe to assume that your neighbor has no other records. If a speaker uses only a few of his powers, it points very plainly to the fact that the rest of his powers are not developed.</p>
+<p class="prose-p">Monotony reveals our limitations. In its effect on its victim, monotony is actually deadly. It will drive the bloom from the cheek and the luster from the eye as quickly as sin, and often leads to viciousness. The worst punishment that human ingenuity has ever been able to invent is extreme monotony, solitary confinement.</p>
+<p class="prose-p">Lay a marble on the table and do nothing eighteen hours of the day but change that marble from one point to another and back again, and you will go insane if you continue long enough. So this thing that shortens life, and is used as the most cruel of punishments in our prisons, is the thing that will destroy all the life and force of a speech. Avoid it as you would shun a deadly dull boar. The idle rich can have half a dozen homes, command all the varieties of foods gathered from the four corners of the earth, and sail for Africa or Alaska at their pleasure.</p>
+<p class="prose-p">But the poverty-stricken man must walk or take a street car. He does not have the choice of yacht, auto, or special train. He must spend the most of his life in labor and be content with the staples of the food market. Monotony is poverty, whether in speech or in life.</p>
+<p class="prose-p">Subscribe to increase the variety of your speech as the businessman labors to augment his wealth. Bird songs, forest glens, and mountains are not monotonous. It is the long rows of brown stone fronts and the miles of paved streets that are so terribly same. Nature in her wealth gives us endless variety.</p>
+<p class="prose-p">Man with his limitations is often monotonous. Get back to nature in your methods of speech-making. The power of variety lies in its pleasure-giving quality.</p>
           </div>
         </section>
         
@@ -2859,20 +3013,20 @@
             <p class="prose-p">Sight instances in man’s daily life 4. Describe some of the effects of monotony in both cases 5. Read aloud some speech without paying particular attention to its meaning or force 6. Now repeat it after you have thoroughly assimilated its matter and spirit.</p>
 <p class="prose-p">What difference do you notice in its rendering? Section 3. The Art of Public Speaking. This is a LibriVox recording.</p>
 <p class="prose-p">All LibriVox recordings are in the public domain. For more information, or to volunteer, please visit librivox.org. Recording by Joe Mabry. The Art of Public Speaking by Dale Carnegie and Joseph Berg Ezenwein.</p>
-<p class="prose-p">Section 3.</p>
-<h4 class="section-subhead">Chapter 3.</h4>
-<p class="prose-p">Efficiency through Emphasis and Subordination. Quote. In a word, the principle of emphasis is followed best not by remembering particular rules, but by being full of a particular feeling. End quote.</p>
-<p class="prose-p">C. S. Baldwin. Writing and Speaking.</p>
-<p class="prose-p">The gun that scatters too much does not bag the birds. The same principle applies to speech. The speaker that fires his force and emphasis at random into a sentence will not get results. Not every word is of special importance, therefore only certain words demand emphasis.</p>
-<p class="prose-p">You say Massachusetts and Minneapolis. You do not emphasize each syllable alike, but hit the accented syllable with force and hurry over the own important ones. Now why do you not apply this principle in speaking a sentence? To some extent you do, in ordinary speech.</p>
-<p class="prose-p">But do you in public discourse? It is there that monotony caused by lack of emphasis is so painfully apparent. So far as emphasis is concerned, you may consider the average sentence as just one big word, with the important word as the accented syllable. Note the following, quote, destiny is not a matter of chance, it is a matter of choice.</p>
-<p class="prose-p">End quote. You might as well say, Massachusetts, emphasizing every syllable equally as to lay equal stress on each word in the foregoing sentences. Speak it aloud and see. Of course you will want to emphasize destiny, for it is the principle idea in your declaration.</p>
-<p class="prose-p">And you will put some emphasis on not, else your hearers may think you are affirming that destiny is a matter of chance. By all means you must emphasize chance, for it is one of the two big ideas in the statement. Another reason why chance takes emphasis is that it is contrasted with choice in the next sentence. Obviously the author has contrasted these ideas purposely, so that they might be more emphatic, and here we see that contrast is one of the very first devices to gain emphasis.</p>
-<p class="prose-p">As a public speaker, you can assist this emphasis of contrast with your voice. If you say, my horse is not black, what color immediately comes into mind? White, naturally, for that is the opposite of black. If you wish to bring out the thought that destiny is a matter of choice, you can do so more effectively by first saying that destiny is not a matter of chance.</p>
-<p class="prose-p">Is not the color of the horse impressed upon us more emphatically when you say, my horse is not black, he is white? Then it would be by hearing you assert merely that your horse is white. In the second sentence of the statement there is only one important word, choice. It is the one word that positively defines the quality of the subject being discussed, and the author of those lines desired to bring it out emphatically, as he has shown by contrasting it with another idea.</p>
-<p class="prose-p">These lines then would read like this. Destiny is not a matter of chance, it is a matter of choice. Now read this over striking the words in capitals with a great deal of force. In almost every sentence there are a few mountain peak words that represent the big important ideas.</p>
-<p class="prose-p">When you pick up the evening paper you can tell at a glance which are the important news articles. Thanks to the editor he does not tell about a holdup in Hong Kong in the same size type as he uses to report the death of five firemen in your home city. Size of type is his device to show emphasis in bold relief. He brings out, sometimes even in red headlines, the striking news of the day.</p>
-<p class="prose-p">It would be a boon to speech-making if speakers would conserve the attention of their audiences in the same way, and if a speaker would consider the attention of their audience. only the words representing the important ideas. The average speaker will deliver the</p>
+<p class="prose-p">Section 3.
+
+#### Chapter 3. Efficiency through Emphasis and Subordination. Quote. In a word, the principle of emphasis is followed best not by remembering particular rules, but by being full of a particular feeling.</p>
+<p class="prose-p">End quote. C. S. Baldwin.</p>
+<p class="prose-p">Writing and Speaking. The gun that scatters too much does not bag the birds. The same principle applies to speech. The speaker that fires his force and emphasis at random into a sentence will not get results.</p>
+<p class="prose-p">Not every word is of special importance, therefore only certain words demand emphasis. You say Massachusetts and Minneapolis. You do not emphasize each syllable alike, but hit the accented syllable with force and hurry over the own important ones. Now why do you not apply this principle in speaking a sentence?</p>
+<p class="prose-p">To some extent you do, in ordinary speech. But do you in public discourse? It is there that monotony caused by lack of emphasis is so painfully apparent. So far as emphasis is concerned, you may consider the average sentence as just one big word, with the important word as the accented syllable.</p>
+<p class="prose-p">Note the following, quote, destiny is not a matter of chance, it is a matter of choice. End quote. You might as well say, Massachusetts, emphasizing every syllable equally as to lay equal stress on each word in the foregoing sentences. Speak it aloud and see.</p>
+<p class="prose-p">Of course you will want to emphasize destiny, for it is the principle idea in your declaration. And you will put some emphasis on not, else your hearers may think you are affirming that destiny is a matter of chance. By all means you must emphasize chance, for it is one of the two big ideas in the statement. Another reason why chance takes emphasis is that it is contrasted with choice in the next sentence.</p>
+<p class="prose-p">Obviously the author has contrasted these ideas purposely, so that they might be more emphatic, and here we see that contrast is one of the very first devices to gain emphasis. As a public speaker, you can assist this emphasis of contrast with your voice. If you say, my horse is not black, what color immediately comes into mind? White, naturally, for that is the opposite of black.</p>
+<p class="prose-p">If you wish to bring out the thought that destiny is a matter of choice, you can do so more effectively by first saying that destiny is not a matter of chance. Is not the color of the horse impressed upon us more emphatically when you say, my horse is not black, he is white? Then it would be by hearing you assert merely that your horse is white. In the second sentence of the statement there is only one important word, choice.</p>
+<p class="prose-p">It is the one word that positively defines the quality of the subject being discussed, and the author of those lines desired to bring it out emphatically, as he has shown by contrasting it with another idea. These lines then would read like this. Destiny is not a matter of chance, it is a matter of choice. Now read this over striking the words in capitals with a great deal of force.</p>
+<p class="prose-p">In almost every sentence there are a few mountain peak words that represent the big important ideas. When you pick up the evening paper you can tell at a glance which are the important news articles. Thanks to the editor he does not tell about a holdup in Hong Kong in the same size type as he uses to report the death of five firemen in your home city. Size of type is his device to show emphasis in bold relief.</p>
+<p class="prose-p">He brings out, sometimes even in red headlines, the striking news of the day. It would be a boon to speech-making if speakers would conserve the attention of their audiences in the same way, and if a speaker would consider the attention of their audience. only the words representing the important ideas. The average speaker will deliver the</p>
           </div>
         </section>
         
@@ -2951,18 +3105,21 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">the martyr.</p>
-<h4 class="section-subhead">CHAPTER IV.</h4>
-<p class="prose-p">Efficiently Through Change of Pitch Speech is simply a modified form of singing, the principal difference being in the fact that in singing the vowel sounds are prolonged and the intervals are short, whereas in speech the words are uttered in what may be called staccato tones, the vowels not being specifically prolonged and the intervals between the words being more distinct. The fact that in singing we have a larger range of tones does not properly distinguish it from ordinary speech. In speech we have likewise a variation of tones, and even in ordinary conversation there is a difference of from three to six semitones, as I have found in my investigations, and in some persons the range is as high as one octave.</p>
-<h4 class="section-subhead">WILLIAM’S SHEPPA GREL.</h4>
-<h4 class="section-subhead">POPULAR SCIENCE MONTHLY.</h4>
-<p class="prose-p">By pitch, as everyone knows, we mean the relative position of a vocal tone, as high, medium, low, or any variation between. In public speech we apply it not only to a single utterance as an exclamation or a monosyllable, oh, or thee, but to any group of syllables, words, and even sentences that may be spoken in a single tone. This distinction it is important to keep in mind, for the efficient speaker not only changes the pitch of successive syllables — see Chapter 7, Efficiency Through Inflection — but gives a different pitch to different parts or word groups of successive sentences.</p>
-<p class="prose-p">It is this phase of the subject which we are considering in this chapter. Every change in the thought demands a change in the voice pitch. Whether the speaker follows the rule consciously, unconsciously, or subconsciously, this is the logical basis upon which all good voice variation is made, yet this law is violated more often than any other by public speakers. A criminal may disregard a law of the state without detection and punishment, but the speaker who violates this regulation suffers its penalty at once in his loss of effectiveness, while his innocent hearers must endure the monotony, for monotony is not only a sin of the perpetrator, as we have shown, but a plague on the victims as well.</p>
-<p class="prose-p">Change of pitch is a stumbling block for almost all beginners, and for many experienced speakers also. This is especially true when the words of the speech have been memorized. If you wish to hear how pitch monotony sounds, strike the same note on the piano over and over again. You have in your speaking voice a range of pitch from high to low, with a great many shades between the extremes.</p>
-<p class="prose-p">With all these notes available, there is no excuse for offending the ears and taste of your audience by continually using the one note. True, the reiteration of the same tone in music, as in pedal point on an organ composition, may be made the foundation of beauty, for the harmony weaving about that one basic tone produces a consistent, insistent quality, not felt in pure variety of chord sequences. In like manner, the intoning voice in a ritual may, though it rarely does, possess a solemn beauty, but the public speaker should shun the monotone as he would a pestilence.</p>
-<p class="prose-p">Continual change of pitch is Nature’s highest method. In our search for the principles of efficiency we must continually go back to Nature. Listen. Really listen to the birds sing.</p>
-<p class="prose-p">Which of these feathered tribes are most pleasing in their vocal efforts? Those whose voices, those sweet, have little or no range, or those that, like the canary, the lark, and the nightingale, not only possess a considerable range but utter their notes in continual variety of combinations. Even a sweet-toned chirp, when reiterated without change, may grow maddening to the enforced listener. The little child seldom speaks in a monotonous pitch.</p>
-<p class="prose-p">Observe the conversations of little folk that you hear on the street or in the home, and note the continual changes of pitch. The unconscious speech of most adults is likewise full of pleasing variations. Imagine someone speaking the following, and consider if the effect would not be just about as indicated. Remember, we are not now discussing the inflection of single words, but the general</p>
+            <p class="prose-p">the martyr.
+
+#### CHAPTER IV. Efficiently Through Change of Pitch Speech is simply a modified form of singing, the principal difference being in the fact that in singing the vowel sounds are prolonged and the intervals are short, whereas in speech the words are uttered in what may be called staccato tones, the vowels not being specifically prolonged and the intervals between the words being more distinct. The fact that in singing we have a larger range of tones does not properly distinguish it from ordinary speech.</p>
+<p class="prose-p">In speech we have likewise a variation of tones, and even in ordinary conversation there is a difference of from three to six semitones, as I have found in my investigations, and in some persons the range is as high as one octave.
+
+#### WILLIAM’S SHEPPA GREL.
+
+#### POPULAR SCIENCE MONTHLY. By pitch, as everyone knows, we mean the relative position of a vocal tone, as high, medium, low, or any variation between. In public speech we apply it not only to a single utterance as an exclamation or a monosyllable, oh, or thee, but to any group of syllables, words, and even sentences that may be spoken in a single tone.</p>
+<p class="prose-p">This distinction it is important to keep in mind, for the efficient speaker not only changes the pitch of successive syllables — see Chapter 7, Efficiency Through Inflection — but gives a different pitch to different parts or word groups of successive sentences. It is this phase of the subject which we are considering in this chapter. Every change in the thought demands a change in the voice pitch. Whether the speaker follows the rule consciously, unconsciously, or subconsciously, this is the logical basis upon which all good voice variation is made, yet this law is violated more often than any other by public speakers.</p>
+<p class="prose-p">A criminal may disregard a law of the state without detection and punishment, but the speaker who violates this regulation suffers its penalty at once in his loss of effectiveness, while his innocent hearers must endure the monotony, for monotony is not only a sin of the perpetrator, as we have shown, but a plague on the victims as well. Change of pitch is a stumbling block for almost all beginners, and for many experienced speakers also. This is especially true when the words of the speech have been memorized.</p>
+<p class="prose-p">If you wish to hear how pitch monotony sounds, strike the same note on the piano over and over again. You have in your speaking voice a range of pitch from high to low, with a great many shades between the extremes. With all these notes available, there is no excuse for offending the ears and taste of your audience by continually using the one note. True, the reiteration of the same tone in music, as in pedal point on an organ composition, may be made the foundation of beauty, for the harmony weaving about that one basic tone produces a consistent, insistent quality, not felt in pure variety of chord sequences.</p>
+<p class="prose-p">In like manner, the intoning voice in a ritual may, though it rarely does, possess a solemn beauty, but the public speaker should shun the monotone as he would a pestilence. Continual change of pitch is Nature’s highest method. In our search for the principles of efficiency we must continually go back to Nature. Listen.</p>
+<p class="prose-p">Really listen to the birds sing. Which of these feathered tribes are most pleasing in their vocal efforts? Those whose voices, those sweet, have little or no range, or those that, like the canary, the lark, and the nightingale, not only possess a considerable range but utter their notes in continual variety of combinations. Even a sweet-toned chirp, when reiterated without change, may grow maddening to the enforced listener.</p>
+<p class="prose-p">The little child seldom speaks in a monotonous pitch. Observe the conversations of little folk that you hear on the street or in the home, and note the continual changes of pitch. The unconscious speech of most adults is likewise full of pleasing variations. Imagine someone speaking the following, and consider if the effect would not be just about as indicated.</p>
+<p class="prose-p">Remember, we are not now discussing the inflection of single words, but the general</p>
           </div>
         </section>
         
@@ -2976,13 +3133,13 @@
             <p class="prose-p">pitch in which phrases are spoken. High pitch. I’d like to leave for my vacation to-morrow. Lower.</p>
 <p class="prose-p">Still, I have so much to do. Higher. Yet, I suppose, if I wait till I have time, I’ll never go. Repeat this, first in the pitches indicated, and then all in the one pitch, as many speakers would.</p>
 <p class="prose-p">Observe the difference in naturalness of effect. The following exercise should be spoken in a purely conversational tone, with numerous changes of pitch. Practice it until your delivery would cause a stranger in the next room to think you were discussing an actual incident with a friend, instead of delivering a memorized monologue. If you are in doubt about the effect you have secured, repeat it to a friend and ask him if it sounds like memorized words.</p>
-<p class="prose-p">If it does, it is wrong.</p>
-<h4 class="section-subhead">A SIMILAR CASE.</h4>
-<p class="prose-p">Jack, I hear you’ve gone and done it. Yes, I know. Most fellows will. Went and tried it once myself, sir, though you see I’m single still.</p>
-<p class="prose-p">And you met her, did you tell me, down at Newport last July, and resolved to ask the question at a soiree. So did I. I suppose you left the ballroom, with its music and its light, for they say love’s flame is brightest in the darkest of the night. Well, you walked along together, overhead the starlit sky, and I’ll bet, old man confess it, you were frightened.</p>
-<p class="prose-p">So was I. You strolled along the terrace, saw the summer moonlight pour all its radiance on the waters as they rippled on the shore, till at length you gathered courage when you saw that none was nigh. Did you draw her close and tell her that you loved her? So did I.</p>
-<p class="prose-p">Well, I needn’t ask you further, and I’m sure I wish you joy. Think I’ll wander down and see you when you’re married, eh, my boy? When the honeymoon is over and you’re settled down, we’ll try… what, the deuce you say? Rejected, you rejected?</p>
-<p class="prose-p">So was I. Anonymous. The necessity for changing pitch is so self-evident that it should be grasped and applied immediately.</p>
+<p class="prose-p">If it does, it is wrong.
+
+#### A SIMILAR CASE. Jack, I hear you’ve gone and done it. Yes, I know. Most fellows will.</p>
+<p class="prose-p">Went and tried it once myself, sir, though you see I’m single still. And you met her, did you tell me, down at Newport last July, and resolved to ask the question at a soiree. So did I. I suppose you left the ballroom, with its music and its light, for they say love’s flame is brightest in the darkest of the night.</p>
+<p class="prose-p">Well, you walked along together, overhead the starlit sky, and I’ll bet, old man confess it, you were frightened. So was I. You strolled along the terrace, saw the summer moonlight pour all its radiance on the waters as they rippled on the shore, till at length you gathered courage when you saw that none was nigh. Did you draw her close and tell her that you loved her?</p>
+<p class="prose-p">So did I. Well, I needn’t ask you further, and I’m sure I wish you joy. Think I’ll wander down and see you when you’re married, eh, my boy? When the honeymoon is over and you’re settled down, we’ll try… what, the deuce you say?</p>
+<p class="prose-p">Rejected, you rejected? So was I. Anonymous. The necessity for changing pitch is so self-evident that it should be grasped and applied immediately.</p>
 <p class="prose-p">However, it requires patient drill to free yourself from monotony of pitch. In natural conversation you think of an idea first, and then find words to express it. In memorized speeches you are liable to speak the words and then thank what they mean, and many speakers seem to trouble very little even about that. Is it any wonder that reversing the process should reverse the result?</p>
 <p class="prose-p">Get back to nature in your methods of expression. Read the following selection in a nonchalant manner, never pausing to think what the words really mean. Try it again, carefully studying the thought you have assimilated. Believe the idea, desire to express it effectively, and imagine an audience before you.</p>
 <p class="prose-p">Look them earnestly in the face and repeat this truth. If you follow directions you will note that you have made many changes of pitch after several readings. It is not work that kills men, it is worry. Work is healthy.</p>
@@ -3055,8 +3212,9 @@
 <p class="prose-p">And the last words uttered to his son in France were these. My boy, you will one day go back to Santo Domingo. Forget that France murdered your father. I would call him Cromwell, but Cromwell was only a soldier, and the state he founded went down with him into his grave.</p>
 <p class="prose-p">I would call him Washington, but the great Virginian held slaves. This man risked his empire rather than permit the slave trade in the humblest village of his dominions. You thank me a fanatic tonight, for you read history, not with your eyes, but with your prejudices. But fifty years hence, when truth gets a hearing, the muse of history will put Phocion for the Greek, and Brutus for the Roman, Hampton for England, Lafayette for France, choose Washington as the bright consummate flower of our earlier civilization, and John Brown, the ripe fruit of our noonday, then, dipping her pen in the sunlight, will write in the clear blue, above them all, the name of the soldier, the statesman, the martyr, to Saint Louverture.</p>
 <p class="prose-p">Wendell Phillips, to Saint Louverture. Drill on the following selections for change of pitch. Beecher’s Abraham Lincoln, page 76. Seward’s Irrepressible Conflict, page 67.</p>
-<p class="prose-p">Everett’s History of Liberty, page 78. Grady’s The Race Problem, page 36. And Beveridge’s Past Prosperity Around, page 470. The Art of Public Speaking, by Dale Carnegie and Joseph Berg Eisenwein.</p>
-<h4 class="section-subhead">Chapter 5.</h4>
+<p class="prose-p">Everett’s History of Liberty, page 78. Grady’s The Race Problem, page 36. And Beveridge’s Past Prosperity Around, page 470. The Art of Public Speaking, by Dale Carnegie and Joseph Berg Eisenwein.
+
+#### Chapter 5.</p>
 <p class="prose-p">Efficiency Through Change of Pace. Hear how he clears the points of faith, Where rattlin&#x27; and thumpin&#x27;, Now meekly calm, now wild and wrath, He’s stampin&#x27; and he’s jumpin&#x27;. Robert Burns, Holy Fair. The Latins have bequeathed to us a word That has no precise equivalent in our tongue, Therefore we have accepted it, body unchanged.</p>
 <p class="prose-p">It is the word tempo, and means rate of movement,</p>
           </div>
@@ -3354,8 +3512,9 @@
 <p class="prose-p">Note how light and short the inflections are in the following brief quotation, from Anthony the Absolute, by Samuel Mervyn. At sea, March 28. This evening I told Sir Robert what’s his name. He was a fool.</p>
 <p class="prose-p">I was quite right in this. He is. Every evening since the ship left Vancouver he has presided over the round table in the middle of the smoking room. There he sips his coffee and the cooler, and holds forth on every subject known to the mind of man.</p>
 <p class="prose-p">Each subject is his subject. He is an elderly person, with a bad face and a drooping left eyelid. They tell me that he is in the British service. A judge somewhere down in Malaysia, where they drink more than is good for them.</p>
-<p class="prose-p">Deliver the two following selections with great earnestness, and note how the inflections differ from the foregoing. Then re-read these selections in a light, superficial manner, noting that the change of attitude is expressed through a change of attitude. of inflection. When I read a sublime fact in Plutarch, or an unselfish deed in a line of poetry, or a thrill beneath some heroic legend, it is no longer fairyland. I have seen it matched.</p>
-<h4 class="section-subhead">WINDOW PHILIPS.</h4>
+<p class="prose-p">Deliver the two following selections with great earnestness, and note how the inflections differ from the foregoing. Then re-read these selections in a light, superficial manner, noting that the change of attitude is expressed through a change of attitude. of inflection. When I read a sublime fact in Plutarch, or an unselfish deed in a line of poetry, or a thrill beneath some heroic legend, it is no longer fairyland. I have seen it matched.
+
+#### WINDOW PHILIPS.</p>
 <p class="prose-p">Thought is deeper than all speech, feeling deeper than all thought. Souls to souls can never teach what unto themselves was taught. CRANCH It must be made perfectly clear that inflection deals mostly in subtle, delicate shading within single words, and is not by any means accomplished by a general rise or fall in the voice in speaking a sentence, yet certain sentences may be effectively delivered with just such inflection. Try this sentence in several ways, making no modulation until you come to the last two syllables, as indicated.</p>
 <p class="prose-p">And yet I told him distinctly, and yet I told him distinctly, and yet I told him distinctly</p>
           </div>
@@ -3432,7 +3591,7 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <h4 class="section-subhead">THE HISTORY OF LIBERTY.</h4>
+            <h4 class="section-subhead">#### THE HISTORY OF LIBERTY.</h4>
 <p class="prose-p">The event which we commemorate is all-important, not merely in our own annals, but in those of the world. The sitentious English poet has declared that the proper study of mankind is man, and of all inquiries of a temporal nature. The history of our fellow beings is unquestionably among the most interesting. But not all the chapters of human history are alike important.</p>
 <p class="prose-p">The annals of our race have been filled up with incidents which concern not or at least ought not to concern the great company of mankind. History, as it has often been written, is the genealogy of princes, the field-book of conquerors, and the fortunes of our fellow men have been treated only so far as they have been affected by the influence of the great masters and destroyers of our race. Such history is, I will not say, a worthless study, for it is necessary for us to know the dark side as well as the bright side of our condition.</p>
 <p class="prose-p">But it is a melancholy study which fills the bosom of the philanthropist and the friend of liberty with sorrow. But the history of liberty, the history of men struggling to be free, the history of men who have acquired and are exercising their freedom, the history of those great movements in the world by which liberty has been established and perpetuated, forms a subject which we cannot contemplate too closely. This is the real history of man, of the human family, of rational, immortal beings.</p>
@@ -3440,9 +3599,10 @@
 <p class="prose-p">If this generation does its duty, the cause of constitutional freedom is safe. If we fail, if we fail, not only do we defraud our children of the inheritance which we receive from our fathers, but we blast the hopes of the friends of liberty throughout our continent, throughout Europe, throughout the world, to the end of time. History is not without her examples of hard-fought fields, or the banner of liberty has floated triumphantly on the wildest storm of battle. She is without her examples of people by whom the deer-bought treasure has been wisely employed and safely handed down.</p>
 <p class="prose-p">The eyes of the world are turned for that example to us. Let us then, as we assemble on the birthday of the nation, as we gather upon the green turf, once wet with precious blood. Let us devote. 8. Concentration in Delivery ATTENTION is the microscope of the mental eye.</p>
 <p class="prose-p">Its power may be high or low, its field of view narrow or broad. When high power is used, attention is confined within very circumscribed limits, but its action is exceedingly intense and absorbing. It sees but few things, but these few things are observed through and through. Mental energy and activity, whether of perception or of thought, thus concentrated, act like the sun’s rays concentrated by the burning glass.</p>
-<p class="prose-p">The object is illumined, heated, set on fire. Impressions are so deep that they can never be effaced. Attention of this sort is the prime condition of the most productive mental labor.</p>
-<h4 class="section-subhead">DANIEL PUTNAM, PSYCHOLOGY.</h4>
-<p class="prose-p">Try to rub the top of your head forward and backward at the same time that you are patting your chest. Unless your powers of coordination are well developed, you will find it confusing,</p>
+<p class="prose-p">The object is illumined, heated, set on fire. Impressions are so deep that they can never be effaced. Attention of this sort is the prime condition of the most productive mental labor.
+
+#### DANIEL PUTNAM, PSYCHOLOGY. Try to rub the top of your head forward and backward at the same time that you are patting your chest.</p>
+<p class="prose-p">Unless your powers of coordination are well developed, you will find it confusing,</p>
           </div>
         </section>
         
@@ -3505,10 +3665,11 @@
             <p class="prose-p">THE WAGES OF WAR ARE THE WAGES OF SIN, AND THE WAGES OF- Section 9 OF THE ART OF PUBLIC SPEAKING. The Art of Public Speaking by Adele Carnegie and Joseph Berg-Asenwein. Section 9. Force.</p>
 <p class="prose-p">However, tis expedient to be wary. Indifference surties don’t produce distress, and rash enthusiasm in good society were nothing but a moral inebriety. Byron Donwan. You have attended plays that seemed fair, yet they did not move you, grip you.</p>
 <p class="prose-p">In theatrical parlance they failed to get over, which means that their message did not get over the footlights to the audience. There was no punch, no jab to them. They had no force. Of course, all this spells disaster in big letters, not only in a stage production but in any platform effort.</p>
-<p class="prose-p">Every such presentation exists solely for the audience, and if it fails to hit them, and the expression is a good one, it has no excuse for living, nor will it live long.</p>
-<h4 class="section-subhead">WHAT IS FORCE?</h4>
-<p class="prose-p">Some of our most obvious words open up secret meanings under scrutiny, and this is one of them. To begin with, we must recognize the distinction between inner and outer force. The one is cause, the other effect. The one is spiritual, the other physical.</p>
-<p class="prose-p">In this important particular, animate force differs from inanimate force, the power of man, coming from within and expressing itself outwardly, is of another sort from the force of Shimo’s powder, which awaits some influence from without to explode it. However susceptible to outside stimuli, the true source of power in man lies within himself. This may seem like mere psychology, but it has an intensely practical bearing on public speaking, as will appear. Not only must we discern the difference between human force and mere physical force, but we must not confuse its real essence with some of the things that may, and may not, accompany it.</p>
+<p class="prose-p">Every such presentation exists solely for the audience, and if it fails to hit them, and the expression is a good one, it has no excuse for living, nor will it live long.
+
+#### WHAT IS FORCE? Some of our most obvious words open up secret meanings under scrutiny, and this is one of them. To begin with, we must recognize the distinction between inner and outer force. The one is cause, the other effect.</p>
+<p class="prose-p">The one is spiritual, the other physical. In this important particular, animate force differs from inanimate force, the power of man, coming from within and expressing itself outwardly, is of another sort from the force of Shimo’s powder, which awaits some influence from without to explode it.</p>
+<p class="prose-p">However susceptible to outside stimuli, the true source of power in man lies within himself. This may seem like mere psychology, but it has an intensely practical bearing on public speaking, as will appear. Not only must we discern the difference between human force and mere physical force, but we must not confuse its real essence with some of the things that may, and may not, accompany it.</p>
 <p class="prose-p">For example, loudness is not force, though force at times may be attended by noise. Mere roaring never made a good speech, yet there are moments, moments, mind you, not minutes, when big voice power may be used with tremendous effect. Nor is violent motion force. Yet force may result in violent motion.</p>
 <p class="prose-p">Hamlet counseled the players. Nor do not saw the air too much with your hand, thus, but use all gently. For in the very torrent, tempest, and, as I may say, whirlwind of your passion, you must acquire and beget to temperance, that may give it smoothness. Oh, it offends me to the soul to hear a robustious periwig-pated fellow tear a passion to tatters, to very rags, to split the ears of the groundlings, who, for the most part, are capable of nothing but inexplicable dumb show and noise.</p>
 <p class="prose-p">I would have such a fellow whipped for o’erdoing tarmagant. It out herods herod. Pray you avoid it. Be not too tame, neither, but let your discretion be your tutor.</p>
@@ -3621,14 +3782,15 @@
           </div>
           <div class="section-body">
             <p class="prose-p">change of pitch within a single word. The forms you will work out for yourself should show a number of such inflections throughout the sentence. One of the chief means of securing emphasis is to employ long-falling inflection on the emphatic words. That is, to let the voice fall to a lower pitch on an interior vowel sound in a word.</p>
-<p class="prose-p">Try it on the words EVARY, ELIMOSINARY, and DESTROY. Use long-falling inflections on the italicized words in the following selection, noting their emphatic power. Are there any other words here that long-falling inflections would help to make expressive?</p>
-<h4 class="section-subhead">ADDRESS IN THE DARTMOTH COLLEGE CASE.</h4>
-<p class="prose-p">This, sir, is my case. It is the case not merely of that humble institution. It is the case of every college in our land. It is more.</p>
-<p class="prose-p">It is the case of every evolutionary institution throughout our country. Of all those great charities founded by the piety of our ancestors to alleviate human misery and scatter blessings along the pathway of life. Sir, you may DESTROY this little institution. It is weak.</p>
-<p class="prose-p">It is in your hands. I know it is one of the lesser lights in the literary horizon of our country. You may put it out. But if you do, you must carry through your work.</p>
-<p class="prose-p">You must extinguish, one after another, all those great lights of science which for more than a century have thrown their radiance over our land. It is, sir, as I have said, a small college. And yet there are those who love it. Sir, I know not how others may feel.</p>
-<p class="prose-p">But as for myself, when I see my alma mater surrounded, like Caesar in the Senate House, by those who are reiterating stab after stab, I would not for this right hand have her turn to me and say, And thou, too, my son?</p>
-<h4 class="section-subhead">DANIEL WEBSTER.</h4>
+<p class="prose-p">Try it on the words EVARY, ELIMOSINARY, and DESTROY. Use long-falling inflections on the italicized words in the following selection, noting their emphatic power. Are there any other words here that long-falling inflections would help to make expressive?
+
+#### ADDRESS IN THE DARTMOTH COLLEGE CASE. This, sir, is my case.</p>
+<p class="prose-p">It is the case not merely of that humble institution. It is the case of every college in our land. It is more. It is the case of every evolutionary institution throughout our country.</p>
+<p class="prose-p">Of all those great charities founded by the piety of our ancestors to alleviate human misery and scatter blessings along the pathway of life. Sir, you may DESTROY this little institution. It is weak. It is in your hands.</p>
+<p class="prose-p">I know it is one of the lesser lights in the literary horizon of our country. You may put it out. But if you do, you must carry through your work. You must extinguish, one after another, all those great lights of science which for more than a century have thrown their radiance over our land.</p>
+<p class="prose-p">It is, sir, as I have said, a small college. And yet there are those who love it. Sir, I know not how others may feel. But as for myself, when I see my alma mater surrounded, like Caesar in the Senate House, by those who are reiterating stab after stab, I would not for this right hand have her turn to me and say, And thou, too, my son?
+
+#### DANIEL WEBSTER.</p>
 <p class="prose-p">Be careful not to over-inflect. Too much modulation produces an unpleasant effect of artificiality, like a mature matron trying to be kittenish. It is a short step between true expression and unintentional burlesque. Scrutinize your own tones.</p>
 <p class="prose-p">Make a single expression like, oh no, or oh I see, or indeed, and by patient self-examination see how many shades of meaning may be expressed by inflection. This sort of common-sense practice will do you more good than a book of rules. But don’t forget to listen to your own voice. Questions and Exercises 1.</p>
 <p class="prose-p">In your own words define a. Cadence b. Modulation c. Inflection d.</p>
@@ -3677,9 +3839,9 @@
 <p class="prose-p">Pass on, thou that has to overcome. Your sorrows, O people, are his peace. Your bells and bands and muffled drums sound triumph in his ear. Wail and weep here.</p>
 <p class="prose-p">God makes it echo joy and triumph there. Pass on, Victor. Four years ago, O Illinois, we took near midst an untried man, and from among the people we return him to you, a mighty conqueror. Not thine anymore, but the nations.</p>
 <p class="prose-p">Not ours, but the world’s. Give him place, ye prairies. In the midst of this great continent his dust shall rest, a sacred treasure to myriads, who shall make pilgrimage to that shrine to kindle anew their zeal and patriotism. Ye winds, that move over the mighty places of the west, chant his requiem.</p>
-<p class="prose-p">Ye people, behold a martyr, whose blood, as so many inarticulate words, pleads for fidelity, for law, for liberty, and reward beecher.</p>
-<h4 class="section-subhead">THE HISTORY OF LIBERTY.</h4>
-<p class="prose-p">The event which we commemorate is all important, not merely in our own annals, but in those of the world.</p>
+<p class="prose-p">Ye people, behold a martyr, whose blood, as so many inarticulate words, pleads for fidelity, for law, for liberty, and reward beecher.
+
+#### THE HISTORY OF LIBERTY. The event which we commemorate is all important, not merely in our own annals, but in those of the world.</p>
           </div>
         </section>
         
@@ -3697,9 +3859,9 @@
 <p class="prose-p">To the end of time, history is not without her examples of hard-fought fields, where the banner of liberty has floated triumphantly on the wildest storm of battle. She is without her examples of people by whom the deer-bought treasure has been wisely employed and safely handed down. The eyes of the world are turned for that example to us. Let us then, as we assemble on the birthday of the nation, as we gather upon the green turf, once wet with precious blood, let us devote THE ART OF PUBLIC SPEAKING by Dale Carnegie and Joseph Berg-Eisenwein.</p>
 <p class="prose-p">Section 8. Concentration in Delivery Attention is the microscope of the mental eye. Its power may be high or low, its field of view narrow or broad. When high power is used attention is confined within very circumscribed limits, but its action is exceedingly intense and absorbing.</p>
 <p class="prose-p">It sees but few things, but these few things are observed through and through. Mental energy and activity, whether of perception or of thought, thus concentrated, act like the sun’s rays concentrated by the burning glass. The object is illumined, heated, set on fire. Impressions are so deep that they can never be effaced.</p>
-<p class="prose-p">Coordination of this sort is the prime condition of the most productive mental labor.</p>
-<h4 class="section-subhead">DANIEL PUTNAM, PSYCHOLOGY.</h4>
-<p class="prose-p">Try to rub the top of your head forward and backward at the same time that you are patting your chest. Unless your powers of coordination are well developed you will find it confusing, if not impossible. The brain needs special training before it can do two or more things efficiently at the same instant.</p>
+<p class="prose-p">Coordination of this sort is the prime condition of the most productive mental labor.
+
+#### DANIEL PUTNAM, PSYCHOLOGY. Try to rub the top of your head forward and backward at the same time that you are patting your chest. Unless your powers of coordination are well developed you will find it confusing, if not impossible. The brain needs special training before it can do two or more things efficiently at the same instant.</p>
           </div>
         </section>
         
@@ -3760,22 +3922,26 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">and gave Grant victory at Appomattox. Force saved the Union, kept the stars in the flag, made niggers men. The time for God’s force has come again. Let the impassioned lips of American patriots once more take up the song.</p>
-<h4 class="section-subhead">IN THE BEAUTY OF THE LILLIES.</h4>
+            <p class="prose-p">and gave Grant victory at Appomattox. Force saved the Union, kept the stars in the flag, made niggers men. The time for God’s force has come again. Let the impassioned lips of American patriots once more take up the song.
+
+#### IN THE BEAUTY OF THE LILLIES.</p>
 <p class="prose-p">The true business of the literary artist is to plate or weave his meaning, involving it around itself, so that each sentence by successive phrases shall first come into a kind of knot, and then, after a moment of suspended meaning, solve and clear itself. George Sainsbury on English Prose Style in Miscellaneous Essays Pause has a distinctive value, expressed in silence.</p>
-<p class="prose-p">In other words, while the voice is waiting, the music of the movement is going on. To manage it, with its delicacies and compensations, requires that same fineness of ear on which we must depend for all thoughtless prose rhythm. When there is no compensation, when the pause is inadvertent, there is a sense of jolting and lack, as if some pin or fastening had fallen out.</p>
-<h4 class="section-subhead">JOHN FRANKLIN GANUNG.</h4>
-<h4 class="section-subhead">THE WORKING PRINCIPLES OF RETORIC.</h4>
-<p class="prose-p">Pause in public speech is not mere silence. It is silence made designably eloquent. When a man says, I, it is with profound pleasure, that, er, I have been permitted to speak to you tonight, and, er, I should say, er, that is not pausing, that is stumbling. It is conceivable that a speaker may be effective in spite of stumbling, but never because of it.</p>
+<p class="prose-p">In other words, while the voice is waiting, the music of the movement is going on. To manage it, with its delicacies and compensations, requires that same fineness of ear on which we must depend for all thoughtless prose rhythm. When there is no compensation, when the pause is inadvertent, there is a sense of jolting and lack, as if some pin or fastening had fallen out.
+
+#### JOHN FRANKLIN GANUNG.
+
+#### THE WORKING PRINCIPLES OF RETORIC. Pause in public speech is not mere silence.</p>
+<p class="prose-p">It is silence made designably eloquent. When a man says, I, it is with profound pleasure, that, er, I have been permitted to speak to you tonight, and, er, I should say, er, that is not pausing, that is stumbling. It is conceivable that a speaker may be effective in spite of stumbling, but never because of it.</p>
 <p class="prose-p">On the other hand, one of the most important means of developing power in public speaking is to pause either before or after, or both before and after, an important word or phrase. No one who would be a forceful speaker can afford to neglect this principle, one of the most significant that has ever been inferred from listening to great orators. See this potential device until you have absorbed it. absorbed and assimilated it. It would seem that this principle of rhetorical pause ought to be easily grasped and applied, but a long experience in training both college men and maturer speakers has demonstrated that the device is no more readily understood by the average man when it is first explained to him than if it were spoken in Hindustani.</p>
 <p class="prose-p">Perhaps this is because we do not eagerly devour the fruit of experience when it is impressively set before us on the platter of authority. We like to pluck fruit for ourselves. It not only tastes better, but we never forget that tree. Fortunately, this is no difficult task in this instance, for the trees stand thick all about us.</p>
-<p class="prose-p">One man is pleading the cause of another. This man, my friends, has made this wonderful sacrifice.</p>
-<h4 class="section-subhead">FOR YOU AND ME.</h4>
-<p class="prose-p">Did not the pause surprisingly enhance the power of this statement? See how he gathered up reserved force and impressiveness to deliver the words FOR YOU AND ME? Repeat this passage without making a pause. Did it lose in effectiveness?</p>
-<p class="prose-p">Naturally enough, during a premeditated pause of this kind, the mind of the speaker is concentrated on the thought to which he is about to give expression. He will not dare to allow his thoughts to wander for an instant. He will rather supremely center his thought and his emotion upon the sacrifice whose service, sweetness, and divinity he is enforcing by his appeal. Concentration, then, is the big word here.</p>
-<p class="prose-p">No pause without it can perfectly hit the mark. Efficient pausing accomplishes one or all of four results. 1. Pause enables the mind of the speaker to gather his forces before delivering the final volley. It is often dangerous to rush into battle without pausing for preparation or waiting for recruits.</p>
-<p class="prose-p">Consider Custer’s massacre as an instance. You can light a match by holding it beneath a lens and concentrating the sun’s rays. You would not expect the match to flame if you jerked the lens back and forth quickly. Pause, and the lens gathers heat.</p>
-<p class="prose-p">Your thoughts will not set fire to the minds of your hearers unless you pause to gather the force that comes by a second or two of concentration. Maple trees and gas wells are rarely tapped continually. When a stronger flow is wanted, a pause is made. Nature has time to gather her reserve forces, and when the tree or the well is reopened,</p>
+<p class="prose-p">One man is pleading the cause of another. This man, my friends, has made this wonderful sacrifice.
+
+#### FOR YOU AND ME. Did not the pause surprisingly enhance the power of this statement? See how he gathered up reserved force and impressiveness to deliver the words FOR YOU AND ME?</p>
+<p class="prose-p">Repeat this passage without making a pause. Did it lose in effectiveness? Naturally enough, during a premeditated pause of this kind, the mind of the speaker is concentrated on the thought to which he is about to give expression. He will not dare to allow his thoughts to wander for an instant.</p>
+<p class="prose-p">He will rather supremely center his thought and his emotion upon the sacrifice whose service, sweetness, and divinity he is enforcing by his appeal. Concentration, then, is the big word here. No pause without it can perfectly hit the mark. Efficient pausing accomplishes one or all of four results. 1.</p>
+<p class="prose-p">Pause enables the mind of the speaker to gather his forces before delivering the final volley. It is often dangerous to rush into battle without pausing for preparation or waiting for recruits. Consider Custer’s massacre as an instance. You can light a match by holding it beneath a lens and concentrating the sun’s rays.</p>
+<p class="prose-p">You would not expect the match to flame if you jerked the lens back and forth quickly. Pause, and the lens gathers heat. Your thoughts will not set fire to the minds of your hearers unless you pause to gather the force that comes by a second or two of concentration. Maple trees and gas wells are rarely tapped continually.</p>
+<p class="prose-p">When a stronger flow is wanted, a pause is made. Nature has time to gather her reserve forces, and when the tree or the well is reopened,</p>
           </div>
         </section>
         
@@ -4035,6 +4201,204 @@
 
     document.getElementById('scroll-top-btn').addEventListener('click', () => {
       window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    // ==========================================
+    // IN-PAGE CONTENT SEARCH (單書全文搜尋)
+    // ==========================================
+    const searchBar = document.getElementById('inpage-search-bar');
+    const searchInput = document.getElementById('inpage-search-input');
+    const searchCount = document.getElementById('inpage-search-count');
+    const searchDrawer = document.getElementById('inpage-search-drawer');
+    const searchDrawerList = document.getElementById('inpage-search-drawer-list');
+    const searchToggleBtn = document.getElementById('search-toggle-btn');
+    const searchClearBtn = document.getElementById('inpage-search-clear');
+    const searchPrevBtn = document.getElementById('inpage-search-prev');
+    const searchNextBtn = document.getElementById('inpage-search-next');
+    const searchCloseBtn = document.getElementById('inpage-search-close');
+    const drawerCloseBtn = document.getElementById('inpage-drawer-close');
+
+    let searchMatches = [];
+    let currentMatchIdx = -1;
+
+    // Cache original innerHTML for clean resets
+    const rawParagraphs = Array.from(document.querySelectorAll('.section-body p')).map(p => ({
+      el: p,
+      rawHtml: p.innerHTML,
+      rawText: p.textContent
+    }));
+
+    function openSearch() {
+      searchBar.classList.add('active');
+      searchInput.focus();
+      searchInput.select();
+      if (searchInput.value.trim()) {
+        performSearch(searchInput.value.trim());
+      }
+    }
+
+    function closeSearch() {
+      searchBar.classList.remove('active');
+      searchDrawer.classList.remove('active');
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchCount.textContent = '0 / 0';
+    }
+
+    function clearHighlights() {
+      rawParagraphs.forEach(item => {
+        item.el.innerHTML = item.rawHtml;
+      });
+    }
+
+    function escapeRegex(str) {
+      return str.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+    }
+
+    function escapeHtml(str) {
+      return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+
+    function performSearch(query) {
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchDrawerList.innerHTML = '';
+
+      if (!query || query.trim().length === 0) {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+        return;
+      }
+
+      query = query.trim();
+      const qLower = query.toLowerCase();
+      const regex = new RegExp(`(${escapeRegex(query)})`, 'gi');
+
+      rawParagraphs.forEach((item, pIdx) => {
+        if (item.rawText.toLowerCase().includes(qLower)) {
+          const sec = item.el.closest('.transcript-section');
+          const secTime = sec ? (sec.querySelector('.section-time')?.textContent || '') : '';
+          const secId = sec ? sec.id : '';
+
+          // Apply highlight
+          item.el.innerHTML = item.rawHtml.replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const marks = Array.from(item.el.querySelectorAll('mark.search-highlight'));
+          marks.forEach(mark => {
+            searchMatches.push({
+              mark,
+              el: item.el,
+              secTime,
+              secId
+            });
+          });
+
+          // Snippet creation
+          const matchPos = item.rawText.toLowerCase().indexOf(qLower);
+          const start = Math.max(0, matchPos - 30);
+          const end = Math.min(item.rawText.length, matchPos + query.length + 50);
+          const snippetText = item.rawText.slice(start, end);
+          const snippetHtml = escapeHtml(snippetText).replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const card = document.createElement('div');
+          card.className = 'search-result-item';
+          card.innerHTML = `
+            <div class="search-result-time">${secTime}</div>
+            <div class="search-result-snippet">...${snippetHtml}...</div>
+          `;
+          card.addEventListener('click', () => {
+            const targetIdx = searchMatches.findIndex(m => m.mark === marks[0]);
+            if (targetIdx >= 0) goToMatch(targetIdx);
+          });
+          searchDrawerList.appendChild(card);
+        }
+      });
+
+      if (searchMatches.length > 0) {
+        searchDrawer.classList.add('active');
+        goToMatch(0);
+      } else {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+      }
+    }
+
+    function goToMatch(idx) {
+      if (idx < 0 || idx >= searchMatches.length) return;
+      if (currentMatchIdx >= 0 && searchMatches[currentMatchIdx]) {
+        searchMatches[currentMatchIdx].mark.classList.remove('active-match');
+      }
+      currentMatchIdx = idx;
+      const target = searchMatches[currentMatchIdx];
+      target.mark.classList.add('active-match');
+      searchCount.textContent = `${currentMatchIdx + 1} / ${searchMatches.length}`;
+
+      // Highlight active drawer item
+      const drawerItems = searchDrawerList.querySelectorAll('.search-result-item');
+      drawerItems.forEach(di => di.classList.remove('active'));
+
+      target.mark.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+
+    searchToggleBtn.addEventListener('click', () => {
+      if (searchBar.classList.contains('active')) {
+        closeSearch();
+      } else {
+        openSearch();
+      }
+    });
+
+    let debounceTimer;
+    searchInput.addEventListener('input', (e) => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => {
+        performSearch(e.target.value);
+      }, 200);
+    });
+
+    searchClearBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      performSearch('');
+      searchInput.focus();
+    });
+
+    searchNextBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const nextIdx = (currentMatchIdx + 1) % searchMatches.length;
+      goToMatch(nextIdx);
+    });
+
+    searchPrevBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const prevIdx = (currentMatchIdx - 1 + searchMatches.length) % searchMatches.length;
+      goToMatch(prevIdx);
+    });
+
+    searchInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        if (e.shiftKey) {
+          searchPrevBtn.click();
+        } else {
+          searchNextBtn.click();
+        }
+      } else if (e.key === 'Escape') {
+        closeSearch();
+      }
+    });
+
+    searchCloseBtn.addEventListener('click', closeSearch);
+    drawerCloseBtn.addEventListener('click', () => searchDrawer.classList.remove('active'));
+
+    window.addEventListener('keydown', (e) => {
+      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'f') {
+        e.preventDefault();
+        openSearch();
+      } else if (e.key === 'Escape') {
+        if (searchBar.classList.contains('active')) closeSearch();
+      }
     });
   </script>
 </body>

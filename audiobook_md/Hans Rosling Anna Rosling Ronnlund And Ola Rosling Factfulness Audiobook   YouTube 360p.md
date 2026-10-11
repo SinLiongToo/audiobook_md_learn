@@ -626,15 +626,13 @@ In all groups of countries or people, there are some at the top and some at the 
 
 Everything else looks equally short, but it’s not.
 
-#### Chapter 2 The Negativity Instinct How I was kind of born in Egypt and what a baby in an incubator can teach us about the world.
+#### Chapter 2 The Negativity Instinct How I was kind of born in Egypt and what a baby in an incubator can teach us about the world. Which statement do you agree with most? A. The world is getting better.
 
-Which statement do you agree with most? A. The world is getting better. B.
+B. The world is getting worse. C. The world is getting neither better nor worse.
 
-The world is getting worse. C. The world is getting neither better nor worse. Getting Out of the Ditch I remember being suddenly upside down.
+Getting Out of the Ditch I remember being suddenly upside down. I remember the dark, the smell of urine, and being unable to breathe as my mouth and nostrils filled with mud. I remember struggling to turn myself upright, but only sinking deeper into the sticky liquid. I remember my arms stretched out behind me, desperately searching the grass for something to pull, then being suddenly hauled out by the ankles.
 
-I remember the dark, the smell of urine, and being unable to breathe as my mouth and nostrils filled with mud. I remember struggling to turn myself upright, but only sinking deeper into the sticky liquid. I remember my arms stretched out behind me, desperately searching the grass for something to pull, then being suddenly hauled out by the ankles. My grandma putting me in the big sink on the kitchen floor and washing me gently with the hot water meant for the dishes, the scent of the soap.
-
-These are my earliest memories and were nearly my last. They are memories of my rescue, aged four, from the sewage ditch running in front of my grandma’s house. It was filled to the brim with a mix of last night’s rain and sewage slurry from the factory
+My grandma putting me in the big sink on the kitchen floor and washing me gently with the hot water meant for the dishes, the scent of the soap. These are my earliest memories and were nearly my last. They are memories of my rescue, aged four, from the sewage ditch running in front of my grandma’s house. It was filled to the brim with a mix of last night’s rain and sewage slurry from the factory
 
 
 <a id="sec-013558"></a>
@@ -890,19 +888,19 @@ When you see bad news, ask whether equally positive news would have reached you.
 
 More bad news is sometimes due to better surveillance of suffering, not a worsening world. Beware of rosy pasts. People often glorify their early experiences, and nations often glorify their histories.
 
-#### Chapter 3 The Straight Line Instinct How more survivors means fewer people, how traffic accidents are like cavities, and why my grandson is like the population of the world.
+#### Chapter 3 The Straight Line Instinct How more survivors means fewer people, how traffic accidents are like cavities, and why my grandson is like the population of the world. The most frightening graph I ever saw.
 
-The most frightening graph I ever saw. Statistics can be terrifying. On September 23, 2014, I was sitting at my desk in the Gapminder office in Stockholm when I saw a line on a graph that gripped me with fear. I had been concerned about the Ebola outbreak in West Africa since August.
+Statistics can be terrifying. On September 23, 2014, I was sitting at my desk in the Gapminder office in Stockholm when I saw a line on a graph that gripped me with fear. I had been concerned about the Ebola outbreak in West Africa since August. Like others, I had seen the tragic images in the media of people dying in the streets of Monrovia, the capital of Liberia.
 
-Like others, I had seen the tragic images in the media of people dying in the streets of Monrovia, the capital of Liberia. But in my work, I often heard about sudden outbreaks of deadly diseases, and I had assumed it was just like most others, and would soon be contained. The graph in the World Health Organization research article shocked me into fear and then action. The researchers had collected all the Ebola data since the start of the epidemic and used it to calculate the expected number of new cases per day up to the end of October.
+But in my work, I often heard about sudden outbreaks of deadly diseases, and I had assumed it was just like most others, and would soon be contained. The graph in the World Health Organization research article shocked me into fear and then action. The researchers had collected all the Ebola data since the start of the epidemic and used it to calculate the expected number of new cases per day up to the end of October. They showed, for the first time, that the number of cases was not just increasing along a straight line, one, two, three, four, five.
 
-They showed, for the first time, that the number of cases was not just increasing along a straight line, one, two, three, four, five. Instead the line was doubling like this, one, two, four, eight, sixteen. Each infected person was infecting, on average, two more people before dying. As a result, the number of new cases per day was doubling every three weeks.
+Instead the line was doubling like this, one, two, four, eight, sixteen. Each infected person was infecting, on average, two more people before dying. As a result, the number of new cases per day was doubling every three weeks. The graph showed how enormous the outbreak would soon become if each infected person kept infecting two more.
 
-The graph showed how enormous the outbreak would soon become if each infected person kept infecting two more. Doubling is scary. I had first learned about the effect of doubling at school. In the Indian legend, the Lord Krishna asks for one grain of rice in the first square of the chessboard, then two grains on the second square, four grains on the third square, then eight and so on, doubling the number of grains each time.
+Doubling is scary. I had first learned about the effect of doubling at school. In the Indian legend, the Lord Krishna asks for one grain of rice in the first square of the chessboard, then two grains on the second square, four grains on the third square, then eight and so on, doubling the number of grains each time. By the time he gets to the last of the sixty-four squares, he is owed eighteen quintillion, four hundred forty-six quadrillion, seven hundred forty-four trillion, seventy-three billion, seven hundred nine million, five hundred fifty-one thousand, six hundred fifteen grains of rice, enough to cover the whole of India with a layer of rice thirty inches deep.
 
-By the time he gets to the last of the sixty-four squares, he is owed eighteen quintillion, four hundred forty-six quadrillion, seven hundred forty-four trillion, seventy-three billion, seven hundred nine million, five hundred fifty-one thousand, six hundred fifteen grains of rice, enough to cover the whole of India with a layer of rice thirty inches deep. Anything that keeps doubling grows much faster than we first assume. So I knew the situation in West Africa was about to become desperate. Liberia was at risk of a catastrophe worse than its recently ended civil war, and one that would almost inevitably spread to the entire world.
+Anything that keeps doubling grows much faster than we first assume. So I knew the situation in West Africa was about to become desperate. Liberia was at risk of a catastrophe worse than its recently ended civil war, and one that would almost inevitably spread to the entire world. Unlike malaria, Ebola could spread quickly in all climates and could travel on airplanes, across borders and oceans, inside the bodies of unknowingly infected passengers.
 
-Unlike malaria, Ebola could spread quickly in all climates and could travel on airplanes, across borders and oceans, inside the bodies of unknowingly infected passengers. There was no effective treatment for it. People were already dying in the streets now. Within only nine weeks, the time needed for three doublings, the situation would be eight times as desperate.
+There was no effective treatment for it. People were already dying in the streets now. Within only nine weeks, the time needed for three doublings, the situation would be eight times as desperate.
 
 
 <a id="sec-022633"></a>
@@ -1124,27 +1122,27 @@ Don’t assume straight lines. Many trends do not follow straight lines, but are
 
 No child ever kept up the rate of growth it achieved in its first six months, and no parents would expect it to.
 
-#### Chapter 4 The Fear Instinct How to Hide 40 Million Airplanes and How I Kind of Won the Nobel Peace Prize Blood all over the floor.
+#### Chapter 4 The Fear Instinct How to Hide 40 Million Airplanes and How I Kind of Won the Nobel Peace Prize Blood all over the floor. On October 7, 1975, I was plastering a patient’s arm when an assistant nurse burst through the door and announced that a plane had crashed and the wounded were coming in by helicopter. It was my fifth day as a junior doctor on the emergency ward in the small coastal town of Hudiksvall in Sweden.
 
-On October 7, 1975, I was plastering a patient’s arm when an assistant nurse burst through the door and announced that a plane had crashed and the wounded were coming in by helicopter. It was my fifth day as a junior doctor on the emergency ward in the small coastal town of Hudiksvall in Sweden. All the senior staff were down in the dining hall, and as the assistant nurse and I searched frantically for the folder of disaster instructions, I could already hear the helicopter landing.
+All the senior staff were down in the dining hall, and as the assistant nurse and I searched frantically for the folder of disaster instructions, I could already hear the helicopter landing. The two of us were going to have to handle this on our own.
 
-The two of us were going to have to handle this on our own. Years later a stretcher was rolled in, bearing a man in dark green overalls and a camouflage life jacket. His arms and legs were twitching. An epileptic seizure, I thought, off with his clothes.
+Years later a stretcher was rolled in, bearing a man in dark green overalls and a camouflage life jacket. His arms and legs were twitching. An epileptic seizure, I thought, off with his clothes. I removed his life jacket easily, but his overalls were more problematic.
 
-I removed his life jacket easily, but his overalls were more problematic. They looked like a space suit, with huge sturdy zippers all over, and no matter how hard I tried, I couldn’t find the zipper that undid them. I had just registered that the uniform meant this was a military pilot when I noticed the blood all over the floor. He’s bleeding, I shouted.
+They looked like a space suit, with huge sturdy zippers all over, and no matter how hard I tried, I couldn’t find the zipper that undid them. I had just registered that the uniform meant this was a military pilot when I noticed the blood all over the floor. He’s bleeding, I shouted. With this much blood I knew he could be dead in a matter of seconds, but with the overalls still on I couldn’t see where it was coming from.
 
-With this much blood I knew he could be dead in a matter of seconds, but with the overalls still on I couldn’t see where it was coming from. I grabbed a big pair of plaster pliers to cut through the fabric and howl to the assistant nurse—four bags of blood, O negative, now!" To the patient, I shouted, where does it hurt? И А СИСИСИА Не А СИСИСИСИСИС. He replied. I couldn’t understand a word, but it sounded like Russian.
+I grabbed a big pair of plaster pliers to cut through the fabric and howl to the assistant nurse—four bags of blood, O negative, now!" To the patient, I shouted, where does it hurt? И А СИСИСИА Не А СИСИСИСИСИС. He replied. I couldn’t understand a word, but it sounded like Russian. I looked the man in the eyes and said with a clear voice, Висео тика товоришь шветскея балнитса, which means All is calm, comrade, Swedish hospital.
 
-I looked the man in the eyes and said with a clear voice, Висео тика товоришь шветскея балнитса, which means All is calm, comrade, Swedish hospital. I will never forget the look of panic I triggered with those words. Frightened out of his mind, he stared back at me and tried to tell me something. Врад Фрат пластре Ракстрий А СИСИСИСИСИС. I looked into his eyes full of fear, and then I realized, This must be a Russian fighter pilot who has been shot down over Swedish territory, which means that the Soviet Union is attacking us.
+I will never forget the look of panic I triggered with those words. Frightened out of his mind, he stared back at me and tried to tell me something. Врад Фрат пластре Ракстрий А СИСИСИСИСИС. I looked into his eyes full of fear, and then I realized, This must be a Russian fighter pilot who has been shot down over Swedish territory, which means that the Soviet Union is attacking us. World War III has started.
 
-World War III has started. I was paralyzed by fear. Fortunately, at that moment, the head nurse, Birgitta, came back from lunch. She snatched the plaster pliers from my hand and hissed, Don’t shred it.
+I was paralyzed by fear. Fortunately, at that moment, the head nurse, Birgitta, came back from lunch. She snatched the plaster pliers from my hand and hissed, Don’t shred it. That’s an Air Force G-suit, and it costs more than ten thousand Swedish kronor.
 
-That’s an Air Force G-suit, and it costs more than ten thousand Swedish kronor. After a beat, she added, And can you please step off the life jacket? You’re standing on the color cartridge, and it’s making the whole floor red. Birgitta turned to the patient, calmly freed him from his G-suit, and wrapped him in a couple of blankets.
+After a beat, she added, And can you please step off the life jacket? You’re standing on the color cartridge, and it’s making the whole floor red. Birgitta turned to the patient, calmly freed him from his G-suit, and wrapped him in a couple of blankets. In the meantime, she told him in Swedish, You were in the icy water for twenty-three minutes, which is why you are jerking and shivering, and why we can’t understand what you’re saying.
 
-In the meantime, she told him in Swedish, You were in the icy water for twenty-three minutes, which is why you are jerking and shivering, and why we can’t understand what you’re saying. The Swedish Air Force pilot, who had evidently crashed during a routine flight, gave me a comforting little smile. A few years ago, I contacted the pilot and was relieved to hear that he doesn’t remember a thing from those first minutes in the emergency room in 1975, but for me the experience is hard to forget.
+The Swedish Air Force pilot, who had evidently crashed during a routine flight, gave me a comforting little smile. A few years ago, I contacted the pilot and was relieved to hear that he doesn’t remember a thing from those first minutes in the emergency room in 1975, but for me the experience is hard to forget. I will forever remember my complete misjudgment. Everything was the other way around.
 
-I will forever remember my complete misjudgment. Everything was the other way around. The Russian was Swedish, the war was peace, the epileptic seizure was cooling, and the blood was a color ampoule from inside the life jacket. But it had all seemed so convincing to me.
+The Russian was Swedish, the war was peace, the epileptic seizure was cooling, and the blood was a color ampoule from inside the life jacket. But it had all seemed so convincing to me. When we are afraid, we do not see clearly. I was a young doctor facing my first emergency, and I had always been terrified by the prospect of a Third World War.
 
-When we are afraid, we do not see clearly. I was a young doctor facing my first emergency, and I had always been terrified by the prospect of a Third World War. As a child, I often had nightmares about it.
+As a child, I often had nightmares about it.
 
 
 <a id="sec-031204"></a>
@@ -1354,17 +1352,15 @@ Risk equals danger times exposure. The risk something poses to you depends not o
 
 When you’re afraid, you see the world differently. Make as few decisions as possible until the panic has subsided.
 
-#### Chapter 5 The Size Instinct Putting War Memorials and bear attacks in proportion using two magic tools that you already possess.
+#### Chapter 5 The Size Instinct Putting War Memorials and bear attacks in proportion using two magic tools that you already possess. The Deaths I Do Not See When I was a young doctor in Mozambique in the early 1980s, I had to do some very difficult math. The math was difficult because of what I was counting.
 
-The Deaths I Do Not See When I was a young doctor in Mozambique in the early 1980s, I had to do some very difficult math. The math was difficult because of what I was counting. I was counting dead children. Specifically, I was comparing the number of deaths among children admitted to our hospital in Nakhala with the number of children dying in their homes within the district we were supposed to serve.
+I was counting dead children. Specifically, I was comparing the number of deaths among children admitted to our hospital in Nakhala with the number of children dying in their homes within the district we were supposed to serve. At that time, Mozambique was the poorest country in the world. In my first year in Nakhala district, I was the only doctor for a population of three hundred thousand people.
 
-At that time, Mozambique was the poorest country in the world. In my first year in Nakhala district, I was the only doctor for a population of three hundred thousand people. In my second year, a second doctor joined me. We covered a population that in Sweden would have been served by one hundred doctors, and every morning on my way to work I said to myself, Today I must do the work of fifty doctors.
+In my second year, a second doctor joined me. We covered a population that in Sweden would have been served by one hundred doctors, and every morning on my way to work I said to myself, Today I must do the work of fifty doctors. We admitted around one thousand very sick children each year to the district’s one small hospital, which meant around three per day. I will never forget trying to save the lives of those children.
 
-We admitted around one thousand very sick children each year to the district’s one small hospital, which meant around three per day. I will never forget trying to save the lives of those children. All had very severe diseases, like diarrhea, pneumonia, and malaria, often complicated by anemia and malnutrition, and despite our best efforts, around one in twenty of them died. That was one child every week, almost all of whom we could have cured if we had had more and better resources and staff.
+All had very severe diseases, like diarrhea, pneumonia, and malaria, often complicated by anemia and malnutrition, and despite our best efforts, around one in twenty of them died. That was one child every week, almost all of whom we could have cured if we had had more and better resources and staff. The care we could provide was rudimentary—water and salt solutions and intramuscular injections. We did not give intravenous drips.
 
-The care we could provide was rudimentary—water and salt solutions and intramuscular injections. We did not give intravenous drips. The nurses had not yet acquired the skills to administer them, and it would have taken up too much of the doctor’s time to place and supervise the infusions. We rarely had oxygen tanks, and we had limited capacity for blood transfusions.
-
-This was the medicine of extreme poverty.
+The nurses had not yet acquired the skills to administer them, and it would have taken up too much of the doctor’s time to place and supervise the infusions. We rarely had oxygen tanks, and we had limited capacity for blood transfusions. This was the medicine of extreme poverty.
 
 
 <a id="sec-035733"></a>
@@ -1592,33 +1588,33 @@ They are quite likely more important than all the others put together. Divide. A
 
 In particular, look for rates per person when comparing between countries or regions.
 
-#### Chapter 6.
+#### Chapter 6. The Generalization Instinct. Why I had to lie about the Danes and how it can be smart to build half a house. Dinner is served.
 
-The Generalization Instinct. Why I had to lie about the Danes and how it can be smart to build half a house. Dinner is served. An orange sun was setting behind the acacia trees on the savannah of the Bandundu region south of the Congo River.
+An orange sun was setting behind the acacia trees on the savannah of the Bandundu region south of the Congo River. Half a day’s walk from the end of the paved road. This is where you find the people who live in extreme poverty. They are stuck behind that mountain, beyond where the road ends.
 
-Half a day’s walk from the end of the paved road. This is where you find the people who live in extreme poverty. They are stuck behind that mountain, beyond where the road ends. My colleague Torquille and I spent the day interviewing the people in this remote village about their nutrition, and now they wanted to throw us a party.
+My colleague Torquille and I spent the day interviewing the people in this remote village about their nutrition, and now they wanted to throw us a party. No one had ever walked so far to ask them about their problems. As Swedish villagers would have done a hundred years ago, they were demonstrating their gratitude and respect by serving their guests the biggest piece of meat they could find. The entire village was gathered in a circle around Torquille and me as we were presented with our plates.
 
-No one had ever walked so far to ask them about their problems. As Swedish villagers would have done a hundred years ago, they were demonstrating their gratitude and respect by serving their guests the biggest piece of meat they could find. The entire village was gathered in a circle around Torquille and me as we were presented with our plates. On top of two large green leaves lay two whole-skinned, grilled rats. I thought I might throw up.
+On top of two large green leaves lay two whole-skinned, grilled rats. I thought I might throw up. Then I noticed that Torquille had already started eating. We were both very hungry after a whole day’s work with no food.
 
-Then I noticed that Torquille had already started eating. We were both very hungry after a whole day’s work with no food. I looked around at the villagers who were smiling at me expectantly. I had to eat it, and I did.
+I looked around at the villagers who were smiling at me expectantly. I had to eat it, and I did. It was actually not that bad. It tasted a bit like chicken.
 
-It was actually not that bad. It tasted a bit like chicken. To be polite, I tried to look happy as I swallowed it down. Then it was time for dessert.
+To be polite, I tried to look happy as I swallowed it down. Then it was time for dessert. Another plate full of big white larvas from the palm nut tree. And I do mean big.
 
-Another plate full of big white larvas from the palm nut tree. And I do mean big. Each one was longer and thicker than my thumb and had been lightly fried in its own fat. But I wondered, had they been too lightly fried?
+Each one was longer and thicker than my thumb and had been lightly fried in its own fat. But I wondered, had they been too lightly fried? Because they seemed to be moving, the villagers were proud to offer us such a delicious treat. Remember, I am a sword-swallower.
 
-Because they seemed to be moving, the villagers were proud to offer us such a delicious treat. Remember, I am a sword-swallower. I should be able to push anything down my throat, and I am not usually a fussy eater. I had even once eaten porridge made from mosquitoes.
+I should be able to push anything down my throat, and I am not usually a fussy eater. I had even once eaten porridge made from mosquitoes. But no, this I couldn’t do. The heads of the larvas looked like little brown nuts and their thick bodies like transparent wrinkled marshmallows through which I could see their intestines.
 
-But no, this I couldn’t do. The heads of the larvas looked like little brown nuts and their thick bodies like transparent wrinkled marshmallows through which I could see their intestines. The villagers gestured that I should bite them into and suck out the insides. If I tried, I would puke the rat back up.
+The villagers gestured that I should bite them into and suck out the insides. If I tried, I would puke the rat back up. I did not want to offend.
 
-I did not want to offend. Suddenly an idea. I smiled softly and said regretfully, you know what, I am sorry, but I can’t eat larvas. Torquille turned to me surprised.
+Suddenly an idea. I smiled softly and said regretfully, you know what, I am sorry, but I can’t eat larvas. Torquille turned to me surprised. He already had a couple of larvas hanging out of the corners of his mouth.
 
-He already had a couple of larvas hanging out of the corners of his mouth. He really loved those larvas. He had previously worked as a missionary in Congo, where they had been the highlight of every week for one whole year. You see, we don’t eat larvas, I said, trying to look convincing.
+He really loved those larvas. He had previously worked as a missionary in Congo, where they had been the highlight of every week for one whole year. You see, we don’t eat larvas, I said, trying to look convincing. The villagers looked at Torquille.
 
-The villagers looked at Torquille. But he eats them, they asked. Torquille stared at me. Ah, I said.
+But he eats them, they asked. Torquille stared at me. Ah, I said. You see, he comes from a different tribe.
 
-You see, he comes from a different tribe. I come from Sweden. He comes from Denmark. In Denmark they love eating larvas.
+I come from Sweden. He comes from Denmark. In Denmark they love eating larvas. But in Sweden it’s against our culture.
 
-But in Sweden it’s against our culture. The village teacher went and got out the world map and I pointed out the water separating our two countries. On this side of the water they eat larvas, I said.
+The village teacher went and got out the world map and I pointed out the water separating our two countries. On this side of the water they eat larvas, I said.
 
 
 <a id="sec-044300"></a>
@@ -1834,11 +1830,9 @@ Ask whether it means 51 percent, 99 percent, or something in between. Beware of 
 
 When something looks strange, be curious and humble, and think, in what way is this a smart solution?
 
-#### Chapter 7 The Destiny Instinct What rocks that move and what grandpa never talked about.
+#### Chapter 7 The Destiny Instinct What rocks that move and what grandpa never talked about. Snowballs in hell. Not long ago I was invited to the five-star Balmoral Hotel in Edinburgh to present to a gathering of capital managers and their wealthiest clients. As I set up my equipment in the magnificent high-ceilinged ballroom, I couldn’t help feeling a bit small.
 
-Snowballs in hell. Not long ago I was invited to the five-star Balmoral Hotel in Edinburgh to present to a gathering of capital managers and their wealthiest clients. As I set up my equipment in the magnificent high-ceilinged ballroom, I couldn’t help feeling a bit small. And I asked myself why a wealthy financial institution would want its clients to hear from a Swedish professor of public health.
-
-I had been carefully briefed weeks earlier, but to feel sure, I asked the conference organizer
+And I asked myself why a wealthy financial institution would want its clients to hear from a Swedish professor of public health. I had been carefully briefed weeks earlier, but to feel sure, I asked the conference organizer
 
 
 <a id="sec-052324"></a>
@@ -2056,21 +2050,19 @@ Technology, countries, societies, cultures, and religions are constantly changin
 
 Challenge the idea that today’s culture must also have been yesterday’s, and will also be tomorrow’s.
 
-#### Chapter 8.
+#### Chapter 8. The Single Perspective Instinct. Why governments should not be mistaken for nails, and why shoes and bricks sometimes tell you more than numbers. Who can we trust?
 
-The Single Perspective Instinct. Why governments should not be mistaken for nails, and why shoes and bricks sometimes tell you more than numbers. Who can we trust? Forming your worldview, by relying on the media, would be like forming your view about me by looking only at a picture of my foot.
+Forming your worldview, by relying on the media, would be like forming your view about me by looking only at a picture of my foot. Sure, my foot is part of me, but it’s a pretty ugly part. I have better parts. My arms are unremarkable, but quite fine.
 
-Sure, my foot is part of me, but it’s a pretty ugly part. I have better parts. My arms are unremarkable, but quite fine. My face is okay.
+My face is okay. It isn’t that the picture of my foot is deliberately lying about me, but it isn’t showing you the whole of me. Where, then, shall we get our information from, if not from the media? Who can we trust?
 
-It isn’t that the picture of my foot is deliberately lying about me, but it isn’t showing you the whole of me. Where, then, shall we get our information from, if not from the media? Who can we trust? How about experts?
+How about experts? People who devote their working lives to understanding their chosen slice of the world. Well, you have to be very careful here, too. The Single Perspective Instinct.
 
-People who devote their working lives to understanding their chosen slice of the world. Well, you have to be very careful here, too. The Single Perspective Instinct. We find simple ideas very attractive.
+We find simple ideas very attractive. We enjoy that moment of insight. We enjoy feeling we really understand or know something. And it is easy to take off down a slippery slope, from one attention-grabbing simple idea to a feeling that this idea beautifully explains or is the beautiful solution for lots of other things.
 
-We enjoy that moment of insight. We enjoy feeling we really understand or know something. And it is easy to take off down a slippery slope, from one attention-grabbing simple idea to a feeling that this idea beautifully explains or is the beautiful solution for lots of other things. The world becomes simple.
+The world becomes simple. All problems have a single cause, something we must always be completely against. Or all problems have a single solution, something we must always be for. Everything is simple.
 
-All problems have a single cause, something we must always be completely against. Or all problems have a single solution, something we must always be for. Everything is simple. There’s just one small issue.
-
-We completely misunderstand the world. I call this preference for single causes and single solutions, the Single Perspective Instinct.
+There’s just one small issue. We completely misunderstand the world. I call this preference for single causes and single solutions, the Single Perspective Instinct.
 
 For example, the simple and beautiful idea of the free market can lead to the simplistic idea that all problems have a single cause, government interference, which we must always oppose, and that the solution to all problems is to liberate market forces by reducing taxes and removing regulations, which we must always support. Alternatively, the simple and beautiful idea of equality can lead to the simplistic idea that all problems are caused by inequality, which we should always oppose, and that the solution to all problems is redistribution of resources, which we should always support.
 
@@ -2428,9 +2420,7 @@ When something goes wrong, don’t look for an individual or a group to blame, e
 
 Give the system some credit.
 
-#### Chapter 10 The Urgency Instinct How now or never can block our roads and our minds, roadblocks and mental blocks.
-
-If it’s not contagious, then why did you evacuate your children and wife?
+#### Chapter 10 The Urgency Instinct How now or never can block our roads and our minds, roadblocks and mental blocks. If it’s not contagious, then why did you evacuate your children and wife?
 
 
 <a id="sec-072454"></a>
@@ -2674,19 +2664,17 @@ Ask how often such predictions have been right before. Be wary of drastic action
 
 Step-by-step practical improvements and evaluation of their impact are less dramatic but usually more effective.
 
-#### Chapter 11.
+#### Chapter 11. Factfulness in Practice. How Factfulness Saved My Life. I think we should run.
 
-Factfulness in Practice. How Factfulness Saved My Life. I think we should run. Whispered the young teacher standing beside me.
+Whispered the young teacher standing beside me. Two thoughts raced across my mind. One was that if the teacher took off, I would have no way of communicating with the agitated crowd in front of me. I grabbed his arm and held on tightly.
 
-Two thoughts raced across my mind. One was that if the teacher took off, I would have no way of communicating with the agitated crowd in front of me. I grabbed his arm and held on tightly. The other thought was something that a wise governor of Tanzania had told me.
+The other thought was something that a wise governor of Tanzania had told me. When someone threatens you with a machete, never turn your back. Stand still. Look him straight in the eye and ask him what the problem is.
 
-When someone threatens you with a machete, never turn your back. Stand still. Look him straight in the eye and ask him what the problem is. It was 1989 and I was in a remote and extremely poor village named Makanga in the Bandundu region of what was then Zaire and is now the Democratic Republic of the Congo.
+It was 1989 and I was in a remote and extremely poor village named Makanga in the Bandundu region of what was then Zaire and is now the Democratic Republic of the Congo. I was part of a team investigating an epidemic of the incurable paralytic disease called Konzo that I had first discovered in Mozambique years earlier. The research project had been two years in the planning and everything, all the approvals, drivers, translators and lab equipment had been meticulously prepared. But I had made one serious mistake.
 
-I was part of a team investigating an epidemic of the incurable paralytic disease called Konzo that I had first discovered in Mozambique years earlier. The research project had been two years in the planning and everything, all the approvals, drivers, translators and lab equipment had been meticulously prepared. But I had made one serious mistake. I had not explained properly to the villagers what I wanted to do and why.
+I had not explained properly to the villagers what I wanted to do and why. I wanted to interview all the villagers and take samples of their food and their blood and urine and I should have been with the head of the village when he explained that to them. That morning, as I had been quietly and methodically setting up in the hut, I heard villagers starting to gather outside. They somehow seemed uneasy, but I was occupied with getting the blood sample machine. machine to work.
 
-I wanted to interview all the villagers and take samples of their food and their blood and urine and I should have been with the head of the village when he explained that to them. That morning, as I had been quietly and methodically setting up in the hut, I heard villagers starting to gather outside. They somehow seemed uneasy, but I was occupied with getting the blood sample machine. machine to work. Eventually I managed to start the diesel generator and do a test run with the centrifuge.
-
-The machines were noisy, and it was only when I switched them off that I heard the raised voices.
+Eventually I managed to start the diesel generator and do a test run with the centrifuge. The machines were noisy, and it was only when I switched them off that I heard the raised voices.
 
 
 <a id="sec-081516"></a>

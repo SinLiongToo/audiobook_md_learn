@@ -176,17 +176,15 @@ At TED 2006, motivational guru Tony Robbins said, effective leaders have the abi
 
 Here’s how.
 
-#### Part 1.
+#### Part 1. Emotional The key part of the TED format is that we have humans connecting to humans in a direct and almost vulnerable way. You’re on stage naked, so to speak. The talks that work best are the ones where people can really sense that humanity, the emotions, dreams, imagination.
 
-Emotional The key part of the TED format is that we have humans connecting to humans in a direct and almost vulnerable way. You’re on stage naked, so to speak. The talks that work best are the ones where people can really sense that humanity, the emotions, dreams, imagination. Chris Anderson, Curator, TED.
+Chris Anderson, Curator, TED.
 
-#### Chapter 1.
+#### Chapter 1. Unleash the Master Within Passion is the thing that will help you create the highest expression of your talent. Larry Smith, TEDx November 2011. Amy Mullins has 12 pairs of legs.
 
-Unleash the Master Within Passion is the thing that will help you create the highest expression of your talent. Larry Smith, TEDx November 2011. Amy Mullins has 12 pairs of legs. Like most people, she was born with two, but unlike most people, Mullins had to have both legs amputated below the knee due to a medical condition.
+Like most people, she was born with two, but unlike most people, Mullins had to have both legs amputated below the knee due to a medical condition. Mullins has lived with no lower legs since her first birthday. Mullins grew up in a middle-class family in the middle-class town of Allentown, Pennsylvania, yet her achievements are far from ordinary. Mullins' doctor suggested that an early amputation would give her the best chance to have a reasonable amount of mobility.
 
-Mullins has lived with no lower legs since her first birthday. Mullins grew up in a middle-class family in the middle-class town of Allentown, Pennsylvania, yet her achievements are far from ordinary. Mullins' doctor suggested that an early amputation would give her the best chance to have a reasonable amount of mobility. As a child, Mullins had no input into that decision, but as she grew up, she refused to see herself or to accept the label that most people gave her, disabled.
-
-Instead, she decided
+As a child, Mullins had no input into that decision, but as she grew up, she refused to see herself or to accept the label that most people gave her, disabled. Instead, she decided
 
 
 <a id="sec-002510"></a>
@@ -342,17 +340,17 @@ Cardin’s analysis helps us explain why the most popular TED speakers connect w
 
 Her experience defined her, and it defines her work. According to TED.com, Carter’s confidence, energy, and intensely emotional delivery make her talks a force of nature. For Majora Carter, raising the hopes of those who have lost hope is core to who she is. Entrepreneurship is core to Sir Richard Branson’s identity.
 
-In 2007, Branson told a TED audience, “… companies are all about finding the right people, inspiring those people, and drawing out the best in people. I just love learning, and I’m incredibly inquisitive, and I love taking on the status quo and trying to turn it upside down.” Building companies like Virgin Atlantic that challenge the status quo is core to who Richard Branson is. I spent a day with Richard Branson in April of 2013.
+In 2007, Branson told a TED audience, “… companies are all about finding the right people, inspiring those people, and drawing out the best in people. I just love learning, and I’m incredibly inquisitive, and I love taking on the status quo and trying to turn it upside down.” Building companies like Virgin Atlantic that challenge the status quo is core to who Richard Branson is. I spent a day with Richard Branson in April of 2013. I had been invited to accompany him on the inaugural flight of Virgin America’s new route from Los Angeles to Las Vegas.
 
-I had been invited to accompany him on the inaugural flight of Virgin America’s new route from Los Angeles to Las Vegas. On the ground and in the air, Branson was all smiles, as he enthusiastically talked about customer service and how it makes the difference in the success of his brand. Branson and Carter are engaged in activities that are intensely associated with their role identities in a profoundly meaningful way. And it’s that passion that plays a critical role in their career success and their success as communicators.
+On the ground and in the air, Branson was all smiles, as he enthusiastically talked about customer service and how it makes the difference in the success of his brand. Branson and Carter are engaged in activities that are intensely associated with their role identities in a profoundly meaningful way. And it’s that passion that plays a critical role in their career success and their success as communicators. According to Carter, people who are genuinely passionate about their topic make better speakers.
 
-According to Carter, people who are genuinely passionate about their topic make better speakers. They inspire their audiences in ways that non-passionate low-energy people fail to do. When you’re passionate about something, you can’t help yourself from thinking about it, acting on it, and talking about it with other people. Carter says that investors, customers, and other stakeholders are smart consumers.
+They inspire their audiences in ways that non-passionate low-energy people fail to do. When you’re passionate about something, you can’t help yourself from thinking about it, acting on it, and talking about it with other people. Carter says that investors, customers, and other stakeholders are smart consumers. They know when a person is displaying genuine passion and when a person is just faking it.
 
-They know when a person is displaying genuine passion and when a person is just faking it. It’s very difficult, nearly impossible, to electrify an audience without feeling an intense, meaningful connection to the topic of your presentation. Passion Why It Works The next step for Cardin was to identify why passion matters. She found that passion leads to important behaviors and outcomes.
+It’s very difficult, nearly impossible, to electrify an audience without feeling an intense, meaningful connection to the topic of your presentation. Passion Why It Works The next step for Cardin was to identify why passion matters. She found that passion leads to important behaviors and outcomes. Cardin, along with dozens of other scientists in the field, has discovered that passionate business leaders are more creative.
 
-Cardin, along with dozens of other scientists in the field, has discovered that passionate business leaders are more creative. They set higher goals, exhibit greater persistence, and record better company performance. Cardin and her colleagues also found a direct correlation between a presenter’s perceived passion and the likelihood that investors will fund his or her ideas. The researchers performed a remarkable experiment and published their results in the September 2012 issue of the Journal of Business Venturing.
+They set higher goals, exhibit greater persistence, and record better company performance. Cardin and her colleagues also found a direct correlation between a presenter’s perceived passion and the likelihood that investors will fund his or her ideas. The researchers performed a remarkable experiment and published their results in the September 2012 issue of the Journal of Business Venturing. They set out to understand the role that passion plays in investor decision making.
 
-They set out to understand the role that passion plays in investor decision making. The business pitch is one of the most critical presentations in business. Without funding, most ventures would never get off the ground. Companies like Google and Apple would never have changed our lives if it had not been for charismatic, passionate leaders who grabbed the attention of investors.
+The business pitch is one of the most critical presentations in business. Without funding, most ventures would never get off the ground. Companies like Google and Apple would never have changed our lives if it had not been for charismatic, passionate leaders who grabbed the attention of investors.
 
 
 <a id="sec-005525"></a>
@@ -878,17 +876,15 @@ Secret number two, master the art of storytelling. Great speakers are indeed Mav
 
 Stories illustrate, illuminate, and inspire.
 
-#### Chapter 3 Have a Conversation Don’t fake it till you make it.
+#### Chapter 3 Have a Conversation Don’t fake it till you make it. Fake it till you become it. Amy Cuddy, Professor, Harvard Business School. It takes practice to appear natural.
 
-Fake it till you become it. Amy Cuddy, Professor, Harvard Business School. It takes practice to appear natural. Just ask Amanda Palmer, who stole the show at TED 2013.
+Just ask Amanda Palmer, who stole the show at TED 2013. Palmer’s presentation, The Art of Asking, received more than one million views within days of being posted on TED.com. The week after her presentation, Palmer wrote a lengthy post on her blog thanking the many people who had helped her to craft, rehearse, and deliver the talk of her life. It really did take a village to build a TED talk.
 
-Palmer’s presentation, The Art of Asking, received more than one million views within days of being posted on TED.com. The week after her presentation, Palmer wrote a lengthy post on her blog thanking the many people who had helped her to craft, rehearse, and deliver the talk of her life. It really did take a village to build a TED talk. The post also confirms that giving a presentation that truly moves people takes hard work.
+The post also confirms that giving a presentation that truly moves people takes hard work. Secret number three, have a conversation. Practice relentlessly and internalize your content so that you can deliver the presentation as comfortably as having a conversation with a close friend. Why it works True persuasion occurs only after you’ve built an emotional rapport with your listeners and you’ve gained their trust.
 
-Secret number three, have a conversation. Practice relentlessly and internalize your content so that you can deliver the presentation as comfortably as having a conversation with a close friend. Why it works True persuasion occurs only after you’ve built an emotional rapport with your listeners and you’ve gained their trust. If your voice, gestures, and body language are incongruent with your words, your listeners will distrust your message.
+If your voice, gestures, and body language are incongruent with your words, your listeners will distrust your message. It’s the equivalent of having a Ferrari, your magnificent story, without knowing how to drive it. The Art of Asking and Practicing Amanda Palmer delivered the most talked about presentation at TED 2013. Palmer is the first to admit that her punk rock, indie, cabaret music isn’t for everybody, but regardless of whether… you’d like her music, we can all learn something from her approach to public speaking.
 
-It’s the equivalent of having a Ferrari, your magnificent story, without knowing how to drive it. The Art of Asking and Practicing Amanda Palmer delivered the most talked about presentation at TED 2013. Palmer is the first to admit that her punk rock, indie, cabaret music isn’t for everybody, but regardless of whether… you’d like her music, we can all learn something from her approach to public speaking. Palmer is a performance artist and a musician.
-
-You would think she’d be comfortable giving a short presentation. The fact that she is a performer explains why she spent countless hours over a period of four months to get it just right.
+Palmer is a performance artist and a musician. You would think she’d be comfortable giving a short presentation. The fact that she is a performer explains why she spent countless hours over a period of four months to get it just right.
 
 She said, “I slaved over the talk, writing and writing and rewriting and timing and retiming and tweaking and trying to fit the perfect sets of information into 12 short minutes.” In Palmer’s 30-page blog post on the making of her TED presentation, she thanked 105 people for their input and credits them for her success. In fact, Palmer’s first mentor was science musician Thomas Dolby, who helps TED with their music programming. Be totally authentic, he suggested. Authenticity doesn’t happen naturally.
 

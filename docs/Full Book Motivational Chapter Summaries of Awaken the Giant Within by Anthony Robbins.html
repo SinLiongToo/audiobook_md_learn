@@ -66,26 +66,12 @@
       --card-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
     }
 
-    [data-line-height="compact"] {
-      --line-height: 1.68;
-    }
-    [data-line-height="normal"] {
-      --line-height: 1.88;
-    }
-    [data-line-height="loose"] {
-      --line-height: 2.12;
-    }
+    [data-line-height="compact"] { --line-height: 1.68; }
+    [data-line-height="normal"] { --line-height: 1.88; }
+    [data-line-height="loose"] { --line-height: 2.12; }
 
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
-    html {
-      scroll-behavior: smooth;
-    }
-
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
     body {
       font-family: var(--font-family);
       font-size: var(--font-size);
@@ -119,7 +105,7 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 0 20px;
+      padding: 0 18px;
       background-color: var(--bg-header);
       backdrop-filter: blur(8px);
       -webkit-backdrop-filter: blur(8px);
@@ -129,7 +115,7 @@
     .header-left, .header-right {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 8px;
       flex-wrap: nowrap;
     }
 
@@ -138,7 +124,7 @@
       border: 1px solid var(--border-color);
       color: var(--text-primary);
       cursor: pointer;
-      font-size: 14px;
+      font-size: 13.5px;
       padding: 6px 10px;
       border-radius: 8px;
       display: inline-flex;
@@ -147,6 +133,7 @@
       transition: all 0.2s;
       white-space: nowrap;
       user-select: none;
+      text-decoration: none;
     }
     .btn-icon:hover {
       background-color: var(--accent-light);
@@ -161,11 +148,132 @@
       font-size: 14px;
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
+    }
+    .home-link:hover { color: var(--accent-color); }
+
+    /* In-Page Search Bar Dropdown */
+    .inpage-search-bar {
+      position: sticky;
+      top: 60px;
+      z-index: 890;
+      background-color: var(--bg-surface);
+      border-bottom: 1px solid var(--border-color);
+      padding: 10px 18px;
+      display: none;
+      align-items: center;
+      gap: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    }
+    .inpage-search-bar.active { display: flex; }
+
+    .inpage-search-input-wrapper {
+      flex: 1;
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    .inpage-search-input {
+      width: 100%;
+      padding: 8px 36px 8px 12px;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      font-size: 14px;
+    }
+    .inpage-search-input:focus { outline: 2px solid var(--accent-color); }
+
+    .inpage-search-clear {
+      position: absolute;
+      right: 10px;
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 16px;
     }
 
-    .home-link:hover {
+    .inpage-search-count {
+      font-size: 13px;
+      color: var(--text-secondary);
+      font-family: monospace;
+      white-space: nowrap;
+    }
+    .search-nav-btns { display: flex; gap: 6px; }
+
+    /* In-Page Search Results Drawer */
+    .inpage-search-drawer {
+      position: fixed;
+      right: 20px;
+      top: 120px;
+      width: 360px;
+      max-height: calc(100vh - 160px);
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+      z-index: 895;
+      display: none;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .inpage-search-drawer.active { display: flex; }
+    .inpage-search-drawer-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-weight: 600;
+      font-size: 14px;
+    }
+    .inpage-search-drawer-list {
+      overflow-y: auto;
+      padding: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .search-result-item {
+      padding: 10px 12px;
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+      background: var(--bg-primary);
+      cursor: pointer;
+      font-size: 13px;
+      transition: all 0.15s;
+    }
+    .search-result-item:hover, .search-result-item.active {
+      border-color: var(--accent-color);
+      background: var(--accent-light);
+    }
+    .search-result-time {
+      font-weight: 700;
       color: var(--accent-color);
+      font-family: monospace;
+      margin-bottom: 4px;
+    }
+    .search-result-snippet {
+      color: var(--text-primary);
+      line-height: 1.5;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    /* Highlight mark */
+    mark.search-highlight {
+      background-color: #fef08a;
+      color: #1f2937;
+      padding: 1px 3px;
+      border-radius: 3px;
+    }
+    mark.search-highlight.active-match {
+      background-color: #f97316;
+      color: #ffffff;
+      outline: 2px solid #ea580c;
     }
 
     /* Layout Wrapper */
@@ -212,9 +320,7 @@
       font-size: 13px;
       margin-bottom: 14px;
     }
-    .toc-search:focus {
-      outline: 2px solid var(--accent-color);
-    }
+    .toc-search:focus { outline: 2px solid var(--accent-color); }
 
     .toc-list {
       list-style: none;
@@ -237,12 +343,10 @@
       overflow: hidden;
       text-overflow: ellipsis;
     }
-
     .toc-item a:hover {
       background-color: var(--accent-light);
       color: var(--accent-color);
     }
-
     .toc-item.active a {
       background-color: var(--accent-color);
       color: #ffffff;
@@ -257,19 +361,17 @@
       display: flex;
       justify-content: center;
     }
-
     .reader-container {
       width: 100%;
       max-width: var(--content-max-width);
     }
 
-    /* Book Hero / Header */
+    /* Book Hero */
     .book-hero {
       margin-bottom: 40px;
       padding-bottom: 24px;
       border-bottom: 2px solid var(--border-color);
     }
-
     .book-hero h1 {
       font-size: 2.1em;
       line-height: 1.35;
@@ -285,7 +387,6 @@
       gap: 10px;
       margin-top: 14px;
     }
-
     .meta-chip {
       display: inline-flex;
       align-items: center;
@@ -297,8 +398,13 @@
       font-size: 13px;
       font-weight: 500;
     }
+    .meta-chip.cat-badge {
+      background-color: #f9731622;
+      color: #f97316;
+      font-weight: 600;
+    }
 
-    /* Content Typography & Enhanced Paragraphs */
+    /* Content Typography */
     .transcript-section {
       margin-bottom: 50px;
       scroll-margin-top: 80px;
@@ -349,25 +455,22 @@
       letter-spacing: 0.015em;
     }
 
-    /* Indented paragraph style (Traditional) */
+    /* Indented paragraph style */
     [data-p-style="indent"] .section-body p {
       text-indent: 2em;
       margin-bottom: 1.15em;
       line-height: var(--line-height);
     }
 
-    /* Block paragraph style (Modern with whitespace) */
+    /* Block paragraph style */
     [data-p-style="block"] .section-body p {
       text-indent: 0;
       margin-bottom: 1.55em;
       line-height: var(--line-height);
     }
+    .section-body p:last-child { margin-bottom: 0; }
 
-    .section-body p:last-child {
-      margin-bottom: 0;
-    }
-
-    /* Floating Navigation Controls */
+    /* Floating Tools */
     .floating-tools {
       position: fixed;
       bottom: 24px;
@@ -377,7 +480,6 @@
       gap: 10px;
       z-index: 800;
     }
-
     .float-btn {
       width: 44px;
       height: 44px;
@@ -399,7 +501,6 @@
       color: var(--accent-color);
     }
 
-    /* Overlay for mobile drawer */
     .backdrop {
       display: none;
       position: fixed;
@@ -419,36 +520,22 @@
         transform: translateX(-100%);
         box-shadow: 4px 0 16px rgba(0,0,0,0.15);
       }
-
-      .sidebar.open {
-        transform: translateX(0);
-      }
-
-      .backdrop.open {
-        display: block;
+      .sidebar.open { transform: translateX(0); }
+      .backdrop.open { display: block; }
+      .inpage-search-drawer {
+        left: 20px;
+        right: 20px;
+        width: auto;
       }
     }
 
     @media (max-width: 640px) {
-      :root {
-        --font-size: 17px;
-      }
-      .main-content {
-        padding: 24px 16px 60px 16px;
-      }
-      .book-hero h1 {
-        font-size: 1.55em;
-      }
-      .top-header {
-        padding: 0 10px;
-      }
-      .btn-icon {
-        padding: 5px 8px;
-        font-size: 13px;
-      }
-      [data-p-style="indent"] .section-body p {
-        text-indent: 1.5em;
-      }
+      :root { --font-size: 17px; }
+      .main-content { padding: 24px 16px 60px 16px; }
+      .book-hero h1 { font-size: 1.55em; }
+      .top-header { padding: 0 10px; }
+      .btn-icon { padding: 5px 7px; font-size: 12.5px; }
+      [data-p-style="indent"] .section-body p { text-indent: 1.5em; }
     }
   </style>
 </head>
@@ -464,6 +551,14 @@
       <a href="index.html" class="home-link" title="返回書架">
         🏠 書架
       </a>
+      <!-- Search Inside Book Button -->
+      <button class="btn-icon" id="search-toggle-btn" title="搜尋本書內文 (Ctrl+F)">
+        🔍 <span>搜尋內文</span>
+      </button>
+      <!-- Global Search Link -->
+      <a href="index.html?tab=search" class="btn-icon" title="前往全書庫全文檢索">
+        🌐 <span>全庫搜尋</span>
+      </a>
     </div>
 
     <div class="header-right">
@@ -473,7 +568,7 @@
       </button>
 
       <!-- Line Height Toggle -->
-      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 精簡)">
+      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 緊湊)">
         ↕ <span id="line-height-label">行距</span>
       </button>
 
@@ -492,6 +587,29 @@
       <button class="btn-icon" id="font-inc-btn" title="放大字級">A+</button>
     </div>
   </header>
+
+  <!-- In-Page Search Bar Dropdown -->
+  <div class="inpage-search-bar" id="inpage-search-bar">
+    <div class="inpage-search-input-wrapper">
+      <input type="text" id="inpage-search-input" class="inpage-search-input" placeholder="🔍 搜尋本書內文關鍵字 (按 Enter 尋找下一處，Esc 關閉)...">
+      <button class="inpage-search-clear" id="inpage-search-clear" title="清空">✕</button>
+    </div>
+    <span class="inpage-search-count" id="inpage-search-count">0 / 0</span>
+    <div class="search-nav-btns">
+      <button class="btn-icon" id="inpage-search-prev" title="上一處 (Shift+Enter)">▲</button>
+      <button class="btn-icon" id="inpage-search-next" title="下一處 (Enter)">▼</button>
+      <button class="btn-icon" id="inpage-search-close" title="關閉搜尋 (Esc)">✕</button>
+    </div>
+  </div>
+
+  <!-- In-Page Search Results Drawer -->
+  <div class="inpage-search-drawer" id="inpage-search-drawer">
+    <div class="inpage-search-drawer-header">
+      <span>搜尋結果清單</span>
+      <button class="btn-icon" id="inpage-drawer-close" style="padding: 2px 6px;">✕</button>
+    </div>
+    <div class="inpage-search-drawer-list" id="inpage-search-drawer-list"></div>
+  </div>
 
   <div class="backdrop" id="backdrop"></div>
 
@@ -564,6 +682,7 @@
         <header class="book-hero">
           <h1>Full Book Motivational Chapter Summaries of Awaken the Giant Within by Anthony Robbins</h1>
           <div class="book-meta-chips">
+            <span class="meta-chip cat-badge">🔥 意志與心態</span>
             <span class="meta-chip">🏷️ 時長：04:16:18</span>
 <span class="meta-chip">🏷️ 模型：small.en</span>
 <span class="meta-chip">🏷️ 日期：2026-09-22</span>
@@ -571,7 +690,7 @@
         </header>
 
         <!-- Transcript Content -->
-        <div class="book-body">
+        <div class="book-body" id="book-body">
           
         <section class="transcript-section" id="sec-000000">
           <div class="section-header">
@@ -579,12 +698,11 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <h4 class="section-subhead">Chapter 1, Dreams of Destiny We all have dreams, we all want to believe deep down in our soul that we have a gift, that can make a difference, that we can touch others in a special way, and that we can make the world a better place.</h4>
-<p class="prose-p">Yet, for many of us, those dreams have become so shrouded in the frustrations and routines of daily life that we no longer even make an effort to accomplish them. For far too many, the dream has dissipated, and with it, so has the will to shape our destinies. Most people have no idea of the giant capacity we can immediately command when we focus all of our resources on mastering a single area of our lives. When we focus consistently on improvement in any area, we develop unique distinctions on how to make that area better.</p>
-<p class="prose-p">Most people fail in life simply because they major in minor things. Most people dabble their way through life, never deciding to master anything in particular. One of life’s major lessons is learning to understand what makes us do what we do. We’re all here to contribute something unique, deep within each of us lies a special gift.</p>
-<p class="prose-p">Each of us has a talent, a gift, our own bit of genius just waiting to be tapped. It might be a talent for art or music. It might be a genius for selling or innovating or reaching out in your business or your career. The resources we need to turn our dreams into reality are within us, merely waiting for the day when we decide to wake up and claim our birthright.</p>
-<p class="prose-p">There are ideas and strategies in this book to help you produce specific, measurable, long-lasting changes in yourself and others. For changes to be of any true value, they’ve got to be lasting and consistent. We’ve all experienced change for a moment, only to feel let down and disappointed in the end.</p>
-<p class="prose-p">In fact, many people attempt change with a sense of fear and dread because unconsciously they believe the changes will only be temporary. I’d like to share with you three elementary principles of change that you and I can use immediately to change our lives. These are the exact same changes that an individual must make in order to create personal change, that a company must make in order to maximize its potential, and that a country must make in order to carve out its place in the world.</p>
+            <p class="prose-p">#### Chapter 1, Dreams of Destiny We all have dreams, we all want to believe deep down in our soul that we have a gift, that can make a difference, that we can touch others in a special way, and that we can make the world a better place. Yet, for many of us, those dreams have become so shrouded in the frustrations and routines of daily life that we no longer even make an effort to accomplish them. For far too many, the dream has dissipated, and with it, so has the will to shape our destinies.</p>
+<p class="prose-p">Most people have no idea of the giant capacity we can immediately command when we focus all of our resources on mastering a single area of our lives. When we focus consistently on improvement in any area, we develop unique distinctions on how to make that area better. Most people fail in life simply because they major in minor things. Most people dabble their way through life, never deciding to master anything in particular.</p>
+<p class="prose-p">One of life’s major lessons is learning to understand what makes us do what we do. We’re all here to contribute something unique, deep within each of us lies a special gift. Each of us has a talent, a gift, our own bit of genius just waiting to be tapped. It might be a talent for art or music.</p>
+<p class="prose-p">It might be a genius for selling or innovating or reaching out in your business or your career. The resources we need to turn our dreams into reality are within us, merely waiting for the day when we decide to wake up and claim our birthright. There are ideas and strategies in this book to help you produce specific, measurable, long-lasting changes in yourself and others. For changes to be of any true value, they’ve got to be lasting and consistent.</p>
+<p class="prose-p">We’ve all experienced change for a moment, only to feel let down and disappointed in the end. In fact, many people attempt change with a sense of fear and dread because unconsciously they believe the changes will only be temporary. I’d like to share with you three elementary principles of change that you and I can use immediately to change our lives. These are the exact same changes that an individual must make in order to create personal change, that a company must make in order to maximize its potential, and that a country must make in order to carve out its place in the world.</p>
 <p class="prose-p">Step 1, Raise Your Standards Any time you sincerely want to make a change, the first thing you must do is to raise your standards. Think of the far-reaching consequences set in motion by men and women who raised their standards and acted in accordance with them, deciding they would tolerate no less. The same power that was available to them is available to you, if you have the courage to claim it. Changing an organization, a company, a country, or a world, begins with the simple step of changing yourself.</p>
 <p class="prose-p">Step 2, Change Your Limiting Beliefs Our beliefs are like unquestioned commands, telling us how things are, what’s possible and what’s impossible, what we can and cannot do. They shape every action, every thought, and every feeling that we experience. As a result, changing our belief systems is central to making any real and lasting change in our lives. Without taking control of your belief systems, you can raise your standards as much as you like, but you’ll never have the conviction to back them up.</p>
 <p class="prose-p">Step 3, Change Your Strategy In order to keep your commitment, you need the best strategies for achieving results. The best strategy in almost any case is to find a role model, someone who’s already getting the results you want, and then tap into their knowledge. Learn what they’re doing, what their core beliefs are, and how they think. Not only will this make you more effective, it will also save you a huge amount of time because you won’t have to reinvent the wheel.</p>
@@ -603,8 +721,9 @@
           <div class="section-body">
             <p class="prose-p">control of your physical health so that you not only look good, but you feel good and know that you’re in control of your life, in a body that radiates vitality and allows you to accomplish your outcomes. 3. Relationship Mastery The third master lesson in this book will reveal the secrets to enable you to create quality relationships, first with yourself, then with others. 4. Financial Mastery To forge a financial destiny of abundance, you will first learn how to change what causes scarcity in your life, and then how to experience on a consistent basis the values, beliefs, and emotions that are essential to experiencing wealth and holding on to it and expanding it. 5.</p>
 <p class="prose-p">Time Mastery The fifth master lesson in this book will teach you, first, how short-term evaluations can lead to long-term pain. You will learn how to make a real decision and how to manage your desire for instantaneous gratification, thus allowing your ideas, your creations, even your own potential, the time to reach full fruition. Next, you’ll learn how to design the necessary maps and strategies for following up on your decision, making it a reality with the willingness to take massive action, the patience to experience lag time, and the flexibility to change your approach as often as needed.</p>
-<p class="prose-p">I wrote this book to be an action guide, a textbook for increasing the quality of your life and the amount of enjoyment that you can pull from it. This book is designed to offer you the strategies that can help you to create, enjoy, and live a life you currently may only be dreaming of. Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more. So let’s begin our journey by exploring.</p>
-<h4 class="section-subhead">Chapter 2, Decisions, The Pathway to Power As we discussed in Chapter 1, you have to set standards for what you consider to be acceptable behavior for yourself and decide what you should expect from those you care about.</h4>
+<p class="prose-p">I wrote this book to be an action guide, a textbook for increasing the quality of your life and the amount of enjoyment that you can pull from it. This book is designed to offer you the strategies that can help you to create, enjoy, and live a life you currently may only be dreaming of. Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more. So let’s begin our journey by exploring.
+
+#### Chapter 2, Decisions, The Pathway to Power As we discussed in Chapter 1, you have to set standards for what you consider to be acceptable behavior for yourself and decide what you should expect from those you care about.</p>
 <p class="prose-p">If you don’t set a baseline standard for what you’ll accept in your life, you’ll find it’s easy to slip into behaviors and attitudes or a quality of life that’s far below what you deserve. You need to set and live by these standards no matter what happens in your life. But unfortunately, most people never do this because they’re too busy making excuses. Using the power of decision gives you the capacity to get past any excuse to change any and every pan of your life in an instant.</p>
 <p class="prose-p">If you truly decide to, you can do almost anything. I’ve written this book to challenge you to awaken the giant power of decision and to claim the birthright of unlimited power, radiant vitality, and joyous passion that is yours. The most exciting thing about this force, this power, is that you already possess it. In the very next moment, you can use this mighty force that lies waiting within you if you merely muster the courage to claim it.</p>
 <p class="prose-p">Many people say, well, I’d love to make a decision like that, but I’m not sure how I could change my life. They’re paralyzed by the fear that they don’t know exactly how to turn their dreams into reality. And as a result, they never make the decisions that could make their lives into the master pieces they deserve to be. I’m here to tell you that it’s not important initially to know how you’re going to create a result.</p>
@@ -672,18 +791,18 @@
           <div class="section-body">
             <p class="prose-p">take that you’ve been putting off. Second, under each of these actions, write down the answer to the following questions. Why haven’t I taken action? In the past, what pain have I linked to taking this action?</p>
 <p class="prose-p">Third, write down all the pleasure you’ve had in the past by indulging in this negative pattern. Fourth, write down what it will cost you if you don’t change now. The final step is to write down all the pleasure you’ll receive by taking each of these actions right now. This chapter has shown you again and again, that what we link pain to and pleasure to shapes every aspect of our lives and that we have the power to change these associations and, therefore, our actions and our destinies.</p>
-<p class="prose-p">But in order to do this, we must understand.</p>
-<h4 class="section-subhead">Chapter 4, Belief Systems, The Power to Create and the Power to Destroy So often we’re seduced into believing that events control our lives.</h4>
-<p class="prose-p">No greater lie was ever told. It’s not the events of our lives that shape us, but our beliefs as to what those events mean. You see, it’s never the events of our lives, but the meaning we attach to the events, how we interpret them, that shapes who we are today and who will become tomorrow. Beliefs are what make the difference between a lifetime of joyous contribution and one of misery and devastation.</p>
-<p class="prose-p">Beliefs are what cause some individuals to become heroes, while others lead lives of quiet desperation. They’re the guiding force to tell us what will lead to pain and what will lead to pleasure. Whenever something happens in your life, your brain asks two questions. One, will this mean pain, or pleasure?</p>
-<p class="prose-p">Two, what must I do now to avoid pain and or gain pleasure? The answers to these two questions are based on our beliefs, and our beliefs are driven by our generalizations about what we’ve learned could lead to pain and pleasure. We need to remember that most of our beliefs are generalizations about our past, based on our interpretations of painful and pleasurable experiences. If you ever wonder why people do what they do, you need to remember that human beings are not random creatures, all of our actions are the result of our beliefs.</p>
-<p class="prose-p">Beliefs have the power to create and the power to destroy. Human beings have the awesome ability to take any experience of their lives and create a meaning that disempowers them or one that can literally save their lives. We all have the capacity to create meanings that empower us, but so many of us never tap into it, or even recognize it. If we don’t adopt the faith that there is a reason for the unexplainable tragedies of life, then we begin to destroy our capacity to truly live.</p>
-<p class="prose-p">Beliefs are not limited to impacting our emotions or actions. They can literally change our bodies in a matter of moments. We need to realize that our beliefs have the capacity to make us sick or make us healthy in a moment. Beliefs have been documented to affect our immune systems. And most importantly, beliefs can either give us the resolve to take action or weaken and destroy our drive.</p>
-<p class="prose-p">Other beliefs are so generalized that they dominate virtually every aspect of our lives, either negatively or positively. I call these global beliefs. Global beliefs are the giant beliefs we have about everything in our lives, beliefs about our identities, people, work, time, money, and life itself for that matter. As you can imagine, beliefs of this size and scope can shape and color every aspect of our lives.</p>
-<p class="prose-p">The good news about this is that making one change and a limiting global belief you currently hold can change virtually every aspect of your life in a moment. Remember, once accepted, our beliefs become unquestioned commands to our nervous systems, and they have the power to expand or destroy the possibilities of our present and future. If we want to direct our lives, then, we must take conscious control over our beliefs. And in order to do that, we first need to understand what they really are and how they are formed.</p>
-<p class="prose-p">Often in life we talk about things without having a clear idea of what they really are. Most people treat a belief as if it’s a thing, when really all it is, is a feeling of certainty about something. A simple way of understanding a belief is to think about its basic building block, an idea. There are a lot of ideas you may think about but not really believe.</p>
-<p class="prose-p">How do we turn an idea into a belief? Let me offer you a simple metaphor to describe the process. If you can think of an idea as being like a tabletop with no legs, you’ll have a fair representation of why an idea doesn’t feel as certain as a belief. Without any legs, that tabletop won’t even stand up by itself.</p>
-<p class="prose-p">Belief, on the other hand, has legs.</p>
+<p class="prose-p">But in order to do this, we must understand.
+
+#### Chapter 4, Belief Systems, The Power to Create and the Power to Destroy So often we’re seduced into believing that events control our lives. No greater lie was ever told. It’s not the events of our lives that shape us, but our beliefs as to what those events mean. You see, it’s never the events of our lives, but the meaning we attach to the events, how we interpret them, that shapes who we are today and who will become tomorrow.</p>
+<p class="prose-p">Beliefs are what make the difference between a lifetime of joyous contribution and one of misery and devastation. Beliefs are what cause some individuals to become heroes, while others lead lives of quiet desperation. They’re the guiding force to tell us what will lead to pain and what will lead to pleasure. Whenever something happens in your life, your brain asks two questions.</p>
+<p class="prose-p">One, will this mean pain, or pleasure? Two, what must I do now to avoid pain and or gain pleasure? The answers to these two questions are based on our beliefs, and our beliefs are driven by our generalizations about what we’ve learned could lead to pain and pleasure. We need to remember that most of our beliefs are generalizations about our past, based on our interpretations of painful and pleasurable experiences.</p>
+<p class="prose-p">If you ever wonder why people do what they do, you need to remember that human beings are not random creatures, all of our actions are the result of our beliefs. Beliefs have the power to create and the power to destroy. Human beings have the awesome ability to take any experience of their lives and create a meaning that disempowers them or one that can literally save their lives. We all have the capacity to create meanings that empower us, but so many of us never tap into it, or even recognize it.</p>
+<p class="prose-p">If we don’t adopt the faith that there is a reason for the unexplainable tragedies of life, then we begin to destroy our capacity to truly live. Beliefs are not limited to impacting our emotions or actions. They can literally change our bodies in a matter of moments. We need to realize that our beliefs have the capacity to make us sick or make us healthy in a moment.</p>
+<p class="prose-p">Beliefs have been documented to affect our immune systems. And most importantly, beliefs can either give us the resolve to take action or weaken and destroy our drive. Other beliefs are so generalized that they dominate virtually every aspect of our lives, either negatively or positively. I call these global beliefs. Global beliefs are the giant beliefs we have about everything in our lives, beliefs about our identities, people, work, time, money, and life itself for that matter.</p>
+<p class="prose-p">As you can imagine, beliefs of this size and scope can shape and color every aspect of our lives. The good news about this is that making one change and a limiting global belief you currently hold can change virtually every aspect of your life in a moment. Remember, once accepted, our beliefs become unquestioned commands to our nervous systems, and they have the power to expand or destroy the possibilities of our present and future. If we want to direct our lives, then, we must take conscious control over our beliefs.</p>
+<p class="prose-p">And in order to do that, we first need to understand what they really are and how they are formed. Often in life we talk about things without having a clear idea of what they really are. Most people treat a belief as if it’s a thing, when really all it is, is a feeling of certainty about something. A simple way of understanding a belief is to think about its basic building block, an idea.</p>
+<p class="prose-p">There are a lot of ideas you may think about but not really believe. How do we turn an idea into a belief? Let me offer you a simple metaphor to describe the process. If you can think of an idea as being like a tabletop with no legs, you’ll have a fair representation of why an idea doesn’t feel as certain as a belief.</p>
+<p class="prose-p">Without any legs, that tabletop won’t even stand up by itself. Belief, on the other hand, has legs.</p>
           </div>
         </section>
         
@@ -718,8 +837,9 @@
             <p class="prose-p">greater. You may believe something is true today, but you and I need to remember that as the years go by and we grow, we’ll be exposed to new experiences. And we may develop even more empowering beliefs, abandoning things we once felt certain about. Notice that your beliefs may change as you gather additional references.</p>
 <p class="prose-p">What really matters now is whether the beliefs you have today empower or disempower you. Begin today to develop the habit of focusing on the consequences of all your beliefs. Are they strengthening your foundation by moving you to action in the direction you desire, or are they holding you back? While you’re examining these limiting beliefs, notice how your feelings change.</p>
 <p class="prose-p">Realize, believe, and trust that if you change the meaning of any event in your mind, you will immediately change how you feel and what you do, which will lead you to change your actions and thus transform your destiny. Changing what something means will change the decisions you make. Remember, nothing in life has any meaning except the meaning you give it. So make sure that you consciously choose the meanings that are most in alignment with the destiny you’ve chosen for yourself.</p>
-<p class="prose-p">Let’s review what we’ve learned so far. We’re clear that there’s a power inside us that needs to be awakened. That power starts with the capability to make conscious decisions that shape our destiny. But there is one core belief that we must explore and resolve, and this belief can be found in your answer to the question.</p>
-<h4 class="section-subhead">Chapter 5, Can Change Happen in an Instant?</h4>
+<p class="prose-p">Let’s review what we’ve learned so far. We’re clear that there’s a power inside us that needs to be awakened. That power starts with the capability to make conscious decisions that shape our destiny. But there is one core belief that we must explore and resolve, and this belief can be found in your answer to the question.
+
+#### Chapter 5, Can Change Happen in an Instant?</p>
 <p class="prose-p">Why is it that most people think change takes so long? One reason, obviously, is that most people have tried again and again through willpower to make changes and failed. The assumption that they then make is that important changes must take a long time and be very difficult to make. In reality, it’s only difficult because most of us don’t know how to change.</p>
 <p class="prose-p">The second reason we don’t change quickly is that in our culture, we have a set of beliefs that prevents us from being able to utilize our own inherent abilities. Culturally, we link negative associations to the idea of instant change. For most, instant change means you never really had a problem at all. If you can change that easily, why didn’t you change a week ago, a month ago, a year ago, and stop complaining?</p>
 <p class="prose-p">We need to remember that pain and pleasure shape all our behaviors, and that pain and pleasure can change our behaviors. Once we affect a change, we should reinforce it immediately. Then, we have to condition our nervous systems to succeed not just once, but consistently. Remember, it’s the feelings that we’ve been conditioned to associate in our nervous systems, our neuroassociations, that determine our emotions and our behavior.</p>
@@ -785,16 +905,16 @@
             <p class="prose-p">you lose momentum and the power to take the decisive actions that could give you what you want. When you give your brain mixed messages, you’re going to get mixed results. What happens when you get to a point where you feel that you’re going to have pain no matter what you do. I call this the pain-pain barrier.</p>
 <p class="prose-p">Often, when this occurs, we become immobilized, we don’t know what to do. Usually, we choose what we believe will be the least painful alternative. Some people, however, allow this pain to overwhelm them completely and they experience learned helplessness. Using the six steps of NAC will help you to interrupt these disempowering patterns.</p>
 <p class="prose-p">You will create alternative pathways so that you’re not just wishing away an undesired behavior, or overriding it in the short term, but are actually rewiring yourself to feel and behave consistent with your new, empowering choices. Without changing what you link pain and pleasure to in your nervous system, no change will last. After you read and understand the following six steps, I challenge you to choose something that you want to change in your life right now. Take action and follow through with each of the steps you’re about to learn so that you not only read the chapter, but you produce changes as the result of reading it.</p>
-<p class="prose-p">Let’s begin to learn.</p>
-<h4 class="section-subhead">Chapter 6, How to Change Anything in Your Life, The Science of Neuroassociative Conditioning All of us, through the experience of life, have learned certain patterns of thinking and behaving to get ourselves out of pain and into pleasure.</h4>
-<p class="prose-p">We all experience emotions like boredom, frustration, anger or feeling overwhelmed, and we develop strategies for ending these feelings. Some people use shopping, some use food, some use sex, some use drugs, some use alcohol, some use yelling at their kids. They know consciously or unconsciously, that this neural pathway will relieve their pain and take them to some level of pleasure in the moment. Whatever the strategy, if you and I are going to change it, we have to go through six simple steps, the outcome of which is to find a more direct and empowering way to get out of pain and into pleasure.</p>
-<p class="prose-p">These six steps of NAC will show you how to create a direct highway out of pain and into pleasure with no disempowering detours. They are. Step 1, decide what you really want and what’s preventing you from having it now. You’d be surprised how many people came to me for private therapeutic work, and when I asked them what they wanted, they’d spend 20 minutes telling me what they didn’t want, or what they no longer wanted to experience.</p>
-<p class="prose-p">We’ve got to remember that we get whatever we focus on in life. If we keep focusing on what we don’t want, we’ll have more of it. The first step to creating any change is deciding what you do want so that you have something to move toward. The more specific you can be about what you want, the more clarity you will have, and the more power you will command to achieve what you want more rapidly.</p>
-<p class="prose-p">We also must learn what’s preventing us from having what we want. Invariably, what’s preventing us from making the change is that we link more pain to making a change than to staying where we are. Step 2, get leverage, associate massive pain to not changing now, and massive pleasure to the experience of changing now. Most people know that they really want to change, yet they just can’t get themselves to do it.</p>
-<p class="prose-p">But change is usually not a question of capability, it’s almost always a question of motivation. But the problem, as I’ve said, is that change is often a should and not a must. Or it’s a must, but it’s a must for some day. The only way we’re going to make a change now is if we create a sense of urgency that’s so intense that we’re compelled to follow through.</p>
-<p class="prose-p">If we want to create change, then, we have to realize that it’s not a question of whether we can do it, but rather whether we will do it. Whether we will or not comes down to our level of motivation, which in turn comes down to those twin powers that shape our lives, pain and pleasure. Every change you’ve accomplished in your life is the result of changing your neuro associations about what means pain and what means pleasure. One of the things that turns virtually anyone around is reaching a pain threshold.</p>
-<p class="prose-p">This means experiencing pain at such an intense level that you know you must change now, a point at which your brain says, I’ve had it, I can’t spend another day, not another moment, living or feeling this way. Leverage is absolutely crucial in creating any change, in freeing yourself from behavioral burdens like smoking, drinking, overeating, cursing, or emotional patterns like feeling depressed, worried, fearful, or inadequate. Change requires more than just establishing the knowledge that you should change. It’s knowing at the deepest emotional and most basic sensory level that you must change.</p>
-<p class="prose-p">If you’ve tried many times to make a change and you’ve failed to do so, this simply means that the level of pain for failing to change is not intense</p>
+<p class="prose-p">Let’s begin to learn.
+
+#### Chapter 6, How to Change Anything in Your Life, The Science of Neuroassociative Conditioning All of us, through the experience of life, have learned certain patterns of thinking and behaving to get ourselves out of pain and into pleasure. We all experience emotions like boredom, frustration, anger or feeling overwhelmed, and we develop strategies for ending these feelings. Some people use shopping, some use food, some use sex, some use drugs, some use alcohol, some use yelling at their kids.</p>
+<p class="prose-p">They know consciously or unconsciously, that this neural pathway will relieve their pain and take them to some level of pleasure in the moment. Whatever the strategy, if you and I are going to change it, we have to go through six simple steps, the outcome of which is to find a more direct and empowering way to get out of pain and into pleasure. These six steps of NAC will show you how to create a direct highway out of pain and into pleasure with no disempowering detours.</p>
+<p class="prose-p">They are. Step 1, decide what you really want and what’s preventing you from having it now. You’d be surprised how many people came to me for private therapeutic work, and when I asked them what they wanted, they’d spend 20 minutes telling me what they didn’t want, or what they no longer wanted to experience. We’ve got to remember that we get whatever we focus on in life.</p>
+<p class="prose-p">If we keep focusing on what we don’t want, we’ll have more of it. The first step to creating any change is deciding what you do want so that you have something to move toward. The more specific you can be about what you want, the more clarity you will have, and the more power you will command to achieve what you want more rapidly. We also must learn what’s preventing us from having what we want.</p>
+<p class="prose-p">Invariably, what’s preventing us from making the change is that we link more pain to making a change than to staying where we are. Step 2, get leverage, associate massive pain to not changing now, and massive pleasure to the experience of changing now. Most people know that they really want to change, yet they just can’t get themselves to do it. But change is usually not a question of capability, it’s almost always a question of motivation.</p>
+<p class="prose-p">But the problem, as I’ve said, is that change is often a should and not a must. Or it’s a must, but it’s a must for some day. The only way we’re going to make a change now is if we create a sense of urgency that’s so intense that we’re compelled to follow through. If we want to create change, then, we have to realize that it’s not a question of whether we can do it, but rather whether we will do it.</p>
+<p class="prose-p">Whether we will or not comes down to our level of motivation, which in turn comes down to those twin powers that shape our lives, pain and pleasure. Every change you’ve accomplished in your life is the result of changing your neuro associations about what means pain and what means pleasure. One of the things that turns virtually anyone around is reaching a pain threshold. This means experiencing pain at such an intense level that you know you must change now, a point at which your brain says, I’ve had it, I can’t spend another day, not another moment, living or feeling this way.</p>
+<p class="prose-p">Leverage is absolutely crucial in creating any change, in freeing yourself from behavioral burdens like smoking, drinking, overeating, cursing, or emotional patterns like feeling depressed, worried, fearful, or inadequate. Change requires more than just establishing the knowledge that you should change. It’s knowing at the deepest emotional and most basic sensory level that you must change. If you’ve tried many times to make a change and you’ve failed to do so, this simply means that the level of pain for failing to change is not intense</p>
           </div>
         </section>
         
@@ -857,8 +977,9 @@
 <p class="prose-p">Let’s review what you’ve accomplished. You’ve decided upon the new pattern of emotion or behavior that you desire. You’ve gotten leverage on yourself to change it. You’ve interrupted the old pattern.</p>
 <p class="prose-p">You’ve found a new alternative, and you’ve conditioned it until it’s consistent. The only step left is to test it to make sure that it’s going to work in the future. One of the ways of doing this that’s taught in neuro-linguistic programming is future pacing. This means that you imagine the situation that used to frustrate you, and notice if in fact it still makes you feel frustrated or if your new pattern of feeling fascinated has replaced it.</p>
 <p class="prose-p">By imagining the same stimuli that used to trigger your old emotion or behavior and noting that you do feel certain that your new empowering alternative is automatic, you will know that this new pattern will work for you in the future. If all you do is the first three steps of NAC, that may be enough to create tremendous change. Once you’ve decided what you want, gained leverage, and interrupted the pattern, life often provides you with new ways of looking at things. And if the leverage is strong enough, you’ll be compelled to find a new pattern and condition it, and you can pretty much count on the world to give you the test.</p>
-<p class="prose-p">Now you have the NAC of change. The key is to use it. But you won’t unless you know what you’re using it for. You’ve got to know what you truly desire, you must find.</p>
-<h4 class="section-subhead">Chapter 7, How to Get What You Really Want.</h4>
+<p class="prose-p">Now you have the NAC of change. The key is to use it. But you won’t unless you know what you’re using it for. You’ve got to know what you truly desire, you must find.
+
+#### Chapter 7, How to Get What You Really Want.</p>
 <p class="prose-p">Take a moment and ask yourself what you truly want in life. Do you want a loving marriage, the respect of your children? Do you want plenty of money, fast cars, a thriving business, a house on the hill? Whatever it is you desire or crave, perhaps you should ask yourself, why do I want these things?</p>
 <p class="prose-p">Don’t you want fine cars, for example, because you really desire the feelings of accomplishment and prestige you think they would bring? Why do you want a great family life? Is it because you think it will give you feelings of love, intimacy, connection, or warmth? Do you want to save the world because of the feelings of contribution and making a difference you believe this will give you?</p>
 <p class="prose-p">If so, isn’t it true that what you really want is simply to change the way you feel? What it all comes down to is the fact that you want these things or results because you see them as a means to achieving certain feelings, emotions, or states that you desire. When somebody kisses you, what makes you feel good in that moment? Is it wet tissue touching wet tissue that really triggers the feeling?</p>
@@ -928,8 +1049,9 @@
 <p class="prose-p">The first skill you must master is to be able to change your state instantly no matter what the environment, no matter how scared or frustrated you are. The second skill is that you should be able to change state consistently in any environment, maybe in an environment that used to make you uncomfortable, but in which you can now change your state time and again, conditioning yourself until you feel good no matter where you are. The third skill is to establish a set of habitual patterns of using your physiology and focus so that you consistently feel good without any conscious effort whatsoever.</p>
 <p class="prose-p">My definition of success is to live your life in a way that causes you to feel tons of pleasure and very little pain, and because of your lifestyle, have the people around you feel a lot more pleasure than they do pain. One who’s achieved a lot but is living in emotional pain all the time, or is surrounded by people in pain all the time, isn’t truly successful. The fourth goal is to enable others to change their state instantly, to change their state in any environment, and to change their state for their whole life.</p>
 <p class="prose-p">The whole key here is to create a huge list of ways to make yourself feel good, so you don’t need to turn to those other ways that are destructive. If you link pain to the destructive habits and more and more pleasure to these new empowering ones, you’ll find that most of them are accessible most of the time. Develop a plan for pleasure for each and every day. Don’t just randomly hope that pleasure will somehow show up, set yourself up for ecstasy.</p>
-<p class="prose-p">What we’re talking about, again, is conditioning your nervous system, your body, and your mental focus so that it searches constantly to see how everything in your life benefits you. Just remember that if you continue to have a limiting emotional pattern, it’s because you are using your body in a habitual way, or are continuing to focus in a certain disempowering way. If it’s your focus that needs to be shifted, there is one incredible tool that can change it instantly. You must know that.</p>
-<h4 class="section-subhead">Chapter 8, Questions Are The Answer This entire book and my life’s work is the result of my asking questions about what makes us all do what we do, and how we can produce change more quickly and easily than it has been done before.</h4>
+<p class="prose-p">What we’re talking about, again, is conditioning your nervous system, your body, and your mental focus so that it searches constantly to see how everything in your life benefits you. Just remember that if you continue to have a limiting emotional pattern, it’s because you are using your body in a habitual way, or are continuing to focus in a certain disempowering way. If it’s your focus that needs to be shifted, there is one incredible tool that can change it instantly. You must know that.
+
+#### Chapter 8, Questions Are The Answer This entire book and my life’s work is the result of my asking questions about what makes us all do what we do, and how we can produce change more quickly and easily than it has been done before.</p>
 <p class="prose-p">Questions are the primary way that we learn virtually anything. In fact, the entire Socratic method, a way of teaching that dates back to the ancient Greek philosopher Socrates is based upon the teacher doing nothing but asking questions, directing the students&#x27; focus, and getting them to come up with their own answers. When I realized the incredible power of questions to shape our thoughts and literally our every response to our experiences, I went on a quest for questions. I not only wanted to know what questions we were asking as a society, but I also wanted to discover the questions that made a difference in people’s lives.</p>
 <p class="prose-p">I asked people in my seminars, in airplanes, in meetings, I asked everyone I met, from CEOs and high-rises to homeless people on the street, trying to discover the questions that created their experience of day-to-day life. I realized that the main difference between the people who seemed to be successful and those who weren’t was that successful people asked better questions, and as a result, they got better answers. They got answers that empowered them to know exactly what to do in any situation to produce the results they desired.</p>
 <p class="prose-p">Quality questions create a quality life. You need to burn this idea into your brain, because it’s as important as anything else you’ll learn in this book. Businesses succeed when those who make the decisions that control their destiny ask the right questions about markets or strategies or product lines. Relationships flourish when people ask the right questions about where potential conflicts exist and how to support each other instead of tearing each other down.</p>
@@ -1015,18 +1137,19 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">it? Let’s go on quickly to…</p>
-<h4 class="section-subhead">Chapter 9, The Vocabulary of Ultimate Success Words, they’ve been used to make us laugh and cry.</h4>
-<p class="prose-p">They can wound or heal. They offer us hope or devastation. With words we can make our noblest intentions felt and our deepest desires known. Throughout human history, our greatest leaders and thinkers have used the power of words to transform our emotions, to enlist us in their causes, and to shape the course of destiny.</p>
-<p class="prose-p">Words cannot only create emotions, they create actions. And from our actions flow the results of our lives. Most beliefs are formed by words, and they can be changed by words as well. Many of us are well aware of the powerful part that words have played in our history, of the power that great speakers have to move us.</p>
-<p class="prose-p">And few of us are aware of our own power to use these same words to move ourselves emotionally, to challenge, embolden, and strengthen our spirits, to move ourselves to action, to seek greater richness from this gift we call life. An effective selection of words to describe the experience of our lives can heighten our most empowering emotions. A poor selection of words can devastate us just as surely and just as swiftly. Most of us make unconscious choices in the words that we use, we sleepwalk our way through the maze of possibilities available to us.</p>
-<p class="prose-p">Realize now the power that your words command if you simply choose them wisely. Most of us don’t realize that the words you habitually choose also affect how you communicate with yourself and therefore what you experience. We can instantly change any emotional experience simply by choosing new words to describe to ourselves what we’re feeling.</p>
-<p class="prose-p">However, if we fail to master words, and if we allow their selection to be determined strictly by unconscious habit, we may be denigrating our entire experience of life. If you describe a magnificent experience as being pretty good, the rich texture of it will be smoothed and made flat by your limited use of vocabulary. People with an impoverished vocabulary live an impoverished emotional life. People with rich vocabularies have a multi-hued palette of colors with which to paint their thoughts, not only for others, but for themselves as well.</p>
-<p class="prose-p">Most people are not challenged by the size of the vocabulary they consciously understand, but rather by the words they choose to use. Many times, we use words as shortcuts, but often these shortcuts shortchange us emotionally. To consciously control our lives, we need to consciously evaluate and improve our consistent vocabulary to make sure that it is pulling us in the direction we desire instead of that which we wish to avoid. You and I must realize that the English language is filled with words that, in addition to their literal meanings, convey distinct emotional intensity.</p>
-<p class="prose-p">For example, if you develop a habit of saying you hate things, you hate your hair, you hate your job, you hate having to do something, do you think this raises the intensity of your negative emotional states more than if you were to use a phrase, like I prefer something else? Using emotionally charged words can magically transform your own state or someone else’s. Simply by changing your habitual vocabulary, the words you consistently use to describe the emotions of your life, you can instantaneously change how you think, how you feel, and how you live.</p>
-<p class="prose-p">If we want to change our lives and shape our destiny, we need to consciously select the words we’re going to use, and we need to constantly strive to expand our level of choice. These are the fabric from which all questions are cut. As we noted in the last chapter, by changing one word in a question, we can instantly change the answer we’ll get for the quality of our lives. Transformational vocabulary can allow us to intensify or diminish any emotional state, positive or negative.</p>
-<p class="prose-p">This means it gives us the power to take the most negative feelings in our lives and lower their intensity to the point where they no longer bother us and take the most positive experiences and move them to even greater heights of pleasure and empowerment. Once you understand the power of words, you become highly sensitized not only to those you use, but to those that people around you use as well. What would your life be like if you could take all the negative emotions you ever felt and lower their intensity so they didn’t impact you as powerfully, so you were always in charge?</p>
-<p class="prose-p">What would your life be like if you could take the most positive emotions and intensify them, thereby taking your life to a higher level? You can do both of these in a heartbeat. It’s difficult to overestimate the impact our transformational vocabulary has on ourselves and on others. We need to remember the value of using what I call softeners and intensifiers, they give us a greater degree of precision in our dealings with others, whether it’s a romantic relationship, a business negotiation, or all the possible scenarios in between.</p>
+            <p class="prose-p">it? Let’s go on quickly to…
+
+#### Chapter 9, The Vocabulary of Ultimate Success Words, they’ve been used to make us laugh and cry. They can wound or heal. They offer us hope or devastation.</p>
+<p class="prose-p">With words we can make our noblest intentions felt and our deepest desires known. Throughout human history, our greatest leaders and thinkers have used the power of words to transform our emotions, to enlist us in their causes, and to shape the course of destiny. Words cannot only create emotions, they create actions. And from our actions flow the results of our lives.</p>
+<p class="prose-p">Most beliefs are formed by words, and they can be changed by words as well. Many of us are well aware of the powerful part that words have played in our history, of the power that great speakers have to move us. And few of us are aware of our own power to use these same words to move ourselves emotionally, to challenge, embolden, and strengthen our spirits, to move ourselves to action, to seek greater richness from this gift we call life. An effective selection of words to describe the experience of our lives can heighten our most empowering emotions.</p>
+<p class="prose-p">A poor selection of words can devastate us just as surely and just as swiftly. Most of us make unconscious choices in the words that we use, we sleepwalk our way through the maze of possibilities available to us. Realize now the power that your words command if you simply choose them wisely. Most of us don’t realize that the words you habitually choose also affect how you communicate with yourself and therefore what you experience.</p>
+<p class="prose-p">We can instantly change any emotional experience simply by choosing new words to describe to ourselves what we’re feeling. However, if we fail to master words, and if we allow their selection to be determined strictly by unconscious habit, we may be denigrating our entire experience of life. If you describe a magnificent experience as being pretty good, the rich texture of it will be smoothed and made flat by your limited use of vocabulary. People with an impoverished vocabulary live an impoverished emotional life.</p>
+<p class="prose-p">People with rich vocabularies have a multi-hued palette of colors with which to paint their thoughts, not only for others, but for themselves as well. Most people are not challenged by the size of the vocabulary they consciously understand, but rather by the words they choose to use. Many times, we use words as shortcuts, but often these shortcuts shortchange us emotionally. To consciously control our lives, we need to consciously evaluate and improve our consistent vocabulary to make sure that it is pulling us in the direction we desire instead of that which we wish to avoid.</p>
+<p class="prose-p">You and I must realize that the English language is filled with words that, in addition to their literal meanings, convey distinct emotional intensity. For example, if you develop a habit of saying you hate things, you hate your hair, you hate your job, you hate having to do something, do you think this raises the intensity of your negative emotional states more than if you were to use a phrase, like I prefer something else? Using emotionally charged words can magically transform your own state or someone else’s.</p>
+<p class="prose-p">Simply by changing your habitual vocabulary, the words you consistently use to describe the emotions of your life, you can instantaneously change how you think, how you feel, and how you live. If we want to change our lives and shape our destiny, we need to consciously select the words we’re going to use, and we need to constantly strive to expand our level of choice. These are the fabric from which all questions are cut. As we noted in the last chapter, by changing one word in a question, we can instantly change the answer we’ll get for the quality of our lives.</p>
+<p class="prose-p">Transformational vocabulary can allow us to intensify or diminish any emotional state, positive or negative. This means it gives us the power to take the most negative feelings in our lives and lower their intensity to the point where they no longer bother us and take the most positive experiences and move them to even greater heights of pleasure and empowerment. Once you understand the power of words, you become highly sensitized not only to those you use, but to those that people around you use as well.</p>
+<p class="prose-p">What would your life be like if you could take all the negative emotions you ever felt and lower their intensity so they didn’t impact you as powerfully, so you were always in charge? What would your life be like if you could take the most positive emotions and intensify them, thereby taking your life to a higher level? You can do both of these in a heartbeat. It’s difficult to overestimate the impact our transformational vocabulary has on ourselves and on others.</p>
+<p class="prose-p">We need to remember the value of using what I call softeners and intensifiers, they give us a greater degree of precision in our dealings with others, whether it’s a romantic relationship, a business negotiation, or all the possible scenarios in between.</p>
           </div>
         </section>
         
@@ -1041,17 +1164,18 @@
 <p class="prose-p">All human emotions have their place, as we’ll talk about in chapter 11. However, we want to make certain that we do not access our most negative and intense states to start with. I’m not asking you to live a life where you don’t have any negative sensations or emotions. There are places where they can be very important.</p>
 <p class="prose-p">We’ll talk about one of them in the next chapter. Realize that our goal is to consistently feel less pain in our lives, and more pleasure. Now is your chance. Take control.</p>
 <p class="prose-p">Notice the words you habitually use, and replace them with ones that empower you, raising or lowering the emotional intensity as appropriate. Start today. Set this processional effect in motion. Make your commitment, follow through, and know what the power of this simple tool in and of itself will accomplish without using anything else.</p>
-<p class="prose-p">Next, let’s take a look at something that’s equally fun and equally simple in empowering you to manage your emotions consistently. Together, let’s blaze a trail of possibility with…</p>
-<h4 class="section-subhead">Chapter 10, The Power of Life Metaphors In the last chapter we talked about the power of words to shape our lives and direct our destinies.</h4>
-<p class="prose-p">Now let’s look at certain words that carry even more meaning and emotional intensity. Metaphors Throughout human history, symbols have been employed to trigger emotional response and shape men’s behavior. Many things serve as symbols, images, sounds, objects, actions, and, of course, words. What is a metaphor?</p>
-<p class="prose-p">Whenever we explain or communicate a concept by likening it to something else, we are using a metaphor. The two things may bear little actual resemblance to each other, but our familiarity with one allows us to gain an understanding of the other. Metaphors are symbols and, as such, they can create emotional intensity even more quickly and completely than the traditional words we use. Metaphors can transform us instantly.</p>
-<p class="prose-p">As human beings, we constantly think and speak in metaphors. Often people speak of being caught between a rock and a hard place. They feel like they’re in the dark, or that they’re struggling to keep their head above water. Do you think you might be a little bit more stressed if you thought about dealing with your challenge in terms of struggling to keep your head above water, rather than climbing the ladder of success?</p>
-<p class="prose-p">Would you feel differently about taking a test if you talked about sailing through it rather than flailing? Would your perception and experience of time change if you talked about time crawling rather than flying? You bet it would. One of the primary ways we learn is through metaphors.</p>
-<p class="prose-p">Learning is the process of making new associations in our minds, creating new meanings, and metaphors are ideally suited for this. When we don’t understand something, a metaphor provides a way of seeing how what we don’t understand is like something we do understand. Metaphors can empower us by expanding and enriching our experience of life. Unfortunately, if we’re not careful, when we adopt a metaphor we instantaneously also adopt many limiting beliefs that come with it.</p>
-<p class="prose-p">The same day I made the distinctions that led to the creation of the technology of transformational vocabulary, I discovered the value of what I call global metaphors. Different people have different global metaphors. For some people, life is a competition. That might be fun, but it could also mean that there are other people you have to beat.</p>
-<p class="prose-p">That there could be only one winner. For some people, life is a game. How might that color your perceptions? Life might be fun, what a concept.</p>
-<p class="prose-p">It might be somewhat competitive. It might be a chance for you to play and enjoy yourself a lot more. It all depends on what beli- beliefs you attach to the word game, but with that one metaphor, again, you have a set of filters that is going to affect the way you think and the way you feel. As you and I already know, everything we do is based on the state we’re in, and our state is determined by our physiology and the way we represent things in our minds.</p>
-<p class="prose-p">If you are feeling really bad about something, take a quick look at the metaphors you’re using to describe how you are feeling, or why you are not progressing, or what is getting in the way. Often you’re using a metaphor that intensifies your negative feelings. When people are experiencing difficulties they frequently say things like I feel like the weight of the world is on my back or there’s this wall in front of me, and I just can’t</p>
+<p class="prose-p">Next, let’s take a look at something that’s equally fun and equally simple in empowering you to manage your emotions consistently. Together, let’s blaze a trail of possibility with…
+
+#### Chapter 10, The Power of Life Metaphors In the last chapter we talked about the power of words to shape our lives and direct our destinies. Now let’s look at certain words that carry even more meaning and emotional intensity. Metaphors Throughout human history, symbols have been employed to trigger emotional response and shape men’s behavior.</p>
+<p class="prose-p">Many things serve as symbols, images, sounds, objects, actions, and, of course, words. What is a metaphor? Whenever we explain or communicate a concept by likening it to something else, we are using a metaphor. The two things may bear little actual resemblance to each other, but our familiarity with one allows us to gain an understanding of the other.</p>
+<p class="prose-p">Metaphors are symbols and, as such, they can create emotional intensity even more quickly and completely than the traditional words we use. Metaphors can transform us instantly. As human beings, we constantly think and speak in metaphors. Often people speak of being caught between a rock and a hard place.</p>
+<p class="prose-p">They feel like they’re in the dark, or that they’re struggling to keep their head above water. Do you think you might be a little bit more stressed if you thought about dealing with your challenge in terms of struggling to keep your head above water, rather than climbing the ladder of success? Would you feel differently about taking a test if you talked about sailing through it rather than flailing? Would your perception and experience of time change if you talked about time crawling rather than flying?</p>
+<p class="prose-p">You bet it would. One of the primary ways we learn is through metaphors. Learning is the process of making new associations in our minds, creating new meanings, and metaphors are ideally suited for this. When we don’t understand something, a metaphor provides a way of seeing how what we don’t understand is like something we do understand.</p>
+<p class="prose-p">Metaphors can empower us by expanding and enriching our experience of life. Unfortunately, if we’re not careful, when we adopt a metaphor we instantaneously also adopt many limiting beliefs that come with it. The same day I made the distinctions that led to the creation of the technology of transformational vocabulary, I discovered the value of what I call global metaphors. Different people have different global metaphors.</p>
+<p class="prose-p">For some people, life is a competition. That might be fun, but it could also mean that there are other people you have to beat. That there could be only one winner. For some people, life is a game.</p>
+<p class="prose-p">How might that color your perceptions? Life might be fun, what a concept. It might be somewhat competitive. It might be a chance for you to play and enjoy yourself a lot more.</p>
+<p class="prose-p">It all depends on what beli- beliefs you attach to the word game, but with that one metaphor, again, you have a set of filters that is going to affect the way you think and the way you feel. As you and I already know, everything we do is based on the state we’re in, and our state is determined by our physiology and the way we represent things in our minds. If you are feeling really bad about something, take a quick look at the metaphors you’re using to describe how you are feeling, or why you are not progressing, or what is getting in the way.</p>
+<p class="prose-p">Often you’re using a metaphor that intensifies your negative feelings. When people are experiencing difficulties they frequently say things like I feel like the weight of the world is on my back or there’s this wall in front of me, and I just can’t</p>
           </div>
         </section>
         
@@ -1072,8 +1196,9 @@
 <p class="prose-p">One of the best examples of an inappropriate metaphor is a man who was so dissociated that his wife and children didn’t feel any connection with him at all. They resented the way he never expressed his true feelings and the fact that he always seemed to be directing them. Do you know what his profession was? He was an air traffic controller.</p>
 <p class="prose-p">On the job he had to remain detached. Even if there was an emergency, he had to keep his voice absolutely calm so as not to alarm the pilots he was directing. That dissociated attitude worked well in the control tower, but it didn’t work at home. Be careful not to carry the metaphors that are appropriate in one context, like the environment in which you work, into an incompatible context, like how you relate to your family or friends.</p>
 <p class="prose-p">Metaphors can change the meaning you associate to anything, change what you link pain and pleasure to, and transform your life as effectively as they transform your language. Select them carefully, select them intelligently, select them so they will deepen and enrich your experience of life and that of the people you care about. I invite you to allow the radiance of your new metaphors to sweep you off your feet and make you feel like you’re floating on air until you arrive at cloud 9.</p>
-<p class="prose-p">While you’re on top of the world, you can look down on easy street and be tickled pink, knowing that the amount of joy you’re feeling in this moment is only the tip of the iceberg. Take control of your metaphors now and create a new world for yourself, a world of possibility, of richness, of wonder, and of joy. Once you’ve mastered the creative art of crafting metaphors, transforming vocabulary, and asking empowering questions, you are ready to harness.</p>
-<h4 class="section-subhead">Chapter 11, The 10 Emotions of Power So many suffer from the delusion that emotions are entirely out of their control, that they’re just something that spontaneously occurs in reaction to the events of our lives.</h4>
+<p class="prose-p">While you’re on top of the world, you can look down on easy street and be tickled pink, knowing that the amount of joy you’re feeling in this moment is only the tip of the iceberg. Take control of your metaphors now and create a new world for yourself, a world of possibility, of richness, of wonder, and of joy. Once you’ve mastered the creative art of crafting metaphors, transforming vocabulary, and asking empowering questions, you are ready to harness.
+
+#### Chapter 11, The 10 Emotions of Power So many suffer from the delusion that emotions are entirely out of their control, that they’re just something that spontaneously occurs in reaction to the events of our lives.</p>
 <p class="prose-p">Or we assume that emotions arise in response to what others do or say to us. Out of their need to avoid feeling certain emotions, people will often go to great or even ridiculous lengths. They’ll turn to drugs, alcohol, overeating, gambling, they’ll lapse into debilitating depression. In order to avoid hurting a loved one, or being hurt by a loved one, they’ll suppress</p>
           </div>
         </section>
@@ -1155,16 +1280,17 @@
           <div class="section-body">
             <p class="prose-p">They’re all here to serve you as a signal that some kind of change is needed. As you refine your ability to use these action signals, you’ll start handling them up front, and they are small, rather than waiting until they turn into full-blown crises. Over the next couple of weeks, focus on enjoying the process of learning from all of your emotions. You can experience the whole kaleidoscope at any moment you choose.</p>
 <p class="prose-p">Don’t be afraid, ride the rollercoaster. Experience the joy, passion, and thrill of all the emotions, and know that you’re in control. It’s your life, your emotions, your destiny. One thing I have found is that although someone may know how to do something, they might still not apply what they know.</p>
-<p class="prose-p">What we really need is a reason to use the power of our decisions, to change our beliefs, to get leverage on ourselves and interrupt our patterns to ask better questions and sensitize ourselves to our vocabulary and metaphors. In order to be motivated on a consistent basis, we need to develop.</p>
-<h4 class="section-subhead">Chapter 12, The Magnificent Obsession Creating a Compelling Future Many people know what they should do in life, but they never do it.</h4>
-<p class="prose-p">The reason is that they’re lacking the drive that only a compelling future can provide. This chapter is your opportunity to let go and dream at the highest level, to brainstorm out the wildest possibilities and, in so doing, to possibly discover something that will really push your life to the next level. Now is the time for you to grab hold of this powerful force within you. Once you decide to awaken this giant, you’ll be unstoppable in creating mental, emotional, physical, financial, and spiritual abundance beyond your wildest fantasies.</p>
-<p class="prose-p">Whether your dreams materialize instantly or take shape gradually over time, know that the only limit to what you can have in your life is the size of your imagination and the level of your commitment to making it real. When we first set large goals, they may seem impossible to achieve. But the most important key to goal setting is to find a goal big enough to inspire you, something that will cause you to unleash your power. The way I usually know I’ve set the right goal is when it seems impossible but at the same time it’s giving me a sense of crazed excitement just to think about the possibility of achieving it.</p>
-<p class="prose-p">In order to truly find that inspiration and achieve those impossible goals, we must suspend our belief systems about what we’re capable of achieving. The problem, as I’ve stressed in virtually every chapter so far, is that we are unconscious in our use of these resources. Most people’s goals are to pay their lousy bills, to get by, to survive, to make it through the day, in short, they are caught up in the trap of making a living rather than designing a life. Do you think these goals will give you the power to tap the vast reserve of power within you?</p>
-<p class="prose-p">Hardly. But I must remember that our goals affect us, whatever they are. If we don’t consciously plant the seeds we want in the gardens of our minds, we’ll end up with weeds. Weeds are automatic, you don’t have to work to get them.</p>
-<p class="prose-p">If we want to discover the unlimited possibilities within us, we must find a goal big enough and grand enough to challenge us to push beyond our limits and discover our true potential. Remember that your current conditions do not reflect your ultimate potential, but rather the size and quality of goals upon which you currently are focusing. We all must discover or create a magnificent obsession. You might be thinking right now, well, this all sounds so inspirational, but surely just setting a goal doesn’t make it happen.</p>
-<p class="prose-p">I couldn’t agree with you more. All goal setting must be immediately followed by both the development of a plan, and massive and consistent action toward its fulfillment. The process of setting goals works a lot like your eyesight. The closer you get to your destination, the greater clarity you gain, not only on the goal itself, but the details of everything around it.</p>
-<p class="prose-p">When you set a goal, you’ve acknowledged the need that all human beings have for constant, never-ending improvement. There is power in the pressure of dissatisfaction, in the tension of temporary discomfort. This is the kind of pain you want in your life, the kind of pain that you immediately transform into positive new actions. This kind of pressure is known as eustress as opposed to distress.</p>
-<p class="prose-p">Eustress can be a driving, positive force that pushes you forward to constantly increase the quality of your life for yourself and all those you have the privilege to touch. Many people try to avoid pressure, yet the absence of any tension or pressure usually creates a sense of boredom and the lackluster experience of life that so many people complain about. In truth, when we feel excited, we feel a sense of pressure or tension within ourselves.</p>
+<p class="prose-p">What we really need is a reason to use the power of our decisions, to change our beliefs, to get leverage on ourselves and interrupt our patterns to ask better questions and sensitize ourselves to our vocabulary and metaphors. In order to be motivated on a consistent basis, we need to develop.
+
+#### Chapter 12, The Magnificent Obsession Creating a Compelling Future Many people know what they should do in life, but they never do it. The reason is that they’re lacking the drive that only a compelling future can provide.</p>
+<p class="prose-p">This chapter is your opportunity to let go and dream at the highest level, to brainstorm out the wildest possibilities and, in so doing, to possibly discover something that will really push your life to the next level. Now is the time for you to grab hold of this powerful force within you. Once you decide to awaken this giant, you’ll be unstoppable in creating mental, emotional, physical, financial, and spiritual abundance beyond your wildest fantasies. Whether your dreams materialize instantly or take shape gradually over time, know that the only limit to what you can have in your life is the size of your imagination and the level of your commitment to making it real.</p>
+<p class="prose-p">When we first set large goals, they may seem impossible to achieve. But the most important key to goal setting is to find a goal big enough to inspire you, something that will cause you to unleash your power. The way I usually know I’ve set the right goal is when it seems impossible but at the same time it’s giving me a sense of crazed excitement just to think about the possibility of achieving it. In order to truly find that inspiration and achieve those impossible goals, we must suspend our belief systems about what we’re capable of achieving.</p>
+<p class="prose-p">The problem, as I’ve stressed in virtually every chapter so far, is that we are unconscious in our use of these resources. Most people’s goals are to pay their lousy bills, to get by, to survive, to make it through the day, in short, they are caught up in the trap of making a living rather than designing a life. Do you think these goals will give you the power to tap the vast reserve of power within you? Hardly.</p>
+<p class="prose-p">But I must remember that our goals affect us, whatever they are. If we don’t consciously plant the seeds we want in the gardens of our minds, we’ll end up with weeds. Weeds are automatic, you don’t have to work to get them. If we want to discover the unlimited possibilities within us, we must find a goal big enough and grand enough to challenge us to push beyond our limits and discover our true potential.</p>
+<p class="prose-p">Remember that your current conditions do not reflect your ultimate potential, but rather the size and quality of goals upon which you currently are focusing. We all must discover or create a magnificent obsession. You might be thinking right now, well, this all sounds so inspirational, but surely just setting a goal doesn’t make it happen. I couldn’t agree with you more.</p>
+<p class="prose-p">All goal setting must be immediately followed by both the development of a plan, and massive and consistent action toward its fulfillment. The process of setting goals works a lot like your eyesight. The closer you get to your destination, the greater clarity you gain, not only on the goal itself, but the details of everything around it. When you set a goal, you’ve acknowledged the need that all human beings have for constant, never-ending improvement.</p>
+<p class="prose-p">There is power in the pressure of dissatisfaction, in the tension of temporary discomfort. This is the kind of pain you want in your life, the kind of pain that you immediately transform into positive new actions. This kind of pressure is known as eustress as opposed to distress. Eustress can be a driving, positive force that pushes you forward to constantly increase the quality of your life for yourself and all those you have the privilege to touch.</p>
+<p class="prose-p">Many people try to avoid pressure, yet the absence of any tension or pressure usually creates a sense of boredom and the lackluster experience of life that so many people complain about. In truth, when we feel excited, we feel a sense of pressure or tension within ourselves.</p>
 <p class="prose-p">However, the level of stress is not overwhelming, but rather stimulating. By learning to utilize pressure and make it your friend instead of your foe, you can truly</p>
           </div>
         </section>
@@ -1206,8 +1332,9 @@
 <p class="prose-p">So how do people achieve their heart’s desire and still feel the excitement and passion that come from aiming toward a goal? As they approach what they’ve pursued for so long, they immediately establish a new set of compelling goals. This guarantees a smooth transition from completion to new inspiration and a continued commitment to growth. Without that commitment, we’ll do what’s necessary to feel satisfied, but never venture outside our comfort zones.</p>
 <p class="prose-p">That’s when we lose our drive, we lose our desire to expand, and we begin to stagnate. When people die emotional and spiritual deaths long before they ever leave their physical bodies. The way to break out of this trap is to realize that contribution may be the ultimate goal. Finding a way to help others can inspire us for a lifetime.</p>
 <p class="prose-p">There is always a place in the world for those who are willing to give of their time, energy, capital, creativity, and commitment. The most important lesson in this chapter is that a compelling future creates a dynamic sense of growth. Like this, we’re only half alive. A compelling future is not an accessory, but a necessity.</p>
-<p class="prose-p">It allows us not only to achieve, but to partake of the deep sense of joy, contribution, and growth that gives meaning to life itself. So let’s turn to the next chapter, and let me share with you a way to break up any obstacles that would stop you by taking on.</p>
-<h4 class="section-subhead">Chapter 13, The Ten Day Metal Challenge In order to take our lives to the next level we must realize that the same pattern of thinking that has gotten us to where we are will not get us to where we want to go.</h4>
+<p class="prose-p">It allows us not only to achieve, but to partake of the deep sense of joy, contribution, and growth that gives meaning to life itself. So let’s turn to the next chapter, and let me share with you a way to break up any obstacles that would stop you by taking on.
+
+#### Chapter 13, The Ten Day Metal Challenge In order to take our lives to the next level we must realize that the same pattern of thinking that has gotten us to where we are will not get us to where we want to go.</p>
 <p class="prose-p">One of the biggest challenges I see in both individuals and corporations is that they resist change, their greatest ally, justifying their actions by pointing out that their current behavior is what got them to the level of success that they now enjoy. This is absolutely true and, in reality, a new level of thinking is now required in order to experience a new level of personal and professional success. To do this, we must once and for all break through the barriers of our fear and take control of the focus of our minds.</p>
 <p class="prose-p">Our old patterns of allowing our minds to be enslaved by the problems of the moment must be broken once and for all. In their place, we must establish the lifelong commitment to focus on the solutions and to enjoy the process. Throughout this book you’ve learned a wealth of powerful tools and strategies to make your life richer, fuller, more joyous and exciting. But if you just read this book and fail to use it, it’s like buying a powerful new computer and never taking it out of the box, or buying a Ferrari and then letting it sit out in your driveway, collecting dust and grime.</p>
 <p class="prose-p">So let me offer you a simple plan for interrupting your old patterns of thinking, feeling, and behaving, a way that can help you condition these new, empowering alternatives and make</p>
@@ -1231,11 +1358,12 @@
 <p class="prose-p">The best way I know to do this is to simply go on a mental diet, that is, take a set period of time and take conscious control of all your thoughts. A mental diet is an opportunity to eliminate the negative and destructive patterns of thinking and feeling that inevitably come from living life in an emotionally reactionary and mentally undisciplined fashion. Here’s your opportunity now to really apply all the new disciplines you’ve learned in the previous chapters. My challenge to you is simply this.</p>
 <p class="prose-p">For the next 10 days, beginning immediately, commit to taking full control of all your mental and emotional faculties by deciding right now that you will not indulge in or dwell on any unresourceful thoughts or emotions for 10 consecutive days. It sounds easy, doesn’t it? And I’m sure it could be. But those who begin it are frequently surprised to discover how often their brains are engaged in nonproductive, fearful, worrisome, or destructive thinking.</p>
 <p class="prose-p">In essence, if you decide to accept my 10-day challenge, it means that you’ve committed to putting yourself and keeping yourself in a passionately positive state, no matter what happens. For example, if someone does something that you believe is destructive or even hateful toward you, and you begin to find yourself becoming angry, you must immediately change your emotional state, regardless of the situation, during these 10 consecutive days. Remember, our goal is not to ignore the problems of life, but to put ourselves in better mental and emotional states where we can not only come up with solutions, but act upon them.</p>
-<p class="prose-p">Every great, successful person I know shares the capacity to remain centered, clear and powerful in the midst of emotional storms. If you decide that you’re going to take on my 10-day challenge, and I sense you will, since you’ve made it this far in the book, then realize that for the next 10 days, you’re going to spend 100% of your time on solutions, and no time on problems. There are four simple yet important rules to this 10-day challenge. So if you’re going to take it on, remember the following.</p>
-<h4 class="section-subhead">Rule 1.</h4>
-<p class="prose-p">In the next 10 consecutive days, refuse to dwell on any unresourceful thoughts or feelings. Refuse to indulge in any disempowering questions or devitalizing vocabulary or metaphors.</p>
-<h4 class="section-subhead">Rule 2.</h4>
-<p class="prose-p">When you catch yourself beginning to focus on the negative, and you certainly will, you are to immediately use the techniques you’ve learned to redirect your focus toward a better</p>
+<p class="prose-p">Every great, successful person I know shares the capacity to remain centered, clear and powerful in the midst of emotional storms. If you decide that you’re going to take on my 10-day challenge, and I sense you will, since you’ve made it this far in the book, then realize that for the next 10 days, you’re going to spend 100% of your time on solutions, and no time on problems. There are four simple yet important rules to this 10-day challenge. So if you’re going to take it on, remember the following.
+
+#### Rule 1.</p>
+<p class="prose-p">In the next 10 consecutive days, refuse to dwell on any unresourceful thoughts or feelings. Refuse to indulge in any disempowering questions or devitalizing vocabulary or metaphors.
+
+#### Rule 2. When you catch yourself beginning to focus on the negative, and you certainly will, you are to immediately use the techniques you’ve learned to redirect your focus toward a better</p>
           </div>
         </section>
         
@@ -1249,10 +1377,11 @@
             <p class="prose-p">emotional state. Specifically, use the problem-solving questions as your first line of attack.</p>
 <p class="prose-p">For example, what’s great about this? What’s not perfect yet? Remember, by asking a question like, what’s not perfect yet? You’re presupposing that things will be perfect.</p>
 <p class="prose-p">This will change your state. It doesn’t ignore the problem, but it keeps you in the right state while you identify what needs to be changed. In addition, set yourself up for success each morning for the next 10 days by asking yourself the morning power questions. You can do them before you get out of bed or while you’re in the shower, but make sure you do them right away.</p>
-<p class="prose-p">This will focus you in the direction of establishing empowering mental and emotional patterns each day as you awake. In the evening, use the evening power questions, or any questions you believe will put you in a great state before you drop off to sleep.</p>
-<h4 class="section-subhead">Rule 3.</h4>
-<p class="prose-p">For the next 10 consecutive days, make certain that your whole focus in life is on solutions and not on problems. The minute you see a possible challenge, immediately focus on what the solution could be.</p>
-<h4 class="section-subhead">Rule 4.</h4>
+<p class="prose-p">This will focus you in the direction of establishing empowering mental and emotional patterns each day as you awake. In the evening, use the evening power questions, or any questions you believe will put you in a great state before you drop off to sleep.
+
+#### Rule 3. For the next 10 consecutive days, make certain that your whole focus in life is on solutions and not on problems. The minute you see a possible challenge, immediately focus on what the solution could be.
+
+#### Rule 4.</p>
 <p class="prose-p">If you backslide, that is, if you catch yourself indulging in or dwelling on an unresourceful thought or feeling, don’t beat yourself up. There’s no problem with this as long as you change immediately.</p>
 <p class="prose-p">However, if you continue to dwell on unresourceful thoughts or feelings for any measurable length of time, you must wait until the following morning and start the 10 days over. The goal of this program is 10 consecutive days without holding or dwelling on a negative thought. This starting over process must happen no matter how many days in a row you’ve already accomplished the task. You may ask, how long can I focus on the negative before it’s considered dwelling?</p>
 <p class="prose-p">To me, one minute of continual focus on what’s wrong is dwelling. One minute is more than enough time for us to be able to catch ourselves and create a change. Our whole goal is to catch the monster while it’s little. If I were you though, I’d give myself up to a maximum of two minutes to notice the challenge and begin to change your state.</p>
@@ -1348,8 +1477,9 @@
 <p class="prose-p">What are the emotional states you are moving toward, and what are the states you are moving away from? By reviewing these side by side, you’ll be able to have an understanding of the force that’s creating your present and future. Step two is to then make conscious decisions about what values you want to live by in order to shape the quality of life and destiny you truly desire and deserve. If you’re willing to take the bull by the horns, you have an opportunity to redirect your destiny.</p>
 <p class="prose-p">Ask yourself a new question, what do my values need to be in order to achieve the destiny I desire and deserve? Brainstorm out a list. Put them in order. See which values you might get rid of, and which values you might add in order to create the quality of life you truly want.</p>
 <p class="prose-p">So what have you accomplished by creating your new list of values? Isn’t it just a bunch of words on a piece of paper? The answer is yes, if you don’t condition yourself to use them as your new compass. If you do, however, they become the solid foundation of every decision you will make.</p>
-<p class="prose-p">Nothing in life can match the fulfillment of knowing you’ve done what you truly believe is the right thing. Give yourself the gift of taking hold of this force that shapes your destiny. You can have a great system of values that gives your life a magnificent direction but still feel unhappy, unless you understand the power of.</p>
-<h4 class="section-subhead">Chapter 16, Rules, If You’re Not Happy, Here’s Why Our experience of this reality had nothing to do with reality, but was interpreted through the controlling force of our beliefs, specifically, the rules we had about what had to happen in order for us to feel good.</h4>
+<p class="prose-p">Nothing in life can match the fulfillment of knowing you’ve done what you truly believe is the right thing. Give yourself the gift of taking hold of this force that shapes your destiny. You can have a great system of values that gives your life a magnificent direction but still feel unhappy, unless you understand the power of.
+
+#### Chapter 16, Rules, If You’re Not Happy, Here’s Why Our experience of this reality had nothing to do with reality, but was interpreted through the controlling force of our beliefs, specifically, the rules we had about what had to happen in order for us to feel good.</p>
 <p class="prose-p">I call these specific beliefs that determine when we get pain and when we get pleasure rules. Failure to understand their power can destroy any possibility for lifelong happiness, and a full understanding and utilization of them can transform your life as much as anything we’ve covered in this entire book. Let me ask you a question before we go any further. What has to happen in order for you to feel good?</p>
 <p class="prose-p">Do you have to have someone hug you, kiss you, make love to you, tell you how much they respect and appreciate you? Must you make a million dollars? Do you have to drive the right car, go to the right parties, be known by the right people? What really has to happen in order for you to feel good?</p>
 <p class="prose-p">The truth is that nothing has to happen in order for you to feel good. You could feel good right now for absolutely no reason whatsoever. Think about it. If you make a million dollars, the million dollars doesn’t give you any pleasure.</p>
@@ -1393,15 +1523,16 @@
 <p class="prose-p">We have certain things that we must do, certain things that we must not do, certain things that we must never do, and certain things that we must always do. The must and the must never rules are threshold rules. The should and should never rules are personal standard rules. All of them give a structure to our lives.</p>
 <p class="prose-p">Remember, we all need some structure. Some people have no clear rules for when they’re successful. Rules can provide the contextual environment for us to create added value. Rules can motivate us to follow through, they can cause us to grow and expand.</p>
 <p class="prose-p">Your goal is simply to create a balance between your must rules and your should rules and to utilize both types of rules in the appropriate context. One thing is sure, if you don’t know the rules, you’re guaranteed to lose because you’re bound to violate them sooner or later. But if you understand people’s rules, you can predict their behavior, you can truly meet their needs and thus enrich the quality of your relationships. Remember, the most empowering rule is to enjoy yourself no matter what happens.</p>
-<p class="prose-p">In the past few chapters we’ve nearly completed learning about the five elements of the master system. We know the importance of state, the way questions direct our focus and evaluations, and the power of values and rules to shape our lives. Now let’s discover the fabric from which all these elements are cut.</p>
-<h4 class="section-subhead">Chapter 17, References, The Fabric of Life.</h4>
-<p class="prose-p">References, the fifth element of a person’s master system, really provide the essence, or the building blocks, for our beliefs, rules, and values. They are the clay from which our master system is molded. References are all the experiences of your life that you’ve recorded within your nervous system, everything you’ve ever seen, heard, touched, tasted, or smelled. Some references are picked up consciously, others unconsciously.</p>
-<p class="prose-p">Some result from experiences you’ve had yourself, others consist of information you’ve heard from others. And all your references, like all human experience, become somewhat distorted, deleted, and generalized as you record them within your nervous system.</p>
-<p class="prose-p">In fact, you also have references for things that have never happened. Anything you’ve ever imagined in your mind is also stored in your brain as a memory. The larger the number and greater the quality of our references, the greater our potential level of choices. A larger number and greater quality of references enables us to more effectively evaluate what things mean and what we can do.</p>
-<p class="prose-p">Many of these references are organized to support beliefs and, as you learned in chapter 4, a belief is nothing but a feeling of certainty about what something means. If you believe you are intelligent, it’s because you have activated certain references to support that feel that you are intelligent. of certainty. All of these reference experiences act as table legs to support the idea, or tabletop, that you are intelligent. The key is to expand the references that are available within your life.</p>
-<p class="prose-p">Consciously seek out experiences that expand your sense of who you are and what you’re capable of, as well as organize your references in empowering ways. Think of your references, both those you consider to be good and bad, as a giant bolt of fabric woven from your experiences. With the other elements of your master system, your state, questions, values, and beliefs, you cut a pattern from this fabric that enables you to make decisions about what to do with your life. You have an inexhaustible supply of references that can be designed any way you wish.</p>
-<p class="prose-p">And each day, you’re adding to this supply. One important measure of a person’s intelligence is the way in which they use their fabric of references. Do you craft a curtain to hide behind, or do you fashion a magic carpet that will carry you to unequal heights? The way we use our references will determine how we feel, because whether something is good or bad is all based on what you’re comparing it to.</p>
-<p class="prose-p">Sometimes we lose perspective that good and bad are merely based upon our references. References are not limited to your actual experience. Your imagination itself is a source of references. We need to remember that our imagination is ten times more potent than our</p>
+<p class="prose-p">In the past few chapters we’ve nearly completed learning about the five elements of the master system. We know the importance of state, the way questions direct our focus and evaluations, and the power of values and rules to shape our lives. Now let’s discover the fabric from which all these elements are cut.
+
+#### Chapter 17, References, The Fabric of Life. References, the fifth element of a person’s master system, really provide the essence, or the building blocks, for our beliefs, rules, and values.</p>
+<p class="prose-p">They are the clay from which our master system is molded. References are all the experiences of your life that you’ve recorded within your nervous system, everything you’ve ever seen, heard, touched, tasted, or smelled. Some references are picked up consciously, others unconsciously. Some result from experiences you’ve had yourself, others consist of information you’ve heard from others.</p>
+<p class="prose-p">And all your references, like all human experience, become somewhat distorted, deleted, and generalized as you record them within your nervous system. In fact, you also have references for things that have never happened. Anything you’ve ever imagined in your mind is also stored in your brain as a memory. The larger the number and greater the quality of our references, the greater our potential level of choices.</p>
+<p class="prose-p">A larger number and greater quality of references enables us to more effectively evaluate what things mean and what we can do. Many of these references are organized to support beliefs and, as you learned in chapter 4, a belief is nothing but a feeling of certainty about what something means. If you believe you are intelligent, it’s because you have activated certain references to support that feel that you are intelligent. of certainty. All of these reference experiences act as table legs to support the idea, or tabletop, that you are intelligent.</p>
+<p class="prose-p">The key is to expand the references that are available within your life. Consciously seek out experiences that expand your sense of who you are and what you’re capable of, as well as organize your references in empowering ways. Think of your references, both those you consider to be good and bad, as a giant bolt of fabric woven from your experiences. With the other elements of your master system, your state, questions, values, and beliefs, you cut a pattern from this fabric that enables you to make decisions about what to do with your life.</p>
+<p class="prose-p">You have an inexhaustible supply of references that can be designed any way you wish. And each day, you’re adding to this supply. One important measure of a person’s intelligence is the way in which they use their fabric of references. Do you craft a curtain to hide behind, or do you fashion a magic carpet that will carry you to unequal heights?</p>
+<p class="prose-p">The way we use our references will determine how we feel, because whether something is good or bad is all based on what you’re comparing it to. Sometimes we lose perspective that good and bad are merely based upon our references. References are not limited to your actual experience. Your imagination itself is a source of references.</p>
+<p class="prose-p">We need to remember that our imagination is ten times more potent than our</p>
           </div>
         </section>
         
@@ -1435,12 +1566,12 @@
           </div>
           <div class="section-body">
             <p class="prose-p">and begin immediately. What new experience could you pursue today that would expand your life? What kind of person will you become? Take action and enjoy exploring the possibilities.</p>
-<p class="prose-p">Let’s discover the profound change that comes from.</p>
-<h4 class="section-subhead">Chapter 18, Identity, The Key to Expansion What exactly is identity?</h4>
-<p class="prose-p">It is simply the beliefs that we use to define our own individuality. What makes us unique, good, bad, or indifferent, from other individuals? And our sense of certainty about who we are creates the boundaries and limits within which we live. We all will act consistently with our views of who we truly are, whether that view is accurate or not.</p>
-<p class="prose-p">The reason is that one of the strongest forces in the human organism is the need for consistency. We all have a need for a sense of certainty. Most people have tremendous fear of the unknown. Uncertainty implies the potential of having pain strike us, and we’d rather deal with the pain we already know about than deal with the pain of the unknown.</p>
-<p class="prose-p">Thus, living in an ever-changing world, one in which we are constantly surrounded by the flux of new relationships, redefined job roles, changing environments, and a steady stream of new information, the one thing that we all count on to be constant is our sense of identity. If we begin to question who we are, then there is no foundation for all of the understandings upon which we’ve built our lives. If you don’t know who you are, then how can you decide what to do?</p>
-<p class="prose-p">How can you formulate values, adopt beliefs, or establish rules? How can you judge whether something is good, bad, or indifferent? As we develop new beliefs about who we are, our behavior will change to support the new identity.</p>
+<p class="prose-p">Let’s discover the profound change that comes from.
+
+#### Chapter 18, Identity, The Key to Expansion What exactly is identity? It is simply the beliefs that we use to define our own individuality. What makes us unique, good, bad, or indifferent, from other individuals? And our sense of certainty about who we are creates the boundaries and limits within which we live.</p>
+<p class="prose-p">We all will act consistently with our views of who we truly are, whether that view is accurate or not. The reason is that one of the strongest forces in the human organism is the need for consistency. We all have a need for a sense of certainty. Most people have tremendous fear of the unknown.</p>
+<p class="prose-p">Uncertainty implies the potential of having pain strike us, and we’d rather deal with the pain we already know about than deal with the pain of the unknown. Thus, living in an ever-changing world, one in which we are constantly surrounded by the flux of new relationships, redefined job roles, changing environments, and a steady stream of new information, the one thing that we all count on to be constant is our sense of identity. If we begin to question who we are, then there is no foundation for all of the understandings upon which we’ve built our lives.</p>
+<p class="prose-p">If you don’t know who you are, then how can you decide what to do? How can you formulate values, adopt beliefs, or establish rules? How can you judge whether something is good, bad, or indifferent? As we develop new beliefs about who we are, our behavior will change to support the new identity.</p>
 <p class="prose-p">In fact, one shift in identity can cause a shift of your entire master system. Shifting, changing, or expanding identity can produce the most profound and rapid improvements in the quality of your life. If you’ve repeatedly attempted to make a particular change in your life, only to continually fall short, invariably the challenge is that you were trying to create a behavioral or emotional shift that was inconsistent with your belief about who you are. You might ask, isn’t my identity limited by my experience?</p>
 <p class="prose-p">No, it’s limited by your interpretation of your experience. Your identity is nothing but the decisions you’ve made about who you are, what you’ve decided to fuse yourself with. You become the labels you’ve given yourself. The way you define your identity defines your life.</p>
 <p class="prose-p">People who act inconsistently with who they believe they are set the stage for the societal cliche of an identity crisis. When the crisis hits, they are immediately disoriented, questioning their previous convictions. Their whole world is turned upside down, and they experience an intense fear of pain. This is what happens to so many people having a midlife crisis.</p>
@@ -1580,18 +1711,18 @@
             <p class="prose-p">your conflicts. 3. Develop a pattern and erupt that you both agree to use when things become most heated. In this way, no matter how mad you are, for at least a moment you can smile and let go of the upset. To make it easier for both of you, use the most bizarre or humorous pattern interrupt you can devise.</p>
 <p class="prose-p">Make it a private joke that can serve as your personal anchor. 4. When you feel resistance, communicate it with softeners such as, I know it’s only my idiosyncrasy, but when you do that, it makes me a tad peckish. 5. Open regular date nights together, preferably once a week, or at the minimum, two times a month. Take turns surprising your partner and dreaming up the most romantic and fun things to do. 6.</p>
 <p class="prose-p">Make sure you get a good, 180 second wet kiss every day. These are your only assignments for today. Act upon them and enjoy them. I can promise you, the rewards are immeasurable.</p>
-<p class="prose-p">To make sure that we commit to constant and never-ending improvement on a daily basis, let’s develop an enjoyable plan by creating your…</p>
-<h4 class="section-subhead">Chapter 22, Financial Destiny, Small Steps to a Small, or Large, Fortune.</h4>
-<p class="prose-p">Day 4 Your outcome, take control of your financial future by learning the 5 foundational elements for establishing wealth. Money. It’s one of the most emotionally charged issues of our lives. Most people are willing to give up things that are much more valuable than money in order to get more of it.</p>
-<p class="prose-p">They’ll push themselves far beyond their past limitations, give up time with their family and friends, or even destroy their health. Money is a potent source associated to both pain and pleasure within our society. Some people try to deal with money by pretending it doesn’t matter, but financial pressure is something that affects us all, every day of our lives. For some people, money holds mystery.</p>
-<p class="prose-p">For others, it is the source of desire, pride, envy, and even contempt. Which is it really? Is it the maker of dreams or the root of all evil? Is it a tool or a weapon?</p>
-<p class="prose-p">A source of freedom, power, security? Or merely a means to an end? You and I know intellectually that money is merely a medium of exchange. It allows us to simplify the process of creating, transferring, and sharing value within a society.</p>
-<p class="prose-p">Many people make the mistake of thinking that all the challenges in their lives would dissipate if they just had enough money. Nothing could be further from the truth. Earning more money, in and of itself, rarely frees people. It’s equally ridiculous to tell yourself that greater financial freedom and mastery of your finances would not offer you greater opportunities to expand, share, and create value for yourself and others.</p>
-<p class="prose-p">So why do so many people fail to achieve financial abundance in a nation where economic opportunity surrounds us? We live in a country where people can create net worths and the hundreds of millions starting with a little idea for a computer that they first built in their garage. What is it that keeps us from getting wealth in the first place? How can it be that 95% of the American population by age 65, after a lifetime of work, cannot support themselves without help from government or family?</p>
-<p class="prose-p">Let’s begin by remembering the power that our beliefs have to control our behaviors. The most common reason most people do not become financially successful is that they have mixed associations to what it would take to have more money, as well as what it would mean to have excess money. As you learned in Chapter 5, your brain knows what to do only when it has a clear association about what it needs to avoid and what it needs to move toward. When it comes to money, we often send mixed signals, and so we get mixed results.</p>
-<p class="prose-p">We tell ourselves that money will provide us freedom, a chance to give to those we love, a chance to do all those things we’ve always dreamed about, a chance to free up our time. Yet simultaneously we may believe that in order to accumulate an abundance of money, we’d have to work so much harder and spend so much more time that we’d probably be too old and tired to enjoy it. Or we may believe that if we have excess money, we won’t be spiritual, or we’ll be judged, or someone will swindle us out of it anyway, so why even try?</p>
-<p class="prose-p">These negative associations are not limited to ourselves. Some people resent anyone who is doing well financially, and often they assume that if someone has made a lot of money, he or she must have done something to take advantage of others. If you find yourself resenting someone who is wealthy, what message does that send your brain? It’s probably something like having excess money is bad.</p>
-<p class="prose-p">If you harbor these feelings for others, you’re subconsciously teaching your mind that for you to do well would make you a bad person. By resenting others&#x27; success, you condition yourself to avoid the very financial abundance</p>
+<p class="prose-p">To make sure that we commit to constant and never-ending improvement on a daily basis, let’s develop an enjoyable plan by creating your…
+
+#### Chapter 22, Financial Destiny, Small Steps to a Small, or Large, Fortune. Day 4 Your outcome, take control of your financial future by learning the 5 foundational elements for establishing wealth. Money. It’s one of the most emotionally charged issues of our lives.</p>
+<p class="prose-p">Most people are willing to give up things that are much more valuable than money in order to get more of it. They’ll push themselves far beyond their past limitations, give up time with their family and friends, or even destroy their health. Money is a potent source associated to both pain and pleasure within our society. Some people try to deal with money by pretending it doesn’t matter, but financial pressure is something that affects us all, every day of our lives.</p>
+<p class="prose-p">For some people, money holds mystery. For others, it is the source of desire, pride, envy, and even contempt. Which is it really? Is it the maker of dreams or the root of all evil?</p>
+<p class="prose-p">Is it a tool or a weapon? A source of freedom, power, security? Or merely a means to an end? You and I know intellectually that money is merely a medium of exchange.</p>
+<p class="prose-p">It allows us to simplify the process of creating, transferring, and sharing value within a society. Many people make the mistake of thinking that all the challenges in their lives would dissipate if they just had enough money. Nothing could be further from the truth. Earning more money, in and of itself, rarely frees people.</p>
+<p class="prose-p">It’s equally ridiculous to tell yourself that greater financial freedom and mastery of your finances would not offer you greater opportunities to expand, share, and create value for yourself and others. So why do so many people fail to achieve financial abundance in a nation where economic opportunity surrounds us? We live in a country where people can create net worths and the hundreds of millions starting with a little idea for a computer that they first built in their garage. What is it that keeps us from getting wealth in the first place?</p>
+<p class="prose-p">How can it be that 95% of the American population by age 65, after a lifetime of work, cannot support themselves without help from government or family? Let’s begin by remembering the power that our beliefs have to control our behaviors. The most common reason most people do not become financially successful is that they have mixed associations to what it would take to have more money, as well as what it would mean to have excess money. As you learned in Chapter 5, your brain knows what to do only when it has a clear association about what it needs to avoid and what it needs to move toward.</p>
+<p class="prose-p">When it comes to money, we often send mixed signals, and so we get mixed results. We tell ourselves that money will provide us freedom, a chance to give to those we love, a chance to do all those things we’ve always dreamed about, a chance to free up our time. Yet simultaneously we may believe that in order to accumulate an abundance of money, we’d have to work so much harder and spend so much more time that we’d probably be too old and tired to enjoy it.</p>
+<p class="prose-p">Or we may believe that if we have excess money, we won’t be spiritual, or we’ll be judged, or someone will swindle us out of it anyway, so why even try? These negative associations are not limited to ourselves. Some people resent anyone who is doing well financially, and often they assume that if someone has made a lot of money, he or she must have done something to take advantage of others. If you find yourself resenting someone who is wealthy, what message does that send your brain?</p>
+<p class="prose-p">It’s probably something like having excess money is bad. If you harbor these feelings for others, you’re subconsciously teaching your mind that for you to do well would make you a bad person. By resenting others&#x27; success, you condition yourself to avoid the very financial abundance</p>
           </div>
         </section>
         
@@ -1636,10 +1767,10 @@
 <p class="prose-p">Take a look at your beliefs, see if there are any that are out of alignment, and change them with neuro associative conditioning. 2. Institute a process for adding more value in your place of employment, on a major scale, whether you’re paid for it or not. Add 10 times more value than you do currently and prepare for the processional effects of your actions. 3. Commit to save a minimum of 10%, and have it deducted from your check and invested in your plan portfolio. 4.</p>
 <p class="prose-p">Get some good coaching. Whether you contact our financial destiny group professionals, or your own local financial coach, make certain that whoever works with you helps you to develop a detailed financial plan that you understand. Pick up some great financial books. There are many that can teach you how to make intelligent, informed investment decisions. 5.</p>
 <p class="prose-p">If you’re concerned about your assets being under attack, take action to develop an asset protection plan. 6. Create a small jackpot to start the process of linking pleasure to financial success. Who could you do something special for? What could you do for yourself as reinforcement for getting started today?</p>
-<p class="prose-p">Now you’re ready to.</p>
-<h4 class="section-subhead">Chapter 23, Be Impeccable, Your Code of Conduct.</h4>
-<p class="prose-p">Day 5. Your outcome, is it possible to have great values, to have all your rules aligned to support them, to be asking yourself the right questions, and not to be living your values in the moment? If you’re being honest with yourself, you know the answer is yes. All of us at one time or another have let events control us, instead of controlling our states or our decisions as to what those events mean.</p>
-<p class="prose-p">We need a clear-cut way to ensure that we consistently live the values to which we’ve committed ourselves, and a way of measuring whether or not we’re actually achieving that value on a daily basis. I remember reading a story from Ben Franklin’s autobiography in a beat-up hotel room in Milwaukee. I was on an intense schedule,</p>
+<p class="prose-p">Now you’re ready to.
+
+#### Chapter 23, Be Impeccable, Your Code of Conduct. Day 5. Your outcome, is it possible to have great values, to have all your rules aligned to support them, to be asking yourself the right questions, and not to be living your values in the moment? If you’re being honest with yourself, you know the answer is yes.</p>
+<p class="prose-p">All of us at one time or another have let events control us, instead of controlling our states or our decisions as to what those events mean. We need a clear-cut way to ensure that we consistently live the values to which we’ve committed ourselves, and a way of measuring whether or not we’re actually achieving that value on a daily basis. I remember reading a story from Ben Franklin’s autobiography in a beat-up hotel room in Milwaukee. I was on an intense schedule,</p>
           </div>
         </section>
         
@@ -1681,16 +1812,17 @@
 <p class="prose-p">You’ll no longer be controlled by events, you’ll know that, no matter what happens around you, you can maintain your sense of yourself and live up to the vision you’ve created. There is a tremendous pride that comes with holding yourself to a higher standard and knowing that each day you alone will determine how you feel, that you will conduct yourself only at the highest level. Wayne Dyer recently shared a great metaphor with me relating to how people blame the way they behave on the pressure they’re feeling.</p>
 <p class="prose-p">He said, pressure doesn’t create negative behavior. Think of yourself as an orange. If an orange is squeezed, if all this pressure is being applied from the outside, what happens? Juice comes out, right?</p>
 <p class="prose-p">But the only thing that comes out when the pressure is applied is what’s already inside the orange. I believe that you decide what’s on the inside by holding yourself to a higher standard. So when the pressure’s on, what’s going to come out as the good stuff? After all, you cannot always count on easy sailing.</p>
-<p class="prose-p">Remember, it’s who you are every day, the small actions as well as the most grandiose, that build your character and form your identity. One of the most important actions you can take is to learn too.</p>
-<h4 class="section-subhead">Chapter 24, Master Your Time and Your Life.</h4>
-<p class="prose-p">Day 6 Your outcome, learn how to use time to your advantage rather than allowing it to rule your levels of satisfaction and stress. If you’ve ever felt stress, and who hasn’t? Chances are excellent that it’s because you felt you just didn’t have enough time to do what you wanted to at the level of quality to which you are committed. In this stressed and overloaded state, your effectiveness is rapidly diminished.</p>
-<p class="prose-p">The solution is simple, take control of the time frame you’re focusing upon. If the present is stressful, then become more resourceful in dealing with your challenges by focusing on the future and the successful completion or resolution of the tasks before you. This new focus will instantly change your state and give you the very resources you need to turn things around in the present. So often we forget that time is a mental construct, that it is completely relative, and that our experience of time is almost exclusively the result of our mental focus.</p>
-<p class="prose-p">Our beliefs also filter our perception of time. For some people, regardless of the situation, 20 minutes is a lifetime. For others, a long time is a century. Can you imagine how these people walk differently, talk differently, look at their goals differently, and how stressed they might be if they were trying to deal with one another while operating out of completely different frames of reference?</p>
-<p class="prose-p">This is why time mastery is a life skill. The ability to flex your experience of time is the ability to shape your experience of life. For today’s exercises, let’s briefly review and apply three time-saving tips. 1. The ability to distort time.</p>
-<p class="prose-p">After you’ve mastered the ability to change time frames by changing your focus, you’re ready to move on to the second major skill of time mastery, and that is the ability to distort time so that a minute feels like an hour, or an hour like a minute. Haven’t you noticed that when you become totally engrossed in something, you lose track of time? Why? Because you no longer focus upon it.</p>
-<p class="prose-p">You make fewer measurements of it. You’re focused on something enjoyable and therefore, time passes more rapidly. Remember that you’re in control. Direct your focus and consciously choose how to measure your time.</p>
-<p class="prose-p">If you are constantly checking your watch, then time seems to crawl. Again, your experience of time is controlled by your focus. 2. A matter of importance. Perhaps the most critical distinction of all, is an understanding of how urgency and importance control your decisions about what to do with your time, and therefore your level of personal fulfillment.</p>
-<p class="prose-p">Have you ever worked your tail off, completed every single thing on your to-do list, but at the end of the day still felt unfulfilled? That’s because you did everything that was urgent and demanded your attention in the moment, but you didn’t do what was important, the things that would make a difference long term. Conversely, have you ever had days when you got only a few things done but at the end</p>
+<p class="prose-p">Remember, it’s who you are every day, the small actions as well as the most grandiose, that build your character and form your identity. One of the most important actions you can take is to learn too.
+
+#### Chapter 24, Master Your Time and Your Life. Day 6 Your outcome, learn how to use time to your advantage rather than allowing it to rule your levels of satisfaction and stress. If you’ve ever felt stress, and who hasn’t?</p>
+<p class="prose-p">Chances are excellent that it’s because you felt you just didn’t have enough time to do what you wanted to at the level of quality to which you are committed. In this stressed and overloaded state, your effectiveness is rapidly diminished. The solution is simple, take control of the time frame you’re focusing upon. If the present is stressful, then become more resourceful in dealing with your challenges by focusing on the future and the successful completion or resolution of the tasks before you.</p>
+<p class="prose-p">This new focus will instantly change your state and give you the very resources you need to turn things around in the present. So often we forget that time is a mental construct, that it is completely relative, and that our experience of time is almost exclusively the result of our mental focus. Our beliefs also filter our perception of time. For some people, regardless of the situation, 20 minutes is a lifetime.</p>
+<p class="prose-p">For others, a long time is a century. Can you imagine how these people walk differently, talk differently, look at their goals differently, and how stressed they might be if they were trying to deal with one another while operating out of completely different frames of reference? This is why time mastery is a life skill. The ability to flex your experience of time is the ability to shape your experience of life.</p>
+<p class="prose-p">For today’s exercises, let’s briefly review and apply three time-saving tips. 1. The ability to distort time. After you’ve mastered the ability to change time frames by changing your focus, you’re ready to move on to the second major skill of time mastery, and that is the ability to distort time so that a minute feels like an hour, or an hour like a minute. Haven’t you noticed that when you become totally engrossed in something, you lose track of time?</p>
+<p class="prose-p">Why? Because you no longer focus upon it. You make fewer measurements of it. You’re focused on something enjoyable and therefore, time passes more rapidly.</p>
+<p class="prose-p">Remember that you’re in control. Direct your focus and consciously choose how to measure your time. If you are constantly checking your watch, then time seems to crawl. Again, your experience of time is controlled by your focus. 2.</p>
+<p class="prose-p">A matter of importance. Perhaps the most critical distinction of all, is an understanding of how urgency and importance control your decisions about what to do with your time, and therefore your level of personal fulfillment. Have you ever worked your tail off, completed every single thing on your to-do list, but at the end of the day still felt unfulfilled? That’s because you did everything that was urgent and demanded your attention in the moment, but you didn’t do what was important, the things that would make a difference long term.</p>
+<p class="prose-p">Conversely, have you ever had days when you got only a few things done but at the end</p>
           </div>
         </section>
         
@@ -1707,15 +1839,16 @@
 <p class="prose-p">After you’re feeling the pressures of the present, stop and think about the future in ways that are empowering. For example, think of goals that compel you, and become fully associated to them. Visualize the image, listen to it, step into it and notice how it feels. Put yourself back into the midst of a treasured memory, your first kiss, the birth of your child, a special moment with a friend.</p>
 <p class="prose-p">The more you develop your capability to quickly change time frames, the greater your level of freedom and the range of emotions you will be able to create within yourself at a moment’s notice. Do this enough until you truly know you can use this change in focus to instantly change your state. 2. Learn to deliberately distort time. For something that normally seems to take a long time to complete, add another component that will not only speed up your perception of time, but allow you to accomplish two things at once.</p>
 <p class="prose-p">For example, when I’m running, I’ll don a pair of headphones and listen to my favorite music. Or I’ll watch the news or make phone calls while I’m on my StairMaster. This means I’ll never have an excuse not to exercise or not to do what’s important. 3. Write a to-do list that prioritizes according to importance instead of urgency.</p>
-<p class="prose-p">Instead of writing down zillions of things to do and feeling like a failure at the end of the day, focus on what’s most important for you to accomplish. If you do this, I can promise you that you’ll feel a sense of satisfaction and accomplishment if you experience. Of course, we must always take time too.</p>
-<h4 class="section-subhead">Chapter 25, Rest and Play, Even God Took One Day Off.</h4>
-<p class="prose-p">Day 7. Your outcome, achieve some balance. You’ve worked hard and you’ve played hard. Take a day off to have some fun.</p>
-<p class="prose-p">Be spontaneous, be outrageous, do something that takes you outside yourself. What would create the most excitement for you? Today’s assignment. Either plan something fun and stick to it, or do something on the spur of the moment.</p>
-<p class="prose-p">Whatever it is, enjoy it. Tomorrow, you’ll be ready to explore.</p>
-<h4 class="section-subhead">Chapter 26, The Ultimate Challenge, What One Person Can Do.</h4>
-<p class="prose-p">So many people feel powerless and insignificant when it comes to social issues and world events, thinking that even if they did everything right in their own personal lives, their welfare would still be at the mercy of the actions of others. They feel beset by the proliferation of gang warfare and violent crime, perplexed by massive government deficits, saddened by homelessness and illiteracy, and overwhelmed by global warming and the relentless extinction of the other species who live on this planet. Such people fall into the mindset of thinking, even if I get my own life and the lives of my family in order, what good will it do?</p>
-<p class="prose-p">Some nut in a position of power could accidentally push the button and blow us all up anyway. This kind of belief system fosters the feeling of being out of control and impotent to create change at any significant level, and naturally leads to the learned helplessness typified by the phrase, why even try? Thinking could be more crippling to a person’s ability to take action than learned helplessness. It is the primary obstacle that prevents us from changing our lives or taking action to help other people change theirs.</p>
-<p class="prose-p">If you’ve come this far in the book, you know without a doubt my central message, you have the power right now to control how you think, how you feel, and what you do. Perhaps for the first time you are empowered to take control of the master system that has unconsciously guided you until this point. With the strategies and distinctions you’ve gained from reading and doing the exercises in this book, you have awakened to the conviction that you are truly the master of your fate, the director of your destiny.</p>
+<p class="prose-p">Instead of writing down zillions of things to do and feeling like a failure at the end of the day, focus on what’s most important for you to accomplish. If you do this, I can promise you that you’ll feel a sense of satisfaction and accomplishment if you experience. Of course, we must always take time too.
+
+#### Chapter 25, Rest and Play, Even God Took One Day Off. Day 7.</p>
+<p class="prose-p">Your outcome, achieve some balance. You’ve worked hard and you’ve played hard. Take a day off to have some fun. Be spontaneous, be outrageous, do something that takes you outside yourself.</p>
+<p class="prose-p">What would create the most excitement for you? Today’s assignment. Either plan something fun and stick to it, or do something on the spur of the moment. Whatever it is, enjoy it.</p>
+<p class="prose-p">Tomorrow, you’ll be ready to explore.
+
+#### Chapter 26, The Ultimate Challenge, What One Person Can Do. So many people feel powerless and insignificant when it comes to social issues and world events, thinking that even if they did everything right in their own personal lives, their welfare would still be at the mercy of the actions of others. They feel beset by the proliferation of gang warfare and violent crime, perplexed by massive government deficits, saddened by homelessness and illiteracy, and overwhelmed by global warming and the relentless extinction of the other species who live on this planet.</p>
+<p class="prose-p">Such people fall into the mindset of thinking, even if I get my own life and the lives of my family in order, what good will it do? Some nut in a position of power could accidentally push the button and blow us all up anyway. This kind of belief system fosters the feeling of being out of control and impotent to create change at any significant level, and naturally leads to the learned helplessness typified by the phrase, why even try? Thinking could be more crippling to a person’s ability to take action than learned helplessness.</p>
+<p class="prose-p">It is the primary obstacle that prevents us from changing our lives or taking action to help other people change theirs. If you’ve come this far in the book, you know without a doubt my central message, you have the power right now to control how you think, how you feel, and what you do. Perhaps for the first time you are empowered to take control of the master system that has unconsciously guided you until this point. With the strategies and distinctions you’ve gained from reading and doing the exercises in this book, you have awakened to the conviction that you are truly the master of your fate, the director of your destiny.</p>
 <p class="prose-p">Together we’ve discovered the giant power that shapes destiny, decision, and that our</p>
           </div>
         </section>
@@ -1932,6 +2065,204 @@
 
     document.getElementById('scroll-top-btn').addEventListener('click', () => {
       window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    // ==========================================
+    // IN-PAGE CONTENT SEARCH (單書全文搜尋)
+    // ==========================================
+    const searchBar = document.getElementById('inpage-search-bar');
+    const searchInput = document.getElementById('inpage-search-input');
+    const searchCount = document.getElementById('inpage-search-count');
+    const searchDrawer = document.getElementById('inpage-search-drawer');
+    const searchDrawerList = document.getElementById('inpage-search-drawer-list');
+    const searchToggleBtn = document.getElementById('search-toggle-btn');
+    const searchClearBtn = document.getElementById('inpage-search-clear');
+    const searchPrevBtn = document.getElementById('inpage-search-prev');
+    const searchNextBtn = document.getElementById('inpage-search-next');
+    const searchCloseBtn = document.getElementById('inpage-search-close');
+    const drawerCloseBtn = document.getElementById('inpage-drawer-close');
+
+    let searchMatches = [];
+    let currentMatchIdx = -1;
+
+    // Cache original innerHTML for clean resets
+    const rawParagraphs = Array.from(document.querySelectorAll('.section-body p')).map(p => ({
+      el: p,
+      rawHtml: p.innerHTML,
+      rawText: p.textContent
+    }));
+
+    function openSearch() {
+      searchBar.classList.add('active');
+      searchInput.focus();
+      searchInput.select();
+      if (searchInput.value.trim()) {
+        performSearch(searchInput.value.trim());
+      }
+    }
+
+    function closeSearch() {
+      searchBar.classList.remove('active');
+      searchDrawer.classList.remove('active');
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchCount.textContent = '0 / 0';
+    }
+
+    function clearHighlights() {
+      rawParagraphs.forEach(item => {
+        item.el.innerHTML = item.rawHtml;
+      });
+    }
+
+    function escapeRegex(str) {
+      return str.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+    }
+
+    function escapeHtml(str) {
+      return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+
+    function performSearch(query) {
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchDrawerList.innerHTML = '';
+
+      if (!query || query.trim().length === 0) {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+        return;
+      }
+
+      query = query.trim();
+      const qLower = query.toLowerCase();
+      const regex = new RegExp(`(${escapeRegex(query)})`, 'gi');
+
+      rawParagraphs.forEach((item, pIdx) => {
+        if (item.rawText.toLowerCase().includes(qLower)) {
+          const sec = item.el.closest('.transcript-section');
+          const secTime = sec ? (sec.querySelector('.section-time')?.textContent || '') : '';
+          const secId = sec ? sec.id : '';
+
+          // Apply highlight
+          item.el.innerHTML = item.rawHtml.replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const marks = Array.from(item.el.querySelectorAll('mark.search-highlight'));
+          marks.forEach(mark => {
+            searchMatches.push({
+              mark,
+              el: item.el,
+              secTime,
+              secId
+            });
+          });
+
+          // Snippet creation
+          const matchPos = item.rawText.toLowerCase().indexOf(qLower);
+          const start = Math.max(0, matchPos - 30);
+          const end = Math.min(item.rawText.length, matchPos + query.length + 50);
+          const snippetText = item.rawText.slice(start, end);
+          const snippetHtml = escapeHtml(snippetText).replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const card = document.createElement('div');
+          card.className = 'search-result-item';
+          card.innerHTML = `
+            <div class="search-result-time">${secTime}</div>
+            <div class="search-result-snippet">...${snippetHtml}...</div>
+          `;
+          card.addEventListener('click', () => {
+            const targetIdx = searchMatches.findIndex(m => m.mark === marks[0]);
+            if (targetIdx >= 0) goToMatch(targetIdx);
+          });
+          searchDrawerList.appendChild(card);
+        }
+      });
+
+      if (searchMatches.length > 0) {
+        searchDrawer.classList.add('active');
+        goToMatch(0);
+      } else {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+      }
+    }
+
+    function goToMatch(idx) {
+      if (idx < 0 || idx >= searchMatches.length) return;
+      if (currentMatchIdx >= 0 && searchMatches[currentMatchIdx]) {
+        searchMatches[currentMatchIdx].mark.classList.remove('active-match');
+      }
+      currentMatchIdx = idx;
+      const target = searchMatches[currentMatchIdx];
+      target.mark.classList.add('active-match');
+      searchCount.textContent = `${currentMatchIdx + 1} / ${searchMatches.length}`;
+
+      // Highlight active drawer item
+      const drawerItems = searchDrawerList.querySelectorAll('.search-result-item');
+      drawerItems.forEach(di => di.classList.remove('active'));
+
+      target.mark.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+
+    searchToggleBtn.addEventListener('click', () => {
+      if (searchBar.classList.contains('active')) {
+        closeSearch();
+      } else {
+        openSearch();
+      }
+    });
+
+    let debounceTimer;
+    searchInput.addEventListener('input', (e) => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => {
+        performSearch(e.target.value);
+      }, 200);
+    });
+
+    searchClearBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      performSearch('');
+      searchInput.focus();
+    });
+
+    searchNextBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const nextIdx = (currentMatchIdx + 1) % searchMatches.length;
+      goToMatch(nextIdx);
+    });
+
+    searchPrevBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const prevIdx = (currentMatchIdx - 1 + searchMatches.length) % searchMatches.length;
+      goToMatch(prevIdx);
+    });
+
+    searchInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        if (e.shiftKey) {
+          searchPrevBtn.click();
+        } else {
+          searchNextBtn.click();
+        }
+      } else if (e.key === 'Escape') {
+        closeSearch();
+      }
+    });
+
+    searchCloseBtn.addEventListener('click', closeSearch);
+    drawerCloseBtn.addEventListener('click', () => searchDrawer.classList.remove('active'));
+
+    window.addEventListener('keydown', (e) => {
+      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'f') {
+        e.preventDefault();
+        openSearch();
+      } else if (e.key === 'Escape') {
+        if (searchBar.classList.contains('active')) closeSearch();
+      }
     });
   </script>
 </body>

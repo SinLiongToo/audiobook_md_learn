@@ -453,47 +453,45 @@ This isn’t just about feeling better. It’s about redesigning how you live yo
 
 I can’t wait for you to discover the space and freedom to experience your life the way you’ve always wanted, on your terms. Let’s begin.
 
-#### Chapter 2.
+#### Chapter 2. Getting Started. Let them plus let me. Not too long after I discovered the let them theory, I was sitting on my couch, scrolling through social media, when I saw a photo of an old friend of mine.
 
-Getting Started. Let them plus let me. Not too long after I discovered the let them theory, I was sitting on my couch, scrolling through social media, when I saw a photo of an old friend of mine. She looked fantastic.
+She looked fantastic. I glanced down to read the caption, where she was describing an amazing weekend she’d just had with her friends. And I could tell she meant it. As I stared at the photo, I admired how tan, happy, relaxed, and refreshed she looked.
 
-I glanced down to read the caption, where she was describing an amazing weekend she’d just had with her friends. And I could tell she meant it. As I stared at the photo, I admired how tan, happy, relaxed, and refreshed she looked. And I found myself thinking, wow.
+And I found myself thinking, wow. I could really use a weekend like that. Hell, I could just use a spray tan. I started swiping through the carousel of photos and realized I was seeing photo after photo that showed an epic girl’s weekend away.
 
-I could really use a weekend like that. Hell, I could just use a spray tan. I started swiping through the carousel of photos and realized I was seeing photo after photo that showed an epic girl’s weekend away. Brunch.
+Brunch. Dancing. Shopping. Laughter.
 
-Dancing. Shopping. Laughter. Swimming.
+Swimming. Cocktails. Then I took my thumb and my pointer finger and pinched so I could zoom in for a closer look at the group shot, only to realize that I knew every single one of the women smiling back at me on my screen. My heart sank.
 
-Cocktails. Then I took my thumb and my pointer finger and pinched so I could zoom in for a closer look at the group shot, only to realize that I knew every single one of the women smiling back at me on my screen. My heart sank. My friends had all gone away together.
+My friends had all gone away together. You know that awful feeling in your stomach, the one that hits you when you realize you’ve been left out. It’s like a punch. You try to brush it off, telling yourself it’s not a big deal, but the hurt is real.
 
-You know that awful feeling in your stomach, the one that hits you when you realize you’ve been left out. It’s like a punch. You try to brush it off, telling yourself it’s not a big deal, but the hurt is real. I should have put my phone down, but I didn’t.
+I should have put my phone down, but I didn’t. I looked through those photos one by one, seeing a girl’s trip through the eyes of the very same women who I had raised my kids with in our small suburban town, I tried not to let it bother me. But it did. My mind started filling in all the details.
 
-I looked through those photos one by one, seeing a girl’s trip through the eyes of the very same women who I had raised my kids with in our small suburban town, I tried not to let it bother me. But it did. My mind started filling in all the details. I imagined how much fun they were having and how close they had become.
+I imagined how much fun they were having and how close they had become. I had known these women for years. We bonded over barbecues, carpools, soccer games, date nights with. Our spouses and hard conversations about parenthood.
 
-I had known these women for years. We bonded over barbecues, carpools, soccer games, date nights with. Our spouses and hard conversations about parenthood. So naturally I started to spiral.
+So naturally I started to spiral. I’m talking full stalker mode. I sat there on that same spot on the couch and felt it meld to my back as I poured over each and every one of their accounts. Five minutes before I had been perfectly fine, but now well now I found myself feeling the familiar swirl of emotions take over, rejection, insecurity, confusion.
 
-I’m talking full stalker mode. I sat there on that same spot on the couch and felt it meld to my back as I poured over each and every one of their accounts. Five minutes before I had been perfectly fine, but now well now I found myself feeling the familiar swirl of emotions take over, rejection, insecurity, confusion. When did they plan this?
+When did they plan this? Why wasn’t I included? Why am I never invited anywhere? When was the last time I went away with friends?
 
-Why wasn’t I included? Why am I never invited anywhere? When was the last time I went away with friends? As I kept on scrolling through their photos, turning those questions over and over in my head, Chris walked into the room, took one look at me, and asked, what’s wrong?
+As I kept on scrolling through their photos, turning those questions over and over in my head, Chris walked into the room, took one look at me, and asked, what’s wrong? I sighed and told him the truth. I just found out a bunch of my girlfriends went away for the weekend on a really fun trip. I obviously wasn’t invited.
 
-I sighed and told him the truth. I just found out a bunch of my girlfriends went away for the weekend on a really fun trip. I obviously wasn’t invited. That sucks, he said.
+That sucks, he said. Maybe I did something wrong, I said. Maybe they’re mad at me. He crossed his arms and asked me, why do you care so much?
 
-Maybe I did something wrong, I said. Maybe they’re mad at me. He crossed his arms and asked me, why do you care so much? I looked at him.
+I looked at him. It’s not like you’re close friends with them anymore, Mel. He was right. I knew he was.
 
-It’s not like you’re close friends with them anymore, Mel. He was right. I knew he was. But I still felt this urge to reach out and smooth things over.
+But I still felt this urge to reach out and smooth things over. I’m sure you’ve experienced this before. You find out that you weren’t included in something, and all you want is some kind of reassurance that there wasn’t something you had done wrong. Because honestly I didn’t know.
 
-I’m sure you’ve experienced this before. You find out that you weren’t included in something, and all you want is some kind of reassurance that there wasn’t something you had done wrong. Because honestly I didn’t know. And if you are anything like me, when it happens you immediately assume that you have done something wrong.
+And if you are anything like me, when it happens you immediately assume that you have done something wrong. As I sat there on the couch racking my brain for any evidence as to why I wasn’t included, I couldn’t think of anything. And that made me even more nervous. I mean, sure, we had known each other for years.
 
-As I sat there on the couch racking my brain for any evidence as to why I wasn’t included, I couldn’t think of anything. And that made me even more nervous. I mean, sure, we had known each other for years. We had gone through early motherhood together, we had lived a lot of life together, and I really liked everyone who was on that trip.
+We had gone through early motherhood together, we had lived a lot of life together, and I really liked everyone who was on that trip. But, at the same time, I hadn’t really spent time with them as a group in a long, long time. I had seen them around town at large gatherings, but I hadn’t invested in those individual friendships, and I hadn’t planned anything fun or reached out to them recently either. Intellectually, I knew this, but emotionally I was devastated.
 
-But, at the same time, I hadn’t really spent time with them as a group in a long, long time. I had seen them around town at large gatherings, but I hadn’t invested in those individual friendships, and I hadn’t planned anything fun or reached out to them recently either. Intellectually, I knew this, but emotionally I was devastated. I felt like I was back in middle school again, the one left out of the sleepover, the one who didn’t make the team, or who wasn’t part of the inside joke.
+I felt like I was back in middle school again, the one left out of the sleepover, the one who didn’t make the team, or who wasn’t part of the inside joke. Putting the theory into practice. I felt myself wanting to reach out to them and fix it. Call, text.
 
-Putting the theory into practice. I felt myself wanting to reach out to them and fix it. Call, text. Anything to make the anxiety go away.
+Anything to make the anxiety go away. That’s when those two words came in and saved me from myself. Let them. Told me would have obsessed over this for days.
 
-That’s when those two words came in and saved me from myself. Let them. Told me would have obsessed over this for days. For weeks, really.
+For weeks, really. My emotions would have gotten the best of me. I would have tried to pretend it didn’t bother me. I would have tried to convince myself that I didn’t care.
 
-My emotions would have gotten the best of me. I would have tried to pretend it didn’t bother me. I would have tried to convince myself that I didn’t care. I would have tried to rationalize it over and over in my mind.
-
-I would have turned my friends into villains to make me feel better. All of which would have made me feel worse and withdraw even more from these women who
+I would have tried to rationalize it over and over in my mind. I would have turned my friends into villains to make me feel better. All of which would have made me feel worse and withdraw even more from these women who
 
 
 <a id="sec-005028"></a>
@@ -675,21 +673,19 @@ Working with someone else’s emotional reactions. Overcoming chronic comparison
 
 Managing stress.
 
-#### Chapter 3.
+#### Chapter 3. Shocker. Life is stressful. The fastest and most effective way to start using the let them theory is to rise above the countless tiny stresses you face every day.
 
-Shocker. Life is stressful. The fastest and most effective way to start using the let them theory is to rise above the countless tiny stresses you face every day. You know the ones I’m talking about, the never ending notifications on your phone, the slow internet connections, the unexpected changes in plans, the endless meetings at work, the inconsiderate behavior of other people, the long lines, the slow walkers.
+You know the ones I’m talking about, the never ending notifications on your phone, the slow internet connections, the unexpected changes in plans, the endless meetings at work, the inconsiderate behavior of other people, the long lines, the slow walkers. These small annoyances may seem insignificant, but they aren’t. I get that people can be annoying, and, yes, you have a lot on your plate. Modern life can feel like death by a thousand cuts, one thing after another that slowly drains your energy and stresses you out.
 
-These small annoyances may seem insignificant, but they aren’t. I get that people can be annoying, and, yes, you have a lot on your plate. Modern life can feel like death by a thousand cuts, one thing after another that slowly drains your energy and stresses you out. It’s not only easy to let it get to you, it’s dumb.
+It’s not only easy to let it get to you, it’s dumb. You can’t control how other adults behave, and stressing about it diminishes your power. You’ll never reach the full potential of your life if you continue to allow stupid things or rude people to drain your life force. Your time and energy are your most valuable resources, and in the next few chapters, you’ll learn how to use the let them theory to protect yourself from the unnecessary stress other people are currently causing in your life.
 
-You can’t control how other adults behave, and stressing about it diminishes your power. You’ll never reach the full potential of your life if you continue to allow stupid things or rude people to drain your life force. Your time and energy are your most valuable resources, and in the next few chapters, you’ll learn how to use the let them theory to protect yourself from the unnecessary stress other people are currently causing in your life. Just stop and ask yourself.
+Just stop and ask yourself. Why do you have to let a long line at the coffee shop ruin your day? Why is traffic putting you in a bad mood? Why do you feel overwhelmed when someone interrupts you during an important task?
 
-Why do you have to let a long line at the coffee shop ruin your day? Why is traffic putting you in a bad mood? Why do you feel overwhelmed when someone interrupts you during an important task? Why does the person talking loudly on their phone in public irritate you?
+Why does the person talking loudly on their phone in public irritate you? Why does a family member’s unsolicited advice feel like a personal attack? Why does someone else’s slow pace in a busy walkway make you feel rushed? It happens to me too.
 
-Why does a family member’s unsolicited advice feel like a personal attack? Why does someone else’s slow pace in a busy walkway make you feel rushed? It happens to me too. Just the other day, I went to my favorite garden center to pick up some plants.
+Just the other day, I went to my favorite garden center to pick up some plants. There, the cashier was moving so slowly. There were only two lanes open and about five people waiting in each. Beep.
 
-There, the cashier was moving so slowly. There were only two lanes open and about five people waiting in each. Beep. Beep.
-
-Beep.
+Beep. Beep.
 
 
 <a id="sec-011535"></a>
@@ -937,11 +933,11 @@ Using the let them theory, you protect yourself from the stress other people hav
 
 When you say let me, you reset your stress response and take responsibility for how you respond. It’s time to reclaim all your time and energy for what matters most to you. Fearing Other People’s Opinions.
 
-#### Chapter 5.
+#### Chapter 5. Let Them Think Bad Thoughts About You.
 
-Let Them Think Bad Thoughts About You. Poet Mary Oliver asked this question in her poem The Summer Day, Tell Me, What is it you plan to do with your one wild and precious life? I don’t know what your answer to Mary Oliver’s question is, but I do know this. Whatever it is that you plan to do, other people are going to have an opinion about it.
+Poet Mary Oliver asked this question in her poem The Summer Day, Tell Me, What is it you plan to do with your one wild and precious life? I don’t know what your answer to Mary Oliver’s question is, but I do know this. Whatever it is that you plan to do, other people are going to have an opinion about it. In the next few chapters, you’ll learn how to use the let them theory to stop allowing other people’s opinions to hold you back from pursuing what you want and limiting the potential of your one wild and precious life.
 
-In the next few chapters, you’ll learn how to use the let them theory to stop allowing other people’s opinions to hold you back from pursuing what you want and limiting the potential of your one wild and precious life. You have no idea how big of a problem this is. Neither did I. It’s easy to put on a facade that you don’t care what other people think, but the reality is, we all do.
+You have no idea how big of a problem this is. Neither did I. It’s easy to put on a facade that you don’t care what other people think, but the reality is, we all do.
 
 The truth is, people will have negative opinions about you and there is absolutely nothing you can do to change this fact. When you allow your fear of what other people think to stop you from doing what you want to do, you become a prisoner to other people’s opinions. This fear impacts every aspect of your life. It makes you procrastinate.
 
@@ -1301,19 +1297,19 @@ When you align your thoughts and actions with your values, you will be proud of 
 
 You get one wild and precious life, so go live it in a way that makes you proud. Dealing with someone else’s emotional reactions.
 
-#### Chapter 7 When Grown Ups Throw Tantrums. Now let’s dive into how you have allowed other people’s emotional reactions to influence your decisions.
+#### Chapter 7 When Grown Ups Throw Tantrums. Now let’s dive into how you have allowed other people’s emotional reactions to influence your decisions. The reality is adults are as emotional as children, and it is not your responsibility to manage someone else’s reactions. As long as you let other people’s emotional immaturity dictate your choices, you’ll always come last in your own life.
 
-The reality is adults are as emotional as children, and it is not your responsibility to manage someone else’s reactions. As long as you let other people’s emotional immaturity dictate your choices, you’ll always come last in your own life. I had no idea how big of a problem this was for me, and neither do you. From navigating guilt trips, to fearing disappointment, to worrying about someone’s reaction or if now is the right time, to tiptoeing around someone’s mood, you’re allowing other people’s behaviors and reactions to drain your energy.
+I had no idea how big of a problem this was for me, and neither do you. From navigating guilt trips, to fearing disappointment, to worrying about someone’s reaction or if now is the right time, to tiptoeing around someone’s mood, you’re allowing other people’s behaviors and reactions to drain your energy. But it goes deeper than that. Whether passive-aggressive behavior, guilt trips, and emotional outbursts are driving your decisions.
 
-But it goes deeper than that. Whether passive-aggressive behavior, guilt trips, and emotional outbursts are driving your decisions. This is why you say yes when you really want to say no. You cave when you should stand firm. This is why it’s hard for you to set boundaries.
+This is why you say yes when you really want to say no. You cave when you should stand firm. This is why it’s hard for you to set boundaries. This is why you walk on eggshells when certain people are in a bad mood. Sure, it feels easier in the moment to give in to your sister’s guilt trip.
 
-This is why you walk on eggshells when certain people are in a bad mood. Sure, it feels easier in the moment to give in to your sister’s guilt trip. But, in the long run, you lose a crucial piece of yourself. When every interaction with your girlfriend or boyfriend leaves you emotionally exhausted, ask yourself this.
+But, in the long run, you lose a crucial piece of yourself. When every interaction with your girlfriend or boyfriend leaves you emotionally exhausted, ask yourself this. Why are you always the one who has to adjust? Why do you take on the responsibility for someone else’s happiness?
 
-Why are you always the one who has to adjust? Why do you take on the responsibility for someone else’s happiness? At the expense of your own. You will always come last if you let other people’s emotional immaturity have power over you.
+At the expense of your own. You will always come last if you let other people’s emotional immaturity have power over you. Instead of taking on the weight of someone’s disappointment, anger, or guilt, you’ll learn a liberating new approach, just. Let them react.
 
-Instead of taking on the weight of someone’s disappointment, anger, or guilt, you’ll learn a liberating new approach, just. Let them react. When you say let them, you give other people the space to feel their emotions without needing to fix them. When you say let me, you do what’s right for you, even if it upsets someone, which is how you take responsibility for your own life.
+When you say let them, you give other people the space to feel their emotions without needing to fix them. When you say let me, you do what’s right for you, even if it upsets someone, which is how you take responsibility for your own life. It’s time to stop being manipulated by someone else’s guilt, anger, or disappointment. Other people’s emotional reactions are not your responsibility to manage.
 
-It’s time to stop being manipulated by someone else’s guilt, anger, or disappointment. Other people’s emotional reactions are not your responsibility to manage. I learned this from my therapist and Davin, Ph. D., who is a depth psychologist, writer, and the smartest woman I’ve ever met.
+I learned this from my therapist and Davin, Ph. D., who is a depth psychologist, writer, and the smartest woman I’ve ever met.
 
 One day, I was talking with her about creating boundaries with a particularly difficult family member. The thing is, I don’t want this person to bother me. It’s just that they have this way of constantly making it about them. I bet you have someone in your family like this.
 
@@ -1453,37 +1449,35 @@ You will also never be able to control your emotional responses, because they ar
 
 So will learning how to let your own emotions rise and fall while still communicating what you need to, even when it is very painful to do so. And there will be times when making the right decision for yourself is going to be one of the hardest things you have to do in life.
 
-#### Chapter 8.
+#### Chapter 8. The right decision often feels wrong. Recently, a listener of the The Mel Robbins Podcast wrote to me with this question.
 
-The right decision often feels wrong. Recently, a listener of the The Mel Robbins Podcast wrote to me with this question. Mel, I’m engaged and soon to be married. The wedding is a few weeks away, and I know this should be one of the happiest moments of my life.
+Mel, I’m engaged and soon to be married. The wedding is a few weeks away, and I know this should be one of the happiest moments of my life. But it’s not. The closer we get to the wedding, the more my fiancée and I are fighting.
 
-But it’s not. The closer we get to the wedding, the more my fiancée and I are fighting. I can’t stop shaking this feeling of dread. Deep down, I am afraid I am making a huge mistake.
+I can’t stop shaking this feeling of dread. Deep down, I am afraid I am making a huge mistake. I don’t know what to do. The invitations are out.
 
-I don’t know what to do. The invitations are out. My parents and hers have already put down the deposits for everything. I don’t want to disappoint my family.
+My parents and hers have already put down the deposits for everything. I don’t want to disappoint my family. I don’t want my parents to lose their money. I don’t want to break my fiancée’s heart.
 
-I don’t want my parents to lose their money. I don’t want to break my fiancée’s heart. I don’t want her parents and everyone else we know to be mad at me. How do I call this off?
+I don’t want her parents and everyone else we know to be mad at me. How do I call this off? Just reading the question, I could feel my heart seize. I bet yours did too.
 
-Just reading the question, I could feel my heart seize. I bet yours did too. When the stakes feel this high, the right answer always feels wrong. On the surface, the answer is simple, even though it doesn’t feel like it.
+When the stakes feel this high, the right answer always feels wrong. On the surface, the answer is simple, even though it doesn’t feel like it. He should call it off. If you’re dreading the wedding, you are making a mistake.
 
-He should call it off. If you’re dreading the wedding, you are making a mistake. If you can’t stop thinking about calling it off, then you should. Just because the right decision seems clear, doesn’t always mean it’s an easy decision to make.
+If you can’t stop thinking about calling it off, then you should. Just because the right decision seems clear, doesn’t always mean it’s an easy decision to make. That’s because the human experience is largely an emotional one. What seems logical on the surface doesn’t feel logical when you know it will cause other people a lot of pain.
 
-That’s because the human experience is largely an emotional one. What seems logical on the surface doesn’t feel logical when you know it will cause other people a lot of pain. Too often in life, when you’re in that dilemma, you choose to inflict the pain on yourself instead of making a decision that you know is right for you but is going to be painful for other people to accept. The groom who wrote to me knows, intellectually, what he needs to do.
+Too often in life, when you’re in that dilemma, you choose to inflict the pain on yourself instead of making a decision that you know is right for you but is going to be painful for other people to accept. The groom who wrote to me knows, intellectually, what he needs to do. The problem is his emotions. He wrote to me because he is seeking.
 
-The problem is his emotions. He wrote to me because he is seeking. Reassurance. He has absolutely no idea how to handle what his feeling, or how to deal with the emotional upset it will trigger in other people.
+Reassurance. He has absolutely no idea how to handle what his feeling, or how to deal with the emotional upset it will trigger in other people. Egonizing over a difficult decision is a mentally healthy response to a very difficult situation. The fact that he is worried about other people is a sign that he’s a good person.
 
-Egonizing over a difficult decision is a mentally healthy response to a very difficult situation. The fact that he is worried about other people is a sign that he’s a good person. There will be many times in your life when people are going to be mad, disappointed, or heartbroken by the things you say or do. There just will be.
+There will be many times in your life when people are going to be mad, disappointed, or heartbroken by the things you say or do. There just will be. You have to be able to separate yourself from your emotions and the emotional reactions of others when you’re determining the right decision to make. You can’t let your emotions drive your decisions, because they will often stop you from making the right decisions.
 
-You have to be able to separate yourself from your emotions and the emotional reactions of others when you’re determining the right decision to make. You can’t let your emotions drive your decisions, because they will often stop you from making the right decisions. This is a hell of a lot more difficult than it seems. It can be devastating to make the right decisions. It can be absolutely heartbreaking to be honest with someone.
+This is a hell of a lot more difficult than it seems. It can be devastating to make the right decisions. It can be absolutely heartbreaking to be honest with someone. It can feel like that decision might destroy you from the inside out, especially when it hurts someone you love. Just take the situation with our groom who wants to call off his wedding and doesn’t know how.
 
-It can feel like that decision might destroy you from the inside out, especially when it hurts someone you love. Just take the situation with our groom who wants to call off his wedding and doesn’t know how. You probably felt a wave of dread wash over you as you read through the message, and you and I don’t even know this person. That’s how powerful emotions are.
+You probably felt a wave of dread wash over you as you read through the message, and you and I don’t even know this person. That’s how powerful emotions are. You feel the weight in your chest as you picture him sitting his fiancé down and saying, We have to talk. You can imagine him making the phone call and telling his parents.
 
-You feel the weight in your chest as you picture him sitting his fiancé down and saying, We have to talk. You can imagine him making the phone call and telling his parents. You can almost hear the sobbing as his fiancé buries her face into her hands. Your heart tightens as you picture the grief clogging her throat when she calls her parents.
+You can almost hear the sobbing as his fiancé buries her face into her hands. Your heart tightens as you picture the grief clogging her throat when she calls her parents. You can feel the anger swelling up in her dad’s chest as he experiences the heartbreak of his baby girl. Dad, he ended it, she might say.
 
-You can feel the anger swelling up in her dad’s chest as he experiences the heartbreak of his baby girl. Dad, he ended it, she might say. He called off the wedding. You’re just reading and thinking about the situation, and it’s creating an emotional reaction inside of you.
+He called off the wedding. You’re just reading and thinking about the situation, and it’s creating an emotional reaction inside of you. And this is why letting people down and breaking their hearts is one of the hardest things you’ll have to do in life. Adults are allowed to feel how they’re going to feel, and they’re allowed to be angry, broken, devastated, overwhelmed, embarrassed, and extremely pissed off at you.
 
-And this is why letting people down and breaking their hearts is one of the hardest things you’ll have to do in life. Adults are allowed to feel how they’re going to feel, and they’re allowed to be angry, broken, devastated, overwhelmed, embarrassed, and extremely pissed off at you. You can’t control it. But you try to control it by avoiding the truth.
-
-We’ve all done this.
+You can’t control it. But you try to control it by avoiding the truth. We’ve all done this.
 
 
 <a id="sec-025618"></a>
@@ -1537,37 +1531,37 @@ You maintain your power when you stop taking on the burden of others' emotions a
 
 Overcoming chronic comparison.
 
-#### Chapter 9.
+#### Chapter 9. Yes, life isn’t fair.
 
-Yes, life isn’t fair. The truth is, life isn’t fair. But at some point, you’ve got to wake up, accept that fact, and stop obsessing over what other people have, what they look like, and what they’ve achieved. So let’s talk about something that every single person on this planet struggles with, allowing other people’s success to paralyze you.
+The truth is, life isn’t fair. But at some point, you’ve got to wake up, accept that fact, and stop obsessing over what other people have, what they look like, and what they’ve achieved. So let’s talk about something that every single person on this planet struggles with, allowing other people’s success to paralyze you. The reality is, you can’t control another person’s success, luck, or timing in life.
 
-The reality is, you can’t control another person’s success, luck, or timing in life. The only thing you can control is what you do with the example other people set and the actions you take next. When you see other people’s lives as evidence that you’re a failure, or you’re unattractive, or not good enough, you become your biggest obstacle. Mindlessly scrolling on social media, or feeling inferior to someone else makes you feel stuck, hopeless, and perpetually behind.
+The only thing you can control is what you do with the example other people set and the actions you take next. When you see other people’s lives as evidence that you’re a failure, or you’re unattractive, or not good enough, you become your biggest obstacle. Mindlessly scrolling on social media, or feeling inferior to someone else makes you feel stuck, hopeless, and perpetually behind. You are torturing yourself for no reason.
 
-You are torturing yourself for no reason. You’re letting other people paralyze you, which leads to procrastination and self-criticism. When you focus on how unfair life seems and compare yourself to others, you’re draining your motivation and keeping yourself from moving forward. It becomes a self-fulfilling prophecy.
+You’re letting other people paralyze you, which leads to procrastination and self-criticism. When you focus on how unfair life seems and compare yourself to others, you’re draining your motivation and keeping yourself from moving forward. It becomes a self-fulfilling prophecy. You are failing because of your chronic habit of comparing yourself.
 
-You are failing because of your chronic habit of comparing yourself. You are the problem. And the first step is accepting the truth. Life isn’t fair.
+You are the problem. And the first step is accepting the truth. Life isn’t fair. It’s just not.
 
-It’s just not. It’s not fair that you’re drowning in student debt because you couldn’t afford the tuition. It’s not fair that your sister looks like a supermodel and everyone flocks to her at the bars, while you’re sitting there off to the side buying your own drinks. It’s not fair that your supervisor keeps giving you the crappy shift at work.
+It’s not fair that you’re drowning in student debt because you couldn’t afford the tuition. It’s not fair that your sister looks like a supermodel and everyone flocks to her at the bars, while you’re sitting there off to the side buying your own drinks. It’s not fair that your supervisor keeps giving you the crappy shift at work. It’s not fair that your country is torn apart by war.
 
-It’s not fair that your country is torn apart by war. It’s not fair that you were born diabetic and have had to manage your insulin for your entire life. It’s not fair that your friend has a nice house or apartment because their parents paid for it. It’s not fair that your colleague got promoted and you didn’t.
+It’s not fair that you were born diabetic and have had to manage your insulin for your entire life. It’s not fair that your friend has a nice house or apartment because their parents paid for it. It’s not fair that your colleague got promoted and you didn’t. It’s not fair that you just got diagnosed with breast cancer.
 
-It’s not fair that you just got diagnosed with breast cancer. It’s not fair that your friend seemingly has the perfect family life. While yours is so bad, they wouldn’t even put you guys on a reality show. It’s not fair that your friend has a fast metabolism and can eat whatever she wants.
+It’s not fair that your friend seemingly has the perfect family life. While yours is so bad, they wouldn’t even put you guys on a reality show. It’s not fair that your friend has a fast metabolism and can eat whatever she wants. It’s not fair that you have asthma because you grew up in a polluted area.
 
-It’s not fair that you have asthma because you grew up in a polluted area. It’s not fair that the cost of living and gas prices keep rising. It’s not fair that your face is breaking out with acne. You’re right.
+It’s not fair that the cost of living and gas prices keep rising. It’s not fair that your face is breaking out with acne. You’re right. It’s not fair.
 
-It’s not fair. The fact is, every human being is dealt a different hand in life and you can’t control the cards that someone else is holding. The more time you spend staring at someone else, the more you miss the entire point of the game. In life, you’re not playing against anyone.
+The fact is, every human being is dealt a different hand in life and you can’t control the cards that someone else is holding. The more time you spend staring at someone else, the more you miss the entire point of the game. In life, you’re not playing against anyone. You’re playing with them.
 
-You’re playing with them. Someone will always have better cards than yours. It’s not about the hand you’ve been dealt, it’s how you play it. And while you’ve been busy comparing yourself to everyone else, you’ve missed one of the greatest secrets in life.
+Someone will always have better cards than yours. It’s not about the hand you’ve been dealt, it’s how you play it. And while you’ve been busy comparing yourself to everyone else, you’ve missed one of the greatest secrets in life. Other people teach you how to be a better player, and that’s how you win.
 
-Other people teach you how to be a better player, and that’s how you win. It’s true, a lot of people have been dealt a luckier or more successful hand of cards. Let them. They are going to achieve things faster.
+It’s true, a lot of people have been dealt a luckier or more successful hand of cards. Let them. They are going to achieve things faster. They have a leg up.
 
-They have a leg up. They have more resources. They have more support. There is nothing you can do to change it.
+They have more resources. They have more support. There is nothing you can do to change it. It’s a fact.
 
-It’s a fact. Let them. Because worrying about it, or making yourself feel bad, is an insult to your intelligence. You can figure out how to win.
+Let them. Because worrying about it, or making yourself feel bad, is an insult to your intelligence. You can figure out how to win. You can learn how to work with what you’ve got and start where you are and create anything you want in life.
 
-You can learn how to work with what you’ve got and start where you are and create anything you want in life. But you will never do that if you give all of your power to this stupid and toxic habit of comparing yourself to other people. Stop it. Wishing everyone flocked to you instead of your sister at the bar, or that it was you on those European vacations, or that you were taller or had a healthier complexion, or a better job, or the wedding proposal, or more money isn’t going to make it appear.
+But you will never do that if you give all of your power to this stupid and toxic habit of comparing yourself to other people. Stop it. Wishing everyone flocked to you instead of your sister at the bar, or that it was you on those European vacations, or that you were taller or had a healthier complexion, or a better job, or the wedding proposal, or more money isn’t going to make it appear. It just makes your confidence disappear.
 
-It just makes your confidence disappear. Any world-class card player will tell you, it’s not about the hand you’ve been dealt.
+Any world-class card player will tell you, it’s not about the hand you’ve been dealt.
 
 
 <a id="sec-030622"></a>
@@ -1631,11 +1625,9 @@ Hold on to your power, because you’re going to need it to unlock the potential
 
 This type of comparison is a gold mine for you.
 
-#### Chapter 10.
+#### Chapter 10. How to Make Comparison Your Teacher. You just learned about the first type of comparison, which feels like self-torture. Now let’s talk about the second type, comparison that is teaching you something.
 
-How to Make Comparison Your Teacher. You just learned about the first type of comparison, which feels like self-torture. Now let’s talk about the second type, comparison that is teaching you something. And here’s how you know that comparison is good, you’re looking at aspects of someone else’s life or success that you could create for yourself.
-
-With time and consistent effort, these aspects of your life, career, or health could be changed. The list of things you could change is endless, from your job to creating a better friend group to finding your purpose to spending more time with your kids to vacations to creating financial freedom, getting up earlier, finding and creating the greatest love story of your life, being an amazing cook. or getting in the best shape of your life, buying a huge ring, a fancy watch, or a sports car, renovating your kitchen, building a second home, creating a better relationship with your.
+And here’s how you know that comparison is good, you’re looking at aspects of someone else’s life or success that you could create for yourself. With time and consistent effort, these aspects of your life, career, or health could be changed. The list of things you could change is endless, from your job to creating a better friend group to finding your purpose to spending more time with your kids to vacations to creating financial freedom, getting up earlier, finding and creating the greatest love story of your life, being an amazing cook. or getting in the best shape of your life, buying a huge ring, a fancy watch, or a sports car, renovating your kitchen, building a second home, creating a better relationship with your.
 
 Step parents, developing healthier habits, writing a book, healing your trauma, gaining more social media followers, having better boundaries and more time for yourself, launching a business, or developing a better reputation. I wrote a long list on purpose. The fact is, 95% of the things that you want in life are things that you can create if you are willing to work hard, be consistent and disciplined and patient. Very little about your life is fixed in stone.
 
@@ -1933,11 +1925,11 @@ You’ll start to feel like something is off or conversations are forced. Trust 
 
 That is exactly what happened to me. All of a sudden, I found myself on the outside of what I thought was my closest friend group. I didn’t know what to do, and I definitely did not handle it well.
 
-#### Chapter 12.
+#### Chapter 12. Why Some Friendships Naturally Fade.
 
-Why Some Friendships Naturally Fade. Here’s What Happened. One of the most fun times in my life was when I was a young mom of three. We lived in a neighborhood with a huge group of friends, and were all raising our kids together, hanging out with each other, and building a really incredible community.
+Here’s What Happened. One of the most fun times in my life was when I was a young mom of three. We lived in a neighborhood with a huge group of friends, and were all raising our kids together, hanging out with each other, and building a really incredible community. We all had kids the same age who went to the same public elementary school.
 
-We all had kids the same age who went to the same public elementary school. It was one of the most social and fun periods of my life, because we were bumping into our friends all the time because of the kids, school, and their schedules overlapping. I honestly felt like I was back in high school again with constant plans, invitations, and groups of people to hang out with. There were two couples in particular that we grew very close to, and we did tons of things together with our kids, going away for the weekend, Halloween trick-or-treating, coaching Saturday morning town soccer, Sunday brunches, football parties, barbecuing all the time, you name it.
+It was one of the most social and fun periods of my life, because we were bumping into our friends all the time because of the kids, school, and their schedules overlapping. I honestly felt like I was back in high school again with constant plans, invitations, and groups of people to hang out with. There were two couples in particular that we grew very close to, and we did tons of things together with our kids, going away for the weekend, Halloween trick-or-treating, coaching Saturday morning town soccer, Sunday brunches, football parties, barbecuing all the time, you name it.
 
 Chris and I were genuinely happy. It felt like pure luck that we had moved into a suburban town not knowing anyone, and truly struck gold because we met so many amazing couples who we loved spending time with, and our kids loved their kids too. It was too good to be true. At the same time, one of our closest friends was living in a different state and always remarked on how jealous they were of our community and our large, fun circle of friends.
 
@@ -2039,37 +2031,37 @@ In fact, you’ll soon see that you haven’t even met some of your favorite peo
 
 I’m going to tell you the whole story, and you and I are going to really focus on the let me part of friendship.
 
-#### Chapter 13.
+#### Chapter 13. How to create the best friendships of your life. When we moved to our new town, I felt so lonely. I was brand new to the area.
 
-How to create the best friendships of your life. When we moved to our new town, I felt so lonely. I was brand new to the area. I knew no one my age.
+I knew no one my age. And I was miserable. At some point in your life, you are going to experience this exact same thing. Every life change creates changes in your friendships.
 
-And I was miserable. At some point in your life, you are going to experience this exact same thing. Every life change creates changes in your friendships. You’ll experience it if you go through a breakup or divorce and people pick sides.
+You’ll experience it if you go through a breakup or divorce and people pick sides. You’ll experience it if you or a loved one go through a major struggle and people either have no idea how to support you or are uncomfortable, so they distance themselves. You’ll experience this when you have to move for your career or education. And even if you’re super excited about the change, you’re going to your dream school or moving to your dream city.
 
-You’ll experience it if you or a loved one go through a major struggle and people either have no idea how to support you or are uncomfortable, so they distance themselves. You’ll experience this when you have to move for your career or education. And even if you’re super excited about the change, you’re going to your dream school or moving to your dream city. The reality is that when you get there, you’ll have no friends.
+The reality is that when you get there, you’ll have no friends. The first time you may have experienced this in your life was when you went to college. You get to college and you expect to meet all your best friends right away. And that is not what happens.
 
-The first time you may have experienced this in your life was when you went to college. You get to college and you expect to meet all your best friends right away. And that is not what happens. Everyone is nervous and latches onto the first person they meet and they try to form a group.
+Everyone is nervous and latches onto the first person they meet and they try to form a group. Within a week, it feels like everyone is already in a friend group. But if you think about your college or even high school friend group, by the time you graduated, your friend group changed a lot. That’s because it takes time to find your people.
 
-Within a week, it feels like everyone is already in a friend group. But if you think about your college or even high school friend group, by the time you graduated, your friend group changed a lot. That’s because it takes time to find your people. Give it a year.
+Give it a year. When my daughter went to college, she called me crying all the time, saying, I’m at the wrong school. My people are not here. I think I need to transfer.
 
-When my daughter went to college, she called me crying all the time, saying, I’m at the wrong school. My people are not here. I think I need to transfer. And I constantly told her to hang up the phone, go to the cafeteria, and ask to sit with someone who looked interesting.
+And I constantly told her to hang up the phone, go to the cafeteria, and ask to sit with someone who looked interesting. You have to put yourself out there. And most importantly, you must give it a year. She hated that advice.
 
-You have to put yourself out there. And most importantly, you must give it a year. She hated that advice. She called me all year long.
+She called me all year long. She felt so lonely and desperate. And the two friends she had made early on felt the exact same way. High Lexi and Michaela.
 
-She felt so lonely and desperate. And the two friends she had made early on felt the exact same way. High Lexi and Michaela. To their credit, they all kept putting themselves out there their entire first year.
+To their credit, they all kept putting themselves out there their entire first year. I know my daughter, Sawyer, was asking to sit with people, deeming people online to get lunch. She joined a million clubs, tried out for the club lacrosse team, got cut, went to events on campus, but nothing clicked. It really took her a full year of trying.
 
-I know my daughter, Sawyer, was asking to sit with people, deeming people online to get lunch. She joined a million clubs, tried out for the club lacrosse team, got cut, went to events on campus, but nothing clicked. It really took her a full year of trying. And then, in the last few weeks of school, she met one of her now closest friends, Mary Margaret, who then introduced her, and her two friends, to seven other girls who to this day are her people.
+And then, in the last few weeks of school, she met one of her now closest friends, Mary Margaret, who then introduced her, and her two friends, to seven other girls who to this day are her people. She really had to give it a year. And when I moved, somehow I forgot my own advice. I needed to be reminded it would take a year of trying.
 
-She really had to give it a year. And when I moved, somehow I forgot my own advice. I needed to be reminded it would take a year of trying. Within a week of moving, I was convinced that I had made a huge mistake.
+Within a week of moving, I was convinced that I had made a huge mistake. I felt bad for myself for an entire year. I cried all the time. And I was convinced I would never find a person that I would connect with or relate to.
 
-I felt bad for myself for an entire year. I cried all the time. And I was convinced I would never find a person that I would connect with or relate to. But what was I doing during that first year?
+But what was I doing during that first year? Nothing. Sitting in my house, feeling lonely. I was not putting myself out there at all.
 
-Nothing. Sitting in my house, feeling lonely. I was not putting myself out there at all. I was not looking for opportunities to connect.
+I was not looking for opportunities to connect. I played sad music and felt bad for myself. I cried and complained to my husband. I was closed off.
 
-I played sad music and felt bad for myself. I cried and complained to my husband. I was closed off. And I made the mistake of expecting friendship to fall out of the sky and land in my lap.
+And I made the mistake of expecting friendship to fall out of the sky and land in my lap. It doesn’t work like that. I’m sure you’ve had an experience like this too. Maybe you moved, or changed jobs, or went through a breakup, or took care of a family member who was struggling, or became an empty nester and felt like you were starting over.
 
-It doesn’t work like that. I’m sure you’ve had an experience like this too. Maybe you moved, or changed jobs, or went through a breakup, or took care of a family member who was struggling, or became an empty nester and felt like you were starting over. In those moments, I’m sure you felt pretty lonely.
+In those moments, I’m sure you felt pretty lonely. This is normal. And even if you have great friends who are far away, you feel alone if you don’t have any friends near you. It got so bad for me that I was on a walk one day with my two adult daughters, sobbing about how I had no friends, and how I hated where we lived.
 
-This is normal. And even if you have great friends who are far away, you feel alone if you don’t have any friends near you. It got so bad for me that I was on a walk one day with my two adult daughters, sobbing about how I had no friends, and how I hated where we lived. We passed by the house of a woman I had met once six months prior, and I mentioned to my
+We passed by the house of a woman I had met once six months prior, and I mentioned to my
 
 
 <a id="sec-041147"></a>
@@ -2213,35 +2205,35 @@ cultivating the kind of friendships that reflect your values and bring you happi
 
 All you have to do is go first. Motivating other people to change.
 
-#### Chapter 14.
+#### Chapter 14. People only change when they feel like it. One of the most common questions that has been asked over the years is, how do I motivate someone else to change?
 
-People only change when they feel like it. One of the most common questions that has been asked over the years is, how do I motivate someone else to change? You can’t. The reality is, people only change when they feel like changing.
+You can’t. The reality is, people only change when they feel like changing. It doesn’t matter how much you want someone to change. It doesn’t matter how valid your reasons are.
 
-It doesn’t matter how much you want someone to change. It doesn’t matter how valid your reasons are. Or that you are right in your opinion that they should change. Or how big the consequences are if they don’t change.
+Or that you are right in your opinion that they should change. Or how big the consequences are if they don’t change. If someone doesn’t feel like changing, they won’t. And worse, when you pressure someone to change it just creates more tension, resentment, and distance in your relationships.
 
-If someone doesn’t feel like changing, they won’t. And worse, when you pressure someone to change it just creates more tension, resentment, and distance in your relationships. I’ll prove it to you. I want you to think about someone in your life whom you care about and you wish would change.
+I’ll prove it to you. I want you to think about someone in your life whom you care about and you wish would change. It could be anyone. Your mom.
 
-It could be anyone. Your mom. Your niece. Your roommate.
+Your niece. Your roommate. Your brother. Your husband.
 
-Your brother. Your husband. Your ex. Your kids.
+Your ex. Your kids. Your sister-in-law. Your best friend.
 
-Your sister-in-law. Your best friend. Your partner. Anyone.
+Your partner. Anyone. You wish they would get a better job, lose weight, be more motivated, wake up earlier, stick to a budget, pick up after themselves, stop dating losers, be more proactive, drink less, help take care of the dog, stop being so negative, change their views on politics, be more appreciative, stop smoking. Be more involved with their kids or stop leaving their dishes in the sink.
 
-You wish they would get a better job, lose weight, be more motivated, wake up earlier, stick to a budget, pick up after themselves, stop dating losers, be more proactive, drink less, help take care of the dog, stop being so negative, change their views on politics, be more appreciative, stop smoking. Be more involved with their kids or stop leaving their dishes in the sink. You may worry about them. You may not understand why they don’t see that this is an issue or why they aren’t motivated.
+You may worry about them. You may not understand why they don’t see that this is an issue or why they aren’t motivated. You’ve probably thought, why can’t they just do this thing, I am asking of them. I know exactly how you feel.
 
-You’ve probably thought, why can’t they just do this thing, I am asking of them. I know exactly how you feel. Here’s the truth. When you push someone, it only makes the person push back.
+Here’s the truth. When you push someone, it only makes the person push back. You’re working against the fundamental law of human nature. People need to feel in control of their decisions.
 
-You’re working against the fundamental law of human nature. People need to feel in control of their decisions. You want people in your life to change, but pressuring them creates resistance to it. You may be acting with the best of intentions, but it is yielding the worst result.
+You want people in your life to change, but pressuring them creates resistance to it. You may be acting with the best of intentions, but it is yielding the worst result. That’s because every time you fight against human nature you will lose. Using the let them theory, you’ll learn an entirely new approach to dealing with situations where you want someone else to change their behavior.
 
-That’s because every time you fight against human nature you will lose. Using the let them theory, you’ll learn an entirely new approach to dealing with situations where you want someone else to change their behavior. It’s true, you can’t make someone else change. But I never said you couldn’t influence them.
+It’s true, you can’t make someone else change. But I never said you couldn’t influence them. As I share examples from my life and walk you step by step through how to use the let them theory to influence someone else to change, I want you to keep your relationships and the people who are frustrating you in mind. Wishing someone would change.
 
-As I share examples from my life and walk you step by step through how to use the let them theory to influence someone else to change, I want you to keep your relationships and the people who are frustrating you in mind. Wishing someone would change. I wish you would take better care of yourself. A good friend of mine is married to, and deeply in love with, a guy who needs to get healthier.
+I wish you would take better care of yourself. A good friend of mine is married to, and deeply in love with, a guy who needs to get healthier. Maybe you’re in this situation with someone you love too. Over the years, she’s tried everything to get her husband to take control of his health.
 
-Maybe you’re in this situation with someone you love too. Over the years, she’s tried everything to get her husband to take control of his health. She’s asked, pleaded, hinted, and even occasionally broken down in tears about it in front of him. It worries her a lot.
+She’s asked, pleaded, hinted, and even occasionally broken down in tears about it in front of him. It worries her a lot. She’s gotten angry with him and made passive-aggressive comments. She’s signed him up for gym memberships.
 
-She’s gotten angry with him and made passive-aggressive comments. She’s signed him up for gym memberships. She’s bought him new sneakers. She’s cooked the healthy dinners.
+She’s bought him new sneakers. She’s cooked the healthy dinners. And she even got them a peloton to work out on at home. Nothing’s worked.
 
-And she even got them a peloton to work out on at home. Nothing’s worked. At this point, everything makes her mad. Whether it is his order off the menu, his resistance to working out, his post-dinner desserts, or the hours he spends watching television every night, it doesn’t matter what the poor guy does, it frustrates the hell out of her.
+At this point, everything makes her mad. Whether it is his order off the menu, his resistance to working out, his post-dinner desserts, or the hours he spends watching television every night, it doesn’t matter what the poor guy does, it frustrates the hell out of her.
 
 Now, to his credit, he’s tried. He’s started diets, he’s gone to the gym in spurts, and has even taken some peloton classes. But nothing lasts, and so he and his wife remain in this deadlock with each other about his health. He’s mad he won’t change, and is annoyed that she won’t stop nagging him.
 
@@ -2411,11 +2403,9 @@ I said you couldn’t change their behavior, but I never said you couldn’t inf
 
 Let them. Instead, use your influence by saying and doing the right thing at the right time, based on the research.
 
-#### Chapter 15.
+#### Chapter 15. Unlock the power of your influence. When you stop trying to pressure people to change and let them be, something magical happens.
 
-Unlock the power of your influence. When you stop trying to pressure people to change and let them be, something magical happens. You now have time and energy to unlock the power of your positive influence. People are social creatures that are highly influenced and inspired by the people around them.
-
-This has been proven over and over by decades of research on human behavior.
+You now have time and energy to unlock the power of your positive influence. People are social creatures that are highly influenced and inspired by the people around them. This has been proven over and over by decades of research on human behavior.
 
 
 <a id="sec-045205"></a>
@@ -2587,21 +2577,21 @@ By using the ABC loop to ask open-ended questions, model behavior change, and ce
 
 When you say let me, you use neuroscience to your advantage and unlock your power of influence to motivate someone else to change. Let adults be adults, and let your influence inspire them to change. Helping someone who is struggling.
 
-#### Chapter 16.
+#### Chapter 16. The more you rescue, the more they sink.
 
-The more you rescue, the more they sink. I know what you may be thinking, let adults be adults. But what if the person I’m trying to change is in serious trouble. What am I supposed to do, just let them spiral.
+I know what you may be thinking, let adults be adults. But what if the person I’m trying to change is in serious trouble. What am I supposed to do, just let them spiral. Let them drink and drive.
 
-Let them drink and drive. Of course not. If someone is doing something dangerous or self-destructive, you don’t just let them. You step in, take the keys, or do whatever is necessary to help because your response might just save their life, whether that’s calling for help or calling the police or driving them to detox or staying with them through a crisis until they are in a safe place.
+Of course not. If someone is doing something dangerous or self-destructive, you don’t just let them. You step in, take the keys, or do whatever is necessary to help because your response might just save their life, whether that’s calling for help or calling the police or driving them to detox or staying with them through a crisis until they are in a safe place. The problem is that most people who are struggling hide it from you.
 
-The problem is that most people who are struggling hide it from you. They are not doing drugs in front of you, they are lying to you about it. They’re putting on a brave face at work but secretly struggling with depression. Part of the challenge with people who are struggling is not knowing the extent to which they have been until it’s really serious or it’s too late.
+They are not doing drugs in front of you, they are lying to you about it. They’re putting on a brave face at work but secretly struggling with depression. Part of the challenge with people who are struggling is not knowing the extent to which they have been until it’s really serious or it’s too late. And, I guarantee you, there is at least one person in your life who is struggling immensely and you have no idea.
 
-And, I guarantee you, there is at least one person in your life who is struggling immensely and you have no idea. When people are struggling, they have a lot of shame and are often in denial about it. They already feel like a burden and often tell themselves they are letting everyone down. Which is why people often don’t ask for help or open up about what is going on.
+When people are struggling, they have a lot of shame and are often in denial about it. They already feel like a burden and often tell themselves they are letting everyone down. Which is why people often don’t ask for help or open up about what is going on. Watching someone you love struggle with their mental health, crippling grief, or an addiction is one of the hardest experiences you will face in life.
 
-Watching someone you love struggle with their mental health, crippling grief, or an addiction is one of the hardest experiences you will face in life. And an even harder truth is, not everyone is ready to get better, be sober, do the work, use their tools, or face their issues. And not everybody can. As much as you may love someone and believe in them and would do anything in the world to make their pain go away, you cannot want someone else’s sobriety, healing, or health more than they do.
+And an even harder truth is, not everyone is ready to get better, be sober, do the work, use their tools, or face their issues. And not everybody can. As much as you may love someone and believe in them and would do anything in the world to make their pain go away, you cannot want someone else’s sobriety, healing, or health more than they do. In this section of the book, we will unpack how, in your attempt to help, you may unknowingly be preventing other adults from finding their strength to face their struggles.
 
-In this section of the book, we will unpack how, in your attempt to help, you may unknowingly be preventing other adults from finding their strength to face their struggles. The more you try to rescue someone from their problems, the more likely they will continue to drown in them. Allowing someone to face the natural consequences of their actions is a necessary part of healing. The fact is, adults only get better when they are ready to do the work, and you will be ready way before they are.
+The more you try to rescue someone from their problems, the more likely they will continue to drown in them. Allowing someone to face the natural consequences of their actions is a necessary part of healing. The fact is, adults only get better when they are ready to do the work, and you will be ready way before they are. It sounds harsh, but it’s true.
 
-It sounds harsh, but it’s true. You and I are going to take everything you’ve learned so far about relationships, friendships, and human nature, and build on it to show you how those truths apply even in the most difficult situations.
+You and I are going to take everything you’ve learned so far about relationships, friendships, and human nature, and build on it to show you how those truths apply even in the most difficult situations.
 
 
 <a id="sec-051718"></a>
@@ -2837,23 +2827,23 @@ Them take responsibility for their own healing and growth and demonstrates your 
 
 Choosing the love you deserve.
 
-#### Chapter 18.
+#### Chapter 18. Let them show you who they are. At the end of your life, what are the very last words you want someone to say to you? I love you.
 
-Let them show you who they are. At the end of your life, what are the very last words you want someone to say to you? I love you. Love is the most powerful force in the world.
+Love is the most powerful force in the world. You deserve to feel loved, be loved, fall in love, express love, and experience one of the greatest joys in life, being in a loving relationship. Whether you’re single, divorced, dating, engaged, in a situationship, or you’ve been married for a very long time, I believe the greatest love of your life is ahead of you. Even the best relationships can become more meaningful and your connection to someone can always go deeper.
 
-You deserve to feel loved, be loved, fall in love, express love, and experience one of the greatest joys in life, being in a loving relationship. Whether you’re single, divorced, dating, engaged, in a situationship, or you’ve been married for a very long time, I believe the greatest love of your life is ahead of you. Even the best relationships can become more meaningful and your connection to someone can always go deeper. If you’re single, your love story is far from over.
+If you’re single, your love story is far from over. The love of your life is not in your past. They are waiting for you in the future, and everything that has happened and every relationship you’ve been in has prepared you for what is about to happen next. While I was doing the research for this book, I received so many questions about using the let them theory when it comes to love.
 
-The love of your life is not in your past. They are waiting for you in the future, and everything that has happened and every relationship you’ve been in has prepared you for what is about to happen next. While I was doing the research for this book, I received so many questions about using the let them theory when it comes to love. So, in the next three chapters, you and I will cover dating, commitment, how to know if a relationship is right for you, making love last, and surviving breakups.
+So, in the next three chapters, you and I will cover dating, commitment, how to know if a relationship is right for you, making love last, and surviving breakups. Finally, we are going to talk about how you’ve been accepting less than the love you deserve. The reality is, adults choose who and how they love, and sometimes they won’t choose you. People’s behavior tells the truth about how they feel about you.
 
-Finally, we are going to talk about how you’ve been accepting less than the love you deserve. The reality is, adults choose who and how they love, and sometimes they won’t choose you. People’s behavior tells the truth about how they feel about you. Too often, you chase love, or the potential for what you think it.
+Too often, you chase love, or the potential for what you think it. Could be, and end up compromising on your values. By chasing love, you chase away the deep and meaningful relationship you’re worthy of. As extraordinary as love is, it’s also the source of so much pain.
 
-Could be, and end up compromising on your values. By chasing love, you chase away the deep and meaningful relationship you’re worthy of. As extraordinary as love is, it’s also the source of so much pain. You want to be loved so much that you can find yourself giving your power away to the other person.
+You want to be loved so much that you can find yourself giving your power away to the other person. For example, maybe some stranger you met online now dictates your mood. Maybe someone who ghosted you has now destroyed your self-esteem. Or your spouse is very dismissive and treats you like a roommate, which you have just learned to accept.
 
-For example, maybe some stranger you met online now dictates your mood. Maybe someone who ghosted you has now destroyed your self-esteem. Or your spouse is very dismissive and treats you like a roommate, which you have just learned to accept. In your love life, you can fall into the trap of letting other people, and their own traumas and issues, make you compromise your standards and settle for far less than what you truly want and know you need.
+In your love life, you can fall into the trap of letting other people, and their own traumas and issues, make you compromise your standards and settle for far less than what you truly want and know you need. When the heart is involved, logic goes out the window. You can find yourself explaining away bad behavior or creating a fantasy in your head instead of accepting reality. You can also convince yourself to stay in a relationship that isn’t working because it feels better than breaking up and facing the unknown.
 
-When the heart is involved, logic goes out the window. You can find yourself explaining away bad behavior or creating a fantasy in your head instead of accepting reality. You can also convince yourself to stay in a relationship that isn’t working because it feels better than breaking up and facing the unknown. You deserve an amazing love story, and you should never settle for less than that kind of love.
+You deserve an amazing love story, and you should never settle for less than that kind of love. Using the let them theory, you will learn the difference between chasing love and choosing it. You’ll learn who is worth a commitment and who isn’t. You’ll also learn how to use the theory to create the most loving, supportive, and committed partnership you have ever had.
 
-Using the let them theory, you will learn the difference between chasing love and choosing it. You’ll learn who is worth a commitment and who isn’t. You’ll also learn how to use the theory to create the most loving, supportive, and committed partnership you have ever had. The fact is, the best relationships grow and change
+The fact is, the best relationships grow and change
 
 
 <a id="sec-055232"></a>
@@ -2963,13 +2953,13 @@ Letting them is the easy part. Let me is the hard part, because you don’t want
 
 I am not a priority. Stop choosing to chase people who clearly do not want to be with you. If they are not making an effort, they are not worth yours.
 
-#### Chapter 19.
+#### Chapter 19. How to take your relationship to the next level.
 
-How to take your relationship to the next level. B. U. T.
+B. U. T. Mel.
 
-Mel. They are giving me the attention I deserve. I know they like me because they have told me, and they are acting in all the right ways, except for the most important one. They just don’t want to commit to me.
+They are giving me the attention I deserve. I know they like me because they have told me, and they are acting in all the right ways, except for the most important one. They just don’t want to commit to me. This is really common, and it can show up in a number of ways.
 
-This is really common, and it can show up in a number of ways. Maybe they don’t want to put a label on it, be exclusive, officially be an A. Relationship, move in together, get engaged, or get married.
+Maybe they don’t want to put a label on it, be exclusive, officially be an A. Relationship, move in together, get engaged, or get married.
 
 First, you have to ask yourself, is this a pattern of mind to chase people who won’t commit? Or is this just an issue with this one person? I am going to tackle these topics separately, because they are two different issues. If you’re always picking the wrong people.
 
@@ -3053,9 +3043,9 @@ Let me end a relationship with someone who won’t commit. Let me trust this is 
 
 Let me take my power back, because the love of my life is right around the corner.
 
-#### Chapter 20 How every ending is a beautiful beginning.
+#### Chapter 20 How every ending is a beautiful beginning. One topic that kept coming up when I was researching this book was how to know when the issues you are facing in a relationship are something that you can resolve versus something that you need to accept. When is overthinking, frustration, and bickering normal? And when is it a sign that something is broken?
 
-One topic that kept coming up when I was researching this book was how to know when the issues you are facing in a relationship are something that you can resolve versus something that you need to accept. When is overthinking, frustration, and bickering normal? And when is it a sign that something is broken? When should I just let them be versus admitting the painful truth that this relationship is
+When should I just let them be versus admitting the painful truth that this relationship is
 
 
 <a id="sec-061741"></a>

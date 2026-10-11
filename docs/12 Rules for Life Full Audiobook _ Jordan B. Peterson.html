@@ -66,26 +66,12 @@
       --card-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
     }
 
-    [data-line-height="compact"] {
-      --line-height: 1.68;
-    }
-    [data-line-height="normal"] {
-      --line-height: 1.88;
-    }
-    [data-line-height="loose"] {
-      --line-height: 2.12;
-    }
+    [data-line-height="compact"] { --line-height: 1.68; }
+    [data-line-height="normal"] { --line-height: 1.88; }
+    [data-line-height="loose"] { --line-height: 2.12; }
 
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
-    html {
-      scroll-behavior: smooth;
-    }
-
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
     body {
       font-family: var(--font-family);
       font-size: var(--font-size);
@@ -119,7 +105,7 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 0 20px;
+      padding: 0 18px;
       background-color: var(--bg-header);
       backdrop-filter: blur(8px);
       -webkit-backdrop-filter: blur(8px);
@@ -129,7 +115,7 @@
     .header-left, .header-right {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 8px;
       flex-wrap: nowrap;
     }
 
@@ -138,7 +124,7 @@
       border: 1px solid var(--border-color);
       color: var(--text-primary);
       cursor: pointer;
-      font-size: 14px;
+      font-size: 13.5px;
       padding: 6px 10px;
       border-radius: 8px;
       display: inline-flex;
@@ -147,6 +133,7 @@
       transition: all 0.2s;
       white-space: nowrap;
       user-select: none;
+      text-decoration: none;
     }
     .btn-icon:hover {
       background-color: var(--accent-light);
@@ -161,11 +148,132 @@
       font-size: 14px;
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
+    }
+    .home-link:hover { color: var(--accent-color); }
+
+    /* In-Page Search Bar Dropdown */
+    .inpage-search-bar {
+      position: sticky;
+      top: 60px;
+      z-index: 890;
+      background-color: var(--bg-surface);
+      border-bottom: 1px solid var(--border-color);
+      padding: 10px 18px;
+      display: none;
+      align-items: center;
+      gap: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    }
+    .inpage-search-bar.active { display: flex; }
+
+    .inpage-search-input-wrapper {
+      flex: 1;
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    .inpage-search-input {
+      width: 100%;
+      padding: 8px 36px 8px 12px;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      font-size: 14px;
+    }
+    .inpage-search-input:focus { outline: 2px solid var(--accent-color); }
+
+    .inpage-search-clear {
+      position: absolute;
+      right: 10px;
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 16px;
     }
 
-    .home-link:hover {
+    .inpage-search-count {
+      font-size: 13px;
+      color: var(--text-secondary);
+      font-family: monospace;
+      white-space: nowrap;
+    }
+    .search-nav-btns { display: flex; gap: 6px; }
+
+    /* In-Page Search Results Drawer */
+    .inpage-search-drawer {
+      position: fixed;
+      right: 20px;
+      top: 120px;
+      width: 360px;
+      max-height: calc(100vh - 160px);
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+      z-index: 895;
+      display: none;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .inpage-search-drawer.active { display: flex; }
+    .inpage-search-drawer-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-weight: 600;
+      font-size: 14px;
+    }
+    .inpage-search-drawer-list {
+      overflow-y: auto;
+      padding: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .search-result-item {
+      padding: 10px 12px;
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+      background: var(--bg-primary);
+      cursor: pointer;
+      font-size: 13px;
+      transition: all 0.15s;
+    }
+    .search-result-item:hover, .search-result-item.active {
+      border-color: var(--accent-color);
+      background: var(--accent-light);
+    }
+    .search-result-time {
+      font-weight: 700;
       color: var(--accent-color);
+      font-family: monospace;
+      margin-bottom: 4px;
+    }
+    .search-result-snippet {
+      color: var(--text-primary);
+      line-height: 1.5;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    /* Highlight mark */
+    mark.search-highlight {
+      background-color: #fef08a;
+      color: #1f2937;
+      padding: 1px 3px;
+      border-radius: 3px;
+    }
+    mark.search-highlight.active-match {
+      background-color: #f97316;
+      color: #ffffff;
+      outline: 2px solid #ea580c;
     }
 
     /* Layout Wrapper */
@@ -212,9 +320,7 @@
       font-size: 13px;
       margin-bottom: 14px;
     }
-    .toc-search:focus {
-      outline: 2px solid var(--accent-color);
-    }
+    .toc-search:focus { outline: 2px solid var(--accent-color); }
 
     .toc-list {
       list-style: none;
@@ -237,12 +343,10 @@
       overflow: hidden;
       text-overflow: ellipsis;
     }
-
     .toc-item a:hover {
       background-color: var(--accent-light);
       color: var(--accent-color);
     }
-
     .toc-item.active a {
       background-color: var(--accent-color);
       color: #ffffff;
@@ -257,19 +361,17 @@
       display: flex;
       justify-content: center;
     }
-
     .reader-container {
       width: 100%;
       max-width: var(--content-max-width);
     }
 
-    /* Book Hero / Header */
+    /* Book Hero */
     .book-hero {
       margin-bottom: 40px;
       padding-bottom: 24px;
       border-bottom: 2px solid var(--border-color);
     }
-
     .book-hero h1 {
       font-size: 2.1em;
       line-height: 1.35;
@@ -285,7 +387,6 @@
       gap: 10px;
       margin-top: 14px;
     }
-
     .meta-chip {
       display: inline-flex;
       align-items: center;
@@ -297,8 +398,13 @@
       font-size: 13px;
       font-weight: 500;
     }
+    .meta-chip.cat-badge {
+      background-color: #8b5cf622;
+      color: #8b5cf6;
+      font-weight: 600;
+    }
 
-    /* Content Typography & Enhanced Paragraphs */
+    /* Content Typography */
     .transcript-section {
       margin-bottom: 50px;
       scroll-margin-top: 80px;
@@ -349,25 +455,22 @@
       letter-spacing: 0.015em;
     }
 
-    /* Indented paragraph style (Traditional) */
+    /* Indented paragraph style */
     [data-p-style="indent"] .section-body p {
       text-indent: 2em;
       margin-bottom: 1.15em;
       line-height: var(--line-height);
     }
 
-    /* Block paragraph style (Modern with whitespace) */
+    /* Block paragraph style */
     [data-p-style="block"] .section-body p {
       text-indent: 0;
       margin-bottom: 1.55em;
       line-height: var(--line-height);
     }
+    .section-body p:last-child { margin-bottom: 0; }
 
-    .section-body p:last-child {
-      margin-bottom: 0;
-    }
-
-    /* Floating Navigation Controls */
+    /* Floating Tools */
     .floating-tools {
       position: fixed;
       bottom: 24px;
@@ -377,7 +480,6 @@
       gap: 10px;
       z-index: 800;
     }
-
     .float-btn {
       width: 44px;
       height: 44px;
@@ -399,7 +501,6 @@
       color: var(--accent-color);
     }
 
-    /* Overlay for mobile drawer */
     .backdrop {
       display: none;
       position: fixed;
@@ -419,36 +520,22 @@
         transform: translateX(-100%);
         box-shadow: 4px 0 16px rgba(0,0,0,0.15);
       }
-
-      .sidebar.open {
-        transform: translateX(0);
-      }
-
-      .backdrop.open {
-        display: block;
+      .sidebar.open { transform: translateX(0); }
+      .backdrop.open { display: block; }
+      .inpage-search-drawer {
+        left: 20px;
+        right: 20px;
+        width: auto;
       }
     }
 
     @media (max-width: 640px) {
-      :root {
-        --font-size: 17px;
-      }
-      .main-content {
-        padding: 24px 16px 60px 16px;
-      }
-      .book-hero h1 {
-        font-size: 1.55em;
-      }
-      .top-header {
-        padding: 0 10px;
-      }
-      .btn-icon {
-        padding: 5px 8px;
-        font-size: 13px;
-      }
-      [data-p-style="indent"] .section-body p {
-        text-indent: 1.5em;
-      }
+      :root { --font-size: 17px; }
+      .main-content { padding: 24px 16px 60px 16px; }
+      .book-hero h1 { font-size: 1.55em; }
+      .top-header { padding: 0 10px; }
+      .btn-icon { padding: 5px 7px; font-size: 12.5px; }
+      [data-p-style="indent"] .section-body p { text-indent: 1.5em; }
     }
   </style>
 </head>
@@ -464,6 +551,14 @@
       <a href="index.html" class="home-link" title="返回書架">
         🏠 書架
       </a>
+      <!-- Search Inside Book Button -->
+      <button class="btn-icon" id="search-toggle-btn" title="搜尋本書內文 (Ctrl+F)">
+        🔍 <span>搜尋內文</span>
+      </button>
+      <!-- Global Search Link -->
+      <a href="index.html?tab=search" class="btn-icon" title="前往全書庫全文檢索">
+        🌐 <span>全庫搜尋</span>
+      </a>
     </div>
 
     <div class="header-right">
@@ -473,7 +568,7 @@
       </button>
 
       <!-- Line Height Toggle -->
-      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 精簡)">
+      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 緊湊)">
         ↕ <span id="line-height-label">行距</span>
       </button>
 
@@ -492,6 +587,29 @@
       <button class="btn-icon" id="font-inc-btn" title="放大字級">A+</button>
     </div>
   </header>
+
+  <!-- In-Page Search Bar Dropdown -->
+  <div class="inpage-search-bar" id="inpage-search-bar">
+    <div class="inpage-search-input-wrapper">
+      <input type="text" id="inpage-search-input" class="inpage-search-input" placeholder="🔍 搜尋本書內文關鍵字 (按 Enter 尋找下一處，Esc 關閉)...">
+      <button class="inpage-search-clear" id="inpage-search-clear" title="清空">✕</button>
+    </div>
+    <span class="inpage-search-count" id="inpage-search-count">0 / 0</span>
+    <div class="search-nav-btns">
+      <button class="btn-icon" id="inpage-search-prev" title="上一處 (Shift+Enter)">▲</button>
+      <button class="btn-icon" id="inpage-search-next" title="下一處 (Enter)">▼</button>
+      <button class="btn-icon" id="inpage-search-close" title="關閉搜尋 (Esc)">✕</button>
+    </div>
+  </div>
+
+  <!-- In-Page Search Results Drawer -->
+  <div class="inpage-search-drawer" id="inpage-search-drawer">
+    <div class="inpage-search-drawer-header">
+      <span>搜尋結果清單</span>
+      <button class="btn-icon" id="inpage-drawer-close" style="padding: 2px 6px;">✕</button>
+    </div>
+    <div class="inpage-search-drawer-list" id="inpage-search-drawer-list"></div>
+  </div>
 
   <div class="backdrop" id="backdrop"></div>
 
@@ -646,6 +764,7 @@
         <header class="book-hero">
           <h1>12 Rules for Life Full Audiobook _ Jordan B. Peterson</h1>
           <div class="book-meta-chips">
+            <span class="meta-chip cat-badge">🧠 哲學與思辨</span>
             <span class="meta-chip">🏷️ 時長：11:08:46</span>
 <span class="meta-chip">🏷️ 模型：small.en</span>
 <span class="meta-chip">🏷️ 日期：2026-09-22</span>
@@ -653,7 +772,7 @@
         </header>
 
         <!-- Transcript Content -->
-        <div class="book-body">
+        <div class="book-body" id="book-body">
           
         <section class="transcript-section" id="sec-000000">
           <div class="section-header">
@@ -878,9 +997,10 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">If we each live properly, we will collectively flourish. Best wishes to you all as you proceed through these pages. Dr. Jordan B. Peterson, clinical psychologist and professor of psychology. 12 Rules for Life by Jordan Peterson.</p>
-<h4 class="section-subhead">Rule 1.</h4>
-<p class="prose-p">Stand up straight with your shoulders back. Lobsters and territory. If you’re like most people, you don’t have to think about lobsters, unless you’re eating one.</p>
+            <p class="prose-p">If we each live properly, we will collectively flourish. Best wishes to you all as you proceed through these pages. Dr. Jordan B. Peterson, clinical psychologist and professor of psychology. 12 Rules for Life by Jordan Peterson.
+
+#### Rule 1. Stand up straight with your shoulders back.</p>
+<p class="prose-p">Lobsters and territory. If you’re like most people, you don’t have to think about lobsters, unless you’re eating one.</p>
 <p class="prose-p">However, these interesting and delicious crustaceans are very much worth considering. Their nervous systems are comparatively simple, with large, easily observable neurons, the magic cells of the brain. Because of this, scientists have been able to map the neural circuitry of lobsters very accurately. This has helped us understand the structure and function of the brain and behavior of more complex animals, including human beings.</p>
 <p class="prose-p">Lobsters have more in common with you than you might think, particularly when you’re feeling crabby. Lobsters live on the ocean floor. They need a home base down there, a range within which they hunt for prey and scavenge around for stray, edible bits and pieces of whatever rains down from the continual chaos of carnage and death far above. They want somewhere secure, where the hunting and the gathering is good.</p>
 <p class="prose-p">They want a home. This can present a problem, since there are many lobsters. What if two of them occupy the same territory at the bottom of the ocean, at the same time, and both want to live there? What if there are hundreds of lobsters, all trying to make a living and raise a family in the same crowded patch of sand and refuse?</p>
@@ -1488,13 +1608,14 @@
 <p class="prose-p">Strengthen the individual. Start with yourself. Take care with yourself. Define who you are.</p>
 <p class="prose-p">Refine your personality. Choose your destination and articulate your being. As the great 19th century German philosopher Friedrich Nietzsche so brilliantly noted, he whose life has a why can bear almost any how. You could help direct the world on its careening trajectory a bit more toward heaven and a bit more away from hell.</p>
 <p class="prose-p">Once having understood hell, researched it so to speak, particularly your own individual hell, you could decide against going there or creating that. You could aim elsewhere. You could in fact devote your life to this. That would give you a meaning with a capital M.</p>
-<p class="prose-p">That would justify your miserable existence. That would atone for your sinful nature and replace your shame and self-consciousness with the natural pride and forthright confidence of someone who has learned once again to walk with God in the garden. You could begin by treating yourself as if you were someone you were responsible for helping. 12 Rules for Life by Jordan Peterson.</p>
-<h4 class="section-subhead">Rule 3.</h4>
-<p class="prose-p">Make friends with people who want the best for you. The Old Hometown The town I grew up in had been scraped only 50 years earlier out of the endless, flat northern prairie. Fairview, Alberta was part of the frontier and had the cowboy bars to prove it. The Hudson’s Bay Company department store on Main Street still bought beaver, wolf and coyote furs directly from their local trappers. 3,000 people lived there, 400 miles away from the nearest city.</p>
-<p class="prose-p">Cable TV, video games and internet did not exist. It was no easy matter to stay innocently amused in Fairview, particularly during the five months of winter when long stretches of 40 below days and even colder nights were the norm. The world is a different place when it’s cold like that. The drunks in our town ended their sad lives early.</p>
-<p class="prose-p">They passed out in snow banks at three in the morning and froze to death. You don’t go outside casually when it’s 40 below. Introducing AudioNest, your gateway to the world’s best-selling audiobooks, all for free. Imagine diving into captivating stories while you commute, cook or even relax.</p>
-<p class="prose-p">With AudioNest, you can minimize the app and let your favorite books play in the background, seamlessly blending with your daily life. The best part? You can enjoy these stories in the language you love, English, Spanish, Hindi, German, you name it, we’ve got it. Why wait?</p>
-<p class="prose-p">Step into AudioNest today, where every story is yours to explore for free. To download the AudioNest app, visit our website www.audionestapp.com or click on the link in bio. On first breath, the arid desert air constricts</p>
+<p class="prose-p">That would justify your miserable existence. That would atone for your sinful nature and replace your shame and self-consciousness with the natural pride and forthright confidence of someone who has learned once again to walk with God in the garden. You could begin by treating yourself as if you were someone you were responsible for helping. 12 Rules for Life by Jordan Peterson.
+
+#### Rule 3. Make friends with people who want the best for you.</p>
+<p class="prose-p">The Old Hometown The town I grew up in had been scraped only 50 years earlier out of the endless, flat northern prairie. Fairview, Alberta was part of the frontier and had the cowboy bars to prove it. The Hudson’s Bay Company department store on Main Street still bought beaver, wolf and coyote furs directly from their local trappers. 3,000 people lived there, 400 miles away from the nearest city. Cable TV, video games and internet did not exist.</p>
+<p class="prose-p">It was no easy matter to stay innocently amused in Fairview, particularly during the five months of winter when long stretches of 40 below days and even colder nights were the norm. The world is a different place when it’s cold like that. The drunks in our town ended their sad lives early. They passed out in snow banks at three in the morning and froze to death.</p>
+<p class="prose-p">You don’t go outside casually when it’s 40 below. Introducing AudioNest, your gateway to the world’s best-selling audiobooks, all for free. Imagine diving into captivating stories while you commute, cook or even relax. With AudioNest, you can minimize the app and let your favorite books play in the background, seamlessly blending with your daily life.</p>
+<p class="prose-p">The best part? You can enjoy these stories in the language you love, English, Spanish, Hindi, German, you name it, we’ve got it. Why wait? Step into AudioNest today, where every story is yours to explore for free.</p>
+<p class="prose-p">To download the AudioNest app, visit our website www.audionestapp.com or click on the link in bio. On first breath, the arid desert air constricts</p>
           </div>
         </section>
         
@@ -1694,26 +1815,26 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">12 Rules for Life by Jordan Peterson.</p>
-<h4 class="section-subhead">Rule 4.</h4>
-<p class="prose-p">Compare yourself to who you were yesterday, not to who someone else is today. The Internal Critic. It was easier for people to be good at something when more of us lived in small rural communities. Someone could be homecoming queen.</p>
-<p class="prose-p">Someone else could be spelling bee champ, math whiz, or basketball star. There were only one or two mechanics and a couple of teachers. In each of their domains, these local heroes had the opportunity to enjoy some serotonin field confidence of the victor. It may be for that reason that people who were born in small towns are statistically overrepresented among the eminent.</p>
-<p class="prose-p">If you’re one in a million now but originated in modern New York, there’s 20 of you, and most of us now live in cities. What’s more, we’ve become digitally connected to the entire seven billion. Our hierarchies of accomplishment are now dizzyingly vertical. No matter how good you are at something or how you rank your accomplishments, there is someone out there who makes you look incompetent.</p>
-<p class="prose-p">You’re a decent guitar player, but you’re not Jimmy Page or Jack White. You’re almost certainly not even going to rock your local pub. You’re a good cook, but there are many great chefs. Your mother’s recipe for fish heads and rice, no matter how celebrated in her village of origin, doesn’t cut it in these days of grapefruit foam and scotch tobacco ice cream.</p>
-<p class="prose-p">Some mafia don has a tackier yacht. Some obsessive CEO has a more complicated self-winding watch, kept in his more valuable mechanical hardwood and steel automatic self-winding watch case. Even the most stunning Hollywood actress eventually transforms into the Evil Queen on eternal paranoid watch for the new Snow White. And you?</p>
-<p class="prose-p">Your career is boring and pointless. Your housekeeping skills are second rate. Your taste is appalling. You’re fatter than your friends, and everyone dreads your parties.</p>
-<p class="prose-p">Who cares if you’re Prime Minister of Canada when someone else is the President of the United States? Inside us dwells a critical internal voice and spirit that knows all this. It’s predisposed to make its noisy case. It condemns our mediocre efforts.</p>
-<p class="prose-p">It can be very difficult to quell. Worse, critics of its sort are necessary. There is no shortage of tasteless artists, of tuneless musicians, poisonous cooks, bureaucratically personality-disordered middle managers, hack-noveless and tedious ideology-ridden professors. Things and people differ importantly in their qualities.</p>
-<p class="prose-p">Awful music torments listeners everywhere. Poorly designed buildings crumble in earthquakes. Substandard automobiles kill their drivers when they crash. Failure is the price we pay for standards.</p>
-<p class="prose-p">And because mediocrity has consequences both real and harsh, standards are necessary. We’re not equal in ability or outcome, and never will be. A very small number of people produce very much of everything. The winners don’t take all, but they take most, and the bottom is not a good place to be.</p>
-<p class="prose-p">People are unhappy at the bottom. They get sick there, and remain unknown and unloved. They waste their lives there. They die there.</p>
-<p class="prose-p">In consequence, the self-denigrating voice in the minds of people weaves a devastating tale. Life is a zero-sum game. Worthlessness is the default condition. What but willful blindness could possibly shelter people from such withering criticism?</p>
-<p class="prose-p">It is for such reasons that a whole generation of social psychologists recommended positive illusions as the only reliable route to mental health. Their credo? Let a lie be your umbrella. A more dismal, wretched, pessimistic philosophy can hardly be imagined.</p>
-<p class="prose-p">Things are so terrible that only delusion can save you. Here’s an alternative approach, and one that requires no illusions. If the cards are always stacked against you, perhaps the game you are playing is somehow rigged. Perhaps by you, unbeknownst to yourself.</p>
-<p class="prose-p">If the internal voice makes you doubt the value of your endeavors, or your life, or life itself, perhaps you should stop listening. If the critical voice within says the same denigrating things about everyone, no matter how successful, how reliable can it be? Maybe its comments are chatter, not wisdom. There will always be people better than you.</p>
-<p class="prose-p">That’s a cliche of nihilism. Like the phrase, in a million years, who’s going to know the difference? The proper response to that statement is not, well then, everything is meaningless. It’s, any idiot can choose a frame of time within which nothing matters.</p>
-<p class="prose-p">Talking yourself into irrelevance is not a profound critique of being. It’s a cheap trick of the rational mind. Many good games. Standards of better or worse are not illusory or unnecessary.</p>
-<p class="prose-p">If you hadn’t decided that what you are doing right now was better than the alternatives, you wouldn’t be doing it. The idea of a value-free choice is a contradiction in terms. Value judgments are a precondition for action.</p>
+            <p class="prose-p">12 Rules for Life by Jordan Peterson.
+
+#### Rule 4. Compare yourself to who you were yesterday, not to who someone else is today. The Internal Critic. It was easier for people to be good at something when more of us lived in small rural communities.</p>
+<p class="prose-p">Someone could be homecoming queen. Someone else could be spelling bee champ, math whiz, or basketball star. There were only one or two mechanics and a couple of teachers. In each of their domains, these local heroes had the opportunity to enjoy some serotonin field confidence of the victor.</p>
+<p class="prose-p">It may be for that reason that people who were born in small towns are statistically overrepresented among the eminent. If you’re one in a million now but originated in modern New York, there’s 20 of you, and most of us now live in cities. What’s more, we’ve become digitally connected to the entire seven billion. Our hierarchies of accomplishment are now dizzyingly vertical.</p>
+<p class="prose-p">No matter how good you are at something or how you rank your accomplishments, there is someone out there who makes you look incompetent. You’re a decent guitar player, but you’re not Jimmy Page or Jack White. You’re almost certainly not even going to rock your local pub. You’re a good cook, but there are many great chefs.</p>
+<p class="prose-p">Your mother’s recipe for fish heads and rice, no matter how celebrated in her village of origin, doesn’t cut it in these days of grapefruit foam and scotch tobacco ice cream. Some mafia don has a tackier yacht. Some obsessive CEO has a more complicated self-winding watch, kept in his more valuable mechanical hardwood and steel automatic self-winding watch case. Even the most stunning Hollywood actress eventually transforms into the Evil Queen on eternal paranoid watch for the new Snow White.</p>
+<p class="prose-p">And you? Your career is boring and pointless. Your housekeeping skills are second rate. Your taste is appalling.</p>
+<p class="prose-p">You’re fatter than your friends, and everyone dreads your parties. Who cares if you’re Prime Minister of Canada when someone else is the President of the United States? Inside us dwells a critical internal voice and spirit that knows all this. It’s predisposed to make its noisy case.</p>
+<p class="prose-p">It condemns our mediocre efforts. It can be very difficult to quell. Worse, critics of its sort are necessary. There is no shortage of tasteless artists, of tuneless musicians, poisonous cooks, bureaucratically personality-disordered middle managers, hack-noveless and tedious ideology-ridden professors.</p>
+<p class="prose-p">Things and people differ importantly in their qualities. Awful music torments listeners everywhere. Poorly designed buildings crumble in earthquakes. Substandard automobiles kill their drivers when they crash.</p>
+<p class="prose-p">Failure is the price we pay for standards. And because mediocrity has consequences both real and harsh, standards are necessary. We’re not equal in ability or outcome, and never will be. A very small number of people produce very much of everything.</p>
+<p class="prose-p">The winners don’t take all, but they take most, and the bottom is not a good place to be. People are unhappy at the bottom. They get sick there, and remain unknown and unloved. They waste their lives there.</p>
+<p class="prose-p">They die there. In consequence, the self-denigrating voice in the minds of people weaves a devastating tale. Life is a zero-sum game. Worthlessness is the default condition.</p>
+<p class="prose-p">What but willful blindness could possibly shelter people from such withering criticism? It is for such reasons that a whole generation of social psychologists recommended positive illusions as the only reliable route to mental health. Their credo? Let a lie be your umbrella.</p>
+<p class="prose-p">A more dismal, wretched, pessimistic philosophy can hardly be imagined. Things are so terrible that only delusion can save you. Here’s an alternative approach, and one that requires no illusions. If the cards are always stacked against you, perhaps the game you are playing is somehow rigged.</p>
+<p class="prose-p">Perhaps by you, unbeknownst to yourself. If the internal voice makes you doubt the value of your endeavors, or your life, or life itself, perhaps you should stop listening. If the critical voice within says the same denigrating things about everyone, no matter how successful, how reliable can it be? Maybe its comments are chatter, not wisdom.</p>
+<p class="prose-p">There will always be people better than you. That’s a cliche of nihilism. Like the phrase, in a million years, who’s going to know the difference? The proper response to that statement is not, well then, everything is meaningless.</p>
+<p class="prose-p">It’s, any idiot can choose a frame of time within which nothing matters. Talking yourself into irrelevance is not a profound critique of being. It’s a cheap trick of the rational mind. Many good games.</p>
+<p class="prose-p">Standards of better or worse are not illusory or unnecessary. If you hadn’t decided that what you are doing right now was better than the alternatives, you wouldn’t be doing it. The idea of a value-free choice is a contradiction in terms. Value judgments are a precondition for action.</p>
 <p class="prose-p">Furthermore, every activity, once chosen, comes with its own internal standards of accomplishment. If something can be done at all, it can be done better or worse. To do anything at all is therefore to play a game with a defined and valued end, which can always be reached more or less efficiently and elegantly. Every game comes with its chance of success or failure.</p>
 <p class="prose-p">Differentials in quality are omnipresent. Furthermore, if there was no better and worse, nothing would be worth doing. There would be no value and therefore no meaning. Why make an effort if it doesn’t improve anything?</p>
 <p class="prose-p">Meaning itself requires the difference between better and worse.</p>
@@ -3743,6 +3864,204 @@
 
     document.getElementById('scroll-top-btn').addEventListener('click', () => {
       window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    // ==========================================
+    // IN-PAGE CONTENT SEARCH (單書全文搜尋)
+    // ==========================================
+    const searchBar = document.getElementById('inpage-search-bar');
+    const searchInput = document.getElementById('inpage-search-input');
+    const searchCount = document.getElementById('inpage-search-count');
+    const searchDrawer = document.getElementById('inpage-search-drawer');
+    const searchDrawerList = document.getElementById('inpage-search-drawer-list');
+    const searchToggleBtn = document.getElementById('search-toggle-btn');
+    const searchClearBtn = document.getElementById('inpage-search-clear');
+    const searchPrevBtn = document.getElementById('inpage-search-prev');
+    const searchNextBtn = document.getElementById('inpage-search-next');
+    const searchCloseBtn = document.getElementById('inpage-search-close');
+    const drawerCloseBtn = document.getElementById('inpage-drawer-close');
+
+    let searchMatches = [];
+    let currentMatchIdx = -1;
+
+    // Cache original innerHTML for clean resets
+    const rawParagraphs = Array.from(document.querySelectorAll('.section-body p')).map(p => ({
+      el: p,
+      rawHtml: p.innerHTML,
+      rawText: p.textContent
+    }));
+
+    function openSearch() {
+      searchBar.classList.add('active');
+      searchInput.focus();
+      searchInput.select();
+      if (searchInput.value.trim()) {
+        performSearch(searchInput.value.trim());
+      }
+    }
+
+    function closeSearch() {
+      searchBar.classList.remove('active');
+      searchDrawer.classList.remove('active');
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchCount.textContent = '0 / 0';
+    }
+
+    function clearHighlights() {
+      rawParagraphs.forEach(item => {
+        item.el.innerHTML = item.rawHtml;
+      });
+    }
+
+    function escapeRegex(str) {
+      return str.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+    }
+
+    function escapeHtml(str) {
+      return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+
+    function performSearch(query) {
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchDrawerList.innerHTML = '';
+
+      if (!query || query.trim().length === 0) {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+        return;
+      }
+
+      query = query.trim();
+      const qLower = query.toLowerCase();
+      const regex = new RegExp(`(${escapeRegex(query)})`, 'gi');
+
+      rawParagraphs.forEach((item, pIdx) => {
+        if (item.rawText.toLowerCase().includes(qLower)) {
+          const sec = item.el.closest('.transcript-section');
+          const secTime = sec ? (sec.querySelector('.section-time')?.textContent || '') : '';
+          const secId = sec ? sec.id : '';
+
+          // Apply highlight
+          item.el.innerHTML = item.rawHtml.replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const marks = Array.from(item.el.querySelectorAll('mark.search-highlight'));
+          marks.forEach(mark => {
+            searchMatches.push({
+              mark,
+              el: item.el,
+              secTime,
+              secId
+            });
+          });
+
+          // Snippet creation
+          const matchPos = item.rawText.toLowerCase().indexOf(qLower);
+          const start = Math.max(0, matchPos - 30);
+          const end = Math.min(item.rawText.length, matchPos + query.length + 50);
+          const snippetText = item.rawText.slice(start, end);
+          const snippetHtml = escapeHtml(snippetText).replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const card = document.createElement('div');
+          card.className = 'search-result-item';
+          card.innerHTML = `
+            <div class="search-result-time">${secTime}</div>
+            <div class="search-result-snippet">...${snippetHtml}...</div>
+          `;
+          card.addEventListener('click', () => {
+            const targetIdx = searchMatches.findIndex(m => m.mark === marks[0]);
+            if (targetIdx >= 0) goToMatch(targetIdx);
+          });
+          searchDrawerList.appendChild(card);
+        }
+      });
+
+      if (searchMatches.length > 0) {
+        searchDrawer.classList.add('active');
+        goToMatch(0);
+      } else {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+      }
+    }
+
+    function goToMatch(idx) {
+      if (idx < 0 || idx >= searchMatches.length) return;
+      if (currentMatchIdx >= 0 && searchMatches[currentMatchIdx]) {
+        searchMatches[currentMatchIdx].mark.classList.remove('active-match');
+      }
+      currentMatchIdx = idx;
+      const target = searchMatches[currentMatchIdx];
+      target.mark.classList.add('active-match');
+      searchCount.textContent = `${currentMatchIdx + 1} / ${searchMatches.length}`;
+
+      // Highlight active drawer item
+      const drawerItems = searchDrawerList.querySelectorAll('.search-result-item');
+      drawerItems.forEach(di => di.classList.remove('active'));
+
+      target.mark.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+
+    searchToggleBtn.addEventListener('click', () => {
+      if (searchBar.classList.contains('active')) {
+        closeSearch();
+      } else {
+        openSearch();
+      }
+    });
+
+    let debounceTimer;
+    searchInput.addEventListener('input', (e) => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => {
+        performSearch(e.target.value);
+      }, 200);
+    });
+
+    searchClearBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      performSearch('');
+      searchInput.focus();
+    });
+
+    searchNextBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const nextIdx = (currentMatchIdx + 1) % searchMatches.length;
+      goToMatch(nextIdx);
+    });
+
+    searchPrevBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const prevIdx = (currentMatchIdx - 1 + searchMatches.length) % searchMatches.length;
+      goToMatch(prevIdx);
+    });
+
+    searchInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        if (e.shiftKey) {
+          searchPrevBtn.click();
+        } else {
+          searchNextBtn.click();
+        }
+      } else if (e.key === 'Escape') {
+        closeSearch();
+      }
+    });
+
+    searchCloseBtn.addEventListener('click', closeSearch);
+    drawerCloseBtn.addEventListener('click', () => searchDrawer.classList.remove('active'));
+
+    window.addEventListener('keydown', (e) => {
+      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'f') {
+        e.preventDefault();
+        openSearch();
+      } else if (e.key === 'Escape') {
+        if (searchBar.classList.contains('active')) closeSearch();
+      }
     });
   </script>
 </body>

@@ -66,26 +66,12 @@
       --card-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
     }
 
-    [data-line-height="compact"] {
-      --line-height: 1.68;
-    }
-    [data-line-height="normal"] {
-      --line-height: 1.88;
-    }
-    [data-line-height="loose"] {
-      --line-height: 2.12;
-    }
+    [data-line-height="compact"] { --line-height: 1.68; }
+    [data-line-height="normal"] { --line-height: 1.88; }
+    [data-line-height="loose"] { --line-height: 2.12; }
 
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
-    html {
-      scroll-behavior: smooth;
-    }
-
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
     body {
       font-family: var(--font-family);
       font-size: var(--font-size);
@@ -119,7 +105,7 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 0 20px;
+      padding: 0 18px;
       background-color: var(--bg-header);
       backdrop-filter: blur(8px);
       -webkit-backdrop-filter: blur(8px);
@@ -129,7 +115,7 @@
     .header-left, .header-right {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 8px;
       flex-wrap: nowrap;
     }
 
@@ -138,7 +124,7 @@
       border: 1px solid var(--border-color);
       color: var(--text-primary);
       cursor: pointer;
-      font-size: 14px;
+      font-size: 13.5px;
       padding: 6px 10px;
       border-radius: 8px;
       display: inline-flex;
@@ -147,6 +133,7 @@
       transition: all 0.2s;
       white-space: nowrap;
       user-select: none;
+      text-decoration: none;
     }
     .btn-icon:hover {
       background-color: var(--accent-light);
@@ -161,11 +148,132 @@
       font-size: 14px;
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
+    }
+    .home-link:hover { color: var(--accent-color); }
+
+    /* In-Page Search Bar Dropdown */
+    .inpage-search-bar {
+      position: sticky;
+      top: 60px;
+      z-index: 890;
+      background-color: var(--bg-surface);
+      border-bottom: 1px solid var(--border-color);
+      padding: 10px 18px;
+      display: none;
+      align-items: center;
+      gap: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    }
+    .inpage-search-bar.active { display: flex; }
+
+    .inpage-search-input-wrapper {
+      flex: 1;
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    .inpage-search-input {
+      width: 100%;
+      padding: 8px 36px 8px 12px;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      font-size: 14px;
+    }
+    .inpage-search-input:focus { outline: 2px solid var(--accent-color); }
+
+    .inpage-search-clear {
+      position: absolute;
+      right: 10px;
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 16px;
     }
 
-    .home-link:hover {
+    .inpage-search-count {
+      font-size: 13px;
+      color: var(--text-secondary);
+      font-family: monospace;
+      white-space: nowrap;
+    }
+    .search-nav-btns { display: flex; gap: 6px; }
+
+    /* In-Page Search Results Drawer */
+    .inpage-search-drawer {
+      position: fixed;
+      right: 20px;
+      top: 120px;
+      width: 360px;
+      max-height: calc(100vh - 160px);
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+      z-index: 895;
+      display: none;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .inpage-search-drawer.active { display: flex; }
+    .inpage-search-drawer-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-weight: 600;
+      font-size: 14px;
+    }
+    .inpage-search-drawer-list {
+      overflow-y: auto;
+      padding: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .search-result-item {
+      padding: 10px 12px;
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+      background: var(--bg-primary);
+      cursor: pointer;
+      font-size: 13px;
+      transition: all 0.15s;
+    }
+    .search-result-item:hover, .search-result-item.active {
+      border-color: var(--accent-color);
+      background: var(--accent-light);
+    }
+    .search-result-time {
+      font-weight: 700;
       color: var(--accent-color);
+      font-family: monospace;
+      margin-bottom: 4px;
+    }
+    .search-result-snippet {
+      color: var(--text-primary);
+      line-height: 1.5;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    /* Highlight mark */
+    mark.search-highlight {
+      background-color: #fef08a;
+      color: #1f2937;
+      padding: 1px 3px;
+      border-radius: 3px;
+    }
+    mark.search-highlight.active-match {
+      background-color: #f97316;
+      color: #ffffff;
+      outline: 2px solid #ea580c;
     }
 
     /* Layout Wrapper */
@@ -212,9 +320,7 @@
       font-size: 13px;
       margin-bottom: 14px;
     }
-    .toc-search:focus {
-      outline: 2px solid var(--accent-color);
-    }
+    .toc-search:focus { outline: 2px solid var(--accent-color); }
 
     .toc-list {
       list-style: none;
@@ -237,12 +343,10 @@
       overflow: hidden;
       text-overflow: ellipsis;
     }
-
     .toc-item a:hover {
       background-color: var(--accent-light);
       color: var(--accent-color);
     }
-
     .toc-item.active a {
       background-color: var(--accent-color);
       color: #ffffff;
@@ -257,19 +361,17 @@
       display: flex;
       justify-content: center;
     }
-
     .reader-container {
       width: 100%;
       max-width: var(--content-max-width);
     }
 
-    /* Book Hero / Header */
+    /* Book Hero */
     .book-hero {
       margin-bottom: 40px;
       padding-bottom: 24px;
       border-bottom: 2px solid var(--border-color);
     }
-
     .book-hero h1 {
       font-size: 2.1em;
       line-height: 1.35;
@@ -285,7 +387,6 @@
       gap: 10px;
       margin-top: 14px;
     }
-
     .meta-chip {
       display: inline-flex;
       align-items: center;
@@ -297,8 +398,13 @@
       font-size: 13px;
       font-weight: 500;
     }
+    .meta-chip.cat-badge {
+      background-color: #10b98122;
+      color: #10b981;
+      font-weight: 600;
+    }
 
-    /* Content Typography & Enhanced Paragraphs */
+    /* Content Typography */
     .transcript-section {
       margin-bottom: 50px;
       scroll-margin-top: 80px;
@@ -349,25 +455,22 @@
       letter-spacing: 0.015em;
     }
 
-    /* Indented paragraph style (Traditional) */
+    /* Indented paragraph style */
     [data-p-style="indent"] .section-body p {
       text-indent: 2em;
       margin-bottom: 1.15em;
       line-height: var(--line-height);
     }
 
-    /* Block paragraph style (Modern with whitespace) */
+    /* Block paragraph style */
     [data-p-style="block"] .section-body p {
       text-indent: 0;
       margin-bottom: 1.55em;
       line-height: var(--line-height);
     }
+    .section-body p:last-child { margin-bottom: 0; }
 
-    .section-body p:last-child {
-      margin-bottom: 0;
-    }
-
-    /* Floating Navigation Controls */
+    /* Floating Tools */
     .floating-tools {
       position: fixed;
       bottom: 24px;
@@ -377,7 +480,6 @@
       gap: 10px;
       z-index: 800;
     }
-
     .float-btn {
       width: 44px;
       height: 44px;
@@ -399,7 +501,6 @@
       color: var(--accent-color);
     }
 
-    /* Overlay for mobile drawer */
     .backdrop {
       display: none;
       position: fixed;
@@ -419,36 +520,22 @@
         transform: translateX(-100%);
         box-shadow: 4px 0 16px rgba(0,0,0,0.15);
       }
-
-      .sidebar.open {
-        transform: translateX(0);
-      }
-
-      .backdrop.open {
-        display: block;
+      .sidebar.open { transform: translateX(0); }
+      .backdrop.open { display: block; }
+      .inpage-search-drawer {
+        left: 20px;
+        right: 20px;
+        width: auto;
       }
     }
 
     @media (max-width: 640px) {
-      :root {
-        --font-size: 17px;
-      }
-      .main-content {
-        padding: 24px 16px 60px 16px;
-      }
-      .book-hero h1 {
-        font-size: 1.55em;
-      }
-      .top-header {
-        padding: 0 10px;
-      }
-      .btn-icon {
-        padding: 5px 8px;
-        font-size: 13px;
-      }
-      [data-p-style="indent"] .section-body p {
-        text-indent: 1.5em;
-      }
+      :root { --font-size: 17px; }
+      .main-content { padding: 24px 16px 60px 16px; }
+      .book-hero h1 { font-size: 1.55em; }
+      .top-header { padding: 0 10px; }
+      .btn-icon { padding: 5px 7px; font-size: 12.5px; }
+      [data-p-style="indent"] .section-body p { text-indent: 1.5em; }
     }
   </style>
 </head>
@@ -464,6 +551,14 @@
       <a href="index.html" class="home-link" title="返回書架">
         🏠 書架
       </a>
+      <!-- Search Inside Book Button -->
+      <button class="btn-icon" id="search-toggle-btn" title="搜尋本書內文 (Ctrl+F)">
+        🔍 <span>搜尋內文</span>
+      </button>
+      <!-- Global Search Link -->
+      <a href="index.html?tab=search" class="btn-icon" title="前往全書庫全文檢索">
+        🌐 <span>全庫搜尋</span>
+      </a>
     </div>
 
     <div class="header-right">
@@ -473,7 +568,7 @@
       </button>
 
       <!-- Line Height Toggle -->
-      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 精簡)">
+      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 緊湊)">
         ↕ <span id="line-height-label">行距</span>
       </button>
 
@@ -492,6 +587,29 @@
       <button class="btn-icon" id="font-inc-btn" title="放大字級">A+</button>
     </div>
   </header>
+
+  <!-- In-Page Search Bar Dropdown -->
+  <div class="inpage-search-bar" id="inpage-search-bar">
+    <div class="inpage-search-input-wrapper">
+      <input type="text" id="inpage-search-input" class="inpage-search-input" placeholder="🔍 搜尋本書內文關鍵字 (按 Enter 尋找下一處，Esc 關閉)...">
+      <button class="inpage-search-clear" id="inpage-search-clear" title="清空">✕</button>
+    </div>
+    <span class="inpage-search-count" id="inpage-search-count">0 / 0</span>
+    <div class="search-nav-btns">
+      <button class="btn-icon" id="inpage-search-prev" title="上一處 (Shift+Enter)">▲</button>
+      <button class="btn-icon" id="inpage-search-next" title="下一處 (Enter)">▼</button>
+      <button class="btn-icon" id="inpage-search-close" title="關閉搜尋 (Esc)">✕</button>
+    </div>
+  </div>
+
+  <!-- In-Page Search Results Drawer -->
+  <div class="inpage-search-drawer" id="inpage-search-drawer">
+    <div class="inpage-search-drawer-header">
+      <span>搜尋結果清單</span>
+      <button class="btn-icon" id="inpage-drawer-close" style="padding: 2px 6px;">✕</button>
+    </div>
+    <div class="inpage-search-drawer-list" id="inpage-search-drawer-list"></div>
+  </div>
 
   <div class="backdrop" id="backdrop"></div>
 
@@ -656,6 +774,7 @@
         <header class="book-hero">
           <h1>Poor Charlie’s Almanack_ The Essential Wit and Wisdom of Charles T. Munger (FULL AUDIOBOOK  PT 1)</h1>
           <div class="book-meta-chips">
+            <span class="meta-chip cat-badge">💰 財富與投資</span>
             <span class="meta-chip">🏷️ 時長：11:58:58</span>
 <span class="meta-chip">🏷️ 模型：small.en</span>
 <span class="meta-chip">🏷️ 日期：2026-09-22</span>
@@ -663,7 +782,7 @@
         </header>
 
         <!-- Transcript Content -->
-        <div class="book-body">
+        <div class="book-body" id="book-body">
           
         <section class="transcript-section" id="sec-000000">
           <div class="section-header">
@@ -742,13 +861,13 @@
 <p class="prose-p">You will probably never find a better opportunity to learn from someone so smart and so forthright. In his talks, Charlie simply opens up and tells it like it is. A special note. Charlie’s redundancy in expressions and examples is purposeful.</p>
 <p class="prose-p">For the kind of deep fluency he advocates, he knows that repetition is the heart of instruction. A word about the style and layout of the book, Charlie is enormously curious about nearly everything he bumps into in life. Accordingly, as we ourselves bumped into people, places and subjects mentioned by Charlie in his talks, we supplemented his text with related information. End notes peppered throughout the talk serve to explain concepts.</p>
 <p class="prose-p">Add a supporting voice or emphasize an important manga idea. We hope these will not only inform but also amuse and even encourage you to further pursue these subjects on your own. I wish you good reading and an appreciation of the brightness and dry humor that those of us who know Charlie Munger have come to treasure and expect. For all.</p>
-<p class="prose-p">Him.</p>
-<h4 class="section-subhead">Chapter 1a Portrait of Charles T.</h4>
-<p class="prose-p">Mungerby, Michael Brogy. The extraordinary story of Berkshire Hathaway are two financial geniuses. The widely acclaimed Warren Buffett and his silent partner, Charlie Munger, who relishes his obscurity. Charlie is Warren’s friend, lawyer, advisor, devil’s advocate.</p>
-<p class="prose-p">Warren once called him the abominable no man and one of the largest stockholders in the world. None of the most successful publicly traded companies in American business history. Since 1964, when Warren and, some years later, Charlie assumed management of Berkshire, its market value has increased an astonishing 13,500 times from 10 million to roughly 135 billion. Without much of an increase in outstanding shares.</p>
-<p class="prose-p">Duke Phenomenal Growth is the singular achievement of these two unassuming Midwesterners, who combine their synergistic abilities to recognize and seize opportunities other businessmen consistently overlook. While Warren is one of the most admired and publicized business leaders in the country, Charlie has purposefully sidestepped the limelight, choosing relative anonymity instead. To better understand this complex and highly private businessman, we must start at the beginning. Charles Thomas Munger was born on January 1, 1924, in America’s heartland, Omaha, Nebraska-Dottet.</p>
-<p class="prose-p">Many notables share his Midwestern roots. Will Rogers, Henry Fonda, John Pershing, Harry Truman, Walt Disney, Ann Landers, Gerald Ford and, of course, Warren Buffet. Charlie, initial crossed paths with the Buffet family during the formative years of his life when he worked at Buffet Sun, an upscale grocery store in Omaha, about six blocks from the Munger household. The boss and part-owner was Warren’s grandfather, Ernest, a strict disciplinarian.</p>
-<p class="prose-p">He’s scheduled his young workers for twelve-hour shifts, with no meals or breaks. According to Charlie, his boss, Staunch, ati-socialist attitude was manifested in his rule requiring the boys to present two pennies at the end of their shifts to cover their share of the cost of the new Social Security Act. In return, they received a two-daily wake-along with a considerable lecture about the evils of socialism, the arduous working conditions in the Buffet grocery store had a lasting influence on both Charlie and Warren Tunce.</p>
+<p class="prose-p">Him.
+
+#### Chapter 1a Portrait of Charles T. Mungerby, Michael Brogy. The extraordinary story of Berkshire Hathaway are two financial geniuses. The widely acclaimed Warren Buffett and his silent partner, Charlie Munger, who relishes his obscurity.</p>
+<p class="prose-p">Charlie is Warren’s friend, lawyer, advisor, devil’s advocate. Warren once called him the abominable no man and one of the largest stockholders in the world. None of the most successful publicly traded companies in American business history. Since 1964, when Warren and, some years later, Charlie assumed management of Berkshire, its market value has increased an astonishing 13,500 times from 10 million to roughly 135 billion.</p>
+<p class="prose-p">Without much of an increase in outstanding shares. Duke Phenomenal Growth is the singular achievement of these two unassuming Midwesterners, who combine their synergistic abilities to recognize and seize opportunities other businessmen consistently overlook. While Warren is one of the most admired and publicized business leaders in the country, Charlie has purposefully sidestepped the limelight, choosing relative anonymity instead. To better understand this complex and highly private businessman, we must start at the beginning.</p>
+<p class="prose-p">Charles Thomas Munger was born on January 1, 1924, in America’s heartland, Omaha, Nebraska-Dottet. Many notables share his Midwestern roots. Will Rogers, Henry Fonda, John Pershing, Harry Truman, Walt Disney, Ann Landers, Gerald Ford and, of course, Warren Buffet. Charlie, initial crossed paths with the Buffet family during the formative years of his life when he worked at Buffet Sun, an upscale grocery store in Omaha, about six blocks from the Munger household.</p>
+<p class="prose-p">The boss and part-owner was Warren’s grandfather, Ernest, a strict disciplinarian. He’s scheduled his young workers for twelve-hour shifts, with no meals or breaks. According to Charlie, his boss, Staunch, ati-socialist attitude was manifested in his rule requiring the boys to present two pennies at the end of their shifts to cover their share of the cost of the new Social Security Act. In return, they received a two-daily wake-along with a considerable lecture about the evils of socialism, the arduous working conditions in the Buffet grocery store had a lasting influence on both Charlie and Warren Tunce.</p>
 <p class="prose-p">Warren, six years younger, served his hard times under grandpa Ernest several years after his future business partner had moved on. Charlie’s formal education began at Dundee Elementary School, where he and his younger sisters, Mary and Carol, were indoctrinated with ethical homilies.</p>
           </div>
         </section>
@@ -980,8 +1099,9 @@
           <div class="section-body">
             <p class="prose-p">virtue in my father’s view, along with ritual and tradition. He never had a desire to change his primary habits, sartorial or otherwise, once he had, like Franklin, acquired them. I still shop at Brooks, partly because each year at Christmas Father gives every child a gift card, which is perfectly timed for the winter sale, but I always end up going more often than that. One year I used his largesse to purchase trousers with pleats.</p>
 <p class="prose-p">My father looked at the mascants and said, do you want to look like a jazz drummer? In New York Brooks is still housed in its grand old building. I think of my father every time I go, and very attached to the place. When I went to study at Oxford in winter 1988, he gave me an old Brooks coat of his, dating from Rome, of a sort of tannish olive hue, I think, with a warm zip-in lining.</p>
-<p class="prose-p">As I walked home from the Bodleian library each night, that nasty damp, penetrating English cold would not get through. When I returned to the United States, I realized I had left the coat on a bus. I wept at the loss. Even now I wish I had that coat.</p>
-<h4 class="section-subhead">Chapter 3.</h4>
+<p class="prose-p">As I walked home from the Bodleian library each night, that nasty damp, penetrating English cold would not get through. When I returned to the United States, I realized I had left the coat on a bus. I wept at the loss. Even now I wish I had that coat.
+
+#### Chapter 3.</p>
 <p class="prose-p">The Munger, approach to life, learning, and decision-making. Despite being largely self-taught, Ben Franklin was spectacularly successful in such diverse fields as journalism, publishing, printing, philanthropy, public service, science, diplomacy, and invention. Much of Franklin’s success was due to the essential nature of the manmost, especially his appetite for hard work, but also his insatiable curiosity and patient demeanor. Above all, he possessed a quick and willing mind that enabled him to easily master each new field of endeavor he chose to undertake.</p>
 <p class="prose-p">It is not surprising that Charlie Munger considers Franklin his greatest hero, for Munger is also largely self-taught and shares many of Franklin’s unique characteristic. Like Franklin, Charlie has made himself into a grandmaster of preparation, patience, discipline, and objectivity. Grade these attributes into great success in both his personal and business endeavors, especially in his investing. To Charlie, successful investing is simply a by-product of his carefully organized and focused approach to life.</p>
 <p class="prose-p">Warren Buffett once said, “Charlie can analyze and evaluate any kind of deal faster and more accurately than any man alive.” He sees any valid weakness in sixty seconds. Page is a perfect partner. Undename, ins, pony, astert, goldmead. Why does Buffett proffer such high praise?</p>
@@ -2178,8 +2298,9 @@
 <p class="prose-p">Shakespeare is dead. And I myself am not feeling at all well. Fortunately, I am still able to refrain from complaint in the mode of Mark Twain. After all, I never had more than a shred of an illusion that any views of mine would much change the old dial.</p>
 <p class="prose-p">Instead, I always knew that aiming low was the best path for me, so I merely sought one, to learn from my betters a few practical mental tricks that would help me avoid some of the worst misognitions common in my age cohort, and two, to pass on my mental tricks only to a few people who could easily learn from me because they already almost knew what I was telling. Having pretty well accomplished these very limited objectives, I see little reason to complain now about the un-wisdom of the world.</p>
 <p class="prose-p">Instead, what works best for me in coping with all disappointment is what I call the Jewish method. Humor. As I revisit talk three in March 2006, I still like its emphasis on the desirability of making human systems as cheating-proof as is practicable, even if this. Leave some human misery unfixed.</p>
-<p class="prose-p">After all, the people who reward it cheating on a massive scale leave a trail of super-ruin in their wake, since the bad conduct spreads by example and is so very hard to reverse. And I fondly recall talk three’s emphasis on both the life-handling lessons I learned from my father’s friend, Grant McFaden, and one teaching method I learned from my father. I owe a lot. Tea these long-dead predecessors, and if you like poor Charlie’s almanac, so do you.</p>
-<h4 class="section-subhead">Chapter 4.</h4>
+<p class="prose-p">After all, the people who reward it cheating on a massive scale leave a trail of super-ruin in their wake, since the bad conduct spreads by example and is so very hard to reverse. And I fondly recall talk three’s emphasis on both the life-handling lessons I learned from my father’s friend, Grant McFaden, and one teaching method I learned from my father. I owe a lot. Tea these long-dead predecessors, and if you like poor Charlie’s almanac, so do you.
+
+#### Chapter 4.</p>
 <p class="prose-p">Talk Four Practical Thought about Practical Thought. July 20, 1996, Anne. In formal talk in this talk, Charlie explains how he makes decisions and solves problems by taking us step by step through a diverse set of mental models. He presents a case study that asks, rhetorically, how the listener would go about producing a two-trillion business from scratch, using Coca-Cola as his example.</p>
 <p class="prose-p">Naturally, he has his own solution, apt to strike you as both brilliant and perceptive. Charlie’s case study leads him to a discussion of academia’s failures and its record of having produced generations of sloppy decision-makers. For this problem, he has other solutions. This, Tacwas delivered in 1996 to a group that has a policy of not publicizing its programs. Editor’s Warning, as suggested by Charlie.</p>
 <p class="prose-p">Most people don’t understand this talk. Charlie says it was an extreme communication failure when made, and people have since found it difficult to understand, even when read slowly, twice. To Charlie, these outcomes have profound, eductional implications. The title of my talk is Practical Thought About Practical Thought, with a question mark at the end.</p>
@@ -2305,13 +2426,14 @@
             <p class="prose-p">Only, an interdisciplinary approach will correctly deal with reality and academia, as with the Coca-Cola Company. In short, academic psychology departments are immensely more important and useful than other academic departments think. And, at the same time, the psychology departments are immensely worse than most of their inhabitants think. It is, of course, normal for self-appraisal to be more.</p>
 <p class="prose-p">Positive Aton. External. Appraisal. Indeed, a problem of this sort may have given you your speaker today.</p>
 <p class="prose-p">But the size of this psychology department gap is preposterously large. In fact, the gap is so enormous that one very eminent university, Chicago, simply abolished its psychology department, perhaps with an undisclosed hope of later creating a better version. In such a state of affairs, many, a year ago, and with much that was plainly wrong already present, the new Coke fiasco occurred. Therein, Coke’s executives came to the brink of destroying the most valuable trademark in the world.</p>
-<p class="prose-p">The academically correct reaction to this immense and well-publicized fiasco would have been the sort of reaction Boeing would display if three of its new airplanes crashed in a single week. After all, proct integrity is involved in each case, and the plain educational failure was immense. But almost no such responsible Boeing-like reaction has come from academia. Instead, academia, by and large, continues in its Balkanized way to tolerate psychology professors, who misteach psychology, non-psychology professors, who fail to consider psychological effects obviously crucial in their sub…</p>
-<p class="prose-p">matter and professional schools that carefully preserve psychological ignorance coming in with each entering class, and are proud of their inadequacies. Even though this regrettable blindness and lassitude is now the normal academic result, are there exceptions providing hope that disgraceful shortcomings of the education establishment will eventually be corrected? Here, my answer is a very optimistic yes. For instance, consider the recent behavior of the economics department of the University of Chicago.</p>
-<p class="prose-p">Over the last decade, this department has enjoyed a near-monopoly of the Nobel Prizes in economics, largely by getting good predictions out of free-market models postulating man’s rationality. And what is the reaction of this department after winning so steadily with its rational man? Per… proach?</p>
-<p class="prose-p">Well, it has just invited into a precious slot amid its company of greats a wise and witty Cornell economist, Richard Thaler, DOF 55, and it has done this because Thaler pokes fun at much that is wholly at the University of Chicago. Indeed, Thaler believes with me that people are often massively irrational in ways predicted by psychology that must be taken into account in in… macro-economic. In so behaving, the University of Chicago is imitating Darwin, who spent much of his long life thinking in reverse as he tried to disprove his own hardest-won and best-loved idea.</p>
-<p class="prose-p">And so long as there are parts of academia that keep alive its best values by thinking in reverse like Darwin, we can confidently expect that silly educational practices will eventually be replaced by… beta-1s, exactly as Carl Jacobi might have predicted. This will happen because the Darwinian approach, with its habitual objectivity taken on as a sort of hair-shirt, is a mighty approach indeed. No lesser figure than Einstein said that one of the four causes of his achievement was self-criticism, ranking right up there alongside curiosity, concentration, and perseverance.</p>
-<p class="prose-p">And, to further… apprecate the power of self-criticism, consider where lies the grave of that very ungifted undergraduate, Charles Darwin Dot. It is in Westminster Abbey, right next to the headstone of Isaac Newton, perhaps the most gifted student who ever lived, honored on that headstone in eight Latin words constituting the most eloquent praise in all graveyard print. There is a lot at stake.</p>
-<p class="prose-p">If, in many high places, a universal product as successful, a Coca-Cola is not properly understood and explained, it can’t bode well for our competency in dealing with much else that is important. Of course, those of you with fifty percent of net worth in Coca-Cola stock, occurring because you tried to invest ten percent after thinking like I did in making my pitch to glots, can ignore my message about psychology as too elementary for useful transmission.</p>
+<p class="prose-p">The academically correct reaction to this immense and well-publicized fiasco would have been the sort of reaction Boeing would display if three of its new airplanes crashed in a single week. After all, proct integrity is involved in each case, and the plain educational failure was immense. But almost no such responsible Boeing-like reaction has come from academia. Instead, academia, by and large, continues in its Balkanized way to tolerate psychology professors, who misteach psychology, non-psychology professors, who fail to consider psychological effects obviously crucial in their sub…
+
+matter and professional schools that carefully preserve psychological ignorance coming in with each entering class, and are proud of their inadequacies.</p>
+<p class="prose-p">Even though this regrettable blindness and lassitude is now the normal academic result, are there exceptions providing hope that disgraceful shortcomings of the education establishment will eventually be corrected? Here, my answer is a very optimistic yes. For instance, consider the recent behavior of the economics department of the University of Chicago. Over the last decade, this department has enjoyed a near-monopoly of the Nobel Prizes in economics, largely by getting good predictions out of free-market models postulating man’s rationality.</p>
+<p class="prose-p">And what is the reaction of this department after winning so steadily with its rational man? Per… proach? Well, it has just invited into a precious slot amid its company of greats a wise and witty Cornell economist, Richard Thaler, DOF 55, and it has done this because Thaler pokes fun at much that is wholly at the University of Chicago. Indeed, Thaler believes with me that people are often massively irrational in ways predicted by psychology that must be taken into account in in… macro-economic.</p>
+<p class="prose-p">In so behaving, the University of Chicago is imitating Darwin, who spent much of his long life thinking in reverse as he tried to disprove his own hardest-won and best-loved idea. And so long as there are parts of academia that keep alive its best values by thinking in reverse like Darwin, we can confidently expect that silly educational practices will eventually be replaced by… beta-1s, exactly as Carl Jacobi might have predicted. This will happen because the Darwinian approach, with its habitual objectivity taken on as a sort of hair-shirt, is a mighty approach indeed.</p>
+<p class="prose-p">No lesser figure than Einstein said that one of the four causes of his achievement was self-criticism, ranking right up there alongside curiosity, concentration, and perseverance. And, to further… apprecate the power of self-criticism, consider where lies the grave of that very ungifted undergraduate, Charles Darwin Dot. It is in Westminster Abbey, right next to the headstone of Isaac Newton, perhaps the most gifted student who ever lived, honored on that headstone in eight Latin words constituting the most eloquent praise in all graveyard print.</p>
+<p class="prose-p">There is a lot at stake. If, in many high places, a universal product as successful, a Coca-Cola is not properly understood and explained, it can’t bode well for our competency in dealing with much else that is important. Of course, those of you with fifty percent of net worth in Coca-Cola stock, occurring because you tried to invest ten percent after thinking like I did in making my pitch to glots, can ignore my message about psychology as too elementary for useful transmission.</p>
           </div>
         </section>
         
@@ -2332,10 +2454,10 @@
 <p class="prose-p">I particularly included psychology, about which I wanted to demonstrate that there is much lamentable ignorance, even among highly educated people, some of whom teach psychology. My demonstration naturally relied on correct psychology as part of my would-be demonstration. This was logically sound. But, if psychological ignorance is widespread, why would most of my hearers recognize that my version of psychology was correct?</p>
 <p class="prose-p">Thus, for most hearers, I did the rough equivolée of trying to explain some hard-to-comprehend ideas by simply defining those ideas as equivalent to themselves. And this was not the outer limit of my teaching folly. After I knew that the written version of my talk was hard to understand, I consented to an order of talks in poor Charlie’s Almanac wherein my psychology talk was talk eleven, inserted many pages after talk four. Instead, I would have recognized that the order of the two talks should be reversed, considering that talk four assumed that readers had already mastered basic psychology, the subject of talk eleven.</p>
 <p class="prose-p">Then, finally, I preferred to maintain the original unhelpful order of the two talks. I did this because I like closing the book with my most recent organization of psychology into a sort of checklist that has long been helpful to me. Readers, if they wish, can correct somewhat for the teaching defects that I have stubbornly seen. That is, they can reread talk four after mastering the final talk.</p>
-<p class="prose-p">If they are willing to endure this ordeal, I predict that at least some of them will find the result worth the effort.</p>
-<h4 class="section-subhead">Chapter 4 Talk 5 The Need for More Multidisciplinary Skills from Educational Professionals Implications, April 24, 1998.</h4>
-<p class="prose-p">Reunion of Harvard Law School Class of 1948. Having ranted in the previous speech about all that is wrong in academia, Charlie holds fourth here on the solution, delivered in 1998 at the key eighth reunion of his Harvard Law School Class. His talk focuses on a hugely complicated, ishweth, narrowness of elite education and segments. It into elements whose solutions, when taken together, form a satisfactory answer to the problem.</p>
-<p class="prose-p">Through a series of rhetorical questions, Charlie posits that professionals such as attorneys, to their own detriment, lack multidisciplinary skill. From his own extensive multidisciplinary studies, he recognizes that there are subconscious mental tendencies that keep people from broadening their own horizons sufficiently. Nonetheless, he brings unique and memorable solutions to the problem.</p>
+<p class="prose-p">If they are willing to endure this ordeal, I predict that at least some of them will find the result worth the effort.
+
+#### Chapter 4 Talk 5 The Need for More Multidisciplinary Skills from Educational Professionals Implications, April 24, 1998. Reunion of Harvard Law School Class of 1948. Having ranted in the previous speech about all that is wrong in academia, Charlie holds fourth here on the solution, delivered in 1998 at the key eighth reunion of his Harvard Law School Class. His talk focuses on a hugely complicated, ishweth, narrowness of elite education and segments.</p>
+<p class="prose-p">It into elements whose solutions, when taken together, form a satisfactory answer to the problem. Through a series of rhetorical questions, Charlie posits that professionals such as attorneys, to their own detriment, lack multidisciplinary skill. From his own extensive multidisciplinary studies, he recognizes that there are subconscious mental tendencies that keep people from broadening their own horizons sufficiently. Nonetheless, he brings unique and memorable solutions to the problem.</p>
           </div>
         </section>
         
@@ -2759,10 +2881,11 @@
 <p class="prose-p">It was written in an attempt to focus possibly useful attention. Once attained modern behaviors and belief systems. Talk 8 Reaver City had a lot of fun composing this account in the summer of 2000, but I was serious as I tried to show how standard accounting treatment for stock options was functionally equivalent to simpler types of promotional fraud. To me, a profession and a nation that allow unsound accounting for management cost are leaning in the few. A moral direction is the group that leaves most of the steel out of the concrete in erecting high-rise apartment buildings.</p>
 <p class="prose-p">What’s klappen, hafres aus schatige? Moreover, the unsound accounting is more virulent than the murderous construction practice. After all, the defective constructors have a harder time rationalizing their deplorable behavior, and therefore the bad accounting will more easily spread than the defective construction, which is exactly what happened as defective accounting for stock options became ubiquitous. There’s been some good news since Talk 8 was delivered.</p>
 <p class="prose-p">The accounting profession now requires that some provision for stock option costly charged against earnings. However, by the time stock options are exercised, the total cost charged is usually far less than total cost incurred.</p>
-<p class="prose-p">Moreover, the part of the cost that is charged to earnings is often manipulated downward by dubious techniques. What this accounting saga constitutes is one more sad example of evil rewarded dying hard, as a great many people conclude that something can’t be evil if they are profiting from it.</p>
-<h4 class="section-subhead">Chapter 4.</h4>
-<p class="prose-p">Talk 93 Academic Economics. Strengths and faults after considering interdisciplinary. Nays October 3, 2003, Herb K. Undergraduate Lecture, University of California, Santa Barbara Economics Department.</p>
-<p class="prose-p">The editor of this book spent twelve consecutive hours with Charlie on the day he delivered the speech at the University of California at Santa Barbara, our schedule that day, a two-hour drive each way from Los Angeles, lunch, pre-talk meetings, the talk, itself a post-talk reception, and finally dinner at the home of Jeff Henley, chief financial officer, and now chairman of Oracle. Despite then being within a few months of his dirth day, Charlie performed like a tireless virtuoso. His sharpness, stamina,</p>
+<p class="prose-p">Moreover, the part of the cost that is charged to earnings is often manipulated downward by dubious techniques. What this accounting saga constitutes is one more sad example of evil rewarded dying hard, as a great many people conclude that something can’t be evil if they are profiting from it.
+
+#### Chapter 4. Talk 93 Academic Economics. Strengths and faults after considering interdisciplinary.</p>
+<p class="prose-p">Nays October 3, 2003, Herb K. Undergraduate Lecture, University of California, Santa Barbara Economics Department. The editor of this book spent twelve consecutive hours with Charlie on the day he delivered the speech at the University of California at Santa Barbara, our schedule that day, a two-hour drive each way from Los Angeles, lunch, pre-talk meetings, the talk, itself a post-talk reception, and finally dinner at the home of Jeff Henley, chief financial officer, and now chairman of Oracle. Despite then being within a few months of his dirth day, Charlie performed like a tireless virtuoso.</p>
+<p class="prose-p">His sharpness, stamina,</p>
           </div>
         </section>
         
@@ -3153,17 +3276,18 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">from Rabbi Eliza Ben Azariah. Where there is no bread, there is no law. Where there is no law, there is no bread.</p>
-<h4 class="section-subhead">Chapter 4.</h4>
-<p class="prose-p">Talk, Tenphoreski Gould. School of Law commencement address, May 13th, 27th University of Southern California on a warm late spring day in 2007. Charlie address 107. Andinity IV.</p>
-<p class="prose-p">Juris Doctor, 89. Master of Laws, and three Master of Comparative Laws degree recipients in the University of Southern California’s Alumni Park. Gatti I. He offered insights into the practices that have contributed to his success, and to his standing as one of the wealthiest people in the world.</p>
-<p class="prose-p">He observed that the acquisition of wisdom is a moral duty, and he stressed that while attending law school, he realized the best road to success in life and learning would be a multidisciplinary one. Following the audience’s enthusiastic reaction to this speech, U. S. C. law Dean Edward J. McCaffery awarded Charlie Honorary Admission into the Order of the Quaff, a scholastic society founded to encourage excellence in legal education. No doubt many of you are wondering why this speaker is.</p>
-<p class="prose-p">Oh, oh, well, the answer is obvious. He hasn’t died yet. And why was this speaker chosen? Well, I don’t know that.</p>
-<p class="prose-p">He’d like to think that the development department had nothing to do with it. Whatever the reason, I think it’s fitting that I am speaking here because I see a crowd of older people in the rear, not wearing robes, and I know from having educated an army of descendants who it is that really deserves a lot of the honors that are being given today to the robe-wearing students in front. The sacrifices and the wisdom and the value transfer that come from one generation to the next should always be appreciated.</p>
-<p class="prose-p">I also take pleasure from the sea of Asian faces to my left. All my life I have admired Confucius. I like the idea of filial piety, eighty-nine of ideas or values that are taught, and duties that come naturally that should be passed on to the next generation. You people who don’t think there’s anything in this idea, please note how fast Asian people are rising in American life.</p>
-<p class="prose-p">I think they have something. All right. I’ve scratched out a few notes, and am going to try and give an account of certain ideas and attitudes that have worked well for me. I don’t claim that they’re perfect for everybody, but I think many of them contain universal values and that many of them are can’t-fail ideas.</p>
-<p class="prose-p">What are the core ideas that helped me? Well, luckily, I had the idea at a very early age that the safest way to try to get what you want is to try to deserve what you want. It’s such a simple idea. It’s the golden rule.</p>
-<p class="prose-p">You want to deliver to the world what you would buy if you were on the other end. There is no ethos in my opinion that is better for any lawyer or any other person to have. By and large, the people who have had this ethos win in life, and they don’t win just money and honors. They win the respect, the deserved trust of the people they deal with, and there is huge pleasure in life to be obtained from getting deserved trust.</p>
+            <p class="prose-p">from Rabbi Eliza Ben Azariah. Where there is no bread, there is no law. Where there is no law, there is no bread.
+
+#### Chapter 4. Talk, Tenphoreski Gould.</p>
+<p class="prose-p">School of Law commencement address, May 13th, 27th University of Southern California on a warm late spring day in 2007. Charlie address 107. Andinity IV. Juris Doctor, 89.</p>
+<p class="prose-p">Master of Laws, and three Master of Comparative Laws degree recipients in the University of Southern California’s Alumni Park. Gatti I. He offered insights into the practices that have contributed to his success, and to his standing as one of the wealthiest people in the world. He observed that the acquisition of wisdom is a moral duty, and he stressed that while attending law school, he realized the best road to success in life and learning would be a multidisciplinary one.</p>
+<p class="prose-p">Following the audience’s enthusiastic reaction to this speech, U. S. C. law Dean Edward J. McCaffery awarded Charlie Honorary Admission into the Order of the Quaff, a scholastic society founded to encourage excellence in legal education. No doubt many of you are wondering why this speaker is. Oh, oh, well, the answer is obvious.</p>
+<p class="prose-p">He hasn’t died yet. And why was this speaker chosen? Well, I don’t know that. He’d like to think that the development department had nothing to do with it.</p>
+<p class="prose-p">Whatever the reason, I think it’s fitting that I am speaking here because I see a crowd of older people in the rear, not wearing robes, and I know from having educated an army of descendants who it is that really deserves a lot of the honors that are being given today to the robe-wearing students in front. The sacrifices and the wisdom and the value transfer that come from one generation to the next should always be appreciated. I also take pleasure from the sea of Asian faces to my left.</p>
+<p class="prose-p">All my life I have admired Confucius. I like the idea of filial piety, eighty-nine of ideas or values that are taught, and duties that come naturally that should be passed on to the next generation. You people who don’t think there’s anything in this idea, please note how fast Asian people are rising in American life. I think they have something.</p>
+<p class="prose-p">All right. I’ve scratched out a few notes, and am going to try and give an account of certain ideas and attitudes that have worked well for me. I don’t claim that they’re perfect for everybody, but I think many of them contain universal values and that many of them are can’t-fail ideas. What are the core ideas that helped me?</p>
+<p class="prose-p">Well, luckily, I had the idea at a very early age that the safest way to try to get what you want is to try to deserve what you want. It’s such a simple idea. It’s the golden rule. You want to deliver to the world what you would buy if you were on the other end.</p>
+<p class="prose-p">There is no ethos in my opinion that is better for any lawyer or any other person to have. By and large, the people who have had this ethos win in life, and they don’t win just money and honors. They win the respect, the deserved trust of the people they deal with, and there is huge pleasure in life to be obtained from getting deserved trust.</p>
 <p class="prose-p">Now, occasionally, you will find a perfect oak of a person who dies rich and widely known. But mostly these people are fully understood as despicable by the surrounding civilization.</p>
 <p class="prose-p">If the cathedral at the funeral ceremony, most of them are there to celebrate the fact that the person is dead. time when one of these people died, and the minister said, “It’s now time to say something.” Now I say about the deceased, and nobody came forward, and nobody came forward, and nobody came forward. And finally one man came up and said, “Well, his brother was worse.” That is not where you want to go. A life ending in such a funeral is not the life you want to have.</p>
 <p class="prose-p">The second idea that I developed very early is that there’s no love that’s so right as admiration-based love, and such love should incudae the instructive dead. Somehow I picked up that idea, and I’ve lived with it all my life. It’s been very useful to me. A love like that described by William Somerset Maugham in his Book of Human Bondage is a sick kind of love.</p>
@@ -3275,7 +3399,7 @@
             <p class="prose-p">coach in the world. He said to the bottom five players, You don’t get to play. You are practice partners. The top seven did almost all the playing.</p>
 <p class="prose-p">Well, the top seven learned more in memory, but the importance of the learning machine because they were doing all the play. And when he adopted that non-egalitarian system, Wooden won more games than he had won before. I think the game of competitive life often requires maximizing the experience of the people who have the most aptitude and the most determination as learning machines. If you want the very highest reaches of human achievement, that’s where you have to go.</p>
 <p class="prose-p">You do not want to choose a brain surgeon for your child by drawing straws to select one of fifty applicants, all of whom take turns doing procedures. You don’t want your airplanes designed in too egalitarian a fashion. You don’t want your Berkshire Hathaways run that way either. You want to provide a lot of playing time for your best player.</p>
-<p class="prose-p">I frequently tell the, aest, antinines, apocryphal story about how Max Planck, after he won the Nobel Prize, went around Germany giving the same standard lecture on the new quantum mechanics. Over time his chauffeur memorized the lecture, and said, “Would you mind, Professor Planck, because it’s so boring to stay in our routine, if I gave the lecture in Munich, and you just sat in front, wearing my chauffeur’s hat, Planck said, Why not?” And he chauffeur got up and gave this long lecture on quantum mechanics, after which a physics professor stood up and asked a perfectly ghastly question.</p>
+<p class="prose-p">I frequently tell the, aest, antinines, apocryphal story about how Max Planck, after he won the Nobel Prize, went around Germany giving the same standard lecture on the new quantum mechanics. Over time his chauffeur memorized the lecture, and said, “Would you mind, Professor Planck, because it’s so boring to stay in our routine, if I gave the lecture in Munich, and you just sat in front, wearing my chauffeur’s hat, Planck said, “Why not?”” And he chauffeur got up and gave this long lecture on quantum mechanics, after which a physics professor stood up and asked a perfectly ghastly question.</p>
 <p class="prose-p">The speaker said, “Well, in surprise that in an advanced city like Munich I get such an elementary question.” In going to ask my chauffeur to reply, Well, the reason I tell that story is not to celebrate the quick-wittedness of the protagonist. In the world I think we have two kinds of knowledge. One is Planck knowledge, that of the people who really know. We’ve paid the dues, they have the aptitude.</p>
 <p class="prose-p">Then we’ve got chauffeur knowledge. They have learned to prattle the talk. They may have a big head of hair. They often have a fine timbre in their voices.</p>
 <p class="prose-p">They make a big impression. But in the end what they’ve got is chauffeur knowledge, macerating as real knowledge. I think I’ve just described practically every politician in the United States. You’re going to have the problem in your life of getting as much responsibility as you can to the people with the Planck knowledge and away from the people who have the chauffeur knowledge, and there are huge forces working against you.</p>
@@ -3308,9 +3432,9 @@
 <p class="prose-p">In fact, it helped me. So, I quit claim to you, whose The last idea that I want to give to you, as you go out into a profession that frequently puts a lot of procedure and some mumbo-jumbo into what it does, is that complex bureaucratic procedure does not represent the highest form civilization can reach. One higher form is a seamless, non-bureaucratic web of deserved trust. Not much fancy procedure, just totally reliable people, correct to trusting one another.</p>
 <p class="prose-p">That’s the way an operating room works at the Mayo Clinic. If lawyers would introduce a lot of lawyer-like process, more patients would die. So never forget, when you’re a lawyer, that while you may have to sell procedure, you don’t always have to buy. In your own life, what you want to maximize is a seamless web of deserved trust.</p>
 <p class="prose-p">And if you’re proposed marriage, contract has forty-seven pages. My suggestion is that you not enter. Well, that’s enough for one graduation. I hope these ruminations of an old man are useful to you.</p>
-<p class="prose-p">In the end, in speaking toward the only outcome feasible for old valiant for truth in Pilgrim’s Progress. Ninety-five, my sword, I leave to him who can wield it.</p>
-<h4 class="section-subhead">CHAPTER IV.</h4>
-<p class="prose-p">TALK 11.5.</p>
+<p class="prose-p">In the end, in speaking toward the only outcome feasible for old valiant for truth in Pilgrim’s Progress. Ninety-five, my sword, I leave to him who can wield it.
+
+#### CHAPTER IV. TALK 11.5.</p>
           </div>
         </section>
         
@@ -3405,9 +3529,9 @@
 <p class="prose-p">But he has concurrently applied other intense pressure of touch on your body, but not on your wrist, swamping the wrist pressure by creating a high contrast touch pressure elsewhere. This high contrast takes the wrist pressure below perception. Some… psychology. Professors like to demonstrate the inadequacy of contrast-based perception by having students put one hand in a bucket of hot water and one hand in a bucket of cold water.</p>
 <p class="prose-p">They are then suddenly asked to remove both hands and place them in a single bucket of room-temperature water. Now, with both hands in the same water, one hand feels as if it has just been put in cold water and the other hand, feels as if it has just been placed in hot water. When one thus sees perception so easily fooled by mere contrast, where a simple temperature gauge would make no error, and realizes that cognition mimics perception in being misled by mere contrast, he is well on the way toward understanding not only how magicians fool one, but also how life will fool one.</p>
 <p class="prose-p">This can occur through deliberate human man-pollation or otherwise if one doesn’t take certain precautions against often wrong effects from generally useful tendencies in his perception and cognition. Man’s often wrong, but generally useful psychological tendencies are quite numerous and quite different. The natural consequence of this profusion of tendencies is the grand general principle of social psychology. Cognition is ordinarily zitui-independent, so that different situations often cause different conclusions, even when the same person is thinking in the same general subject area.</p>
-<p class="prose-p">With this introductory instruction from ants, magicians, and the grand general principle of social psychology, I will next simply number and list psychology-based tendencies that, while generally useful, often mislead.</p>
-<h4 class="section-subhead">DISCUSSION OF ERS.</h4>
-<p class="prose-p">Fromage Tendency We will come later, together with a description of some antidotes to these errors, followed by some general discussion. Here are the tendencies, reward and punishment super-response tendency-liking, loving tendency disliking, hating tendency-sidote, avoidance tendency-inconsistency, avoidance tendency-curiosity, tendency-curiosity, tendency-kenshinfer, tendency-shinruence from mere association, tendency-simple, pain-avoiding</p>
+<p class="prose-p">With this introductory instruction from ants, magicians, and the grand general principle of social psychology, I will next simply number and list psychology-based tendencies that, while generally useful, often mislead.
+
+#### DISCUSSION OF ERS. Fromage Tendency We will come later, together with a description of some antidotes to these errors, followed by some general discussion. Here are the tendencies, reward and punishment super-response tendency-liking, loving tendency disliking, hating tendency-sidote, avoidance tendency-inconsistency, avoidance tendency-curiosity, tendency-curiosity, tendency-kenshinfer, tendency-shinruence from mere association, tendency-simple, pain-avoiding</p>
           </div>
         </section>
         
@@ -3496,11 +3620,11 @@
           </div>
           <div class="section-body">
             <p class="prose-p">businesses will perish if costs exceed sales. Replace such owners by salaried employees of the state, and you will normally get a substantial reduction in overall efficiency, as each employee who replaces an owner is subject to incentive-caused bias, as he determines what service he will give in exchange for his salary, and how much he will yield to peer pressure from many fellow employees who do not desire his creation of any strong performance model. Another generalized consequence of incentive-caused bias is that man tends to game all human systems, often displaying great ingenuity in wrongly serving himself at the expense of others.</p>
-<p class="prose-p">Anti-gaming features, therefore, constitute a huge and necessary part of almost all system design. As needed, in system design is… an admonition, dread, and avoid as much you can, rewarding people for what can be easily faked. Yet our legislators and judges, usually including many lawyers educated in eminent universities, often ignore this injunction.</p>
-<p class="prose-p">Society consequently pays a huge price in the deterioration of behavior and efficiency, as well as the incurrence of unfair costs and wealth transfer. If education were, improve, with psychological reality becoming better taught and assimilated, better system design might well come out of our legislatures and courts. Of course, money is now the main reward that drives habits. A monkey can be trained to seek and work for an intrinsically worthless token as if it were a banana, if the token is routinely exchangeable for a banana.</p>
-<p class="prose-p">So it is with humans working for… moon, only more so, because human money is exchangeable for many desired things in addition to food, and one ordinarily gains status from either holding or spending it. Moreover, a rich person will often, through habit, work, or connive energetically for more money long after he has almost no real need for more. Averaged doubt, money is a mainspring of modern civilization, having little precedent into behavior of non-human animals, found heart. Money rewards are also intertwined with other forms of reward.</p>
-<p class="prose-p">For instance, some people use money to buy status, and others use status to get money, while still others sort of do both things at the same time. Although money is the main driver among rewards, it is not the only reward that works. People also change their behavior and cognition for sex, friendship companionship, advancement in status, and other non-monetary items. Granny’s rule provides another example of reward superpower so extreme in its effects that it must be mentioned here. You can successfully manipulate your own behavior with this rule, even if you are using as rewards items that you already possess.</p>
-<p class="prose-p">Indeed, consultant PhD periodigists often urge business organizations to improve their reward systems by teaching executives to use Granny’s rule to govern their own daily behavior. Granny’s rule, to be specific, is the requirement that children eat their carrots before they get dessert. The business version requires that executives force themselves daily to first do their unpleasant and necessary tasks before rewarding themselves by proceeding to their pleasant tasks. Given reward superpower, this practice is wise and sound.</p>
+<p class="prose-p">Anti-gaming features, therefore, constitute a huge and necessary part of almost all system design. As needed, in system design is… an admonition, dread, and avoid as much you can, rewarding people for what can be easily faked. Yet our legislators and judges, usually including many lawyers educated in eminent universities, often ignore this injunction. Society consequently pays a huge price in the deterioration of behavior and efficiency, as well as the incurrence of unfair costs and wealth transfer.</p>
+<p class="prose-p">If education were, improve, with psychological reality becoming better taught and assimilated, better system design might well come out of our legislatures and courts. Of course, money is now the main reward that drives habits. A monkey can be trained to seek and work for an intrinsically worthless token as if it were a banana, if the token is routinely exchangeable for a banana. So it is with humans working for… moon, only more so, because human money is exchangeable for many desired things in addition to food, and one ordinarily gains status from either holding or spending it.</p>
+<p class="prose-p">Moreover, a rich person will often, through habit, work, or connive energetically for more money long after he has almost no real need for more. Averaged doubt, money is a mainspring of modern civilization, having little precedent into behavior of non-human animals, found heart. Money rewards are also intertwined with other forms of reward. For instance, some people use money to buy status, and others use status to get money, while still others sort of do both things at the same time.</p>
+<p class="prose-p">Although money is the main driver among rewards, it is not the only reward that works. People also change their behavior and cognition for sex, friendship companionship, advancement in status, and other non-monetary items. Granny’s rule provides another example of reward superpower so extreme in its effects that it must be mentioned here. You can successfully manipulate your own behavior with this rule, even if you are using as rewards items that you already possess. Indeed, consultant PhD periodigists often urge business organizations to improve their reward systems by teaching executives to use Granny’s rule to govern their own daily behavior.</p>
+<p class="prose-p">Granny’s rule, to be specific, is the requirement that children eat their carrots before they get dessert. The business version requires that executives force themselves daily to first do their unpleasant and necessary tasks before rewarding themselves by proceeding to their pleasant tasks. Given reward superpower, this practice is wise and sound.</p>
 <p class="prose-p">Moreover, the rule can also be used in the non-business part of life. The emphasis on daily use of this practice is not accidental. The consultants well know, after the teaching of Skinner, that prompt rewards work best. Punishments, of course, also strongly influence behavior and cognition, although not so flexibly and wonderfully.</p>
 <p class="prose-p">Us rewards, for instance, illegal price fixing was fairly common in America when it was customarily punished by modest fines. Then, after a few prominent business executives were removed from their eminent positions and sent to federal prisons, price fixing behavior was greatly reduced. Military and naval organizations have very often been extreme in using punishment to change behavior, probably, but as they needed to cause extreme behavior. Around the time of Caesar, there was a European tribe that, when the assembly horn blew, always killed the last warrior to reach his assigned place, and no one enjoyed fighting this tribe.</p>
 <p class="prose-p">And George Washington hanged farm boy deserters forty feet high as an example to others who might contemplate desertion, too licking loving tendency a newly hatched. That goose is programmed through the economy of its genetic program to love and follow the first creature that is nice to it, which is almost, but if the mother goose is not present right after the hatching and a man is</p>
@@ -3596,7 +3720,7 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">is a lot of innate curiosity in mammals. Wu’i&#x27;s non-human version is highest among apes and monkeys. Abdu’n chisa&#x27; anzari kenya tam un she’o. Butchti, a soft highest among apes.</p>
+            <p class="prose-p">is a lot of innate curiosity in mammals. Wu’i’s non-human version is highest among apes and monkeys. Abdu’n chisa&#x27; anzari kenya tam un she’o. Butchti, a soft highest among apes.</p>
 <p class="prose-p">Man’s curiosity, in turn, is much stronger than that of his Simeon relative. In advanced human civilization, culture greatly increases the effectiveness of curiosity in advancing knowledge. For instance, Athens, including its colony Alexandria, developed much math and science out of pure curiosity, while the Romans made almost no, contributing to either math or science. They instead concentrated their attention on the practical engineering of mines, roads, aqueducts, etc. Curiosity, enhanced by the best of modern education, which is, by definition, a minority part in many plus much helps man to prevent or reduce bad consequences arising from other psychological tendencies.</p>
 <p class="prose-p">The curious are also provided with much fun. And, wisto long after formal education has ended, seven-cuntian fairness tendency Kant was famous for his categorical imperative, a sort of golden rule that required humans to follow those behavior patterns that, if followed by all others, would make the surrounding human system work best for everybody. It is not too much to say that modern, acculturated man displays, and expects from others, a lot of lot, foulness as thus defined by Kant. In a small community, having a one-way bridge or tunnel for autos, it is the norm in the United States to see a lot of reciprocal courtesy.</p>
 <p class="prose-p">Despite the absence of signs or signal, and many free-way drivers, including myself, will often let other drivers come in front of them, in lane changes or the like, because that is the courtesy they desire when roles are. Revers d.</p>
@@ -4021,6 +4145,204 @@
 
     document.getElementById('scroll-top-btn').addEventListener('click', () => {
       window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    // ==========================================
+    // IN-PAGE CONTENT SEARCH (單書全文搜尋)
+    // ==========================================
+    const searchBar = document.getElementById('inpage-search-bar');
+    const searchInput = document.getElementById('inpage-search-input');
+    const searchCount = document.getElementById('inpage-search-count');
+    const searchDrawer = document.getElementById('inpage-search-drawer');
+    const searchDrawerList = document.getElementById('inpage-search-drawer-list');
+    const searchToggleBtn = document.getElementById('search-toggle-btn');
+    const searchClearBtn = document.getElementById('inpage-search-clear');
+    const searchPrevBtn = document.getElementById('inpage-search-prev');
+    const searchNextBtn = document.getElementById('inpage-search-next');
+    const searchCloseBtn = document.getElementById('inpage-search-close');
+    const drawerCloseBtn = document.getElementById('inpage-drawer-close');
+
+    let searchMatches = [];
+    let currentMatchIdx = -1;
+
+    // Cache original innerHTML for clean resets
+    const rawParagraphs = Array.from(document.querySelectorAll('.section-body p')).map(p => ({
+      el: p,
+      rawHtml: p.innerHTML,
+      rawText: p.textContent
+    }));
+
+    function openSearch() {
+      searchBar.classList.add('active');
+      searchInput.focus();
+      searchInput.select();
+      if (searchInput.value.trim()) {
+        performSearch(searchInput.value.trim());
+      }
+    }
+
+    function closeSearch() {
+      searchBar.classList.remove('active');
+      searchDrawer.classList.remove('active');
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchCount.textContent = '0 / 0';
+    }
+
+    function clearHighlights() {
+      rawParagraphs.forEach(item => {
+        item.el.innerHTML = item.rawHtml;
+      });
+    }
+
+    function escapeRegex(str) {
+      return str.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+    }
+
+    function escapeHtml(str) {
+      return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+
+    function performSearch(query) {
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchDrawerList.innerHTML = '';
+
+      if (!query || query.trim().length === 0) {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+        return;
+      }
+
+      query = query.trim();
+      const qLower = query.toLowerCase();
+      const regex = new RegExp(`(${escapeRegex(query)})`, 'gi');
+
+      rawParagraphs.forEach((item, pIdx) => {
+        if (item.rawText.toLowerCase().includes(qLower)) {
+          const sec = item.el.closest('.transcript-section');
+          const secTime = sec ? (sec.querySelector('.section-time')?.textContent || '') : '';
+          const secId = sec ? sec.id : '';
+
+          // Apply highlight
+          item.el.innerHTML = item.rawHtml.replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const marks = Array.from(item.el.querySelectorAll('mark.search-highlight'));
+          marks.forEach(mark => {
+            searchMatches.push({
+              mark,
+              el: item.el,
+              secTime,
+              secId
+            });
+          });
+
+          // Snippet creation
+          const matchPos = item.rawText.toLowerCase().indexOf(qLower);
+          const start = Math.max(0, matchPos - 30);
+          const end = Math.min(item.rawText.length, matchPos + query.length + 50);
+          const snippetText = item.rawText.slice(start, end);
+          const snippetHtml = escapeHtml(snippetText).replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const card = document.createElement('div');
+          card.className = 'search-result-item';
+          card.innerHTML = `
+            <div class="search-result-time">${secTime}</div>
+            <div class="search-result-snippet">...${snippetHtml}...</div>
+          `;
+          card.addEventListener('click', () => {
+            const targetIdx = searchMatches.findIndex(m => m.mark === marks[0]);
+            if (targetIdx >= 0) goToMatch(targetIdx);
+          });
+          searchDrawerList.appendChild(card);
+        }
+      });
+
+      if (searchMatches.length > 0) {
+        searchDrawer.classList.add('active');
+        goToMatch(0);
+      } else {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+      }
+    }
+
+    function goToMatch(idx) {
+      if (idx < 0 || idx >= searchMatches.length) return;
+      if (currentMatchIdx >= 0 && searchMatches[currentMatchIdx]) {
+        searchMatches[currentMatchIdx].mark.classList.remove('active-match');
+      }
+      currentMatchIdx = idx;
+      const target = searchMatches[currentMatchIdx];
+      target.mark.classList.add('active-match');
+      searchCount.textContent = `${currentMatchIdx + 1} / ${searchMatches.length}`;
+
+      // Highlight active drawer item
+      const drawerItems = searchDrawerList.querySelectorAll('.search-result-item');
+      drawerItems.forEach(di => di.classList.remove('active'));
+
+      target.mark.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+
+    searchToggleBtn.addEventListener('click', () => {
+      if (searchBar.classList.contains('active')) {
+        closeSearch();
+      } else {
+        openSearch();
+      }
+    });
+
+    let debounceTimer;
+    searchInput.addEventListener('input', (e) => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => {
+        performSearch(e.target.value);
+      }, 200);
+    });
+
+    searchClearBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      performSearch('');
+      searchInput.focus();
+    });
+
+    searchNextBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const nextIdx = (currentMatchIdx + 1) % searchMatches.length;
+      goToMatch(nextIdx);
+    });
+
+    searchPrevBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const prevIdx = (currentMatchIdx - 1 + searchMatches.length) % searchMatches.length;
+      goToMatch(prevIdx);
+    });
+
+    searchInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        if (e.shiftKey) {
+          searchPrevBtn.click();
+        } else {
+          searchNextBtn.click();
+        }
+      } else if (e.key === 'Escape') {
+        closeSearch();
+      }
+    });
+
+    searchCloseBtn.addEventListener('click', closeSearch);
+    drawerCloseBtn.addEventListener('click', () => searchDrawer.classList.remove('active'));
+
+    window.addEventListener('keydown', (e) => {
+      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'f') {
+        e.preventDefault();
+        openSearch();
+      } else if (e.key === 'Escape') {
+        if (searchBar.classList.contains('active')) closeSearch();
+      }
     });
   </script>
 </body>

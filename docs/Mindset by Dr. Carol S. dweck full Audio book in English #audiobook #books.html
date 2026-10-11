@@ -66,26 +66,12 @@
       --card-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
     }
 
-    [data-line-height="compact"] {
-      --line-height: 1.68;
-    }
-    [data-line-height="normal"] {
-      --line-height: 1.88;
-    }
-    [data-line-height="loose"] {
-      --line-height: 2.12;
-    }
+    [data-line-height="compact"] { --line-height: 1.68; }
+    [data-line-height="normal"] { --line-height: 1.88; }
+    [data-line-height="loose"] { --line-height: 2.12; }
 
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
-    html {
-      scroll-behavior: smooth;
-    }
-
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
     body {
       font-family: var(--font-family);
       font-size: var(--font-size);
@@ -119,7 +105,7 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 0 20px;
+      padding: 0 18px;
       background-color: var(--bg-header);
       backdrop-filter: blur(8px);
       -webkit-backdrop-filter: blur(8px);
@@ -129,7 +115,7 @@
     .header-left, .header-right {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 8px;
       flex-wrap: nowrap;
     }
 
@@ -138,7 +124,7 @@
       border: 1px solid var(--border-color);
       color: var(--text-primary);
       cursor: pointer;
-      font-size: 14px;
+      font-size: 13.5px;
       padding: 6px 10px;
       border-radius: 8px;
       display: inline-flex;
@@ -147,6 +133,7 @@
       transition: all 0.2s;
       white-space: nowrap;
       user-select: none;
+      text-decoration: none;
     }
     .btn-icon:hover {
       background-color: var(--accent-light);
@@ -161,11 +148,132 @@
       font-size: 14px;
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
+    }
+    .home-link:hover { color: var(--accent-color); }
+
+    /* In-Page Search Bar Dropdown */
+    .inpage-search-bar {
+      position: sticky;
+      top: 60px;
+      z-index: 890;
+      background-color: var(--bg-surface);
+      border-bottom: 1px solid var(--border-color);
+      padding: 10px 18px;
+      display: none;
+      align-items: center;
+      gap: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    }
+    .inpage-search-bar.active { display: flex; }
+
+    .inpage-search-input-wrapper {
+      flex: 1;
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    .inpage-search-input {
+      width: 100%;
+      padding: 8px 36px 8px 12px;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      font-size: 14px;
+    }
+    .inpage-search-input:focus { outline: 2px solid var(--accent-color); }
+
+    .inpage-search-clear {
+      position: absolute;
+      right: 10px;
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 16px;
     }
 
-    .home-link:hover {
+    .inpage-search-count {
+      font-size: 13px;
+      color: var(--text-secondary);
+      font-family: monospace;
+      white-space: nowrap;
+    }
+    .search-nav-btns { display: flex; gap: 6px; }
+
+    /* In-Page Search Results Drawer */
+    .inpage-search-drawer {
+      position: fixed;
+      right: 20px;
+      top: 120px;
+      width: 360px;
+      max-height: calc(100vh - 160px);
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+      z-index: 895;
+      display: none;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .inpage-search-drawer.active { display: flex; }
+    .inpage-search-drawer-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-weight: 600;
+      font-size: 14px;
+    }
+    .inpage-search-drawer-list {
+      overflow-y: auto;
+      padding: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .search-result-item {
+      padding: 10px 12px;
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+      background: var(--bg-primary);
+      cursor: pointer;
+      font-size: 13px;
+      transition: all 0.15s;
+    }
+    .search-result-item:hover, .search-result-item.active {
+      border-color: var(--accent-color);
+      background: var(--accent-light);
+    }
+    .search-result-time {
+      font-weight: 700;
       color: var(--accent-color);
+      font-family: monospace;
+      margin-bottom: 4px;
+    }
+    .search-result-snippet {
+      color: var(--text-primary);
+      line-height: 1.5;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    /* Highlight mark */
+    mark.search-highlight {
+      background-color: #fef08a;
+      color: #1f2937;
+      padding: 1px 3px;
+      border-radius: 3px;
+    }
+    mark.search-highlight.active-match {
+      background-color: #f97316;
+      color: #ffffff;
+      outline: 2px solid #ea580c;
     }
 
     /* Layout Wrapper */
@@ -212,9 +320,7 @@
       font-size: 13px;
       margin-bottom: 14px;
     }
-    .toc-search:focus {
-      outline: 2px solid var(--accent-color);
-    }
+    .toc-search:focus { outline: 2px solid var(--accent-color); }
 
     .toc-list {
       list-style: none;
@@ -237,12 +343,10 @@
       overflow: hidden;
       text-overflow: ellipsis;
     }
-
     .toc-item a:hover {
       background-color: var(--accent-light);
       color: var(--accent-color);
     }
-
     .toc-item.active a {
       background-color: var(--accent-color);
       color: #ffffff;
@@ -257,19 +361,17 @@
       display: flex;
       justify-content: center;
     }
-
     .reader-container {
       width: 100%;
       max-width: var(--content-max-width);
     }
 
-    /* Book Hero / Header */
+    /* Book Hero */
     .book-hero {
       margin-bottom: 40px;
       padding-bottom: 24px;
       border-bottom: 2px solid var(--border-color);
     }
-
     .book-hero h1 {
       font-size: 2.1em;
       line-height: 1.35;
@@ -285,7 +387,6 @@
       gap: 10px;
       margin-top: 14px;
     }
-
     .meta-chip {
       display: inline-flex;
       align-items: center;
@@ -297,8 +398,13 @@
       font-size: 13px;
       font-weight: 500;
     }
+    .meta-chip.cat-badge {
+      background-color: #f9731622;
+      color: #f97316;
+      font-weight: 600;
+    }
 
-    /* Content Typography & Enhanced Paragraphs */
+    /* Content Typography */
     .transcript-section {
       margin-bottom: 50px;
       scroll-margin-top: 80px;
@@ -349,25 +455,22 @@
       letter-spacing: 0.015em;
     }
 
-    /* Indented paragraph style (Traditional) */
+    /* Indented paragraph style */
     [data-p-style="indent"] .section-body p {
       text-indent: 2em;
       margin-bottom: 1.15em;
       line-height: var(--line-height);
     }
 
-    /* Block paragraph style (Modern with whitespace) */
+    /* Block paragraph style */
     [data-p-style="block"] .section-body p {
       text-indent: 0;
       margin-bottom: 1.55em;
       line-height: var(--line-height);
     }
+    .section-body p:last-child { margin-bottom: 0; }
 
-    .section-body p:last-child {
-      margin-bottom: 0;
-    }
-
-    /* Floating Navigation Controls */
+    /* Floating Tools */
     .floating-tools {
       position: fixed;
       bottom: 24px;
@@ -377,7 +480,6 @@
       gap: 10px;
       z-index: 800;
     }
-
     .float-btn {
       width: 44px;
       height: 44px;
@@ -399,7 +501,6 @@
       color: var(--accent-color);
     }
 
-    /* Overlay for mobile drawer */
     .backdrop {
       display: none;
       position: fixed;
@@ -419,36 +520,22 @@
         transform: translateX(-100%);
         box-shadow: 4px 0 16px rgba(0,0,0,0.15);
       }
-
-      .sidebar.open {
-        transform: translateX(0);
-      }
-
-      .backdrop.open {
-        display: block;
+      .sidebar.open { transform: translateX(0); }
+      .backdrop.open { display: block; }
+      .inpage-search-drawer {
+        left: 20px;
+        right: 20px;
+        width: auto;
       }
     }
 
     @media (max-width: 640px) {
-      :root {
-        --font-size: 17px;
-      }
-      .main-content {
-        padding: 24px 16px 60px 16px;
-      }
-      .book-hero h1 {
-        font-size: 1.55em;
-      }
-      .top-header {
-        padding: 0 10px;
-      }
-      .btn-icon {
-        padding: 5px 8px;
-        font-size: 13px;
-      }
-      [data-p-style="indent"] .section-body p {
-        text-indent: 1.5em;
-      }
+      :root { --font-size: 17px; }
+      .main-content { padding: 24px 16px 60px 16px; }
+      .book-hero h1 { font-size: 1.55em; }
+      .top-header { padding: 0 10px; }
+      .btn-icon { padding: 5px 7px; font-size: 12.5px; }
+      [data-p-style="indent"] .section-body p { text-indent: 1.5em; }
     }
   </style>
 </head>
@@ -464,6 +551,14 @@
       <a href="index.html" class="home-link" title="返回書架">
         🏠 書架
       </a>
+      <!-- Search Inside Book Button -->
+      <button class="btn-icon" id="search-toggle-btn" title="搜尋本書內文 (Ctrl+F)">
+        🔍 <span>搜尋內文</span>
+      </button>
+      <!-- Global Search Link -->
+      <a href="index.html?tab=search" class="btn-icon" title="前往全書庫全文檢索">
+        🌐 <span>全庫搜尋</span>
+      </a>
     </div>
 
     <div class="header-right">
@@ -473,7 +568,7 @@
       </button>
 
       <!-- Line Height Toggle -->
-      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 精簡)">
+      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 緊湊)">
         ↕ <span id="line-height-label">行距</span>
       </button>
 
@@ -492,6 +587,29 @@
       <button class="btn-icon" id="font-inc-btn" title="放大字級">A+</button>
     </div>
   </header>
+
+  <!-- In-Page Search Bar Dropdown -->
+  <div class="inpage-search-bar" id="inpage-search-bar">
+    <div class="inpage-search-input-wrapper">
+      <input type="text" id="inpage-search-input" class="inpage-search-input" placeholder="🔍 搜尋本書內文關鍵字 (按 Enter 尋找下一處，Esc 關閉)...">
+      <button class="inpage-search-clear" id="inpage-search-clear" title="清空">✕</button>
+    </div>
+    <span class="inpage-search-count" id="inpage-search-count">0 / 0</span>
+    <div class="search-nav-btns">
+      <button class="btn-icon" id="inpage-search-prev" title="上一處 (Shift+Enter)">▲</button>
+      <button class="btn-icon" id="inpage-search-next" title="下一處 (Enter)">▼</button>
+      <button class="btn-icon" id="inpage-search-close" title="關閉搜尋 (Esc)">✕</button>
+    </div>
+  </div>
+
+  <!-- In-Page Search Results Drawer -->
+  <div class="inpage-search-drawer" id="inpage-search-drawer">
+    <div class="inpage-search-drawer-header">
+      <span>搜尋結果清單</span>
+      <button class="btn-icon" id="inpage-drawer-close" style="padding: 2px 6px;">✕</button>
+    </div>
+    <div class="inpage-search-drawer-list" id="inpage-search-drawer-list"></div>
+  </div>
 
   <div class="backdrop" id="backdrop"></div>
 
@@ -615,6 +733,7 @@
         <header class="book-hero">
           <h1>Mindset by Dr. Carol S. dweck full Audio book in English #audiobook #books</h1>
           <div class="book-meta-chips">
+            <span class="meta-chip cat-badge">🔥 意志與心態</span>
             <span class="meta-chip">🏷️ 時長：08:34:31</span>
 <span class="meta-chip">🏷️ 模型：small.en</span>
 <span class="meta-chip">🏷️ 日期：2026-09-22</span>
@@ -622,7 +741,7 @@
         </header>
 
         <!-- Transcript Content -->
-        <div class="book-body">
+        <div class="book-body" id="book-body">
           
         <section class="transcript-section" id="sec-000000">
           <div class="section-header">
@@ -651,8 +770,9 @@
           </div>
           <div class="section-body">
             <p class="prose-p">You’ll see how to unleash your potential and your children’s. It is my privilege to share my findings with you. Besides accounts of people from my research, I’ve filled each chapter with stories both ripped from the headlines and based on my own life and experience. So you can see the mindsets in action.</p>
-<p class="prose-p">In most cases, names and personal information have been changed to preserve anonymity. In some cases, several people have been condensed into one to make a clearer point. A number of the exchanges are recreated from memory, and I have rendered them to the best of my ability. At the end of each chapter and throughout the last chapter, I show you ways to apply the lessons—ways to recognize the mindset that is guiding your life, to understand how it works, and to change, if you wish.</p>
-<h4 class="section-subhead">Chapter 1 The Mindsets When I was a young researcher just starting out, something happened that changed my life.</h4>
+<p class="prose-p">In most cases, names and personal information have been changed to preserve anonymity. In some cases, several people have been condensed into one to make a clearer point. A number of the exchanges are recreated from memory, and I have rendered them to the best of my ability. At the end of each chapter and throughout the last chapter, I show you ways to apply the lessons—ways to recognize the mindset that is guiding your life, to understand how it works, and to change, if you wish.
+
+#### Chapter 1 The Mindsets When I was a young researcher just starting out, something happened that changed my life.</p>
 <p class="prose-p">I was obsessed with understanding how people cope with failures, and I decided to study it by watching how students grapple with hard problems. So I brought children one at a time to a room in their school, made them feel comfortable, and then gave them a series of puzzles to solve. The first ones were fairly easy, but the next ones were hard. As the students grunted, perspired, and toiled, I watched their strategies and probed what they were thinking and feeling. I expected differences among the children in how they coped with the difficulty, but I saw something I never expected.</p>
 <p class="prose-p">Confronted with the hard puzzles, one ten-year-old boy pulled up his chair, rubbed his hands together, smacked his lips, and cried out, I love a challenge! Another, sweating away on these puzzles, looked up with a pleased expression and said with authority, You know, I was hoping this would be informative. What’s wrong with them? I wondered, I had always thought you coped with failure or you didn’t cope with failure.</p>
 <p class="prose-p">I never thought anyone loved failure. Were these alien children, or were they on to something? Everyone has a role model, someone who pointed the way at a critical moment in their lives. These children were my role models.</p>
@@ -1214,19 +1334,19 @@
 <p class="prose-p">Feel all the emotions that go with it. Now put it in a growth mindset perspective. Look honestly at your role in it, but understand that it doesn’t define your intelligence or personality. Instead, ask, What did I or can I learn from that experience?</p>
 <p class="prose-p">How can I use it as a basis for growth? Carry that with you instead. How do you act when you feel depressed? Do you work harder at things in your life or do you let them go?</p>
 <p class="prose-p">Next time you feel low, put yourself in a growth mindset. Think about learning, challenge, confronting obstacles. Think about effort as a positive constructive force, not as a big drag. Try it out.</p>
-<p class="prose-p">Is there something you’ve always wanted to do but were afraid you weren’t good at? Make a plan to do it.</p>
-<h4 class="section-subhead">Chapter 3 The Truth About Ability and Accomplishment Try to picture Thomas Edison as vividly as you can.</h4>
-<p class="prose-p">Think about where he is and what he’s doing. Is he alone? I asked people and they always said things like this. He’s in his workshop surrounded by equipment.</p>
-<p class="prose-p">He’s working on the phonograph, trying things. He succeeds. Is he alone? Yes, he’s doing this stuff alone because he’s the only one who knows what he’s after.</p>
-<p class="prose-p">He’s in New Jersey. He’s standing in a white coat in a lab type room. He’s leaning over a light bulb.</p>
-<p class="prose-p">Suddenly it works. Is he alone? Yes, he’s kind of a reclusive guy who likes to tinker on his own. In truth, the record shows quite a different fellow working in quite a different way.</p>
-<p class="prose-p">Edison was not a loner. For the invention of the light bulb, he had 30 assistants, including well-trained scientists often working around the clock in a corporate-funded state-of-the-art laboratory. It did not happen suddenly. The light bulb has become the symbol for that single moment when the brilliant solution strikes.</p>
-<p class="prose-p">But there was no single moment of invention. In fact, the light bulb was not one invention, but a whole network of time-consuming inventions, each requiring one or more chemists, mathematicians, physicists, engineers, and glassblowers. Edison was no naive tinkerer or unworldly egghead. The Wizard of Menlo Park was a savvy entrepreneur, fully aware of the commercial potential of his inventions.</p>
-<p class="prose-p">He also knew how to cozy up to the press, sometimes beating others out as the inventor of something because he knew how to publicize himself. Yes, he was a genius, but he was not always one. His biographer, Paul Israel, sifting through all the available information, thinks he was more or less a regular boy of his time and place. Young Tom was taken with experiments and mechanical things, perhaps more avidly than most.</p>
-<p class="prose-p">But machines and technology were part of the ordinary Midwestern boys&#x27; experience. What eventually set him apart was his mindset and drive. He never stopped being the curious, tinkering boy looking for new challenges. Long after other men had taken up their roles in society, he rode the rails from city to city, learning everything he could about telegraphy and working his way up the ladder of telegraphers through nonstop self-education and invention.</p>
-<p class="prose-p">And later, much to the disappointment of his wives, his consuming love remained self-improvement and invention, but only in his field. There are many myths about ability and achievement, especially about the lone, brilliant person suddenly producing amazing things. Yet Darwin’s masterwork, The Origin of Species, took years of teamwork in the field, hundreds of discussions with colleagues and mentors, several preliminary drafts, and half a lifetime of dedication before it reached fruition. Mozart labored for more than ten years until he produced any work that we admire today.</p>
-<p class="prose-p">Before then, his compositions were not that original or interesting. Naturally, they were often patched-together chunks taken from other composers. This chapter is about the real ingredients in achievement. It’s about why some people achieve less than expected and why some people achieve more.</p>
-<p class="prose-p">Mindset and school achievement.</p>
+<p class="prose-p">Is there something you’ve always wanted to do but were afraid you weren’t good at? Make a plan to do it.
+
+#### Chapter 3 The Truth About Ability and Accomplishment Try to picture Thomas Edison as vividly as you can. Think about where he is and what he’s doing. Is he alone?</p>
+<p class="prose-p">I asked people and they always said things like this. He’s in his workshop surrounded by equipment. He’s working on the phonograph, trying things. He succeeds.</p>
+<p class="prose-p">Is he alone? Yes, he’s doing this stuff alone because he’s the only one who knows what he’s after. He’s in New Jersey. He’s standing in a white coat in a lab type room.</p>
+<p class="prose-p">He’s leaning over a light bulb. Suddenly it works. Is he alone? Yes, he’s kind of a reclusive guy who likes to tinker on his own.</p>
+<p class="prose-p">In truth, the record shows quite a different fellow working in quite a different way. Edison was not a loner. For the invention of the light bulb, he had 30 assistants, including well-trained scientists often working around the clock in a corporate-funded state-of-the-art laboratory. It did not happen suddenly.</p>
+<p class="prose-p">The light bulb has become the symbol for that single moment when the brilliant solution strikes. But there was no single moment of invention.</p>
+<p class="prose-p">In fact, the light bulb was not one invention, but a whole network of time-consuming inventions, each requiring one or more chemists, mathematicians, physicists, engineers, and glassblowers. Edison was no naive tinkerer or unworldly egghead. The Wizard of Menlo Park was a savvy entrepreneur, fully aware of the commercial potential of his inventions. He also knew how to cozy up to the press, sometimes beating others out as the inventor of something because he knew how to publicize himself.</p>
+<p class="prose-p">Yes, he was a genius, but he was not always one. His biographer, Paul Israel, sifting through all the available information, thinks he was more or less a regular boy of his time and place. Young Tom was taken with experiments and mechanical things, perhaps more avidly than most. But machines and technology were part of the ordinary Midwestern boys&#x27; experience.</p>
+<p class="prose-p">What eventually set him apart was his mindset and drive. He never stopped being the curious, tinkering boy looking for new challenges. Long after other men had taken up their roles in society, he rode the rails from city to city, learning everything he could about telegraphy and working his way up the ladder of telegraphers through nonstop self-education and invention. And later, much to the disappointment of his wives, his consuming love remained self-improvement and invention, but only in his field.</p>
+<p class="prose-p">There are many myths about ability and achievement, especially about the lone, brilliant person suddenly producing amazing things. Yet Darwin’s masterwork, The Origin of Species, took years of teamwork in the field, hundreds of discussions with colleagues and mentors, several preliminary drafts, and half a lifetime of dedication before it reached fruition. Mozart labored for more than ten years until he produced any work that we admire today. Before then, his compositions were not that original or interesting.</p>
+<p class="prose-p">Naturally, they were often patched-together chunks taken from other composers. This chapter is about the real ingredients in achievement. It’s about why some people achieve less than expected and why some people achieve more. Mindset and school achievement.</p>
           </div>
         </section>
         
@@ -1268,14 +1388,14 @@
 <p class="prose-p">My friend’s second-grade teacher, Mrs. Beer, had had each student draw and cut out a paper horse. She then lined up all the horses above the blackboard and delivered her growth mindset message, Your horse is only as fast as your brain. Every time you learn something, your horse will move ahead. My friend wasn’t so sure about the brain thing.</p>
 <p class="prose-p">His father had always told him, “We have too much mouth and too little brains for your own good.” Plus, his horse just seemed to sit at the starting gate, while everyone else’s brain joined the learning chase, especially the brains of Hank and Billy, the class geniuses, whose horses jumped way ahead of everyone else’s. But my friend kept at it. To improve his skills, he kept reading the comics with his mother, and he kept adding up the points when he played gin rummy with his grandmother.</p>
 <p class="prose-p">Soon my sleek stallion bolted forward like whirl away, and there was no one who was going to stop him. Over the weeks and months he flew forward overtaking the others one by one. In the late spring stretch, Hank’s and Billy’s mounts were ahead by just a few subtraction exercises, and when the last bell of school rang, my horse won by a nose. Then I knew I had a brain.</p>
-<p class="prose-p">I had the horse to prove it. Of course, learning shouldn’t really be a race, but this race helped my friend discover his brain and connect it up with his schooling.</p>
-<h4 class="section-subhead">THE COLLEGE TRANSITION.</h4>
-<p class="prose-p">Another transition, another crisis. College is when all the students who were the brains in high school are thrown together. Like our graduate students, yesterday they were king of the hill, but today who are they? There is the anxiety of being dethroned more palpable than in pre-med classes.</p>
-<p class="prose-p">In the last chapter, I mentioned our study of tense but hopeful undergraduates taking their first college chemistry course. This is the course that would give them, or deny them, entree into the pre-med curriculum, and it’s well known that students will go to almost any lengths to do well in this course. At the beginning of the semester, we measured students&#x27; mindsets, and then we followed them through the course, watching their grades and asking about their study strategies. Once again, we found that the students with the growth mindset earned better grades in the course.</p>
-<p class="prose-p">Even when they did poorly on a particular test, they bounced back on the next ones. When students with the fixed mindset did poorly, they often didn’t make a comeback. In this course, everybody studied, but there are different ways to study. Many students study like this.</p>
-<p class="prose-p">They read the textbook and their class notes. If the material is really hard, they read them again. Or they might try to memorize everything they can, like a vacuum cleaner. That’s how the students with the fixed mindset studied.</p>
-<p class="prose-p">If they did poorly on the test, they concluded that chemistry was not their subject. After all, I did everything possible, didn’t I? Far from it. They would be shocked to find out what students with the growth mindset do.</p>
-<p class="prose-p">Even I find it remarkable. The students with growth mindset completely took charge of their learning and motivation.</p>
+<p class="prose-p">I had the horse to prove it. Of course, learning shouldn’t really be a race, but this race helped my friend discover his brain and connect it up with his schooling.
+
+#### THE COLLEGE TRANSITION. Another transition, another crisis. College is when all the students who were the brains in high school are thrown together.</p>
+<p class="prose-p">Like our graduate students, yesterday they were king of the hill, but today who are they? There is the anxiety of being dethroned more palpable than in pre-med classes. In the last chapter, I mentioned our study of tense but hopeful undergraduates taking their first college chemistry course. This is the course that would give them, or deny them, entree into the pre-med curriculum, and it’s well known that students will go to almost any lengths to do well in this course.</p>
+<p class="prose-p">At the beginning of the semester, we measured students&#x27; mindsets, and then we followed them through the course, watching their grades and asking about their study strategies. Once again, we found that the students with the growth mindset earned better grades in the course. Even when they did poorly on a particular test, they bounced back on the next ones. When students with the fixed mindset did poorly, they often didn’t make a comeback.</p>
+<p class="prose-p">In this course, everybody studied, but there are different ways to study. Many students study like this. They read the textbook and their class notes. If the material is really hard, they read them again.</p>
+<p class="prose-p">Or they might try to memorize everything they can, like a vacuum cleaner. That’s how the students with the fixed mindset studied. If they did poorly on the test, they concluded that chemistry was not their subject. After all, I did everything possible, didn’t I?</p>
+<p class="prose-p">Far from it. They would be shocked to find out what students with the growth mindset do. Even I find it remarkable. The students with growth mindset completely took charge of their learning and motivation.</p>
 <p class="prose-p">Instead of plunging into unthinking memorization of the course material, they said, “I look for themes and underlying principles across lectures.” And I went over mistakes until I was certain I understood them. They were studying to learn, not just to waste the test. And actually, this was why they got higher grades, not because they were smarter or had a better background in science.</p>
 <p class="prose-p">Instead of losing their motivation when the course got dry or difficult, they said, “I maintained my interest in the material.” I stayed positive about taking chemistry. I kept myself motivated to study. Even if they thought the textbook was boring or the instructor was stiff, they didn’t let their motivation evaporate. That just made it all the more important to motivate themselves.</p>
 <p class="prose-p">I got an email from one of my undergraduate students shortly after I had taught her the growth mindset. Here’s how she used to study before. When faced with really tough material, I tended to read the material over and over. After learning the growth mindset, she started using better strategies that worked.</p>
@@ -1487,8 +1607,9 @@
 <p class="prose-p">You can do that too, if you want to. Are there situations where you get stupid, where you disengage your intelligence? Next time you’re in one of those situations, get yourself into a growth mindset. Think about learning and improvement, not judgment, and hook it back up.</p>
 <p class="prose-p">Do you label your kids? This one is the artist and that one is the scientist. Next time, remember that you’re not helping them, even though you may be praising them. Remember our study where praising kids&#x27; ability lowered their IQ scores.</p>
 <p class="prose-p">Find a growth mindset way to complement them. More than half of our society belongs to a negatively stereotyped group. First you have all the women, and then you have all the other groups who are not supposed to be good at something or other. Give them the gift of the growth mindset.</p>
-<p class="prose-p">Create an environment that teaches the growth mindset to the adults and children in your life, especially the ones who are targets of negative stereotypes. Even when the negative label comes along, they’ll remain in charge of their learning.</p>
-<h4 class="section-subhead">Chapter 4 Sports, the Mindset of a Champion In sports, everybody believes in talent, even or especially the experts.</h4>
+<p class="prose-p">Create an environment that teaches the growth mindset to the adults and children in your life, especially the ones who are targets of negative stereotypes. Even when the negative label comes along, they’ll remain in charge of their learning.
+
+#### Chapter 4 Sports, the Mindset of a Champion In sports, everybody believes in talent, even or especially the experts.</p>
 <p class="prose-p">In fact, sports is where the idea of a natural comes from. Someone who looks like an athlete, moves like an athlete, and is an athlete, all without trying. So great is the belief in natural talent that many scouts and coaches search only for naturals,</p>
           </div>
         </section>
@@ -1798,20 +1919,20 @@
           </div>
           <div class="section-body">
             <p class="prose-p">Think about times you’ve needed to reach deep down inside in difficult sports matches. Think about the growth mindset champions from this chapter and how they do it. What could you do next time to make sure you’re in a growth mindset in the pinch? Athletes with a growth mindset find success in learning and improving, not just winning.</p>
-<p class="prose-p">The more you can do this, the more rewarding sports will be for you and for those who play them with you.</p>
-<h4 class="section-subhead">Chapter 5 Business, Mindset, and Leadership Enron and the Talent Mindset In 2001 came the announcement that shocked the corporate world.</h4>
-<p class="prose-p">Enron, the corporate poster child at the company of the future, had gone belly up. What happened? How did such spectacular promise turn into such a spectacular disaster? Was it incompetence?</p>
-<p class="prose-p">Was it corruption? It was mindset. According to Malcolm Gladwell, writing in The New Yorker, American corporations had become obsessed with talent. Indeed, the gurus at McKinsey &amp; Company, the premier management consulting firm in the country, were insisting that corporate success today requires the talent mindset.</p>
-<p class="prose-p">Just as there are naturals in sport, they maintained there are naturals in business. And as sports teams write huge checks to sign outsized talent, so too should corporations spare no expense in recruiting talent, for this is the secret weapon, the key to beating the competition. As Gladwell writes, this talent mindset is the new orthodoxy of American management. It created the blueprint for the Enron culture and sowed the seeds of its demise.</p>
-<p class="prose-p">Enron recruited big talent, mostly people with fancy degrees, which is not in itself so bad. It paid them big money, which is not that terrible. But by putting complete faith in talent, Enron did a fatal thing. It created a culture that worshipped talent, thereby forcing its employees to look and act extraordinarily talented.</p>
-<p class="prose-p">Basically, it forced them into the fixed mindset, and we know a lot about that. We know from our studies that people with the fixed mindset do not admit and correct their deficiencies. After the study where we interviewed students from the University of Hong Kong, where everything is in English, students with the fixed mindset were so worried about appearing deficient that they refused to take a course that would improve their English. They did not live in a psychological world where they could take this risk.</p>
-<p class="prose-p">And remember how we put students into a fixed mindset by praising their intelligence, much as Enron had done with its star employees? Later, after some hard problems, we asked the students to write a letter to someone in another school describing their experience in our study. When we read their letters, we were shocked. Almost forty percent of them had lied about their scores.</p>
-<p class="prose-p">Always in the upward direction, the fixed mindset had made a flaw intolerable. Gladwell concludes that when people live in an environment that steams them for their innate talent, they have great difficulty when their image is threatened. They will not take the remedial course. They will not stand up to investors and the public and admit that they were wrong.</p>
-<p class="prose-p">They’d sooner lie. Obviously, a company that cannot self-correct, cannot thrive. If Enron was done in by its fixed mindset, does it follow that companies that thrive have a growth mindset? Let’s see.</p>
-<p class="prose-p">Organisations that Grow Ben Collins set out to discover what made some companies move from being good to being great. What was it that allowed them to make the leap to greatness and stay there, while other comparable companies just held steady at good? To answer this question, he and his research team embarked on a five-year study. They selected eleven companies whose stock returns had skyrocketed relative to other companies in their industry and maintained this edge for at least fifteen years.</p>
-<p class="prose-p">They matched each company to another one in the same industry that had similar resources but did not make the leap. He also studied a third group of companies, ones that had made a leap from good to great but did not sustain it. What distinguished the thriving companies from the others? There were several important factors, as Collins reports in his book Good to Great, but one that was absolutely key was the type of leader who in every case led the company into greatness.</p>
-<p class="prose-p">These were not the larger-than-life, charismatic types who oozed ego and self-proclaimed talent. They were self-effacing people who constantly asked questions and had the ability to confront the most brutal answers—that is, to look failures in the face, even their own, while maintaining faith that they would succeed in the end. Does this sound familiar? Collins wonders why his effective leaders have these particular qualities and why these qualities go together the way they do, and how these leaders came to acquire them.</p>
-<p class="prose-p">But we know</p>
+<p class="prose-p">The more you can do this, the more rewarding sports will be for you and for those who play them with you.
+
+#### Chapter 5 Business, Mindset, and Leadership Enron and the Talent Mindset In 2001 came the announcement that shocked the corporate world. Enron, the corporate poster child at the company of the future, had gone belly up. What happened? How did such spectacular promise turn into such a spectacular disaster?</p>
+<p class="prose-p">Was it incompetence? Was it corruption? It was mindset. According to Malcolm Gladwell, writing in The New Yorker, American corporations had become obsessed with talent.</p>
+<p class="prose-p">Indeed, the gurus at McKinsey &amp; Company, the premier management consulting firm in the country, were insisting that corporate success today requires the talent mindset. Just as there are naturals in sport, they maintained there are naturals in business. And as sports teams write huge checks to sign outsized talent, so too should corporations spare no expense in recruiting talent, for this is the secret weapon, the key to beating the competition. As Gladwell writes, this talent mindset is the new orthodoxy of American management.</p>
+<p class="prose-p">It created the blueprint for the Enron culture and sowed the seeds of its demise. Enron recruited big talent, mostly people with fancy degrees, which is not in itself so bad. It paid them big money, which is not that terrible. But by putting complete faith in talent, Enron did a fatal thing.</p>
+<p class="prose-p">It created a culture that worshipped talent, thereby forcing its employees to look and act extraordinarily talented. Basically, it forced them into the fixed mindset, and we know a lot about that. We know from our studies that people with the fixed mindset do not admit and correct their deficiencies. After the study where we interviewed students from the University of Hong Kong, where everything is in English, students with the fixed mindset were so worried about appearing deficient that they refused to take a course that would improve their English.</p>
+<p class="prose-p">They did not live in a psychological world where they could take this risk. And remember how we put students into a fixed mindset by praising their intelligence, much as Enron had done with its star employees? Later, after some hard problems, we asked the students to write a letter to someone in another school describing their experience in our study. When we read their letters, we were shocked.</p>
+<p class="prose-p">Almost forty percent of them had lied about their scores. Always in the upward direction, the fixed mindset had made a flaw intolerable. Gladwell concludes that when people live in an environment that steams them for their innate talent, they have great difficulty when their image is threatened. They will not take the remedial course.</p>
+<p class="prose-p">They will not stand up to investors and the public and admit that they were wrong. They’d sooner lie. Obviously, a company that cannot self-correct, cannot thrive. If Enron was done in by its fixed mindset, does it follow that companies that thrive have a growth mindset?</p>
+<p class="prose-p">Let’s see. Organisations that Grow Ben Collins set out to discover what made some companies move from being good to being great. What was it that allowed them to make the leap to greatness and stay there, while other comparable companies just held steady at good? To answer this question, he and his research team embarked on a five-year study.</p>
+<p class="prose-p">They selected eleven companies whose stock returns had skyrocketed relative to other companies in their industry and maintained this edge for at least fifteen years. They matched each company to another one in the same industry that had similar resources but did not make the leap. He also studied a third group of companies, ones that had made a leap from good to great but did not sustain it. What distinguished the thriving companies from the others?</p>
+<p class="prose-p">There were several important factors, as Collins reports in his book Good to Great, but one that was absolutely key was the type of leader who in every case led the company into greatness. These were not the larger-than-life, charismatic types who oozed ego and self-proclaimed talent. They were self-effacing people who constantly asked questions and had the ability to confront the most brutal answers—that is, to look failures in the face, even their own, while maintaining faith that they would succeed in the end.</p>
+<p class="prose-p">Does this sound familiar? Collins wonders why his effective leaders have these particular qualities and why these qualities go together the way they do, and how these leaders came to acquire them. But we know</p>
           </div>
         </section>
         
@@ -2176,8 +2297,9 @@
             <p class="prose-p">collaborators, as a team. Make a list of strategies and try them out. Do this even if you already think of yourself as a growth mindset boss. Well-placed support and growth promoting feedback never hurt.</p>
 <p class="prose-p">If you run a company, look at it from a mindset perspective. Does it need you to do a Lou Gerstner on it? Think seriously about how to root out elitism and create a culture of self-examination, open communication, and teamwork. Read Gerstner’s excellent book, Who Says Elephants Can’t Dance? to see how it’s done.</p>
 <p class="prose-p">Is your workplace set up to promote groupthink? If so, the whole decision-making process is in trouble. Create ways to foster alternative views and constructive criticism. Assign people to play the devil’s advocate, taking opposing viewpoints so you can see the holes in your position.</p>
-<p class="prose-p">Get people to wage debates that argue different sides of the issue. Have an anonymous suggestion box that employees must contribute to as part of the decision-making process. Remember, people can be independent thinkers and team players at the same time. Help them fill both roles.</p>
-<h4 class="section-subhead">Chapter 6 Relationships Mind sets in love or not?</h4>
+<p class="prose-p">Get people to wage debates that argue different sides of the issue. Have an anonymous suggestion box that employees must contribute to as part of the decision-making process. Remember, people can be independent thinkers and team players at the same time. Help them fill both roles.
+
+#### Chapter 6 Relationships Mind sets in love or not?</p>
 <p class="prose-p">What was that about the course of true love never running smooth? Well, the course to true love isn’t so smooth either. That path is often strewn with disappointments and heartaches. Some people let these experiences scar them and prevent them from forming satisfying relationships in the future.</p>
 <p class="prose-p">Others are able to heal and move on. What separates them? To find out, we recruited more than a hundred people and asked them to tell us about a terrible rejection. When I first got to New York, I was incredibly lonely.</p>
 <p class="prose-p">I didn’t know a soul and I totally felt like I didn’t belong there. After about a year of misery, I met Jack. It’s almost an understatement to say that we clicked instantly. We felt like we had known each other forever.</p>
@@ -2507,11 +2629,12 @@
 <p class="prose-p">Allow your partner to air his or her differences. Listen carefully and discuss them in a patient and caring manner. You may be surprised at the closeness this creates. Are you a blamer like me?</p>
 <p class="prose-p">It’s not good for a relationship to pin everything on your partner. Create your own Maurice and blame him instead. Better yet, work toward curing yourself of the need to blame. Move beyond thinking about fault and blame all the time.</p>
 <p class="prose-p">Think of me trying to do that too. Are you shy? Then you really need the growth mindset. Even if it doesn’t cure your shyness, it will help keep it from messing up your social interactions.</p>
-<p class="prose-p">Next time you’re venturing into a social situation, think about these things. How social skills are things you can improve, and how social interactions are for learning and enjoyment, not judgment. Keep practicing this.</p>
-<h4 class="section-subhead">Chapter 7 Parents, Teachers, and Coaches Where do mindsets come from?</h4>
-<p class="prose-p">No parent thinks, I wonder what I can do today to undermine my children, subvert their effort, turn them off learning, and limit their achievement. Of course not. They think, I would do anything, give anything, to make my children successful. Yet many of the things they do boomerang.</p>
-<p class="prose-p">Their helpful judgments, their lessons, their motivating techniques often send the wrong message. In fact, every word and action can send a message. It tells children or students or athletes how to think about themselves. It can be a fixed mindset message that says, you have permanent traits and I’m judging them, or it can be a growth mindset message that says, you are a developing person and I am interested in your development.</p>
-<p class="prose-p">It’s remarkable how sensitive children are to these messages and how concerned they are about them. Hine Ginnett, the child-rearing sage of the 1950s through 1970s, tells this story. Bruce, age five, went with his mother to his new kindergarten.</p>
+<p class="prose-p">Next time you’re venturing into a social situation, think about these things. How social skills are things you can improve, and how social interactions are for learning and enjoyment, not judgment. Keep practicing this.
+
+#### Chapter 7 Parents, Teachers, and Coaches Where do mindsets come from? No parent thinks, I wonder what I can do today to undermine my children, subvert their effort, turn them off learning, and limit their achievement.</p>
+<p class="prose-p">Of course not. They think, I would do anything, give anything, to make my children successful. Yet many of the things they do boomerang. Their helpful judgments, their lessons, their motivating techniques often send the wrong message.</p>
+<p class="prose-p">In fact, every word and action can send a message. It tells children or students or athletes how to think about themselves. It can be a fixed mindset message that says, you have permanent traits and I’m judging them, or it can be a growth mindset message that says, you are a developing person and I am interested in your development. It’s remarkable how sensitive children are to these messages and how concerned they are about them.</p>
+<p class="prose-p">Hine Ginnett, the child-rearing sage of the 1950s through 1970s, tells this story. Bruce, age five, went with his mother to his new kindergarten.</p>
 <p class="prose-p">When they arrived, Bruce looked up at the paintings on the wall and said, “Who made those ugly pictures?” His mother rushed to correct him. It’s not nice to call pictures ugly when they are so pretty. But his teacher knew exactly what he meant. In here, she said, you don’t have to paint pretty pictures.</p>
 <p class="prose-p">You can paint mean pictures if you feel like it. Bruce gave her a big smile. She had answered his real question. What happens to a boy who doesn’t paint well?</p>
 <p class="prose-p">Next, Bruce spotted a broken fire engine. He picked it up and asked in a self-righteous tone, Who broke this fire engine? Again, his mother rushed in. What difference does it make to you who broke it?</p>
@@ -2961,8 +3084,9 @@
 <p class="prose-p">Try presenting topics in a growth framework and giving students process feedback. I think you’ll like what happens. Do you think of your slower students as kids who will never be able to learn well? Do they think of themselves as permanently dumb?</p>
 <p class="prose-p">Instead, try to figure out what they don’t understand and what learning strategies they don’t have. Remember that great teachers believe in the growth of talent and intellect and are fascinated by the process of learning. Are you a fixed mindset coach? Do you think first and foremost about your record and your reputation?</p>
 <p class="prose-p">Are you intolerant of mistakes? Do you try to motivate your players through judgment? That may be what’s holding up your athletes. Try on the growth mindset.</p>
-<p class="prose-p">Instead of asking for mistake-free games, ask for full commitment and full effort. Instead of judging the players, give them the respect and the coaching they need to develop. As parents, teachers, and coaches, our mission is developing people’s potential. Let’s use all the lessons of the growth mindset and whatever else we can to do this.</p>
-<h4 class="section-subhead">Chapter 8, Changing Mindsets, a Workshop The growth mindset is based on the belief in change and the most gratifying part of my work is watching people change.</h4>
+<p class="prose-p">Instead of asking for mistake-free games, ask for full commitment and full effort. Instead of judging the players, give them the respect and the coaching they need to develop. As parents, teachers, and coaches, our mission is developing people’s potential. Let’s use all the lessons of the growth mindset and whatever else we can to do this.
+
+#### Chapter 8, Changing Mindsets, a Workshop The growth mindset is based on the belief in change and the most gratifying part of my work is watching people change.</p>
 <p class="prose-p">Nothing is better than seeing people find their way to the things they value. This chapter is about kids and adults who found their way to using their abilities and about how all of us can do that. The Nature of Change I was in the middle of first grade when my family moved.</p>
 <p class="prose-p">Suddenly I was in a new school. Everything was unfamiliar. The teacher, the students, and the work. The work was what terrified me.</p>
 <p class="prose-p">The new class was way ahead of my old one or at least they seemed that way to me. They were writing letters I hadn’t learned to write yet and there was a way to do everything that everyone seemed to know except me. So when the teacher said, put your name on your paper in the right place, I had no idea what she meant. So I cried.</p>
@@ -3480,6 +3604,204 @@
 
     document.getElementById('scroll-top-btn').addEventListener('click', () => {
       window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    // ==========================================
+    // IN-PAGE CONTENT SEARCH (單書全文搜尋)
+    // ==========================================
+    const searchBar = document.getElementById('inpage-search-bar');
+    const searchInput = document.getElementById('inpage-search-input');
+    const searchCount = document.getElementById('inpage-search-count');
+    const searchDrawer = document.getElementById('inpage-search-drawer');
+    const searchDrawerList = document.getElementById('inpage-search-drawer-list');
+    const searchToggleBtn = document.getElementById('search-toggle-btn');
+    const searchClearBtn = document.getElementById('inpage-search-clear');
+    const searchPrevBtn = document.getElementById('inpage-search-prev');
+    const searchNextBtn = document.getElementById('inpage-search-next');
+    const searchCloseBtn = document.getElementById('inpage-search-close');
+    const drawerCloseBtn = document.getElementById('inpage-drawer-close');
+
+    let searchMatches = [];
+    let currentMatchIdx = -1;
+
+    // Cache original innerHTML for clean resets
+    const rawParagraphs = Array.from(document.querySelectorAll('.section-body p')).map(p => ({
+      el: p,
+      rawHtml: p.innerHTML,
+      rawText: p.textContent
+    }));
+
+    function openSearch() {
+      searchBar.classList.add('active');
+      searchInput.focus();
+      searchInput.select();
+      if (searchInput.value.trim()) {
+        performSearch(searchInput.value.trim());
+      }
+    }
+
+    function closeSearch() {
+      searchBar.classList.remove('active');
+      searchDrawer.classList.remove('active');
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchCount.textContent = '0 / 0';
+    }
+
+    function clearHighlights() {
+      rawParagraphs.forEach(item => {
+        item.el.innerHTML = item.rawHtml;
+      });
+    }
+
+    function escapeRegex(str) {
+      return str.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+    }
+
+    function escapeHtml(str) {
+      return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+
+    function performSearch(query) {
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchDrawerList.innerHTML = '';
+
+      if (!query || query.trim().length === 0) {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+        return;
+      }
+
+      query = query.trim();
+      const qLower = query.toLowerCase();
+      const regex = new RegExp(`(${escapeRegex(query)})`, 'gi');
+
+      rawParagraphs.forEach((item, pIdx) => {
+        if (item.rawText.toLowerCase().includes(qLower)) {
+          const sec = item.el.closest('.transcript-section');
+          const secTime = sec ? (sec.querySelector('.section-time')?.textContent || '') : '';
+          const secId = sec ? sec.id : '';
+
+          // Apply highlight
+          item.el.innerHTML = item.rawHtml.replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const marks = Array.from(item.el.querySelectorAll('mark.search-highlight'));
+          marks.forEach(mark => {
+            searchMatches.push({
+              mark,
+              el: item.el,
+              secTime,
+              secId
+            });
+          });
+
+          // Snippet creation
+          const matchPos = item.rawText.toLowerCase().indexOf(qLower);
+          const start = Math.max(0, matchPos - 30);
+          const end = Math.min(item.rawText.length, matchPos + query.length + 50);
+          const snippetText = item.rawText.slice(start, end);
+          const snippetHtml = escapeHtml(snippetText).replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const card = document.createElement('div');
+          card.className = 'search-result-item';
+          card.innerHTML = `
+            <div class="search-result-time">${secTime}</div>
+            <div class="search-result-snippet">...${snippetHtml}...</div>
+          `;
+          card.addEventListener('click', () => {
+            const targetIdx = searchMatches.findIndex(m => m.mark === marks[0]);
+            if (targetIdx >= 0) goToMatch(targetIdx);
+          });
+          searchDrawerList.appendChild(card);
+        }
+      });
+
+      if (searchMatches.length > 0) {
+        searchDrawer.classList.add('active');
+        goToMatch(0);
+      } else {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+      }
+    }
+
+    function goToMatch(idx) {
+      if (idx < 0 || idx >= searchMatches.length) return;
+      if (currentMatchIdx >= 0 && searchMatches[currentMatchIdx]) {
+        searchMatches[currentMatchIdx].mark.classList.remove('active-match');
+      }
+      currentMatchIdx = idx;
+      const target = searchMatches[currentMatchIdx];
+      target.mark.classList.add('active-match');
+      searchCount.textContent = `${currentMatchIdx + 1} / ${searchMatches.length}`;
+
+      // Highlight active drawer item
+      const drawerItems = searchDrawerList.querySelectorAll('.search-result-item');
+      drawerItems.forEach(di => di.classList.remove('active'));
+
+      target.mark.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+
+    searchToggleBtn.addEventListener('click', () => {
+      if (searchBar.classList.contains('active')) {
+        closeSearch();
+      } else {
+        openSearch();
+      }
+    });
+
+    let debounceTimer;
+    searchInput.addEventListener('input', (e) => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => {
+        performSearch(e.target.value);
+      }, 200);
+    });
+
+    searchClearBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      performSearch('');
+      searchInput.focus();
+    });
+
+    searchNextBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const nextIdx = (currentMatchIdx + 1) % searchMatches.length;
+      goToMatch(nextIdx);
+    });
+
+    searchPrevBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const prevIdx = (currentMatchIdx - 1 + searchMatches.length) % searchMatches.length;
+      goToMatch(prevIdx);
+    });
+
+    searchInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        if (e.shiftKey) {
+          searchPrevBtn.click();
+        } else {
+          searchNextBtn.click();
+        }
+      } else if (e.key === 'Escape') {
+        closeSearch();
+      }
+    });
+
+    searchCloseBtn.addEventListener('click', closeSearch);
+    drawerCloseBtn.addEventListener('click', () => searchDrawer.classList.remove('active'));
+
+    window.addEventListener('keydown', (e) => {
+      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'f') {
+        e.preventDefault();
+        openSearch();
+      } else if (e.key === 'Escape') {
+        if (searchBar.classList.contains('active')) closeSearch();
+      }
     });
   </script>
 </body>

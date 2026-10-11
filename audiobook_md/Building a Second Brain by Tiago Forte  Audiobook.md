@@ -144,19 +144,17 @@ In early 2017, I decided to create an online course called, Building a Second Br
 
 Then I’ll introduce you to a few basic principles and tools you’ll need to set yourself up to succeed.
 
-#### Part 2.
+#### Part 2. The method introduces each of the four steps you’ll follow to build a second brain so you can immediately begin to capture and share ideas with more intention. And Part 3. Making Things Happen offers a set of powerful ways to use your second brain to enhance your productivity, accomplish your goals, and thrive in your work and life.
 
-The method introduces each of the four steps you’ll follow to build a second brain so you can immediately begin to capture and share ideas with more intention. And Part 3. Making Things Happen offers a set of powerful ways to use your second brain to enhance your productivity, accomplish your goals, and thrive in your work and life. I’ve shared my story with you because I want you to know that this book isn’t about perfectly optimizing some kind of idealized life.
+I’ve shared my story with you because I want you to know that this book isn’t about perfectly optimizing some kind of idealized life. Everyone experiences pain, makes mistakes, and struggles at some point in their lives. I’ve had my fair share of challenges, but at each stage of my journey, treating. My thoughts as treasure is worth keeping has been the pivotal element in everything I’ve overcome and achieved.
 
-Everyone experiences pain, makes mistakes, and struggles at some point in their lives. I’ve had my fair share of challenges, but at each stage of my journey, treating. My thoughts as treasure is worth keeping has been the pivotal element in everything I’ve overcome and achieved. You may find this book in the self-improvement category, but in a deeper sense it is the opposite of self-improvement.
+You may find this book in the self-improvement category, but in a deeper sense it is the opposite of self-improvement. It is about optimizing a system outside yourself. A system not subject to your limitations and constraints, leaving you happily unoptimized and free to roam, to wonder, to wander toward whatever makes you feel alive here and now in each moment. Asterisk I was aided in this effort by my involvement with the Quantified Self Community, a network of local meetup groups in which people share their stories about how they track their health, productivity, mood, or behavior to learn more about themselves.
 
-It is about optimizing a system outside yourself. A system not subject to your limitations and constraints, leaving you happily unoptimized and free to roam, to wonder, to wander toward whatever makes you feel alive here and now in each moment. Asterisk I was aided in this effort by my involvement with the Quantified Self Community, a network of local meetup groups in which people share their stories about how they track their health, productivity, mood, or behavior to learn more about themselves. Asterisk interested readers can find out more at buildingthesecondbrain.com slash course.
+Asterisk interested readers can find out more at buildingthesecondbrain.com slash course.
 
-#### Chapter 2 What is a Second Brain?
+#### Chapter 2 What is a Second Brain? We extend beyond our limits, not by revving our brains like a machine or bulking them up like a muscle, but by strewing our world with rich materials and by weaving them into our thoughts. Annie Murphy-Paul, author of The Extended Mind. Information is the fundamental building block of everything you do.
 
-We extend beyond our limits, not by revving our brains like a machine or bulking them up like a muscle, but by strewing our world with rich materials and by weaving them into our thoughts. Annie Murphy-Paul, author of The Extended Mind. Information is the fundamental building block of everything you do. Everything you might want to accomplish, executing a project at work, getting a new job, learning a new skill, starting a business, requires finding and putting to use the right information.
-
-Your professional success and quality of life depend directly on your ability to manage information effectively. According to the New York Times, the average person’s daily consumption of information now adds up to a remarkable 34 gigabytes. One A separate study cited by the Times estimates that we consume the equivalent of 174 full newspapers worth of content each and every day, five times higher than in 1986.
+Everything you might want to accomplish, executing a project at work, getting a new job, learning a new skill, starting a business, requires finding and putting to use the right information. Your professional success and quality of life depend directly on your ability to manage information effectively. According to the New York Times, the average person’s daily consumption of information now adds up to a remarkable 34 gigabytes. One A separate study cited by the Times estimates that we consume the equivalent of 174 full newspapers worth of content each and every day, five times higher than in 1986.
 
 
 <a id="sec-002011"></a>
@@ -1304,11 +1302,9 @@ This trail to find the food for themselves, enabling a multitude of ants to quic
 
 In his words, we have to read with a pen in hand, develop ideas on paper and build up an ever growing pool of externalized thoughts. We will not be guided by a blindly made up plan picked from our unreliable brains, but by our interest, curiosity and intuition, which is formed and informed by the actual work of reading, thinking, discussing, writing and developing ideas. And it’s something that continuously grows and reflects our knowledge and understanding externally.
 
-#### Chapter 7.
+#### Chapter 7. Express, show your work.
 
-Express, show your work. Vermivsome Factum. We only know what we make. Giambattista Vico, Italian philosopher.
-
-In June 1947, a baby girl named Octavia Estelle Butler was born in Pasadena, California, known in
+Vermivsome Factum. We only know what we make. Giambattista Vico, Italian philosopher. In June 1947, a baby girl named Octavia Estelle Butler was born in Pasadena, California, known in
 
 
 <a id="sec-030617"></a>

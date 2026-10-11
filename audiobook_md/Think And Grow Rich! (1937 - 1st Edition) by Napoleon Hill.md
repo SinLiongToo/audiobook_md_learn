@@ -887,11 +887,11 @@ Faith removes limitations. Remember this when you are ready to bargain with life
 
 After that he quickly rose to a position of power, fame, and riches. There are no limitations to the mind, except those we acknowledge. Both poverty and riches are the offspring of thought.
 
-#### Chapter 4 Autosuggestion The Medium for Influencing the Subconscious Mind The Third Step Toward Riches Autosuggestion is a term which applies to all suggestions and all self-administered stimuli which reach one’s mind through the five senses.
+#### Chapter 4 Autosuggestion The Medium for Influencing the Subconscious Mind The Third Step Toward Riches Autosuggestion is a term which applies to all suggestions and all self-administered stimuli which reach one’s mind through the five senses. Stated in another way, autosuggestion is self-suggestion.
 
-Stated in another way, autosuggestion is self-suggestion. It is the agency of communication between that part of the mind where conscious thought takes place and that which serves as the seat of action for the subconscious mind. Through the dominating thoughts which one permits to remain in the conscious mind, whether these thoughts be negative or positive is immaterial. The principle of auto-suggestion voluntarily reaches the subconscious mind and influences it with these thoughts.
+It is the agency of communication between that part of the mind where conscious thought takes place and that which serves as the seat of action for the subconscious mind. Through the dominating thoughts which one permits to remain in the conscious mind, whether these thoughts be negative or positive is immaterial. The principle of auto-suggestion voluntarily reaches the subconscious mind and influences it with these thoughts. No thought, whether it be negative or positive, can enter the subconscious mind without the aid of the principle of auto-suggestion, with the exception of thoughts picked up from the ether.
 
-No thought, whether it be negative or positive, can enter the subconscious mind without the aid of the principle of auto-suggestion, with the exception of thoughts picked up from the ether. Stated differently, all sense impressions which are perceived through the five senses are stopped by the conscious thinking mind and may be either passed on to the subconscious mind or rejected at will. The conscious faculty serves, therefore, as an outer guard to the approach of the subconscious. Nature has so built man that he has absolute control over the material which reaches his subconscious mind through his five senses, although this is not meant to be construed as a statement that man always exercises this control.
+Stated differently, all sense impressions which are perceived through the five senses are stopped by the conscious thinking mind and may be either passed on to the subconscious mind or rejected at will. The conscious faculty serves, therefore, as an outer guard to the approach of the subconscious. Nature has so built man that he has absolute control over the material which reaches his subconscious mind through his five senses, although this is not meant to be construed as a statement that man always exercises this control.
 
 In the great majority of instances he does not exercise it, which explains why so many people go through life in poverty. Recall what has been said about the subconscious mind resembling a fertile garden spot in which
 
@@ -963,11 +963,9 @@ The author has been most careful to see that no impractical instructions were in
 
 Follow the foregoing instruction to the letter, and it will open the way for a complete understanding and mastery of the principles of success.
 
-#### Chapter 5 Specialized Knowledge Personal Experiences or Observations The Fourth Step Toward Riches There are two kinds of knowledge.
+#### Chapter 5 Specialized Knowledge Personal Experiences or Observations The Fourth Step Toward Riches There are two kinds of knowledge. One is general, the other is specialized. General knowledge, no matter how great in quantity or variety it may be, is of but little use in the accumulation of money. The faculties of the great universities possess, in the aggregate, practically every form of general knowledge known to civilization.
 
-One is general, the other is specialized. General knowledge, no matter how great in quantity or variety it may be, is of but little use in the accumulation of money. The faculties of the great universities possess, in the aggregate, practically every form of general knowledge known to civilization. Most of the professors have but little or no money.
-
-They specialize on teaching knowledge, but they do not specialize on the organization or the use of knowledge. Knowledge will not attract money unless it is organized and intelligently directed, through practical plans of action, to the definite end of accumulation of money. Lack of understanding of this fact has been the source of confusion to millions of people who falsely believe that knowledge is power.
+Most of the professors have but little or no money. They specialize on teaching knowledge, but they do not specialize on the organization or the use of knowledge. Knowledge will not attract money unless it is organized and intelligently directed, through practical plans of action, to the definite end of accumulation of money. Lack of understanding of this fact has been the source of confusion to millions of people who falsely believe that knowledge is power.
 
 
 <a id="sec-024614"></a>
@@ -1127,13 +1125,13 @@ Back of all ideas is specialized knowledge, unfortunately. For those who do not 
 
 If you have imagination, this chapter may present you with an idea sufficient to serve as the beginning of the riches you desire. Remember, the idea is the main thing. Specialized knowledge may be found just around the corner, any corner.
 
-#### Chapter 6 Imagination The Workshop of the Mind, the Fifth Step Toward Riches The Imagination is literally the workshop wherein are fashioned all plans created by man.
+#### Chapter 6 Imagination The Workshop of the Mind, the Fifth Step Toward Riches The Imagination is literally the workshop wherein are fashioned all plans created by man. The impulse, the desire, is given shape, form, and action through the aid of the imaginative faculty of the mind.
 
-The impulse, the desire, is given shape, form, and action through the aid of the imaginative faculty of the mind. It has been said that man can create anything which he can imagine. Of all the ages of civilization, this is the most favorable for the development of the imagination, because it is an age of rapid change. On every hand one may contact stimuli which develops the imagination.
+It has been said that man can create anything which he can imagine. Of all the ages of civilization, this is the most favorable for the development of the imagination, because it is an age of rapid change. On every hand one may contact stimuli which develops the imagination. Through the aid of his imaginative faculty, man has discovered and harnessed more of nature’s forces during the past fifty years than during the entire history of the human race, previous to that time.
 
-Through the aid of his imaginative faculty, man has discovered and harnessed more of nature’s forces during the past fifty years than during the entire history of the human race, previous to that time. He has conquered the air so completely that the birds are a poor match for him in flying. He has harnessed the ether and made it serve as a means of instantaneous communication with any part of the world. He has analyzed and weighed the sun at a distance of millions of miles, and has determined, through the aid of imagination, the elements of which it consists.
+He has conquered the air so completely that the birds are a poor match for him in flying. He has harnessed the ether and made it serve as a means of instantaneous communication with any part of the world. He has analyzed and weighed the sun at a distance of millions of miles, and has determined, through the aid of imagination, the elements of which it consists. He has discovered that his own brain is both a broadcasting and a receiving station for the vibration of thought, and he is beginning now to learn how to make practical use of this discovery.
 
-He has discovered that his own brain is both a broadcasting and a receiving station for the vibration of thought, and he is beginning now to learn how to make practical use of this discovery. He has increased the speed of locomotion until he may now travel at a speed of more than three hundred miles an hour.
+He has increased the speed of locomotion until he may now travel at a speed of more than three hundred miles an hour.
 
 
 <a id="sec-032133"></a>
@@ -1305,17 +1303,15 @@ Some day it may grow up and come into its own. Then it will have fulfilled Chris
 
 Success requires no explanations. Failure permits no alibis.
 
-#### Chapter 7 Organized Planning The Crystallization of Desire into Action The Sixth Step Toward Riches You have learned that everything man creates or acquires begins in the form of desire.
+#### Chapter 7 Organized Planning The Crystallization of Desire into Action The Sixth Step Toward Riches You have learned that everything man creates or acquires begins in the form of desire. That desire is taken on the first lap of its journey, from the abstract to the concrete, into the workshop of the imagination, where plans for its transition are created and organized. In Chapter 2 you are instructed to take six definite practical steps as your first move in translating the desire for money into its monetary equivalent.
 
-That desire is taken on the first lap of its journey, from the abstract to the concrete, into the workshop of the imagination, where plans for its transition are created and organized. In Chapter 2 you are instructed to take six definite practical steps as your first move in translating the desire for money into its monetary equivalent. One of these steps is the formation of a definite practical plan, or plans, through which this transformation may be made. You will now be instructed how to build plans which will be practical, vis-a.
+One of these steps is the formation of a definite practical plan, or plans, through which this transformation may be made. You will now be instructed how to build plans which will be practical, vis-a. Apply yourself with a group of as many people as you may need for the creation and carrying out of your plan or plans for the accumulation of money, making use of the mastermind principle described in a later chapter. Compliance with this instruction is absolutely essential.
 
-Apply yourself with a group of as many people as you may need for the creation and carrying out of your plan or plans for the accumulation of money, making use of the mastermind principle described in a later chapter. Compliance with this instruction is absolutely essential. Do not neglect it. B.
+Do not neglect it. B. Before forming your mastermind alliance, decide what advantages and benefits you may offer the individual members of your group in return for their cooperation. No one will work indefinitely without some form of compensation.
 
-Before forming your mastermind alliance, decide what advantages and benefits you may offer the individual members of your group in return for their cooperation. No one will work indefinitely without some form of compensation. No intelligent person will either request or expect another to work without adequate compensation, although this may not always be in the form of money. C.
+No intelligent person will either request or expect another to work without adequate compensation, although this may not always be in the form of money. C. Arrange to meet with the members of your mastermind group at least twice a week and more often if possible, until you have jointly perfected the necessary plan or plans for the accumulation of money. D.
 
-Arrange to meet with the members of your mastermind group at least twice a week and more often if possible, until you have jointly perfected the necessary plan or plans for the accumulation of money. D. Maintain perfect harmony between yourself and every member of your mastermind group. If you fail to carry out this instruction to the letter, you may expect to meet with failure.
-
-The mastermind principle cannot obtain where perfect harmony does not prevail. Keep in mind these facts.
+Maintain perfect harmony between yourself and every member of your mastermind group. If you fail to carry out this instruction to the letter, you may expect to meet with failure. The mastermind principle cannot obtain where perfect harmony does not prevail. Keep in mind these facts.
 
 First, you are engaged in an undertaking of major importance to you. To be sure of success, you must have plans which are faultless.
 
@@ -1805,17 +1801,15 @@ For six years, from 1929 to 1935, the people of America, both rich and poor, bar
 
 We shall not wish to go through another such experience. These observations are not founded upon short-time experience. They are the result of twenty-five years of careful analysis of the methods of both the most successful and the most unsuccessful men America has known.
 
-#### CHAPTER VIII.
+#### CHAPTER VIII. DECISION.
 
-DECISION. The Mastery of Procrastination. The Seventh Step Toward Riches. Accurate analysis of over twenty-five thousand men and women who had experienced failure disclosed the fact that lack of decision was near the head of the list of the thirty major causes of failure.
+The Mastery of Procrastination. The Seventh Step Toward Riches. Accurate analysis of over twenty-five thousand men and women who had experienced failure disclosed the fact that lack of decision was near the head of the list of the thirty major causes of failure. This is no mere statement of a theory.
 
-This is no mere statement of a theory. It is a fact. Procrastination, the opposite of decision, is a common enemy which practically every man must conquer. You will have an opportunity to test your capacity to reach quick and definite decisions when you finish reading this book, and are ready to begin putting into action the principles which it describes.
+It is a fact. Procrastination, the opposite of decision, is a common enemy which practically every man must conquer. You will have an opportunity to test your capacity to reach quick and definite decisions when you finish reading this book, and are ready to begin putting into action the principles which it describes. Analysis of several hundred people who had accumulated fortunes well beyond the million-dollar mark disclosed the fact that every one of them had the habit of reaching decisions promptly, and of changing these decisions slowly, if, and when they were changed.
 
-Analysis of several hundred people who had accumulated fortunes well beyond the million-dollar mark disclosed the fact that every one of them had the habit of reaching decisions promptly, and of changing these decisions slowly, if, and when they were changed. People who fail to accumulate money, without exception, have the habit of reaching decisions, if at all, very slowly, and of changing these decisions quickly and often. One of Henry Ford’s most outstanding qualities is his habit of reaching decisions quickly and definitely, and changing them slowly.
+People who fail to accumulate money, without exception, have the habit of reaching decisions, if at all, very slowly, and of changing these decisions quickly and often. One of Henry Ford’s most outstanding qualities is his habit of reaching decisions quickly and definitely, and changing them slowly. This quality is so pronounced in Mr. Ford that it is given him the reputation of being obstinate. It was this quality which prompted Mr. Ford to continue to manufacture his famous Model T, the world’s ugliest car, when all of his advisers and many of the purchasers of the car were urging him to change it.
 
-This quality is so pronounced in Mr. Ford that it is given him the reputation of being obstinate. It was this quality which prompted Mr. Ford to continue to manufacture his famous Model T, the world’s ugliest car, when all of his advisers and many of the purchasers of the car were urging him to change it. Perhaps Mr. Ford delayed too long in making the change, but the other side of the story is that Mr. Ford’s firmness of decision yielded a huge fortune before the change in model became necessary.
-
-There is but little doubt
+Perhaps Mr. Ford delayed too long in making the change, but the other side of the story is that Mr. Ford’s firmness of decision yielded a huge fortune before the change in model became necessary. There is but little doubt
 
 
 <a id="sec-053233"></a>
@@ -1943,23 +1937,21 @@ He stakes his economic freedom. All independence, riches, desirable business and
 
 You will find also detailed information on how to choose the employer you prefer and the particular job you desire. These instructions will be of no value to you unless you definitely decide to organize them into a plan of action.
 
-#### Chapter 9 Persistence The Sustained Effort Necessary to Induce Faith The Eighth Step Toward Riches Persistence is an essential factor in the procedure of transmuting desire into its monetary equivalent.
+#### Chapter 9 Persistence The Sustained Effort Necessary to Induce Faith The Eighth Step Toward Riches Persistence is an essential factor in the procedure of transmuting desire into its monetary equivalent. The basis of persistence is the power of will. Will power and desire, when properly combined, make an irresistible pair.
 
-The basis of persistence is the power of will. Will power and desire, when properly combined, make an irresistible pair. Men who accumulate great fortunes are generally known as cold-blooded and sometimes ruthless. When they are misunderstood, what they have is will power, which they mix with persistence and place back of their desires to ensure the attainment of their objectives.
+Men who accumulate great fortunes are generally known as cold-blooded and sometimes ruthless. When they are misunderstood, what they have is will power, which they mix with persistence and place back of their desires to ensure the attainment of their objectives. Henry Ford has been generally misunderstood to be ruthless and cold-blooded. This misconception grew out of Ford’s habit of following through in all of his plans with persistence.
 
-Henry Ford has been generally misunderstood to be ruthless and cold-blooded. This misconception grew out of Ford’s habit of following through in all of his plans with persistence. The majority of people are ready for it. to throw their aims and purposes overboard, and give up at the first sign of opposition or misfortune. A few carry on despite all opposition, until they attain their goal.
+The majority of people are ready for it. to throw their aims and purposes overboard, and give up at the first sign of opposition or misfortune. A few carry on despite all opposition, until they attain their goal. These few are the Fords, Carnegies, Rockefellers, and Edisons. There may be no heroic connotation to the word persistence, but the quality is to the character of man what carbon is to appeal.
 
-These few are the Fords, Carnegies, Rockefellers, and Edisons. There may be no heroic connotation to the word persistence, but the quality is to the character of man what carbon is to appeal. The building of a fortune, generally, involves the application of the entire thirteen factors of this philosophy. These principles must be understood.
+The building of a fortune, generally, involves the application of the entire thirteen factors of this philosophy. These principles must be understood. They must be applied with persistence by all who accumulate money. If you are following this book with the intention of applying the knowledge it conveys, your first test as to your persistence will come when you begin to follow the six steps described in the second chapter.
 
-They must be applied with persistence by all who accumulate money. If you are following this book with the intention of applying the knowledge it conveys, your first test as to your persistence will come when you begin to follow the six steps described in the second chapter. Unless you are one of the two out of every hundred who already have a definite goal at which you are aiming, and a definite plan for its attainment, you may read the instructions, and then pass on with your daily routine, and never comply with those instructions.
+Unless you are one of the two out of every hundred who already have a definite goal at which you are aiming, and a definite plan for its attainment, you may read the instructions, and then pass on with your daily routine, and never comply with those instructions. The author is checking you up at this point, because lack of persistence is one of the major causes of failure.
 
-The author is checking you up at this point, because lack of persistence is one of the major causes of failure. Moreover, experience with thousands of people has proved that lack of persistence is a weakness common to the majority of men. It is a weakness which may be overcome by effort. The ease with which lack of persistence may be conquered will depend entirely upon the intensity of one’s desire.
+Moreover, experience with thousands of people has proved that lack of persistence is a weakness common to the majority of men. It is a weakness which may be overcome by effort. The ease with which lack of persistence may be conquered will depend entirely upon the intensity of one’s desire. The starting point of all achievement is desire.
 
-The starting point of all achievement is desire. Keep this constantly in mind. Weak desires bring weak results, just as a small amount of fire makes a small amount of heat. If you find yourself lacking in persistence, this weakness may be remedied by building a stronger fire under your desires.
+Keep this constantly in mind. Weak desires bring weak results, just as a small amount of fire makes a small amount of heat. If you find yourself lacking in persistence, this weakness may be remedied by building a stronger fire under your desires. Continue to read through to the end, then go back to chapter two, and start immediately to carry out the instructions given in connection with the six steps.
 
-Continue to read through to the end, then go back to chapter two, and start immediately to carry out the instructions given in connection with the six steps. The eagerness with which you follow these instructions will indicate clearly how much or how little you really desire to accumulate money. If you find that you are indifferent, you may be sure that you have not yet acquired the money-consciousness which you must possess before you can be sure of accumulating a fortune. Fortunes gravitate to men whose minds have been prepared to attract them, just as surely as water gravitates to the ocean.
-
-In this book may be found all the stimuli necessary
+The eagerness with which you follow these instructions will indicate clearly how much or how little you really desire to accumulate money. If you find that you are indifferent, you may be sure that you have not yet acquired the money-consciousness which you must possess before you can be sure of accumulating a fortune. Fortunes gravitate to men whose minds have been prepared to attract them, just as surely as water gravitates to the ocean. In this book may be found all the stimuli necessary
 
 
 <a id="sec-060244"></a>
@@ -2169,19 +2161,19 @@ He was calling all who believed in one God to join in a single faith. If the Jew
 
 When the armies of the Prophet entered Jerusalem, not a single person was killed because of his faith. When the Crusaders entered the city centuries later, not a Muslim man, woman, or child was spared. But the Christians did accept one Muslim idea, the place of learning, the university.
 
-#### Chapter 10 Power of the Mastermind The Driving Force The Ninth Step Toward Riches Power is essential for success in the accumulation of money.
+#### Chapter 10 Power of the Mastermind The Driving Force The Ninth Step Toward Riches Power is essential for success in the accumulation of money. Christians are inert and useless, without sufficient power to translate them into action.
 
-Christians are inert and useless, without sufficient power to translate them into action. This chapter will describe the method by which an individual may attain and apply power. Power may be defined as organized and intelligently directed knowledge. Power, as the term is here used, refers to organized effort, sufficient to enable an individual to transmute desire into its monetary equivalent.
+This chapter will describe the method by which an individual may attain and apply power. Power may be defined as organized and intelligently directed knowledge. Power, as the term is here used, refers to organized effort, sufficient to enable an individual to transmute desire into its monetary equivalent. Organized effort is produced through the coordination of effort of two or more people who work toward a definite end in a spirit of harmony.
 
-Organized effort is produced through the coordination of effort of two or more people who work toward a definite end in a spirit of harmony. Power is required for the accumulation of money. Power is necessary for the retention of money after it has been accumulated. Let us ascertain how power may be acquired.
+Power is required for the accumulation of money. Power is necessary for the retention of money after it has been accumulated. Let us ascertain how power may be acquired. If power is organized knowledge, let us examine the sources of knowledge.
 
-If power is organized knowledge, let us examine the sources of knowledge. Infinite Intelligence This source of knowledge may be contacted through the procedure described in another chapter, with the aid of creative imagination. Accumulated Experience The accumulated experience of man, or that portion of it which has been organized and recorded, may be found in any well-equipped public library. An important part of this accumulated experience is taught in public schools and colleges, where it has been classified and organized.
+Infinite Intelligence This source of knowledge may be contacted through the procedure described in another chapter, with the aid of creative imagination. Accumulated Experience The accumulated experience of man, or that portion of it which has been organized and recorded, may be found in any well-equipped public library. An important part of this accumulated experience is taught in public schools and colleges, where it has been classified and organized. See Experiment and Research In the field of science and in practically every other walk of life, men are gathering, classifying, and organizing new facts daily.
 
-See Experiment and Research In the field of science and in practically every other walk of life, men are gathering, classifying, and organizing new facts daily. This is the source to which one must turn when knowledge is not available through accumulated experience. Here, too, the creative imagination must often be used. Knowledge may be acquired from any of the foregoing sources.
+This is the source to which one must turn when knowledge is not available through accumulated experience. Here, too, the creative imagination must often be used. Knowledge may be acquired from any of the foregoing sources. It may be converted into power by organizing it into definite plans, and by expressing those plans in terms of action.
 
-It may be converted into power by organizing it into definite plans, and by expressing those plans in terms of action. Examination of the three major sources of knowledge will readily disclose the difficulty an individual would have if he depended upon his efforts alone in assembling knowledge and expressing it through definite plans in terms of action. If his plans are comprehensive, and if they contemplate large proportions, he must, generally, induce others to cooperate with him before he can inject into them the necessary element of power.
+Examination of the three major sources of knowledge will readily disclose the difficulty an individual would have if he depended upon his efforts alone in assembling knowledge and expressing it through definite plans in terms of action. If his plans are comprehensive, and if they contemplate large proportions, he must, generally, induce others to cooperate with him before he can inject into them the necessary element of power. Gaining Power Through the Mastermind The Mastermind may be defined as coordination of knowledge and effort in a spirit of harmony between two or more people for the attainment of a definite purpose.
 
-Gaining Power Through the Mastermind The Mastermind may be defined as coordination of knowledge and effort in a spirit of harmony between two or more people for the attainment of a definite purpose. No individual may have great power without availing himself of the Mastermind. In a preceding chapter, instructions were given for the creation of plans for the purpose of translating desire into its monetary equivalent. If you carry out these instructions with persistence and intelligence and use discrimination in
+No individual may have great power without availing himself of the Mastermind. In a preceding chapter, instructions were given for the creation of plans for the purpose of translating desire into its monetary equivalent. If you carry out these instructions with persistence and intelligence and use discrimination in
 
 
 <a id="sec-064307"></a>
@@ -2585,11 +2577,9 @@ The subconscious mind is the intermediary, which translates one’s prayers into
 
 Faith is the only known agency which will give your thoughts a spiritual nature. Faith and fear make poor bedfellows. Where one is found, the other cannot exist.
 
-#### Chapter 13 THE BRAIN A BROADCASTING AND RECEIVING STATION FOR THOUGHT THE TWELTH STEP TOWARD RICHES.
+#### Chapter 13 THE BRAIN A BROADCASTING AND RECEIVING STATION FOR THOUGHT THE TWELTH STEP TOWARD RICHES. More than twenty years ago, the author, working in conjunction with the late Dr. Alexander Graham Bell and Dr. Elmer R.
 
-More than twenty years ago, the author, working in conjunction with the late Dr. Alexander Graham Bell and Dr. Elmer R. Gates, observed that every human brain is both a broadcasting and receiving station for the vibration of thought. Through the medium of the ether, in a fashion similar to that employed by the radio broadcasting principle, every human brain is capable of picking up vibrations of thought which are being released by other brains. In connection with the statement in the preceding paragraph, compare and consider the description of the creative imagination as outlined in the chapter on imagination.
-
-The creative imagination is the receiving set of the brain, which receives thoughts
+Gates, observed that every human brain is both a broadcasting and receiving station for the vibration of thought. Through the medium of the ether, in a fashion similar to that employed by the radio broadcasting principle, every human brain is capable of picking up vibrations of thought which are being released by other brains. In connection with the statement in the preceding paragraph, compare and consider the description of the creative imagination as outlined in the chapter on imagination. The creative imagination is the receiving set of the brain, which receives thoughts
 
 
 <a id="sec-080850"></a>
@@ -2767,9 +2757,9 @@ Here will be found a full description of the six fears which are the cause of al
 
 The ghost of the fear of poverty which seized the minds of millions of people in 1929 was so real that it caused the worst business depression this country has ever known. Moreover this particular ghost still frightens some of us out of our wits.
 
-#### Chapter 15 How to Outwit the Six Ghosts of Fear Take inventory of yourself as you read this closing chapter and find out how many of the ghosts are standing in your way.
+#### Chapter 15 How to Outwit the Six Ghosts of Fear Take inventory of yourself as you read this closing chapter and find out how many of the ghosts are standing in your way. Before you can put any portion of this philosophy into successful use, your mind must be prepared to receive it.
 
-Before you can put any portion of this philosophy into successful use, your mind must be prepared to receive it. The preparation is not difficult. It begins with study, analysis, and understanding of three enemies which you shall have to clear out.
+The preparation is not difficult. It begins with study, analysis, and understanding of three enemies which you shall have to clear out.
 
 
 <a id="sec-084906"></a>

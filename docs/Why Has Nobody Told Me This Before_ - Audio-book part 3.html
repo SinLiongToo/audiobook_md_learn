@@ -66,26 +66,12 @@
       --card-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
     }
 
-    [data-line-height="compact"] {
-      --line-height: 1.68;
-    }
-    [data-line-height="normal"] {
-      --line-height: 1.88;
-    }
-    [data-line-height="loose"] {
-      --line-height: 2.12;
-    }
+    [data-line-height="compact"] { --line-height: 1.68; }
+    [data-line-height="normal"] { --line-height: 1.88; }
+    [data-line-height="loose"] { --line-height: 2.12; }
 
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
-    html {
-      scroll-behavior: smooth;
-    }
-
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
     body {
       font-family: var(--font-family);
       font-size: var(--font-size);
@@ -119,7 +105,7 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 0 20px;
+      padding: 0 18px;
       background-color: var(--bg-header);
       backdrop-filter: blur(8px);
       -webkit-backdrop-filter: blur(8px);
@@ -129,7 +115,7 @@
     .header-left, .header-right {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 8px;
       flex-wrap: nowrap;
     }
 
@@ -138,7 +124,7 @@
       border: 1px solid var(--border-color);
       color: var(--text-primary);
       cursor: pointer;
-      font-size: 14px;
+      font-size: 13.5px;
       padding: 6px 10px;
       border-radius: 8px;
       display: inline-flex;
@@ -147,6 +133,7 @@
       transition: all 0.2s;
       white-space: nowrap;
       user-select: none;
+      text-decoration: none;
     }
     .btn-icon:hover {
       background-color: var(--accent-light);
@@ -161,11 +148,132 @@
       font-size: 14px;
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
+    }
+    .home-link:hover { color: var(--accent-color); }
+
+    /* In-Page Search Bar Dropdown */
+    .inpage-search-bar {
+      position: sticky;
+      top: 60px;
+      z-index: 890;
+      background-color: var(--bg-surface);
+      border-bottom: 1px solid var(--border-color);
+      padding: 10px 18px;
+      display: none;
+      align-items: center;
+      gap: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    }
+    .inpage-search-bar.active { display: flex; }
+
+    .inpage-search-input-wrapper {
+      flex: 1;
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    .inpage-search-input {
+      width: 100%;
+      padding: 8px 36px 8px 12px;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      font-size: 14px;
+    }
+    .inpage-search-input:focus { outline: 2px solid var(--accent-color); }
+
+    .inpage-search-clear {
+      position: absolute;
+      right: 10px;
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 16px;
     }
 
-    .home-link:hover {
+    .inpage-search-count {
+      font-size: 13px;
+      color: var(--text-secondary);
+      font-family: monospace;
+      white-space: nowrap;
+    }
+    .search-nav-btns { display: flex; gap: 6px; }
+
+    /* In-Page Search Results Drawer */
+    .inpage-search-drawer {
+      position: fixed;
+      right: 20px;
+      top: 120px;
+      width: 360px;
+      max-height: calc(100vh - 160px);
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+      z-index: 895;
+      display: none;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .inpage-search-drawer.active { display: flex; }
+    .inpage-search-drawer-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-weight: 600;
+      font-size: 14px;
+    }
+    .inpage-search-drawer-list {
+      overflow-y: auto;
+      padding: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .search-result-item {
+      padding: 10px 12px;
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+      background: var(--bg-primary);
+      cursor: pointer;
+      font-size: 13px;
+      transition: all 0.15s;
+    }
+    .search-result-item:hover, .search-result-item.active {
+      border-color: var(--accent-color);
+      background: var(--accent-light);
+    }
+    .search-result-time {
+      font-weight: 700;
       color: var(--accent-color);
+      font-family: monospace;
+      margin-bottom: 4px;
+    }
+    .search-result-snippet {
+      color: var(--text-primary);
+      line-height: 1.5;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    /* Highlight mark */
+    mark.search-highlight {
+      background-color: #fef08a;
+      color: #1f2937;
+      padding: 1px 3px;
+      border-radius: 3px;
+    }
+    mark.search-highlight.active-match {
+      background-color: #f97316;
+      color: #ffffff;
+      outline: 2px solid #ea580c;
     }
 
     /* Layout Wrapper */
@@ -212,9 +320,7 @@
       font-size: 13px;
       margin-bottom: 14px;
     }
-    .toc-search:focus {
-      outline: 2px solid var(--accent-color);
-    }
+    .toc-search:focus { outline: 2px solid var(--accent-color); }
 
     .toc-list {
       list-style: none;
@@ -237,12 +343,10 @@
       overflow: hidden;
       text-overflow: ellipsis;
     }
-
     .toc-item a:hover {
       background-color: var(--accent-light);
       color: var(--accent-color);
     }
-
     .toc-item.active a {
       background-color: var(--accent-color);
       color: #ffffff;
@@ -257,19 +361,17 @@
       display: flex;
       justify-content: center;
     }
-
     .reader-container {
       width: 100%;
       max-width: var(--content-max-width);
     }
 
-    /* Book Hero / Header */
+    /* Book Hero */
     .book-hero {
       margin-bottom: 40px;
       padding-bottom: 24px;
       border-bottom: 2px solid var(--border-color);
     }
-
     .book-hero h1 {
       font-size: 2.1em;
       line-height: 1.35;
@@ -285,7 +387,6 @@
       gap: 10px;
       margin-top: 14px;
     }
-
     .meta-chip {
       display: inline-flex;
       align-items: center;
@@ -297,8 +398,13 @@
       font-size: 13px;
       font-weight: 500;
     }
+    .meta-chip.cat-badge {
+      background-color: #8b5cf622;
+      color: #8b5cf6;
+      font-weight: 600;
+    }
 
-    /* Content Typography & Enhanced Paragraphs */
+    /* Content Typography */
     .transcript-section {
       margin-bottom: 50px;
       scroll-margin-top: 80px;
@@ -349,25 +455,22 @@
       letter-spacing: 0.015em;
     }
 
-    /* Indented paragraph style (Traditional) */
+    /* Indented paragraph style */
     [data-p-style="indent"] .section-body p {
       text-indent: 2em;
       margin-bottom: 1.15em;
       line-height: var(--line-height);
     }
 
-    /* Block paragraph style (Modern with whitespace) */
+    /* Block paragraph style */
     [data-p-style="block"] .section-body p {
       text-indent: 0;
       margin-bottom: 1.55em;
       line-height: var(--line-height);
     }
+    .section-body p:last-child { margin-bottom: 0; }
 
-    .section-body p:last-child {
-      margin-bottom: 0;
-    }
-
-    /* Floating Navigation Controls */
+    /* Floating Tools */
     .floating-tools {
       position: fixed;
       bottom: 24px;
@@ -377,7 +480,6 @@
       gap: 10px;
       z-index: 800;
     }
-
     .float-btn {
       width: 44px;
       height: 44px;
@@ -399,7 +501,6 @@
       color: var(--accent-color);
     }
 
-    /* Overlay for mobile drawer */
     .backdrop {
       display: none;
       position: fixed;
@@ -419,36 +520,22 @@
         transform: translateX(-100%);
         box-shadow: 4px 0 16px rgba(0,0,0,0.15);
       }
-
-      .sidebar.open {
-        transform: translateX(0);
-      }
-
-      .backdrop.open {
-        display: block;
+      .sidebar.open { transform: translateX(0); }
+      .backdrop.open { display: block; }
+      .inpage-search-drawer {
+        left: 20px;
+        right: 20px;
+        width: auto;
       }
     }
 
     @media (max-width: 640px) {
-      :root {
-        --font-size: 17px;
-      }
-      .main-content {
-        padding: 24px 16px 60px 16px;
-      }
-      .book-hero h1 {
-        font-size: 1.55em;
-      }
-      .top-header {
-        padding: 0 10px;
-      }
-      .btn-icon {
-        padding: 5px 8px;
-        font-size: 13px;
-      }
-      [data-p-style="indent"] .section-body p {
-        text-indent: 1.5em;
-      }
+      :root { --font-size: 17px; }
+      .main-content { padding: 24px 16px 60px 16px; }
+      .book-hero h1 { font-size: 1.55em; }
+      .top-header { padding: 0 10px; }
+      .btn-icon { padding: 5px 7px; font-size: 12.5px; }
+      [data-p-style="indent"] .section-body p { text-indent: 1.5em; }
     }
   </style>
 </head>
@@ -464,6 +551,14 @@
       <a href="index.html" class="home-link" title="返回書架">
         🏠 書架
       </a>
+      <!-- Search Inside Book Button -->
+      <button class="btn-icon" id="search-toggle-btn" title="搜尋本書內文 (Ctrl+F)">
+        🔍 <span>搜尋內文</span>
+      </button>
+      <!-- Global Search Link -->
+      <a href="index.html?tab=search" class="btn-icon" title="前往全書庫全文檢索">
+        🌐 <span>全庫搜尋</span>
+      </a>
     </div>
 
     <div class="header-right">
@@ -473,7 +568,7 @@
       </button>
 
       <!-- Line Height Toggle -->
-      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 精簡)">
+      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 緊湊)">
         ↕ <span id="line-height-label">行距</span>
       </button>
 
@@ -492,6 +587,29 @@
       <button class="btn-icon" id="font-inc-btn" title="放大字級">A+</button>
     </div>
   </header>
+
+  <!-- In-Page Search Bar Dropdown -->
+  <div class="inpage-search-bar" id="inpage-search-bar">
+    <div class="inpage-search-input-wrapper">
+      <input type="text" id="inpage-search-input" class="inpage-search-input" placeholder="🔍 搜尋本書內文關鍵字 (按 Enter 尋找下一處，Esc 關閉)...">
+      <button class="inpage-search-clear" id="inpage-search-clear" title="清空">✕</button>
+    </div>
+    <span class="inpage-search-count" id="inpage-search-count">0 / 0</span>
+    <div class="search-nav-btns">
+      <button class="btn-icon" id="inpage-search-prev" title="上一處 (Shift+Enter)">▲</button>
+      <button class="btn-icon" id="inpage-search-next" title="下一處 (Enter)">▼</button>
+      <button class="btn-icon" id="inpage-search-close" title="關閉搜尋 (Esc)">✕</button>
+    </div>
+  </div>
+
+  <!-- In-Page Search Results Drawer -->
+  <div class="inpage-search-drawer" id="inpage-search-drawer">
+    <div class="inpage-search-drawer-header">
+      <span>搜尋結果清單</span>
+      <button class="btn-icon" id="inpage-drawer-close" style="padding: 2px 6px;">✕</button>
+    </div>
+    <div class="inpage-search-drawer-list" id="inpage-search-drawer-list"></div>
+  </div>
 
   <div class="backdrop" id="backdrop"></div>
 
@@ -534,6 +652,7 @@
         <header class="book-hero">
           <h1>Why Has Nobody Told Me This Before_ - Audio-book part 3</h1>
           <div class="book-meta-chips">
+            <span class="meta-chip cat-badge">🧠 哲學與思辨</span>
             <span class="meta-chip">🏷️ 時長：01:44:01</span>
 <span class="meta-chip">🏷️ 模型：small.en</span>
 <span class="meta-chip">🏷️ 日期：2026-09-22</span>
@@ -541,7 +660,7 @@
         </header>
 
         <!-- Transcript Content -->
-        <div class="book-body">
+        <div class="book-body" id="book-body">
           
         <section class="transcript-section" id="sec-000000">
           <div class="section-header">
@@ -549,32 +668,32 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <h4 class="section-subhead">Chapter 21.</h4>
-<p class="prose-p">Being Enough. The brick wall that most people hit on their way to self-acceptance is. The misconception that it will cause laziness and complacency. They.</p>
-<p class="prose-p">Think that self-acceptance means believing you are okay just as you are. Therefore you will have no motivation for improvement, work, achievement or change. In reality, the research shows us that those. Who develop self-acceptance and learn to be self-compassionate are.</p>
-<p class="prose-p">Less likely to fear failure, more likely to persevere and try again when. They do fail and generally have more self-confidence, any at all, 2005. Self-acceptance and the compassion we show ourselves when we are. Accepting of the self is not the same as becoming indy-errant to the.</p>
-<p class="prose-p">World and passively resigning yourself to accept defeat when things are. Tough. Having unconditional love for yourself means doing the opposite. Sometimes.</p>
-<p class="prose-p">It can mean taking the more D. I cult road because it is in. Your best interests. It is refusing to kick yourself while you are down or.</p>
-<p class="prose-p">Indulging in self-loathing and instead using every ounce of strength to. Pull yourself back upper or a fall. The D. I.</p>
-<p class="prose-p">Arence is that when you strive, you do so from a place of love. And contentment rather than striving from a place of fear and scarcity. If we don’t do the work to develop self-acceptance, we set ourselves. Up to live a life in which we may need constant reassurance, get.</p>
-<p class="prose-p">Trapped in jobs we hate or relationships that cause us harm, or find. Ourselves living with resentment. So how do we start developing self-acceptance? Understanding yourself.</p>
-<p class="prose-p">Sounds simple, but many people go through life without much in the. Way of examining their own par-earns of behavior that impact on their. Experience of life. To build self-acceptance we first need to understand.</p>
-<p class="prose-p">Who we are and who we want to be. That comes from practicing self-awareness. We become self-aware through self-reflection. Keeping.</p>
-<p class="prose-p">Journals, going to a therapist or talking to friends can all help us to. Reflect on ourselves and our experience in a way that enables us to. Learn more about who we are and why we do what we do. Self-acceptance involves listening to our own needs and meeting them.</p>
-<p class="prose-p">If. We are not paying an end tie on, we don’t always pick up on the signs. During that process it is important to be attentive to the parts of us. That we feel proud of and the parts of us that we may prefer not to.</p>
-<p class="prose-p">Think about, the things we dislike, feel anxious or regretful about, or. Want to change. But when we do reflect on those more DI cult aspects. Of the self, it is crucial that we come at it with the compassion of an.</p>
-<p class="prose-p">Observer if we are to learn. If reflecting on DI cult situations triggers. Intense emotions that make it harder to think clearly, it can be helpful. To get support from a therapist to help us work through it.</p>
-<p class="prose-p">Painting the picture of self-acceptance. Let’s say that from the moment you closed this book you started living. Your life with unconditional self-acceptance. What would that look like?</p>
-<p class="prose-p">What would you do DI errantly? What would you say yes to? What? Would you say no to?</p>
-<p class="prose-p">What would you work harder on? What would. You let go of. How would you speak to yourself?</p>
-<p class="prose-p">How would you speak. To others. Try writing down your answers to those questions in great detail and. Create a vision of how the idea of self-acceptance would translate into.</p>
-<p class="prose-p">Behavior change for you. As with most changes, the action comes first. And the feeling comes later. So living a life in which you feel a sense of.</p>
-<p class="prose-p">Self-worth means making it a life practice. The work is never done. You. Never arrive.</p>
-<p class="prose-p">You do the work every day to live in line with. Unconditional self-acceptance. Accepting all of you. While you maintain a sense of self that stays with you throughout your.</p>
-<p class="prose-p">Life, you also experience a wide range of emotional states that are. Constantly in motion, changing from one moment to the next. We take. On DI errant roles and behaviors in DI errant scenarios and many.</p>
-<p class="prose-p">People see those as DI errant parts of themselves. Depending on our. Early life experiences and how the world responded to those emotion. States, we can feel that some parts of the self are less acceptable than.</p>
-<p class="prose-p">Others. If anger was unacceptable for you growing up, then it might feel. Much harder to treat yourself with compassion and acceptance when. You are feeling angry.</p>
-<p class="prose-p">This makes self-acceptance conditional on how. You feel. Try this. You can build your awareness</p>
+            <p class="prose-p">#### Chapter 21. Being Enough. The brick wall that most people hit on their way to self-acceptance is. The misconception that it will cause laziness and complacency.</p>
+<p class="prose-p">They. Think that self-acceptance means believing you are okay just as you are. Therefore you will have no motivation for improvement, work, achievement or change. In reality, the research shows us that those.</p>
+<p class="prose-p">Who develop self-acceptance and learn to be self-compassionate are. Less likely to fear failure, more likely to persevere and try again when. They do fail and generally have more self-confidence, any at all, 2005. Self-acceptance and the compassion we show ourselves when we are.</p>
+<p class="prose-p">Accepting of the self is not the same as becoming indy-errant to the. World and passively resigning yourself to accept defeat when things are. Tough. Having unconditional love for yourself means doing the opposite.</p>
+<p class="prose-p">Sometimes. It can mean taking the more D. I cult road because it is in. Your best interests.</p>
+<p class="prose-p">It is refusing to kick yourself while you are down or. Indulging in self-loathing and instead using every ounce of strength to. Pull yourself back upper or a fall. The D.</p>
+<p class="prose-p">I. Arence is that when you strive, you do so from a place of love. And contentment rather than striving from a place of fear and scarcity. If we don’t do the work to develop self-acceptance, we set ourselves.</p>
+<p class="prose-p">Up to live a life in which we may need constant reassurance, get. Trapped in jobs we hate or relationships that cause us harm, or find. Ourselves living with resentment. So how do we start developing self-acceptance?</p>
+<p class="prose-p">Understanding yourself. Sounds simple, but many people go through life without much in the. Way of examining their own par-earns of behavior that impact on their. Experience of life.</p>
+<p class="prose-p">To build self-acceptance we first need to understand. Who we are and who we want to be. That comes from practicing self-awareness. We become self-aware through self-reflection.</p>
+<p class="prose-p">Keeping. Journals, going to a therapist or talking to friends can all help us to. Reflect on ourselves and our experience in a way that enables us to. Learn more about who we are and why we do what we do.</p>
+<p class="prose-p">Self-acceptance involves listening to our own needs and meeting them. If. We are not paying an end tie on, we don’t always pick up on the signs. During that process it is important to be attentive to the parts of us.</p>
+<p class="prose-p">That we feel proud of and the parts of us that we may prefer not to. Think about, the things we dislike, feel anxious or regretful about, or. Want to change. But when we do reflect on those more DI cult aspects.</p>
+<p class="prose-p">Of the self, it is crucial that we come at it with the compassion of an. Observer if we are to learn. If reflecting on DI cult situations triggers. Intense emotions that make it harder to think clearly, it can be helpful.</p>
+<p class="prose-p">To get support from a therapist to help us work through it. Painting the picture of self-acceptance. Let’s say that from the moment you closed this book you started living. Your life with unconditional self-acceptance.</p>
+<p class="prose-p">What would that look like? What would you do DI errantly? What would you say yes to? What?</p>
+<p class="prose-p">Would you say no to? What would you work harder on? What would. You let go of.</p>
+<p class="prose-p">How would you speak to yourself? How would you speak. To others. Try writing down your answers to those questions in great detail and.</p>
+<p class="prose-p">Create a vision of how the idea of self-acceptance would translate into. Behavior change for you. As with most changes, the action comes first. And the feeling comes later.</p>
+<p class="prose-p">So living a life in which you feel a sense of. Self-worth means making it a life practice. The work is never done. You.</p>
+<p class="prose-p">Never arrive. You do the work every day to live in line with. Unconditional self-acceptance. Accepting all of you.</p>
+<p class="prose-p">While you maintain a sense of self that stays with you throughout your. Life, you also experience a wide range of emotional states that are. Constantly in motion, changing from one moment to the next. We take.</p>
+<p class="prose-p">On DI errant roles and behaviors in DI errant scenarios and many. People see those as DI errant parts of themselves. Depending on our. Early life experiences and how the world responded to those emotion.</p>
+<p class="prose-p">States, we can feel that some parts of the self are less acceptable than. Others. If anger was unacceptable for you growing up, then it might feel. Much harder to treat yourself with compassion and acceptance when.</p>
+<p class="prose-p">You are feeling angry. This makes self-acceptance conditional on how. You feel. Try this.</p>
+<p class="prose-p">You can build your awareness</p>
           </div>
         </section>
         
@@ -638,25 +757,26 @@
 <p class="prose-p">Build that mental muscle to use it when you most need it. If you find yourself struggling to access that feeling of compassion. For yourself. Focus on someone that you love unconditionally and.</p>
 <p class="prose-p">Imagine you are writing to them or use the words that loved ones have. Said to you in the past. Chapter summary. There is a misconception that self acceptance will cause.</p>
 <p class="prose-p">Lasiness. Complacency and lack of drive. In reality the research shows us that those who develop self acceptance and learn to be self compassionate are less likely. To fear failure and more likely to try again when they do fail.</p>
-<p class="prose-p">Self acceptance is not the same as passively accepting defeat. Self compassion OEN involves taking the more DI cult road. That is in your best interests.</p>
-<h4 class="section-subhead">Chapter 22.</h4>
-<p class="prose-p">Make anxiety disappear. For as long as I can remember. I have had a fear of heights. For the.</p>
-<p class="prose-p">Most part one was able to avoid them. Growing up. But when I met my. Now husband.</p>
-<p class="prose-p">We went on a trip to Italy together. We went to visit the. Leaning tower of Pisa and as we stood looking at it he held out two. Tickets.</p>
-<p class="prose-p">We were going to the top. A deep intake of breath was. Followed by another glance up at the tower that leans at three point nine nine degrees. And looks worryingly close to falling over.</p>
-<p class="prose-p">My heart started to beat against my rib cage and I felt sick. But the. Tickets were bought so up we went. To get to the top of the leaning.</p>
-<p class="prose-p">Tower of Pisa you climb the narrow stone steps that spiral around. Inside the tower. The ground beneath your feet is not level and as you. Scale the tower you get the sensation that it is starting to fall over.</p>
-<p class="prose-p">At. Least that was my assessment at the time. With a queue of people. Behind me I kept going.</p>
-<p class="prose-p">Once at the top the tilt feels even worse. Everyone walked straight over to the edge to take in the view. I had the. Overwhelming urge to get closer to the ground.</p>
-<p class="prose-p">I moved as far away. From the edge as I could get and dropped to the ground. There was a. Vega amped to make it look like I was just sighing down casually to.</p>
-<p class="prose-p">Have a rest. But by now my fear of embarrassment was outweighed by. My fear of falling to my death. Of course, sighing on the floor made me.</p>
-<p class="prose-p">No safer. But it was not based on logic. My brain was sending out strong. Signals to the rest of my body to get down.</p>
-<p class="prose-p">I even found myself looking. Down at the slab of stone to avoid looking out at the view. Marhu. Took a picture of me crouching on the floor and we now have a funny.</p>
-<p class="prose-p">Memory to look back on. But what was going on at the time? Why did I. Have the urge to get on the floor.</p>
-<p class="prose-p">My phobia, learned early in childhood, meant that the moment I saw. Those tickets and imagined climbing to the top of the tower, my body. Reacted. My heart started beating faster, my breathing became shallow.</p>
-<p class="prose-p">And fast, my palms sweaty. The building being oh balance only. Contributed to my predictions that I would fall to my death at any. Moment.</p>
-<p class="prose-p">But the brain’s alarm system, which was sounding and telling. Me to get to safety, is more like a smoke alarm. It doesn’t have time to. Take account of all the facts.</p>
-<p class="prose-p">Its job is to sense danger and let me know. It takes its information from the distress signals in my body. Information. About my surroundings from. my senses, and pieces that together with.</p>
+<p class="prose-p">Self acceptance is not the same as passively accepting defeat. Self compassion OEN involves taking the more DI cult road. That is in your best interests.
+
+#### Chapter 22. Make anxiety disappear.</p>
+<p class="prose-p">For as long as I can remember. I have had a fear of heights. For the. Most part one was able to avoid them.</p>
+<p class="prose-p">Growing up. But when I met my. Now husband. We went on a trip to Italy together.</p>
+<p class="prose-p">We went to visit the. Leaning tower of Pisa and as we stood looking at it he held out two. Tickets. We were going to the top.</p>
+<p class="prose-p">A deep intake of breath was. Followed by another glance up at the tower that leans at three point nine nine degrees. And looks worryingly close to falling over. My heart started to beat against my rib cage and I felt sick.</p>
+<p class="prose-p">But the. Tickets were bought so up we went. To get to the top of the leaning. Tower of Pisa you climb the narrow stone steps that spiral around.</p>
+<p class="prose-p">Inside the tower. The ground beneath your feet is not level and as you. Scale the tower you get the sensation that it is starting to fall over. At.</p>
+<p class="prose-p">Least that was my assessment at the time. With a queue of people. Behind me I kept going. Once at the top the tilt feels even worse.</p>
+<p class="prose-p">Everyone walked straight over to the edge to take in the view. I had the. Overwhelming urge to get closer to the ground. I moved as far away.</p>
+<p class="prose-p">From the edge as I could get and dropped to the ground. There was a. Vega amped to make it look like I was just sighing down casually to. Have a rest.</p>
+<p class="prose-p">But by now my fear of embarrassment was outweighed by. My fear of falling to my death. Of course, sighing on the floor made me. No safer.</p>
+<p class="prose-p">But it was not based on logic. My brain was sending out strong. Signals to the rest of my body to get down. I even found myself looking.</p>
+<p class="prose-p">Down at the slab of stone to avoid looking out at the view. Marhu. Took a picture of me crouching on the floor and we now have a funny. Memory to look back on.</p>
+<p class="prose-p">But what was going on at the time? Why did I. Have the urge to get on the floor. My phobia, learned early in childhood, meant that the moment I saw.</p>
+<p class="prose-p">Those tickets and imagined climbing to the top of the tower, my body. Reacted. My heart started beating faster, my breathing became shallow. And fast, my palms sweaty.</p>
+<p class="prose-p">The building being oh balance only. Contributed to my predictions that I would fall to my death at any. Moment. But the brain’s alarm system, which was sounding and telling.</p>
+<p class="prose-p">Me to get to safety, is more like a smoke alarm. It doesn’t have time to. Take account of all the facts. Its job is to sense danger and let me know.</p>
+<p class="prose-p">It takes its information from the distress signals in my body. Information. About my surroundings from. my senses, and pieces that together with.</p>
           </div>
         </section>
         
@@ -709,25 +829,26 @@
 <p class="prose-p">Le With. Chapter Summary. It is understandable to want anxiety to disappear. It is.</p>
 <p class="prose-p">Supposed to be uncomfortable. To fight fear you must first be willing to face it. Escape and avoidance only provides short term relief but. Feeds anxiety in the long term.</p>
 <p class="prose-p">Our attempts to control fear and eliminate it become the real. Problem that dictates our every move. A threat response needs to work fast, so it tends to sound the. Alarm before you have a chance to think things through in.</p>
-<p class="prose-p">More detail.</p>
-<h4 class="section-subhead">Chapter 23.</h4>
-<p class="prose-p">Things we do that make. Anxiety worse. When we feel anxious about something, the most natural human. Response is to avoid it.</p>
-<p class="prose-p">We know that if we stay away, we’ll feel safe, for. Now. But avoidance not only maintains anxiety, it makes it worse over. Your brain learns like a scientist.</p>
-<p class="prose-p">Each time it has an experience. Positive or negative, it clocks that as evidence for its beliefs. If you. Avoid the thing you fear, you never give yourself the chance to build up.</p>
-<p class="prose-p">Evidence in your mind that you can get through it and survive. Just. Telling your brain that something is safe is not enough. You must.</p>
-<p class="prose-p">Experience it. Your brain will take some convincing, so you need to repeat that. Behavior over and over. As many times as it takes.</p>
-<p class="prose-p">The things you do. Most of the time become your comfort zone. So, if you want to feel. Less anxious about something.</p>
-<p class="prose-p">Do it as OEM as you can. Use the skills to. Help you sit with the anxiety and it will reduce over time. When we learn to face the things that make us feel afraid, we get.</p>
-<p class="prose-p">Stronger. When we do that day a day, over time we develop a sense. Of growth. Imagine if, over the next five years, you made your decisions.</p>
-<p class="prose-p">Based on the life you want to have, instead of fear. We avoid the discomfort of fear in so many ways. If you feel anxious. About a social event, you may avoid it by not going.</p>
-<p class="prose-p">Or maybe you do. Go, but you drink to excess before you go. Drinking may dampen that. Anxiety in the moment, leaving you feeling the need to do the same at.</p>
-<p class="prose-p">The next social event. These safety behaviors work in the same way to. Numb the anxiety in the moment. But they don’t help us to feel less.</p>
-<p class="prose-p">Afraid in the future. In fact, they do the opposite. They feed the anxiety. For the future and we become dependent on using those safety.</p>
-<p class="prose-p">Behaviors, making life even harder. There is a list of some common safety behaviors that ease anxiety in. The moment, but keep us stuck in the long term. Escape.</p>
-<p class="prose-p">Whether it be in a social situation, the supermarket, or a. Confined space, when anxiety hits we have the urge to get out of there. As quickly as possible. Anxious avoidance, the moment you say no to that invitation to.</p>
-<p class="prose-p">Avoid the social situation or opt for food deliveries to avoid the anxious. Everything you get in the supermarket, you are rewarded with instant relief. Phew. I don’t have to face that feeling today.</p>
-<p class="prose-p">But the longer you stay. Away from something, the more the fear seems to grow. Then the day. Comes that you need to face it once again and it now feels.</p>
-<p class="prose-p">Overwhelming. Compensatory strategies. This can happen or are experiencing a high. Anxiety state.</p>
+<p class="prose-p">More detail.
+
+#### Chapter 23. Things we do that make. Anxiety worse. When we feel anxious about something, the most natural human.</p>
+<p class="prose-p">Response is to avoid it. We know that if we stay away, we’ll feel safe, for. Now. But avoidance not only maintains anxiety, it makes it worse over.</p>
+<p class="prose-p">Your brain learns like a scientist. Each time it has an experience. Positive or negative, it clocks that as evidence for its beliefs. If you.</p>
+<p class="prose-p">Avoid the thing you fear, you never give yourself the chance to build up. Evidence in your mind that you can get through it and survive. Just. Telling your brain that something is safe is not enough.</p>
+<p class="prose-p">You must. Experience it. Your brain will take some convincing, so you need to repeat that. Behavior over and over.</p>
+<p class="prose-p">As many times as it takes. The things you do. Most of the time become your comfort zone. So, if you want to feel.</p>
+<p class="prose-p">Less anxious about something. Do it as OEM as you can. Use the skills to. Help you sit with the anxiety and it will reduce over time.</p>
+<p class="prose-p">When we learn to face the things that make us feel afraid, we get. Stronger. When we do that day a day, over time we develop a sense. Of growth.</p>
+<p class="prose-p">Imagine if, over the next five years, you made your decisions. Based on the life you want to have, instead of fear. We avoid the discomfort of fear in so many ways. If you feel anxious.</p>
+<p class="prose-p">About a social event, you may avoid it by not going. Or maybe you do. Go, but you drink to excess before you go. Drinking may dampen that.</p>
+<p class="prose-p">Anxiety in the moment, leaving you feeling the need to do the same at. The next social event. These safety behaviors work in the same way to. Numb the anxiety in the moment.</p>
+<p class="prose-p">But they don’t help us to feel less. Afraid in the future.</p>
+<p class="prose-p">In fact, they do the opposite. They feed the anxiety. For the future and we become dependent on using those safety. Behaviors, making life even harder.</p>
+<p class="prose-p">There is a list of some common safety behaviors that ease anxiety in. The moment, but keep us stuck in the long term. Escape. Whether it be in a social situation, the supermarket, or a.</p>
+<p class="prose-p">Confined space, when anxiety hits we have the urge to get out of there. As quickly as possible. Anxious avoidance, the moment you say no to that invitation to. Avoid the social situation or opt for food deliveries to avoid the anxious.</p>
+<p class="prose-p">Everything you get in the supermarket, you are rewarded with instant relief. Phew. I don’t have to face that feeling today. But the longer you stay.</p>
+<p class="prose-p">Away from something, the more the fear seems to grow. Then the day. Comes that you need to face it once again and it now feels. Overwhelming.</p>
+<p class="prose-p">Compensatory strategies. This can happen or are experiencing a high. Anxiety state.</p>
 <p class="prose-p">For example, someone with a fear of contamination or. Sickness may wash excessively or being in a hospital searing. Anticipation, also called sensitization, this is when we rehearse and. Anticipate various worst case scenarios that may occur in a feared.</p>
 <p class="prose-p">Situation. We are OEM convinced that it is helping because it will. Protect us if we are prepared, but it can lead to hypervigilance and. Collective worry without constructive planning, which leads to.</p>
 <p class="prose-p">Increased anxiety. Reassurance seeking. In moments of anxiety and doubt we may ask. For reassurance from a loved one that everything will be okay.</p>
@@ -747,30 +868,30 @@
 <p class="prose-p">We may feel unable to go anywhere without just in. Case medications, or we take a mobile phone everywhere because. Looking down at it enables us to avoid conversation at social events. Chapter summary.</p>
 <p class="prose-p">When we feel anxious about something, the most natural. Human response is to avoid it. But avoidance maintains anxiety. Just telling your brain that something is safe is not enough.</p>
 <p class="prose-p">You must experience it to truly believe it. Your brain will take some convincing, so you need to repeat. That behavior over and over. The things you do most OEN become your comfort zone.</p>
-<p class="prose-p">If you want to feel less anxious about something, do it as OEN as you can.</p>
-<h4 class="section-subhead">Chapter 24.</h4>
-<p class="prose-p">How to calm anxiety right now. If you struggle with anxiety, you are probably hoping for a tip that you. Can use right now. Something easy to learn that will have instant.</p>
-<p class="prose-p">EX. Many people feel this way at the beginning of therapy. That is. Why I always teach people this first skill as early as possible.</p>
-<p class="prose-p">It is easy to. Learn and takes just a few minutes to bring down the intensity of. Anxiety. At the very least, it prevents anxiety from escalating into.</p>
-<p class="prose-p">Panic. When anxiety is triggered, you start breathing more quickly. This is. Your body’s way of GEing in extra oxygen to fuel the survival.</p>
-<p class="prose-p">Response. You feel as though you cannot catch your breath. So you breathe. Faster with rapid, shallow breaths, then you have an excess of oxygen in.</p>
-<p class="prose-p">Your system. If you slow your breathing down, you can calm the body. And, in turn, slow your breathing. Not only this, but if you can extend.</p>
-<p class="prose-p">The out breath so that it is longer or more vigorous than the in breath. This helps to slow your heart rate down. When the pounding heart. Comes down, so does the anxiety response.</p>
-<p class="prose-p">Some people like to count the breaths when doing an extended. Out breath, such as breathing in for a count of 7 and out for a count of. 11, or a variation that works for you. Taking some time to practice slow breathing techniques is a great. Investment of time.</p>
-<p class="prose-p">It’s an anxiety management tool that works in the. Moment. Do it anywhere, any time and nobody even needs to. Know you are doing it.</p>
-<p class="prose-p">One of my favorites is square breathing. Just. Follow the steps below. Toolkit.</p>
-<p class="prose-p">Square breathing. Step 1. Focus your gaze on something square, a nearby window, door, picture frame or computer screen. Step 2.</p>
-<p class="prose-p">Focus your eyes on the Bo O M Lahand corner and as you. Breathe in, count to 4 and trace your eyes up to the top corner. Step 3. Hold your breath for 4 seconds as you trace your eyes across.</p>
-<p class="prose-p">The top to the other corner. Step 4. As you breathe out, trace your eyes down to the Bo O M corner. Counting to 4 once again.</p>
-<p class="prose-p">Step 5. Hold for 4 seconds as you move back to the Bo O M Lah corner. To start again. So, you breathe in for 4 seconds, hold for 4 seconds, out for 4 seconds.</p>
-<p class="prose-p">And hold for 4 seconds. Focusing on something square can act as a. Guide and help you to keep your end tie on on the breathing, minimizing. The chances of being distracted too soon.</p>
-<p class="prose-p">If you try it for a few minutes. And feel like it’s not working yet, keep going. It takes some time for. Your body to respond.</p>
-<p class="prose-p">One extra tip is to practice this every day, at times when you don’t. Feel anxious. When something is well practiced, it is much easier to use. When you find yourself overwhelmed with fear.</p>
-<p class="prose-p">Movement. Another tool that has almost instant EX, and requires very Leela. Practice to master, is exercise. When your anxiety response is triggered.</p>
-<p class="prose-p">Your muscles fill up with oxygen and adrenaline, ready to move fast. If. You don’t move and burn oh that fuel, your body is like a rocket with. Engines firing and nowhere to go.</p>
-<p class="prose-p">Bring on the trembling, shaking. Sweating and the urge to pace around the house. Exercise is one of the best anxiety management tools because it. Follows the natural course of your threat response.</p>
-<p class="prose-p">Your body is geared. Up to move. Allow it to do that and your body can use up the energy. and stress hormones it has produced and rebalance. If you have a stressful day, try adding in a short jog outside, or an intense half hour with a punch bag.</p>
-<p class="prose-p">Physical movement will truly relieve your body</p>
+<p class="prose-p">If you want to feel less anxious about something, do it as OEN as you can.
+
+#### Chapter 24. How to calm anxiety right now. If you struggle with anxiety, you are probably hoping for a tip that you. Can use right now.</p>
+<p class="prose-p">Something easy to learn that will have instant. EX. Many people feel this way at the beginning of therapy. That is.</p>
+<p class="prose-p">Why I always teach people this first skill as early as possible. It is easy to. Learn and takes just a few minutes to bring down the intensity of. Anxiety.</p>
+<p class="prose-p">At the very least, it prevents anxiety from escalating into. Panic. When anxiety is triggered, you start breathing more quickly. This is.</p>
+<p class="prose-p">Your body’s way of GEing in extra oxygen to fuel the survival. Response. You feel as though you cannot catch your breath. So you breathe.</p>
+<p class="prose-p">Faster with rapid, shallow breaths, then you have an excess of oxygen in. Your system. If you slow your breathing down, you can calm the body. And, in turn, slow your breathing.</p>
+<p class="prose-p">Not only this, but if you can extend. The out breath so that it is longer or more vigorous than the in breath. This helps to slow your heart rate down. When the pounding heart.</p>
+<p class="prose-p">Comes down, so does the anxiety response. Some people like to count the breaths when doing an extended. Out breath, such as breathing in for a count of 7 and out for a count of. 11, or a variation that works for you. Taking some time to practice slow breathing techniques is a great.</p>
+<p class="prose-p">Investment of time. It’s an anxiety management tool that works in the. Moment. Do it anywhere, any time and nobody even needs to.</p>
+<p class="prose-p">Know you are doing it. One of my favorites is square breathing. Just. Follow the steps below.</p>
+<p class="prose-p">Toolkit. Square breathing. Step 1. Focus your gaze on something square, a nearby window, door, picture frame or computer screen.</p>
+<p class="prose-p">Step 2. Focus your eyes on the Bo O M Lahand corner and as you. Breathe in, count to 4 and trace your eyes up to the top corner. Step 3.</p>
+<p class="prose-p">Hold your breath for 4 seconds as you trace your eyes across. The top to the other corner. Step 4. As you breathe out, trace your eyes down to the Bo O M corner.</p>
+<p class="prose-p">Counting to 4 once again. Step 5. Hold for 4 seconds as you move back to the Bo O M Lah corner. To start again.</p>
+<p class="prose-p">So, you breathe in for 4 seconds, hold for 4 seconds, out for 4 seconds. And hold for 4 seconds. Focusing on something square can act as a. Guide and help you to keep your end tie on on the breathing, minimizing.</p>
+<p class="prose-p">The chances of being distracted too soon. If you try it for a few minutes. And feel like it’s not working yet, keep going. It takes some time for.</p>
+<p class="prose-p">Your body to respond. One extra tip is to practice this every day, at times when you don’t. Feel anxious. When something is well practiced, it is much easier to use.</p>
+<p class="prose-p">When you find yourself overwhelmed with fear. Movement. Another tool that has almost instant EX, and requires very Leela. Practice to master, is exercise.</p>
+<p class="prose-p">When your anxiety response is triggered. Your muscles fill up with oxygen and adrenaline, ready to move fast. If. You don’t move and burn oh that fuel, your body is like a rocket with.</p>
+<p class="prose-p">Engines firing and nowhere to go. Bring on the trembling, shaking. Sweating and the urge to pace around the house. Exercise is one of the best anxiety management tools because it.</p>
+<p class="prose-p">Follows the natural course of your threat response. Your body is geared. Up to move. Allow it to do that and your body can use up the energy. and stress hormones it has produced and rebalance.</p>
+<p class="prose-p">If you have a stressful day, try adding in a short jog outside, or an intense half hour with a punch bag. Physical movement will truly relieve your body</p>
           </div>
         </section>
         
@@ -783,27 +904,27 @@
           <div class="section-body">
             <p class="prose-p">of the physical stress so that when you sit down to relax, you can feel calm and fall asleep more easily, helping you to replenish. Further, my extra tip here is that exercise is also a powerful prevention tool. So try to exercise even on the days when you don’t feel anxious. This way you are setting yourself up to have a beer day tomorrow.</p>
 <p class="prose-p">Your mental health will thank you for it. Chapter summary. When anxious our breathing becomes faster and each breath is more shallow. To calm the body takes slower, deeper breaths.</p>
-<p class="prose-p">Try to make the out breath longer and more vigorous than the. In breath. Give it some time and the anxiety response will begin to drop.</p>
-<h4 class="section-subhead">Chapter 25.</h4>
-<p class="prose-p">What to do with anxious. Thoughts. Like many other kids in the early 90s, I was allowed to stay up a leela. Later on a Friday evening to watch casualty, a television show about an. accident and emergency department.</p>
-<p class="prose-p">This particular episode, the only. Episode 1 Remember to this day was about a man who lived on the. 6th floor of a block of flats. A fire breaks out downstairs and he is. Trapped.</p>
-<p class="prose-p">Not long later I am lying in bed, running through it in my mind. What would I do if my house caught on fire? Is the house on fire now? How would I know?</p>
-<p class="prose-p">What if I wouldn’t wake up in time? Maybe I should. Try and stay awake. Maybe I should open the bedroom door and check.</p>
-<p class="prose-p">Downstairs. I lie there, eyes wide open, trying out DI errant scenarios in. My head. Imagining waking up my younger sister, who was in the room.</p>
-<p class="prose-p">With me, opening the door to a cloud of smoke, opening the windows. And calling for help. Soon the warm glow through the glass panel above. My bedroom door started to look more and more like the orange glow.</p>
-<p class="prose-p">A fire. I remained still and silent, unable to move, listening for the. Crackling sounds and waiting for the smoke. That night, I not only believed that a fire in my home was possible, I.</p>
-<p class="prose-p">Saw it happening over and over in my own head. I bought into every. Scenario as if it were occurring. Played it over and over in my head like.</p>
-<p class="prose-p">A movie. When a worrying thought pops into your head, it’s like driving past a. Car accident. You can’t not look at it.</p>
-<p class="prose-p">Thoughts of danger demand your. Entire on for a reason. Your brain is o’erring up a story for what might. Be happening and if there is a chance of the worst case scenario.</p>
-<p class="prose-p">Happening, then you had beer be prepared. As I explained in a previous chapter, your brain acts a bit like a smoke. Alarm. Every time you sense a threat in your environment, that alarm.</p>
-<p class="prose-p">Gets triggered and tells your body to get into survival mode. That is. Called your fight or flight response. Your body gears up to either fight.</p>
-<p class="prose-p">Oh, that threat or escape quicker than you ever thought you could move. A smoke alarm is made to go. Oh, when there is a fire, a necessary tool for survival. Just like the smoke alarm, anxiety can be triggered.</p>
-<p class="prose-p">Even when we are not truly at risk. But when you burn the toast and the smoke alarm sounds, you don’t remove the smoke alarm. If you understand why it is there and how it works, you can start to work with it. Make adjustments.</p>
-<p class="prose-p">Open a window. You get the idea. We cannot remove our survival response. We would not want to, but we can learn about what exacerbates it and make adjustments so that we can detect a false alarm and act accordingly.</p>
-<p class="prose-p">Get some distance. Thoughts are not facts. They are guesses, stories, memories, ideas and theories. They are a construct o’ed to you by your brain as one.</p>
-<p class="prose-p">Potential explanation for the sensations you are experiencing right. Now, we know they are not facts because they are so heavily. Influenced by your physical state, hormones, blood pressure, heart rate, digestion, hydration, to name just a few, by each of your senses and by your memories of past experience. So what does this mean for those anxious thoughts that pop into our heads?</p>
-<p class="prose-p">It means the power of that thought and any other thought is in how much we buy into it, how much we believe that thought to be a true reflection of reality. The best way to break down the power that thoughts have over our emotional state is to first get some distance from them. How do we get distance from something that is inside our head? GEing distance from thoughts can be done in a number of ways.</p>
-<p class="prose-p">Mindfulness is a great skill to start practicing for building that ability to</p>
+<p class="prose-p">Try to make the out breath longer and more vigorous than the. In breath. Give it some time and the anxiety response will begin to drop.
+
+#### Chapter 25. What to do with anxious.</p>
+<p class="prose-p">Thoughts. Like many other kids in the early 90s, I was allowed to stay up a leela. Later on a Friday evening to watch casualty, a television show about an. accident and emergency department. This particular episode, the only.</p>
+<p class="prose-p">Episode 1 Remember to this day was about a man who lived on the. 6th floor of a block of flats. A fire breaks out downstairs and he is. Trapped. Not long later I am lying in bed, running through it in my mind.</p>
+<p class="prose-p">What would I do if my house caught on fire? Is the house on fire now? How would I know? What if I wouldn’t wake up in time?</p>
+<p class="prose-p">Maybe I should. Try and stay awake. Maybe I should open the bedroom door and check. Downstairs.</p>
+<p class="prose-p">I lie there, eyes wide open, trying out DI errant scenarios in. My head. Imagining waking up my younger sister, who was in the room. With me, opening the door to a cloud of smoke, opening the windows.</p>
+<p class="prose-p">And calling for help. Soon the warm glow through the glass panel above. My bedroom door started to look more and more like the orange glow. A fire.</p>
+<p class="prose-p">I remained still and silent, unable to move, listening for the. Crackling sounds and waiting for the smoke. That night, I not only believed that a fire in my home was possible, I. Saw it happening over and over in my own head.</p>
+<p class="prose-p">I bought into every. Scenario as if it were occurring. Played it over and over in my head like. A movie.</p>
+<p class="prose-p">When a worrying thought pops into your head, it’s like driving past a. Car accident. You can’t not look at it. Thoughts of danger demand your.</p>
+<p class="prose-p">Entire on for a reason. Your brain is o’erring up a story for what might. Be happening and if there is a chance of the worst case scenario. Happening, then you had beer be prepared.</p>
+<p class="prose-p">As I explained in a previous chapter, your brain acts a bit like a smoke. Alarm. Every time you sense a threat in your environment, that alarm. Gets triggered and tells your body to get into survival mode.</p>
+<p class="prose-p">That is. Called your fight or flight response. Your body gears up to either fight. Oh, that threat or escape quicker than you ever thought you could move.</p>
+<p class="prose-p">A smoke alarm is made to go. Oh, when there is a fire, a necessary tool for survival. Just like the smoke alarm, anxiety can be triggered. Even when we are not truly at risk.</p>
+<p class="prose-p">But when you burn the toast and the smoke alarm sounds, you don’t remove the smoke alarm. If you understand why it is there and how it works, you can start to work with it. Make adjustments. Open a window.</p>
+<p class="prose-p">You get the idea. We cannot remove our survival response. We would not want to, but we can learn about what exacerbates it and make adjustments so that we can detect a false alarm and act accordingly. Get some distance.</p>
+<p class="prose-p">Thoughts are not facts. They are guesses, stories, memories, ideas and theories. They are a construct o’ed to you by your brain as one. Potential explanation for the sensations you are experiencing right.</p>
+<p class="prose-p">Now, we know they are not facts because they are so heavily. Influenced by your physical state, hormones, blood pressure, heart rate, digestion, hydration, to name just a few, by each of your senses and by your memories of past experience. So what does this mean for those anxious thoughts that pop into our heads? It means the power of that thought and any other thought is in how much we buy into it, how much we believe that thought to be a true reflection of reality.</p>
+<p class="prose-p">The best way to break down the power that thoughts have over our emotional state is to first get some distance from them. How do we get distance from something that is inside our head? GEing distance from thoughts can be done in a number of ways. Mindfulness is a great skill to start practicing for building that ability to</p>
           </div>
         </section>
         
@@ -959,13 +1080,13 @@
           <div class="section-body">
             <p class="prose-p">and looking back on this chapter that is just beginning. If you were to look back with a smile on your face, feeling content and satisfied with the choices you made and the way you approached each day, what would daily life need to look like? If this next chapter of your life was to become the most meaningful and purposeful, what would it include? If your awareness of death was to enhance your life rather than diminish it, what would that look like?</p>
 <p class="prose-p">Chapter summary. Our collective fear of death is a fear of both the known and the unknown. For some people, coming close to death brings about growth and positive life transformation. Acceptance of death is not the same as giving up on life.</p>
-<p class="prose-p">Quite the opposite. Acceptance of death allows us to bring meaning to life.</p>
-<h4 class="section-subhead">Chapter 27.</h4>
-<p class="prose-p">Is Stress Different From? Anxiety. Stress and anxiety are both terms that have become widely used as umbrella terms for a diverse set of experiences. It is not unusual to hear.</p>
-<p class="prose-p">People say that they were stressed and so their anxiety got worse. Or, they might say the opposite. The result is that most people use the words interchangeably to describe an almost infinite number of experiences. They might be stressed about work deadlines or anxious about finding a spider in the bathroom.</p>
-<p class="prose-p">You might feel stressed because you had to wait in a queue at the post OCE that made you late. But, you might also describe dealing with stress at losing your job and struggling to pay rent. The next person might describe both of those as anxiety provoking. But you’ll notice that the two are each given their own sections in this book.</p>
-<p class="prose-p">The experience of what we call stress is constructed through the same mechanisms in the brain as emotions are Feldman Barr. 2017. Your brain is constantly receiving information from your body about the demands of the outside world and trying to work out how. Much ought is needed. It tries to match the amount of energy being released in the body to the demands from the outside world to ensure that nothing is wasted.</p>
-<p class="prose-p">When our internal physiological state feels well matched to the environment we mostly interpret that as a positive feeling even when it involves stress for example when you feel pumped and ready for a big sports competition. But when that internal environment is not matched to the demands of the external world we tend to interpret that as negative when we are tired but wired and can’t get to sleep or when we are so stressed that we can’t seem to focus on the questions in an exam or job interview at such times we tend to experience the prediction that we cannot cope with current demands stress and anxiety are both associated with states of alertness but for the purposes of this book anxiety is associated with the feeling of fear and the excessive worry thoughts that come along with that experience in contrast the stress that you feel in the line at the post oce would have a di errant meaning to that of anxiety if you felt stressed in the line that might be because you had a tight schedule of things to get done that day that spike in stress would increase your alertness to help you make a decision about whether to continue in the line or reprioritize in order to meet your expectations of the day if the feeling was anxiety it is likely to be associated with worry thoughts and predictions that something threatening or dangerous might happen so while the mechanisms of stress and anxiety are the same we conceptualize them in di errant ways if you are lying in bed and here glass breaking downstairs your stress response will fire up but you are more likely to frame that sensation as anxiety and fear you might have the urge to phyto the threat or escape that same stress response is given di errant meaning when you are carrying around the threat of unemployment employment or struggling to manage the demands of both a job and parenting.</p>
+<p class="prose-p">Quite the opposite. Acceptance of death allows us to bring meaning to life.
+
+#### Chapter 27. Is Stress Different From? Anxiety.</p>
+<p class="prose-p">Stress and anxiety are both terms that have become widely used as umbrella terms for a diverse set of experiences. It is not unusual to hear. People say that they were stressed and so their anxiety got worse. Or, they might say the opposite.</p>
+<p class="prose-p">The result is that most people use the words interchangeably to describe an almost infinite number of experiences. They might be stressed about work deadlines or anxious about finding a spider in the bathroom. You might feel stressed because you had to wait in a queue at the post OCE that made you late. But, you might also describe dealing with stress at losing your job and struggling to pay rent.</p>
+<p class="prose-p">The next person might describe both of those as anxiety provoking. But you’ll notice that the two are each given their own sections in this book. The experience of what we call stress is constructed through the same mechanisms in the brain as emotions are Feldman Barr. 2017. Your brain is constantly receiving information from your body about the demands of the outside world and trying to work out how.</p>
+<p class="prose-p">Much ought is needed. It tries to match the amount of energy being released in the body to the demands from the outside world to ensure that nothing is wasted. When our internal physiological state feels well matched to the environment we mostly interpret that as a positive feeling even when it involves stress for example when you feel pumped and ready for a big sports competition. But when that internal environment is not matched to the demands of the external world we tend to interpret that as negative when we are tired but wired and can’t get to sleep or when we are so stressed that we can’t seem to focus on the questions in an exam or job interview at such times we tend to experience the prediction that we cannot cope with current demands stress and anxiety are both associated with states of alertness but for the purposes of this book anxiety is associated with the feeling of fear and the excessive worry thoughts that come along with that experience in contrast the stress that you feel in the line at the post oce would have a di errant meaning to that of anxiety if you felt stressed in the line that might be because you had a tight schedule of things to get done that day that spike in stress would increase your alertness to help you make a decision about whether to continue in the line or reprioritize in order to meet your expectations of the day if the feeling was anxiety it is likely to be associated with worry thoughts and predictions that something threatening or dangerous might happen so while the mechanisms of stress and anxiety are the same we conceptualize them in di errant ways if you are lying in bed and here glass breaking downstairs your stress response will fire up but you are more likely to frame that sensation as anxiety and fear you might have the urge to phyto the threat or escape that same stress response is given di errant meaning when you are carrying around the threat of unemployment employment or struggling to manage the demands of both a job and parenting.</p>
 <p class="prose-p">Those things are not perceived as immediate danger. We cannot fight them or escape them in the same way. So while we have simplified that stress response down to a fight or flight, in reality there are many ways in which the stress response can vary. There can be DI erances in the ratio of hormones released.</p>
 <p class="prose-p">Other changes and other physiological responses that combine. To form DI errant psychological experiences and DI errant behavioral.</p>
           </div>
@@ -990,15 +1111,16 @@
 <p class="prose-p">That is. When we start to get into trouble with EX on physical health. Mental health and behavior, Sapolsky, 2017. After summary.</p>
 <p class="prose-p">The term stress and anxiety are OEN used interchangeably. When we are able to meet the demands of our environment. We tend to feel good, even when that involves stress. What we feel as stress is when our brain is preparing us to do.</p>
 <p class="prose-p">Something. The brain allows the release of energy to increase your. Alertness and react to your environment. We conceptualize anxiety as a more fear-based response.</p>
-<p class="prose-p">But. This is one way the overall stress response can vary to meet. Your needs.</p>
-<h4 class="section-subhead">Chapter 28.</h4>
-<p class="prose-p">Why Reducing Stress Is Not The. Only answer. Reducing stress where we can is generally a good idea. But reducing the.</p>
-<p class="prose-p">Stress in your life is so frequently O-aired as a stress management. Solution and it has never sat comfortably with me. One reason is that it. Is a vague term that nobody really knows what to do with, and the.</p>
-<p class="prose-p">Second is because many stresses are non-negotiable. While some stress in our lives is stress that we choose, the stress. Leading up to a sports competition or preparing for a big event like a. Wedding, the most intense stress we face is OEN not optional.</p>
-<p class="prose-p">A high pressure situation might be a boxer entering the ring but it might also. Be entering the hospital to find out the results of your biopsy. It is. Working through your finances and realizing you might lose your home.</p>
-<p class="prose-p">These are the moments that bring huge stress responses and need real-time tools to help us deal with them in the healthiest, most e-science. Way Possible. We humans have a love-hate relationship with stress. We love the.</p>
-<p class="prose-p">Thrill of a horror movie or the speed of the roller coaster. We actively. Choose these spikes in our stress response and we anticipate them with. Huge excitement.</p>
-<p class="prose-p">We may feel out of control, but we know it’s just for a. Moment. We feel afraid, but at the same time we trust that we will live.</p>
+<p class="prose-p">But. This is one way the overall stress response can vary to meet. Your needs.
+
+#### Chapter 28. Why Reducing Stress Is Not The.</p>
+<p class="prose-p">Only answer. Reducing stress where we can is generally a good idea. But reducing the. Stress in your life is so frequently O-aired as a stress management.</p>
+<p class="prose-p">Solution and it has never sat comfortably with me. One reason is that it. Is a vague term that nobody really knows what to do with, and the. Second is because many stresses are non-negotiable.</p>
+<p class="prose-p">While some stress in our lives is stress that we choose, the stress. Leading up to a sports competition or preparing for a big event like a. Wedding, the most intense stress we face is OEN not optional. A high pressure situation might be a boxer entering the ring but it might also.</p>
+<p class="prose-p">Be entering the hospital to find out the results of your biopsy. It is. Working through your finances and realizing you might lose your home. These are the moments that bring huge stress responses and need real-time tools to help us deal with them in the healthiest, most e-science.</p>
+<p class="prose-p">Way Possible. We humans have a love-hate relationship with stress. We love the. Thrill of a horror movie or the speed of the roller coaster.</p>
+<p class="prose-p">We actively. Choose these spikes in our stress response and we anticipate them with. Huge excitement. We may feel out of control, but we know it’s just for a.</p>
+<p class="prose-p">Moment. We feel afraid, but at the same time we trust that we will live.</p>
           </div>
         </section>
         
@@ -1028,14 +1150,14 @@
 <p class="prose-p">Is not just an indication of problems or warning signs for health issues. It can also reflect a life in which we are acting on things that we care. Completely about and living a life with purpose and meaning. If we can.</p>
 <p class="prose-p">Learn how to use it to our advantage and turn down the intensity when. We need to then stress can be our most valuable tool. Chapter summary. Stress is not always the enemy.</p>
 <p class="prose-p">It is also our most valuable tool. Learning to replenish a period of stress is more realistic than trying to eliminate it. Stress helps you to perform and do what more errs but we were. Not built to be in a constant state of stress.</p>
-<p class="prose-p">We need stress for a fun and challenging life, but too much. And the benefits are lost.</p>
-<h4 class="section-subhead">Chapter 29.</h4>
-<p class="prose-p">When good stress goes bad. The stress response works at its best when it is short term and limited. When our circumstances cause continued stress that we cannot change. Or we don’t know how to bring that stress back down, our body is not.</p>
-<p class="prose-p">Replenished for its aort. Imagine driving along the motorway at speed. In second gear. There is only so long you can keep that up before.</p>
-<p class="prose-p">Damage is done. When stress becomes sustained over long periods, our brain tends. Towards more habitual behaviors that demand less energy. Our ability.</p>
-<p class="prose-p">To control our impulses, remember information and make decisions. Becomes impaired. Over time, our immune system is erected. In the.</p>
-<p class="prose-p">Short term, adrenaline gives our immune function a boost to help fight. Bacterial and viral infections. But in the longer term, overproduction of. Adrenaline and abnormal par urns of cortisol are linked with shorter life.</p>
-<p class="prose-p">Expectancy. Kumori et al. 2011.</p>
+<p class="prose-p">We need stress for a fun and challenging life, but too much. And the benefits are lost.
+
+#### Chapter 29. When good stress goes bad. The stress response works at its best when it is short term and limited.</p>
+<p class="prose-p">When our circumstances cause continued stress that we cannot change. Or we don’t know how to bring that stress back down, our body is not. Replenished for its aort. Imagine driving along the motorway at speed.</p>
+<p class="prose-p">In second gear. There is only so long you can keep that up before. Damage is done. When stress becomes sustained over long periods, our brain tends.</p>
+<p class="prose-p">Towards more habitual behaviors that demand less energy. Our ability. To control our impulses, remember information and make decisions. Becomes impaired.</p>
+<p class="prose-p">Over time, our immune system is erected. In the. Short term, adrenaline gives our immune function a boost to help fight. Bacterial and viral infections.</p>
+<p class="prose-p">But in the longer term, overproduction of. Adrenaline and abnormal par urns of cortisol are linked with shorter life. Expectancy. Kumori et al. 2011.</p>
           </div>
         </section>
         
@@ -1073,17 +1195,18 @@
 <p class="prose-p">The stress curve. A certain degree of stress will help you perform at your best. Go beyond that and your performance declines. The good news is that we can reduce the ex of stress on the body with a few simple tools that I will describe in the next chapter.</p>
 <p class="prose-p">Chapter summary. The stress response works at its best when it is short term. Chronic stress is like trying to drive your car on the motorway in second gear. There is only so long before damage is done.</p>
 <p class="prose-p">Burnout is not just a workplace issue. There is no silver bullet that works for everything. The right. Balance for one person will be unrealistic for another.</p>
-<p class="prose-p">If you are showing signs of burnout, listen to them and. Respond now by starting to meet your needs.</p>
-<h4 class="section-subhead">Chapter 30.</h4>
-<p class="prose-p">Making stress work for you. In the previous section on fear, I talked about using breathing techniques as a fast way to calm the body and mind. See pages 200 202. Those techniques are just as helpful with stress.</p>
-<p class="prose-p">Your breathing can directly impact on your heart rate and level of stress or calm. When you inhale, the diaphragm moves down creating more space in the chest, which allows the heart to expand further and the rate of the blood flow to slow down. When the brain receives the information about this, its job is to then send a signal to speed up the heart.</p>
-<p class="prose-p">In contrast, when you breathe out, the diaphragm moves up leaving a smaller space for the heart. And so the blood passes through quicker. This causes your brain to send signals to slow your heart down. When out breaths are longer and more forceful than in breaths, this slows the heart rate and calms the body.</p>
-<p class="prose-p">When the in breaths are longer than the out breaths, we become more alert and activated. Therefore, one of the most immediate ways to start calming your stress response is to make your exhales longer and more forceful than the in breaths. It’s worth noting that the aim when you are feeling overwhelmed with stress is not to go from agitated and worried to a relaxed and meditative state. When the world is demanding of us, we want to be alert.</p>
-<p class="prose-p">As you use breathing techniques such as this one, you will notice that your mind’s ability to think more clearly and problem solve becomes more available to you. In that sense, we are not trying to make it all go away and induce ultimate relaxation, but to put you in the best state possible in which you are able to use the advantages of the stress response, e.g. alertness, and bring down the intensity of the disadvantages, e.g. worry and overwhelm.</p>
-<p class="prose-p">However, if you are PU-ing time aside to practice relaxation or have interest in using breathwork, then you can use this technique over longer periods to bring about the physical state of deep relaxation. That tends to be when you have more time and no distractions or current demands so that you can use longer out breaths or other relaxation techniques to help you relax. But when you are in the moment and you need to perform, then the breathing technique is a good choice for helping you get through the moment, turning to others.</p>
-<p class="prose-p">I’m sure most parents can relate to the experience of lying in bed and running through in their minds what they do in the event of a house fire. You run through each possible scenario of how you could grab each. Of your children as quickly as possible. How does that need to protect?</p>
-<p class="prose-p">Fit into a fight or flight mode? Fight or flight does not tell the whole. Story. Connection with and protection of others is just as much a part.</p>
-<p class="prose-p">Of our survival instinct as fighting that fire or escaping from it. Some. Stressful situations may lead</p>
+<p class="prose-p">If you are showing signs of burnout, listen to them and. Respond now by starting to meet your needs.
+
+#### Chapter 30. Making stress work for you. In the previous section on fear, I talked about using breathing techniques as a fast way to calm the body and mind.</p>
+<p class="prose-p">See pages 200 202. Those techniques are just as helpful with stress. Your breathing can directly impact on your heart rate and level of stress or calm. When you inhale, the diaphragm moves down creating more space in the chest, which allows the heart to expand further and the rate of the blood flow to slow down.</p>
+<p class="prose-p">When the brain receives the information about this, its job is to then send a signal to speed up the heart. In contrast, when you breathe out, the diaphragm moves up leaving a smaller space for the heart. And so the blood passes through quicker. This causes your brain to send signals to slow your heart down.</p>
+<p class="prose-p">When out breaths are longer and more forceful than in breaths, this slows the heart rate and calms the body. When the in breaths are longer than the out breaths, we become more alert and activated.</p>
+<p class="prose-p">Therefore, one of the most immediate ways to start calming your stress response is to make your exhales longer and more forceful than the in breaths. It’s worth noting that the aim when you are feeling overwhelmed with stress is not to go from agitated and worried to a relaxed and meditative state. When the world is demanding of us, we want to be alert. As you use breathing techniques such as this one, you will notice that your mind’s ability to think more clearly and problem solve becomes more available to you.</p>
+<p class="prose-p">In that sense, we are not trying to make it all go away and induce ultimate relaxation, but to put you in the best state possible in which you are able to use the advantages of the stress response, e.g. alertness, and bring down the intensity of the disadvantages, e.g. worry and overwhelm. However, if you are PU-ing time aside to practice relaxation or have interest in using breathwork, then you can use this technique over longer periods to bring about the physical state of deep relaxation.</p>
+<p class="prose-p">That tends to be when you have more time and no distractions or current demands so that you can use longer out breaths or other relaxation techniques to help you relax. But when you are in the moment and you need to perform, then the breathing technique is a good choice for helping you get through the moment, turning to others. I’m sure most parents can relate to the experience of lying in bed and running through in their minds what they do in the event of a house fire.</p>
+<p class="prose-p">You run through each possible scenario of how you could grab each. Of your children as quickly as possible. How does that need to protect? Fit into a fight or flight mode?</p>
+<p class="prose-p">Fight or flight does not tell the whole. Story. Connection with and protection of others is just as much a part. Of our survival instinct as fighting that fire or escaping from it.</p>
+<p class="prose-p">Some. Stressful situations may lead</p>
           </div>
         </section>
         
@@ -1306,6 +1429,204 @@
 
     document.getElementById('scroll-top-btn').addEventListener('click', () => {
       window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    // ==========================================
+    // IN-PAGE CONTENT SEARCH (單書全文搜尋)
+    // ==========================================
+    const searchBar = document.getElementById('inpage-search-bar');
+    const searchInput = document.getElementById('inpage-search-input');
+    const searchCount = document.getElementById('inpage-search-count');
+    const searchDrawer = document.getElementById('inpage-search-drawer');
+    const searchDrawerList = document.getElementById('inpage-search-drawer-list');
+    const searchToggleBtn = document.getElementById('search-toggle-btn');
+    const searchClearBtn = document.getElementById('inpage-search-clear');
+    const searchPrevBtn = document.getElementById('inpage-search-prev');
+    const searchNextBtn = document.getElementById('inpage-search-next');
+    const searchCloseBtn = document.getElementById('inpage-search-close');
+    const drawerCloseBtn = document.getElementById('inpage-drawer-close');
+
+    let searchMatches = [];
+    let currentMatchIdx = -1;
+
+    // Cache original innerHTML for clean resets
+    const rawParagraphs = Array.from(document.querySelectorAll('.section-body p')).map(p => ({
+      el: p,
+      rawHtml: p.innerHTML,
+      rawText: p.textContent
+    }));
+
+    function openSearch() {
+      searchBar.classList.add('active');
+      searchInput.focus();
+      searchInput.select();
+      if (searchInput.value.trim()) {
+        performSearch(searchInput.value.trim());
+      }
+    }
+
+    function closeSearch() {
+      searchBar.classList.remove('active');
+      searchDrawer.classList.remove('active');
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchCount.textContent = '0 / 0';
+    }
+
+    function clearHighlights() {
+      rawParagraphs.forEach(item => {
+        item.el.innerHTML = item.rawHtml;
+      });
+    }
+
+    function escapeRegex(str) {
+      return str.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+    }
+
+    function escapeHtml(str) {
+      return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+
+    function performSearch(query) {
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchDrawerList.innerHTML = '';
+
+      if (!query || query.trim().length === 0) {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+        return;
+      }
+
+      query = query.trim();
+      const qLower = query.toLowerCase();
+      const regex = new RegExp(`(${escapeRegex(query)})`, 'gi');
+
+      rawParagraphs.forEach((item, pIdx) => {
+        if (item.rawText.toLowerCase().includes(qLower)) {
+          const sec = item.el.closest('.transcript-section');
+          const secTime = sec ? (sec.querySelector('.section-time')?.textContent || '') : '';
+          const secId = sec ? sec.id : '';
+
+          // Apply highlight
+          item.el.innerHTML = item.rawHtml.replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const marks = Array.from(item.el.querySelectorAll('mark.search-highlight'));
+          marks.forEach(mark => {
+            searchMatches.push({
+              mark,
+              el: item.el,
+              secTime,
+              secId
+            });
+          });
+
+          // Snippet creation
+          const matchPos = item.rawText.toLowerCase().indexOf(qLower);
+          const start = Math.max(0, matchPos - 30);
+          const end = Math.min(item.rawText.length, matchPos + query.length + 50);
+          const snippetText = item.rawText.slice(start, end);
+          const snippetHtml = escapeHtml(snippetText).replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const card = document.createElement('div');
+          card.className = 'search-result-item';
+          card.innerHTML = `
+            <div class="search-result-time">${secTime}</div>
+            <div class="search-result-snippet">...${snippetHtml}...</div>
+          `;
+          card.addEventListener('click', () => {
+            const targetIdx = searchMatches.findIndex(m => m.mark === marks[0]);
+            if (targetIdx >= 0) goToMatch(targetIdx);
+          });
+          searchDrawerList.appendChild(card);
+        }
+      });
+
+      if (searchMatches.length > 0) {
+        searchDrawer.classList.add('active');
+        goToMatch(0);
+      } else {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+      }
+    }
+
+    function goToMatch(idx) {
+      if (idx < 0 || idx >= searchMatches.length) return;
+      if (currentMatchIdx >= 0 && searchMatches[currentMatchIdx]) {
+        searchMatches[currentMatchIdx].mark.classList.remove('active-match');
+      }
+      currentMatchIdx = idx;
+      const target = searchMatches[currentMatchIdx];
+      target.mark.classList.add('active-match');
+      searchCount.textContent = `${currentMatchIdx + 1} / ${searchMatches.length}`;
+
+      // Highlight active drawer item
+      const drawerItems = searchDrawerList.querySelectorAll('.search-result-item');
+      drawerItems.forEach(di => di.classList.remove('active'));
+
+      target.mark.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+
+    searchToggleBtn.addEventListener('click', () => {
+      if (searchBar.classList.contains('active')) {
+        closeSearch();
+      } else {
+        openSearch();
+      }
+    });
+
+    let debounceTimer;
+    searchInput.addEventListener('input', (e) => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => {
+        performSearch(e.target.value);
+      }, 200);
+    });
+
+    searchClearBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      performSearch('');
+      searchInput.focus();
+    });
+
+    searchNextBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const nextIdx = (currentMatchIdx + 1) % searchMatches.length;
+      goToMatch(nextIdx);
+    });
+
+    searchPrevBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const prevIdx = (currentMatchIdx - 1 + searchMatches.length) % searchMatches.length;
+      goToMatch(prevIdx);
+    });
+
+    searchInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        if (e.shiftKey) {
+          searchPrevBtn.click();
+        } else {
+          searchNextBtn.click();
+        }
+      } else if (e.key === 'Escape') {
+        closeSearch();
+      }
+    });
+
+    searchCloseBtn.addEventListener('click', closeSearch);
+    drawerCloseBtn.addEventListener('click', () => searchDrawer.classList.remove('active'));
+
+    window.addEventListener('keydown', (e) => {
+      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'f') {
+        e.preventDefault();
+        openSearch();
+      } else if (e.key === 'Escape') {
+        if (searchBar.classList.contains('active')) closeSearch();
+      }
     });
   </script>
 </body>

@@ -66,26 +66,12 @@
       --card-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
     }
 
-    [data-line-height="compact"] {
-      --line-height: 1.68;
-    }
-    [data-line-height="normal"] {
-      --line-height: 1.88;
-    }
-    [data-line-height="loose"] {
-      --line-height: 2.12;
-    }
+    [data-line-height="compact"] { --line-height: 1.68; }
+    [data-line-height="normal"] { --line-height: 1.88; }
+    [data-line-height="loose"] { --line-height: 2.12; }
 
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
-    html {
-      scroll-behavior: smooth;
-    }
-
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
     body {
       font-family: var(--font-family);
       font-size: var(--font-size);
@@ -119,7 +105,7 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 0 20px;
+      padding: 0 18px;
       background-color: var(--bg-header);
       backdrop-filter: blur(8px);
       -webkit-backdrop-filter: blur(8px);
@@ -129,7 +115,7 @@
     .header-left, .header-right {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 8px;
       flex-wrap: nowrap;
     }
 
@@ -138,7 +124,7 @@
       border: 1px solid var(--border-color);
       color: var(--text-primary);
       cursor: pointer;
-      font-size: 14px;
+      font-size: 13.5px;
       padding: 6px 10px;
       border-radius: 8px;
       display: inline-flex;
@@ -147,6 +133,7 @@
       transition: all 0.2s;
       white-space: nowrap;
       user-select: none;
+      text-decoration: none;
     }
     .btn-icon:hover {
       background-color: var(--accent-light);
@@ -161,11 +148,132 @@
       font-size: 14px;
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
+    }
+    .home-link:hover { color: var(--accent-color); }
+
+    /* In-Page Search Bar Dropdown */
+    .inpage-search-bar {
+      position: sticky;
+      top: 60px;
+      z-index: 890;
+      background-color: var(--bg-surface);
+      border-bottom: 1px solid var(--border-color);
+      padding: 10px 18px;
+      display: none;
+      align-items: center;
+      gap: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    }
+    .inpage-search-bar.active { display: flex; }
+
+    .inpage-search-input-wrapper {
+      flex: 1;
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    .inpage-search-input {
+      width: 100%;
+      padding: 8px 36px 8px 12px;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      font-size: 14px;
+    }
+    .inpage-search-input:focus { outline: 2px solid var(--accent-color); }
+
+    .inpage-search-clear {
+      position: absolute;
+      right: 10px;
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 16px;
     }
 
-    .home-link:hover {
+    .inpage-search-count {
+      font-size: 13px;
+      color: var(--text-secondary);
+      font-family: monospace;
+      white-space: nowrap;
+    }
+    .search-nav-btns { display: flex; gap: 6px; }
+
+    /* In-Page Search Results Drawer */
+    .inpage-search-drawer {
+      position: fixed;
+      right: 20px;
+      top: 120px;
+      width: 360px;
+      max-height: calc(100vh - 160px);
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+      z-index: 895;
+      display: none;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .inpage-search-drawer.active { display: flex; }
+    .inpage-search-drawer-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-weight: 600;
+      font-size: 14px;
+    }
+    .inpage-search-drawer-list {
+      overflow-y: auto;
+      padding: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .search-result-item {
+      padding: 10px 12px;
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+      background: var(--bg-primary);
+      cursor: pointer;
+      font-size: 13px;
+      transition: all 0.15s;
+    }
+    .search-result-item:hover, .search-result-item.active {
+      border-color: var(--accent-color);
+      background: var(--accent-light);
+    }
+    .search-result-time {
+      font-weight: 700;
       color: var(--accent-color);
+      font-family: monospace;
+      margin-bottom: 4px;
+    }
+    .search-result-snippet {
+      color: var(--text-primary);
+      line-height: 1.5;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    /* Highlight mark */
+    mark.search-highlight {
+      background-color: #fef08a;
+      color: #1f2937;
+      padding: 1px 3px;
+      border-radius: 3px;
+    }
+    mark.search-highlight.active-match {
+      background-color: #f97316;
+      color: #ffffff;
+      outline: 2px solid #ea580c;
     }
 
     /* Layout Wrapper */
@@ -212,9 +320,7 @@
       font-size: 13px;
       margin-bottom: 14px;
     }
-    .toc-search:focus {
-      outline: 2px solid var(--accent-color);
-    }
+    .toc-search:focus { outline: 2px solid var(--accent-color); }
 
     .toc-list {
       list-style: none;
@@ -237,12 +343,10 @@
       overflow: hidden;
       text-overflow: ellipsis;
     }
-
     .toc-item a:hover {
       background-color: var(--accent-light);
       color: var(--accent-color);
     }
-
     .toc-item.active a {
       background-color: var(--accent-color);
       color: #ffffff;
@@ -257,19 +361,17 @@
       display: flex;
       justify-content: center;
     }
-
     .reader-container {
       width: 100%;
       max-width: var(--content-max-width);
     }
 
-    /* Book Hero / Header */
+    /* Book Hero */
     .book-hero {
       margin-bottom: 40px;
       padding-bottom: 24px;
       border-bottom: 2px solid var(--border-color);
     }
-
     .book-hero h1 {
       font-size: 2.1em;
       line-height: 1.35;
@@ -285,7 +387,6 @@
       gap: 10px;
       margin-top: 14px;
     }
-
     .meta-chip {
       display: inline-flex;
       align-items: center;
@@ -297,8 +398,13 @@
       font-size: 13px;
       font-weight: 500;
     }
+    .meta-chip.cat-badge {
+      background-color: #06b6d422;
+      color: #06b6d4;
+      font-weight: 600;
+    }
 
-    /* Content Typography & Enhanced Paragraphs */
+    /* Content Typography */
     .transcript-section {
       margin-bottom: 50px;
       scroll-margin-top: 80px;
@@ -349,25 +455,22 @@
       letter-spacing: 0.015em;
     }
 
-    /* Indented paragraph style (Traditional) */
+    /* Indented paragraph style */
     [data-p-style="indent"] .section-body p {
       text-indent: 2em;
       margin-bottom: 1.15em;
       line-height: var(--line-height);
     }
 
-    /* Block paragraph style (Modern with whitespace) */
+    /* Block paragraph style */
     [data-p-style="block"] .section-body p {
       text-indent: 0;
       margin-bottom: 1.55em;
       line-height: var(--line-height);
     }
+    .section-body p:last-child { margin-bottom: 0; }
 
-    .section-body p:last-child {
-      margin-bottom: 0;
-    }
-
-    /* Floating Navigation Controls */
+    /* Floating Tools */
     .floating-tools {
       position: fixed;
       bottom: 24px;
@@ -377,7 +480,6 @@
       gap: 10px;
       z-index: 800;
     }
-
     .float-btn {
       width: 44px;
       height: 44px;
@@ -399,7 +501,6 @@
       color: var(--accent-color);
     }
 
-    /* Overlay for mobile drawer */
     .backdrop {
       display: none;
       position: fixed;
@@ -419,36 +520,22 @@
         transform: translateX(-100%);
         box-shadow: 4px 0 16px rgba(0,0,0,0.15);
       }
-
-      .sidebar.open {
-        transform: translateX(0);
-      }
-
-      .backdrop.open {
-        display: block;
+      .sidebar.open { transform: translateX(0); }
+      .backdrop.open { display: block; }
+      .inpage-search-drawer {
+        left: 20px;
+        right: 20px;
+        width: auto;
       }
     }
 
     @media (max-width: 640px) {
-      :root {
-        --font-size: 17px;
-      }
-      .main-content {
-        padding: 24px 16px 60px 16px;
-      }
-      .book-hero h1 {
-        font-size: 1.55em;
-      }
-      .top-header {
-        padding: 0 10px;
-      }
-      .btn-icon {
-        padding: 5px 8px;
-        font-size: 13px;
-      }
-      [data-p-style="indent"] .section-body p {
-        text-indent: 1.5em;
-      }
+      :root { --font-size: 17px; }
+      .main-content { padding: 24px 16px 60px 16px; }
+      .book-hero h1 { font-size: 1.55em; }
+      .top-header { padding: 0 10px; }
+      .btn-icon { padding: 5px 7px; font-size: 12.5px; }
+      [data-p-style="indent"] .section-body p { text-indent: 1.5em; }
     }
   </style>
 </head>
@@ -464,6 +551,14 @@
       <a href="index.html" class="home-link" title="返回書架">
         🏠 書架
       </a>
+      <!-- Search Inside Book Button -->
+      <button class="btn-icon" id="search-toggle-btn" title="搜尋本書內文 (Ctrl+F)">
+        🔍 <span>搜尋內文</span>
+      </button>
+      <!-- Global Search Link -->
+      <a href="index.html?tab=search" class="btn-icon" title="前往全書庫全文檢索">
+        🌐 <span>全庫搜尋</span>
+      </a>
     </div>
 
     <div class="header-right">
@@ -473,7 +568,7 @@
       </button>
 
       <!-- Line Height Toggle -->
-      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 精簡)">
+      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 緊湊)">
         ↕ <span id="line-height-label">行距</span>
       </button>
 
@@ -492,6 +587,29 @@
       <button class="btn-icon" id="font-inc-btn" title="放大字級">A+</button>
     </div>
   </header>
+
+  <!-- In-Page Search Bar Dropdown -->
+  <div class="inpage-search-bar" id="inpage-search-bar">
+    <div class="inpage-search-input-wrapper">
+      <input type="text" id="inpage-search-input" class="inpage-search-input" placeholder="🔍 搜尋本書內文關鍵字 (按 Enter 尋找下一處，Esc 關閉)...">
+      <button class="inpage-search-clear" id="inpage-search-clear" title="清空">✕</button>
+    </div>
+    <span class="inpage-search-count" id="inpage-search-count">0 / 0</span>
+    <div class="search-nav-btns">
+      <button class="btn-icon" id="inpage-search-prev" title="上一處 (Shift+Enter)">▲</button>
+      <button class="btn-icon" id="inpage-search-next" title="下一處 (Enter)">▼</button>
+      <button class="btn-icon" id="inpage-search-close" title="關閉搜尋 (Esc)">✕</button>
+    </div>
+  </div>
+
+  <!-- In-Page Search Results Drawer -->
+  <div class="inpage-search-drawer" id="inpage-search-drawer">
+    <div class="inpage-search-drawer-header">
+      <span>搜尋結果清單</span>
+      <button class="btn-icon" id="inpage-drawer-close" style="padding: 2px 6px;">✕</button>
+    </div>
+    <div class="inpage-search-drawer-list" id="inpage-search-drawer-list"></div>
+  </div>
 
   <div class="backdrop" id="backdrop"></div>
 
@@ -590,6 +708,7 @@
         <header class="book-hero">
           <h1>The Infinite Game By Simon Sink challenges us to think bigger FULL AUDIOBOOK IN ENGLISH</h1>
           <div class="book-meta-chips">
+            <span class="meta-chip cat-badge">🎯 領導與策略</span>
             <span class="meta-chip">🏷️ 時長：06:24:50</span>
 <span class="meta-chip">🏷️ 模型：small.en</span>
 <span class="meta-chip">🏷️ 日期：2026-09-22</span>
@@ -597,7 +716,7 @@
         </header>
 
         <!-- Transcript Content -->
-        <div class="book-body">
+        <div class="book-body" id="book-body">
           
         <section class="transcript-section" id="sec-000000">
           <div class="section-header">
@@ -961,8 +1080,9 @@
           <div class="section-body">
             <p class="prose-p">disappear altogether. And without the just cause, an organization starts to function like a ship without a compass, it veers off course. Focus moves from beyond the horizon to the dials in front of them. Without a just cause to guide them, finite mindedness starts to creep in.</p>
 <p class="prose-p">The leaders will celebrate how fast they are going or how many miles they have traveled, but fail to recognize that their journey lacks any direction or purpose. A just cause that is preserved on paper can be handed down from generation to generation, a founder’s instinct cannot. Like the Declaration of Independence, a written statement of cause dramatically increases the chances that the cause will survive to guide and inspire future generations beyond the founders and those who knew the founders. It’s the difference between a verbal contract and a written contract.</p>
-<p class="prose-p">Both are legal and enforceable. But when a contract is written it prevents any confusion or disagreement about the terms of the deal, especially for people who weren’t there when the deal was made. A written cause works like a compass. And with a compass in hand, each succession of leaders, the gaze looking beyond the horizon, can more easily navigate the technologies, politics and cultural norms of the day without the founder present.</p>
-<h4 class="section-subhead">Chapter 3.</h4>
+<p class="prose-p">Both are legal and enforceable. But when a contract is written it prevents any confusion or disagreement about the terms of the deal, especially for people who weren’t there when the deal was made. A written cause works like a compass. And with a compass in hand, each succession of leaders, the gaze looking beyond the horizon, can more easily navigate the technologies, politics and cultural norms of the day without the founder present.
+
+#### Chapter 3.</p>
 <p class="prose-p">Cause. No Cause. Let’s play a quick round of cause. No cause.</p>
 <p class="prose-p">It is a good thing that more and more companies seem to be embracing the importance of having a purpose at the heart of the business. The problem is, too many of them say things that only sound like a just cause. Indeed, they may even use language and meet some of the standards of a just cause. Until they can check all five boxes, however, what they offer simply isn’t a just cause.</p>
 <p class="prose-p">There are a few main reasons we fail to put forward a true just cause. Sometimes, the visionary, cause-driven leader adopts a false cause by accident because they are struggling to find the words to embody what they imagined for the future, see previous chapter for help. In other cases, the leader wants people to believe that they are cause-driven when, in fact, they have no vision at all. Common imposter causes include things like moonshots, a drive to be the best, or mistaking, growth for purpose.</p>
@@ -1035,8 +1155,9 @@
 <p class="prose-p">And though having a CSR program is indeed great and commendable, unless you’re a charity, it’s only a piece of what a company does. The CSR program must be part of the broader strategy to advance the just cause. A strategy that includes everything the company does. The way a company makes its money and the way it gives it away must both contribute to advancing the just cause.</p>
 <p class="prose-p">Cause-related work is not something an organization does on the side, it is core to their very being. Service is not an ornament. It is a touchstone. And no amount of corporate social responsibility is enough to offset or balance the excessive finite focus that may consume the rest of the corporate culture.</p>
 <p class="prose-p">Even well-intended finite-minded leaders often have the perspective of, make money to do good. An infinite perspective on service, however, looks somewhat different, do good making money, the order of the information matters. I will do good in how I treat people and serve my community. community throughout my life and still build a financially strong organization. It is not so much an equation as it is a lifestyle.</p>
-<p class="prose-p">These individuals and companies work to be stewards of the lives of those who work for them and for the communities in which they operate. The giving that happens during and at the end of their lives looks more like a continuation of what they’ve been doing for decades rather than an attempt at balancing the past. The difference is determined by the leader’s mindset.</p>
-<h4 class="section-subhead">Chapter 4, Keeper of the Cause Sam Walton founded Walmart in 1962 with a simple idea to serve the average work an American by offering the lowest prices any time, anywhere.</h4>
+<p class="prose-p">These individuals and companies work to be stewards of the lives of those who work for them and for the communities in which they operate. The giving that happens during and at the end of their lives looks more like a continuation of what they’ve been doing for decades rather than an attempt at balancing the past. The difference is determined by the leader’s mindset.
+
+#### Chapter 4, Keeper of the Cause Sam Walton founded Walmart in 1962 with a simple idea to serve the average work an American by offering the lowest prices any time, anywhere.</p>
 <p class="prose-p">At the end of his life, Walton described his vision this way, if we work together, we’ll lower the cost of living for everyone. We’ll give the world an opportunity to see what it’s like to save and have a better life. With Walton at the helm, the decisions that went into building Walmart, from where to locate the stores to how big they would be, were all made with this cause at the forefront. And as a result, people loved Walmart, both those who worked there and those who shopped in the stores.</p>
           </div>
         </section>
@@ -1102,10 +1223,11 @@
 <p class="prose-p">If they fail to do so, they will likely default to the skills that got in their previous job, which increases the probability that they will steer the company down a very finite path. Either or not he was qualified to be CVO of Walmart, Duke failed to adjust for the role he was given, he failed to champion Sam Walton’s vision into the next century.</p>
 <p class="prose-p">In contrast, Duke’s successor, Doug McMillan, could prove to be the CVO that Walmart needs. When his new position was announced in 2013, McMillan said in a press release, the opportunity to lead Walmart is a great privilege. The company has a rich history of delivering value to customers across the globe. As their needs grow and change, we will be there to serve them.</p>
 <p class="prose-p">Our management team is talented and experienced, and our strategy gives me confidence that our future is bright. By keeping our promise to customers, we will drive shareholder value, create opportunity for our associates and grow our business. Macmillan presented his priorities in literally the exact opposite order that Mike Duke had when he stepped up to lead the company five years earlier. Macmillan put Sam Walton’s vision first.</p>
-<p class="prose-p">It is exciting to see how he is re-equipping Walmart to once again play in the infinite game.</p>
-<h4 class="section-subhead">Chapter 5 – The Responsibility of Business, Revised Business today is subject to a dizzying rate of change.</h4>
-<p class="prose-p">And all that change seems to be taking its toll. The time it takes before a company is forced out of the game is getting shorter and shorter. The average life of a company in the 1950s, if you recall, was just over 60 years. Today it is less than 20 years.</p>
-<p class="prose-p">According to a 2017 study by Credit Suisse, disruptive technology is the reason for the steep decline in company lifespan. However, disruptive technologies are not a new phenomenon. The credit card, the microwave oven, bubble wrap, Velcro, transistor radio, television, computer hard disks, solar cells,</p>
+<p class="prose-p">It is exciting to see how he is re-equipping Walmart to once again play in the infinite game.
+
+#### Chapter 5 – The Responsibility of Business, Revised Business today is subject to a dizzying rate of change. And all that change seems to be taking its toll. The time it takes before a company is forced out of the game is getting shorter and shorter. The average life of a company in the 1950s, if you recall, was just over 60 years.</p>
+<p class="prose-p">Today it is less than 20 years. According to a 2017 study by Credit Suisse, disruptive technology is the reason for the steep decline in company lifespan.</p>
+<p class="prose-p">However, disruptive technologies are not a new phenomenon. The credit card, the microwave oven, bubble wrap, Velcro, transistor radio, television, computer hard disks, solar cells,</p>
           </div>
         </section>
         
@@ -1267,11 +1389,12 @@
 <p class="prose-p">And both in nations and in companies, everyone wants the opportunity to work hard and earn an income so that we may provide for ourselves and our families. The goals of a nation founded with an infinite mindset are also the people’s goals. A nation exists to serve and include ordinary people as it strives forward. This is what makes us feel emotionally connected to our country, why we feel patriotic.</p>
 <p class="prose-p">Translated into business terms, it means that a company’s goals must also align with people’s goals, not simply the goals of shareholders. If we want our work to benefit ourselves, our colleagues, our customers, our communities and the world, then it is right for us to work at companies whose values and goals align with our own. And if they don’t, we can demand that they do. Anyone who offers their blood, sweat and tears to advance a company’s goals is entitled to feel valued for their contributions and share in the fruits of their labor.</p>
 <p class="prose-p">Where Friedman believed the results of our hard work should be for the primary benefit of an elite ruling class, the owner, the more infinite minded leader would ensure that, so long as there are shared goals, all who contribute will benefit across all three pillars. We are all entitled to feel psychologically protected at work, be fairly compensated for our effort and contribute to something bigger than ourselves. These are our unalienable rights. Business, like any infinite pursuit, is a more powerful force when it is empowered for the people, by the people.</p>
-<p class="prose-p">Disruption is not going away anytime soon, that’s not going to change. How leaders respond to it, however, can. Where Friedman’s finite definition of the responsibility focuses on maximizing resources, a revised infinite definition also considers the will of the people.</p>
-<h4 class="section-subhead">Chapter 6, Will and Resources.</h4>
-<p class="prose-p">The Four Seasons in Las Vegas is a Wonderful Hotel. The reason it’s a wonderful hotel is not because of the fancy beds. Any hotel can buy fancy beds. The reason the Four Seasons is a wonderful hotel is because of the people who work there.</p>
-<p class="prose-p">If you find yourself walking through the halls and an employee says hello, for example, you get the distinct feeling that they wanted to say hello, not that they were told to say hello. Human beings are highly attuned social animals, we can tell the difference. There happens to be a coffee bar in the lobby of the hotel. One afternoon while on a business trip in Las Vegas, I went to buy myself a cup of coffee.</p>
-<p class="prose-p">The barista working that day was a young man named Noah. Noah was funny and engaging. It was because of Noah that I enjoyed buying that cup of coffee more than I generally enjoy buying a cup of coffee.</p>
+<p class="prose-p">Disruption is not going away anytime soon, that’s not going to change. How leaders respond to it, however, can. Where Friedman’s finite definition of the responsibility focuses on maximizing resources, a revised infinite definition also considers the will of the people.
+
+#### Chapter 6, Will and Resources. The Four Seasons in Las Vegas is a Wonderful Hotel.</p>
+<p class="prose-p">The reason it’s a wonderful hotel is not because of the fancy beds. Any hotel can buy fancy beds. The reason the Four Seasons is a wonderful hotel is because of the people who work there. If you find yourself walking through the halls and an employee says hello, for example, you get the distinct feeling that they wanted to say hello, not that they were told to say hello.</p>
+<p class="prose-p">Human beings are highly attuned social animals, we can tell the difference. There happens to be a coffee bar in the lobby of the hotel. One afternoon while on a business trip in Las Vegas, I went to buy myself a cup of coffee. The barista working that day was a young man named Noah.</p>
+<p class="prose-p">Noah was funny and engaging. It was because of Noah that I enjoyed buying that cup of coffee more than I generally enjoy buying a cup of coffee.</p>
 <p class="prose-p">After standing and chatting for a while, I finally asked him, do you like your job, without skipping a beat Noah immediately replied, “I love my job.” Now, for someone in my line of business, that’s a significant response. He didn’t say, I like my job, he said, “I love my job, that’s a big difference.” Like is rational, we like the people we work with, we like the challenge, we like the work, but love, love is emotional. Love is something harder to quantify.</p>
 <p class="prose-p">It’s like asking someone, do you love your spouse, and they respond, I like my spouse a lot, it’s a very different answer. You get my point, love is a higher standard.</p>
 <p class="prose-p">So when Noah said, “I love my job, I perked up.” From that one response, I knew Noah felt an emotional connection to the four seasons that was bigger than the money he made and the job he performs. Immediately, I asked Noah a follow up question. Tell me specifically what the four seasons is doing that you would say to me that you love your job, again without skipping a beat, Noah replied, throughout the day, managers will walk past me and ask me how I’m doing, ask me if there is anything I need, anything they can do to help.</p>
@@ -1363,12 +1486,12 @@
 <p class="prose-p">However, leaders have mere total control over the source of will. Will is generated by the company culture. Unlike resources, which are ultimately limited, we can generate an end as supply of will. For this reason, organizations that choose to operate with a bias for will ultimately more resilient than those who prioritize resources.</p>
 <p class="prose-p">When hard times strike, and hard times always strike, in companies with a bias for will, the people are much more likely to rally together to leaders have near total control over the source of will. Will is generated by the company culture. Unlike resources, which are ultimately limited, we can generate an end as supply of will. limited, we can generate an endless supply of will. For this reason, organizations that choose to operate with a bias for will are ultimately more resilient than those who prioritize resources.</p>
 <p class="prose-p">When hard times strike, and hard times always strike, in companies with a bias for will, the people are much more likely to rally together to protect each other, the company, the resources and their leaders. Not because they are told to, but because they choose to. This is what happens when the will of the people is strong. We built a sense of family, of love and loyalty to each other, our customers, vendors and communities.</p>
-<p class="prose-p">Our intention was to build a business where everyone associated with it thrives, says Tyndall.</p>
-<h4 class="section-subhead">Chapter 7, Trusting Teens What is this for? asked George.</h4>
-<p class="prose-p">This has nothing to do with the oil field. This was the general consensus from the rest of the people in the room too. They were to be the crew for the Shell Ursa, the biggest offshore deepwater drilling platform the Shell Oil Company had ever built and they had no time for this workshop. The Shell Ursa would stand 48 stories tall and would be capable of drilling deeper than any other platform in the world, more than 3,000 feet below the surface of the ocean.</p>
-<p class="prose-p">At the time, 1997, it cost $1.45 billion to build about $5.35 billion in today’s dollars. Given how massive and expensive an operation it was, it presented all kinds of new challenges and dangers, so Shell wanted things done right. Which is why they handpicked Rick Fox as the man to lead the job. Fox was a tough guy’s tough guy, hard and confident.</p>
-<p class="prose-p">He was intolerant of weakness. He felt he had every right to be. This was one of the most dangerous jobs in the world. One false step, a glance in the wrong direction and in an instant a man could be ripped in two and killed by one of the heavy moving parts.</p>
-<p class="prose-p">He knew so, he’d seen it happen. Safety was Fox’s number one concern, that, and making sure that the</p>
+<p class="prose-p">Our intention was to build a business where everyone associated with it thrives, says Tyndall.
+
+#### Chapter 7, Trusting Teens What is this for? asked George. This has nothing to do with the oil field. This was the general consensus from the rest of the people in the room too. They were to be the crew for the Shell Ursa, the biggest offshore deepwater drilling platform the Shell Oil Company had ever built and they had no time for this workshop.</p>
+<p class="prose-p">The Shell Ursa would stand 48 stories tall and would be capable of drilling deeper than any other platform in the world, more than 3,000 feet below the surface of the ocean. At the time, 1997, it cost $1.45 billion to build about $5.35 billion in today’s dollars. Given how massive and expensive an operation it was, it presented all kinds of new challenges and dangers, so Shell wanted things done right. Which is why they handpicked Rick Fox as the man to lead the job.</p>
+<p class="prose-p">Fox was a tough guy’s tough guy, hard and confident. He was intolerant of weakness. He felt he had every right to be. This was one of the most dangerous jobs in the world.</p>
+<p class="prose-p">One false step, a glance in the wrong direction and in an instant a man could be ripped in two and killed by one of the heavy moving parts. He knew so, he’d seen it happen. Safety was Fox’s number one concern, that, and making sure that the</p>
           </div>
         </section>
         
@@ -1586,12 +1709,13 @@
             <p class="prose-p">Marines know that a leadership climate based on trust is what helps ensure they will enjoy success more often than not. It’s a phrase I will repeat again in this book, leaders are not responsible for the results, leaders are responsible for the people who are responsible for the results. And the best way to drive performance in an organization is to create an environment in which information can flow freely, mistakes can be highlighted and help can be offered and received. In short, an environment in which people feel safe among their own.</p>
 <p class="prose-p">This is the responsibility of a leader. This is what Rick Fox did. He built a high performing team by creating an environment in which his crew felt safe to be vulnerable around each other. The SEALs do this.</p>
 <p class="prose-p">They build high performing teams by prioritizing an individual’s trustworthiness over their ability to perform. Alan Mullally did this. He helped Ford become a high performing company again only after he created a safe space for his people to tell the truth about what was going on. And this is what Jack Corley is doing and the results have been transformative.</p>
-<p class="prose-p">When leaders are willing to prioritize trust over performance, performance almost always follows. However, when leaders have laser focus on performance above all else, the culture inevitably suffers.</p>
-<h4 class="section-subhead">Chapter 8, Ethical Fading.</h4>
-<p class="prose-p">It’s hard to imagine that this actually happened. It is so far from ethical in any way. It’s hard to imagine that a group of people who I’m sure consider themselves good and honest were able to behave in ways that, by any standard, are just plain wrong. From mid-2011 to about mid-2016, employees at Wells Fargo Bank opened over three and a half million fake bank accounts.</p>
-<p class="prose-p">As The New York Times reported in 2016, some customers noticed the deception when they were charged unexpected fees, received credit or debit cards in the mail that they did not request or started hearing from debt collectors about accounts they did not recognize. But most of the sham accounts went unnoticed, as employees would routinely close them shortly after opening them. Ultimately, 5,300 Wells Fargo employees were fired as a result of their involvement in these deceptive practices. Practices that then CEO John Stumpf told Congress go against everything regarding our core principles, our ethics and our culture.</p>
-<p class="prose-p">In a statement made to the press, the company echoed Stumpf, saying that the vast majority of our team members do the right thing every day on behalf of our customers. And if any of these things transpired, it’s distressing and it’s not who Wells Fargo is.</p>
-<p class="prose-p">In other words, Wells Fargo executives would like us to believe that the offenders were just a few bad apples. However, this was not an isolated act of a small group of people, this was the result of thousands of people acting over the course of years. The more likely scenario was that Wells Fargo’s culture suffered from a severe case of ethical fading. Ethical fading is a condition in a culture that allows people to act in unethical ways in order to advance their own interests, often at the expense of others, while falsely believing that they have not compromised their own moral principles.</p>
+<p class="prose-p">When leaders are willing to prioritize trust over performance, performance almost always follows. However, when leaders have laser focus on performance above all else, the culture inevitably suffers.
+
+#### Chapter 8, Ethical Fading. It’s hard to imagine that this actually happened. It is so far from ethical in any way.</p>
+<p class="prose-p">It’s hard to imagine that a group of people who I’m sure consider themselves good and honest were able to behave in ways that, by any standard, are just plain wrong. From mid-2011 to about mid-2016, employees at Wells Fargo Bank opened over three and a half million fake bank accounts. As The New York Times reported in 2016, some customers noticed the deception when they were charged unexpected fees, received credit or debit cards in the mail that they did not request or started hearing from debt collectors about accounts they did not recognize.</p>
+<p class="prose-p">But most of the sham accounts went unnoticed, as employees would routinely close them shortly after opening them. Ultimately, 5,300 Wells Fargo employees were fired as a result of their involvement in these deceptive practices. Practices that then CEO John Stumpf told Congress go against everything regarding our core principles, our ethics and our culture. In a statement made to the press, the company echoed Stumpf, saying that the vast majority of our team members do the right thing every day on behalf of our customers.</p>
+<p class="prose-p">And if any of these things transpired, it’s distressing and it’s not who Wells Fargo is. In other words, Wells Fargo executives would like us to believe that the offenders were just a few bad apples.</p>
+<p class="prose-p">However, this was not an isolated act of a small group of people, this was the result of thousands of people acting over the course of years. The more likely scenario was that Wells Fargo’s culture suffered from a severe case of ethical fading. Ethical fading is a condition in a culture that allows people to act in unethical ways in order to advance their own interests, often at the expense of others, while falsely believing that they have not compromised their own moral principles.</p>
 <p class="prose-p">Ethical fading often starts with small, seemingly innocuous transgressions that, when left unchecked, continue to grow and compound. While ethical lapses can happen anywhere, organizations run with a finite mindset are especially susceptible to ethical fading. As discussed in the previous chapters, cultures that place excessive focus on quarterly or annual financial performance can put intense pressure on people to cut corners, bend rules and make other questionable decisions in order to hit the targets set for them. Unfortunately, those who behave jubiously but hit the targets are rewarded, which sends a clear message about the organization’s priorities.</p>
 <p class="prose-p">Indeed, the reward systems in these organizations work to incentivize such behaviors. Those who meet their goals are given bonuses or promoted often without consideration of the manner in which they met their goals, while those who acted with integrity but missed their targets are penalized by being overlooked for recognition or advancement. This sends a message to everyone else in the organization that making the numbers is more important than acting ethically. Those who may have been loath to follow the unethical examples set by their colleagues succumb to the pressure as they start to feel it is the only way for them to get a bonus, get ahead or even protect their job.</p>
 <p class="prose-p">They will lose perspective and rationalize their ethical transgressions. I gotta put food on the table. It’s what management wants. I have no choice, and my personal favorite, it’s the industry standard, all rationalizations we tell ourselves or tell others to help us mitigate any sense of guilt or responsibility we may feel.</p>
@@ -1786,13 +1910,13 @@
 <p class="prose-p">This, combined with the goodwill and trust they have built in the market, has helped them become one of the most successful, innovative and profitable companies in their category. The company has experienced a quadrupling of revenue over the past decade, with profits tripling. In the words of Patagonia’s CEO Rose Markario, doing good work for the planet creates new markets and makes us more money, notice the order in which she presents her priorities. As far out on the horizon line as we can see right now, says Rick Ridgway, Patagonia’s VP of Environmental Affairs, were continuing to produce products that allow people to live a more responsible life with the apparel that they choose.</p>
 <p class="prose-p">As long as there’s a lot of other people out there that don’t do that, then we should be growing, still, Ridgway acknowledges, there is a point out there where our own growth is going to likely create more problems than it does solutions. It remains to be seen how Patagonia will deal with that point if and when they arrive at it. But the very fact that they are thinking about it, and talking about it publicly no less, is yet another sign of their ethical strength.</p>
 <p class="prose-p">As a result of leading with an infinite mindset, Patagonia has not only created a company more resistant to ethical fading, but has also set the bar for what acting ethically can look like in business. And that’s by design. If we can show the business community that were successful, says COO Doug Freeman, we think we’re holding ourselves as a great example for how business can be done differently, Patagonia acts in a way that is not just good for them, it’s good for the game, and it’s working.</p>
-<p class="prose-p">Other companies now follow their lead.</p>
-<h4 class="section-subhead">Chapter 9.</h4>
-<p class="prose-p">Worthy Rival. Whenever I heard his name, it made me uncomfortable. If I heard someone sing his praises, a wave of envy washed over me. I know him to be a good person and a nice guy.</p>
-<p class="prose-p">I respect his work a great deal and he has always been nice to me when we’ve met in professional settings. We do the same kind of work, write books and give talks about our views of the world. Though there are many others who do work similar to his and mine, for some reason I was obsessed with him. I wanted to outdo him.</p>
-<p class="prose-p">I would regularly check the online rankings to see how my books were selling and compare them to his. Not anyone else’s, just his. If mine were ranked higher, I would smile a gloatee smile and feel superior. If his were ranked higher, I would scowl and feel annoyed.</p>
-<p class="prose-p">He was my main competitor and I wanted to win. Then something happened, we were invited to share a stage at the same event. Though we had spoken at the same events before, this was the first time we would actually be on the stage at the same time. In the past I would speak on day 1 of a conference, for example, and he on day 2.</p>
-<p class="prose-p">This time, however, we would be on stage at the same time.</p>
+<p class="prose-p">Other companies now follow their lead.
+
+#### Chapter 9. Worthy Rival. Whenever I heard his name, it made me uncomfortable. If I heard someone sing his praises, a wave of envy washed over me.</p>
+<p class="prose-p">I know him to be a good person and a nice guy. I respect his work a great deal and he has always been nice to me when we’ve met in professional settings. We do the same kind of work, write books and give talks about our views of the world. Though there are many others who do work similar to his and mine, for some reason I was obsessed with him.</p>
+<p class="prose-p">I wanted to outdo him. I would regularly check the online rankings to see how my books were selling and compare them to his. Not anyone else’s, just his. If mine were ranked higher, I would smile a gloatee smile and feel superior.</p>
+<p class="prose-p">If his were ranked higher, I would scowl and feel annoyed. He was my main competitor and I wanted to win. Then something happened, we were invited to share a stage at the same event. Though we had spoken at the same events before, this was the first time we would actually be on the stage at the same time.</p>
+<p class="prose-p">In the past I would speak on day 1 of a conference, for example, and he on day 2. This time, however, we would be on stage at the same time.</p>
           </div>
         </section>
         
@@ -1963,17 +2087,18 @@
           <div class="section-body">
             <p class="prose-p">new digital age. And instead of asking themselves, what do we need to do to change with the times, taxi companies chose to sue the ride-sharing companies to protect their business models instead of learning how to adapt and provide a better taxi service. Sears got so big and so rich from sending out paper catalogs for so many decades that they were too slow to adapt to the rise of big box stores like Walmart and Ecommerce. And believing itself without rival, the behemoth that was Myspace didn’t even see Facebook coming.</p>
 <p class="prose-p">What got us here won’t get us there and knowing who our worthy rivals are is the best way to help us improve and adapt before it’s too late. Without a worthy rival, we risk losing our humility and our agility. Failure to have a worthy rival increases the risk that a once mighty infinite player with a strong sense of cause will gently slide into becoming just another finite player looking to rack up wins. Where once the organization fought primarily for the good of others, for the good of the cause, without that worthy rival, they are more likely to fight primarily for the good of themselves.</p>
-<p class="prose-p">And when that happens, when the hubris sets in, the organization will quickly find its weaknesses exposed and too rigid for the kind of flexibility they need to stay in the game.</p>
-<h4 class="section-subhead">Chapter 10 Existential Flexibility Some thought him mad.</h4>
-<p class="prose-p">He began liquidating his assets and selling off property. He borrowed against his life insurance policy and even licensed the rights to his own name. With the company doing so well, why would he leave now to do something different, something so risky? But in 1952, that’s exactly what Walt Disney did.</p>
-<p class="prose-p">He hadn’t gone mad. What he had done was make an existential flex. Walt Disney was accustomed to taking risks and doing new things. As a young artist working in the emerging field of animation, Disney was constantly innovating.</p>
-<p class="prose-p">He was one of the first to make short films in which real actors would interact with cartoon characters. In 1928, he was the first to make a cartoon with synchronized sound in the animation classic Steamboat Willie. Dissatisfied with just making entertaining shorts designed to make an audience smile, however, Disney set out to make an animated film that was a believable substitute for reality. One that could elicit the full range of human emotions.</p>
-<p class="prose-p">And in 1937, he released the first ever feature-length animated film, Snow White and the Seven Dwarfs. Snow White was like nothing the world had ever seen before. This evolution of Disney’s work wasn’t the result of experimentation for the sake of experimentation. More was it driven by a desire to get rich or become famous.</p>
-<p class="prose-p">With each step, Disney was advancing his just cause, inviting audiences to leave the stresses and strains of life behind and enter into a more idyllic world of his creation. The seeds of Disney’s just cause were planted when he was just a boy. When he was four years old, his father, Elias, moved the family from Chicago to live on a farmstead in rural Marsline, Missouri. The young Walt played outdoors, where there were often animals roaming around, where he was surrounded by extended family and a supportive community.</p>
-<p class="prose-p">It was, as his older brother Roy later recounted, just heaven for city kids. But that idyllic childhood didn’t last long. Elias Disney’s attempt at being a farmer ended in failure, and five years after they arrived in Marsline, the family was forced to move again. Landing in Kansas City, Elias bought a paper route and the young Walt was put to work to help the family make ends meet.</p>
-<p class="prose-p">But it didn’t help, and as the financial struggles compounded, so did Elias’s stress and temper. It reached a point. Walt Disney recalled that to tell the truth with my father got me a licking. Fortunately, back on the farm, Disney had discovered drawing a hobby that gave him a perfect escape from what he perceived as the hardships of real life.</p>
-<p class="prose-p">For the rest of his days, Disney would use his art and imagination to offer others a chance to escape their present circumstances too, to take them to a place where they could experience the kind of joy he remembered from his childhood in the little town of Marsline. To infinity and beyond, Walt Disney’s ability to transport people to another world turned out to be quite profitable. In addition to the critical and popular acclaim, when Snow White came out it grossed over $8 million in its first year alone, an equivalent of over $140 million in today’s dollars.</p>
-<p class="prose-p">With the money and success generated from the film, Walt built a studio in Burbank, California, and a corporate culture that was, as former employee Don Lust described, just heaven. To repay the debt accumulated from building the studio and fueled the growth, Roy Disney, CEO of Walt Disney Productions, wanted to take the company public. Walt opposed the idea for fear that shareholders would meddle in the business.</p>
+<p class="prose-p">And when that happens, when the hubris sets in, the organization will quickly find its weaknesses exposed and too rigid for the kind of flexibility they need to stay in the game.
+
+#### Chapter 10 Existential Flexibility Some thought him mad. He began liquidating his assets and selling off property. He borrowed against his life insurance policy and even licensed the rights to his own name. With the company doing so well, why would he leave now to do something different, something so risky?</p>
+<p class="prose-p">But in 1952, that’s exactly what Walt Disney did. He hadn’t gone mad. What he had done was make an existential flex. Walt Disney was accustomed to taking risks and doing new things.</p>
+<p class="prose-p">As a young artist working in the emerging field of animation, Disney was constantly innovating. He was one of the first to make short films in which real actors would interact with cartoon characters. In 1928, he was the first to make a cartoon with synchronized sound in the animation classic Steamboat Willie. Dissatisfied with just making entertaining shorts designed to make an audience smile, however, Disney set out to make an animated film that was a believable substitute for reality.</p>
+<p class="prose-p">One that could elicit the full range of human emotions. And in 1937, he released the first ever feature-length animated film, Snow White and the Seven Dwarfs. Snow White was like nothing the world had ever seen before. This evolution of Disney’s work wasn’t the result of experimentation for the sake of experimentation.</p>
+<p class="prose-p">More was it driven by a desire to get rich or become famous. With each step, Disney was advancing his just cause, inviting audiences to leave the stresses and strains of life behind and enter into a more idyllic world of his creation. The seeds of Disney’s just cause were planted when he was just a boy. When he was four years old, his father, Elias, moved the family from Chicago to live on a farmstead in rural Marsline, Missouri.</p>
+<p class="prose-p">The young Walt played outdoors, where there were often animals roaming around, where he was surrounded by extended family and a supportive community. It was, as his older brother Roy later recounted, just heaven for city kids. But that idyllic childhood didn’t last long. Elias Disney’s attempt at being a farmer ended in failure, and five years after they arrived in Marsline, the family was forced to move again.</p>
+<p class="prose-p">Landing in Kansas City, Elias bought a paper route and the young Walt was put to work to help the family make ends meet. But it didn’t help, and as the financial struggles compounded, so did Elias’s stress and temper. It reached a point. Walt Disney recalled that to tell the truth with my father got me a licking.</p>
+<p class="prose-p">Fortunately, back on the farm, Disney had discovered drawing a hobby that gave him a perfect escape from what he perceived as the hardships of real life. For the rest of his days, Disney would use his art and imagination to offer others a chance to escape their present circumstances too, to take them to a place where they could experience the kind of joy he remembered from his childhood in the little town of Marsline. To infinity and beyond, Walt Disney’s ability to transport people to another world turned out to be quite profitable.</p>
+<p class="prose-p">In addition to the critical and popular acclaim, when Snow White came out it grossed over $8 million in its first year alone, an equivalent of over $140 million in today’s dollars. With the money and success generated from the film, Walt built a studio in Burbank, California, and a corporate culture that was, as former employee Don Lust described, just heaven. To repay the debt accumulated from building the studio and fueled the growth, Roy Disney, CEO of Walt Disney Productions, wanted to take the company public.</p>
+<p class="prose-p">Walt opposed the idea for fear that shareholders would meddle in the business.</p>
           </div>
         </section>
         
@@ -2072,8 +2197,9 @@
             <p class="prose-p">That means adhering to the just cause as a guiding light and maintaining a culture rich with trusting teams. The opening sentence of the January 19, 2012, announcement of Kodak’s bankruptcy in the New York Times summed it up perfectly, Eastman Kodak, the 131-year-old film pioneer that has been struggling for years to adapt to an increasingly digital world, filed for bankruptcy protection early on Thursday, a statement from the chief financial officer. Antoinette McCorvey revealed the very finite gain Kodak’s leaders were playing. Since 2008, the statement went, despite Kodak’s best efforts, restructuring costs and recessionary forces have continued to negatively impact the company’s liquidity position.</p>
 <p class="prose-p">The leaders of a once great infinite company had abandoned their moral responsibility to advance Eastman’s just cause in favor of a perceived responsibility to more finite ambitions. They allowed forces of the market and not a passion for the vision to dictate the company’s future. And the entire company, the people who worked there, the town of Rochester, and their shareholders had to pay the price. These days, Kodak exists as a shadow of its former self.</p>
 <p class="prose-p">At the time Kodak invented the digital camera, the company employed about 120,000 people. Now they employ about 6,000 people, though the company still makes film and all the products that go with processing film, ironically its entire business primarily services one market today, professional photographers, the final nail in the coffin. Kodak had completely abandoned the founding cause. Without a just cause to guide them, Kodak’s executives lacked the vision or courage to know what to do for the long term success of their company.</p>
-<p class="prose-p">The most they could do was react to the world around them. George Eastman literally invented mass market photography. The people who worked at Kodak were pioneers in almost every part of the industry. It was only the finite mindset that left this once great company to be disrupted by the visionary technology they themselves invented.</p>
-<h4 class="section-subhead">Chapter 11, The Courage to Lead, hanging in the lobby of its corporate headquarters was a huge sign that stated the just cause, helping people on their path to better health.</h4>
+<p class="prose-p">The most they could do was react to the world around them. George Eastman literally invented mass market photography. The people who worked at Kodak were pioneers in almost every part of the industry. It was only the finite mindset that left this once great company to be disrupted by the visionary technology they themselves invented.
+
+#### Chapter 11, The Courage to Lead, hanging in the lobby of its corporate headquarters was a huge sign that stated the just cause, helping people on their path to better health.</p>
 <p class="prose-p">And the company’s executives believed it. They saw their company as having a purpose beyond just making money, they wanted to use their company to advance something bigger. They regularly had meetings with health care companies, hospitals and physicians on how they could better work together for patients.</p>
 <p class="prose-p">However, near the end of many of these meetings someone would point to the elephant in the room, but don’t you sell cigarettes in your stores. In February 2014, CVS Caremark announced that it would stop selling any tobacco related products in all of their over 2800 stores. It was a decision that would cost the company $2 billion per year in lost revenue. It was a decision they chose to make even though there was no competitive pressure to do so.</p>
 <p class="prose-p">There was no loud public demand that they make the decision, there was no scandal, there was no online campaign to force them to make the decision. The news was met with overwhelming support from the general public, but Wall Street and its pundits were none too pleased. It might make money in Oz, said Jim Cramer, one of CNBC’s financial commentators, but Wall Street is not Oz. Wall Street isn’t saying, you know what, I am going to buy CVS because they are good citizens, Cramer went on, I’m trying to figure out the earnings per share.</p>
@@ -2436,6 +2562,204 @@
 
     document.getElementById('scroll-top-btn').addEventListener('click', () => {
       window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    // ==========================================
+    // IN-PAGE CONTENT SEARCH (單書全文搜尋)
+    // ==========================================
+    const searchBar = document.getElementById('inpage-search-bar');
+    const searchInput = document.getElementById('inpage-search-input');
+    const searchCount = document.getElementById('inpage-search-count');
+    const searchDrawer = document.getElementById('inpage-search-drawer');
+    const searchDrawerList = document.getElementById('inpage-search-drawer-list');
+    const searchToggleBtn = document.getElementById('search-toggle-btn');
+    const searchClearBtn = document.getElementById('inpage-search-clear');
+    const searchPrevBtn = document.getElementById('inpage-search-prev');
+    const searchNextBtn = document.getElementById('inpage-search-next');
+    const searchCloseBtn = document.getElementById('inpage-search-close');
+    const drawerCloseBtn = document.getElementById('inpage-drawer-close');
+
+    let searchMatches = [];
+    let currentMatchIdx = -1;
+
+    // Cache original innerHTML for clean resets
+    const rawParagraphs = Array.from(document.querySelectorAll('.section-body p')).map(p => ({
+      el: p,
+      rawHtml: p.innerHTML,
+      rawText: p.textContent
+    }));
+
+    function openSearch() {
+      searchBar.classList.add('active');
+      searchInput.focus();
+      searchInput.select();
+      if (searchInput.value.trim()) {
+        performSearch(searchInput.value.trim());
+      }
+    }
+
+    function closeSearch() {
+      searchBar.classList.remove('active');
+      searchDrawer.classList.remove('active');
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchCount.textContent = '0 / 0';
+    }
+
+    function clearHighlights() {
+      rawParagraphs.forEach(item => {
+        item.el.innerHTML = item.rawHtml;
+      });
+    }
+
+    function escapeRegex(str) {
+      return str.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+    }
+
+    function escapeHtml(str) {
+      return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+
+    function performSearch(query) {
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchDrawerList.innerHTML = '';
+
+      if (!query || query.trim().length === 0) {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+        return;
+      }
+
+      query = query.trim();
+      const qLower = query.toLowerCase();
+      const regex = new RegExp(`(${escapeRegex(query)})`, 'gi');
+
+      rawParagraphs.forEach((item, pIdx) => {
+        if (item.rawText.toLowerCase().includes(qLower)) {
+          const sec = item.el.closest('.transcript-section');
+          const secTime = sec ? (sec.querySelector('.section-time')?.textContent || '') : '';
+          const secId = sec ? sec.id : '';
+
+          // Apply highlight
+          item.el.innerHTML = item.rawHtml.replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const marks = Array.from(item.el.querySelectorAll('mark.search-highlight'));
+          marks.forEach(mark => {
+            searchMatches.push({
+              mark,
+              el: item.el,
+              secTime,
+              secId
+            });
+          });
+
+          // Snippet creation
+          const matchPos = item.rawText.toLowerCase().indexOf(qLower);
+          const start = Math.max(0, matchPos - 30);
+          const end = Math.min(item.rawText.length, matchPos + query.length + 50);
+          const snippetText = item.rawText.slice(start, end);
+          const snippetHtml = escapeHtml(snippetText).replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const card = document.createElement('div');
+          card.className = 'search-result-item';
+          card.innerHTML = `
+            <div class="search-result-time">${secTime}</div>
+            <div class="search-result-snippet">...${snippetHtml}...</div>
+          `;
+          card.addEventListener('click', () => {
+            const targetIdx = searchMatches.findIndex(m => m.mark === marks[0]);
+            if (targetIdx >= 0) goToMatch(targetIdx);
+          });
+          searchDrawerList.appendChild(card);
+        }
+      });
+
+      if (searchMatches.length > 0) {
+        searchDrawer.classList.add('active');
+        goToMatch(0);
+      } else {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+      }
+    }
+
+    function goToMatch(idx) {
+      if (idx < 0 || idx >= searchMatches.length) return;
+      if (currentMatchIdx >= 0 && searchMatches[currentMatchIdx]) {
+        searchMatches[currentMatchIdx].mark.classList.remove('active-match');
+      }
+      currentMatchIdx = idx;
+      const target = searchMatches[currentMatchIdx];
+      target.mark.classList.add('active-match');
+      searchCount.textContent = `${currentMatchIdx + 1} / ${searchMatches.length}`;
+
+      // Highlight active drawer item
+      const drawerItems = searchDrawerList.querySelectorAll('.search-result-item');
+      drawerItems.forEach(di => di.classList.remove('active'));
+
+      target.mark.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+
+    searchToggleBtn.addEventListener('click', () => {
+      if (searchBar.classList.contains('active')) {
+        closeSearch();
+      } else {
+        openSearch();
+      }
+    });
+
+    let debounceTimer;
+    searchInput.addEventListener('input', (e) => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => {
+        performSearch(e.target.value);
+      }, 200);
+    });
+
+    searchClearBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      performSearch('');
+      searchInput.focus();
+    });
+
+    searchNextBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const nextIdx = (currentMatchIdx + 1) % searchMatches.length;
+      goToMatch(nextIdx);
+    });
+
+    searchPrevBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const prevIdx = (currentMatchIdx - 1 + searchMatches.length) % searchMatches.length;
+      goToMatch(prevIdx);
+    });
+
+    searchInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        if (e.shiftKey) {
+          searchPrevBtn.click();
+        } else {
+          searchNextBtn.click();
+        }
+      } else if (e.key === 'Escape') {
+        closeSearch();
+      }
+    });
+
+    searchCloseBtn.addEventListener('click', closeSearch);
+    drawerCloseBtn.addEventListener('click', () => searchDrawer.classList.remove('active'));
+
+    window.addEventListener('keydown', (e) => {
+      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'f') {
+        e.preventDefault();
+        openSearch();
+      } else if (e.key === 'Escape') {
+        if (searchBar.classList.contains('active')) closeSearch();
+      }
     });
   </script>
 </body>

@@ -66,26 +66,12 @@
       --card-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
     }
 
-    [data-line-height="compact"] {
-      --line-height: 1.68;
-    }
-    [data-line-height="normal"] {
-      --line-height: 1.88;
-    }
-    [data-line-height="loose"] {
-      --line-height: 2.12;
-    }
+    [data-line-height="compact"] { --line-height: 1.68; }
+    [data-line-height="normal"] { --line-height: 1.88; }
+    [data-line-height="loose"] { --line-height: 2.12; }
 
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
-    html {
-      scroll-behavior: smooth;
-    }
-
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
     body {
       font-family: var(--font-family);
       font-size: var(--font-size);
@@ -119,7 +105,7 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 0 20px;
+      padding: 0 18px;
       background-color: var(--bg-header);
       backdrop-filter: blur(8px);
       -webkit-backdrop-filter: blur(8px);
@@ -129,7 +115,7 @@
     .header-left, .header-right {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 8px;
       flex-wrap: nowrap;
     }
 
@@ -138,7 +124,7 @@
       border: 1px solid var(--border-color);
       color: var(--text-primary);
       cursor: pointer;
-      font-size: 14px;
+      font-size: 13.5px;
       padding: 6px 10px;
       border-radius: 8px;
       display: inline-flex;
@@ -147,6 +133,7 @@
       transition: all 0.2s;
       white-space: nowrap;
       user-select: none;
+      text-decoration: none;
     }
     .btn-icon:hover {
       background-color: var(--accent-light);
@@ -161,11 +148,132 @@
       font-size: 14px;
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
+    }
+    .home-link:hover { color: var(--accent-color); }
+
+    /* In-Page Search Bar Dropdown */
+    .inpage-search-bar {
+      position: sticky;
+      top: 60px;
+      z-index: 890;
+      background-color: var(--bg-surface);
+      border-bottom: 1px solid var(--border-color);
+      padding: 10px 18px;
+      display: none;
+      align-items: center;
+      gap: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    }
+    .inpage-search-bar.active { display: flex; }
+
+    .inpage-search-input-wrapper {
+      flex: 1;
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    .inpage-search-input {
+      width: 100%;
+      padding: 8px 36px 8px 12px;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      font-size: 14px;
+    }
+    .inpage-search-input:focus { outline: 2px solid var(--accent-color); }
+
+    .inpage-search-clear {
+      position: absolute;
+      right: 10px;
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 16px;
     }
 
-    .home-link:hover {
+    .inpage-search-count {
+      font-size: 13px;
+      color: var(--text-secondary);
+      font-family: monospace;
+      white-space: nowrap;
+    }
+    .search-nav-btns { display: flex; gap: 6px; }
+
+    /* In-Page Search Results Drawer */
+    .inpage-search-drawer {
+      position: fixed;
+      right: 20px;
+      top: 120px;
+      width: 360px;
+      max-height: calc(100vh - 160px);
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+      z-index: 895;
+      display: none;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .inpage-search-drawer.active { display: flex; }
+    .inpage-search-drawer-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-weight: 600;
+      font-size: 14px;
+    }
+    .inpage-search-drawer-list {
+      overflow-y: auto;
+      padding: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .search-result-item {
+      padding: 10px 12px;
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+      background: var(--bg-primary);
+      cursor: pointer;
+      font-size: 13px;
+      transition: all 0.15s;
+    }
+    .search-result-item:hover, .search-result-item.active {
+      border-color: var(--accent-color);
+      background: var(--accent-light);
+    }
+    .search-result-time {
+      font-weight: 700;
       color: var(--accent-color);
+      font-family: monospace;
+      margin-bottom: 4px;
+    }
+    .search-result-snippet {
+      color: var(--text-primary);
+      line-height: 1.5;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    /* Highlight mark */
+    mark.search-highlight {
+      background-color: #fef08a;
+      color: #1f2937;
+      padding: 1px 3px;
+      border-radius: 3px;
+    }
+    mark.search-highlight.active-match {
+      background-color: #f97316;
+      color: #ffffff;
+      outline: 2px solid #ea580c;
     }
 
     /* Layout Wrapper */
@@ -212,9 +320,7 @@
       font-size: 13px;
       margin-bottom: 14px;
     }
-    .toc-search:focus {
-      outline: 2px solid var(--accent-color);
-    }
+    .toc-search:focus { outline: 2px solid var(--accent-color); }
 
     .toc-list {
       list-style: none;
@@ -237,12 +343,10 @@
       overflow: hidden;
       text-overflow: ellipsis;
     }
-
     .toc-item a:hover {
       background-color: var(--accent-light);
       color: var(--accent-color);
     }
-
     .toc-item.active a {
       background-color: var(--accent-color);
       color: #ffffff;
@@ -257,19 +361,17 @@
       display: flex;
       justify-content: center;
     }
-
     .reader-container {
       width: 100%;
       max-width: var(--content-max-width);
     }
 
-    /* Book Hero / Header */
+    /* Book Hero */
     .book-hero {
       margin-bottom: 40px;
       padding-bottom: 24px;
       border-bottom: 2px solid var(--border-color);
     }
-
     .book-hero h1 {
       font-size: 2.1em;
       line-height: 1.35;
@@ -285,7 +387,6 @@
       gap: 10px;
       margin-top: 14px;
     }
-
     .meta-chip {
       display: inline-flex;
       align-items: center;
@@ -297,8 +398,13 @@
       font-size: 13px;
       font-weight: 500;
     }
+    .meta-chip.cat-badge {
+      background-color: #8b5cf622;
+      color: #8b5cf6;
+      font-weight: 600;
+    }
 
-    /* Content Typography & Enhanced Paragraphs */
+    /* Content Typography */
     .transcript-section {
       margin-bottom: 50px;
       scroll-margin-top: 80px;
@@ -349,25 +455,22 @@
       letter-spacing: 0.015em;
     }
 
-    /* Indented paragraph style (Traditional) */
+    /* Indented paragraph style */
     [data-p-style="indent"] .section-body p {
       text-indent: 2em;
       margin-bottom: 1.15em;
       line-height: var(--line-height);
     }
 
-    /* Block paragraph style (Modern with whitespace) */
+    /* Block paragraph style */
     [data-p-style="block"] .section-body p {
       text-indent: 0;
       margin-bottom: 1.55em;
       line-height: var(--line-height);
     }
+    .section-body p:last-child { margin-bottom: 0; }
 
-    .section-body p:last-child {
-      margin-bottom: 0;
-    }
-
-    /* Floating Navigation Controls */
+    /* Floating Tools */
     .floating-tools {
       position: fixed;
       bottom: 24px;
@@ -377,7 +480,6 @@
       gap: 10px;
       z-index: 800;
     }
-
     .float-btn {
       width: 44px;
       height: 44px;
@@ -399,7 +501,6 @@
       color: var(--accent-color);
     }
 
-    /* Overlay for mobile drawer */
     .backdrop {
       display: none;
       position: fixed;
@@ -419,36 +520,22 @@
         transform: translateX(-100%);
         box-shadow: 4px 0 16px rgba(0,0,0,0.15);
       }
-
-      .sidebar.open {
-        transform: translateX(0);
-      }
-
-      .backdrop.open {
-        display: block;
+      .sidebar.open { transform: translateX(0); }
+      .backdrop.open { display: block; }
+      .inpage-search-drawer {
+        left: 20px;
+        right: 20px;
+        width: auto;
       }
     }
 
     @media (max-width: 640px) {
-      :root {
-        --font-size: 17px;
-      }
-      .main-content {
-        padding: 24px 16px 60px 16px;
-      }
-      .book-hero h1 {
-        font-size: 1.55em;
-      }
-      .top-header {
-        padding: 0 10px;
-      }
-      .btn-icon {
-        padding: 5px 8px;
-        font-size: 13px;
-      }
-      [data-p-style="indent"] .section-body p {
-        text-indent: 1.5em;
-      }
+      :root { --font-size: 17px; }
+      .main-content { padding: 24px 16px 60px 16px; }
+      .book-hero h1 { font-size: 1.55em; }
+      .top-header { padding: 0 10px; }
+      .btn-icon { padding: 5px 7px; font-size: 12.5px; }
+      [data-p-style="indent"] .section-body p { text-indent: 1.5em; }
     }
   </style>
 </head>
@@ -464,6 +551,14 @@
       <a href="index.html" class="home-link" title="返回書架">
         🏠 書架
       </a>
+      <!-- Search Inside Book Button -->
+      <button class="btn-icon" id="search-toggle-btn" title="搜尋本書內文 (Ctrl+F)">
+        🔍 <span>搜尋內文</span>
+      </button>
+      <!-- Global Search Link -->
+      <a href="index.html?tab=search" class="btn-icon" title="前往全書庫全文檢索">
+        🌐 <span>全庫搜尋</span>
+      </a>
     </div>
 
     <div class="header-right">
@@ -473,7 +568,7 @@
       </button>
 
       <!-- Line Height Toggle -->
-      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 精簡)">
+      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 緊湊)">
         ↕ <span id="line-height-label">行距</span>
       </button>
 
@@ -492,6 +587,29 @@
       <button class="btn-icon" id="font-inc-btn" title="放大字級">A+</button>
     </div>
   </header>
+
+  <!-- In-Page Search Bar Dropdown -->
+  <div class="inpage-search-bar" id="inpage-search-bar">
+    <div class="inpage-search-input-wrapper">
+      <input type="text" id="inpage-search-input" class="inpage-search-input" placeholder="🔍 搜尋本書內文關鍵字 (按 Enter 尋找下一處，Esc 關閉)...">
+      <button class="inpage-search-clear" id="inpage-search-clear" title="清空">✕</button>
+    </div>
+    <span class="inpage-search-count" id="inpage-search-count">0 / 0</span>
+    <div class="search-nav-btns">
+      <button class="btn-icon" id="inpage-search-prev" title="上一處 (Shift+Enter)">▲</button>
+      <button class="btn-icon" id="inpage-search-next" title="下一處 (Enter)">▼</button>
+      <button class="btn-icon" id="inpage-search-close" title="關閉搜尋 (Esc)">✕</button>
+    </div>
+  </div>
+
+  <!-- In-Page Search Results Drawer -->
+  <div class="inpage-search-drawer" id="inpage-search-drawer">
+    <div class="inpage-search-drawer-header">
+      <span>搜尋結果清單</span>
+      <button class="btn-icon" id="inpage-drawer-close" style="padding: 2px 6px;">✕</button>
+    </div>
+    <div class="inpage-search-drawer-list" id="inpage-search-drawer-list"></div>
+  </div>
 
   <div class="backdrop" id="backdrop"></div>
 
@@ -586,6 +704,7 @@
         <header class="book-hero">
           <h1>The Power of Now Audiobook Full - Eckhart Tolle</h1>
           <div class="book-meta-chips">
+            <span class="meta-chip cat-badge">🧠 哲學與思辨</span>
             <span class="meta-chip">🏷️ 時長：06:06:03</span>
 <span class="meta-chip">🏷️ 模型：small.en</span>
 <span class="meta-chip">🏷️ 日期：2026-09-22</span>
@@ -593,7 +712,7 @@
         </header>
 
         <!-- Transcript Content -->
-        <div class="book-body">
+        <div class="book-body" id="book-body">
           
         <section class="transcript-section" id="sec-000000">
           <div class="section-header">
@@ -816,18 +935,18 @@
           <div class="section-body">
             <p class="prose-p">unconnected to the source and to each other. Pain is inevitable as long as you are identified with your mind, which is to say as long as you are unconscious, spiritually speaking. I am talking here primarily of emotional pain, which is also the main cause of physical pain and physical disease. Resentment, hatred, self-pity, guilt, anger, depression, jealousy, and so on, even the slightest irritation, are all forms of pain.</p>
 <p class="prose-p">In every pleasure or emotional height contains within itself the seat of pain, its inseparable opposite, which will manifest in time. Anybody who has ever taken drugs to get high will know that the high eventually turns into a low, that the pleasure turns into some form of pain. Many people also know from their own experience how easily and quickly an intimate relationship can turn from a source of pleasure to a source of pain. Seen from a higher perspective, both the negative and the positive polarities are faces of the same coin, are both part of the underlying pain that is inseparable from the mind-identified egoic state of consciousness.</p>
-<p class="prose-p">There are two levels to your pain, the pain that you create now, and the pain from the past that still lives on in your mind and body. Ceasing to create pain in the present and dissolving past pain, this is what I want to talk about now.</p>
-<h4 class="section-subhead">Chapter 2 Consciousness, the way out of pain create no more pain in the present.</h4>
-<p class="prose-p">Nobody says life is entirely free of pain and sorrow. Isn’t it a question of learning to live with them rather than trying to avoid them? The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.</p>
-<p class="prose-p">The pain that you create now is always some form of non-acceptance, some form of unconscious resistance to what is. On the level of thought, the resistance is some form of judgment. On the emotional level, it is some form of negativity. The intensity of the pain depends on the degree of resistance to the present moment, and this in turn depends on how strongly you are identified with your mind.</p>
-<p class="prose-p">The mind always seeks to deny the now and to escape from it. In other words, the more you are identified with your mind, the more you suffer. Or you may put it like this, the more you are able to honor and accept the now, the more you are free of pain, of suffering, and free of the egoic mind. Why does the mind habitually deny or resist the now?</p>
-<p class="prose-p">Because it cannot function and remain in control without time, which is past and future, so it perceives the timeless now as threatening. Time and mind are in fact inseparable. Imagine the earth devoid of human life, inhabited only by plants and animals. Would it still have a past and a future?</p>
-<p class="prose-p">Could we still speak of time in any meaningful way? The question what time is it? Or what is the date today? If anybody were there to ask it, would be quite meaningless.</p>
-<p class="prose-p">The oak tree or the eagle would be bemused by such a question. What time, they would ask. Well of course it’s now, the time is now. What else is there?</p>
-<p class="prose-p">Yes, we need the mind as well as time to function in this world, but there comes a point where they take over our lives, and this is where dysfunction, pain, and sorrow set in. The mind, to ensure that it remains in control, seeks continuously to cover up the present moment with past and future. And so, as the vitality and infinite creative potential of being, which is inseparable from the now, becomes covered up by time, your true nature becomes obscured by the mind.</p>
-<p class="prose-p">An increasingly heavy burden of time has been accumulating in the human mind. All individuals are suffering under this burden. But they also keep adding to it every moment whenever they ignore or deny that precious moment, or reduce it to a means of getting to some future moment, which only exists in the mind, never in actuality. The accumulation of time in the collective and individual human mind also holds a vast amount of residual pain from the past.</p>
-<p class="prose-p">If you no longer want to create pain for yourself and others, if you no longer want to add to the residue of past pain that still lives on in you, then don’t create any more time, or at least no more than is necessary to deal with the practical aspects of your life. How to Stop Creating Time Realize deeply that the present moment is all you ever have. Make the now the primary focus of your life, whereas before you dwelt in time and paid brief visits to the now, have your dwelling place in the now, and pay brief visits to past and future when required to deal with the practical aspects of your life situation.</p>
-<p class="prose-p">Always say yes to the present moment. What could be more futile, more insane than to create inner resistance to something that</p>
+<p class="prose-p">There are two levels to your pain, the pain that you create now, and the pain from the past that still lives on in your mind and body. Ceasing to create pain in the present and dissolving past pain, this is what I want to talk about now.
+
+#### Chapter 2 Consciousness, the way out of pain create no more pain in the present. Nobody says life is entirely free of pain and sorrow. Isn’t it a question of learning to live with them rather than trying to avoid them?</p>
+<p class="prose-p">The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life. The pain that you create now is always some form of non-acceptance, some form of unconscious resistance to what is. On the level of thought, the resistance is some form of judgment.</p>
+<p class="prose-p">On the emotional level, it is some form of negativity. The intensity of the pain depends on the degree of resistance to the present moment, and this in turn depends on how strongly you are identified with your mind. The mind always seeks to deny the now and to escape from it.</p>
+<p class="prose-p">In other words, the more you are identified with your mind, the more you suffer. Or you may put it like this, the more you are able to honor and accept the now, the more you are free of pain, of suffering, and free of the egoic mind. Why does the mind habitually deny or resist the now? Because it cannot function and remain in control without time, which is past and future, so it perceives the timeless now as threatening.</p>
+<p class="prose-p">Time and mind are in fact inseparable. Imagine the earth devoid of human life, inhabited only by plants and animals. Would it still have a past and a future? Could we still speak of time in any meaningful way?</p>
+<p class="prose-p">The question what time is it? Or what is the date today? If anybody were there to ask it, would be quite meaningless. The oak tree or the eagle would be bemused by such a question.</p>
+<p class="prose-p">What time, they would ask. Well of course it’s now, the time is now. What else is there? Yes, we need the mind as well as time to function in this world, but there comes a point where they take over our lives, and this is where dysfunction, pain, and sorrow set in.</p>
+<p class="prose-p">The mind, to ensure that it remains in control, seeks continuously to cover up the present moment with past and future. And so, as the vitality and infinite creative potential of being, which is inseparable from the now, becomes covered up by time, your true nature becomes obscured by the mind. An increasingly heavy burden of time has been accumulating in the human mind. All individuals are suffering under this burden.</p>
+<p class="prose-p">But they also keep adding to it every moment whenever they ignore or deny that precious moment, or reduce it to a means of getting to some future moment, which only exists in the mind, never in actuality. The accumulation of time in the collective and individual human mind also holds a vast amount of residual pain from the past. If you no longer want to create pain for yourself and others, if you no longer want to add to the residue of past pain that still lives on in you, then don’t create any more time, or at least no more than is necessary to deal with the practical aspects of your life.</p>
+<p class="prose-p">How to Stop Creating Time Realize deeply that the present moment is all you ever have. Make the now the primary focus of your life, whereas before you dwelt in time and paid brief visits to the now, have your dwelling place in the now, and pay brief visits to past and future when required to deal with the practical aspects of your life situation. Always say yes to the present moment. What could be more futile, more insane than to create inner resistance to something that</p>
           </div>
         </section>
         
@@ -934,12 +1053,12 @@
           <div class="section-body">
             <p class="prose-p">The most common ego identifications have to do with possessions, the work you do, social status and recognition, knowledge and education, physical appearance, special abilities, relationships, personal and family history, belief systems, and often also political, nationalistic, racial, religious, and other collective identifications. None of these is you. Do you find this frightening, or is it a relief to know this? All of these things you will have to relinquish sooner or later.</p>
 <p class="prose-p">Perhaps you find it as yet hard to believe, and I am certainly not asking you to believe that your identity cannot be found in any of those things. You will know the truth of it for yourself. You will know it at the latest when you feel death approaching. Death is a stripping away of all that is not you.</p>
-<p class="prose-p">The secret of life is to die before you die, and find that there is no death.</p>
-<h4 class="section-subhead">Chapter 3, Moving Deeply into the Now.</h4>
-<p class="prose-p">Don’t seek yourself in the mind. I feel that there is still a great deal. I need to learn about the workings of my mind before I can get anywhere near full consciousness or spiritual. Enlightenment.</p>
-<p class="prose-p">No, you don’t. The problems of the mind cannot be solved on the level of the mind. Once you have understood the basic dysfunction, there isn’t really much else that you need to learn or understand. Studying the complexities of the mind may make you a good psychologist, but doing so won’t take you beyond the mind, just as the study of madness isn’t enough to create sanity.</p>
-<p class="prose-p">You have already understood the basic mechanics of the unconscious state, identification with the mind, which creates a false self, the ego, as a substitute for your true self rooted in being. You become as a branch cut off from the vine, as Jesus puts it. Once you know how the basic dysfunction operates, there is no need to explore all its countless manifestations, no need to make it into a complex personal problem. The ego, of course, loves that.</p>
-<p class="prose-p">It is always seeking for something to attach itself to in order to uphold and strengthen its illusory sense of self, and it will readily attach itself to your problems. This is why, for so many people, a large part of their sense of selfish intimately connected with their problems. Once this has happened, the last thing they want is to become free of them. That would mean loss of self. There can be a great deal of unconscious ego investment in pain and suffering.</p>
+<p class="prose-p">The secret of life is to die before you die, and find that there is no death.
+
+#### Chapter 3, Moving Deeply into the Now. Don’t seek yourself in the mind. I feel that there is still a great deal. I need to learn about the workings of my mind before I can get anywhere near full consciousness or spiritual.</p>
+<p class="prose-p">Enlightenment. No, you don’t. The problems of the mind cannot be solved on the level of the mind. Once you have understood the basic dysfunction, there isn’t really much else that you need to learn or understand.</p>
+<p class="prose-p">Studying the complexities of the mind may make you a good psychologist, but doing so won’t take you beyond the mind, just as the study of madness isn’t enough to create sanity. You have already understood the basic mechanics of the unconscious state, identification with the mind, which creates a false self, the ego, as a substitute for your true self rooted in being. You become as a branch cut off from the vine, as Jesus puts it. Once you know how the basic dysfunction operates, there is no need to explore all its countless manifestations, no need to make it into a complex personal problem.</p>
+<p class="prose-p">The ego, of course, loves that. It is always seeking for something to attach itself to in order to uphold and strengthen its illusory sense of self, and it will readily attach itself to your problems. This is why, for so many people, a large part of their sense of selfish intimately connected with their problems. Once this has happened, the last thing they want is to become free of them. That would mean loss of self. There can be a great deal of unconscious ego investment in pain and suffering.</p>
 <p class="prose-p">So once you recognize the root of unconsciousness as identification with the mind, which of course includes the emotions, you step out of it. You become present. When you are present, you can allow the mind to be as it is without getting entangled in it. The mind in itself is not dysfunctional.</p>
 <p class="prose-p">It is a wonderful tool. Dysfunction sets in when you seek yourself in it and mistake it for who you are. It then becomes the egoic mind and takes over your whole life. In the delusion of time, it seems almost impossible to disidentify from the mind.</p>
 <p class="prose-p">We are all immersed in it. How do you teach a fish to fly? Here is the key. End the delusion of time.</p>
@@ -1108,13 +1227,13 @@
 <p class="prose-p">Of course, but you will not have illusory expectations that anything or anybody in the future will save you or make you happy. As far as your life situation is concerned, there may be things to be attained or acquired. That’s the world of form, of gain and loss. Yet on a deeper level you are already complete, and when you realize that, there is a playful, joyous energy behind what you do.</p>
 <p class="prose-p">Being free of psychological time, you no longer pursue your goals with grim determination, driven by fear, anger, discontent, or the need to become someone. Nor will you remain inactive through fear of failure, which to the ego is loss of self. When your deeper sense of self is derived from being, when you are free of becoming as a psychological need, neither your happiness nor your sense of self depends on the outcome, and so there is freedom from fear. You don’t seek permanency where it cannot be found in the world of form, of gain and loss, birth and death.</p>
 <p class="prose-p">You don’t demand that situations, conditions, places, or people should make you happy, and then suffer when they don’t live up to your expectations. Everything is honored, but nothing matters. Forms are born and die, yet you are aware of the Eternal underneath the forms. You know that nothing real can be threatened. When this is your state of being, how can you not succeed?</p>
-<p class="prose-p">You have succeeded already.</p>
-<h4 class="section-subhead">Chapter 4.</h4>
-<p class="prose-p">Mind Strategies for Avoiding the Now Loss of Now. The Core Delusion. Even if I completely accept that ultimately time is an illusion, what difference is that going to make in my life? I still have to live in a world that is completely dominated by time.</p>
-<p class="prose-p">Intellectual agreement is just another belief and won’t make much difference to your life. To realize this truth, you need to live it. When every cell of your body is so present that it feels vibrant with life, and when you can feel that life every moment as the joy of being, then it can be said that you are free of time. But I still have to pay the bills tomorrow, and I am still going to grow old and die just like everybody else.</p>
-<p class="prose-p">So how can I ever say that I am free of time? Tomorrow’s bills are not the problem. The dissolution of the physical body is not a problem. Loss of now is the problem, or rather, the core delusion that turns a mere situation, event, or emotion into a personal problem and into suffering.</p>
-<p class="prose-p">Loss of now is loss of being. To be free of time is to be free of the psychological need of past for your identity, and future for your fulfillment. It represents the most profound transformation of consciousness that you can imagine. In some rare cases, this shift in consciousness happens dramatically and radically, once and for all.</p>
-<p class="prose-p">When it does, it usually comes about through total surrender in the midst of intense suffering. Most people, however, have to work at it. When you have had your first few glimpses of the timeless state of consciousness, you begin to move back and forth between the dimensions of time and presence.</p>
+<p class="prose-p">You have succeeded already.
+
+#### Chapter 4. Mind Strategies for Avoiding the Now Loss of Now. The Core Delusion. Even if I completely accept that ultimately time is an illusion, what difference is that going to make in my life?</p>
+<p class="prose-p">I still have to live in a world that is completely dominated by time. Intellectual agreement is just another belief and won’t make much difference to your life. To realize this truth, you need to live it. When every cell of your body is so present that it feels vibrant with life, and when you can feel that life every moment as the joy of being, then it can be said that you are free of time.</p>
+<p class="prose-p">But I still have to pay the bills tomorrow, and I am still going to grow old and die just like everybody else. So how can I ever say that I am free of time? Tomorrow’s bills are not the problem. The dissolution of the physical body is not a problem.</p>
+<p class="prose-p">Loss of now is the problem, or rather, the core delusion that turns a mere situation, event, or emotion into a personal problem and into suffering. Loss of now is loss of being. To be free of time is to be free of the psychological need of past for your identity, and future for your fulfillment. It represents the most profound transformation of consciousness that you can imagine.</p>
+<p class="prose-p">In some rare cases, this shift in consciousness happens dramatically and radically, once and for all. When it does, it usually comes about through total surrender in the midst of intense suffering. Most people, however, have to work at it. When you have had your first few glimpses of the timeless state of consciousness, you begin to move back and forth between the dimensions of time and presence.</p>
 <p class="prose-p">First, you become aware of just how rarely your attention is truly in the now, but to know that you are not present is a great success. That knowing is presence, even if initially it only lasts for a couple of seconds of clock time before it is lost again. Then, with increasing frequency, you choose to have the focus of your consciousness in the present moment rather than in the past or future, and whenever you realize that you had lost the now, you are able to stay in it not just for a couple of seconds, but for longer periods as perceived from the external perspective of clock time.</p>
 <p class="prose-p">So before you are firmly established in the state of presence,</p>
           </div>
@@ -1287,10 +1406,11 @@
 <p class="prose-p">Give attention to your behavior, to your reactions, moods, thoughts, emotions, fears, and desires as they occur in the present. Theirs is the past in you. If you can be present enough to watch all those things, not critically or analytically, but nonjudgmentally, then you are dealing with the past and dissolving it through the power of your presence. You cannot find yourself by going into the past.</p>
 <p class="prose-p">You find yourself by coming into the present. Isn’t it helpful to understand the past, and so understand why we do certain things, react in certain ways, or why we unconsciously create our particular kind of drama, patterns in relationships, and so on? As you become more conscious of your present reality, you may suddenly get certain insights as to why your conditioning functions in those particular ways, for example. Why your relationships follow certain patterns, and you may remember things that happened in the past or see them more clearly.</p>
 <p class="prose-p">That is fine and can be helpful, but it is not essential. What is essential is your conscious presence. That dissolves the past. That is the transformative agent.</p>
-<p class="prose-p">So don’t seek to understand the past, but be as present as you can. The past cannot survive in your presence. It can only survive in your absence.</p>
-<h4 class="section-subhead">Chapter 5, The State of Presence.</h4>
-<p class="prose-p">It’s not what you think it is. You keep talking about the state of presence as the key. I think. I understand it intellectually, but I don’t know if I have ever truly experienced it.</p>
-<p class="prose-p">I wonder, is it what I think it is, or is it something entirely different? It’s not. What you think it is, you can’t think about presence, and the mind can’t understand it. Understanding presence is being present.</p>
+<p class="prose-p">So don’t seek to understand the past, but be as present as you can. The past cannot survive in your presence. It can only survive in your absence.
+
+#### Chapter 5, The State of Presence. It’s not what you think it is.</p>
+<p class="prose-p">You keep talking about the state of presence as the key. I think. I understand it intellectually, but I don’t know if I have ever truly experienced it. I wonder, is it what I think it is, or is it something entirely different?</p>
+<p class="prose-p">It’s not. What you think it is, you can’t think about presence, and the mind can’t understand it. Understanding presence is being present.</p>
           </div>
         </section>
         
@@ -1404,16 +1524,18 @@
 <p class="prose-p">Darkness cannot recognize light. Only light can recognize light. So don’t believe that the light is outside you or that it can only come through one particular form. If only your master is an incarnation of God, then who are you?</p>
 <p class="prose-p">Any kind of exclusivity is identification with form, and identification with form means ego, no matter how well disguised. Use the master’s presence to reflect your own identity beyond name and form back to you, and to become more intensely present yourself. You will soon realize that there is no mine or yours in presence. Presence is one.</p>
 <p class="prose-p">Group work can also be helpful for intensifying the light of your presence. A group of people coming together in a state of presence generates a collective energy field of great intensity. It not only raises the degree of presence of each member of the group, but also helps to free the collective human consciousness from its current state of mind dominance. This will make the state of presence increasingly more accessible to individuals.</p>
-<p class="prose-p">However, unless at least one member of the group is already firmly established in it, and thus can hold the energy frequency of that state, the egoic mind can easily reassert itself and sabotage the group’s endeavors. Although group work is invaluable, it is not enough, and you must not come to depend on it. Nor must you come to depend on a teacher or a master, except during the transitional period, when you are learning the meaning and practice of presence.</p>
-<h4 class="section-subhead">Chapter 3.</h4>
+<p class="prose-p">However, unless at least one member of the group is already firmly established in it, and thus can hold the energy frequency of that state, the egoic mind can easily reassert itself and sabotage the group’s endeavors. Although group work is invaluable, it is not enough, and you must not come to depend on it. Nor must you come to depend on a teacher or a master, except during the transitional period, when you are learning the meaning and practice of presence.
+
+#### Chapter 3.</p>
 <p class="prose-p">Moving deeply into the now, don’t seek yourself in the mind. I feel that there is still a great deal. I need to learn about the workings of my mind before I can get anywhere near full consciousness or spiritual. Enlightenment.</p>
 <p class="prose-p">No, you don’t. The problems of the mind cannot be solved on the level of the mind. Once you have understood the basic dysfunction, there isn’t really much else that you need to learn or understand. Studying the complexities of the mind may make you a good psychologist, but doing so won’t take you beyond the mind, just as the study of madness isn’t enough to create sanity.</p>
-<p class="prose-p">You have already understood the basic mechanics of the unconscious state, identification with the mind, which creates a false self, the ego, as a substitute for your true self rooted in being. You become as a branch cut off from the vine, as Jesus puts it. The ego’s needs are endless, it feels vulnerable and threatened, and so lives in a state of fear and want.</p>
-<h4 class="section-subhead">Chapter 6.</h4>
-<p class="prose-p">The Inner Body Being Is Your Deepest Self You spoke earlier about the importance of having deep roots within or inhabiting the body. Can you explain what you meant by that? The body can become a point of access into the realm of being. Let’s go into that more deeply now.</p>
-<p class="prose-p">I am still not quite sure if I fully understand what you mean by being. Water. What do you mean by that? I don’t understand it.</p>
-<p class="prose-p">This is what a fish would say if it had a human mind. Please stop trying to understand being. You have already had significant glimpses of being, but the mind will always try to squeeze it into a little box and then put a label on it. It cannot be done.</p>
-<p class="prose-p">It cannot become an object of knowledge. In being, subject and object</p>
+<p class="prose-p">You have already understood the basic mechanics of the unconscious state, identification with the mind, which creates a false self, the ego, as a substitute for your true self rooted in being. You become as a branch cut off from the vine, as Jesus puts it. The ego’s needs are endless, it feels vulnerable and threatened, and so lives in a state of fear and want.
+
+#### Chapter 6. The Inner Body Being Is Your Deepest Self You spoke earlier about the importance of having deep roots within or inhabiting the body.</p>
+<p class="prose-p">Can you explain what you meant by that? The body can become a point of access into the realm of being. Let’s go into that more deeply now. I am still not quite sure if I fully understand what you mean by being.</p>
+<p class="prose-p">Water. What do you mean by that? I don’t understand it. This is what a fish would say if it had a human mind.</p>
+<p class="prose-p">Please stop trying to understand being. You have already had significant glimpses of being, but the mind will always try to squeeze it into a little box and then put a label on it. It cannot be done. It cannot become an object of knowledge.</p>
+<p class="prose-p">In being, subject and object</p>
           </div>
         </section>
         
@@ -1572,15 +1694,16 @@
 <p class="prose-p">That takes attention away from thinking and creates a still space that enables you to truly listen without the mind interfering. You are giving the other person space. Space to be. It is the most precious gift you can give.</p>
 <p class="prose-p">Most people don’t know how to listen because the major part of their attention is taken up by thinking. They pay more attention to that than to what the other person is saying, and none at all to what really matters. The being of the other person underneath the words and the mind. Of course, you cannot feel someone else’s being except through your own.</p>
 <p class="prose-p">This is the beginning of the realization of oneness, which is love. At the deepest level of being, you are one with all that is. Most human relationships consist mainly of minds interacting with each other, not of human beings communicating, being in communion. No relationship can thrive in that way, and that is why there is so much conflict in relationships.</p>
-<p class="prose-p">When the mind is running your life, conflict, strife and problems are inevitable. Being in touch with your inner body creates a clear space of no mind within which the relationship can flower.</p>
-<h4 class="section-subhead">Chapter 7.</h4>
-<p class="prose-p">Portals into the unmanifested, going deeply into the body. I can feel the energy inside my body, especially in my arms and legs, but I don’t seem to be able to go more deeply, as you suggested earlier. Make it into a meditation. It needn’t take long.</p>
-<p class="prose-p">Ten to fifteen minutes of clock time should be sufficient. Make sure first that there are no external distractions, such as telephones or people who are likely to interrupt you. Sit on a chair, but don’t lean back. Keep the spine erect.</p>
-<p class="prose-p">Doing so will help you to stay alert. Alternatively, choose your own favorite position for meditation. Make sure the body is relaxed. Close your eyes.</p>
-<p class="prose-p">Take a few deep breaths. Feel yourself breathing into the lower abdomen, as it were. Observe how it expands and contracts slightly with each in and out breath. Then become aware of the entire inner energy field of the body.</p>
-<p class="prose-p">Don’t think about it. Feel it. By doing this, you reclaim consciousness from the mind. If you find it helpful, use the light visualization I described earlier.</p>
-<p class="prose-p">When you can feel the inner body clearly as a single field of energy, let go, if possible, of any visual image and focus exclusively on the feeling. If you can, also drop any mental image you may still have of the physical body. All that is left, then, is an all-encompassing sense of presence or beingness, and the inner body is felt to be without a boundary. Then take your attention even more deeply into that feeling.</p>
-<p class="prose-p">Become one with it. Merge with the energy field, so that there is no longer a perceived duality of the observer and the observed of you and your body. The distinction between inner and outer also dissolves now, so there is no inner body anymore. By going deeply into the body, you have transcended the body.</p>
+<p class="prose-p">When the mind is running your life, conflict, strife and problems are inevitable. Being in touch with your inner body creates a clear space of no mind within which the relationship can flower.
+
+#### Chapter 7. Portals into the unmanifested, going deeply into the body. I can feel the energy inside my body, especially in my arms and legs, but I don’t seem to be able to go more deeply, as you suggested earlier.</p>
+<p class="prose-p">Make it into a meditation. It needn’t take long. Ten to fifteen minutes of clock time should be sufficient. Make sure first that there are no external distractions, such as telephones or people who are likely to interrupt you.</p>
+<p class="prose-p">Sit on a chair, but don’t lean back. Keep the spine erect. Doing so will help you to stay alert. Alternatively, choose your own favorite position for meditation.</p>
+<p class="prose-p">Make sure the body is relaxed. Close your eyes. Take a few deep breaths. Feel yourself breathing into the lower abdomen, as it were.</p>
+<p class="prose-p">Observe how it expands and contracts slightly with each in and out breath. Then become aware of the entire inner energy field of the body. Don’t think about it. Feel it.</p>
+<p class="prose-p">By doing this, you reclaim consciousness from the mind. If you find it helpful, use the light visualization I described earlier. When you can feel the inner body clearly as a single field of energy, let go, if possible, of any visual image and focus exclusively on the feeling. If you can, also drop any mental image you may still have of the physical body.</p>
+<p class="prose-p">All that is left, then, is an all-encompassing sense of presence or beingness, and the inner body is felt to be without a boundary. Then take your attention even more deeply into that feeling. Become one with it. Merge with the energy field, so that there is no longer a perceived duality of the observer and the observed of you and your body.</p>
+<p class="prose-p">The distinction between inner and outer also dissolves now, so there is no inner body anymore. By going deeply into the body, you have transcended the body.</p>
           </div>
         </section>
         
@@ -1703,13 +1826,14 @@
 <p class="prose-p">Most people carry too much residual resistance, too much fear, too much attachment to sensory experience, too much identification with the manifested world. So they see the portal, turn away in fear and then lose consciousness. Most of what happens after that is involuntary and automatic. Eventually, there will be another round of birth and death.</p>
 <p class="prose-p">Their presence wasn’t strong enough yet for conscious immortality. So going through this portal does not mean annihilation. As with all the other portals, your radiant true nature remains, but not the personality. In any case, whatever is real or of true value in your personality is your true nature shining through.</p>
 <p class="prose-p">This is never lost. Nothing that is of value, nothing that is real is ever lost. Approaching death and death itself, the dissolution of the physical form, is always a great opportunity for spiritual realization. This opportunity is tragically missed most of the time, since we live in a culture that is almost totally ignorant of death, as it is almost totally ignorant of anything that truly matters.</p>
-<p class="prose-p">Every portal is a portal of death, the death of the false self. When you go through it, you cease to derive your identity from your psychological, mind-made form. You then realize that death is an illusion.</p>
-<h4 class="section-subhead">Chapter 8.</h4>
-<p class="prose-p">Enlightened relationships. Enter the now from wherever you are. I always thought that true enlightenment is not possible except through love in a relationship between a man and a woman. Isn’t this what makes us whole again?</p>
-<p class="prose-p">How can one’s life be fulfilled until that happens? Is that true in your experience? Has this happened to you? Not yet, but how could it be otherwise?</p>
-<p class="prose-p">I know that it will happen. In other words, you are waiting for an event in time to save you. Is this not the core error that we have been talking about? Salvation is not elsewhere in place or time.</p>
-<p class="prose-p">It is here and now. What does that statement mean? Salvation is here and now. I don’t understand it.</p>
-<p class="prose-p">I don’t even know what salvation means. Most people pursue physical pleasures or various forms of psychological gratification, because they believe that those things will make them happy or free them from a feeling of fear or lack. Happiness may be perceived as a heightened sense of aliveness attained through physical pleasure or a more secure and more complete sense of self</p>
+<p class="prose-p">Every portal is a portal of death, the death of the false self. When you go through it, you cease to derive your identity from your psychological, mind-made form. You then realize that death is an illusion.
+
+#### Chapter 8. Enlightened relationships.</p>
+<p class="prose-p">Enter the now from wherever you are. I always thought that true enlightenment is not possible except through love in a relationship between a man and a woman. Isn’t this what makes us whole again? How can one’s life be fulfilled until that happens?</p>
+<p class="prose-p">Is that true in your experience? Has this happened to you? Not yet, but how could it be otherwise? I know that it will happen.</p>
+<p class="prose-p">In other words, you are waiting for an event in time to save you. Is this not the core error that we have been talking about? Salvation is not elsewhere in place or time. It is here and now.</p>
+<p class="prose-p">What does that statement mean? Salvation is here and now. I don’t understand it. I don’t even know what salvation means.</p>
+<p class="prose-p">Most people pursue physical pleasures or various forms of psychological gratification, because they believe that those things will make them happy or free them from a feeling of fear or lack. Happiness may be perceived as a heightened sense of aliveness attained through physical pleasure or a more secure and more complete sense of self</p>
           </div>
         </section>
         
@@ -2504,6 +2628,204 @@
 
     document.getElementById('scroll-top-btn').addEventListener('click', () => {
       window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    // ==========================================
+    // IN-PAGE CONTENT SEARCH (單書全文搜尋)
+    // ==========================================
+    const searchBar = document.getElementById('inpage-search-bar');
+    const searchInput = document.getElementById('inpage-search-input');
+    const searchCount = document.getElementById('inpage-search-count');
+    const searchDrawer = document.getElementById('inpage-search-drawer');
+    const searchDrawerList = document.getElementById('inpage-search-drawer-list');
+    const searchToggleBtn = document.getElementById('search-toggle-btn');
+    const searchClearBtn = document.getElementById('inpage-search-clear');
+    const searchPrevBtn = document.getElementById('inpage-search-prev');
+    const searchNextBtn = document.getElementById('inpage-search-next');
+    const searchCloseBtn = document.getElementById('inpage-search-close');
+    const drawerCloseBtn = document.getElementById('inpage-drawer-close');
+
+    let searchMatches = [];
+    let currentMatchIdx = -1;
+
+    // Cache original innerHTML for clean resets
+    const rawParagraphs = Array.from(document.querySelectorAll('.section-body p')).map(p => ({
+      el: p,
+      rawHtml: p.innerHTML,
+      rawText: p.textContent
+    }));
+
+    function openSearch() {
+      searchBar.classList.add('active');
+      searchInput.focus();
+      searchInput.select();
+      if (searchInput.value.trim()) {
+        performSearch(searchInput.value.trim());
+      }
+    }
+
+    function closeSearch() {
+      searchBar.classList.remove('active');
+      searchDrawer.classList.remove('active');
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchCount.textContent = '0 / 0';
+    }
+
+    function clearHighlights() {
+      rawParagraphs.forEach(item => {
+        item.el.innerHTML = item.rawHtml;
+      });
+    }
+
+    function escapeRegex(str) {
+      return str.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+    }
+
+    function escapeHtml(str) {
+      return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+
+    function performSearch(query) {
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchDrawerList.innerHTML = '';
+
+      if (!query || query.trim().length === 0) {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+        return;
+      }
+
+      query = query.trim();
+      const qLower = query.toLowerCase();
+      const regex = new RegExp(`(${escapeRegex(query)})`, 'gi');
+
+      rawParagraphs.forEach((item, pIdx) => {
+        if (item.rawText.toLowerCase().includes(qLower)) {
+          const sec = item.el.closest('.transcript-section');
+          const secTime = sec ? (sec.querySelector('.section-time')?.textContent || '') : '';
+          const secId = sec ? sec.id : '';
+
+          // Apply highlight
+          item.el.innerHTML = item.rawHtml.replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const marks = Array.from(item.el.querySelectorAll('mark.search-highlight'));
+          marks.forEach(mark => {
+            searchMatches.push({
+              mark,
+              el: item.el,
+              secTime,
+              secId
+            });
+          });
+
+          // Snippet creation
+          const matchPos = item.rawText.toLowerCase().indexOf(qLower);
+          const start = Math.max(0, matchPos - 30);
+          const end = Math.min(item.rawText.length, matchPos + query.length + 50);
+          const snippetText = item.rawText.slice(start, end);
+          const snippetHtml = escapeHtml(snippetText).replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const card = document.createElement('div');
+          card.className = 'search-result-item';
+          card.innerHTML = `
+            <div class="search-result-time">${secTime}</div>
+            <div class="search-result-snippet">...${snippetHtml}...</div>
+          `;
+          card.addEventListener('click', () => {
+            const targetIdx = searchMatches.findIndex(m => m.mark === marks[0]);
+            if (targetIdx >= 0) goToMatch(targetIdx);
+          });
+          searchDrawerList.appendChild(card);
+        }
+      });
+
+      if (searchMatches.length > 0) {
+        searchDrawer.classList.add('active');
+        goToMatch(0);
+      } else {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+      }
+    }
+
+    function goToMatch(idx) {
+      if (idx < 0 || idx >= searchMatches.length) return;
+      if (currentMatchIdx >= 0 && searchMatches[currentMatchIdx]) {
+        searchMatches[currentMatchIdx].mark.classList.remove('active-match');
+      }
+      currentMatchIdx = idx;
+      const target = searchMatches[currentMatchIdx];
+      target.mark.classList.add('active-match');
+      searchCount.textContent = `${currentMatchIdx + 1} / ${searchMatches.length}`;
+
+      // Highlight active drawer item
+      const drawerItems = searchDrawerList.querySelectorAll('.search-result-item');
+      drawerItems.forEach(di => di.classList.remove('active'));
+
+      target.mark.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+
+    searchToggleBtn.addEventListener('click', () => {
+      if (searchBar.classList.contains('active')) {
+        closeSearch();
+      } else {
+        openSearch();
+      }
+    });
+
+    let debounceTimer;
+    searchInput.addEventListener('input', (e) => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => {
+        performSearch(e.target.value);
+      }, 200);
+    });
+
+    searchClearBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      performSearch('');
+      searchInput.focus();
+    });
+
+    searchNextBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const nextIdx = (currentMatchIdx + 1) % searchMatches.length;
+      goToMatch(nextIdx);
+    });
+
+    searchPrevBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const prevIdx = (currentMatchIdx - 1 + searchMatches.length) % searchMatches.length;
+      goToMatch(prevIdx);
+    });
+
+    searchInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        if (e.shiftKey) {
+          searchPrevBtn.click();
+        } else {
+          searchNextBtn.click();
+        }
+      } else if (e.key === 'Escape') {
+        closeSearch();
+      }
+    });
+
+    searchCloseBtn.addEventListener('click', closeSearch);
+    drawerCloseBtn.addEventListener('click', () => searchDrawer.classList.remove('active'));
+
+    window.addEventListener('keydown', (e) => {
+      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'f') {
+        e.preventDefault();
+        openSearch();
+      } else if (e.key === 'Escape') {
+        if (searchBar.classList.contains('active')) closeSearch();
+      }
     });
   </script>
 </body>

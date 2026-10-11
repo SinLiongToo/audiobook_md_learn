@@ -66,26 +66,12 @@
       --card-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
     }
 
-    [data-line-height="compact"] {
-      --line-height: 1.68;
-    }
-    [data-line-height="normal"] {
-      --line-height: 1.88;
-    }
-    [data-line-height="loose"] {
-      --line-height: 2.12;
-    }
+    [data-line-height="compact"] { --line-height: 1.68; }
+    [data-line-height="normal"] { --line-height: 1.88; }
+    [data-line-height="loose"] { --line-height: 2.12; }
 
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
-    html {
-      scroll-behavior: smooth;
-    }
-
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
     body {
       font-family: var(--font-family);
       font-size: var(--font-size);
@@ -119,7 +105,7 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 0 20px;
+      padding: 0 18px;
       background-color: var(--bg-header);
       backdrop-filter: blur(8px);
       -webkit-backdrop-filter: blur(8px);
@@ -129,7 +115,7 @@
     .header-left, .header-right {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 8px;
       flex-wrap: nowrap;
     }
 
@@ -138,7 +124,7 @@
       border: 1px solid var(--border-color);
       color: var(--text-primary);
       cursor: pointer;
-      font-size: 14px;
+      font-size: 13.5px;
       padding: 6px 10px;
       border-radius: 8px;
       display: inline-flex;
@@ -147,6 +133,7 @@
       transition: all 0.2s;
       white-space: nowrap;
       user-select: none;
+      text-decoration: none;
     }
     .btn-icon:hover {
       background-color: var(--accent-light);
@@ -161,11 +148,132 @@
       font-size: 14px;
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
+    }
+    .home-link:hover { color: var(--accent-color); }
+
+    /* In-Page Search Bar Dropdown */
+    .inpage-search-bar {
+      position: sticky;
+      top: 60px;
+      z-index: 890;
+      background-color: var(--bg-surface);
+      border-bottom: 1px solid var(--border-color);
+      padding: 10px 18px;
+      display: none;
+      align-items: center;
+      gap: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    }
+    .inpage-search-bar.active { display: flex; }
+
+    .inpage-search-input-wrapper {
+      flex: 1;
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    .inpage-search-input {
+      width: 100%;
+      padding: 8px 36px 8px 12px;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      font-size: 14px;
+    }
+    .inpage-search-input:focus { outline: 2px solid var(--accent-color); }
+
+    .inpage-search-clear {
+      position: absolute;
+      right: 10px;
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 16px;
     }
 
-    .home-link:hover {
+    .inpage-search-count {
+      font-size: 13px;
+      color: var(--text-secondary);
+      font-family: monospace;
+      white-space: nowrap;
+    }
+    .search-nav-btns { display: flex; gap: 6px; }
+
+    /* In-Page Search Results Drawer */
+    .inpage-search-drawer {
+      position: fixed;
+      right: 20px;
+      top: 120px;
+      width: 360px;
+      max-height: calc(100vh - 160px);
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+      z-index: 895;
+      display: none;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .inpage-search-drawer.active { display: flex; }
+    .inpage-search-drawer-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-weight: 600;
+      font-size: 14px;
+    }
+    .inpage-search-drawer-list {
+      overflow-y: auto;
+      padding: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .search-result-item {
+      padding: 10px 12px;
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+      background: var(--bg-primary);
+      cursor: pointer;
+      font-size: 13px;
+      transition: all 0.15s;
+    }
+    .search-result-item:hover, .search-result-item.active {
+      border-color: var(--accent-color);
+      background: var(--accent-light);
+    }
+    .search-result-time {
+      font-weight: 700;
       color: var(--accent-color);
+      font-family: monospace;
+      margin-bottom: 4px;
+    }
+    .search-result-snippet {
+      color: var(--text-primary);
+      line-height: 1.5;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    /* Highlight mark */
+    mark.search-highlight {
+      background-color: #fef08a;
+      color: #1f2937;
+      padding: 1px 3px;
+      border-radius: 3px;
+    }
+    mark.search-highlight.active-match {
+      background-color: #f97316;
+      color: #ffffff;
+      outline: 2px solid #ea580c;
     }
 
     /* Layout Wrapper */
@@ -212,9 +320,7 @@
       font-size: 13px;
       margin-bottom: 14px;
     }
-    .toc-search:focus {
-      outline: 2px solid var(--accent-color);
-    }
+    .toc-search:focus { outline: 2px solid var(--accent-color); }
 
     .toc-list {
       list-style: none;
@@ -237,12 +343,10 @@
       overflow: hidden;
       text-overflow: ellipsis;
     }
-
     .toc-item a:hover {
       background-color: var(--accent-light);
       color: var(--accent-color);
     }
-
     .toc-item.active a {
       background-color: var(--accent-color);
       color: #ffffff;
@@ -257,19 +361,17 @@
       display: flex;
       justify-content: center;
     }
-
     .reader-container {
       width: 100%;
       max-width: var(--content-max-width);
     }
 
-    /* Book Hero / Header */
+    /* Book Hero */
     .book-hero {
       margin-bottom: 40px;
       padding-bottom: 24px;
       border-bottom: 2px solid var(--border-color);
     }
-
     .book-hero h1 {
       font-size: 2.1em;
       line-height: 1.35;
@@ -285,7 +387,6 @@
       gap: 10px;
       margin-top: 14px;
     }
-
     .meta-chip {
       display: inline-flex;
       align-items: center;
@@ -297,8 +398,13 @@
       font-size: 13px;
       font-weight: 500;
     }
+    .meta-chip.cat-badge {
+      background-color: #8b5cf622;
+      color: #8b5cf6;
+      font-weight: 600;
+    }
 
-    /* Content Typography & Enhanced Paragraphs */
+    /* Content Typography */
     .transcript-section {
       margin-bottom: 50px;
       scroll-margin-top: 80px;
@@ -349,25 +455,22 @@
       letter-spacing: 0.015em;
     }
 
-    /* Indented paragraph style (Traditional) */
+    /* Indented paragraph style */
     [data-p-style="indent"] .section-body p {
       text-indent: 2em;
       margin-bottom: 1.15em;
       line-height: var(--line-height);
     }
 
-    /* Block paragraph style (Modern with whitespace) */
+    /* Block paragraph style */
     [data-p-style="block"] .section-body p {
       text-indent: 0;
       margin-bottom: 1.55em;
       line-height: var(--line-height);
     }
+    .section-body p:last-child { margin-bottom: 0; }
 
-    .section-body p:last-child {
-      margin-bottom: 0;
-    }
-
-    /* Floating Navigation Controls */
+    /* Floating Tools */
     .floating-tools {
       position: fixed;
       bottom: 24px;
@@ -377,7 +480,6 @@
       gap: 10px;
       z-index: 800;
     }
-
     .float-btn {
       width: 44px;
       height: 44px;
@@ -399,7 +501,6 @@
       color: var(--accent-color);
     }
 
-    /* Overlay for mobile drawer */
     .backdrop {
       display: none;
       position: fixed;
@@ -419,36 +520,22 @@
         transform: translateX(-100%);
         box-shadow: 4px 0 16px rgba(0,0,0,0.15);
       }
-
-      .sidebar.open {
-        transform: translateX(0);
-      }
-
-      .backdrop.open {
-        display: block;
+      .sidebar.open { transform: translateX(0); }
+      .backdrop.open { display: block; }
+      .inpage-search-drawer {
+        left: 20px;
+        right: 20px;
+        width: auto;
       }
     }
 
     @media (max-width: 640px) {
-      :root {
-        --font-size: 17px;
-      }
-      .main-content {
-        padding: 24px 16px 60px 16px;
-      }
-      .book-hero h1 {
-        font-size: 1.55em;
-      }
-      .top-header {
-        padding: 0 10px;
-      }
-      .btn-icon {
-        padding: 5px 8px;
-        font-size: 13px;
-      }
-      [data-p-style="indent"] .section-body p {
-        text-indent: 1.5em;
-      }
+      :root { --font-size: 17px; }
+      .main-content { padding: 24px 16px 60px 16px; }
+      .book-hero h1 { font-size: 1.55em; }
+      .top-header { padding: 0 10px; }
+      .btn-icon { padding: 5px 7px; font-size: 12.5px; }
+      [data-p-style="indent"] .section-body p { text-indent: 1.5em; }
     }
   </style>
 </head>
@@ -464,6 +551,14 @@
       <a href="index.html" class="home-link" title="返回書架">
         🏠 書架
       </a>
+      <!-- Search Inside Book Button -->
+      <button class="btn-icon" id="search-toggle-btn" title="搜尋本書內文 (Ctrl+F)">
+        🔍 <span>搜尋內文</span>
+      </button>
+      <!-- Global Search Link -->
+      <a href="index.html?tab=search" class="btn-icon" title="前往全書庫全文檢索">
+        🌐 <span>全庫搜尋</span>
+      </a>
     </div>
 
     <div class="header-right">
@@ -473,7 +568,7 @@
       </button>
 
       <!-- Line Height Toggle -->
-      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 精簡)">
+      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 緊湊)">
         ↕ <span id="line-height-label">行距</span>
       </button>
 
@@ -492,6 +587,29 @@
       <button class="btn-icon" id="font-inc-btn" title="放大字級">A+</button>
     </div>
   </header>
+
+  <!-- In-Page Search Bar Dropdown -->
+  <div class="inpage-search-bar" id="inpage-search-bar">
+    <div class="inpage-search-input-wrapper">
+      <input type="text" id="inpage-search-input" class="inpage-search-input" placeholder="🔍 搜尋本書內文關鍵字 (按 Enter 尋找下一處，Esc 關閉)...">
+      <button class="inpage-search-clear" id="inpage-search-clear" title="清空">✕</button>
+    </div>
+    <span class="inpage-search-count" id="inpage-search-count">0 / 0</span>
+    <div class="search-nav-btns">
+      <button class="btn-icon" id="inpage-search-prev" title="上一處 (Shift+Enter)">▲</button>
+      <button class="btn-icon" id="inpage-search-next" title="下一處 (Enter)">▼</button>
+      <button class="btn-icon" id="inpage-search-close" title="關閉搜尋 (Esc)">✕</button>
+    </div>
+  </div>
+
+  <!-- In-Page Search Results Drawer -->
+  <div class="inpage-search-drawer" id="inpage-search-drawer">
+    <div class="inpage-search-drawer-header">
+      <span>搜尋結果清單</span>
+      <button class="btn-icon" id="inpage-drawer-close" style="padding: 2px 6px;">✕</button>
+    </div>
+    <div class="inpage-search-drawer-list" id="inpage-search-drawer-list"></div>
+  </div>
 
   <div class="backdrop" id="backdrop"></div>
 
@@ -518,6 +636,7 @@
         <header class="book-hero">
           <h1>Four Thousand Weeks by Oliver Burkeman _ Free Summary Audiobook</h1>
           <div class="book-meta-chips">
+            <span class="meta-chip cat-badge">🧠 哲學與思辨</span>
             <span class="meta-chip">🏷️ 時長：00:23:19</span>
 <span class="meta-chip">🏷️ 模型：small.en</span>
 <span class="meta-chip">🏷️ 日期：2026-09-22</span>
@@ -525,7 +644,7 @@
         </header>
 
         <!-- Transcript Content -->
-        <div class="book-body">
+        <div class="book-body" id="book-body">
           
         <section class="transcript-section" id="sec-000000">
           <div class="section-header">
@@ -534,8 +653,9 @@
           </div>
           <div class="section-body">
             <p class="prose-p">The average human lifespan is abysmally brief. Living to be eighty years old gives you around four thousand weeks. It’s no secret that time is one of our most precious resources. Today, many of us are haunted by the feeling that we should be more productive, more efficient, or devoting our time to something else entirely.</p>
-<p class="prose-p">The truth is that our obsession with productivity is taking a toll. Instead of reaching a perfect state of efficiency, life hacks and time management techniques leave us feeling stressed and empty. In this summary, you’ll discover ideas about time and time management that encourage you to let go of traditional approaches and embrace the joy of finitude.</p>
-<h4 class="section-subhead">Chapter 1 You’ll Never Be Able to Master Your Time For most of human history, people have wanted to be rich so that they wouldn’t have to work as hard.</h4>
+<p class="prose-p">The truth is that our obsession with productivity is taking a toll. Instead of reaching a perfect state of efficiency, life hacks and time management techniques leave us feeling stressed and empty. In this summary, you’ll discover ideas about time and time management that encourage you to let go of traditional approaches and embrace the joy of finitude.
+
+#### Chapter 1 You’ll Never Be Able to Master Your Time For most of human history, people have wanted to be rich so that they wouldn’t have to work as hard.</p>
 <p class="prose-p">But in recent years, being busy has become a lauded life choice known as hustle. Research shows that the wealthier you are, the more likely you are to be anxious about not having enough time to get everything done. And our capitalist economy is to blame. Capitalism drives us to leverage our time, abilities, and resources in order to reap the greatest profit.</p>
 <p class="prose-p">In the process, many wealthy people achieve success at the cost of living a meaningful life. Meanwhile, the gig economy has forced those less fortunate to work multiple jobs with little financial security. Of course, being too busy isn’t everybody’s problem. But for those of us who are obsessed with filling every waking moment with productivity, it’s time we took a deeper look at this desire.</p>
 <p class="prose-p">The key message here is, you’ll never be able to master your time. As a self-proclaimed productivity nut, the author spent years attempting to optimize his time management skills. He bought expensive notepads, experimented with techniques like scheduling his day in 15-minute blocks, and sorted his life into A, B, and C priorities. These methods made him feel like he was always on the brink of mastering his productivity.</p>
@@ -559,20 +679,21 @@
           </div>
           <div class="section-body">
             <p class="prose-p">In the modern era, people began to understand history as always moving toward an idealized future. With the shift from religion at the heart of meaning and the rise of skepticism about an afterlife, people began to occupy themselves with making the most of their limited time on earth. Secular thought wasn’t the only variable in our modern way of thinking about time. The development of clocks also played a role in our modern time-related troubles.</p>
-<p class="prose-p">Mechanical clocks are widely believed to have been invented by medieval monks who needed to tell the time in order to chant morning prayers before sunrise. But clocks became particularly important during the development of modern industrial labor. While laborers had once been paid for vaguely defined terms like a day’s work, during the Industrial Revolution, factory owners began paying their employees by the hour so as to increase their profits. As a result, time slowly transformed from concept to resource something to be used rather than the stuff life was made of.</p>
-<h4 class="section-subhead">Chapter 3 By Facing Our Finitude, We Can Cultivate a Fulfilling Life Any inquiry into time would be incomplete without considering the work of the German philosopher Martin Heidegger.</h4>
+<p class="prose-p">Mechanical clocks are widely believed to have been invented by medieval monks who needed to tell the time in order to chant morning prayers before sunrise. But clocks became particularly important during the development of modern industrial labor. While laborers had once been paid for vaguely defined terms like a day’s work, during the Industrial Revolution, factory owners began paying their employees by the hour so as to increase their profits. As a result, time slowly transformed from concept to resource something to be used rather than the stuff life was made of.
+
+#### Chapter 3 By Facing Our Finitude, We Can Cultivate a Fulfilling Life Any inquiry into time would be incomplete without considering the work of the German philosopher Martin Heidegger.</p>
 <p class="prose-p">In his magnum opus Being in Time, Heidegger argues that our finite human existence is bound with time. In other words, we are the limited time that we spend on this planet. Our finitude defines our existence. Unfortunately, most of us spend our time avoiding or denying this fact.</p>
 <p class="prose-p">Heidegger calls this falling. Some of us avoid the idea of finitude by seeking distractions or losing ourselves in the daily grind. Others take comfort with the belief that they don’t have to choose what to do at all. These people follow a prescriptive existence by getting married or remaining in a soul-destroying job.</p>
 <p class="prose-p">So what should you do if you want to live an authentic life? According to Heidegger, you have to face up to your limitations. This is the key message. By facing our finitude, we can cultivate a fulfilling life.</p>
 <p class="prose-p">The realization that your time on Earth is limited doesn’t have to be a morbid thought. Every year, the contemporary Swedish philosopher Martin Haglund spends his summer vacation with his extended family on Sweden’s Baltic coast. The key to the Joy Haglund experiences during these vacations is that they’re limited. Since Haglund doesn’t believe in eternity, he knows that he won’t be able to enjoy these vacations forever.</p>
 <p class="prose-p">His relationships with his family members who attend are bound by their mortality. And even the coastline where the vacations take place is temporary due to the retreating glaciers in the region. Embracing finitude shouldn’t be about feeling stressed about mortality. From another perspective, it’s miraculous that you have any time at all.</p>
 <p class="prose-p">This was something that the Canadian writer David Kane realized when a mass shooting occurred on Danforth Avenue in Toronto just two weeks after he attended an event at the site. Kane realized that there was no cosmic law guaranteeing his survival. Of course, the author doesn’t spend every waking moment contemplating his mortality. According to Heidegger, embracing finitude means realizing that every choice about what to do with your time requires sacrifices.</p>
-<p class="prose-p">But rather than feeling defeated that you can’t accomplish everything, your choices could symbolize a commitment to choosing what matters most to you whether you’re foregoing other options to support your family, watch a sunset, or write a novel.</p>
-<h4 class="section-subhead">Chapter 4 Become a Better Procrastinator by Prioritizing Limited Goals.</h4>
-<p class="prose-p">Philosophers like Heidegger who have written about finitude tend to avoid giving practical advice about time management for fear of wandering too close to the self-help genre. But by considering Heidegger’s idea that deciding what we don’t want to spend time on is a core challenge, we can draw some conclusions. In short, we need to improve our ability to procrastinate. Many of us reprimand ourselves for our tendency to procrastinate.</p>
-<p class="prose-p">But procrastination is a human tendency and is inevitable. To become better procrastinators, it’s time to shift our focus from attempting to get everything done to prioritizing what matters most. The key message here? Become a better procrastinator by prioritizing limited goals.</p>
-<p class="prose-p">The first principle to becoming a better procrastinator is by paying yourself first with your time. Say you have a task that is very important to you. This could be a creative project or even developing a relationship you haven’t had the time for. Instead of waiting for a moment when you have time to do it, actively make time in your schedule.</p>
-<p class="prose-p">You might try working on a project</p>
+<p class="prose-p">But rather than feeling defeated that you can’t accomplish everything, your choices could symbolize a commitment to choosing what matters most to you whether you’re foregoing other options to support your family, watch a sunset, or write a novel.
+
+#### Chapter 4 Become a Better Procrastinator by Prioritizing Limited Goals. Philosophers like Heidegger who have written about finitude tend to avoid giving practical advice about time management for fear of wandering too close to the self-help genre. But by considering Heidegger’s idea that deciding what we don’t want to spend time on is a core challenge, we can draw some conclusions.</p>
+<p class="prose-p">In short, we need to improve our ability to procrastinate. Many of us reprimand ourselves for our tendency to procrastinate. But procrastination is a human tendency and is inevitable. To become better procrastinators, it’s time to shift our focus from attempting to get everything done to prioritizing what matters most.</p>
+<p class="prose-p">The key message here? Become a better procrastinator by prioritizing limited goals. The first principle to becoming a better procrastinator is by paying yourself first with your time. Say you have a task that is very important to you.</p>
+<p class="prose-p">This could be a creative project or even developing a relationship you haven’t had the time for. Instead of waiting for a moment when you have time to do it, actively make time in your schedule. You might try working on a project</p>
           </div>
         </section>
         
@@ -585,13 +706,14 @@
           <div class="section-body">
             <p class="prose-p">for the first hour after you wake up or scheduling time in your calendar. The second principle is limiting your works in progress. When considering what you want to accomplish, it might be tempting to start a slew of new projects simultaneously. But by having multiple projects on your plate, what tends to happen is that you jump from one to another whenever one project becomes difficult or boring.</p>
 <p class="prose-p">As a result, you never finish what’s important to you. Tackling one project at a time forces you to break it down into smaller tasks. On any given day, you’ll only be completing a few items while working up to your goal. The final principle is to avoid second tier priorities.</p>
-<p class="prose-p">Whether we like it or not, we simply don’t have time to accomplish everything we want to do. Whether it’s a friendship you only somewhat enjoy or a semi-interesting job opportunity, learn how to say no to some of the things you might want to do. If an activity isn’t in your top five things you want to get out of life, it might be in your best interest to avoid it.</p>
-<h4 class="section-subhead">Chapter 5 There’s more to your distractions than meets the eye.</h4>
-<p class="prose-p">Even if you live to be eighty, you won’t really have four thousand weeks. Life is filled with all kinds of unexpected events. And we also tend to get distracted. Philosophers since the time of the ancient Greeks have been concerned about the human proclivity toward distraction.</p>
-<p class="prose-p">Their chief concern has been the fact that our reality is defined by our attention. Of course, achieving complete control over your attention is impossible and undesirable. According to neuroscientists, involuntary attention is crucial to our survival. It enables us to move out of the way of an approaching bus.</p>
-<p class="prose-p">At the same time, to accomplish our goals, we need to master a certain level of focus. Here’s the key message, there’s more to your distractions than meets the eye. Today, the most obvious distractions we face come from digital technologies. By now, many of us are aware that technology companies profit from capturing and tracking our attention and selling our data to advertisers.</p>
-<p class="prose-p">Companies achieve this through persuasive design which keeps us addicted to our screens. But the danger with technology isn’t just that it wastes the time we spend on it. Social media also distorts our perceptions of the world. Technology influences our ideas about what’s important, the threats we face, and our political opponents.</p>
-<p class="prose-p">This has a tangible effect on how we behave offline. The author was an avid Twitter user until he realized that technology was taking a toll even after he’d signed off for the day. After his child was born, he’d speculate how to describe his son’s adorable behavior in a tweet instead of cherishing moments together. But technology alone isn’t to blame for our tendency to become distracted.</p>
+<p class="prose-p">Whether we like it or not, we simply don’t have time to accomplish everything we want to do. Whether it’s a friendship you only somewhat enjoy or a semi-interesting job opportunity, learn how to say no to some of the things you might want to do. If an activity isn’t in your top five things you want to get out of life, it might be in your best interest to avoid it.
+
+#### Chapter 5 There’s more to your distractions than meets the eye. Even if you live to be eighty, you won’t really have four thousand weeks.</p>
+<p class="prose-p">Life is filled with all kinds of unexpected events. And we also tend to get distracted. Philosophers since the time of the ancient Greeks have been concerned about the human proclivity toward distraction. Their chief concern has been the fact that our reality is defined by our attention.</p>
+<p class="prose-p">Of course, achieving complete control over your attention is impossible and undesirable. According to neuroscientists, involuntary attention is crucial to our survival. It enables us to move out of the way of an approaching bus. At the same time, to accomplish our goals, we need to master a certain level of focus.</p>
+<p class="prose-p">Here’s the key message, there’s more to your distractions than meets the eye. Today, the most obvious distractions we face come from digital technologies. By now, many of us are aware that technology companies profit from capturing and tracking our attention and selling our data to advertisers. Companies achieve this through persuasive design which keeps us addicted to our screens.</p>
+<p class="prose-p">But the danger with technology isn’t just that it wastes the time we spend on it. Social media also distorts our perceptions of the world. Technology influences our ideas about what’s important, the threats we face, and our political opponents. This has a tangible effect on how we behave offline.</p>
+<p class="prose-p">The author was an avid Twitter user until he realized that technology was taking a toll even after he’d signed off for the day. After his child was born, he’d speculate how to describe his son’s adorable behavior in a tweet instead of cherishing moments together. But technology alone isn’t to blame for our tendency to become distracted.</p>
 <p class="prose-p">The truth is that doing what matters to us can cause unexpected discomfort. If you were trying to write a book in a remote cabin, you’d likely still find it painful or boring to focus entirely on your project. You might avoid work with a nap or by daydreaming. The reason that doing the work you enjoy can cause discomfort is that when you focus on an activity that actually matters, it forces you to face your limitations.</p>
 <p class="prose-p">You might find that you don’t have the talent to pull off a creative project. And so you tend to avoid these realities by succumbing to distractions. By becoming aware of this predicament, you can work through your discomfort instead of giving in to every resistant impulse. Have you ever felt like tasks always take longer than planned?</p>
 <p class="prose-p">The cognitive scientist Douglas Hofstadter realized this phenomenon and gave it a name, Hofstadter’s Law. According to this law, if you try to give yourself extra time to account for running overtime, you’ll still end up running over your new estimated time. Hofstadter proclaimed his law somewhat in jest. But if you’ve ever tried to plan a project, you know its principle tends to be true.</p>
@@ -610,15 +732,17 @@
             <p class="prose-p">Obsessive planning isn’t the only way that we tend to live in the future. Many of us are susceptible to something the author refers to as the when I finally mindset. We tell ourselves that when we finally meet the perfect significant other, tackle our mental health issues, or manage our workload, life will finally begin. Our present moment is perpetually striving towards some idealized future state.</p>
 <p class="prose-p">Of course, someone living from paycheck to paycheck and aspiring to a better job isn’t to blame for wanting a better future for themselves. But the rest of us might do ourselves a favor by attempting to live in the present moment instead of living for the future. If you’ve ever attempted to live in the present moment, you’ll know that it’s easier said than done. In Zen and the Art of Motorcycle Maintenance, author Robert Persig recalls one moment of viewing the much photographed Crater Lake in Oregon.</p>
 <p class="prose-p">Standing in front of the collapsed prehistoric volcano, Persig couldn’t help but feel distant from the moment. The beauty of the site is eclipsed by the fact that it’s become an acclaimed tourist attraction. As a result, the experience of living in the moment was obscured. Instead of berating yourself for not being able to enjoy the present moment enough, try simply acknowledging the fact that you’re always living in the present moment.</p>
-<p class="prose-p">You can’t succeed or fail at living in the present moment because, whether you like it or not, the present moment is all that exists.</p>
-<h4 class="section-subhead">Chapter 7 Take Up Hobbies or Spend Time with Family and Friends to Reap the Benefits of Leisure Time In his 1962 book The Decline of Pleasure, the critic Walter Kern noted our increasing tendency to fill our free time with productive activities.</h4>
-<p class="prose-p">We party to expand our network or spend a weekend at home to renovate the house. But increasingly, we fail to find the time to relax. The decline of leisure was a byproduct of the Industrial Revolution. Factory owners encouraged workers to use their time off in ways that would enhance their productivity at work.</p>
-<p class="prose-p">This was, ironically, exacerbated by labor reformers and union leaders who argued that workers would use their additional free time to improve themselves through education or cultural activities. This idea of spending our free time well continues to grip us today. To reap the pleasure of experience fully, it’s about time that we redefined our approach to leisure. The key message here is, take up hobbies or spend time with family and friends to reap the benefits of leisure time.</p>
-<p class="prose-p">These days, having a hobby can be somewhat embarrassing. Calling something a hobby tends to imply that you’re an amateur. It’s much more fashionable to pack in a side hustle or an activity that’s intended to bring profit. But having a hobby can enrich your life precisely because it’s done simply for the sake of pleasure.</p>
-<p class="prose-p">Giving yourself permission to be mediocre at something can be liberating. For over two decades, the British rock star Rod Stewart has enjoyed building a model railway of a 1940s American urban landscape. Clearly, Stewart’s motive with the project wasn’t to boost his brand. And he wasn’t especially gifted at creating models.</p>
+<p class="prose-p">You can’t succeed or fail at living in the present moment because, whether you like it or not, the present moment is all that exists.
+
+#### Chapter 7 Take Up Hobbies or Spend Time with Family and Friends to Reap the Benefits of Leisure Time In his 1962 book The Decline of Pleasure, the critic Walter Kern noted our increasing tendency to fill our free time with productive activities. We party to expand our network or spend a weekend at home to renovate the house.</p>
+<p class="prose-p">But increasingly, we fail to find the time to relax. The decline of leisure was a byproduct of the Industrial Revolution. Factory owners encouraged workers to use their time off in ways that would enhance their productivity at work. This was, ironically, exacerbated by labor reformers and union leaders who argued that workers would use their additional free time to improve themselves through education or cultural activities.</p>
+<p class="prose-p">This idea of spending our free time well continues to grip us today. To reap the pleasure of experience fully, it’s about time that we redefined our approach to leisure. The key message here is, take up hobbies or spend time with family and friends to reap the benefits of leisure time. These days, having a hobby can be somewhat embarrassing.</p>
+<p class="prose-p">Calling something a hobby tends to imply that you’re an amateur. It’s much more fashionable to pack in a side hustle or an activity that’s intended to bring profit. But having a hobby can enrich your life precisely because it’s done simply for the sake of pleasure. Giving yourself permission to be mediocre at something can be liberating.</p>
+<p class="prose-p">For over two decades, the British rock star Rod Stewart has enjoyed building a model railway of a 1940s American urban landscape. Clearly, Stewart’s motive with the project wasn’t to boost his brand. And he wasn’t especially gifted at creating models.</p>
 <p class="prose-p">In fact, he hired someone to do the electrical wiring. Hobbies can enrich your experience. But when pondering what to do with your leisure time, you might consider spending time with others. A study in Sweden found that antidepressant sales fell at a greater rate when more people were on holiday.</p>
-<p class="prose-p">In other words, Swedish people were the most content when they were able to share their time off with others. These findings have significant implications for being a digital nomad to the lifestyle in which people increasingly eschew stuffy offices to run internet companies from their laptops. While digital nomads are free to lay back in idyllic locations such as Thailand or Guatemala, increasingly many are realizing that traveling alone can be lonely.</p>
-<h4 class="section-subhead">Chapter 8 Practice Cosmic Insignificance Therapy Instead of Worrying About Your Life’s Purpose One day, flying above the American Midwest during a business trip, the vice president of a medical instruments company had an epiphany that she hated her life.</h4>
+<p class="prose-p">In other words, Swedish people were the most content when they were able to share their time off with others. These findings have significant implications for being a digital nomad to the lifestyle in which people increasingly eschew stuffy offices to run internet companies from their laptops. While digital nomads are free to lay back in idyllic locations such as Thailand or Guatemala, increasingly many are realizing that traveling alone can be lonely.
+
+#### Chapter 8 Practice Cosmic Insignificance Therapy Instead of Worrying About Your Life’s Purpose One day, flying above the American Midwest during a business trip, the vice president of a medical instruments company had an epiphany that she hated her life.</p>
 <p class="prose-p">Although she used to feel passionate about her work, it had ceased to feel meaningful. Now she’s simply clung onto the hope that her hard work might lead to happiness down the line. Finding yourself doubting how you spend your days can be deeply unsettling. But it’s a necessary first step toward building a fulfilling life.</p>
 <p class="prose-p">Which leads us to a fundamental question about time management. How do we make the time we have count? The Key Message Practice Cosmic Insignificance Therapy Instead</p>
           </div>
@@ -810,6 +934,204 @@
 
     document.getElementById('scroll-top-btn').addEventListener('click', () => {
       window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    // ==========================================
+    // IN-PAGE CONTENT SEARCH (單書全文搜尋)
+    // ==========================================
+    const searchBar = document.getElementById('inpage-search-bar');
+    const searchInput = document.getElementById('inpage-search-input');
+    const searchCount = document.getElementById('inpage-search-count');
+    const searchDrawer = document.getElementById('inpage-search-drawer');
+    const searchDrawerList = document.getElementById('inpage-search-drawer-list');
+    const searchToggleBtn = document.getElementById('search-toggle-btn');
+    const searchClearBtn = document.getElementById('inpage-search-clear');
+    const searchPrevBtn = document.getElementById('inpage-search-prev');
+    const searchNextBtn = document.getElementById('inpage-search-next');
+    const searchCloseBtn = document.getElementById('inpage-search-close');
+    const drawerCloseBtn = document.getElementById('inpage-drawer-close');
+
+    let searchMatches = [];
+    let currentMatchIdx = -1;
+
+    // Cache original innerHTML for clean resets
+    const rawParagraphs = Array.from(document.querySelectorAll('.section-body p')).map(p => ({
+      el: p,
+      rawHtml: p.innerHTML,
+      rawText: p.textContent
+    }));
+
+    function openSearch() {
+      searchBar.classList.add('active');
+      searchInput.focus();
+      searchInput.select();
+      if (searchInput.value.trim()) {
+        performSearch(searchInput.value.trim());
+      }
+    }
+
+    function closeSearch() {
+      searchBar.classList.remove('active');
+      searchDrawer.classList.remove('active');
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchCount.textContent = '0 / 0';
+    }
+
+    function clearHighlights() {
+      rawParagraphs.forEach(item => {
+        item.el.innerHTML = item.rawHtml;
+      });
+    }
+
+    function escapeRegex(str) {
+      return str.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+    }
+
+    function escapeHtml(str) {
+      return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+
+    function performSearch(query) {
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchDrawerList.innerHTML = '';
+
+      if (!query || query.trim().length === 0) {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+        return;
+      }
+
+      query = query.trim();
+      const qLower = query.toLowerCase();
+      const regex = new RegExp(`(${escapeRegex(query)})`, 'gi');
+
+      rawParagraphs.forEach((item, pIdx) => {
+        if (item.rawText.toLowerCase().includes(qLower)) {
+          const sec = item.el.closest('.transcript-section');
+          const secTime = sec ? (sec.querySelector('.section-time')?.textContent || '') : '';
+          const secId = sec ? sec.id : '';
+
+          // Apply highlight
+          item.el.innerHTML = item.rawHtml.replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const marks = Array.from(item.el.querySelectorAll('mark.search-highlight'));
+          marks.forEach(mark => {
+            searchMatches.push({
+              mark,
+              el: item.el,
+              secTime,
+              secId
+            });
+          });
+
+          // Snippet creation
+          const matchPos = item.rawText.toLowerCase().indexOf(qLower);
+          const start = Math.max(0, matchPos - 30);
+          const end = Math.min(item.rawText.length, matchPos + query.length + 50);
+          const snippetText = item.rawText.slice(start, end);
+          const snippetHtml = escapeHtml(snippetText).replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const card = document.createElement('div');
+          card.className = 'search-result-item';
+          card.innerHTML = `
+            <div class="search-result-time">${secTime}</div>
+            <div class="search-result-snippet">...${snippetHtml}...</div>
+          `;
+          card.addEventListener('click', () => {
+            const targetIdx = searchMatches.findIndex(m => m.mark === marks[0]);
+            if (targetIdx >= 0) goToMatch(targetIdx);
+          });
+          searchDrawerList.appendChild(card);
+        }
+      });
+
+      if (searchMatches.length > 0) {
+        searchDrawer.classList.add('active');
+        goToMatch(0);
+      } else {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+      }
+    }
+
+    function goToMatch(idx) {
+      if (idx < 0 || idx >= searchMatches.length) return;
+      if (currentMatchIdx >= 0 && searchMatches[currentMatchIdx]) {
+        searchMatches[currentMatchIdx].mark.classList.remove('active-match');
+      }
+      currentMatchIdx = idx;
+      const target = searchMatches[currentMatchIdx];
+      target.mark.classList.add('active-match');
+      searchCount.textContent = `${currentMatchIdx + 1} / ${searchMatches.length}`;
+
+      // Highlight active drawer item
+      const drawerItems = searchDrawerList.querySelectorAll('.search-result-item');
+      drawerItems.forEach(di => di.classList.remove('active'));
+
+      target.mark.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+
+    searchToggleBtn.addEventListener('click', () => {
+      if (searchBar.classList.contains('active')) {
+        closeSearch();
+      } else {
+        openSearch();
+      }
+    });
+
+    let debounceTimer;
+    searchInput.addEventListener('input', (e) => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => {
+        performSearch(e.target.value);
+      }, 200);
+    });
+
+    searchClearBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      performSearch('');
+      searchInput.focus();
+    });
+
+    searchNextBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const nextIdx = (currentMatchIdx + 1) % searchMatches.length;
+      goToMatch(nextIdx);
+    });
+
+    searchPrevBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const prevIdx = (currentMatchIdx - 1 + searchMatches.length) % searchMatches.length;
+      goToMatch(prevIdx);
+    });
+
+    searchInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        if (e.shiftKey) {
+          searchPrevBtn.click();
+        } else {
+          searchNextBtn.click();
+        }
+      } else if (e.key === 'Escape') {
+        closeSearch();
+      }
+    });
+
+    searchCloseBtn.addEventListener('click', closeSearch);
+    drawerCloseBtn.addEventListener('click', () => searchDrawer.classList.remove('active'));
+
+    window.addEventListener('keydown', (e) => {
+      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'f') {
+        e.preventDefault();
+        openSearch();
+      } else if (e.key === 'Escape') {
+        if (searchBar.classList.contains('active')) closeSearch();
+      }
     });
   </script>
 </body>

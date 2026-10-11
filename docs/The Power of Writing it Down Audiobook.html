@@ -66,26 +66,12 @@
       --card-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
     }
 
-    [data-line-height="compact"] {
-      --line-height: 1.68;
-    }
-    [data-line-height="normal"] {
-      --line-height: 1.88;
-    }
-    [data-line-height="loose"] {
-      --line-height: 2.12;
-    }
+    [data-line-height="compact"] { --line-height: 1.68; }
+    [data-line-height="normal"] { --line-height: 1.88; }
+    [data-line-height="loose"] { --line-height: 2.12; }
 
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
-    html {
-      scroll-behavior: smooth;
-    }
-
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
     body {
       font-family: var(--font-family);
       font-size: var(--font-size);
@@ -119,7 +105,7 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 0 20px;
+      padding: 0 18px;
       background-color: var(--bg-header);
       backdrop-filter: blur(8px);
       -webkit-backdrop-filter: blur(8px);
@@ -129,7 +115,7 @@
     .header-left, .header-right {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 8px;
       flex-wrap: nowrap;
     }
 
@@ -138,7 +124,7 @@
       border: 1px solid var(--border-color);
       color: var(--text-primary);
       cursor: pointer;
-      font-size: 14px;
+      font-size: 13.5px;
       padding: 6px 10px;
       border-radius: 8px;
       display: inline-flex;
@@ -147,6 +133,7 @@
       transition: all 0.2s;
       white-space: nowrap;
       user-select: none;
+      text-decoration: none;
     }
     .btn-icon:hover {
       background-color: var(--accent-light);
@@ -161,11 +148,132 @@
       font-size: 14px;
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
+    }
+    .home-link:hover { color: var(--accent-color); }
+
+    /* In-Page Search Bar Dropdown */
+    .inpage-search-bar {
+      position: sticky;
+      top: 60px;
+      z-index: 890;
+      background-color: var(--bg-surface);
+      border-bottom: 1px solid var(--border-color);
+      padding: 10px 18px;
+      display: none;
+      align-items: center;
+      gap: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    }
+    .inpage-search-bar.active { display: flex; }
+
+    .inpage-search-input-wrapper {
+      flex: 1;
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    .inpage-search-input {
+      width: 100%;
+      padding: 8px 36px 8px 12px;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      font-size: 14px;
+    }
+    .inpage-search-input:focus { outline: 2px solid var(--accent-color); }
+
+    .inpage-search-clear {
+      position: absolute;
+      right: 10px;
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 16px;
     }
 
-    .home-link:hover {
+    .inpage-search-count {
+      font-size: 13px;
+      color: var(--text-secondary);
+      font-family: monospace;
+      white-space: nowrap;
+    }
+    .search-nav-btns { display: flex; gap: 6px; }
+
+    /* In-Page Search Results Drawer */
+    .inpage-search-drawer {
+      position: fixed;
+      right: 20px;
+      top: 120px;
+      width: 360px;
+      max-height: calc(100vh - 160px);
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+      z-index: 895;
+      display: none;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .inpage-search-drawer.active { display: flex; }
+    .inpage-search-drawer-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-weight: 600;
+      font-size: 14px;
+    }
+    .inpage-search-drawer-list {
+      overflow-y: auto;
+      padding: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .search-result-item {
+      padding: 10px 12px;
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+      background: var(--bg-primary);
+      cursor: pointer;
+      font-size: 13px;
+      transition: all 0.15s;
+    }
+    .search-result-item:hover, .search-result-item.active {
+      border-color: var(--accent-color);
+      background: var(--accent-light);
+    }
+    .search-result-time {
+      font-weight: 700;
       color: var(--accent-color);
+      font-family: monospace;
+      margin-bottom: 4px;
+    }
+    .search-result-snippet {
+      color: var(--text-primary);
+      line-height: 1.5;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    /* Highlight mark */
+    mark.search-highlight {
+      background-color: #fef08a;
+      color: #1f2937;
+      padding: 1px 3px;
+      border-radius: 3px;
+    }
+    mark.search-highlight.active-match {
+      background-color: #f97316;
+      color: #ffffff;
+      outline: 2px solid #ea580c;
     }
 
     /* Layout Wrapper */
@@ -212,9 +320,7 @@
       font-size: 13px;
       margin-bottom: 14px;
     }
-    .toc-search:focus {
-      outline: 2px solid var(--accent-color);
-    }
+    .toc-search:focus { outline: 2px solid var(--accent-color); }
 
     .toc-list {
       list-style: none;
@@ -237,12 +343,10 @@
       overflow: hidden;
       text-overflow: ellipsis;
     }
-
     .toc-item a:hover {
       background-color: var(--accent-light);
       color: var(--accent-color);
     }
-
     .toc-item.active a {
       background-color: var(--accent-color);
       color: #ffffff;
@@ -257,19 +361,17 @@
       display: flex;
       justify-content: center;
     }
-
     .reader-container {
       width: 100%;
       max-width: var(--content-max-width);
     }
 
-    /* Book Hero / Header */
+    /* Book Hero */
     .book-hero {
       margin-bottom: 40px;
       padding-bottom: 24px;
       border-bottom: 2px solid var(--border-color);
     }
-
     .book-hero h1 {
       font-size: 2.1em;
       line-height: 1.35;
@@ -285,7 +387,6 @@
       gap: 10px;
       margin-top: 14px;
     }
-
     .meta-chip {
       display: inline-flex;
       align-items: center;
@@ -297,8 +398,13 @@
       font-size: 13px;
       font-weight: 500;
     }
+    .meta-chip.cat-badge {
+      background-color: #3b82f622;
+      color: #3b82f6;
+      font-weight: 600;
+    }
 
-    /* Content Typography & Enhanced Paragraphs */
+    /* Content Typography */
     .transcript-section {
       margin-bottom: 50px;
       scroll-margin-top: 80px;
@@ -349,25 +455,22 @@
       letter-spacing: 0.015em;
     }
 
-    /* Indented paragraph style (Traditional) */
+    /* Indented paragraph style */
     [data-p-style="indent"] .section-body p {
       text-indent: 2em;
       margin-bottom: 1.15em;
       line-height: var(--line-height);
     }
 
-    /* Block paragraph style (Modern with whitespace) */
+    /* Block paragraph style */
     [data-p-style="block"] .section-body p {
       text-indent: 0;
       margin-bottom: 1.55em;
       line-height: var(--line-height);
     }
+    .section-body p:last-child { margin-bottom: 0; }
 
-    .section-body p:last-child {
-      margin-bottom: 0;
-    }
-
-    /* Floating Navigation Controls */
+    /* Floating Tools */
     .floating-tools {
       position: fixed;
       bottom: 24px;
@@ -377,7 +480,6 @@
       gap: 10px;
       z-index: 800;
     }
-
     .float-btn {
       width: 44px;
       height: 44px;
@@ -399,7 +501,6 @@
       color: var(--accent-color);
     }
 
-    /* Overlay for mobile drawer */
     .backdrop {
       display: none;
       position: fixed;
@@ -419,36 +520,22 @@
         transform: translateX(-100%);
         box-shadow: 4px 0 16px rgba(0,0,0,0.15);
       }
-
-      .sidebar.open {
-        transform: translateX(0);
-      }
-
-      .backdrop.open {
-        display: block;
+      .sidebar.open { transform: translateX(0); }
+      .backdrop.open { display: block; }
+      .inpage-search-drawer {
+        left: 20px;
+        right: 20px;
+        width: auto;
       }
     }
 
     @media (max-width: 640px) {
-      :root {
-        --font-size: 17px;
-      }
-      .main-content {
-        padding: 24px 16px 60px 16px;
-      }
-      .book-hero h1 {
-        font-size: 1.55em;
-      }
-      .top-header {
-        padding: 0 10px;
-      }
-      .btn-icon {
-        padding: 5px 8px;
-        font-size: 13px;
-      }
-      [data-p-style="indent"] .section-body p {
-        text-indent: 1.5em;
-      }
+      :root { --font-size: 17px; }
+      .main-content { padding: 24px 16px 60px 16px; }
+      .book-hero h1 { font-size: 1.55em; }
+      .top-header { padding: 0 10px; }
+      .btn-icon { padding: 5px 7px; font-size: 12.5px; }
+      [data-p-style="indent"] .section-body p { text-indent: 1.5em; }
     }
   </style>
 </head>
@@ -464,6 +551,14 @@
       <a href="index.html" class="home-link" title="返回書架">
         🏠 書架
       </a>
+      <!-- Search Inside Book Button -->
+      <button class="btn-icon" id="search-toggle-btn" title="搜尋本書內文 (Ctrl+F)">
+        🔍 <span>搜尋內文</span>
+      </button>
+      <!-- Global Search Link -->
+      <a href="index.html?tab=search" class="btn-icon" title="前往全書庫全文檢索">
+        🌐 <span>全庫搜尋</span>
+      </a>
     </div>
 
     <div class="header-right">
@@ -473,7 +568,7 @@
       </button>
 
       <!-- Line Height Toggle -->
-      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 精簡)">
+      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 緊湊)">
         ↕ <span id="line-height-label">行距</span>
       </button>
 
@@ -492,6 +587,29 @@
       <button class="btn-icon" id="font-inc-btn" title="放大字級">A+</button>
     </div>
   </header>
+
+  <!-- In-Page Search Bar Dropdown -->
+  <div class="inpage-search-bar" id="inpage-search-bar">
+    <div class="inpage-search-input-wrapper">
+      <input type="text" id="inpage-search-input" class="inpage-search-input" placeholder="🔍 搜尋本書內文關鍵字 (按 Enter 尋找下一處，Esc 關閉)...">
+      <button class="inpage-search-clear" id="inpage-search-clear" title="清空">✕</button>
+    </div>
+    <span class="inpage-search-count" id="inpage-search-count">0 / 0</span>
+    <div class="search-nav-btns">
+      <button class="btn-icon" id="inpage-search-prev" title="上一處 (Shift+Enter)">▲</button>
+      <button class="btn-icon" id="inpage-search-next" title="下一處 (Enter)">▼</button>
+      <button class="btn-icon" id="inpage-search-close" title="關閉搜尋 (Esc)">✕</button>
+    </div>
+  </div>
+
+  <!-- In-Page Search Results Drawer -->
+  <div class="inpage-search-drawer" id="inpage-search-drawer">
+    <div class="inpage-search-drawer-header">
+      <span>搜尋結果清單</span>
+      <button class="btn-icon" id="inpage-drawer-close" style="padding: 2px 6px;">✕</button>
+    </div>
+    <div class="inpage-search-drawer-list" id="inpage-search-drawer-list"></div>
+  </div>
 
   <div class="backdrop" id="backdrop"></div>
 
@@ -585,6 +703,7 @@
         <header class="book-hero">
           <h1>The Power of Writing it Down Audiobook</h1>
           <div class="book-meta-chips">
+            <span class="meta-chip cat-badge">⚡ 習慣與生產力</span>
             <span class="meta-chip">🏷️ 時長：05:59:15</span>
 <span class="meta-chip">🏷️ 模型：small.en</span>
 <span class="meta-chip">🏷️ 日期：2026-09-22</span>
@@ -592,7 +711,7 @@
         </header>
 
         <!-- Transcript Content -->
-        <div class="book-body">
+        <div class="book-body" id="book-body">
           
         <section class="transcript-section" id="sec-000000">
           <div class="section-header">
@@ -1227,8 +1346,9 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">resilient few who discover a way to hear their own voice through the noise. And those who do will have something far better than fame or money or a platform or stage. They will have the most valuable thing this life has to offer. The only thing that can never be taken from them.</p>
-<h4 class="section-subhead">Chapter 5, Out of the Chaos.</h4>
+            <p class="prose-p">resilient few who discover a way to hear their own voice through the noise. And those who do will have something far better than fame or money or a platform or stage. They will have the most valuable thing this life has to offer. The only thing that can never be taken from them.
+
+#### Chapter 5, Out of the Chaos.</p>
 <p class="prose-p">Why making sense of your life starts with questions, not answers. Since great writing is born from great thinking, it shouldn’t surprise you that good writing always starts with good questions. We tend to write about the things that confuse us, elude us, or inspire us to think more deeply. The questions our life is asking us are almost always the questions we’re asking in our writing.</p>
 <p class="prose-p">The beauty of this is that our writing will help us find the answers. Answers which have been there all along. The clients I work with choose to write about things like what it means for a woman to have a miscarriage, how to navigate the unbearable loss of a loved one, how to get out from under mountains of debt, what to do when the system of your faith you learned growing up crumbles beneath your feet, what it might be like to have a conversation with God, or how to reclaim a sense of self after traumatic abuse.</p>
 <p class="prose-p">I recently coached a woman who was working on a book that was just taking shape. She grew up in the Mormon Church and realized during high school that she wasn’t like her peers and friends, not to mention her siblings. Now in her writing, she’ll openly say she’s gay and always has been, although getting to the place where she could use those words with her family and friends took decades. I asked her a hundred questions during our day together.</p>
@@ -1612,8 +1732,9 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">or why you’re so serious about your writing. But once you’ve tasted the freedom of space and silence and presence and voice, you never forget this is where the magic happens. This is the good stuff. A part of you is always trying to get back.</p>
-<h4 class="section-subhead">Chapter 8, right now, edit later.</h4>
+            <p class="prose-p">or why you’re so serious about your writing. But once you’ve tasted the freedom of space and silence and presence and voice, you never forget this is where the magic happens. This is the good stuff. A part of you is always trying to get back.
+
+#### Chapter 8, right now, edit later.</p>
 <p class="prose-p">A mantra to help you find joy in your writing and in your life. I had a friend who used to correct me every time I speculated about a topic. We’d be at dinner with a group of friends and someone would say something like, I wonder why they call them pot stickers? And I’d look at one I was about to shove into my mouth and say, I don’t know, maybe it has something to do with cooking them in a pot?</p>
 <p class="prose-p">I didn’t actually know the answer, I was just guessing. This friend couldn’t stand that. The idea that I could speculate about something I didn’t know for sure absolutely infuriated this person. Almost instantly, before I was even finished speaking, he would pull out his phone and find the true answer so he could correct me.</p>
 <p class="prose-p">Actually, the original Mandarin name for a pot sticker was Gyoti and off he’d go. It reminded me of the character named Oscar in the hit show The Office. Around here, Oscar is known as actually explains Jim, Oscar’s co-worker in the show, because he will insert himself into just about any conversation to add facts or correct grammar. This is the editor brain in you.</p>
@@ -1831,8 +1952,9 @@
           </div>
           <div class="section-body">
             <p class="prose-p">No matter who you are, there’s a voice inside of you that is truer than the voices you hear most of the day. It’s truer than your everyday ego, the self that judges you for not getting things quite right, the self that judges other people for not getting it quite right. There is a voice that is more trustworthy than that voice. Perhaps you’re very familiar with this voice, or perhaps you’ve had relatively little contact with this part of yourself.</p>
-<p class="prose-p">Either way, writing can help you hear the voice that can be your lifeline. Whatever you call it, it’s there for the same purpose, to guide you and comfort you. It has a wealth of wisdom and joy. Most of us are not nearly as familiar with this voice as we are with all the other voices in our life.</p>
-<h4 class="section-subhead">Chapter 10, The Passage of Time, How Long This Takes and a Call to Keep Going It was November 2016, about 10 days before the presidential election.</h4>
+<p class="prose-p">Either way, writing can help you hear the voice that can be your lifeline. Whatever you call it, it’s there for the same purpose, to guide you and comfort you. It has a wealth of wisdom and joy. Most of us are not nearly as familiar with this voice as we are with all the other voices in our life.
+
+#### Chapter 10, The Passage of Time, How Long This Takes and a Call to Keep Going It was November 2016, about 10 days before the presidential election.</p>
 <p class="prose-p">Republicans were running higher than ever as the final vote boiled down to Donald Trump and Hillary Clinton. The country was as divided as ever. Republicans were calling Hillary a liar, Democrats were calling Trump a misogynist, and the general sentiment I was hearing from many people was that it was a terrifying and uncertain time. No matter which way you hoped the vote would go, none of us could deny that things were about to be different.</p>
 <p class="prose-p">All of us held our breath and wondered what on earth was going to happen next. For months during the early primaries, my friends and I had been saying there was no way Trump would make it to the final election. So now that we had arrived, I was feeling as stunned as anyone. To add insult to injury, I was newly divorced, newly freed from what had been a controlling and abusive relationship.</p>
 <p class="prose-p">I was just barely getting my sea legs, as a friend of mine would say. All this to say, I needed Trump to not be president. I don’t mean that in a political way, although we could also have that conversation. What I mean is that I’d been traumatized by a man who’d controlled my every move and monitored every word out of my mouth and edited every word I put on paper for over four years.</p>
@@ -2012,10 +2134,10 @@
 <p class="prose-p">Where it used to feel like you didn’t know how to say what you needed to say, now you’re beginning to know. Where it once seemed like you weren’t sure what details to include and which ones to leave out, now it’s coming into focus. Where you used to feel under-motivated, now maybe you feel a spark of inspiration. Love is a complicated word, but writing to someone you love will move you in the direction of love.</p>
 <p class="prose-p">Love for yourself, love for others, love for the world. No matter what you choose, love will be what drives you. It will be what fuels you. When it’s challenging to get the words down, you’ll remember love.</p>
 <p class="prose-p">When you do this, a magical thing happens. Your writing suddenly becomes richer. You have more and better raw material to work with. You’re not stuck anymore.</p>
-<p class="prose-p">These are the beautiful, juicy, delicious ingredients of your life.</p>
-<h4 class="section-subhead">Chapter 12.</h4>
-<p class="prose-p">The ending that hasn’t been written. The myth about endings and how to get a happily ever after. There’s a moment I’ve come to expect when I’m helping a new writer outline their personal story. It happens at around three-fourths of the way through the process and it’s so predictable now that I can almost time it.</p>
-<p class="prose-p">They look at the story and they realize the ending hasn’t happened yet. You might be thinking, of course the ending hasn’t happened yet, we’re still alive. But as you write the smaller stories of your life, the story of getting fired, for example, or going through a divorce or having a baby, think about how often we quote, write the ends of the stories in our minds before they have actually been written.</p>
+<p class="prose-p">These are the beautiful, juicy, delicious ingredients of your life.
+
+#### Chapter 12. The ending that hasn’t been written. The myth about endings and how to get a happily ever after. There’s a moment I’ve come to expect when I’m helping a new writer outline their personal story.</p>
+<p class="prose-p">It happens at around three-fourths of the way through the process and it’s so predictable now that I can almost time it. They look at the story and they realize the ending hasn’t happened yet. You might be thinking, of course the ending hasn’t happened yet, we’re still alive. But as you write the smaller stories of your life, the story of getting fired, for example, or going through a divorce or having a baby, think about how often we quote, write the ends of the stories in our minds before they have actually been written.</p>
           </div>
         </section>
         
@@ -2122,8 +2244,9 @@
           <div class="section-body">
             <p class="prose-p">Or because it’s hard to hold space between questions and answers, have you written the ending before it’s happened? Have you given up on yourself? Have you decided your teammate is going to miss the shot before he’s even thrown it? If you think of your life as a story, consider that maybe all is not lost, but that you’re just standing in the all is lost moment right now.</p>
 <p class="prose-p">How does it change the way you see it? You are the only hero of your story. You are the protagonist. Only you can decide what happens next.</p>
-<p class="prose-p">I know it’s painful to sit in the middle of a story that seems like it may never resolve. I know what it feels like to believe you’ve tried everything and nothing is working. I also know you’re stronger than you ever imagined. Don’t give up and go home just yet.</p>
-<h4 class="section-subhead">Chapter 13, The Beauty of the Writing Life.</h4>
+<p class="prose-p">I know it’s painful to sit in the middle of a story that seems like it may never resolve. I know what it feels like to believe you’ve tried everything and nothing is working. I also know you’re stronger than you ever imagined. Don’t give up and go home just yet.
+
+#### Chapter 13, The Beauty of the Writing Life.</p>
 <p class="prose-p">How this tool brings more beauty, meaning, and pleasure into your life. I worked with a client named Sarah who wants to write a book. Sarah is one of the wealthiest people I’ve ever known. And yet she told me she wants to write a book so that she can finally contribute something of value.</p>
 <p class="prose-p">I couldn’t help but stop to talk about that phrase, contribute something of value. Sarah is generous with her wealth, more generous than I could ever dream to be if we’re talking about dollar amounts. I had to ask, didn’t she feel like she was already adding value? I wish I could let everyone experience the kind of wealth I’ve experienced, she said.</p>
 <p class="prose-p">It’s fine. I’m grateful for it. I love to share, but money is just money. What I really want to share with the world is a piece of myself.</p>
@@ -2204,13 +2327,13 @@
 <p class="prose-p">Over time, Beth started doing this too, writing down her thoughts and feelings about the process of finishing her last trimester and giving birth to their son. Her notes were broken fragments, and appropriately so. Our writing reflects where we are and our ability to process things. Over time, they became this little collection of memories.</p>
 <p class="prose-p">They do not bring Alex back. They do not have that power. But over time, our words do tend to bring the smallest amount of comfort in the midst of something that is otherwise comfortless. Writing isn’t for everyone in the midst of trauma and grief, but when your heart pulls you to write things down, it’s often an invitation to some measure of healing and relief.</p>
 <p class="prose-p">When the words come, the writing life draws us back in to the one thing that can never be taken away, regardless of our inexplicable losses, our voice. Writing is not a cure-all, but it does invite us to reconnect with our memory, to make meaning of our unique experience, and sometimes to speak the truth we didn’t feel we could speak anywhere else. Over time, as we metabolize, we do find a way to carry the most important pieces of our experiences with us, and to leave behind the parts that are weighing us down.</p>
-<p class="prose-p">If we’re lucky, we can even find small, unexpected bits of nourishment in a sea.</p>
-<h4 class="section-subhead">Chapter 14, The Gift You Leave Behind, How Words Make You a Person of Influence.</h4>
-<p class="prose-p">It’s crazy to think how much we try to remember that we cannot remember. Our lives pass by quickly, and most of what we do on a given day fades into the background of our brains like white noise. Can you remember what you did last Thursday? What about a year ago today?</p>
-<p class="prose-p">You might be able to take a guess at where you were, who you were with, or what general things you were doing, but do you really remember? What do you remember about your life? When was the last time you felt joyful? What about devastated?</p>
-<p class="prose-p">Research shows you’re much more likely to be able to answer the second question than the first. Negative emotions carve deep ruts in our brains, and are memorized by our bodies so that they can be replayed over and over again. Positive emotions like joy and peace and love don’t always have the same impact. Do you want to get to the end of your life and remember only the negative?</p>
-<p class="prose-p">What parts do you want to remember? What we write down is what we remember. It’s like a time capsule in that way, a lifeline back to the best parts of ourselves, a little popcorn trail of words we can follow so that we never lose sight of the path we’re on. Words help us to see ourselves more clearly.</p>
-<p class="prose-p">They help us remember who we are and what we’re here for. They help others remember us too.</p>
+<p class="prose-p">If we’re lucky, we can even find small, unexpected bits of nourishment in a sea.
+
+#### Chapter 14, The Gift You Leave Behind, How Words Make You a Person of Influence. It’s crazy to think how much we try to remember that we cannot remember. Our lives pass by quickly, and most of what we do on a given day fades into the background of our brains like white noise. Can you remember what you did last Thursday?</p>
+<p class="prose-p">What about a year ago today? You might be able to take a guess at where you were, who you were with, or what general things you were doing, but do you really remember? What do you remember about your life? When was the last time you felt joyful?</p>
+<p class="prose-p">What about devastated? Research shows you’re much more likely to be able to answer the second question than the first. Negative emotions carve deep ruts in our brains, and are memorized by our bodies so that they can be replayed over and over again. Positive emotions like joy and peace and love don’t always have the same impact.</p>
+<p class="prose-p">Do you want to get to the end of your life and remember only the negative? What parts do you want to remember? What we write down is what we remember. It’s like a time capsule in that way, a lifeline back to the best parts of ourselves, a little popcorn trail of words we can follow so that we never lose sight of the path we’re on.</p>
+<p class="prose-p">Words help us to see ourselves more clearly. They help us remember who we are and what we’re here for. They help others remember us too.</p>
           </div>
         </section>
         
@@ -2490,6 +2613,204 @@
 
     document.getElementById('scroll-top-btn').addEventListener('click', () => {
       window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    // ==========================================
+    // IN-PAGE CONTENT SEARCH (單書全文搜尋)
+    // ==========================================
+    const searchBar = document.getElementById('inpage-search-bar');
+    const searchInput = document.getElementById('inpage-search-input');
+    const searchCount = document.getElementById('inpage-search-count');
+    const searchDrawer = document.getElementById('inpage-search-drawer');
+    const searchDrawerList = document.getElementById('inpage-search-drawer-list');
+    const searchToggleBtn = document.getElementById('search-toggle-btn');
+    const searchClearBtn = document.getElementById('inpage-search-clear');
+    const searchPrevBtn = document.getElementById('inpage-search-prev');
+    const searchNextBtn = document.getElementById('inpage-search-next');
+    const searchCloseBtn = document.getElementById('inpage-search-close');
+    const drawerCloseBtn = document.getElementById('inpage-drawer-close');
+
+    let searchMatches = [];
+    let currentMatchIdx = -1;
+
+    // Cache original innerHTML for clean resets
+    const rawParagraphs = Array.from(document.querySelectorAll('.section-body p')).map(p => ({
+      el: p,
+      rawHtml: p.innerHTML,
+      rawText: p.textContent
+    }));
+
+    function openSearch() {
+      searchBar.classList.add('active');
+      searchInput.focus();
+      searchInput.select();
+      if (searchInput.value.trim()) {
+        performSearch(searchInput.value.trim());
+      }
+    }
+
+    function closeSearch() {
+      searchBar.classList.remove('active');
+      searchDrawer.classList.remove('active');
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchCount.textContent = '0 / 0';
+    }
+
+    function clearHighlights() {
+      rawParagraphs.forEach(item => {
+        item.el.innerHTML = item.rawHtml;
+      });
+    }
+
+    function escapeRegex(str) {
+      return str.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+    }
+
+    function escapeHtml(str) {
+      return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+
+    function performSearch(query) {
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchDrawerList.innerHTML = '';
+
+      if (!query || query.trim().length === 0) {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+        return;
+      }
+
+      query = query.trim();
+      const qLower = query.toLowerCase();
+      const regex = new RegExp(`(${escapeRegex(query)})`, 'gi');
+
+      rawParagraphs.forEach((item, pIdx) => {
+        if (item.rawText.toLowerCase().includes(qLower)) {
+          const sec = item.el.closest('.transcript-section');
+          const secTime = sec ? (sec.querySelector('.section-time')?.textContent || '') : '';
+          const secId = sec ? sec.id : '';
+
+          // Apply highlight
+          item.el.innerHTML = item.rawHtml.replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const marks = Array.from(item.el.querySelectorAll('mark.search-highlight'));
+          marks.forEach(mark => {
+            searchMatches.push({
+              mark,
+              el: item.el,
+              secTime,
+              secId
+            });
+          });
+
+          // Snippet creation
+          const matchPos = item.rawText.toLowerCase().indexOf(qLower);
+          const start = Math.max(0, matchPos - 30);
+          const end = Math.min(item.rawText.length, matchPos + query.length + 50);
+          const snippetText = item.rawText.slice(start, end);
+          const snippetHtml = escapeHtml(snippetText).replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const card = document.createElement('div');
+          card.className = 'search-result-item';
+          card.innerHTML = `
+            <div class="search-result-time">${secTime}</div>
+            <div class="search-result-snippet">...${snippetHtml}...</div>
+          `;
+          card.addEventListener('click', () => {
+            const targetIdx = searchMatches.findIndex(m => m.mark === marks[0]);
+            if (targetIdx >= 0) goToMatch(targetIdx);
+          });
+          searchDrawerList.appendChild(card);
+        }
+      });
+
+      if (searchMatches.length > 0) {
+        searchDrawer.classList.add('active');
+        goToMatch(0);
+      } else {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+      }
+    }
+
+    function goToMatch(idx) {
+      if (idx < 0 || idx >= searchMatches.length) return;
+      if (currentMatchIdx >= 0 && searchMatches[currentMatchIdx]) {
+        searchMatches[currentMatchIdx].mark.classList.remove('active-match');
+      }
+      currentMatchIdx = idx;
+      const target = searchMatches[currentMatchIdx];
+      target.mark.classList.add('active-match');
+      searchCount.textContent = `${currentMatchIdx + 1} / ${searchMatches.length}`;
+
+      // Highlight active drawer item
+      const drawerItems = searchDrawerList.querySelectorAll('.search-result-item');
+      drawerItems.forEach(di => di.classList.remove('active'));
+
+      target.mark.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+
+    searchToggleBtn.addEventListener('click', () => {
+      if (searchBar.classList.contains('active')) {
+        closeSearch();
+      } else {
+        openSearch();
+      }
+    });
+
+    let debounceTimer;
+    searchInput.addEventListener('input', (e) => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => {
+        performSearch(e.target.value);
+      }, 200);
+    });
+
+    searchClearBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      performSearch('');
+      searchInput.focus();
+    });
+
+    searchNextBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const nextIdx = (currentMatchIdx + 1) % searchMatches.length;
+      goToMatch(nextIdx);
+    });
+
+    searchPrevBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const prevIdx = (currentMatchIdx - 1 + searchMatches.length) % searchMatches.length;
+      goToMatch(prevIdx);
+    });
+
+    searchInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        if (e.shiftKey) {
+          searchPrevBtn.click();
+        } else {
+          searchNextBtn.click();
+        }
+      } else if (e.key === 'Escape') {
+        closeSearch();
+      }
+    });
+
+    searchCloseBtn.addEventListener('click', closeSearch);
+    drawerCloseBtn.addEventListener('click', () => searchDrawer.classList.remove('active'));
+
+    window.addEventListener('keydown', (e) => {
+      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'f') {
+        e.preventDefault();
+        openSearch();
+      } else if (e.key === 'Escape') {
+        if (searchBar.classList.contains('active')) closeSearch();
+      }
     });
   </script>
 </body>

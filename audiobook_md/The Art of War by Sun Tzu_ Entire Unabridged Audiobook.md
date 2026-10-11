@@ -29,39 +29,37 @@
 
 #### SUN TSU AND THE ART OF WAR.
 
-#### Chapter 1 Laying Plans Sun Tsu said, the art of war is of vital importance to the state.
+#### Chapter 1 Laying Plans Sun Tsu said, the art of war is of vital importance to the state. It is a matter of life and death, a road either to safety or to ruin. Hence, it is a subject of inquiry which can on no account be neglected. The art of war, then, is governed by five constant factors to be taken into account in one’s deliberations when seeking to determine the conditions obtaining in the field.
 
-It is a matter of life and death, a road either to safety or to ruin. Hence, it is a subject of inquiry which can on no account be neglected. The art of war, then, is governed by five constant factors to be taken into account in one’s deliberations when seeking to determine the conditions obtaining in the field. These are, 1.
+These are, 1. The moral law, 2. Heaven, 3. Earth, 4.
 
-The moral law, 2. Heaven, 3. Earth, 4. The commander, 5.
+The commander, 5. Method and discipline. The moral law causes the people to be in complete accord with their ruler so that they will follow him regardless of their lives, undismayed by any danger. Heaven signifies night and day, cold and heat, times and seasons.
 
-Method and discipline. The moral law causes the people to be in complete accord with their ruler so that they will follow him regardless of their lives, undismayed by any danger. Heaven signifies night and day, cold and heat, times and seasons. Earth comprises distances, great and small, danger and security, open ground and narrow passes, the chances of life and death.
+Earth comprises distances, great and small, danger and security, open ground and narrow passes, the chances of life and death. The master stands for the virtues of wisdom, sincerity, benevolence, courage and strictness. By method and discipline are to be understood the marshaling of the army in its proper subdivisions, the graduations of rank among the officers, the maintenance of roads by which supplies may reach the army, and the control of military expenditure. These five heads should be familiar to every general.
 
-The master stands for the virtues of wisdom, sincerity, benevolence, courage and strictness. By method and discipline are to be understood the marshaling of the army in its proper subdivisions, the graduations of rank among the officers, the maintenance of roads by which supplies may reach the army, and the control of military expenditure. These five heads should be familiar to every general. He who knows them will be victorious.
+He who knows them will be victorious. He who knows them not will fail.
 
-He who knows them not will fail. Therefore, in your deliberations, when seeking to determine the military conditions, let them be made the basis of a comparison. In this wise, 1. Which of the two sovereigns is imbued with the moral law? 2.
+Therefore, in your deliberations, when seeking to determine the military conditions, let them be made the basis of a comparison. In this wise, 1. Which of the two sovereigns is imbued with the moral law? 2. Which of the two generals has most ability? 3.
 
-Which of the two generals has most ability? 3. With whom led the advantages derived from heaven and earth? 4. On which side is discipline most rigorously enforced? 5. Which army is stronger? 6.
+With whom led the advantages derived from heaven and earth? 4. On which side is discipline most rigorously enforced? 5. Which army is stronger? 6. On which side are officers and men more highly trained? 7.
 
-On which side are officers and men more highly trained? 7. In which army is there the greater constancy, both in reward and punishment? By means of these seven considerations, I can forecast victory or defeat. The general that hearkens to my counsel and acts upon it will conquer.
+In which army is there the greater constancy, both in reward and punishment? By means of these seven considerations, I can forecast victory or defeat. The general that hearkens to my counsel and acts upon it will conquer. Let such a one be retained in command.
 
-Let such a one be retained in command. The general that hearkens not to my counsel nor acts upon it will suffer defeat. Let such a one be dismissed. After heeding the profit of my counsel, avail yourselves also of any helpful circumstances over and beyond the ordinary rules.
+The general that hearkens not to my counsel nor acts upon it will suffer defeat. Let such a one be dismissed. After heeding the profit of my counsel, avail yourselves also of any helpful circumstances over and beyond the ordinary rules. Accordingly, as circumstances are favorable, one should modify one’s plans.
 
-Accordingly, as circumstances are favorable, one should modify one’s plans. All warfare is based on deception. Hence, when able to attack, we must seem unable. When using our forces, we must seem inactive.
+All warfare is based on deception. Hence, when able to attack, we must seem unable. When using our forces, we must seem inactive. When we are near, we must make the enemy believe we are far away.
 
-When we are near, we must make the enemy believe we are far away. When far away, we must make him believe we are near. Hold out baits to entice the enemy, feign disorder and crush him. If he is secure at all points, be prepared for him.
+When far away, we must make him believe we are near. Hold out baits to entice the enemy, feign disorder and crush him. If he is secure at all points, be prepared for him. If he is in superior strength, evade him.
 
-If he is in superior strength, evade him. If your opponent is a calyric temper, seek to irritate him. Pretend to be weak, that he may grow arrogant. If he is taking his ease, give him no rest.
+If your opponent is a calyric temper, seek to irritate him. Pretend to be weak, that he may grow arrogant. If he is taking his ease, give him no rest. If his forces are united, separate them.
 
-If his forces are united, separate them. Attack him when he is unprepared. Appear where you are not expected. These military devices leading to victory must not be divulged beforehand.
+Attack him when he is unprepared. Appear where you are not expected. These military devices leading to victory must not be divulged beforehand.
 
 Now, the general who wins a battle makes many calculations in his temple ere the battle is fought. The general who loses a battle makes but few calculations beforehand. Thus, do many calculations lead to victory and few calculations to defeat? How much more, no calculation at all?
 
 It is by attention to this point that I can foresee who is likely to win or lose.
 
-#### Chapter 2 WAGING WAR.
-
-Sun Tzu said, In the operations of war, where there are
+#### Chapter 2 WAGING WAR. Sun Tzu said, In the operations of war, where there are
 
 
 <a id="sec-000502"></a>
@@ -117,13 +115,13 @@ Three, he will win whose army is animated by the same spirit throughout all its 
 
 If you know yourself but not the enemy, for every victory gained, you will also suffer a defeat. If you know neither the enemy nor yourself, you will succumb in every battle.
 
-#### Chapter 4 Tactical Dispositions Sun Tzu said, the good fighters of old first put themselves beyond the possibility of defeat, and then waited for an opportunity of defeating the enemy.
+#### Chapter 4 Tactical Dispositions Sun Tzu said, the good fighters of old first put themselves beyond the possibility of defeat, and then waited for an opportunity of defeating the enemy. To secure ourselves against defeat lies in our own hands, but the opportunity of defeating the enemy is provided by the enemy himself.
 
-To secure ourselves against defeat lies in our own hands, but the opportunity of defeating the enemy is provided by the enemy himself. Thus, the good fighter is able to secure himself against defeat, but cannot make certain of defeating the enemy. Hence the saying, one may know how to conquer without being able to do it. Security against defeat implies defensive tactics.
+Thus, the good fighter is able to secure himself against defeat, but cannot make certain of defeating the enemy. Hence the saying, one may know how to conquer without being able to do it. Security against defeat implies defensive tactics. Ability to defeat the enemy means taking the offensive.
 
-Ability to defeat the enemy means taking the offensive. Standing on the defensive indicates insufficient strength, attacking a superabundance of strength. The general who is skilled in defense hides in the most secret recesses of the earth. He who is skilled in attack flashes forth from the topmost heights. of heaven.
+Standing on the defensive indicates insufficient strength, attacking a superabundance of strength. The general who is skilled in defense hides in the most secret recesses of the earth. He who is skilled in attack flashes forth from the topmost heights. of heaven. Thus, on one hand, we have ability to protect ourselves.
 
-Thus, on one hand, we have ability to protect ourselves. On the other, a victory that is complete. To see victory only when it is within the can of the common herd is
+On the other, a victory that is complete. To see victory only when it is within the can of the common herd is
 
 
 <a id="sec-001514"></a>
@@ -139,19 +137,19 @@ Thus it is in his power to control success. In respect of military method we hav
 
 The onrush of a conquering force is like the bursting of pent-up waters into a chasm a thousand fathoms deep.
 
-#### Chapter 5.
+#### Chapter 5. Energy Sun Tzu said, “The control of a large force is the same principle as the control of a few men.” It is merely a question of dividing up their numbers. Fighting with a large army under your command is no wise different from fighting with a small one. It is merely a question of instituting signs and signals.
 
-Energy Sun Tzu said, “The control of a large force is the same principle as the control of a few men.” It is merely a question of dividing up their numbers. Fighting with a large army under your command is no wise different from fighting with a small one. It is merely a question of instituting signs and signals. To ensure that your whole host may withstand the brunt of the enemy’s attack and remain unshaken, this is affected by maneuvers direct and indirect.
+To ensure that your whole host may withstand the brunt of the enemy’s attack and remain unshaken, this is affected by maneuvers direct and indirect. Though the impact of your army may be like a grindstone dashed against an egg, this is affected by the science of weak points and strong. In all fighting the direct method may be used for joining battle, but indirect methods will be needed in order to secure victory. Indirect tactics, efficiently applied, are inexhaustible as heaven and earth, unending as the flow of rivers and streams. Like the sun and moon, they end, but to begin anew.
 
-Though the impact of your army may be like a grindstone dashed against an egg, this is affected by the science of weak points and strong. In all fighting the direct method may be used for joining battle, but indirect methods will be needed in order to secure victory. Indirect tactics, efficiently applied, are inexhaustible as heaven and earth, unending as the flow of rivers and streams. Like the sun and moon, they end, but to begin anew. Like the four seasons, they pass away to return once more.
+Like the four seasons, they pass away to return once more. There are not more than five musical notes, yet the combinations of these five give rise to more melodies than can ever be heard. There are not more than five primary colors, blue, yellow, red, white, black, yet in combination they produce more hues than can ever be seen. There are not more than five cardinal tastes, sour, acrid, salt, sweet, bitter, yet combinations of them yield more flavors than can ever be tasted.
 
-There are not more than five musical notes, yet the combinations of these five give rise to more melodies than can ever be heard. There are not more than five primary colors, blue, yellow, red, white, black, yet in combination they produce more hues than can ever be seen. There are not more than five cardinal tastes, sour, acrid, salt, sweet, bitter, yet combinations of them yield more flavors than can ever be tasted. In battles, there are not more than two methods of attack, the direct and the indirect, yet these two in combination give rise to an endless series of maneuvers.
+In battles, there are not more than two methods of attack, the direct and the indirect, yet these two in combination give rise to an endless series of maneuvers. The direct and the indirect lead on to each other in turn. It is like moving in a circle, you never come to an end. Who can exhaust the possibilities of their combination?
 
-The direct and the indirect lead on to each other in turn. It is like moving in a circle, you never come to an end. Who can exhaust the possibilities of their combination? The onset of troops is like the rush of a torrent which will even roll stones along in its course.
+The onset of troops is like the rush of a torrent which will even roll stones along in its course. The quality of decision is like the well-timed swoop of a falcon which enables it to strike and destroy its victim.
 
-The quality of decision is like the well-timed swoop of a falcon which enables it to strike and destroy its victim. Therefore, the good fighter will be terrible in his onset and prompt in his decision. Energy may be likened to the bending of a crossbow, decision to the releasing of a trigger. Amid the turmoil and tumult of battle, there may be seeming disorder and yet no real disorder at all.
+Therefore, the good fighter will be terrible in his onset and prompt in his decision. Energy may be likened to the bending of a crossbow, decision to the releasing of a trigger. Amid the turmoil and tumult of battle, there may be seeming disorder and yet no real disorder at all. Amid confusion and chaos, your array may be without head or tail, yet it will be proof against defeat.
 
-Amid confusion and chaos, your array may be without head or tail, yet it will be proof against defeat. Simulated disorder postulates perfect discipline. Simulated fear postulates
+Simulated disorder postulates perfect discipline. Simulated fear postulates
 
 
 <a id="sec-002021"></a>
@@ -201,17 +199,15 @@ The soldier works out his victory in relation to the foe whom he is facing. Ther
 
 The four seasons make way for each other in turn. There are short days and long. The moon has its periods of waning and waxing.
 
-#### Chapter 7 Maneuvering Sun Tzu said, in war, the general receives his command from the sovereign.
+#### Chapter 7 Maneuvering Sun Tzu said, in war, the general receives his command from the sovereign. Having collected an army and concentrated his forces, he must blend and harmonize the different elements thereof before pitching his camp.
 
-Having collected an army and concentrated his forces, he must blend and harmonize the different elements thereof before pitching his camp. After that comes tactical maneuvering than which there is nothing more difficult. The difficulty of tactical maneuvering consists in turning the devious into the direct and misfortune into gain. Thus, to take a long and secretus route after enticing the enemy out of the way, and those starting after him, to contrive to reach the goal before him, shows knowledge of the artifice of deviation.
+After that comes tactical maneuvering than which there is nothing more difficult. The difficulty of tactical maneuvering consists in turning the devious into the direct and misfortune into gain. Thus, to take a long and secretus route after enticing the enemy out of the way, and those starting after him, to contrive to reach the goal before him, shows knowledge of the artifice of deviation. Maneuvering with an army is advantageous, with an undisciplined multitude most dangerous.
 
-Maneuvering with an army is advantageous, with an undisciplined multitude most dangerous. If you set a fully equipped army in March in order to snatch an advantage, the chances are that you will be too late.
+If you set a fully equipped army in March in order to snatch an advantage, the chances are that you will be too late. On the other hand, to detach a flying column for the purpose involves the sacrifice of its baggage and stores. Thus, if you order your men to roll up their buff coats and make forced marches without halting day or night, covering double the usual distance at a stretch, doing a hundred li in order to rest an advantage, the leaders of all your three divisions will fall into the hands of the enemy.
 
-On the other hand, to detach a flying column for the purpose involves the sacrifice of its baggage and stores. Thus, if you order your men to roll up their buff coats and make forced marches without halting day or night, covering double the usual distance at a stretch, doing a hundred li in order to rest an advantage, the leaders of all your three divisions will fall into the hands of the enemy. The stronger men will be in front, the jaded ones will fall behind, and on this plan only one tenth of your army would reach its destination.
+The stronger men will be in front, the jaded ones will fall behind, and on this plan only one tenth of your army would reach its destination. If you march fifty li in order to outmaneuver the enemy, you will lose the leader of your first division, and only half your force will reach the goal. If you march thirty-lee with the same object, two-thirds of your army will arrive. We may take it, then, that an army without its baggage-train is lost.
 
-If you march fifty li in order to outmaneuver the enemy, you will lose the leader of your first division, and only half your force will reach the goal. If you march thirty-lee with the same object, two-thirds of your army will arrive. We may take it, then, that an army without its baggage-train is lost. Without provisions it is lost, without bases of supply it is lost.
-
-We cannot enter into alliance until we are acquainted with the designs of our neighbours. We are not fit to lead an army on the march, unless we are familiar with the face of the
+Without provisions it is lost, without bases of supply it is lost. We cannot enter into alliance until we are acquainted with the designs of our neighbours. We are not fit to lead an army on the march, unless we are familiar with the face of the
 
 
 <a id="sec-003026"></a>
@@ -257,21 +253,19 @@ Four, a delicacy of honor which is sensitive to shame. Five, over-solicitude for
 
 Let them be subject of meditation.
 
-#### Chapter 9 The Army on the March Sun Tzu said, “We come now to the question of encamping the army and observing signs of the enemy.” Pass quickly over mountains and keep in the neighborhood of valleys.
+#### Chapter 9 The Army on the March Sun Tzu said, “We come now to the question of encamping the army and observing signs of the enemy.” Pass quickly over mountains and keep in the neighborhood of valleys. Camp in high places, facing the sun, do not climb heights in order to fight, so much for mountain warfare. After crossing a river, you should get far away from it. When an invading force crosses a river in its onward march, do not advance to meet it mid-stream.
 
-Camp in high places, facing the sun, do not climb heights in order to fight, so much for mountain warfare. After crossing a river, you should get far away from it. When an invading force crosses a river in its onward march, do not advance to meet it mid-stream. It will be best to let half the army get across and then deliver your attack.
+It will be best to let half the army get across and then deliver your attack. If you are anxious to fight, you should not go to meet the invader near a river which he has to cross. More your craft higher up than the enemy and facing the sun, do not move upstream to meet the enemy, so much for river warfare. In crossing salt marshes, your sole concern should be to get over them quickly without any delay.
 
-If you are anxious to fight, you should not go to meet the invader near a river which he has to cross. More your craft higher up than the enemy and facing the sun, do not move upstream to meet the enemy, so much for river warfare. In crossing salt marshes, your sole concern should be to get over them quickly without any delay. If forced to fight in a salt marsh, you should have water and grass near you and get your back to a clump of trees.
+If forced to fight in a salt marsh, you should have water and grass near you and get your back to a clump of trees. So much for operations in salt marshes. In dry, level country, take up an easily accessible position with rising ground to your right and on your rear, so that the danger may be in front and safety lie behind. So much for campaigning in flat country.
 
-So much for operations in salt marshes. In dry, level country, take up an easily accessible position with rising ground to your right and on your rear, so that the danger may be in front and safety lie behind. So much for campaigning in flat country. These are four useful branches of military knowledge which enabled the Yellow Emperor to vanquish four several sovereigns.
+These are four useful branches of military knowledge which enabled the Yellow Emperor to vanquish four several sovereigns. All armies prefer high ground to low and sunny places to dark. If you are careful with your men and camp on hard ground, the army will be free from disease of every kind and this will spell victory. When you come to a hill or a bank, occupy the sunny side with a slope on your right rear.
 
-All armies prefer high ground to low and sunny places to dark. If you are careful with your men and camp on hard ground, the army will be free from disease of every kind and this will spell victory. When you come to a hill or a bank, occupy the sunny side with a slope on your right rear. Thus, you will at once act for the benefit of your soldiers and utilize the natural advantages of the ground.
+Thus, you will at once act for the benefit of your soldiers and utilize the natural advantages of the ground. Even in consequence of heavy rains up country, a river which you wish to ford is swollen and flecked with foam, you must wait till it subsides. Country in which there are precipitous cliffs, with torrents running between, deep natural hollows, confined places, tangled thickets, quagmires and crevices, should be left with all possible speed and not approached. While we keep away from such places, we should get the enemy to approach them.
 
-Even in consequence of heavy rains up country, a river which you wish to ford is swollen and flecked with foam, you must wait till it subsides. Country in which there are precipitous cliffs, with torrents running between, deep natural hollows, confined places, tangled thickets, quagmires and crevices, should be left with all possible speed and not approached. While we keep away from such places, we should get the enemy to approach them. While we face them, we should let the enemy have them on its rear.
+While we face them, we should let the enemy have them on its rear. If in the neighborhood of your camp there should be any hilly country, ponds surrounded by aquatic grass, hollow basins filled with reeds, or woods with thick undergrowth, they must be carefully routed out and searched. For these are places where men in ambush or insidious spies are likely to be lurking. When the enemy is close at hand and remains quiet, he is relying on the natural strength of his position.
 
-If in the neighborhood of your camp there should be any hilly country, ponds surrounded by aquatic grass, hollow basins filled with reeds, or woods with thick undergrowth, they must be carefully routed out and searched. For these are places where men in ambush or insidious spies are likely to be lurking. When the enemy is close at hand and remains quiet, he is relying on the natural strength of his position. When he keeps aloof and tries to provoke a battle, he is anxious for the other side to advance.
-
-If his place of encampment is easy of access, he is tendering abate. Movement amongst the trees of a forest shows that the enemy is advancing. The appearance of a number of screens in the midst of thick grass means that the enemy
+When he keeps aloof and tries to provoke a battle, he is anxious for the other side to advance. If his place of encampment is easy of access, he is tendering abate. Movement amongst the trees of a forest shows that the enemy is advancing. The appearance of a number of screens in the midst of thick grass means that the enemy
 
 
 <a id="sec-004030"></a>
@@ -299,11 +293,9 @@ Therefore, soldiers must be treated in the first instance with humanity, but kep
 
 If a general shows confidence in his men, but always insists on his orders being obeyed, the gain will be mutual.
 
-#### Chapter 10 Terrain Sun Tzu said, we may distinguish six kinds of terrain, to wit, one, accessible ground, two, entangling ground, three, temporizing ground, four, narrow passes. 5.
+#### Chapter 10 Terrain Sun Tzu said, we may distinguish six kinds of terrain, to wit, one, accessible ground, two, entangling ground, three, temporizing ground, four, narrow passes. 5. Precipitous Heights 6. Positions at a great distance from the enemy Ground which can be freely traversed by both sides is called accessible. With regard to ground of this nature, be before the enemy in occupying the raised and sunny spots, and carefully guard your line of supplies.
 
-Precipitous Heights 6. Positions at a great distance from the enemy Ground which can be freely traversed by both sides is called accessible. With regard to ground of this nature, be before the enemy in occupying the raised and sunny spots, and carefully guard your line of supplies. Then you will be able to fight with advantage.
-
-Ground which can be abandoned but is hard to reoccupy is called entangling. From a position of this sort, if the enemy is unprepared,
+Then you will be able to fight with advantage. Ground which can be abandoned but is hard to reoccupy is called entangling. From a position of this sort, if the enemy is unprepared,
 
 
 <a id="sec-004536"></a>
@@ -335,31 +327,29 @@ attack, but are unaware that our own men are not in a condition to attack, we ha
 
 Hence the saying, if you know the enemy and know yourself, your victory will not stand in doubt. If you know heaven and know earth, you may make your victory complete.
 
-#### Chapter 11 The Nine Situations Sun Tzu said, the art of war recognizes nine varieties of ground.
+#### Chapter 11 The Nine Situations Sun Tzu said, the art of war recognizes nine varieties of ground. One, dispersive ground. Two, facile ground.
 
-One, dispersive ground. Two, facile ground. Three, contentious ground. Four, open ground.
+Three, contentious ground. Four, open ground. Five, ground of intersecting highways. Six, serious ground.
 
-Five, ground of intersecting highways. Six, serious ground. Seven, difficult ground. Eight, hemmed-in ground.
+Seven, difficult ground. Eight, hemmed-in ground. Nine, desperate ground. When a chieftain is fighting in his own territory, it is dispersive ground.
 
-Nine, desperate ground. When a chieftain is fighting in his own territory, it is dispersive ground. When he has penetrated into hostile territory, but to no great distance, it is facile ground. Ground the possession of which imports great advantage to either side is contentious ground.
+When he has penetrated into hostile territory, but to no great distance, it is facile ground. Ground the possession of which imports great advantage to either side is contentious ground. Ground on which each side has liberty of movement is open ground. Ground which forms the key to three contiguous states, so that he who occupies it first has most of the empire at his command, is a ground of intersecting highways.
 
-Ground on which each side has liberty of movement is open ground. Ground which forms the key to three contiguous states, so that he who occupies it first has most of the empire at his command, is a ground of intersecting highways. When an army has penetrated into the heart of a hostile country, leaving a number of fortified cities in its rear, it is serious ground. Mountain forests, rugged steeps, marshes and fends, all country that is hard to traverse, this is difficult ground.
+When an army has penetrated into the heart of a hostile country, leaving a number of fortified cities in its rear, it is serious ground. Mountain forests, rugged steeps, marshes and fends, all country that is hard to traverse, this is difficult ground. Ground which is reached through narrow gorges and from which we can only retire by tortuous paths, so that a small number of the enemy would suffice to crush a large body of our men. This is hemmed in ground.
 
-Ground which is reached through narrow gorges and from which we can only retire by tortuous paths, so that a small number of the enemy would suffice to crush a large body of our men. This is hemmed in ground. Ground on which we can only be saved from destruction by fighting without delay is desperate ground. On dispersive ground, therefore, fight not.
+Ground on which we can only be saved from destruction by fighting without delay is desperate ground. On dispersive ground, therefore, fight not. On facile ground, halt not. On contentious ground, attack not.
 
-On facile ground, halt not. On contentious ground, attack not. On open ground, do not try to block the enemy’s way. On the ground of intersecting highways, join hands with your allies.
+On open ground, do not try to block the enemy’s way. On the ground of intersecting highways, join hands with your allies. On serious ground, gather in plunder. In difficult ground, keep steadily on the march.
 
-On serious ground, gather in plunder. In difficult ground, keep steadily on the march. On hemmed in ground, resort to stratagene. On desperate ground, fight.
+On hemmed in ground, resort to stratagene. On desperate ground, fight. Those who are called skillful leaders of old, knew how to drive a wedge between the enemy’s front and rear, to prevent cooperation between his large and small divisions, to hinder the good troops from rescuing the bad, the officers from rallying their men. When the enemy’s men were united, they managed to keep them in disorder.
 
-Those who are called skillful leaders of old, knew how to drive a wedge between the enemy’s front and rear, to prevent cooperation between his large and small divisions, to hinder the good troops from rescuing the bad, the officers from rallying their men. When the enemy’s men were united, they managed to keep them in disorder. When it was to their advantage, they made a forward move. When otherwise, they stopped still.
+When it was to their advantage, they made a forward move. When otherwise, they stopped still. If asked how to cope with a great host of the enemy in orderly array, and on the point of marching to the attack, I should say, begin by seizing something which your opponent holds dear. Then he will be amenable to your will.
 
-If asked how to cope with a great host of the enemy in orderly array, and on the point of marching to the attack, I should say, begin by seizing something which your opponent holds dear. Then he will be amenable to your will. Repidity is the essence of war. Take advantage of the enemy’s unreadiness.
+Repidity is the essence of war. Take advantage of the enemy’s unreadiness. Make your way by unexpected routes, and attack unguarded spots. The following are the principles to be observed by an invading force.
 
-Make your way by unexpected routes, and attack unguarded spots. The following are the principles to be observed by an invading force. The further you penetrate into a country, the greater will be the solidarity of your troops, and thus the defenders will not prevail against you. Make forays in fertile country, in order to supply your army with food.
+The further you penetrate into a country, the greater will be the solidarity of your troops, and thus the defenders will not prevail against you. Make forays in fertile country, in order to supply your army with food. Carefully study the well-being of your men, and do not overtax them. Concentrate your energy, and hoard your strength.
 
-Carefully study the well-being of your men, and do not overtax them. Concentrate your energy, and hoard your strength. Keep your army continually on the move, and devise unfathomable plans. Throw your soldiers into positions whence there is no escape, and they will prefer death to flight.
-
-If they will face death, there is nothing they may not achieve. Officers and men alike will put forward their
+Keep your army continually on the move, and devise unfathomable plans. Throw your soldiers into positions whence there is no escape, and they will prefer death to flight. If they will face death, there is nothing they may not achieve. Officers and men alike will put forward their
 
 
 <a id="sec-005540"></a>
@@ -413,15 +403,15 @@ On the day that you take up your command, block the frontier passes, destroy the
 
 Walk in the path defined by rule, and accommodate yourself to the enemy until you can fight a decisive battle. At first then, exhibit the coyness of a maiden until the enemy gives you an opening. Afterwards, emulate the rapidity of a running hare, and it will be too late for the enemy to oppose you.
 
-#### Chapter 12 The Attack by Fire Sun Tzu said, there are five ways of attacking with fire.
+#### Chapter 12 The Attack by Fire Sun Tzu said, there are five ways of attacking with fire. The first is to burn the soldiers in their camp.
 
-The first is to burn the soldiers in their camp. The second is to burn stores. The third is to burn baggage trains. The fourth is to burn arsenals and magazines.
+The second is to burn stores. The third is to burn baggage trains. The fourth is to burn arsenals and magazines. The fifth is to hurl dropping fire amongst the enemy.
 
-The fifth is to hurl dropping fire amongst the enemy. In order to carry out an attack, we must have means available. The material for raising fire should always be kept in readiness. There is a proper season for making attacks with fire, and special days for starting a conflagration.
+In order to carry out an attack, we must have means available. The material for raising fire should always be kept in readiness. There is a proper season for making attacks with fire, and special days for starting a conflagration. The proper season is when the weather is very dry.
 
-The proper season is when the weather is very dry. The special days are those when the moon is in the constellations of the sieve, the wall, the wing, or the crossbar, for these four are all days of rising wind. In attacking with fire, one should be prepared to meet five possible developments. When fire breaks out inside the enemy’s camp, respond at once with an attack for without.
+The special days are those when the moon is in the constellations of the sieve, the wall, the wing, or the crossbar, for these four are all days of rising wind. In attacking with fire, one should be prepared to meet five possible developments. When fire breaks out inside the enemy’s camp, respond at once with an attack for without. If there is an outbreak of fire, but the enemy’s soldiers remain quiet, bide your time and do not attack.
 
-If there is an outbreak of fire, but the enemy’s soldiers remain quiet, bide your time and do not attack. When the force of the flames has reached its height, follow up with an attack, if that is practicable. If not, stay where you are.
+When the force of the flames has reached its height, follow up with an attack, if that is practicable. If not, stay where you are.
 
 
 <a id="sec-010541"></a>
@@ -435,19 +425,21 @@ Unhappy is the fate of one who tries to win his battles and succeed in his attac
 
 Fight not unless the position is critical. No ruler should put troops into the field merely to gratify his own spleen. No general should fight a battle simply out of peak. If it is to your advantage, make a forward move.
 
-If not, stay where you are. Anger may in time change to gladness, vexation may be succeeded by content, but a kingdom that has once been destroyed can never come back again into being, nor can the dead ever be brought back to light. Hence the enlightened ruler is heedful, and the good general full of caution. This is the way to keep a country at peace and an army intact.
+If not, stay where you are. Anger may in time change to gladness, vexation may be succeeded by content, but a kingdom that has once been destroyed can never come back again into being, nor can the dead ever be brought back to light. Hence the enlightened ruler is heedful, and the good general full of caution.
 
-#### Chapter 13 The Use of Spies Sun Tzu said, “Raising a host of a hundred thousand men and marching them great distances entails heavy loss on the people and a drain on the resources of the state.” The daily expenditure will amount to a thousand ounces of silver.
+This is the way to keep a country at peace and an army intact.
 
-There will be commotion at home and abroad, and men will drop down exhausted on the highways. As many as seven hundred thousand families will be impeded in their labor. Hostile armies may face each other for years, striving for the victory which is decided in a single day. This being so, to remain in ignorance of the enemy’s condition simply because one grudges the outlay of a hundred ounces of silver in honors and emoluments is the height of inhumanity.
+#### Chapter 13 The Use of Spies Sun Tzu said, “Raising a host of a hundred thousand men and marching them great distances entails heavy loss on the people and a drain on the resources of the state.” The daily expenditure will amount to a thousand ounces of silver. There will be commotion at home and abroad, and men will drop down exhausted on the highways. As many as seven hundred thousand families will be impeded in their labor.
 
-One who acts thus is no leader of men, no present help to his sovereign, no master of victory. Thus what enables the wise sovereign and the good general to strike and conquer, and achieve things beyond the reach of ordinary men, is foreknowledge. Now this foreknowledge cannot be elicited from spirits, it cannot be obtained inductively from experience, nor by any deductive calculation. Knowledge of the enemy’s dispositions can only be obtained from other men.
+Hostile armies may face each other for years, striving for the victory which is decided in a single day. This being so, to remain in ignorance of the enemy’s condition simply because one grudges the outlay of a hundred ounces of silver in honors and emoluments is the height of inhumanity. One who acts thus is no leader of men, no present help to his sovereign, no master of victory. Thus what enables the wise sovereign and the good general to strike and conquer, and achieve things beyond the reach of ordinary men, is foreknowledge.
 
-Hence the use of spies, of whom there are five classes. One, local spies, two, inward spies, three, converted spies, four, doomed spies, five, surviving spies. When these five kinds of spy are all at work, none can discover the secret system. This is called divine manipulation of the threads.
+Now this foreknowledge cannot be elicited from spirits, it cannot be obtained inductively from experience, nor by any deductive calculation. Knowledge of the enemy’s dispositions can only be obtained from other men. Hence the use of spies, of whom there are five classes. One, local spies, two, inward spies, three, converted spies, four, doomed spies, five, surviving spies.
 
-It is the sovereign’s most precious faculty. Having local spies means employing the services of the inhabitants of a district. Having inward spies, making use of officials of the enemy. Having converted spies, getting hold of the enemy’s spies and using them for our own purposes.
+When these five kinds of spy are all at work, none can discover the secret system. This is called divine manipulation of the threads. It is the sovereign’s most precious faculty. Having local spies means employing the services of the inhabitants of a district.
 
-Having doomed spies, doing certain things openly for purposes of deception and allowing our spies to know of them and report them to the enemy. Having spies, finally, are those who bring back news from the enemy’s camp. Hence it is that which none in the whole army are more intimate relations to be maintained than with spies. None should be more liberally rewarded, in no other business should greater secrecy be preserved.
+Having inward spies, making use of officials of the enemy. Having converted spies, getting hold of the enemy’s spies and using them for our own purposes. Having doomed spies, doing certain things openly for purposes of deception and allowing our spies to know of them and report them to the enemy. Having spies, finally, are those who bring back news from the enemy’s camp.
+
+Hence it is that which none in the whole army are more intimate relations to be maintained than with spies. None should be more liberally rewarded, in no other business should greater secrecy be preserved.
 
 
 <a id="sec-011043"></a>

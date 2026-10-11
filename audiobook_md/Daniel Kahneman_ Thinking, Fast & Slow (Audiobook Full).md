@@ -131,7 +131,7 @@
 <a id="sec-000000"></a>
 ### ⏱️ [00:00:00 - 00:05:02]
 
-#### IN MEMORY OF AMUS TAVERSKY INTRODUCTION.
+#### #### IN MEMORY OF AMUS TAVERSKY INTRODUCTION.
 
 Every author, I suppose, has in mind a setting in which readers of his or her work could benefit from having read it. Mine is the proverbial office water-cooler, where opinions are shared and gossip is exchanged. I hope to enrich the vocabulary that people use when they talk about the judgments and choices of others, the company’s new policies, or a colleague’s investment decisions. Why be concerned with gossip?
 
@@ -385,17 +385,15 @@ Focusing and orienting are automatic functions of System 1, but they depend on t
 
 The gorilla study illustrates two important facts about our minds. We can be blind to the obvious, and we are also blind to our blindness.
 
-#### PLOT SYNOPSIS.
+#### PLOT SYNOPSIS. The interaction of the two systems is a recurrent theme of the book, and a brief synopsis of the plot is in order. In the story I will tell, Systems 1 and 2 are both active whenever we are awake.
 
-The interaction of the two systems is a recurrent theme of the book, and a brief synopsis of the plot is in order. In the story I will tell, Systems 1 and 2 are both active whenever we are awake. System 1 runs automatically, and System 2 is normally in a comfortable, low-effort mode, in which only a fraction of its capacity is engaged. System 1 continuously generates suggestions for System 2—impressions, intuitions, intentions, and feelings.
+System 1 runs automatically, and System 2 is normally in a comfortable, low-effort mode, in which only a fraction of its capacity is engaged. System 1 continuously generates suggestions for System 2—impressions, intuitions, intentions, and feelings. If endorsed by System 2, impressions and intuitions turn into beliefs, and impulses turn into voluntary actions. When all goes smoothly, which is most of the time, System 2 adopts the suggestions of System 1 with little or no modification.
 
-If endorsed by System 2, impressions and intuitions turn into beliefs, and impulses turn into voluntary actions. When all goes smoothly, which is most of the time, System 2 adopts the suggestions of System 1 with little or no modification. You generally believe your impressions and act on your desires, and that is fine, usually. When System 1 runs into difficulty, it calls on System 2 to support more detailed and specific processing that may solve the problem of the moment.
+You generally believe your impressions and act on your desires, and that is fine, usually. When System 1 runs into difficulty, it calls on System 2 to support more detailed and specific processing that may solve the problem of the moment. System 2 is mobilized when a question arises for which System 1 does not offer an answer, as probably happened to you when you encountered the multiplication problem, 17 times 24. You can also feel a surge of conscious attention whenever you are surprised.
 
-System 2 is mobilized when a question arises for which System 1 does not offer an answer, as probably happened to you when you encountered the multiplication problem, 17 times 24. You can also feel a surge of conscious attention whenever you are surprised. System 2 is activated when an event is detected that violates the model of the world that System 1 maintains. In that world, lamps do not jump, cats do not bark, and gorillas do not cross basketball courts.
+System 2 is activated when an event is detected that violates the model of the world that System 1 maintains. In that world, lamps do not jump, cats do not bark, and gorillas do not cross basketball courts. The Gorilla experiment demonstrates that some attention is needed for the surprising stimulus to be detected. Surprise then, activates and orients your attention.
 
-The Gorilla experiment demonstrates that some attention is needed for the surprising stimulus to be detected. Surprise then, activates and orients your attention. You will stare, and you will search your memory for a story that makes sense of the surprising event. System 2 is also credited with the continuous m- monitoring of your own behavior, the control that keeps you polite when you are angry and alert when you are driving at night.
-
-System 2 is mobilized to increased effort when it detects an error about to be made. Remember a time when you almost blurted out an offensive remark and
+You will stare, and you will search your memory for a story that makes sense of the surprising event. System 2 is also credited with the continuous m- monitoring of your own behavior, the control that keeps you polite when you are angry and alert when you are driving at night. System 2 is mobilized to increased effort when it detects an error about to be made. Remember a time when you almost blurted out an offensive remark and
 
 
 <a id="sec-010022"></a>
@@ -475,27 +473,23 @@ The fictitious systems make it easier for me to think about judgment and choice,
 
 This is your system one talking. Slow down, and let your system two take control.
 
-#### CHAPTER TWO ATTENTION AND EFFORT.
+#### CHAPTER TWO ATTENTION AND EFFORT. In the unlikely event of this book being made into a film, system two would be a supporting character who believes herself to be the hero. The defining feature of system two in this story is that its operations are effortful, and one of its main characteristics is laziness, a reluctance to invest more effort than is strictly necessary.
 
-In the unlikely event of this book being made into a film, system two would be a supporting character who believes herself to be the hero. The defining feature of system two in this story is that its operations are effortful, and one of its main characteristics is laziness, a reluctance to invest more effort than is strictly necessary. As a consequence, the thoughts and actions that system two believes it has chosen are often guided by the figure at the center of the story, system one.
+As a consequence, the thoughts and actions that system two believes it has chosen are often guided by the figure at the center of the story, system one. However, there are vital tasks that only system two can perform because they require effort and acts of self-control in which the intuitions and impulses of system one are overcome.
 
-However, there are vital tasks that only system two can perform because they require effort and acts of self-control in which the intuitions and impulses of system one are overcome.
+#### MENTAL EFFORT. If you wish to experience your system two working at full tilt, the following exercise will do. It should bring you to the limits of your cognitive abilities within five seconds.
 
-#### MENTAL EFFORT.
+To start, make up several strings of four digits, all different, and write each string on an index card. Place a blank card on top of the deck. The task that you will perform is called ADD ONE. Here’s how it goes.
 
-If you wish to experience your system two working at full tilt, the following exercise will do. It should bring you to the limits of your cognitive abilities within five seconds. To start, make up several strings of four digits, all different, and write each string on an index card. Place a blank card on top of the deck.
+Start beating a steady rhythm, or better yet, set a metronome at one beat per second. Remove the blank card and read the four digits aloud. Wait for two beats, then report a string in which each of the original digits is incremented by one. If the digits on the card are 5, 2, 9, 4, the correct response is 6, 3, 0, 5.
 
-The task that you will perform is called ADD ONE. Here’s how it goes. Start beating a steady rhythm, or better yet, set a metronome at one beat per second. Remove the blank card and read the four digits aloud.
+Keeping the rhythm is important. Few people can cope with more than four digits in the ADD ONE task, but if you want a harder challenge, please try ADD THREE. If you would like to know what your body is doing while your mind is hard at work, set up two piles of books on a sturdy table, place a video camera on one, and lean your chin on the other, get the video going, and stare at the camera lens while you work on ADD ONE or ADD THREE exercises.
 
-Wait for two beats, then report a string in which each of the original digits is incremented by one. If the digits on the card are 5, 2, 9, 4, the correct response is 6, 3, 0, 5. Keeping the rhythm is important. Few people can cope with more than four digits in the ADD ONE task, but if you want a harder challenge, please try ADD THREE.
+Later, you will find in the changing size of your pupils a faithful record of how hard you worked. I have a long personal history with the ADD ONE task. Early in my career, I spent a year at the University of Michigan as a visitor in a laboratory that studied hypnosis. Casting about for a useful topic of research, I found an article in Scientific American in which the psychologist, Eckard Hess, described the pupil of the eye as a window to the soul.
 
-If you would like to know what your body is doing while your mind is hard at work, set up two piles of books on a sturdy table, place a video camera on one, and lean your chin on the other, get the video going, and stare at the camera lens while you work on ADD ONE or ADD THREE exercises. Later, you will find in the changing size of your pupils a faithful record of how hard you worked. I have a long personal history with the ADD ONE task.
+I re-read it recently and again found it inspiring. It begins with Hess reporting that his wife had noticed his pupils widening as he watched beautiful nature pictures, and it ends with two striking pictures of the same good- looking woman who somehow appears much more attractive in one than in the other. There is only one difference. The pupils of the eyes appear dilated in the attractive picture and constricted in the other.
 
-Early in my career, I spent a year at the University of Michigan as a visitor in a laboratory that studied hypnosis. Casting about for a useful topic of research, I found an article in Scientific American in which the psychologist, Eckard Hess, described the pupil of the eye as a window to the soul. I re-read it recently and again found it inspiring. It begins with Hess reporting that his wife had noticed his pupils widening as he watched beautiful nature pictures, and it ends with two striking pictures of the same good- looking woman who somehow appears much more attractive in one than in the other.
-
-There is only one difference. The pupils of the eyes appear dilated in the attractive picture and constricted in the other. Hess also wrote of belladonna, a pupil dilating substance that was used as a cosmetic and of bizarre shoppers who wear dark glasses in order to hide their level of interest from merchants. One of Hess’s findings especially captured my attention.
-
-He had noticed that the pupils are sensitive indicators of mental effort. They dilate substantially when people multiply two-digit numbers and they dilate more if the problems are hard than if they are easy.
+Hess also wrote of belladonna, a pupil dilating substance that was used as a cosmetic and of bizarre shoppers who wear dark glasses in order to hide their level of interest from merchants. One of Hess’s findings especially captured my attention. He had noticed that the pupils are sensitive indicators of mental effort. They dilate substantially when people multiply two-digit numbers and they dilate more if the problems are hard than if they are easy.
 
 
 <a id="sec-012030"></a>
@@ -597,19 +591,19 @@ It requires mental effort. The law of least effort is operating here. He will th
 
 She was completely focused on something else when the meeting was set and she just didn’t hear you. What came quickly to my mind was an intuition from System 1. I’ll have to start over and search my memory deliberately.
 
-#### Chapter 3 The Lazy Controller I spend a few months each year in Berkeley, and one of my great pleasures there is a daily four-mile walk on a marked path in the hills with a fine view of San Francisco Bay.
+#### Chapter 3 The Lazy Controller I spend a few months each year in Berkeley, and one of my great pleasures there is a daily four-mile walk on a marked path in the hills with a fine view of San Francisco Bay. I usually keep track of my time and have learned a fair amount about effort from doing so.
 
-I usually keep track of my time and have learned a fair amount about effort from doing so. I have found a speed, about seventeen minutes for a mile, which I experience as a stroll. I certainly exert physical effort and burn more calories at that speed than if I sat in a recliner, but I experience no strain, no conflict, and no need to push myself. I am also able to think and work while walking at that rate.
+I have found a speed, about seventeen minutes for a mile, which I experience as a stroll. I certainly exert physical effort and burn more calories at that speed than if I sat in a recliner, but I experience no strain, no conflict, and no need to push myself. I am also able to think and work while walking at that rate. Indeed, I suspect that the mild physical arousal of the walk may spill over into greater mental alertness.
 
-Indeed, I suspect that the mild physical arousal of the walk may spill over into greater mental alertness. System 2 also has a natural speed. You expend some mental energy and random thoughts and in monitoring what goes on around you, even when your mind does nothing in particular, but there is little strain. Unless you are in a situation that makes you unusually wary or self-conscious, monitoring what happens in the environment or inside your head demands little effort.
+System 2 also has a natural speed. You expend some mental energy and random thoughts and in monitoring what goes on around you, even when your mind does nothing in particular, but there is little strain. Unless you are in a situation that makes you unusually wary or self-conscious, monitoring what happens in the environment or inside your head demands little effort. You make many small decisions as you drive your car, absorb some information as you read the newspaper, and conduct routine exchanges of pleasantries with a spouse or a colleague, all with little effort and no strain, just like a stroll.
 
-You make many small decisions as you drive your car, absorb some information as you read the newspaper, and conduct routine exchanges of pleasantries with a spouse or a colleague, all with little effort and no strain, just like a stroll. It is normally easy and actually quite pleasant to walk and think at the same time, but at the extremes these activities appear to compete for the limited resources of System 2. You can confirm this claim by a simple experiment. While walking comfortably with a friend, ask him to compute 23 times 78 in his head and to do so immediately.
+It is normally easy and actually quite pleasant to walk and think at the same time, but at the extremes these activities appear to compete for the limited resources of System 2. You can confirm this claim by a simple experiment. While walking comfortably with a friend, ask him to compute 23 times 78 in his head and to do so immediately. He will almost certainly stop in his tracks.
 
-He will almost certainly stop in his tracks. My experience is that I can think while strolling but cannot engage in mental work that imposes a heavy load on short-term memory. If I must construct an intricate argument under time pressure, I would rather be still and I would prefer sitting to standing. Of course, not all slow thinking requires that form of intense concentration and effortful computation.
+My experience is that I can think while strolling but cannot engage in mental work that imposes a heavy load on short-term memory. If I must construct an intricate argument under time pressure, I would rather be still and I would prefer sitting to standing. Of course, not all slow thinking requires that form of intense concentration and effortful computation. I did the best thinking of my life on leisurely walks with Amos.
 
-I did the best thinking of my life on leisurely walks with Amos. Accelerating beyond my strolling speed completely changes the experience of walking because the transition to a faster walk brings about a sharp deterioration in my ability to think coherently. As I speed up, my attention is drawn with increasing frequency to the experience of walking and to the deliberate maintenance of the faster pace. My ability to bring a train of thought to a conclusion is impaired accordingly.
+Accelerating beyond my strolling speed completely changes the experience of walking because the transition to a faster walk brings about a sharp deterioration in my ability to think coherently. As I speed up, my attention is drawn with increasing frequency to the experience of walking and to the deliberate maintenance of the faster pace. My ability to bring a train of thought to a conclusion is impaired accordingly. At the highest speed I can sustain on hills, about fourteen minutes for a mile, I do not even try to think of anything else.
 
-At the highest speed I can sustain on hills, about fourteen minutes for a mile, I do not even try to think of anything else. In addition to the physical effort of moving my body rapidly along the path, a mental effort of self-control is needed to resist the urge to slow down. Self-control and deliberate thought apparently draw on the same limited budget of effort. The maintenance of a coherent train of thought and the occasional engagement in effortful
+In addition to the physical effort of moving my body rapidly along the path, a mental effort of self-control is needed to resist the urge to slow down. Self-control and deliberate thought apparently draw on the same limited budget of effort. The maintenance of a coherent train of thought and the occasional engagement in effortful
 
 
 <a id="sec-014544"></a>
@@ -759,23 +753,21 @@ His ego was depleted after a long day of meetings, so he just turned to standard
 
 She probably also has trouble delaying gratification. Weak system, too.
 
-#### Chapter 4 The Associative Machine To begin your exploration of the surprising workings of System One, listen to the following words.
+#### Chapter 4 The Associative Machine To begin your exploration of the surprising workings of System One, listen to the following words. Bananas Vomit A lot happened to you during the last second or two. You experienced some unpleasant images and memories.
 
-Bananas Vomit A lot happened to you during the last second or two. You experienced some unpleasant images and memories. Your face twisted slightly in an expression of disgust, and you may have shifted imperceptibly farther away. Your heart rate increased, the hair on your arms rose a little, and your sweat glands were activated.
+Your face twisted slightly in an expression of disgust, and you may have shifted imperceptibly farther away. Your heart rate increased, the hair on your arms rose a little, and your sweat glands were activated. In short, you responded to the disgusting word with an attenuated version of how you would react to the real thing. All of this was completely automatic, beyond your control.
 
-In short, you responded to the disgusting word with an attenuated version of how you would react to the real thing. All of this was completely automatic, beyond your control. There was no particular reason to do so, but your mind automatically assumed a temporal sequence and a causal connection between the words bananas and vomit, forming a sketchy scenario in which bananas caused the sickness. As a result, you are experiencing a temporary aversion to bananas.
+There was no particular reason to do so, but your mind automatically assumed a temporal sequence and a causal connection between the words bananas and vomit, forming a sketchy scenario in which bananas caused the sickness. As a result, you are experiencing a temporary aversion to bananas. Don’t worry, it will pass. The state of your memory has changed in other ways.
 
-Don’t worry, it will pass. The state of your memory has changed in other ways. You are now unusually ready to recognize and respond to objects and concepts associated with vomit, such as sick, stink, or nausea, and words associated with bananas, such as yellow and fruit, and perhaps apple and berries. Vomiting normally occurs in specific contexts, such as hangovers and indigestion.
+You are now unusually ready to recognize and respond to objects and concepts associated with vomit, such as sick, stink, or nausea, and words associated with bananas, such as yellow and fruit, and perhaps apple and berries. Vomiting normally occurs in specific contexts, such as hangovers and indigestion. You would also be unusually ready to recognize words associated with other causes of the same unfortunate outcome.
 
-You would also be unusually ready to recognize words associated with other causes of the same unfortunate outcome. Furthermore, your System 1 noticed the fact that the juxtaposition of the two words is uncommon. You probably never encountered it before. You experienced mild surprise.
+Furthermore, your System 1 noticed the fact that the juxtaposition of the two words is uncommon. You probably never encountered it before. You experienced mild surprise. This complex constellation of responses occurred quickly, automatically, and effortlessly.
 
-This complex constellation of responses occurred quickly, automatically, and effortlessly. You did not will it, and you could not stop it. It was an operation of System 1. The events that took place as a result of your seeing the words happened by a process called associative activation.
+You did not will it, and you could not stop it. It was an operation of System 1. The events that took place as a result of your seeing the words happened by a process called associative activation. Ideas that have been evoked trigger many other ideas in a spreading cascade of activity in your brain.
 
-Ideas that have been evoked trigger many other ideas in a spreading cascade of activity in your brain. The essential feature of this complex set of mental events is its coherence. Each element is connected, and each supports and strengthens the others. The word evokes memories, which evoke emotions, which in turn evoke facial expressions and other reactions, such as a general tensing up and an avoidance tendency.
+The essential feature of this complex set of mental events is its coherence. Each element is connected, and each supports and strengthens the others. The word evokes memories, which evoke emotions, which in turn evoke facial expressions and other reactions, such as a general tensing up and an avoidance tendency. The facial expression and the avoidance motion intensify the feelings to which they are linked, and the feelings in turn reinforce compatible ideas.
 
-The facial expression and the avoidance motion intensify the feelings to which they are linked, and the feelings in turn reinforce compatible ideas. All this happens quickly and all at once, yielding a self-reinforcing pattern of cognitive, emotional, and physical responses that is both diverse and integrated. It has been called associatively coherent. In a second or so, you accomplished, automatically and unconsciously, a remarkable feat.
-
-Starting from a completely unexpected event, your System 1 made as much sense as possible
+All this happens quickly and all at once, yielding a self-reinforcing pattern of cognitive, emotional, and physical responses that is both diverse and integrated. It has been called associatively coherent. In a second or so, you accomplished, automatically and unconsciously, a remarkable feat. Starting from a completely unexpected event, your System 1 made as much sense as possible
 
 
 <a id="sec-022109"></a>
@@ -889,11 +881,11 @@ The world makes much less sense than you think. The coherence mostly comes from 
 
 It happens to all of us. I made myself smile, and I’m actually feeling better.
 
-#### Chapter 5 Cognotive Ease Whenever you are conscious, and perhaps even when you are not, multiple computations are going on in your brain, which maintain and update current answers to some key questions.
+#### Chapter 5 Cognotive Ease Whenever you are conscious, and perhaps even when you are not, multiple computations are going on in your brain, which maintain and update current answers to some key questions. Is anything new going on? Is there a threat?
 
-Is anything new going on? Is there a threat? Are things going well? Should my attention be redirected?
+Are things going well? Should my attention be redirected? Is more effort needed for this task? You can think of a cockpit with a set of dials that indicate the current values of each of these essential variables.
 
-Is more effort needed for this task? You can think of a cockpit with a set of dials that indicate the current values of each of these essential variables. The assessments are carried out automatically by system one, and their main function is
+The assessments are carried out automatically by system one, and their main function is
 
 
 <a id="sec-024627"></a>
@@ -1171,13 +1163,11 @@ When we survey the reaction to these products, let’s make sure we don’t focu
 
 She will end up thinking that someone intentionally sabotaged her work.
 
-#### Chapter 7 A Machine for Jumping to Conclusions The great comedian Danny Kay had a line that has stayed with me since my adolescence.
+#### Chapter 7 A Machine for Jumping to Conclusions The great comedian Danny Kay had a line that has stayed with me since my adolescence. Speaking of a woman he dislikes, he says, her favorite position is beside herself, and her favorite sport is jumping to conclusions. The line came up, I remember, in the initial conversation with Amos Tversky about the rationality of statistical intuitions, and now I believe it offers an apt description of how System 1 functions.
 
-Speaking of a woman he dislikes, he says, her favorite position is beside herself, and her favorite sport is jumping to conclusions. The line came up, I remember, in the initial conversation with Amos Tversky about the rationality of statistical intuitions, and now I believe it offers an apt description of how System 1 functions. Jumping to conclusions is efficient if the conclusions are likely to be correct and the costs of an occasional mistake acceptable, and if the jump saves much time and effort.
+Jumping to conclusions is efficient if the conclusions are likely to be correct and the costs of an occasional mistake acceptable, and if the jump saves much time and effort. Jumping to conclusions is risky when the situation is unfamiliar, the stakes are high, and there is time to collect more information. These are the circumstances in which intuitive errors are probable, which may be prevented by a deliberate intervention of System 2, neglect of ambiguity and suppression of doubt. See Figure 6 on the PDF.
 
-Jumping to conclusions is risky when the situation is unfamiliar, the stakes are high, and there is time to collect more information. These are the circumstances in which intuitive errors are probable, which may be prevented by a deliberate intervention of System 2, neglect of ambiguity and suppression of doubt. See Figure 6 on the PDF. On the left you see ABC, in the center, Anne approached the bank, on the right 12-13-14.
-
-What do the three exhibits in Figure 6 have in common?
+On the left you see ABC, in the center, Anne approached the bank, on the right 12-13-14. What do the three exhibits in Figure 6 have in common?
 
 
 <a id="sec-034702"></a>
@@ -1315,19 +1305,17 @@ Furthermore, our associative system tends to settle on a coherent pattern of act
 
 The equivalence of the alternative formulations is transparent but an individual normally sees only one formulation, and what she sees is all there is.
 
-#### BASE RATE NEGLECT.
+#### BASE RATE NEGLECT. Recall Steve, the meek and tidy soul who is often believed to be a librarian. The personality description is salient and vivid, and although you surely know that there are more male farmers than male librarians, that statistical fact almost certainly did not come to your mind when you first considered the question. What you saw was all there was.
 
-Recall Steve, the meek and tidy soul who is often believed to be a librarian. The personality description is salient and vivid, and although you surely know that there are more male farmers than male librarians, that statistical fact almost certainly did not come to your mind when you first considered the question. What you saw was all there was. More generally, statistical information is often ignored in making forecasts about individual cases because it tends to be less vivid, salient, and interesting than specific information about the case at hand.
+More generally, statistical information is often ignored in making forecasts about individual cases because it tends to be less vivid, salient, and interesting than specific information about the case at hand. Speaking of jumping to conclusions, she knows nothing about this person’s management skills. All she is going by is the halo effect from a good presentation. Let’s de-correlate errors by obtaining separate judgments on the issue before any discussion.
 
-Speaking of jumping to conclusions, she knows nothing about this person’s management skills. All she is going by is the halo effect from a good presentation. Let’s de-correlate errors by obtaining separate judgments on the issue before any discussion. We will get more information from independent assessments.
+We will get more information from independent assessments. They made that big decision on the basis of a good report from one consultant. What you see is all there is. They did not seem to realize how little information they had.
 
-They made that big decision on the basis of a good report from one consultant. What you see is all there is. They did not seem to realize how little information they had. They didn’t want more information that might spoil their story.
+They didn’t want more information that might spoil their story. What you see is all there is.
 
-What you see is all there is.
+#### CHAPTER 8 How Judgments Happen There is no limit to the number of questions you can answer, whether they are questions someone else asks or questions you ask yourself. Nor is there a limit to the number of attributes you can evaluate. You are capable of counting the number of capital letters on a page, comparing the height of the windows of your house to the one across the street, and assessing the political prospects of your senator on a scale from excellent to disastrous.
 
-#### CHAPTER 8 How Judgments Happen There is no limit to the number of questions you can answer, whether they are questions someone else asks or questions you ask yourself.
-
-Nor is there a limit to the number of attributes you can evaluate. You are capable of counting the number of capital letters on a page, comparing the height of the windows of your house to the one across the street, and assessing the political prospects of your senator on a scale from excellent to disastrous. The questions are addressed to System 2, which will direct attention and search memory to
+The questions are addressed to System 2, which will direct attention and search memory to
 
 
 <a id="sec-041723"></a>
@@ -1445,25 +1433,23 @@ Speaking of judgment, evaluating people as attractive or not is a basic assessme
 
 The punishment won’t feel just unless its intensity matches the crime, just like you can match the loudness of a sound to the brightness of a light. This was a clear instance of a mental shotgun. He was asked whether he thought the company was financially sound, but he couldn’t forget that he likes their product.
 
-#### Chapter 9 Having an Easier Question A remarkable aspect of your mental life is that you are rarely stumped.
+#### Chapter 9 Having an Easier Question A remarkable aspect of your mental life is that you are rarely stumped. True, you occasionally face a question such as 17 times 24 equals, to which no answer comes immediately to mind.
 
-True, you occasionally face a question such as 17 times 24 equals, to which no answer comes immediately to mind. But these dumbfounded moments are rare. The normal state of your mind is that you have intuitive feelings and opinions about almost everything that comes your way. You like or dislike people long before you know much about them.
+But these dumbfounded moments are rare. The normal state of your mind is that you have intuitive feelings and opinions about almost everything that comes your way. You like or dislike people long before you know much about them. You trust or distrust strangers without knowing why.
 
-You trust or distrust strangers without knowing why. You feel that an enterprise is bound to succeed without analyzing it. Whether you state them or not, you often have answers to questions that you do not completely understand, relying on evidence that you can neither explain nor defend. Substituting Questions I propose a simple account of how we generate intuitive opinions on complex matters.
+You feel that an enterprise is bound to succeed without analyzing it. Whether you state them or not, you often have answers to questions that you do not completely understand, relying on evidence that you can neither explain nor defend. Substituting Questions I propose a simple account of how we generate intuitive opinions on complex matters. If a satisfactory answer to a hard question is not found quickly, System 1 will find a related question that is easier and will answer it.
 
-If a satisfactory answer to a hard question is not found quickly, System 1 will find a related question that is easier and will answer it. I call the operation of answering one question in place of another, substitution. I also adopt the following terms. The target question is the assessment you intend to produce. The heuristic question is the simpler question that you answer instead.
+I call the operation of answering one question in place of another, substitution. I also adopt the following terms. The target question is the assessment you intend to produce. The heuristic question is the simpler question that you answer instead. The technical definition of heuristic is a simple procedure that helps find adequate, though often imperfect, answers to difficult questions.
 
-The technical definition of heuristic is a simple procedure that helps find adequate, though often imperfect, answers to difficult questions. The word comes from the same root as eureka. The idea of substitution came up early in my work with Amos, and it was the core of what became the heuristics and biases approach. We asked ourselves how people managed to make judgments of probability without knowing precisely what probability is.
+The word comes from the same root as eureka. The idea of substitution came up early in my work with Amos, and it was the core of what became the heuristics and biases approach. We asked ourselves how people managed to make judgments of probability without knowing precisely what probability is. We concluded that people must somehow simplify that impossible task, and we set out to find how they do it.
 
-We concluded that people must somehow simplify that impossible task, and we set out to find how they do it. Our answer was that when called upon to judge probability, people actually judge something else and believe they have judged probability. System 1 often makes this move when faced with difficult target questions if the answer to a related and easier heuristic question comes readily to mind. Substituting one question for another can be a good strategy for solving difficult problems, and George Polia included substitution in his classic How to Solve It.
+Our answer was that when called upon to judge probability, people actually judge something else and believe they have judged probability. System 1 often makes this move when faced with difficult target questions if the answer to a related and easier heuristic question comes readily to mind. Substituting one question for another can be a good strategy for solving difficult problems, and George Polia included substitution in his classic How to Solve It. If you can’t solve a problem, then there is an easier problem you can solve.
 
-If you can’t solve a problem, then there is an easier problem you can solve. Find it. Polia’s heuristics are strategic procedures that are deliberately implemented by System 2, but the heuristics that I discuss in this chapter are not chosen. They are a consequence of the mental shotgun, the imprecise control we have over targeting our responses to questions.
+Find it. Polia’s heuristics are strategic procedures that are deliberately implemented by System 2, but the heuristics that I discuss in this chapter are not chosen. They are a consequence of the mental shotgun, the imprecise control we have over targeting our responses to questions. Consider the target questions you are about to hear.
 
-Consider the target questions you are about to hear. These are difficult questions, and before you can produce a reasoned answer to any of them, you must deal with other difficult issues. What is the meaning of happiness? What are the likely political developments in the next six months?
+These are difficult questions, and before you can produce a reasoned answer to any of them, you must deal with other difficult issues. What is the meaning of happiness? What are the likely political developments in the next six months? What are the standard sentences for other financial crimes?
 
-What are the standard sentences for other financial crimes? How strong is the competition that the candidate faces? What other environmental or other causes should be considered? Dealing with these questions seriously is completely impractical, but you are not limited to perfectly reasoned answers to questions.
-
-There is a heuristic alternative
+How strong is the competition that the candidate faces? What other environmental or other causes should be considered? Dealing with these questions seriously is completely impractical, but you are not limited to perfectly reasoned answers to questions. There is a heuristic alternative
 
 
 <a id="sec-044250"></a>
@@ -1729,27 +1715,25 @@ The sample of observations is too small to make any inferences. Let’s not foll
 <a id="sec-053326"></a>
 ### ⏱️ [05:33:26 - 05:38:31]
 
-#### Chapter 11 ANCHORS Amos and I once rigged a wheel of fortune.
+#### Chapter 11 ANCHORS Amos and I once rigged a wheel of fortune. It was marked from zero to one hundred, but we had it built so that it would stop only at ten or sixty-five. We recruited students of the University of Oregon as participants in our experiment. None of us would stand in front of a small group, spin the wheel, and ask them to write down the number on which the wheel stopped, which of course was either ten or sixty-five.
 
-It was marked from zero to one hundred, but we had it built so that it would stop only at ten or sixty-five. We recruited students of the University of Oregon as participants in our experiment. None of us would stand in front of a small group, spin the wheel, and ask them to write down the number on which the wheel stopped, which of course was either ten or sixty-five. We then asked them two questions.
+We then asked them two questions. Is the percentage of African nations among UN members larger or smaller than the number you just wrote? What is your best guess of the percentage of African nations in the UN? The spin of a wheel of fortune, even one that is not rigged, cannot possibly yield useful information about anything, and the participants in our experiment should simply have ignored it.
 
-Is the percentage of African nations among UN members larger or smaller than the number you just wrote? What is your best guess of the percentage of African nations in the UN? The spin of a wheel of fortune, even one that is not rigged, cannot possibly yield useful information about anything, and the participants in our experiment should simply have ignored it. But they did not ignore it.
+But they did not ignore it. The average estimates of those who saw ten and sixty-five were twenty-five percent and forty-five percent, respectively. The phenomenon we were studying is so common and so important in the everyday world that you should know its name. It is an anchoring effect.
 
-The average estimates of those who saw ten and sixty-five were twenty-five percent and forty-five percent, respectively. The phenomenon we were studying is so common and so important in the everyday world that you should know its name. It is an anchoring effect. It occurs when people consider a particular value for an unknown quantity before estimating that quantity.
+It occurs when people consider a particular value for an unknown quantity before estimating that quantity. What happens is one of the most reliable and robust results of experimental psychology. The estimates stay close to the number that people considered, hence the image of an anchor. If you are asked whether Gandhi was more than one hundred fourteen years old when he died, you will end up with a much higher estimate at his age of death than if you would if the anchoring question referred to death at thirty-five.
 
-What happens is one of the most reliable and robust results of experimental psychology. The estimates stay close to the number that people considered, hence the image of an anchor. If you are asked whether Gandhi was more than one hundred fourteen years old when he died, you will end up with a much higher estimate at his age of death than if you would if the anchoring question referred to death at thirty-five. If you consider how much you should pay for a house, you will be influenced by the asking price.
+If you consider how much you should pay for a house, you will be influenced by the asking price. The same house will appear more valuable if its listing price is high than if it is low, even if you are determined to resist the influence of this number, and so on. The list of anchoring effects is endless. Any number that you are asked to consider as a possible solution to an estimation problem will induce an anchoring effect.
 
-The same house will appear more valuable if its listing price is high than if it is low, even if you are determined to resist the influence of this number, and so on. The list of anchoring effects is endless. Any number that you are asked to consider as a possible solution to an estimation problem will induce an anchoring effect. We were not the first to observe the effects of anchors, but our experiment was the first demonstration of its absurdity.
+We were not the first to observe the effects of anchors, but our experiment was the first demonstration of its absurdity. People’s judgments were influenced by an obviously uninformative number. There was no way to describe the anchoring effect of a wheel of fortune as reasonable. Amos and I published the experiment in our science paper, and it is one of the best known of the findings we reported there.
 
-People’s judgments were influenced by an obviously uninformative number. There was no way to describe the anchoring effect of a wheel of fortune as reasonable. Amos and I published the experiment in our science paper, and it is one of the best known of the findings we reported there. There was only one trouble.
+There was only one trouble. Amos and I did not fully agree on the psychology of the anchoring effect. He supported one interpretation, I liked another, and we never found a way to settle the argument. The problem was finally solved, decades later, by the efforts of numerous investigators.
 
-Amos and I did not fully agree on the psychology of the anchoring effect. He supported one interpretation, I liked another, and we never found a way to settle the argument. The problem was finally solved, decades later, by the efforts of numerous investigators. It is now clear that Amos and I were both right.
+It is now clear that Amos and I were both right. Two different mechanisms produce anchoring effects, one for each system. There is a form of anchoring that occurs in a deliberate process of adjustment, an operation of system two. And there is anchoring that occurs by a priming effect, an automatic manifestation of system one.
 
-Two different mechanisms produce anchoring effects, one for each system. There is a form of anchoring that occurs in a deliberate process of adjustment, an operation of system two. And there is anchoring that occurs by a priming effect, an automatic manifestation of system one. Anchoring as adjustment.
+Anchoring as adjustment. Amos liked the idea of an adjust and anchor heuristic as a strategy for estimating uncertain quantities. Start from an anchoring number, assess whether it is too high or too low, and gradually adjust your estimate by mentally moving from the anchor. The adjustment typically ends prematurely because people stop when they are no longer certain that they should move farther.
 
-Amos liked the idea of an adjust and anchor heuristic as a strategy for estimating uncertain quantities. Start from an anchoring number, assess whether it is too high or too low, and gradually adjust your estimate by mentally moving from the anchor. The adjustment typically ends prematurely because people stop when they are no longer certain that they should move farther. Just after our disagreement, and years after Amos’s death, convincing evidence of such a process was offered independently by two psychologists who had worked closely with Amos early in their careers, Eldar Shafir and Tom Gilovich, together with their own students, Amos’s intellectual grandchildren.
-
-To get the idea, take a sheet of paper and draw a two-and-a-half-inch line going up starting at the bottom of the page, without a ruler. Now take another sheet and start at the top and draw a line going down until it is two-and-a-half-inches
+Just after our disagreement, and years after Amos’s death, convincing evidence of such a process was offered independently by two psychologists who had worked closely with Amos early in their careers, Eldar Shafir and Tom Gilovich, together with their own students, Amos’s intellectual grandchildren. To get the idea, take a sheet of paper and draw a two-and-a-half-inch line going up starting at the bottom of the page, without a ruler. Now take another sheet and start at the top and draw a line going down until it is two-and-a-half-inches
 
 
 <a id="sec-053831"></a>
@@ -1883,25 +1867,23 @@ Plans are best case scenarios. Let’s avoid anchoring on plans when we forecast
 
 Let’s make it clear that if that is their proposal, the negotiations are over. We do not want to start there. The defendant’s lawyers put in a frivolous reference in which they mentioned a ridiculously low amount of damages and they got the judge anchored on it.
 
-#### Chapter 12 The Science of Availability Amos and I had our most productive year in 1971-72, which we spent in Eugene, Oregon.
+#### Chapter 12 The Science of Availability Amos and I had our most productive year in 1971-72, which we spent in Eugene, Oregon. We were the guests of the Oregon Research Institute, which housed several future stars of all fields in which we worked, judgment, decision-making and intuitive prediction.
 
-We were the guests of the Oregon Research Institute, which housed several future stars of all fields in which we worked, judgment, decision-making and intuitive prediction. Our main host was Paul Slovik, who had been Amos’s classmate at Ann Arbor and remained a lifelong friend. Paul was on his way to becoming the leading psychologist among scholars of risk, a position he had held for decades, collecting many honors along the way. Paul and his wife, Roz, introduced us to life in Eugene and soon we were doing what people in Eugene do, jogging, barbecuing and taking children to basketball games.
+Our main host was Paul Slovik, who had been Amos’s classmate at Ann Arbor and remained a lifelong friend. Paul was on his way to becoming the leading psychologist among scholars of risk, a position he had held for decades, collecting many honors along the way. Paul and his wife, Roz, introduced us to life in Eugene and soon we were doing what people in Eugene do, jogging, barbecuing and taking children to basketball games. We also worked very hard, running dozens of experiments and writing our articles on judgment heuristics.
 
-We also worked very hard, running dozens of experiments and writing our articles on judgment heuristics. At night I wrote Attention and Effort. It was a busy year. One of our projects was the study of what we called the availability heuristic.
+At night I wrote Attention and Effort. It was a busy year. One of our projects was the study of what we called the availability heuristic. We thought of that heuristic when we asked ourselves what people actually do when they wish to estimate the frequency of a category, such as people who divorce after the age of sixty or dangerous plants.
 
-We thought of that heuristic when we asked ourselves what people actually do when they wish to estimate the frequency of a category, such as people who divorce after the age of sixty or dangerous plants. The answer was straightforward. Instances of the class will be retrieved from memory, and if retrieval is easy and fluent, the category will be judged to be large. We defined the availability heuristic as the process of judging frequency by the ease with which instances come to mind.
+The answer was straightforward. Instances of the class will be retrieved from memory, and if retrieval is easy and fluent, the category will be judged to be large. We defined the availability heuristic as the process of judging frequency by the ease with which instances come to mind. The statement seemed clear when we formulated it, but the concept of availability has been refined since then.
 
-The statement seemed clear when we formulated it, but the concept of availability has been refined since then. The two-system approach had not yet been developed when we studied availability, and we did not attempt to determine whether this heuristic is a deliberate problem-solving strategy or an automatic operation. We now know that both systems are involved. A question we considered early was, how many instances must be retrieved to get an impression of the ease with which they come to mind?
+The two-system approach had not yet been developed when we studied availability, and we did not attempt to determine whether this heuristic is a deliberate problem-solving strategy or an automatic operation. We now know that both systems are involved. A question we considered early was, how many instances must be retrieved to get an impression of the ease with which they come to mind? We now know the answer.
 
-We now know the answer. None.
+None. For example, think of the number of words that can be constructed from the two sets of letters here. X-U-Z-O-N-L-C-J-M. T-A-P-C-E-R-H-O-B.
 
-For example, think of the number of words that can be constructed from the two sets of letters here. X-U-Z-O-N-L-C-J-M. T-A-P-C-E-R-H-O-B. You knew almost immediately without generating any instances that one set offers far more possibilities than the other, probably by a factor of ten or more.
+You knew almost immediately without generating any instances that one set offers far more possibilities than the other, probably by a factor of ten or more. Similarly, you do not need to retrieve specific news stories to have a good idea of the relative frequency with which different countries have appeared in the news during the past year. Belgium, China, France, Congo, Nicaragua, Romania. The availability heuristic, like other heuristics of judgment, substitutes one question for another.
 
-Similarly, you do not need to retrieve specific news stories to have a good idea of the relative frequency with which different countries have appeared in the news during the past year. Belgium, China, France, Congo, Nicaragua, Romania. The availability heuristic, like other heuristics of judgment, substitutes one question for another. You wish to estimate the size of a category or the frequency of an event, but you report an impression of the ease with which instances come to mind.
+You wish to estimate the size of a category or the frequency of an event, but you report an impression of the ease with which instances come to mind. Substitution of questions inevitably produces systematic errors. You can discover how the heuristic leads to biases by following a simple procedure, list factors other than frequency that make it easy to come up with instances. Each factor in your list will be a potential source of bias.
 
-Substitution of questions inevitably produces systematic errors. You can discover how the heuristic leads to biases by following a simple procedure, list factors other than frequency that make it easy to come up with instances. Each factor in your list will be a potential source of bias. Here are some examples.
-
-A salient event that attracts your attention will be easily retrieved from memory. Divorces among Hollywood celebrities and sex scandals
+Here are some examples. A salient event that attracts your attention will be easily retrieved from memory. Divorces among Hollywood celebrities and sex scandals
 
 
 <a id="sec-060851"></a>
@@ -1991,11 +1973,9 @@ That’s an availability effect. He should look at the statistics. She has been 
 
 The CEO has had several successes in a row, so failure doesn’t come easily to her mind. The availability bias is making her overconfident.
 
-#### Chapter 13.
+#### Chapter 13. Availability, emotion, and risk. Students of risk were quick to see that the idea of availability was relevant to their concerns.
 
-Availability, emotion, and risk. Students of risk were quick to see that the idea of availability was relevant to their concerns. Even before our work was published, the economist, Howard Kunruther, who was then in the early stages of a career that he has devoted to the study of risk and insurance, noticed that availability effects help explain the pattern of insurance purchase and protective action after disasters. Victims and near victims are very concerned after a disaster.
-
-After each significant earthquake, Californians are for a while diligent in purchasing insurance and adopting measures of protection and mitigation. They tie down their boiler to reduce quake damage, seal their basement doors against floods, and maintain emergency supplies in good order.
+Even before our work was published, the economist, Howard Kunruther, who was then in the early stages of a career that he has devoted to the study of risk and insurance, noticed that availability effects help explain the pattern of insurance purchase and protective action after disasters. Victims and near victims are very concerned after a disaster. After each significant earthquake, Californians are for a while diligent in purchasing insurance and adopting measures of protection and mitigation. They tie down their boiler to reduce quake damage, seal their basement doors against floods, and maintain emergency supplies in good order.
 
 However, the memories of the disaster dim over time, and so do worry and diligence. The dynamics of memory help explain the recurrent cycles of disaster, concern, and growing complacency that are familiar to students of large-scale emergencies. Kunruther also observed that protective actions, whether by individuals or governments, are usually designed to be adequate to the worst disaster actually experienced. As long ago as Pharaonic Egypt, societies have tracked the high watermark of rivers that periodically flood and have always prepared accordingly, apparently assuming that floods will not rise higher than the existing high watermark.
 
@@ -2245,21 +2225,21 @@ How much solid evidence is there? They keep making the same mistake, predicting 
 
 But how sure are we? We must allow for that uncertainty in our thinking.
 
-#### Chapter 15 Linda.
+#### Chapter 15 Linda. Less is more. The best-known and most controversial of our experiments involved a fictitious lady called Linda.
 
-Less is more. The best-known and most controversial of our experiments involved a fictitious lady called Linda. Amos and I made up the Linda problem to provide conclusive evidence of the role of heuristics in judgment and of their incompatibility with logic. This is how we described Linda.
+Amos and I made up the Linda problem to provide conclusive evidence of the role of heuristics in judgment and of their incompatibility with logic. This is how we described Linda. Linda is thirty-one years old, single, outspoken, and very bright. She majored in philosophy.
 
-Linda is thirty-one years old, single, outspoken, and very bright. She majored in philosophy. As a student, she was deeply concerned with issues of discrimination and social justice and also participated in anti-nuclear demonstrations. The audiences who heard this description in the 1980s always laughed because they immediately knew that Linda had attended the University of California at Berkeley, which was famous at the time for its radical, politically engaged students.
+As a student, she was deeply concerned with issues of discrimination and social justice and also participated in anti-nuclear demonstrations. The audiences who heard this description in the 1980s always laughed because they immediately knew that Linda had attended the University of California at Berkeley, which was famous at the time for its radical, politically engaged students. In one of our experiments, we presented participants with a list of eight possible scenarios for Linda. Some of the students ranked them by representativeness, others by probability.
 
-In one of our experiments, we presented participants with a list of eight possible scenarios for Linda. Some of the students ranked them by representativeness, others by probability. Have a good look. The problem is similar to that of Tom W., but with a twist.
+Have a good look. The problem is similar to that of Tom W., but with a twist. Linda is a teacher in elementary school. Linda works in a bookstore and takes yoga classes.
 
-Linda is a teacher in elementary school. Linda works in a bookstore and takes yoga classes. Linda is active in the feminist movement. Linda is a psychiatric social worker.
+Linda is active in the feminist movement. Linda is a psychiatric social worker. Linda is a member of the League of Women Voters. Linda is a bank teller.
 
-Linda is a member of the League of Women Voters. Linda is a bank teller. Linda is an insurance salesperson. Linda is a bank teller and is active in the feminist movement.
+Linda is an insurance salesperson. Linda is a bank teller and is active in the feminist movement. The problem shows its age in several ways. The League of Women Voters is no longer as prominent as it was, and the idea of a feminist movement sounds quaint, a testimonial to the change in the status of women over the last 30 years.
 
-The problem shows its age in several ways. The League of Women Voters is no longer as prominent as it was, and the idea of a feminist movement sounds quaint, a testimonial to the change in the status of women over the last 30 years. Even in the Facebook era, however, it is still easy to guess the almost perfect consensus of judgments. Linda is a very good fit for an active feminist, a fairly good fit for someone who works in a bookstore and takes yoga classes, and a very poor fit for a bank teller or an insurance salesperson.
+Even in the Facebook era, however, it is still easy to guess the almost perfect consensus of judgments. Linda is a very good fit for an active feminist, a fairly good fit for someone who works in a bookstore and takes yoga classes, and a very poor fit for a bank teller or an insurance salesperson. Now focus on the critical items in the list. Does Linda sound more like a bank teller or more like a bank teller who is active in the feminist movement?
 
-Now focus on the critical items in the list. Does Linda sound more like a bank teller or more like a bank teller who is active in the feminist movement? Everyone agrees that Linda
+Everyone agrees that Linda
 
 
 <a id="sec-072426"></a>
@@ -2393,19 +2373,19 @@ They added a cheap gift to the expensive product and made the whole deal less at
 
 Sometimes intuition beats logic even when the correct answer stares you in the face.
 
-#### Chapter 16 Causes Trump Statistics Consider the following scenario and note your intuitive answer to the question.
+#### Chapter 16 Causes Trump Statistics Consider the following scenario and note your intuitive answer to the question. A cab was involved in a hit-and-run accident at night. Two cab companies, the green and the blue, operate in the city. You are given the following data.
 
-A cab was involved in a hit-and-run accident at night. Two cab companies, the green and the blue, operate in the city. You are given the following data. Eighty-five percent of the cabs in the city are green and fifteen percent are blue.
+Eighty-five percent of the cabs in the city are green and fifteen percent are blue. A witness identified the cab as blue. The court tested the reliability of the witness under the circumstances that existed on the night of the accident and concluded that the witness correctly identified each one of the two colors, eighty percent of the time, and failed twenty percent of the time. What is the probability that the cab involved in the accident was blue rather than green?
 
-A witness identified the cab as blue. The court tested the reliability of the witness under the circumstances that existed on the night of the accident and concluded that the witness correctly identified each one of the two colors, eighty percent of the time, and failed twenty percent of the time. What is the probability that the cab involved in the accident was blue rather than green? This is a standard problem of Bayesian inference.
+This is a standard problem of Bayesian inference. There are two items of information, a base rate and the imperfectly reliable testimony of a witness. In the absence of a witness, the probability of the guilty cab being blue is fifteen percent, which is the base rate of that outcome. If the two cab companies had been equally large, the base rate would have been uninformative and you would have considered only the reliability of the witness, concluding that the probability is eighty percent.
 
-There are two items of information, a base rate and the imperfectly reliable testimony of a witness. In the absence of a witness, the probability of the guilty cab being blue is fifteen percent, which is the base rate of that outcome. If the two cab companies had been equally large, the base rate would have been uninformative and you would have considered only the reliability of the witness, concluding that the probability is eighty percent. The two sources of information can be combined by Bayes' rule.
+The two sources of information can be combined by Bayes' rule. The correct answer is forty-one percent.
 
-The correct answer is forty-one percent. However, you can probably guess what people do when faced with this problem. They ignore the base rate and go with the witness. The most common answer is eighty percent.
+However, you can probably guess what people do when faced with this problem. They ignore the base rate and go with the witness. The most common answer is eighty percent. Causal stereotypes.
 
-Causal stereotypes. Now consider a variation of the same story in which only the presentation of the base rate has been altered. You are given the following data. The two companies operate the same number of cabs, but green cabs are involved in eighty-five percent of accidents.
+Now consider a variation of the same story in which only the presentation of the base rate has been altered. You are given the following data. The two companies operate the same number of cabs, but green cabs are involved in eighty-five percent of accidents. The information about the witness is as in the previous version.
 
-The information about the witness is as in the previous version. The two versions of the problem are mathematically indistinguishable, but they are psychologically quite different. People who read the first version do not know how to use the base rate and often ignore it.
+The two versions of the problem are mathematically indistinguishable, but they are psychologically quite different. People who read the first version do not know how to use the base rate and often ignore it.
 
 In contrast, people who see the second version give considerable weight to the base rate and their average judgment is not too far from the Bayesian solution. Why? In the first version, the base rate of blue cabs is a statistical fact about the cabs in the city. A mind that is hungry for causal stories finds nothing to chew on.
 
@@ -2523,11 +2503,11 @@ On the other hand, surprising individual cases have a powerful impact and are a 
 
 Let’s show them one or two representative individual cases to influence their system one. No need to worry about this statistical information being ignored. On the contrary, it will immediately be used to feed a stereotype.
 
-#### Chapter 17 Regression to the Mean I had one of the most satisfying eureka experiences of my career while teaching flight instructors in the Israeli Air Force about the psychology of effective training.
+#### Chapter 17 Regression to the Mean I had one of the most satisfying eureka experiences of my career while teaching flight instructors in the Israeli Air Force about the psychology of effective training. I was telling them about an important principle of skill training, rewards for improved performance work better than punishment of mistakes.
 
-I was telling them about an important principle of skill training, rewards for improved performance work better than punishment of mistakes. This proposition is supported by much evidence from research on pigeons, rats, humans, and other animals. When I finished my enthusiastic speech, one of the most seasoned instructors in the group raised his hand and made a short speech of his own. He began by conceding that rewarding improved performance might be good for the birds, but he denied that it was optimal for flight cadets.
+This proposition is supported by much evidence from research on pigeons, rats, humans, and other animals. When I finished my enthusiastic speech, one of the most seasoned instructors in the group raised his hand and made a short speech of his own. He began by conceding that rewarding improved performance might be good for the birds, but he denied that it was optimal for flight cadets. This is what he said.
 
-This is what he said. On many occasions I have praised flight cadets for clean execution of some aerobatic maneuver. The next time they try the same maneuver they usually do worse.
+On many occasions I have praised flight cadets for clean execution of some aerobatic maneuver. The next time they try the same maneuver they usually do worse.
 
 On the other hand, I have often screamed into a cadet’s earphone for bad execution and in general he does better on his next try, so please don’t tell us that reward works and punishment does not, because the opposite is the case. This was a joyous moment of insight, when I saw in a new light a principle of statistics that I had been teaching for years. The instructor was right, but he was also completely wrong. His observation was astute and correct, occasions on which he praised a performance were likely to be followed by a disappointing performance,
 
@@ -2661,23 +2641,23 @@ Why do you bother them with an obvious question? As Galton painfully discovered,
 
 Perhaps his second interview was less impressive than the first because he was afraid of disappointing us, but more likely it was his first that was unusually good. Our screening procedure is good, but not perfect, so we should anticipate regression. We shouldn’t be surprised that the very best candidates often fail to meet our expectations.
 
-#### Chapter 18 Taming Intuitive Predictions Life presents us with many occasions to forecast.
+#### Chapter 18 Taming Intuitive Predictions Life presents us with many occasions to forecast. Economists forecast inflation and unemployment.
 
-Economists forecast inflation and unemployment. Financial analysts forecast earnings. Military experts predict casualties. Venture capitalists assess profitability.
+Financial analysts forecast earnings. Military experts predict casualties. Venture capitalists assess profitability. Publishers and producers predict audiences.
 
-Publishers and producers predict audiences. Contractors estimate the time required to complete projects. Chefs anticipate the demand for the dishes on their menu. Engineers estimate the amount of concrete needed for a building.
+Contractors estimate the time required to complete projects. Chefs anticipate the demand for the dishes on their menu. Engineers estimate the amount of concrete needed for a building. Fire ground commanders assess the number of trucks that will be needed to put out a fire.
 
-Fire ground commanders assess the number of trucks that will be needed to put out a fire. In our private lives, we forecast our spouse’s reaction to a proposed move or our own future adjustment to a new job. Some predictive judgments, such as those made by engineers, rely largely on lookup tables, precise calculations, and explicit analyses of outcomes observed on similar occasions. Others involve intuition and system one in two main varieties.
+In our private lives, we forecast our spouse’s reaction to a proposed move or our own future adjustment to a new job. Some predictive judgments, such as those made by engineers, rely largely on lookup tables, precise calculations, and explicit analyses of outcomes observed on similar occasions. Others involve intuition and system one in two main varieties. Some intuitions draw rapidly on skill and expertise acquired by repeated experience.
 
-Some intuitions draw rapidly on skill and expertise acquired by repeated experience. The rapid and automatic judgments and choices of chess masters, fire ground commanders, and physicians that Gary Klein has described in Sources of Power and Elsewhere illustrate these skilled intuitions in which a solution to the current problem comes to mind quickly because familiar cues are recognized. Other intuitions, which are sometimes subjectively indistinguishable from the first, arise from the operation of heuristics that often substitute an easy question for the harder one that was asked.
+The rapid and automatic judgments and choices of chess masters, fire ground commanders, and physicians that Gary Klein has described in Sources of Power and Elsewhere illustrate these skilled intuitions in which a solution to the current problem comes to mind quickly because familiar cues are recognized. Other intuitions, which are sometimes subjectively indistinguishable from the first, arise from the operation of heuristics that often substitute an easy question for the harder one that was asked. Intuitive judgments can be made with high confidence, even when they are based on non-regressive assessments of weak evidence.
 
-Intuitive judgments can be made with high confidence, even when they are based on non-regressive assessments of weak evidence. Of course, many judgments, especially in the professional domain, are influenced by a combination of analysis and intuition. Non-regressive intuitions. Let us return to a person we have already met.
+Of course, many judgments, especially in the professional domain, are influenced by a combination of analysis and intuition. Non-regressive intuitions. Let us return to a person we have already met. Julie is currently a senior in a state university.
 
-Julie is currently a senior in a state university. She read fluently when she was four years old. What is her grade point average, GPA? People who are familiar with the American educational scene quickly come up with a number, which is often in the vicinity of 3.7 or 3.8.
+She read fluently when she was four years old. What is her grade point average, GPA? People who are familiar with the American educational scene quickly come up with a number, which is often in the vicinity of 3.7 or 3.8. How does this occur?
 
-How does this occur? Several operations of System 1 are involved. A causal link between the evidence, Julie’s reading, and the target of the prediction, her GPA, is sought. The link can be indirect.
+Several operations of System 1 are involved. A causal link between the evidence, Julie’s reading, and the target of the prediction, her GPA, is sought. The link can be indirect. In this instance, early reading and a high GDP are both indications of academic talent.
 
-In this instance, early reading and a high GDP are both indications of academic talent. Some connection is necessary. You, your System 2, would probably reject as irrelevant a report of Julie winning a fly fishing competition or excelling at weightlifting in high school. The process is effectively dichotomous.
+Some connection is necessary. You, your System 2, would probably reject as irrelevant a report of Julie winning a fly fishing competition or excelling at weightlifting in high school. The process is effectively dichotomous.
 
 
 <a id="sec-085031"></a>

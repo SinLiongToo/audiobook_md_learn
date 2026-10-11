@@ -66,26 +66,12 @@
       --card-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
     }
 
-    [data-line-height="compact"] {
-      --line-height: 1.68;
-    }
-    [data-line-height="normal"] {
-      --line-height: 1.88;
-    }
-    [data-line-height="loose"] {
-      --line-height: 2.12;
-    }
+    [data-line-height="compact"] { --line-height: 1.68; }
+    [data-line-height="normal"] { --line-height: 1.88; }
+    [data-line-height="loose"] { --line-height: 2.12; }
 
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
-    html {
-      scroll-behavior: smooth;
-    }
-
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
     body {
       font-family: var(--font-family);
       font-size: var(--font-size);
@@ -119,7 +105,7 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 0 20px;
+      padding: 0 18px;
       background-color: var(--bg-header);
       backdrop-filter: blur(8px);
       -webkit-backdrop-filter: blur(8px);
@@ -129,7 +115,7 @@
     .header-left, .header-right {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 8px;
       flex-wrap: nowrap;
     }
 
@@ -138,7 +124,7 @@
       border: 1px solid var(--border-color);
       color: var(--text-primary);
       cursor: pointer;
-      font-size: 14px;
+      font-size: 13.5px;
       padding: 6px 10px;
       border-radius: 8px;
       display: inline-flex;
@@ -147,6 +133,7 @@
       transition: all 0.2s;
       white-space: nowrap;
       user-select: none;
+      text-decoration: none;
     }
     .btn-icon:hover {
       background-color: var(--accent-light);
@@ -161,11 +148,132 @@
       font-size: 14px;
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
+    }
+    .home-link:hover { color: var(--accent-color); }
+
+    /* In-Page Search Bar Dropdown */
+    .inpage-search-bar {
+      position: sticky;
+      top: 60px;
+      z-index: 890;
+      background-color: var(--bg-surface);
+      border-bottom: 1px solid var(--border-color);
+      padding: 10px 18px;
+      display: none;
+      align-items: center;
+      gap: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    }
+    .inpage-search-bar.active { display: flex; }
+
+    .inpage-search-input-wrapper {
+      flex: 1;
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    .inpage-search-input {
+      width: 100%;
+      padding: 8px 36px 8px 12px;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      font-size: 14px;
+    }
+    .inpage-search-input:focus { outline: 2px solid var(--accent-color); }
+
+    .inpage-search-clear {
+      position: absolute;
+      right: 10px;
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 16px;
     }
 
-    .home-link:hover {
+    .inpage-search-count {
+      font-size: 13px;
+      color: var(--text-secondary);
+      font-family: monospace;
+      white-space: nowrap;
+    }
+    .search-nav-btns { display: flex; gap: 6px; }
+
+    /* In-Page Search Results Drawer */
+    .inpage-search-drawer {
+      position: fixed;
+      right: 20px;
+      top: 120px;
+      width: 360px;
+      max-height: calc(100vh - 160px);
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+      z-index: 895;
+      display: none;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .inpage-search-drawer.active { display: flex; }
+    .inpage-search-drawer-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-weight: 600;
+      font-size: 14px;
+    }
+    .inpage-search-drawer-list {
+      overflow-y: auto;
+      padding: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .search-result-item {
+      padding: 10px 12px;
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+      background: var(--bg-primary);
+      cursor: pointer;
+      font-size: 13px;
+      transition: all 0.15s;
+    }
+    .search-result-item:hover, .search-result-item.active {
+      border-color: var(--accent-color);
+      background: var(--accent-light);
+    }
+    .search-result-time {
+      font-weight: 700;
       color: var(--accent-color);
+      font-family: monospace;
+      margin-bottom: 4px;
+    }
+    .search-result-snippet {
+      color: var(--text-primary);
+      line-height: 1.5;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    /* Highlight mark */
+    mark.search-highlight {
+      background-color: #fef08a;
+      color: #1f2937;
+      padding: 1px 3px;
+      border-radius: 3px;
+    }
+    mark.search-highlight.active-match {
+      background-color: #f97316;
+      color: #ffffff;
+      outline: 2px solid #ea580c;
     }
 
     /* Layout Wrapper */
@@ -212,9 +320,7 @@
       font-size: 13px;
       margin-bottom: 14px;
     }
-    .toc-search:focus {
-      outline: 2px solid var(--accent-color);
-    }
+    .toc-search:focus { outline: 2px solid var(--accent-color); }
 
     .toc-list {
       list-style: none;
@@ -237,12 +343,10 @@
       overflow: hidden;
       text-overflow: ellipsis;
     }
-
     .toc-item a:hover {
       background-color: var(--accent-light);
       color: var(--accent-color);
     }
-
     .toc-item.active a {
       background-color: var(--accent-color);
       color: #ffffff;
@@ -257,19 +361,17 @@
       display: flex;
       justify-content: center;
     }
-
     .reader-container {
       width: 100%;
       max-width: var(--content-max-width);
     }
 
-    /* Book Hero / Header */
+    /* Book Hero */
     .book-hero {
       margin-bottom: 40px;
       padding-bottom: 24px;
       border-bottom: 2px solid var(--border-color);
     }
-
     .book-hero h1 {
       font-size: 2.1em;
       line-height: 1.35;
@@ -285,7 +387,6 @@
       gap: 10px;
       margin-top: 14px;
     }
-
     .meta-chip {
       display: inline-flex;
       align-items: center;
@@ -297,8 +398,13 @@
       font-size: 13px;
       font-weight: 500;
     }
+    .meta-chip.cat-badge {
+      background-color: #06b6d422;
+      color: #06b6d4;
+      font-weight: 600;
+    }
 
-    /* Content Typography & Enhanced Paragraphs */
+    /* Content Typography */
     .transcript-section {
       margin-bottom: 50px;
       scroll-margin-top: 80px;
@@ -349,25 +455,22 @@
       letter-spacing: 0.015em;
     }
 
-    /* Indented paragraph style (Traditional) */
+    /* Indented paragraph style */
     [data-p-style="indent"] .section-body p {
       text-indent: 2em;
       margin-bottom: 1.15em;
       line-height: var(--line-height);
     }
 
-    /* Block paragraph style (Modern with whitespace) */
+    /* Block paragraph style */
     [data-p-style="block"] .section-body p {
       text-indent: 0;
       margin-bottom: 1.55em;
       line-height: var(--line-height);
     }
+    .section-body p:last-child { margin-bottom: 0; }
 
-    .section-body p:last-child {
-      margin-bottom: 0;
-    }
-
-    /* Floating Navigation Controls */
+    /* Floating Tools */
     .floating-tools {
       position: fixed;
       bottom: 24px;
@@ -377,7 +480,6 @@
       gap: 10px;
       z-index: 800;
     }
-
     .float-btn {
       width: 44px;
       height: 44px;
@@ -399,7 +501,6 @@
       color: var(--accent-color);
     }
 
-    /* Overlay for mobile drawer */
     .backdrop {
       display: none;
       position: fixed;
@@ -419,36 +520,22 @@
         transform: translateX(-100%);
         box-shadow: 4px 0 16px rgba(0,0,0,0.15);
       }
-
-      .sidebar.open {
-        transform: translateX(0);
-      }
-
-      .backdrop.open {
-        display: block;
+      .sidebar.open { transform: translateX(0); }
+      .backdrop.open { display: block; }
+      .inpage-search-drawer {
+        left: 20px;
+        right: 20px;
+        width: auto;
       }
     }
 
     @media (max-width: 640px) {
-      :root {
-        --font-size: 17px;
-      }
-      .main-content {
-        padding: 24px 16px 60px 16px;
-      }
-      .book-hero h1 {
-        font-size: 1.55em;
-      }
-      .top-header {
-        padding: 0 10px;
-      }
-      .btn-icon {
-        padding: 5px 8px;
-        font-size: 13px;
-      }
-      [data-p-style="indent"] .section-body p {
-        text-indent: 1.5em;
-      }
+      :root { --font-size: 17px; }
+      .main-content { padding: 24px 16px 60px 16px; }
+      .book-hero h1 { font-size: 1.55em; }
+      .top-header { padding: 0 10px; }
+      .btn-icon { padding: 5px 7px; font-size: 12.5px; }
+      [data-p-style="indent"] .section-body p { text-indent: 1.5em; }
     }
   </style>
 </head>
@@ -464,6 +551,14 @@
       <a href="index.html" class="home-link" title="返回書架">
         🏠 書架
       </a>
+      <!-- Search Inside Book Button -->
+      <button class="btn-icon" id="search-toggle-btn" title="搜尋本書內文 (Ctrl+F)">
+        🔍 <span>搜尋內文</span>
+      </button>
+      <!-- Global Search Link -->
+      <a href="index.html?tab=search" class="btn-icon" title="前往全書庫全文檢索">
+        🌐 <span>全庫搜尋</span>
+      </a>
     </div>
 
     <div class="header-right">
@@ -473,7 +568,7 @@
       </button>
 
       <!-- Line Height Toggle -->
-      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 精簡)">
+      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 緊湊)">
         ↕ <span id="line-height-label">行距</span>
       </button>
 
@@ -492,6 +587,29 @@
       <button class="btn-icon" id="font-inc-btn" title="放大字級">A+</button>
     </div>
   </header>
+
+  <!-- In-Page Search Bar Dropdown -->
+  <div class="inpage-search-bar" id="inpage-search-bar">
+    <div class="inpage-search-input-wrapper">
+      <input type="text" id="inpage-search-input" class="inpage-search-input" placeholder="🔍 搜尋本書內文關鍵字 (按 Enter 尋找下一處，Esc 關閉)...">
+      <button class="inpage-search-clear" id="inpage-search-clear" title="清空">✕</button>
+    </div>
+    <span class="inpage-search-count" id="inpage-search-count">0 / 0</span>
+    <div class="search-nav-btns">
+      <button class="btn-icon" id="inpage-search-prev" title="上一處 (Shift+Enter)">▲</button>
+      <button class="btn-icon" id="inpage-search-next" title="下一處 (Enter)">▼</button>
+      <button class="btn-icon" id="inpage-search-close" title="關閉搜尋 (Esc)">✕</button>
+    </div>
+  </div>
+
+  <!-- In-Page Search Results Drawer -->
+  <div class="inpage-search-drawer" id="inpage-search-drawer">
+    <div class="inpage-search-drawer-header">
+      <span>搜尋結果清單</span>
+      <button class="btn-icon" id="inpage-drawer-close" style="padding: 2px 6px;">✕</button>
+    </div>
+    <div class="inpage-search-drawer-list" id="inpage-search-drawer-list"></div>
+  </div>
 
   <div class="backdrop" id="backdrop"></div>
 
@@ -530,6 +648,7 @@
         <header class="book-hero">
           <h1>Educate Yourself Every Day &amp; Stay Ahead of 99% People _ Audiobook</h1>
           <div class="book-meta-chips">
+            <span class="meta-chip cat-badge">🎯 領導與策略</span>
             <span class="meta-chip">🏷️ 時長：01:24:43</span>
 <span class="meta-chip">🏷️ 模型：small.en</span>
 <span class="meta-chip">🏷️ 日期：2026-09-22</span>
@@ -537,7 +656,7 @@
         </header>
 
         <!-- Transcript Content -->
-        <div class="book-body">
+        <div class="book-body" id="book-body">
           
         <section class="transcript-section" id="sec-000000">
           <div class="section-header">
@@ -596,24 +715,24 @@
           <div class="section-body">
             <p class="prose-p">It starts today. It starts with a decision. The decision to pick up a book instead of scrolling. The decision to listen to a podcast instead of wasting time on nonsense.</p>
 <p class="prose-p">The decision to become the type of person who never stops learning. Because once you commit to that mindset, there is no limit to how far you can go. The world belongs to the learners. The world belongs to those who refuse to be left behind.</p>
-<p class="prose-p">Which one will you be?</p>
-<h4 class="section-subhead">Chapter 2.</h4>
-<p class="prose-p">The 24-hour knowledge formula. Every single day you are faced with a decision whether you realize it or not. The decision to either improve or remain the same. The decision to either sharpen your mind or let it dull over time.</p>
-<p class="prose-p">The decision to either educate yourself or let the world outgrow you. This is not just about learning for the sake of it. This is about survival in a world that is evolving faster than ever before. Those who understand how to maximize their 24 hours.</p>
-<p class="prose-p">Those who dedicate themselves to consistent knowledge growth become unstoppable. And those who don’t, they wonder why nothing in their life ever changes. Let’s be real. The world does not slow down for anyone.</p>
-<p class="prose-p">It moves forward. And if you’re not actively upgrading yourself, you’re falling behind. Look at the people at the top of any field. Business, sports, entertainment, science.</p>
-<p class="prose-p">They all have one thing in common. An obsession with learning. They don’t just rely on what they learned years ago. They sharpen their skills, expand their minds and stay ahead of the competition.</p>
-<p class="prose-p">And that’s the key right there. The competition. Because whether you like it or not, life is competitive. Every industry is competitive.</p>
-<p class="prose-p">Every opportunity is competitive. You are either preparing yourself for success or you’re setting yourself up to be replaced by someone who did. The biggest lie people believe is that learning is something you do in school. And once you graduate, you’re done.</p>
-<p class="prose-p">That’s why so many people get stuck in the same job for years. Never getting a promotion. Never increasing their income. Never breaking out of the cycle of mediocrity.</p>
-<p class="prose-p">It’s not because they’re not capable. It’s because they stopped feeding their mind. They stopped growing. And the moment you stop growing, you start declining.</p>
-<p class="prose-p">You don’t stay in the same place in life. You either get better or you get worse. And the ones who get better. They’ve mastered the 24-hour knowledge formula.</p>
-<p class="prose-p">They figured out how to use their time in a way that puts them ahead of 99% of people. Think about this. Every person on this planet has the same 24 hours in a day. The difference between someone who is highly successful and someone who struggles is not luck, not background, not intelligence.</p>
-<p class="prose-p">It’s how they use those 24 hours. You could take two people with the same job, the same resources, and the same opportunities, but one of them will outgrow the other simply because they dedicate time to learning. While one person spends hours watching meaningless content, the other person is reading books, taking online courses, and absorbing knowledge that will make them more valuable. And over time, the gap between these two people becomes massive.</p>
-<p class="prose-p">If you want to separate yourself from the average, you have to start using your 24 hours differently. And no, I’m not talking about spending five hours a day studying. That’s unrealistic for most people. What I’m talking about is being intentional with your time.</p>
-<p class="prose-p">The difference between those who succeed and those who stay stuck is not how much time they have, but how they use it. Most people waste hours every day on distractions, social media, pointless conversations, entertainment that does nothing for their future. Then they complain that they don’t have time to learn, to grow, to develop new skills. But if you look at their daily habits, the truth is clear.</p>
-<p class="prose-p">They do have time. They just don’t use it wisely. The most successful people in the world have a rule. They dedicate a portion of their day every single day to learning something new.</p>
-<p class="prose-p">It doesn’t matter how… busy they are. It doesn’t matter how many responsibilities they have. They know that if they stop learning, they stop growing, and if they stop growing, they get left behind.</p>
+<p class="prose-p">Which one will you be?
+
+#### Chapter 2. The 24-hour knowledge formula. Every single day you are faced with a decision whether you realize it or not. The decision to either improve or remain the same.</p>
+<p class="prose-p">The decision to either sharpen your mind or let it dull over time. The decision to either educate yourself or let the world outgrow you. This is not just about learning for the sake of it. This is about survival in a world that is evolving faster than ever before.</p>
+<p class="prose-p">Those who understand how to maximize their 24 hours. Those who dedicate themselves to consistent knowledge growth become unstoppable. And those who don’t, they wonder why nothing in their life ever changes. Let’s be real.</p>
+<p class="prose-p">The world does not slow down for anyone. It moves forward. And if you’re not actively upgrading yourself, you’re falling behind. Look at the people at the top of any field.</p>
+<p class="prose-p">Business, sports, entertainment, science. They all have one thing in common. An obsession with learning. They don’t just rely on what they learned years ago.</p>
+<p class="prose-p">They sharpen their skills, expand their minds and stay ahead of the competition. And that’s the key right there. The competition. Because whether you like it or not, life is competitive.</p>
+<p class="prose-p">Every industry is competitive. Every opportunity is competitive. You are either preparing yourself for success or you’re setting yourself up to be replaced by someone who did. The biggest lie people believe is that learning is something you do in school.</p>
+<p class="prose-p">And once you graduate, you’re done. That’s why so many people get stuck in the same job for years. Never getting a promotion. Never increasing their income.</p>
+<p class="prose-p">Never breaking out of the cycle of mediocrity. It’s not because they’re not capable. It’s because they stopped feeding their mind. They stopped growing.</p>
+<p class="prose-p">And the moment you stop growing, you start declining. You don’t stay in the same place in life. You either get better or you get worse. And the ones who get better.</p>
+<p class="prose-p">They’ve mastered the 24-hour knowledge formula. They figured out how to use their time in a way that puts them ahead of 99% of people. Think about this. Every person on this planet has the same 24 hours in a day.</p>
+<p class="prose-p">The difference between someone who is highly successful and someone who struggles is not luck, not background, not intelligence. It’s how they use those 24 hours. You could take two people with the same job, the same resources, and the same opportunities, but one of them will outgrow the other simply because they dedicate time to learning. While one person spends hours watching meaningless content, the other person is reading books, taking online courses, and absorbing knowledge that will make them more valuable.</p>
+<p class="prose-p">And over time, the gap between these two people becomes massive. If you want to separate yourself from the average, you have to start using your 24 hours differently. And no, I’m not talking about spending five hours a day studying. That’s unrealistic for most people.</p>
+<p class="prose-p">What I’m talking about is being intentional with your time. The difference between those who succeed and those who stay stuck is not how much time they have, but how they use it. Most people waste hours every day on distractions, social media, pointless conversations, entertainment that does nothing for their future. Then they complain that they don’t have time to learn, to grow, to develop new skills.</p>
+<p class="prose-p">But if you look at their daily habits, the truth is clear. They do have time. They just don’t use it wisely. The most successful people in the world have a rule.</p>
+<p class="prose-p">They dedicate a portion of their day every single day to learning something new. It doesn’t matter how… busy they are. It doesn’t matter how many responsibilities they have. They know that if they stop learning, they stop growing, and if they stop growing, they get left behind.</p>
           </div>
         </section>
         
@@ -631,8 +750,9 @@
 <p class="prose-p">But you’re not like most people. You wouldn’t be here if you were. You know that you are capable of more and you’re ready to take control of your future. So here’s what you need to do.</p>
 <p class="prose-p">Right now commit to setting aside time every single day for learning, even if it’s just 20-90s-30 minutes. Even if you start small, the key is consistency. Over time this simple habit will compound and the results will be undeniable. You’ll start to notice that your mindset is sharper, your skills are stronger, your opportunities are greater.</p>
 <p class="prose-p">And while everyone else is wondering why nothing in their life ever changes, you’ll be too busy winning to even notice. The truth is, you don’t need more time, you just need to use it better. You don’t need a special talent, you just need a commitment to growth. The people who are truly successful are not the ones who were born with an advantage.</p>
-<p class="prose-p">They are the ones who decided, every single day, to become better than they were yesterday. And if you do the same, there is nothing in this world that can stop you. The world belongs to those who learn, those who adapt, those who refuse to settle. The question is, will you be one of them?</p>
-<h4 class="section-subhead">Chapter 3.</h4>
+<p class="prose-p">They are the ones who decided, every single day, to become better than they were yesterday. And if you do the same, there is nothing in this world that can stop you. The world belongs to those who learn, those who adapt, those who refuse to settle. The question is, will you be one of them?
+
+#### Chapter 3.</p>
 <p class="prose-p">How to learn from books without wasting time. Every single successful person has one thing in common. They read. It’s not a coincidence.</p>
 <p class="prose-p">It’s not luck. It’s not something they do just because they have extra time. It’s a deliberate strategy. Reading is the fastest way to download decades of wisdom, experience, and expertise from the greatest minds in history.</p>
 <p class="prose-p">Imagine being able to sit down with a billionaire and pick his brain about success. Imagine learning directly from the most powerful leaders, the most brilliant thinkers, the most innovative entrepreneurs. That’s what books allow you to do. But here’s the problem.</p>
@@ -756,11 +876,11 @@
 <p class="prose-p">At the end of the day, online learning is like a weapon. It can be the greatest tool you’ve ever had or it can be the biggest distraction keeping you stuck. The difference comes down to how you use it. The people who stay ahead don’t just consume, they create.</p>
 <p class="prose-p">They don’t just learn, they implement. They don’t just plan, they execute. And if you make the decision today to stop passively consuming and start actively applying, your entire trajectory will change. You won’t just be another person who knows a lot, you’ll be one of the few who actually does something with it.</p>
 <p class="prose-p">Every single minute you spend watching, reading or studying without applying is time wasted. But every single minute you spend learning and immediately taking action is an investment in your future. So the next time you catch yourself stuck in another endless loop of tutorials, courses or motivational videos, stop. Ask yourself, what’s the one thing I can take from this and use right now?</p>
-<p class="prose-p">Then do it. Because the moment you shift from just learning to actually doing, that’s when everything in your life will start to transform.</p>
-<h4 class="section-subhead">Chapter 6 The Five High Value Skills That Will Always Be In Demand Your success is directly tied to the skills you develop.</h4>
-<p class="prose-p">In a world that’s changing faster than ever, the people who win are the ones who master high value skills, skills that will always be in demand, no matter how much technology advances or industries shift. If you want to stay ahead, you can’t rely on what you learned in school. You can’t stay ahead. it back and hope that your current knowledge will be enough. The world doesn’t reward people for what they used to know.</p>
-<p class="prose-p">It rewards those who can adapt, learn, and execute better than anyone else. Look around and you’ll see it happening everywhere. The people who thrive aren’t necessarily the smartest or the most talented. They’re the ones who understand what the market values.</p>
-<p class="prose-p">They focus on skills that make them indispensable. They know that job security doesn’t come from a</p>
+<p class="prose-p">Then do it. Because the moment you shift from just learning to actually doing, that’s when everything in your life will start to transform.
+
+#### Chapter 6 The Five High Value Skills That Will Always Be In Demand Your success is directly tied to the skills you develop. In a world that’s changing faster than ever, the people who win are the ones who master high value skills, skills that will always be in demand, no matter how much technology advances or industries shift. If you want to stay ahead, you can’t rely on what you learned in school.</p>
+<p class="prose-p">You can’t stay ahead. it back and hope that your current knowledge will be enough. The world doesn’t reward people for what they used to know. It rewards those who can adapt, learn, and execute better than anyone else. Look around and you’ll see it happening everywhere.</p>
+<p class="prose-p">The people who thrive aren’t necessarily the smartest or the most talented. They’re the ones who understand what the market values. They focus on skills that make them indispensable. They know that job security doesn’t come from a</p>
           </div>
         </section>
         
@@ -823,12 +943,13 @@
 <p class="prose-p">If you want to ensure that you’re not left behind, you need to actively educate yourself on how AI is affecting your industry and how you can adapt. The people who get ahead are the ones who understand the changes happening in their field and position themselves to take advantage of them. If you wait for AI to replace your job, it might be too late to make a comeback. But if you take control of your learning and start using AI as a tool to amplify your own skills, you’ll stay relevant no matter what.</p>
 <p class="prose-p">It’s easy to get overwhelmed by the rapid pace of technological change, but the key to staying ahead is to break it down into manageable steps. Start small. Begin by learning about the AI tools that are most relevant to your field. Experiment with AI-powered apps and platforms to see how they can improve your productivity.</p>
 <p class="prose-p">Take online courses or attend webinars to build your understanding of AI and how it’s used in your industry. The more you learn, the more confident you’ll become and the better equipped you’ll be to leverage AI to your advantage. As you embark on this journey, remember that AI is not something to fear, it’s something to embrace. It’s not going to take away your job, it’s going to make you better at it.</p>
-<p class="prose-p">With the right mindset and the right tools, you can use AI to enhance your skills, increase your value, and future-proof your career. The future is not coming for you, it’s coming for everyone. The question is, will you be ready?</p>
-<h4 class="section-subhead">Chapter 8.</h4>
-<p class="prose-p">Stop consuming. Start applying. Success is built on action, not just knowledge. We live in a time where information is at our fingertips, available anytime, anywhere, but here’s the truth.</p>
-<p class="prose-p">Learning without application is like collecting tools without ever building anything. It’s like filling your toolbox to the brim, but never constructing a thing with it. Imagine how many people you know who read books, attend seminars, or watch countless videos, yet still seem stuck in the same place year after year. That’s because they fail to apply what they learn.</p>
-<p class="prose-p">Knowledge alone isn’t power, it’s the application of knowledge that transforms lives. And if you want to be the kind of person who doesn’t just learn but grows, then you need to stop consuming information passively and start applying it actively. Think about how many times you’ve been inspired by a book or a podcast, only to have that initial spark of motivation fade away as soon as you get busy with the day-to-day grind. It’s frustrating, right?</p>
-<p class="prose-p">You read something powerful and it feels like it will change everything for you, but then you go on autopilot and fall back into old habits. What happens in those moments is that you’re consuming information but not letting it sink in and transform your thinking. You’re filling your brain with facts, but you’re not creating space for those facts to change how you act or think. If you really want to advance, it’s crucial to take your learning one step further.</p>
+<p class="prose-p">With the right mindset and the right tools, you can use AI to enhance your skills, increase your value, and future-proof your career. The future is not coming for you, it’s coming for everyone. The question is, will you be ready?
+
+#### Chapter 8. Stop consuming.</p>
+<p class="prose-p">Start applying. Success is built on action, not just knowledge. We live in a time where information is at our fingertips, available anytime, anywhere, but here’s the truth. Learning without application is like collecting tools without ever building anything.</p>
+<p class="prose-p">It’s like filling your toolbox to the brim, but never constructing a thing with it. Imagine how many people you know who read books, attend seminars, or watch countless videos, yet still seem stuck in the same place year after year. That’s because they fail to apply what they learn. Knowledge alone isn’t power, it’s the application of knowledge that transforms lives.</p>
+<p class="prose-p">And if you want to be the kind of person who doesn’t just learn but grows, then you need to stop consuming information passively and start applying it actively. Think about how many times you’ve been inspired by a book or a podcast, only to have that initial spark of motivation fade away as soon as you get busy with the day-to-day grind. It’s frustrating, right? You read something powerful and it feels like it will change everything for you, but then you go on autopilot and fall back into old habits.</p>
+<p class="prose-p">What happens in those moments is that you’re consuming information but not letting it sink in and transform your thinking. You’re filling your brain with facts, but you’re not creating space for those facts to change how you act or think. If you really want to advance, it’s crucial to take your learning one step further.</p>
           </div>
         </section>
         
@@ -866,16 +987,17 @@
 <p class="prose-p">They experiment with new ideas. They take risks, make adjustments and keep evolving. They understand that learning is a dynamic ongoing process. You’re not meant to just gather knowledge, you’re meant to put it into practice, refine it and evolve as a result.</p>
 <p class="prose-p">Knowledge without application is wasted potential. You have an incredible opportunity right now to start turning your learning into action. Every single piece of knowledge you’ve accumulated can be used to improve your life in some way. It’s time to stop waiting for the perfect moment or the perfect circumstances.</p>
 <p class="prose-p">Take what you know today and use it. And then when tomorrow comes, use what you’ve learned today to learn something new. It’s an ongoing cycle, a process of constant action and improvement and it’s what will set you apart from everyone else who’s just sitting back, consuming without ever doing. The world rewards action.</p>
-<p class="prose-p">The world rewards those who take what they learn and use it to move forward. Are you ready to be one of those people?</p>
-<h4 class="section-subhead">Chapter 9 The One Percent Notebook How to Retain and Use What You Learn The greatest obstacle between you and your success is not a lack of information.</h4>
-<p class="prose-p">It’s not the tools, the strategies or even the goals you set. The true challenge is the ability to take everything you’re learning and keep it with you so you can actually use it to make the impact you want. Imagine you read a life-changing book or listen to a podcast that sparks a new idea. You’re excited, motivated and ready to take action.</p>
-<p class="prose-p">But then, a few days later, you can barely recall the key lessons. The energy fades and the ideas seem like distant memories. The difference between people who thrive and those who don’t is simple. It’s the ability to remember and use what they’ve learned.</p>
-<p class="prose-p">We all know that feeling. You read something inspiring or hear a quote that seems like it could change your life, but soon enough it slips away like water through your fingers. This is where having a powerful system to retain and use what you learn becomes crucial. You need something more than just the occasional aha moment.</p>
-<p class="prose-p">You need to turn that knowledge into a lasting part of your life, something you can apply every day, not just when you’re in the mood to think about it. The simple truth is this, your ability to remember and utilize knowledge determines how much progress you make in your life. And without a reliable system to retain what you learn, your growth will always be limited. This is why it’s time to create your own 1% notebook.</p>
-<p class="prose-p">This isn’t just about jotting down random notes in a diary. It’s a method, a strategy, designed to help you retain what you learn and apply it with precision. You can’t just consume information passively and expect it to stay with you. You need a system to actively absorb it and process it.</p>
-<p class="prose-p">This notebook becomes your trusted companion, your personal knowledge vault. It’s where you capture the key ideas, the critical lessons, the quotes and strategies that can propel you forward. But here’s the catch, it’s not just about writing things down. It’s about making sure those notes are meaningful to you and more importantly usable.</p>
-<p class="prose-p">Here’s what most people do, they take notes, scribble down things they find interesting and think that’s enough. But in reality, if you’re just writing things down and never looking back at them, you’re missing the point entirely. The power of a notebook lies in its ability to be revisited, reflected on and connected to real life actions. This is how you lock knowledge into your memory and make it part of your everyday experience.</p>
-<p class="prose-p">The first step is to make sure your notes are actionable. What’s the point of writing something down if it’s not going to help you take the next step in your life? Instead of just summarising what you’ve read or heard, ask yourself, how can I use this today? When you go through a book or listen to a podcast, it’s not enough to just think about</p>
+<p class="prose-p">The world rewards those who take what they learn and use it to move forward. Are you ready to be one of those people?
+
+#### Chapter 9 The One Percent Notebook How to Retain and Use What You Learn The greatest obstacle between you and your success is not a lack of information. It’s not the tools, the strategies or even the goals you set. The true challenge is the ability to take everything you’re learning and keep it with you so you can actually use it to make the impact you want.</p>
+<p class="prose-p">Imagine you read a life-changing book or listen to a podcast that sparks a new idea. You’re excited, motivated and ready to take action. But then, a few days later, you can barely recall the key lessons. The energy fades and the ideas seem like distant memories.</p>
+<p class="prose-p">The difference between people who thrive and those who don’t is simple. It’s the ability to remember and use what they’ve learned. We all know that feeling. You read something inspiring or hear a quote that seems like it could change your life, but soon enough it slips away like water through your fingers.</p>
+<p class="prose-p">This is where having a powerful system to retain and use what you learn becomes crucial. You need something more than just the occasional aha moment. You need to turn that knowledge into a lasting part of your life, something you can apply every day, not just when you’re in the mood to think about it. The simple truth is this, your ability to remember and utilize knowledge determines how much progress you make in your life.</p>
+<p class="prose-p">And without a reliable system to retain what you learn, your growth will always be limited. This is why it’s time to create your own 1% notebook. This isn’t just about jotting down random notes in a diary. It’s a method, a strategy, designed to help you retain what you learn and apply it with precision.</p>
+<p class="prose-p">You can’t just consume information passively and expect it to stay with you. You need a system to actively absorb it and process it. This notebook becomes your trusted companion, your personal knowledge vault. It’s where you capture the key ideas, the critical lessons, the quotes and strategies that can propel you forward.</p>
+<p class="prose-p">But here’s the catch, it’s not just about writing things down. It’s about making sure those notes are meaningful to you and more importantly usable. Here’s what most people do, they take notes, scribble down things they find interesting and think that’s enough. But in reality, if you’re just writing things down and never looking back at them, you’re missing the point entirely.</p>
+<p class="prose-p">The power of a notebook lies in its ability to be revisited, reflected on and connected to real life actions. This is how you lock knowledge into your memory and make it part of your everyday experience. The first step is to make sure your notes are actionable. What’s the point of writing something down if it’s not going to help you take the next step in your life?</p>
+<p class="prose-p">Instead of just summarising what you’ve read or heard, ask yourself, how can I use this today? When you go through a book or listen to a podcast, it’s not enough to just think about</p>
           </div>
         </section>
         
@@ -896,11 +1018,11 @@
 <p class="prose-p">It’s not just a place to write things down, it’s a tool to shape who you are, what you do, and how you think. Over time, you’ll notice that you don’t just know things, you live them. And that’s when everything starts to change. It doesn’t matter how many books you read or how many podcasts you listen to if you’re not using that knowledge to shape your life.</p>
 <p class="prose-p">That’s why the 1% Notebook isn’t just about retention, it’s about action. It’s about transforming knowledge into wisdom and wisdom into results. So every time you learn something, think to yourself, how can I take this one step further? How can I use this today, right now?</p>
 <p class="prose-p">The more you do this, the more you’ll see that your learning isn’t just about gathering information, it’s about building a life of purpose, discipline, and real tangible results. At the end of the day, the most successful people aren’t the ones with the most knowledge, they’re the ones who know how to use what they learn. The 1% Notebook is your key to ensuring that the knowledge you accumulate doesn’t just slip away into the ether. It becomes your tool for action, reflection, and growth.</p>
-<p class="prose-p">When you start using this system consistently, you’ll begin to notice a profound shift in your life. Your confidence will grow, your productivity will increase, and your results will speak for themselves. You’ll pick up that. notebook, start writing, start applying, and watch how your life transforms. The only question now is, are you ready to take what you’ve learned and turn it into the life you’ve always wanted?</p>
-<h4 class="section-subhead">Chapter 10.</h4>
-<p class="prose-p">Thinking Critically. Avoiding misinformation and bad advice. The world is filled with noise, opinions, half-truths, misleading headlines, and stories crafted to shape your beliefs. Most people blindly follow what they hear without ever stopping to think.</p>
-<p class="prose-p">Is this true? Is this actually useful? It’s easy to get caught up in the whirlwind of information that’s constantly coming at you. But here’s the secret.</p>
-<p class="prose-p">Critical</p>
+<p class="prose-p">When you start using this system consistently, you’ll begin to notice a profound shift in your life. Your confidence will grow, your productivity will increase, and your results will speak for themselves. You’ll pick up that. notebook, start writing, start applying, and watch how your life transforms. The only question now is, are you ready to take what you’ve learned and turn it into the life you’ve always wanted?
+
+#### Chapter 10. Thinking Critically.</p>
+<p class="prose-p">Avoiding misinformation and bad advice. The world is filled with noise, opinions, half-truths, misleading headlines, and stories crafted to shape your beliefs. Most people blindly follow what they hear without ever stopping to think. Is this true?</p>
+<p class="prose-p">Is this actually useful? It’s easy to get caught up in the whirlwind of information that’s constantly coming at you. But here’s the secret. Critical</p>
           </div>
         </section>
         
@@ -1114,6 +1236,204 @@
 
     document.getElementById('scroll-top-btn').addEventListener('click', () => {
       window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    // ==========================================
+    // IN-PAGE CONTENT SEARCH (單書全文搜尋)
+    // ==========================================
+    const searchBar = document.getElementById('inpage-search-bar');
+    const searchInput = document.getElementById('inpage-search-input');
+    const searchCount = document.getElementById('inpage-search-count');
+    const searchDrawer = document.getElementById('inpage-search-drawer');
+    const searchDrawerList = document.getElementById('inpage-search-drawer-list');
+    const searchToggleBtn = document.getElementById('search-toggle-btn');
+    const searchClearBtn = document.getElementById('inpage-search-clear');
+    const searchPrevBtn = document.getElementById('inpage-search-prev');
+    const searchNextBtn = document.getElementById('inpage-search-next');
+    const searchCloseBtn = document.getElementById('inpage-search-close');
+    const drawerCloseBtn = document.getElementById('inpage-drawer-close');
+
+    let searchMatches = [];
+    let currentMatchIdx = -1;
+
+    // Cache original innerHTML for clean resets
+    const rawParagraphs = Array.from(document.querySelectorAll('.section-body p')).map(p => ({
+      el: p,
+      rawHtml: p.innerHTML,
+      rawText: p.textContent
+    }));
+
+    function openSearch() {
+      searchBar.classList.add('active');
+      searchInput.focus();
+      searchInput.select();
+      if (searchInput.value.trim()) {
+        performSearch(searchInput.value.trim());
+      }
+    }
+
+    function closeSearch() {
+      searchBar.classList.remove('active');
+      searchDrawer.classList.remove('active');
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchCount.textContent = '0 / 0';
+    }
+
+    function clearHighlights() {
+      rawParagraphs.forEach(item => {
+        item.el.innerHTML = item.rawHtml;
+      });
+    }
+
+    function escapeRegex(str) {
+      return str.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+    }
+
+    function escapeHtml(str) {
+      return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+
+    function performSearch(query) {
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchDrawerList.innerHTML = '';
+
+      if (!query || query.trim().length === 0) {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+        return;
+      }
+
+      query = query.trim();
+      const qLower = query.toLowerCase();
+      const regex = new RegExp(`(${escapeRegex(query)})`, 'gi');
+
+      rawParagraphs.forEach((item, pIdx) => {
+        if (item.rawText.toLowerCase().includes(qLower)) {
+          const sec = item.el.closest('.transcript-section');
+          const secTime = sec ? (sec.querySelector('.section-time')?.textContent || '') : '';
+          const secId = sec ? sec.id : '';
+
+          // Apply highlight
+          item.el.innerHTML = item.rawHtml.replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const marks = Array.from(item.el.querySelectorAll('mark.search-highlight'));
+          marks.forEach(mark => {
+            searchMatches.push({
+              mark,
+              el: item.el,
+              secTime,
+              secId
+            });
+          });
+
+          // Snippet creation
+          const matchPos = item.rawText.toLowerCase().indexOf(qLower);
+          const start = Math.max(0, matchPos - 30);
+          const end = Math.min(item.rawText.length, matchPos + query.length + 50);
+          const snippetText = item.rawText.slice(start, end);
+          const snippetHtml = escapeHtml(snippetText).replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const card = document.createElement('div');
+          card.className = 'search-result-item';
+          card.innerHTML = `
+            <div class="search-result-time">${secTime}</div>
+            <div class="search-result-snippet">...${snippetHtml}...</div>
+          `;
+          card.addEventListener('click', () => {
+            const targetIdx = searchMatches.findIndex(m => m.mark === marks[0]);
+            if (targetIdx >= 0) goToMatch(targetIdx);
+          });
+          searchDrawerList.appendChild(card);
+        }
+      });
+
+      if (searchMatches.length > 0) {
+        searchDrawer.classList.add('active');
+        goToMatch(0);
+      } else {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+      }
+    }
+
+    function goToMatch(idx) {
+      if (idx < 0 || idx >= searchMatches.length) return;
+      if (currentMatchIdx >= 0 && searchMatches[currentMatchIdx]) {
+        searchMatches[currentMatchIdx].mark.classList.remove('active-match');
+      }
+      currentMatchIdx = idx;
+      const target = searchMatches[currentMatchIdx];
+      target.mark.classList.add('active-match');
+      searchCount.textContent = `${currentMatchIdx + 1} / ${searchMatches.length}`;
+
+      // Highlight active drawer item
+      const drawerItems = searchDrawerList.querySelectorAll('.search-result-item');
+      drawerItems.forEach(di => di.classList.remove('active'));
+
+      target.mark.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+
+    searchToggleBtn.addEventListener('click', () => {
+      if (searchBar.classList.contains('active')) {
+        closeSearch();
+      } else {
+        openSearch();
+      }
+    });
+
+    let debounceTimer;
+    searchInput.addEventListener('input', (e) => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => {
+        performSearch(e.target.value);
+      }, 200);
+    });
+
+    searchClearBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      performSearch('');
+      searchInput.focus();
+    });
+
+    searchNextBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const nextIdx = (currentMatchIdx + 1) % searchMatches.length;
+      goToMatch(nextIdx);
+    });
+
+    searchPrevBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const prevIdx = (currentMatchIdx - 1 + searchMatches.length) % searchMatches.length;
+      goToMatch(prevIdx);
+    });
+
+    searchInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        if (e.shiftKey) {
+          searchPrevBtn.click();
+        } else {
+          searchNextBtn.click();
+        }
+      } else if (e.key === 'Escape') {
+        closeSearch();
+      }
+    });
+
+    searchCloseBtn.addEventListener('click', closeSearch);
+    drawerCloseBtn.addEventListener('click', () => searchDrawer.classList.remove('active'));
+
+    window.addEventListener('keydown', (e) => {
+      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'f') {
+        e.preventDefault();
+        openSearch();
+      } else if (e.key === 'Escape') {
+        if (searchBar.classList.contains('active')) closeSearch();
+      }
     });
   </script>
 </body>

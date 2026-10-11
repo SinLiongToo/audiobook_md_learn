@@ -66,26 +66,12 @@
       --card-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
     }
 
-    [data-line-height="compact"] {
-      --line-height: 1.68;
-    }
-    [data-line-height="normal"] {
-      --line-height: 1.88;
-    }
-    [data-line-height="loose"] {
-      --line-height: 2.12;
-    }
+    [data-line-height="compact"] { --line-height: 1.68; }
+    [data-line-height="normal"] { --line-height: 1.88; }
+    [data-line-height="loose"] { --line-height: 2.12; }
 
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
-    html {
-      scroll-behavior: smooth;
-    }
-
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
     body {
       font-family: var(--font-family);
       font-size: var(--font-size);
@@ -119,7 +105,7 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 0 20px;
+      padding: 0 18px;
       background-color: var(--bg-header);
       backdrop-filter: blur(8px);
       -webkit-backdrop-filter: blur(8px);
@@ -129,7 +115,7 @@
     .header-left, .header-right {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 8px;
       flex-wrap: nowrap;
     }
 
@@ -138,7 +124,7 @@
       border: 1px solid var(--border-color);
       color: var(--text-primary);
       cursor: pointer;
-      font-size: 14px;
+      font-size: 13.5px;
       padding: 6px 10px;
       border-radius: 8px;
       display: inline-flex;
@@ -147,6 +133,7 @@
       transition: all 0.2s;
       white-space: nowrap;
       user-select: none;
+      text-decoration: none;
     }
     .btn-icon:hover {
       background-color: var(--accent-light);
@@ -161,11 +148,132 @@
       font-size: 14px;
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
+    }
+    .home-link:hover { color: var(--accent-color); }
+
+    /* In-Page Search Bar Dropdown */
+    .inpage-search-bar {
+      position: sticky;
+      top: 60px;
+      z-index: 890;
+      background-color: var(--bg-surface);
+      border-bottom: 1px solid var(--border-color);
+      padding: 10px 18px;
+      display: none;
+      align-items: center;
+      gap: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    }
+    .inpage-search-bar.active { display: flex; }
+
+    .inpage-search-input-wrapper {
+      flex: 1;
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    .inpage-search-input {
+      width: 100%;
+      padding: 8px 36px 8px 12px;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      font-size: 14px;
+    }
+    .inpage-search-input:focus { outline: 2px solid var(--accent-color); }
+
+    .inpage-search-clear {
+      position: absolute;
+      right: 10px;
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 16px;
     }
 
-    .home-link:hover {
+    .inpage-search-count {
+      font-size: 13px;
+      color: var(--text-secondary);
+      font-family: monospace;
+      white-space: nowrap;
+    }
+    .search-nav-btns { display: flex; gap: 6px; }
+
+    /* In-Page Search Results Drawer */
+    .inpage-search-drawer {
+      position: fixed;
+      right: 20px;
+      top: 120px;
+      width: 360px;
+      max-height: calc(100vh - 160px);
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+      z-index: 895;
+      display: none;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .inpage-search-drawer.active { display: flex; }
+    .inpage-search-drawer-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-weight: 600;
+      font-size: 14px;
+    }
+    .inpage-search-drawer-list {
+      overflow-y: auto;
+      padding: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .search-result-item {
+      padding: 10px 12px;
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+      background: var(--bg-primary);
+      cursor: pointer;
+      font-size: 13px;
+      transition: all 0.15s;
+    }
+    .search-result-item:hover, .search-result-item.active {
+      border-color: var(--accent-color);
+      background: var(--accent-light);
+    }
+    .search-result-time {
+      font-weight: 700;
       color: var(--accent-color);
+      font-family: monospace;
+      margin-bottom: 4px;
+    }
+    .search-result-snippet {
+      color: var(--text-primary);
+      line-height: 1.5;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    /* Highlight mark */
+    mark.search-highlight {
+      background-color: #fef08a;
+      color: #1f2937;
+      padding: 1px 3px;
+      border-radius: 3px;
+    }
+    mark.search-highlight.active-match {
+      background-color: #f97316;
+      color: #ffffff;
+      outline: 2px solid #ea580c;
     }
 
     /* Layout Wrapper */
@@ -212,9 +320,7 @@
       font-size: 13px;
       margin-bottom: 14px;
     }
-    .toc-search:focus {
-      outline: 2px solid var(--accent-color);
-    }
+    .toc-search:focus { outline: 2px solid var(--accent-color); }
 
     .toc-list {
       list-style: none;
@@ -237,12 +343,10 @@
       overflow: hidden;
       text-overflow: ellipsis;
     }
-
     .toc-item a:hover {
       background-color: var(--accent-light);
       color: var(--accent-color);
     }
-
     .toc-item.active a {
       background-color: var(--accent-color);
       color: #ffffff;
@@ -257,19 +361,17 @@
       display: flex;
       justify-content: center;
     }
-
     .reader-container {
       width: 100%;
       max-width: var(--content-max-width);
     }
 
-    /* Book Hero / Header */
+    /* Book Hero */
     .book-hero {
       margin-bottom: 40px;
       padding-bottom: 24px;
       border-bottom: 2px solid var(--border-color);
     }
-
     .book-hero h1 {
       font-size: 2.1em;
       line-height: 1.35;
@@ -285,7 +387,6 @@
       gap: 10px;
       margin-top: 14px;
     }
-
     .meta-chip {
       display: inline-flex;
       align-items: center;
@@ -297,8 +398,13 @@
       font-size: 13px;
       font-weight: 500;
     }
+    .meta-chip.cat-badge {
+      background-color: #3b82f622;
+      color: #3b82f6;
+      font-weight: 600;
+    }
 
-    /* Content Typography & Enhanced Paragraphs */
+    /* Content Typography */
     .transcript-section {
       margin-bottom: 50px;
       scroll-margin-top: 80px;
@@ -349,25 +455,22 @@
       letter-spacing: 0.015em;
     }
 
-    /* Indented paragraph style (Traditional) */
+    /* Indented paragraph style */
     [data-p-style="indent"] .section-body p {
       text-indent: 2em;
       margin-bottom: 1.15em;
       line-height: var(--line-height);
     }
 
-    /* Block paragraph style (Modern with whitespace) */
+    /* Block paragraph style */
     [data-p-style="block"] .section-body p {
       text-indent: 0;
       margin-bottom: 1.55em;
       line-height: var(--line-height);
     }
+    .section-body p:last-child { margin-bottom: 0; }
 
-    .section-body p:last-child {
-      margin-bottom: 0;
-    }
-
-    /* Floating Navigation Controls */
+    /* Floating Tools */
     .floating-tools {
       position: fixed;
       bottom: 24px;
@@ -377,7 +480,6 @@
       gap: 10px;
       z-index: 800;
     }
-
     .float-btn {
       width: 44px;
       height: 44px;
@@ -399,7 +501,6 @@
       color: var(--accent-color);
     }
 
-    /* Overlay for mobile drawer */
     .backdrop {
       display: none;
       position: fixed;
@@ -419,36 +520,22 @@
         transform: translateX(-100%);
         box-shadow: 4px 0 16px rgba(0,0,0,0.15);
       }
-
-      .sidebar.open {
-        transform: translateX(0);
-      }
-
-      .backdrop.open {
-        display: block;
+      .sidebar.open { transform: translateX(0); }
+      .backdrop.open { display: block; }
+      .inpage-search-drawer {
+        left: 20px;
+        right: 20px;
+        width: auto;
       }
     }
 
     @media (max-width: 640px) {
-      :root {
-        --font-size: 17px;
-      }
-      .main-content {
-        padding: 24px 16px 60px 16px;
-      }
-      .book-hero h1 {
-        font-size: 1.55em;
-      }
-      .top-header {
-        padding: 0 10px;
-      }
-      .btn-icon {
-        padding: 5px 8px;
-        font-size: 13px;
-      }
-      [data-p-style="indent"] .section-body p {
-        text-indent: 1.5em;
-      }
+      :root { --font-size: 17px; }
+      .main-content { padding: 24px 16px 60px 16px; }
+      .book-hero h1 { font-size: 1.55em; }
+      .top-header { padding: 0 10px; }
+      .btn-icon { padding: 5px 7px; font-size: 12.5px; }
+      [data-p-style="indent"] .section-body p { text-indent: 1.5em; }
     }
   </style>
 </head>
@@ -464,6 +551,14 @@
       <a href="index.html" class="home-link" title="返回書架">
         🏠 書架
       </a>
+      <!-- Search Inside Book Button -->
+      <button class="btn-icon" id="search-toggle-btn" title="搜尋本書內文 (Ctrl+F)">
+        🔍 <span>搜尋內文</span>
+      </button>
+      <!-- Global Search Link -->
+      <a href="index.html?tab=search" class="btn-icon" title="前往全書庫全文檢索">
+        🌐 <span>全庫搜尋</span>
+      </a>
     </div>
 
     <div class="header-right">
@@ -473,7 +568,7 @@
       </button>
 
       <!-- Line Height Toggle -->
-      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 精簡)">
+      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 緊湊)">
         ↕ <span id="line-height-label">行距</span>
       </button>
 
@@ -492,6 +587,29 @@
       <button class="btn-icon" id="font-inc-btn" title="放大字級">A+</button>
     </div>
   </header>
+
+  <!-- In-Page Search Bar Dropdown -->
+  <div class="inpage-search-bar" id="inpage-search-bar">
+    <div class="inpage-search-input-wrapper">
+      <input type="text" id="inpage-search-input" class="inpage-search-input" placeholder="🔍 搜尋本書內文關鍵字 (按 Enter 尋找下一處，Esc 關閉)...">
+      <button class="inpage-search-clear" id="inpage-search-clear" title="清空">✕</button>
+    </div>
+    <span class="inpage-search-count" id="inpage-search-count">0 / 0</span>
+    <div class="search-nav-btns">
+      <button class="btn-icon" id="inpage-search-prev" title="上一處 (Shift+Enter)">▲</button>
+      <button class="btn-icon" id="inpage-search-next" title="下一處 (Enter)">▼</button>
+      <button class="btn-icon" id="inpage-search-close" title="關閉搜尋 (Esc)">✕</button>
+    </div>
+  </div>
+
+  <!-- In-Page Search Results Drawer -->
+  <div class="inpage-search-drawer" id="inpage-search-drawer">
+    <div class="inpage-search-drawer-header">
+      <span>搜尋結果清單</span>
+      <button class="btn-icon" id="inpage-drawer-close" style="padding: 2px 6px;">✕</button>
+    </div>
+    <div class="inpage-search-drawer-list" id="inpage-search-drawer-list"></div>
+  </div>
 
   <div class="backdrop" id="backdrop"></div>
 
@@ -545,6 +663,7 @@
         <header class="book-hero">
           <h1>Eat That Frog! by Brian Tracy   Full Audiobook</h1>
           <div class="book-meta-chips">
+            <span class="meta-chip cat-badge">⚡ 習慣與生產力</span>
             <span class="meta-chip">🏷️ 時長：02:38:48</span>
 <span class="meta-chip">🏷️ 模型：small.en</span>
 <span class="meta-chip">🏷️ 日期：2026-09-22</span>
@@ -552,7 +671,7 @@
         </header>
 
         <!-- Transcript Content -->
-        <div class="book-body">
+        <div class="book-body" id="book-body">
           
         <section class="transcript-section" id="sec-000000">
           <div class="section-header">
@@ -633,14 +752,14 @@
 <p class="prose-p">First, make a decision to develop the habit of task completion. Second, practice the principles you are about to learn over and over until they become automatic. And third, back everything you do with determination until the habit is locked in and becomes a permanent part of your personality. Visualize yourself as you want to be.</p>
 <p class="prose-p">There’s a special way that you can accelerate your progress toward becoming the highly productive, effective, efficient person that you want to be. It consists of your thinking continually about the rewards and benefits of being an action-oriented, fast-moving, and focused person. See yourself as the kind of person who gets important jobs done quickly and well on a consistent basis. Your mental picture of yourself has a powerful effect on your behavior.</p>
 <p class="prose-p">Visualize yourself as the person you intend to be in the future. Your self-image, the way you see yourself on the inside, largely determines your performance on the outside. All improvements in your outer life begin with improvements on the inside in your mental pictures. You have a virtually unlimited ability to learn and develop new skills, habits, and abilities.</p>
-<p class="prose-p">When you train yourself through repetition and practice to overcome procrastination and get your most important tasks completed quickly, you will move onto the fast track in your life and career and step on the accelerator of your potential. Eat that frog.</p>
-<h4 class="section-subhead">Chapter 1.</h4>
-<p class="prose-p">Set the Table. Napoleon Hill wrote, There is one quality which one must possess to win, and that is definiteness of purpose, the knowledge of what one wants and a burning desire to achieve it. Before you can determine your frog and get on with the job of eating it, you have to decide exactly what you want to achieve in each area of your life. Clarity is perhaps the most important concept in personal productivity.</p>
-<p class="prose-p">The number one reason why some people get more work done faster is because they’re absolutely clear about their goals and objectives and they don’t deviate from them. The greater clarity you have regarding what you want and the steps you will have to take to achieve it, the easier it will be for you to overcome procrastination, eat your frog, and complete the task before you. A major reason for procrastination and lack of motivation is vagueness, confusion, and fuzzy-mindedness about what you’re trying to do and in what order and for what reason.</p>
-<p class="prose-p">You must avoid this common condition with all your strength by striving for ever greater clarity in your major goals and tasks. Here’s a great rule for success. Think on paper. Only about 3% of adults have clear, written goals.</p>
-<p class="prose-p">These people accomplish 5 and 10 times as much as people of equal or better education and ability, but who, for whatever reason, have never taken the time to write out exactly what they want. There’s a powerful formula for setting and achieving goals that you can use for the rest of your life. It consists of seven simple steps. Any one of these steps can double and triple your productivity if you’re not currently using it.</p>
-<p class="prose-p">Many of my graduates have increased their incomes dramatically in a matter of a few years or even a few months with this simple seven-part method. Step one, decide exactly what you want. Either decide for yourself or sit down with your boss and discuss your goals and objectives until you are crystal clear about what is expected of you and in what order of priority. It’s amazing how many people are working away day after day on low-value tasks because they have not had this critical discussion with their managers.</p>
-<p class="prose-p">One of the very worst uses of time is to do something very well that need not be done at all. Stephen Covey says if the latter is not leaning against the right wall, every step we take just gets us to the wrong place faster. Step two, write it down.</p>
+<p class="prose-p">When you train yourself through repetition and practice to overcome procrastination and get your most important tasks completed quickly, you will move onto the fast track in your life and career and step on the accelerator of your potential. Eat that frog.
+
+#### Chapter 1. Set the Table. Napoleon Hill wrote, There is one quality which one must possess to win, and that is definiteness of purpose, the knowledge of what one wants and a burning desire to achieve it.</p>
+<p class="prose-p">Before you can determine your frog and get on with the job of eating it, you have to decide exactly what you want to achieve in each area of your life. Clarity is perhaps the most important concept in personal productivity. The number one reason why some people get more work done faster is because they’re absolutely clear about their goals and objectives and they don’t deviate from them. The greater clarity you have regarding what you want and the steps you will have to take to achieve it, the easier it will be for you to overcome procrastination, eat your frog, and complete the task before you.</p>
+<p class="prose-p">A major reason for procrastination and lack of motivation is vagueness, confusion, and fuzzy-mindedness about what you’re trying to do and in what order and for what reason. You must avoid this common condition with all your strength by striving for ever greater clarity in your major goals and tasks. Here’s a great rule for success. Think on paper.</p>
+<p class="prose-p">Only about 3% of adults have clear, written goals. These people accomplish 5 and 10 times as much as people of equal or better education and ability, but who, for whatever reason, have never taken the time to write out exactly what they want. There’s a powerful formula for setting and achieving goals that you can use for the rest of your life. It consists of seven simple steps.</p>
+<p class="prose-p">Any one of these steps can double and triple your productivity if you’re not currently using it. Many of my graduates have increased their incomes dramatically in a matter of a few years or even a few months with this simple seven-part method. Step one, decide exactly what you want. Either decide for yourself or sit down with your boss and discuss your goals and objectives until you are crystal clear about what is expected of you and in what order of priority.</p>
+<p class="prose-p">It’s amazing how many people are working away day after day on low-value tasks because they have not had this critical discussion with their managers. One of the very worst uses of time is to do something very well that need not be done at all. Stephen Covey says if the latter is not leaning against the right wall, every step we take just gets us to the wrong place faster. Step two, write it down.</p>
           </div>
         </section>
         
@@ -929,12 +1048,12 @@
 <p class="prose-p">You have to work at it. Your goal should be to perform at your very best at work, to get the very most done and enjoy the very highest level of rewards possible for you in your career. Simultaneously, you must always remember to smell the roses along the way. Never lose sight of the real reasons why you work as hard as you do and why you are so determined to accomplish the very most with the time that you invest.</p>
 <p class="prose-p">The more time you spend face to face with the people you love, the happier you will be. Now, here are two exercises for you. Number one, determine the three most important tasks that you do in your work. Ask yourself, if I could only do one thing all day long, which one task would contribute the greatest value to my career?</p>
 <p class="prose-p">Do this exercise two more times. Once you have developed your big three, concentrate on them single-mindedly all day long. Number two, identify your three most important goals in each area of your life. Organize them by priority.</p>
-<p class="prose-p">Make plans for their accomplishment and work on your plans every single day. You will be amazed at what you achieve in the months and years ahead.</p>
-<h4 class="section-subhead">Chapter 9.</h4>
-<p class="prose-p">Prepare Thoroughly Before You Begin James T. McKay once wrote, No matter what the level of your ability, you have more potential than you can ever develop in a lifetime. One of the best ways for you to overcome procrastination and get more things done faster is to have everything you need at hand before you begin. When you are fully prepared, you are like a cocked gun or an archer with an arrow pulled back taut in the bow.</p>
-<p class="prose-p">You will be amazed at what you can achieve in the months and years ahead. You just need one small mental push to get started on your highest value tasks. This is like getting everything ready to prepare a complete meal. You set all the ingredients out on the counter in front of you and then begin putting the meal together one step at a time.</p>
-<p class="prose-p">Begin by clearing off your desk or workspace so that you have only one task in front of you. If necessary, put everything else on the floor or on a table behind you. Set all the information, reports, details, papers and work materials that you will require to complete the job. Have them at hand so that you can reach them without getting up or moving around.</p>
-<p class="prose-p">Be sure that you have all the writing materials, login information, access codes, email, addresses and everything else you need to start working and continue working until the job is done. Set up your work area so that it is comfortable, attractive and conducive to working for long periods.</p>
+<p class="prose-p">Make plans for their accomplishment and work on your plans every single day. You will be amazed at what you achieve in the months and years ahead.
+
+#### Chapter 9. Prepare Thoroughly Before You Begin James T. McKay once wrote, No matter what the level of your ability, you have more potential than you can ever develop in a lifetime.</p>
+<p class="prose-p">One of the best ways for you to overcome procrastination and get more things done faster is to have everything you need at hand before you begin. When you are fully prepared, you are like a cocked gun or an archer with an arrow pulled back taut in the bow. You will be amazed at what you can achieve in the months and years ahead. You just need one small mental push to get started on your highest value tasks.</p>
+<p class="prose-p">This is like getting everything ready to prepare a complete meal. You set all the ingredients out on the counter in front of you and then begin putting the meal together one step at a time. Begin by clearing off your desk or workspace so that you have only one task in front of you. If necessary, put everything else on the floor or on a table behind you.</p>
+<p class="prose-p">Set all the information, reports, details, papers and work materials that you will require to complete the job. Have them at hand so that you can reach them without getting up or moving around. Be sure that you have all the writing materials, login information, access codes, email, addresses and everything else you need to start working and continue working until the job is done. Set up your work area so that it is comfortable, attractive and conducive to working for long periods.</p>
 <p class="prose-p">Finally, make sure that you have a comfortable chair that supports your back and allows your feet to rest flat on the floor. Create a comfortable workspace. The most productive people take the time to create a work area where they enjoy spending time. The cleaner and neater you organize your work area before you begin, the easier it will be for you to get started and keep going.</p>
 <p class="prose-p">When everything is laid out neatly and in sequence, you will feel much more like getting on with the job. It’s amazing how many books never get written, how many degrees never get completed, how many life-changing tasks never get started because people fail to take the first step of preparing everything in advance. Launch toward your dreams. Once you have completed your preparations, it’s essential that you launch immediately toward your goals. Get started.</p>
 <p class="prose-p">Do the first thing, whatever it is. My personal rule is get it 80% right and then correct it later.</p>
@@ -951,8 +1070,9 @@
             <p class="prose-p">Run it up the flagpole and see if anyone salutes. Don’t expect perfection the first time, or even the first few times. Be prepared to fail over and over before you get it right. Wayne Gretzky, the great hockey player once said, you miss 100% of the shots you don’t take.</p>
 <p class="prose-p">Once you have completed your preparations, have the courage to take the first action, and everything else will follow from that. The way you develop the courage you need is to act as if you already had the courage and behave accordingly. Take the first step. When you sit down with everything in front of you, ready to go, assume the body language of high performance.</p>
 <p class="prose-p">Sit up straight, sit forward, and sit away from the back of your chair. Carry yourself as though you are an efficient, effective, high performing personality. Then, pick up the first item and say to yourself, let’s get to work, and plunge in. And once you’ve started, keep going until the job is finished.</p>
-<p class="prose-p">Now here are two exercises for you. Number one, take a good look at your desk or office both at home and at work and ask yourself, what kind of a person works in an environment like this? The cleaner and neater your work environment, the more positive, productive, and confident you will feel. Number two, resolve today to clean up your desk and office completely so that you feel effective, efficient, and ready to get going each time you sit down to work.</p>
-<h4 class="section-subhead">Chapter 10 Take it one oil barrel at a time Samuel Smiles wrote, persons with comparatively moderate powers will accomplish much if they apply themselves woolly and indefatigably to one thing at a time.</h4>
+<p class="prose-p">Now here are two exercises for you. Number one, take a good look at your desk or office both at home and at work and ask yourself, what kind of a person works in an environment like this? The cleaner and neater your work environment, the more positive, productive, and confident you will feel. Number two, resolve today to clean up your desk and office completely so that you feel effective, efficient, and ready to get going each time you sit down to work.
+
+#### Chapter 10 Take it one oil barrel at a time Samuel Smiles wrote, persons with comparatively moderate powers will accomplish much if they apply themselves woolly and indefatigably to one thing at a time.</p>
 <p class="prose-p">There’s an old saying that, by the yard, it’s hard, but inch by inch, anything’s a cinch. One of the best ways to overcome procrastination is for you to get your mind off the huge task in front of you and focus on a single action that you can take. One of the best ways to eat a large frog is for you to take it one bite at a time. Lao Tzu wrote, a journey of a thousand leagues begins with a single step.</p>
 <p class="prose-p">This is a great strategy for overcoming procrastination and getting more things done faster. Crossing a Great Desert Many years ago, driving an old Land Rover, I crossed the heart of the Sahara Desert, the Tanezarif, deep in modern-day Algeria. By that time, the desert had been abandoned by the French for years, and the original refooling stations were empty and shuttered. The desert was five hundred miles across in a single stretch, without water, food, a blade of grass, or even a fly.</p>
 <p class="prose-p">It was totally flat, like a broad, yellow sand parking lot that stretched to the horizon in all directions. More than thirteen hundred people had perished in the crossing of that stretch of the Sahara in previous years. Often, drifting sands had obliterated the track across the desert, and the travelers had gotten lost in the night, never to be found again alive. To counter the lack of features in the terrain, the French had marked the track with black, fifty-five gallon oil drums every five kilometers, which was exactly the distance to the horizon formed by the curvature of the earth.</p>
@@ -971,16 +1091,17 @@
           </div>
           <div class="section-body">
             <p class="prose-p">a time. Here are two exercises for you. Number one, select any goal, task or project in your life on which you have been procrastinating and make a list of all the steps you will have to take to eventually complete this task. Number two, then just take one step immediately.</p>
-<p class="prose-p">Sometimes all you need to do to get started is to sit down and complete one item on the list and then do one more and so on. You will be amazed at what you eventually accomplish.</p>
-<h4 class="section-subhead">Chapter 11 Upgrade Your Key Skills The only certain means of success, according to Og Vandino, is to render more and better service than is expected of you, no matter what your task may be.</h4>
-<p class="prose-p">Creating your skills is one of the most important personal productivity principles of all. Learn what you need to learn so that you can do your work in an excellent fashion. The better you become at eating a particular type of frog, the more likely you are to just plunge in and get it done. A major reason for procrastination is a feeling of inadequacy, a lack of confidence or an inability in a key result area of a task.</p>
-<p class="prose-p">Getting weak or deficient in a key area is enough to discourage you from starting the job at all. Continue to upgrade your skills in your key result areas. Remember however good you are today, your knowledge and skills are becoming obsolete at a rapid rate. As Pat Riley, the basketball coach, said, any time you start striving to get better, you’re bound to get worse.</p>
-<p class="prose-p">Never Stop Learning One of the most helpful of all time management techniques is for you to get better at your key tasks. Personal and professional development is one of the best time savers that there is. The better you are at a key task, the more motivated you are to launch into it. The better you are, the more energy and enthusiasm you have.</p>
-<p class="prose-p">And when you know that you can do a job well, you find it easier to overcome procrastination and get the job done faster and better than under any other circumstances. One piece of information or one additional skill can make an enormous difference in your ability to do the job well. Identify the most important things you do and then make a plan to continually upgrade your skills in those areas. Rule, continuous learning is the minimum requirement for success in any field.</p>
-<p class="prose-p">Use to allow a weakness or a lack of ability in any area to hold you back. Everything is learnable, and what others have learned, you can learn as well. When I began to write my first book, I was discouraged because I could only use the hunt and peck method of typing. I soon realized that I had to learn to touch type if ever I was going to write and rewrite a 300 page book.</p>
-<p class="prose-p">So I bought a touch typing program from my computer and practiced for 20 to 30 minutes every day for 3 months. By the end of that time, I was typing 40 to 50 words per minute. With this additional skill, I have been able to write more than 80 books that have now been published all over the world. The best news is that you can learn whatever skills you need to be more productive and more effective.</p>
-<p class="prose-p">You can become a touch typist if necessary. You can become proficient with a computer. You can become a terrific negotiator or a super salesperson. You can learn to speak in public.</p>
-<p class="prose-p">You can learn to write effectively and well. These are all skills that you can acquire as soon as you decide to and make them a priority. Three steps to mastery.</p>
+<p class="prose-p">Sometimes all you need to do to get started is to sit down and complete one item on the list and then do one more and so on. You will be amazed at what you eventually accomplish.
+
+#### Chapter 11 Upgrade Your Key Skills The only certain means of success, according to Og Vandino, is to render more and better service than is expected of you, no matter what your task may be. Creating your skills is one of the most important personal productivity principles of all.</p>
+<p class="prose-p">Learn what you need to learn so that you can do your work in an excellent fashion. The better you become at eating a particular type of frog, the more likely you are to just plunge in and get it done. A major reason for procrastination is a feeling of inadequacy, a lack of confidence or an inability in a key result area of a task. Getting weak or deficient in a key area is enough to discourage you from starting the job at all.</p>
+<p class="prose-p">Continue to upgrade your skills in your key result areas. Remember however good you are today, your knowledge and skills are becoming obsolete at a rapid rate. As Pat Riley, the basketball coach, said, any time you start striving to get better, you’re bound to get worse. Never Stop Learning One of the most helpful of all time management techniques is for you to get better at your key tasks.</p>
+<p class="prose-p">Personal and professional development is one of the best time savers that there is. The better you are at a key task, the more motivated you are to launch into it. The better you are, the more energy and enthusiasm you have. And when you know that you can do a job well, you find it easier to overcome procrastination and get the job done faster and better than under any other circumstances.</p>
+<p class="prose-p">One piece of information or one additional skill can make an enormous difference in your ability to do the job well. Identify the most important things you do and then make a plan to continually upgrade your skills in those areas. Rule, continuous learning is the minimum requirement for success in any field. Use to allow a weakness or a lack of ability in any area to hold you back.</p>
+<p class="prose-p">Everything is learnable, and what others have learned, you can learn as well. When I began to write my first book, I was discouraged because I could only use the hunt and peck method of typing. I soon realized that I had to learn to touch type if ever I was going to write and rewrite a 300 page book. So I bought a touch typing program from my computer and practiced for 20 to 30 minutes every day for 3 months.</p>
+<p class="prose-p">By the end of that time, I was typing 40 to 50 words per minute. With this additional skill, I have been able to write more than 80 books that have now been published all over the world. The best news is that you can learn whatever skills you need to be more productive and more effective. You can become a touch typist if necessary.</p>
+<p class="prose-p">You can become proficient with a computer. You can become a terrific negotiator or a super salesperson. You can learn to speak in public. You can learn to write effectively and well.</p>
+<p class="prose-p">These are all skills that you can acquire as soon as you decide to and make them a priority. Three steps to mastery.</p>
 <p class="prose-p">First, read in your field for at least one hour every day. Get up a little earlier in the morning and read for 30 to 60 minutes in a book or magazine that contains information that can help you to be more effective and productive at what you do.</p>
 <p class="prose-p">Second, take every course and seminar available on the key skills that can help you. Attend the conventions and business meetings of your profession or occupation. Go to the sessions and workshops. Sit up front and take notes.</p>
 <p class="prose-p">Purchase the audio recordings of the programs. Dedicate yourself to becoming one of the most knowledgeable and competent people in your field. Third, listen to audio programs in your car. The average car owner sits behind the wheel 500 to 1000 hours each year while driving from place to place. Turn driving time into learning time.</p>
@@ -997,18 +1118,19 @@
           <div class="section-body">
             <p class="prose-p">The better you become, the more capable you will be of doing even more in your field. The more you learn, the more you can learn. Just as you can build your physical muscles through physical exercise, you can build your mental muscles with mental exercises, and there’s no limit to how far or how fast you can advance except for the limits you place on your own imagination. Here are two exercises for you. 1.</p>
 <p class="prose-p">Identify the key skills that can help you the most to achieve better and faster results. Determine the core competencies that you will need to have in the future to lead your field. Whatever they are, set a goal, make a plan, and begin developing and increasing your ability in those areas. Decide to be the very best at what you do. 2.</p>
-<p class="prose-p">Develop a personal plan to prepare yourself to do your most important tasks in an excellent fashion. Focus on those areas where you have special talents and that you most enjoy. This is the key to unlocking your personal potential.</p>
-<h4 class="section-subhead">Chapter 12.</h4>
-<p class="prose-p">Identify your key constraints. Concentrate all your thoughts on the task at hand. The sun’s rays do not burn until brought to a focus. That was written by Alexander Graham Bell.</p>
-<p class="prose-p">Between where you are today and any goal or objective that you want to accomplish, there is one major constraint that must be overcome before you can achieve that major goal. Your job is to identify it clearly. What is holding you back? What sets the speed at which you achieve your goals?</p>
-<p class="prose-p">What determines how fast you move from where you are to where you want to go? What stops you or holds you back from eating the frogs that can really make a difference? Why aren’t you at your goal already? These are some of the most important questions you’ll ever ask and answer on your way to achieving high levels of personal productivity and effectiveness.</p>
-<p class="prose-p">Whatever you have to do, there is always a limiting factor that determines how quickly and well you get it done. Your job is to study the task and identify the limiting factor or constraint within it. You must then focus all of your energies on alleviating that single choke point. Identify the limiting factor.</p>
-<p class="prose-p">In virtually every task, large or small, a single factor sets the speed at which you achieve the goal or complete the job. What is it? Concentrate your mental energies on that one key area. This can be the most productive use of your time and talents.</p>
-<p class="prose-p">This constraint may be a person whose help or decision you need, a resource that you require, a weakness in some part of the organization or something else, but the limiting factor is always there and it’s always your job to find it. For example, the purpose of a business is to create and keep customers. By doing this in sufficient quantities, the company makes a profit and continues to grow and flourish. Every business has a limiting factor or choke point that determines how quickly and well the company achieves this purpose.</p>
-<p class="prose-p">It may be the marketing, the level of sales or the sales force itself. It may be the cost of operation or the methods of production. It may be the level of cash flow or cost. The success of the company may be determined by the competition.</p>
-<p class="prose-p">The customers or the current marketplace. One of these factors, more than anything else, determines how quickly the company achieves its goals of growth and profitability. What is it for you? The accurate identification of the limiting factor in any process and the focus on that factor can usually bring about more progress in a shorter period of time than any other single activity.</p>
-<p class="prose-p">The 80-20 rule applied to constraints. The 80-20 rule also applies to the constraints in your life and in your work. This means that 80% of the constraints, the factors that are holding you back from achieving your goals, are internal. They are within you, within your own personal qualities, abilities, habits, and disciplines or competencies, or they are contained within your own company or organization.</p>
-<p class="prose-p">Only 20% of the limiting factors are external to you or to your organization. Only 20% are on the outside in the form of competition, markets, governments, or other organizations. Your key constraint can be something small and not particularly obvious. Sometimes you have to make a list of every step in a process and examine every activity to determine exactly what is holding you back.</p>
+<p class="prose-p">Develop a personal plan to prepare yourself to do your most important tasks in an excellent fashion. Focus on those areas where you have special talents and that you most enjoy. This is the key to unlocking your personal potential.
+
+#### Chapter 12. Identify your key constraints.</p>
+<p class="prose-p">Concentrate all your thoughts on the task at hand. The sun’s rays do not burn until brought to a focus. That was written by Alexander Graham Bell. Between where you are today and any goal or objective that you want to accomplish, there is one major constraint that must be overcome before you can achieve that major goal.</p>
+<p class="prose-p">Your job is to identify it clearly. What is holding you back? What sets the speed at which you achieve your goals? What determines how fast you move from where you are to where you want to go?</p>
+<p class="prose-p">What stops you or holds you back from eating the frogs that can really make a difference? Why aren’t you at your goal already? These are some of the most important questions you’ll ever ask and answer on your way to achieving high levels of personal productivity and effectiveness. Whatever you have to do, there is always a limiting factor that determines how quickly and well you get it done.</p>
+<p class="prose-p">Your job is to study the task and identify the limiting factor or constraint within it. You must then focus all of your energies on alleviating that single choke point. Identify the limiting factor. In virtually every task, large or small, a single factor sets the speed at which you achieve the goal or complete the job.</p>
+<p class="prose-p">What is it? Concentrate your mental energies on that one key area. This can be the most productive use of your time and talents. This constraint may be a person whose help or decision you need, a resource that you require, a weakness in some part of the organization or something else, but the limiting factor is always there and it’s always your job to find it.</p>
+<p class="prose-p">For example, the purpose of a business is to create and keep customers. By doing this in sufficient quantities, the company makes a profit and continues to grow and flourish. Every business has a limiting factor or choke point that determines how quickly and well the company achieves this purpose. It may be the marketing, the level of sales or the sales force itself.</p>
+<p class="prose-p">It may be the cost of operation or the methods of production. It may be the level of cash flow or cost. The success of the company may be determined by the competition. The customers or the current marketplace.</p>
+<p class="prose-p">One of these factors, more than anything else, determines how quickly the company achieves its goals of growth and profitability. What is it for you? The accurate identification of the limiting factor in any process and the focus on that factor can usually bring about more progress in a shorter period of time than any other single activity. The 80-20 rule applied to constraints.</p>
+<p class="prose-p">The 80-20 rule also applies to the constraints in your life and in your work. This means that 80% of the constraints, the factors that are holding you back from achieving your goals, are internal. They are within you, within your own personal qualities, abilities, habits, and disciplines or competencies, or they are contained within your own company or organization. Only 20% of the limiting factors are external to you or to your organization.</p>
+<p class="prose-p">Only 20% are on the outside in the form of competition, markets, governments, or other organizations. Your key constraint can be something small and not particularly obvious. Sometimes you have to make a list of every step in a process and examine every activity to determine exactly what is holding you back.</p>
           </div>
         </section>
         
@@ -1026,12 +1148,13 @@
 <p class="prose-p">Once the corporation re-lamped its pricing and made it more competitive, its sales went back up and it returned to profitability. Behind every constraint or choke point, once it is located and alleviated or solved successfully, you will find another constraint or limiting factor. Whether you’re trying to get to work on time in the morning or build a successful career, there are always limiting factors and bottlenecks that set the speed of your progress. Your job is to find them and to focus your energies on alleviating them as quickly as possible.</p>
 <p class="prose-p">Starting off your day with the removal of a key bottleneck or constraint fills you with energy and personal power. It propels you into following through and completing the job, often alleviating a key constraint or limiting factor is the most important frog you could eat at that moment. Here are two exercises for you. Number one, identify your most important goal in life today.</p>
 <p class="prose-p">What is it? What one goal, if you achieved it, would have the greatest positive effect on your life? What one career accomplishment would have the greatest positive impact on your work life? Number two, determine the one constraint, internal or external, that sets the speed at which you accomplish this goal.</p>
-<p class="prose-p">Ask, why haven’t I reached it already? What is it in me that is holding me back? Whatever your answers, take action immediately, do something, do anything, but get started.</p>
-<h4 class="section-subhead">Chapter 13, Put the Pressure on Yourself Thomas Edison wrote, the first requisite for success is the ability to apply your physical and mental energies to one problem. incessantly, without growing weary.</h4>
-<p class="prose-p">The world is full of people who are waiting for someone to come along and motivate them to be the kind of people they wish they could be. The problem is that no one is coming to the rescue. These people are waiting for a bus on a street where no buses pass. If they don’t take charge of their lives and put the pressure on themselves, they can end up waiting forever.</p>
-<p class="prose-p">And that is what most people do. Only about two percent of people can work entirely without supervision. We call these people leaders. This is the kind of person you are meant to be and that you can be if you decide to be.</p>
-<p class="prose-p">To reach your full potential, you must form the habit of putting the pressure on yourself and not waiting for someone else to come along and do it for you. You must choose your own frogs and then make yourself eat them in their order of importance. Lead the field. See yourself as a role model.</p>
-<p class="prose-p">Raise the bar on yourself. The standards you set for your own work and behavior should be higher than anyone else</p>
+<p class="prose-p">Ask, why haven’t I reached it already? What is it in me that is holding me back? Whatever your answers, take action immediately, do something, do anything, but get started.
+
+#### Chapter 13, Put the Pressure on Yourself Thomas Edison wrote, the first requisite for success is the ability to apply your physical and mental energies to one problem. incessantly, without growing weary. The world is full of people who are waiting for someone to come along and motivate them to be the kind of people they wish they could be.</p>
+<p class="prose-p">The problem is that no one is coming to the rescue. These people are waiting for a bus on a street where no buses pass. If they don’t take charge of their lives and put the pressure on themselves, they can end up waiting forever. And that is what most people do.</p>
+<p class="prose-p">Only about two percent of people can work entirely without supervision. We call these people leaders. This is the kind of person you are meant to be and that you can be if you decide to be. To reach your full potential, you must form the habit of putting the pressure on yourself and not waiting for someone else to come along and do it for you.</p>
+<p class="prose-p">You must choose your own frogs and then make yourself eat them in their order of importance. Lead the field. See yourself as a role model. Raise the bar on yourself.</p>
+<p class="prose-p">The standards you set for your own work and behavior should be higher than anyone else</p>
           </div>
         </section>
         
@@ -1049,13 +1172,13 @@
 <p class="prose-p">Successful people have to be instructed and pressured by others. By putting the pressure on yourself, you will accomplish more tasks better and faster than ever. You will become a high-performance, high-achieving personality. You will feel terrific about yourself and bit by bit, you will build the habit of rapid task completion that will then go on to serve you all the days of your life.</p>
 <p class="prose-p">Here are two exercises for you. Number one, set deadlines and sub-deadlines on every task and activity. Create your own forcing system. Raise the bar on yourself and don’t let yourself off the hook.</p>
 <p class="prose-p">Once you set yourself a deadline, stick to it and even try to beat it. Number two, write out every step of a major job or project before you begin. Determine how many minutes and hours you will require to complete each phase. Then race against your own clock.</p>
-<p class="prose-p">Beat your own deadline. Make it a game and resolve to win.</p>
-<h4 class="section-subhead">Chapter 14, Motivate Yourself Into Action.</h4>
-<p class="prose-p">The French writer Antoine de Saint-Superie wrote, It is in the compelling zest of high adventure and of victory and of creative action that man finds his supreme joys. To perform at your best, you must become your own personal cheerleader. You must develop a routine of coaching yourself and encouraging yourself to play at the top of your game. Most of your emotions, positive or negative, are determined by how you talk to yourself on a minute-to-minute basis.</p>
-<p class="prose-p">It is not what happens to you but the way that you interpret the things that are happening to you that determines how you feel. Your version of events largely determines whether these events motivate or demotivate you, whether they energize or de-energize you. To keep yourself motivated, you must resolve to become a complete optimist. You must decide to respond positively to the words, actions and reactions of the people and situations around you.</p>
-<p class="prose-p">You must refuse to let the unavoidable difficulties and setbacks of daily life affect your mood or emotions. Control your inner dialogue. Your level of self-esteem, how much you like and respect yourself, is central to your levels of motivation and persistence. You should talk to yourself positively all the time to boost your self-esteem.</p>
-<p class="prose-p">Say, I like myself, I like myself, over and over until you begin to believe it and behave like a person with a high-performance personality. To keep yourself motivated and to overcome feelings of doubt or fear, continually tell yourself, I can do it, I can do it. When people ask you how you are, always tell them, I feel terrific, I feel terrific. No matter how you really feel at the moment or what is happening in your life, resolve to remain cheerful and upbeat.</p>
-<p class="prose-p">As Viktor Frankl wrote in his best-selling book, Man’s Search for Meaning, the last</p>
+<p class="prose-p">Beat your own deadline. Make it a game and resolve to win.
+
+#### Chapter 14, Motivate Yourself Into Action. The French writer Antoine de Saint-Superie wrote, It is in the compelling zest of high adventure and of victory and of creative action that man finds his supreme joys. To perform at your best, you must become your own personal cheerleader.</p>
+<p class="prose-p">You must develop a routine of coaching yourself and encouraging yourself to play at the top of your game. Most of your emotions, positive or negative, are determined by how you talk to yourself on a minute-to-minute basis. It is not what happens to you but the way that you interpret the things that are happening to you that determines how you feel. Your version of events largely determines whether these events motivate or demotivate you, whether they energize or de-energize you.</p>
+<p class="prose-p">To keep yourself motivated, you must resolve to become a complete optimist. You must decide to respond positively to the words, actions and reactions of the people and situations around you. You must refuse to let the unavoidable difficulties and setbacks of daily life affect your mood or emotions. Control your inner dialogue.</p>
+<p class="prose-p">Your level of self-esteem, how much you like and respect yourself, is central to your levels of motivation and persistence. You should talk to yourself positively all the time to boost your self-esteem. Say, I like myself, I like myself, over and over until you begin to believe it and behave like a person with a high-performance personality. To keep yourself motivated and to overcome feelings of doubt or fear, continually tell yourself, I can do it, I can do it.</p>
+<p class="prose-p">When people ask you how you are, always tell them, I feel terrific, I feel terrific. No matter how you really feel at the moment or what is happening in your life, resolve to remain cheerful and upbeat. As Viktor Frankl wrote in his best-selling book, Man’s Search for Meaning, the last</p>
           </div>
         </section>
         
@@ -1100,8 +1223,9 @@
 <p class="prose-p">His explanation was simple. He said, “I realize that just because someone sends me an email, it does not mean that they own a piece of my life.” Although not many people would delete their entire inbox, you can definitely delete and ignore more emails than you do right now. Empower yourself to remove all emails that don’t relate to important goals and relationships. Someone will tell you.</p>
 <p class="prose-p">People often ask me at my seminars, but don’t you have to stay plugged into technology to keep current with the news. I tell them, if it’s really important, someone will tell you. Many people unplug from the news and, surprisingly enough, they remain well-informed on most important subjects. You should do the same.</p>
 <p class="prose-p">Here are two exercises for you. Number one, resolve today to create zones of silence throughout your day-to-day activities. Turn off your computer and your smartphone for one hour in the morning and one hour in the afternoon. You will be amazed at what happens.</p>
-<p class="prose-p">Nothing. Love to unplug from technology for one full day each day. week. By the end of your digital detox, your mind will be calm and clear. When your metal batteries have time to recharge, you will be much more effective at eating frogs.</p>
-<h4 class="section-subhead">Chapter 16 Technology is a Wonderful Servant But as Melinda Gates said, technology is just a tool.</h4>
+<p class="prose-p">Nothing. Love to unplug from technology for one full day each day. week. By the end of your digital detox, your mind will be calm and clear. When your metal batteries have time to recharge, you will be much more effective at eating frogs.
+
+#### Chapter 16 Technology is a Wonderful Servant But as Melinda Gates said, technology is just a tool.</p>
 <p class="prose-p">You must discipline yourself to treat technology as a servant, not as a master. The purpose of technology is to make your life smoother and easier, not to create complexity, confusion, and stress. Usually, to get more done of higher value, you have to stop doing things of lower value. Keep asking yourself, what’s important here?</p>
 <p class="prose-p">What is most important for you to accomplish at work? What is important in your personal life? If you could only do one or two of the activities available to you, which ones would they be? Use your technological tools to readily remind yourself of what is most important and protect yourself from what is least important.</p>
 <p class="prose-p">Technology can be a simple way to get control of your communications, your time, and even your emotions. Take control</p>
@@ -1140,8 +1264,9 @@
           </div>
           <div class="section-body">
             <p class="prose-p">their daily word counts on Twitter so that they can see who in their social circle is the fastest and most productive writer and who gets into procrastination. Stop being enslaved by social media and make it work for you instead. It’s simple. Instead of posting something trite, post about your life goals and seek the social support to achieve them.</p>
-<p class="prose-p">Now here are two exercises for you. Number one, resolve today to turn off all notifications except for your emergency channels. Create special areas in your digital life for your most important tasks. Number two, resolve to research and install one piece of software or one app that will help you to be more efficient and focused in the future.</p>
-<h4 class="section-subhead">Chapter 17, focus your attention.</h4>
+<p class="prose-p">Now here are two exercises for you. Number one, resolve today to turn off all notifications except for your emergency channels. Create special areas in your digital life for your most important tasks. Number two, resolve to research and install one piece of software or one app that will help you to be more efficient and focused in the future.
+
+#### Chapter 17, focus your attention.</p>
 <p class="prose-p">Jiddu Krishnamurti wrote, all of life is the study of attention. Where your attention goes, your life follows. Focused attention is the key to high performance. The attraction of distraction, the lure of electronic and other interruptions, leads to diffused attention, a wandering mind, a lack of focus and ultimately underachievement and failure.</p>
 <p class="prose-p">Current research proves that continuously responding and reacting to emails, telephone calls and texts and instant messages has a negative effect on your brain. Shortening your attention span and making it difficult if not impossible for you to complete the tasks upon which your future and your success depend. Developing an addiction. When you check your email first thing in the morning or when you respond to the bell or other sound that indicates an incoming email or message, your brain releases a tiny shot of dopamine.</p>
 <p class="prose-p">This shot gives you a pleasant buzz. It stimulates your curiosity and causes you to react and respond immediately. You instantly forget whatever else you were doing and turn your full attention to the new message. Like the sounds of bells ringing when you win while playing a slot machine, the sound of the email or instant message triggers the reaction of, what did I win?</p>
@@ -1167,16 +1292,17 @@
             <p class="prose-p">give yourself a 15-minute break. Third, start again and work another 90 minutes flat out.</p>
 <p class="prose-p">Finally, after this three-hour work period, you can then reward yourself with a shot of dopamine by checking your email. When you develop the habit of completing three hours of important work each morning first thing, you will both double your productivity and break yourself of the habit of checking your email all day long. You will regain full control of your life.</p>
 <p class="prose-p">Now, here are two exercises for you. Number one, keep your goals of success and high productivity in mind. Before you do anything, ask yourself, is this helping me to achieve one of my most important goals or is this just a distraction? Two, refuse to become a slave to the bells and whistles that distract you from completing those tasks that can make a real difference in your life.</p>
-<p class="prose-p">Leave your devices off.</p>
-<h4 class="section-subhead">Chapter 18 Slice and Dice the Task Orison Sweatt Martin wrote, The beginning of a habit is like an invisible thread, but every time we repeat the act we strengthen the strand, add to it another filament, until it becomes a great cable and binds us irrevocably in thought and act.</h4>
-<p class="prose-p">A major reason for procrastinating on big important tasks is that they appear so large and formidable when you first approach them. One technique that you can use to cut a big task down to size is the salami slice method of getting work done. With this method, you lay out the task in detail, writing down every step in order, and then resolve to do just one slice of the job for the time being, like eating a roll of salami one slice at a time, or like eating an elephant one bite at a time.</p>
-<p class="prose-p">Psychologically, you’ll find it easier to do a single small piece of a large project than to start on the whole job. Often, once you’ve started and completed a single part of the job, you will feel like doing just one more slice. Soon, you will find yourself working through the job one part at a time, and before you know it, the job will be completed. Develop a compulsion to closure.</p>
-<p class="prose-p">An important point to remember is that you have deep within you an urge to completion, or what is often referred to as a compulsion to closure. This means that you actually feel happier and more powerful when you start and complete a task of any kind. You satisfy a deep subconscious need to bring finality to a job or project. This sense of completion, or closure, motivates you to start the next task or project, and then to persist toward final completion.</p>
-<p class="prose-p">This act of completion triggers the release of endorphins in your brain, as I mentioned earlier. And the bigger the task you start and complete, the better and more elated you feel. The bigger the frog you eat, the greater the surge of personal power and energy that you experience. When you start and finish a small piece of a task, you feel motivated to start and finish another part, and then another, and so on.</p>
-<p class="prose-p">Each small step forward energizes you. You soon develop an inner drive that motivates you to carry through to completion. Swiss cheese your tasks. Another technique you can use to overcome procrastination is called the Swiss cheese method of working.</p>
-<p class="prose-p">You use this technique to get yourself into gear by resolving to punch a hole in the task, like a hole in a block of Swiss cheese. You Swiss cheese a task when you resolve to work for a specific time period on that task. This may be as little as five or ten minutes, after which you will stop and do something else. You will take just one bite of your frog and then rest or do something else.</p>
-<p class="prose-p">The power of this method is similar to that of the salami slice method. Once you start working, you develop a sense of forward momentum and a feeling of accomplishment. You become energized and enthusiastic. You feel yourself internally motivated and propelled to keep going until the task is complete.</p>
-<p class="prose-p">You should try the salami slice or the Swiss cheese method on any task that seems overwhelming when you approach it for the first time. You will be amazed at how helpful each technique is in overcoming procrastination. I have several friends who have become best-selling authors by simply resolving to write one page or even one paragraph per day until the book was completed. And you can do the same.</p>
+<p class="prose-p">Leave your devices off.
+
+#### Chapter 18 Slice and Dice the Task Orison Sweatt Martin wrote, The beginning of a habit is like an invisible thread, but every time we repeat the act we strengthen the strand, add to it another filament, until it becomes a great cable and binds us irrevocably in thought and act. A major reason for procrastinating on big important tasks is that they appear so large and formidable when you first approach them. One technique that you can use to cut a big task down to size is the salami slice method of getting work done.</p>
+<p class="prose-p">With this method, you lay out the task in detail, writing down every step in order, and then resolve to do just one slice of the job for the time being, like eating a roll of salami one slice at a time, or like eating an elephant one bite at a time. Psychologically, you’ll find it easier to do a single small piece of a large project than to start on the whole job. Often, once you’ve started and completed a single part of the job, you will feel like doing just one more slice.</p>
+<p class="prose-p">Soon, you will find yourself working through the job one part at a time, and before you know it, the job will be completed. Develop a compulsion to closure. An important point to remember is that you have deep within you an urge to completion, or what is often referred to as a compulsion to closure. This means that you actually feel happier and more powerful when you start and complete a task of any kind.</p>
+<p class="prose-p">You satisfy a deep subconscious need to bring finality to a job or project. This sense of completion, or closure, motivates you to start the next task or project, and then to persist toward final completion. This act of completion triggers the release of endorphins in your brain, as I mentioned earlier. And the bigger the task you start and complete, the better and more elated you feel.</p>
+<p class="prose-p">The bigger the frog you eat, the greater the surge of personal power and energy that you experience. When you start and finish a small piece of a task, you feel motivated to start and finish another part, and then another, and so on. Each small step forward energizes you. You soon develop an inner drive that motivates you to carry through to completion.</p>
+<p class="prose-p">Swiss cheese your tasks. Another technique you can use to overcome procrastination is called the Swiss cheese method of working. You use this technique to get yourself into gear by resolving to punch a hole in the task, like a hole in a block of Swiss cheese. You Swiss cheese a task when you resolve to work for a specific time period on that task.</p>
+<p class="prose-p">This may be as little as five or ten minutes, after which you will stop and do something else. You will take just one bite of your frog and then rest or do something else. The power of this method is similar to that of the salami slice method. Once you start working, you develop a sense of forward momentum and a feeling of accomplishment.</p>
+<p class="prose-p">You become energized and enthusiastic. You feel yourself internally motivated and propelled to keep going until the task is complete. You should try the salami slice or the Swiss cheese method on any task that seems overwhelming when you approach it for the first time. You will be amazed at how helpful each technique is in overcoming procrastination.</p>
+<p class="prose-p">I have several friends who have become best-selling authors by simply resolving to write one page or even one paragraph per day until the book was completed. And you can do the same.</p>
 <p class="prose-p">Now, here are two exercises for you. Number one, put the salami slice or Swiss cheese technique into action immediately to</p>
           </div>
         </section>
@@ -1189,16 +1315,16 @@
           </div>
           <div class="section-body">
             <p class="prose-p">get started on a large, complex, multi-task job that you’ve been putting off. Two, become action-oriented. A common quality of high performers is that when they hear a good idea, they take action on it immediately. Don’t delay.</p>
-<p class="prose-p">Try it today.</p>
-<h4 class="section-subhead">Chapter 19, Create Large Chunks of Time Nito Cabane wrote, Nothing can add more power to your life than concentrating all of your energies on a limited set of targets.</h4>
-<p class="prose-p">Most of the really important work you do requires large chunks of unbroken time to complete. Your ability to carve out and use these blocks of high-value, highly productive time is central to your ability to make a significant contribution to your work and to your life. Successful salespeople set aside a specific time period each day to phone prospects. Rather than procrastinating or delaying on a task that they don’t particularly like, they resolve that they will phone for one solid hour, between 10 a.m. and 11 a.m., for example, and they then discipline themselves to follow through on their resolution.</p>
-<p class="prose-p">Many business executives set aside a specific time each day to call customers directly to get feedback, to return phone calls, or to answer correspondence. Some people allocate specific 30-60 minute time periods each day for exercise. Many people read great books, 15 minutes each night before retiring. In this way, over time, they eventually read dozens, even hundreds, of the best books ever written.</p>
-<p class="prose-p">Scheduled Blocks of Time The key to the success of this method of working in specific time segments is for you to plan your day in advance and schedule a fixed time period for a particular activity or task. Make work appointments with yourself and then discipline yourself to keep them. Set aside 30-60 and 90 minute time segments that you use to work on and complete important tasks. Many highly productive people schedule specific activities in pre-planned time slots all day long.</p>
-<p class="prose-p">These people build their work lives around accomplishing key tasks one at a time. As a result, they become more and more productive and eventually produce two times, three times, and five times as much as the average person. Use a Time Planner A time planner broken down by day, hour, and minute and organized in advance can be one of the most powerful personal productivity tools of all. It enables you to see where you can consolidate and create blocks of time for concentrated work.</p>
-<p class="prose-p">During these working times, turn off the telephone, eliminate all distractions, and work non-stop. One of the best work habits of all is to get up early and work at home in the morning for two to three hours. You can get three times as much work done at home without interruptions as you ever could in a busy office where you’re surrounded by people and bombarded by phone calls and emails. Make every minute count.</p>
-<p class="prose-p">When you fly on business, you can create your office in the air by planning your work thoroughly before you depart. When the plane takes off, you can work non-stop for the entire flight. You’ll be amazed at how much work you can go through when you work steadily in an airplane without interruptions. One of the keys to high levels of performance and productivity is to make every minute count.</p>
-<p class="prose-p">Use travel and transition times, what are often called gifts of time, to complete small chunks of larger tasks. Now here are two exercises for you. Number one, think continually of different ways that you can save, schedule, and consolidate large chunks of time. Use these times to work on important tasks with the most significant long-term consequences.</p>
-<p class="prose-p">Number two, make every minute count. Work</p>
+<p class="prose-p">Try it today.
+
+#### Chapter 19, Create Large Chunks of Time Nito Cabane wrote, Nothing can add more power to your life than concentrating all of your energies on a limited set of targets. Most of the really important work you do requires large chunks of unbroken time to complete. Your ability to carve out and use these blocks of high-value, highly productive time is central to your ability to make a significant contribution to your work and to your life. Successful salespeople set aside a specific time period each day to phone prospects.</p>
+<p class="prose-p">Rather than procrastinating or delaying on a task that they don’t particularly like, they resolve that they will phone for one solid hour, between 10 a.m. and 11 a.m., for example, and they then discipline themselves to follow through on their resolution. Many business executives set aside a specific time each day to call customers directly to get feedback, to return phone calls, or to answer correspondence. Some people allocate specific 30-60 minute time periods each day for exercise. Many people read great books, 15 minutes each night before retiring.</p>
+<p class="prose-p">In this way, over time, they eventually read dozens, even hundreds, of the best books ever written. Scheduled Blocks of Time The key to the success of this method of working in specific time segments is for you to plan your day in advance and schedule a fixed time period for a particular activity or task. Make work appointments with yourself and then discipline yourself to keep them. Set aside 30-60 and 90 minute time segments that you use to work on and complete important tasks.</p>
+<p class="prose-p">Many highly productive people schedule specific activities in pre-planned time slots all day long. These people build their work lives around accomplishing key tasks one at a time. As a result, they become more and more productive and eventually produce two times, three times, and five times as much as the average person. Use a Time Planner A time planner broken down by day, hour, and minute and organized in advance can be one of the most powerful personal productivity tools of all.</p>
+<p class="prose-p">It enables you to see where you can consolidate and create blocks of time for concentrated work. During these working times, turn off the telephone, eliminate all distractions, and work non-stop. One of the best work habits of all is to get up early and work at home in the morning for two to three hours. You can get three times as much work done at home without interruptions as you ever could in a busy office where you’re surrounded by people and bombarded by phone calls and emails.</p>
+<p class="prose-p">Make every minute count. When you fly on business, you can create your office in the air by planning your work thoroughly before you depart. When the plane takes off, you can work non-stop for the entire flight. You’ll be amazed at how much work you can go through when you work steadily in an airplane without interruptions.</p>
+<p class="prose-p">One of the keys to high levels of performance and productivity is to make every minute count. Use travel and transition times, what are often called gifts of time, to complete small chunks of larger tasks. Now here are two exercises for you. Number one, think continually of different ways that you can save, schedule, and consolidate large chunks of time.</p>
+<p class="prose-p">Use these times to work on important tasks with the most significant long-term consequences. Number two, make every minute count. Work</p>
           </div>
         </section>
         
@@ -1209,21 +1335,21 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">steadily and continuously without diversion or distraction by planning and preparing your work in advance. Most of all, keep focused on the most important results for which you are responsible.</p>
-<h4 class="section-subhead">Chapter 20, develop a sense of urgency.</h4>
-<p class="prose-p">Napoleon Hill wrote, Do not wait. The time will never be just right. Start where you stand and work with whatever tools you have at your command, and better tools will be found as you go along. Perhaps the most outwardly identifiable quality of high-performing men and women is action orientation.</p>
-<p class="prose-p">They are in a hurry to get their key tasks completed. Highly productive people take the time to think, plan and set priorities. They then launch quickly and strongly toward their goals and objectives. They work steadily, smoothly and continuously.</p>
-<p class="prose-p">As a result, they seem to power through enormous amounts of work in the same amount of time that the average person spends socializing, wasting time, and working on low-value activities. Getting into flow. When you work on your most important tasks at a high and continuous level of activity, you can actually enter into an amazing mental state called flow. Almost everyone has experienced this at some time.</p>
-<p class="prose-p">Really successful people are those who get themselves into this state far more often than the average person. When you are in the state of flow, which is the highest human state of performance and productivity, something almost miraculous happens to your mind and emotions. You feel elated and clear. Everything you do seems effortless and accurate.</p>
-<p class="prose-p">You feel happy and energized. You experience a tremendous sense of calm and increased personal effectiveness. In the state of flow, which has been identified and talked about over the centuries, you actually function on a higher plane of clarity, creativity and competence. You are more sensitive and aware.</p>
-<p class="prose-p">Your insight and intuition guide you and direct you to do and say exactly the right things at the right time. You see the interconnectedness of people and circumstances around you. You often come up with brilliant ideas and insights that enable you to move ahead even more rapidly. Trigger high performance in yourself.</p>
-<p class="prose-p">One of the ways you can trigger the state of flow is by developing a sense of urgency. This is an inner drive and desire to get on with the job quickly and get it done fast. This is an impatience that motivates you to get going and to keep going. A sense of urgency feels very much like racing against yourself.</p>
-<p class="prose-p">With this ingrained sense of urgency, you develop a bias for action. You take action rather than talking continually about what you are going to do. You focus on specific steps you can take immediately. You concentrate on the things you can do right now to get the results you want and to achieve the goals you desire.</p>
-<p class="prose-p">A fast tempo seems to go hand in hand with all great success. Developing this tempo requires that you start moving and keep moving at a steady rate. The faster you move, the more impelled you feel to do even more, even faster. You enter the zone, building up a sense of momentum.</p>
-<p class="prose-p">When you regularly take continuous action towards your most important goals, you activate the momentum principle of success. This principle says that although it may take tremendous amounts of energy to overcome inertia and get started initially, it then takes far less energy to keep going. The good news is that the faster you move, the more energy you have. The faster you move, the more you get done and the more effective you feel.</p>
-<p class="prose-p">The faster you move, the more experience you get and the more you learn. The faster you move, the more competent and capable you become at your work. A sense of urgency shifts you automatically onto the fast track in your career. The faster you work and the more you get done, the higher will be your levels of self-esteem, self-respect and personal pride.</p>
-<p class="prose-p">You will feel in complete control of your life and your work. Do it now. One of the simplest and yet most powerful ways to get yourself started is to repeat the words do it now, do it now, do it now, over and over to yourself. If you feel yourself slowing down or becoming distracted by conversations or low-value activities, repeat to yourself the words back to work, back to work, back to work, over and over.</p>
-<p class="prose-p">In the final analysis, nothing will help you more in your career than for you to develop the reputation for being the kind of person</p>
+            <p class="prose-p">steadily and continuously without diversion or distraction by planning and preparing your work in advance. Most of all, keep focused on the most important results for which you are responsible.
+
+#### Chapter 20, develop a sense of urgency. Napoleon Hill wrote, Do not wait. The time will never be just right.</p>
+<p class="prose-p">Start where you stand and work with whatever tools you have at your command, and better tools will be found as you go along. Perhaps the most outwardly identifiable quality of high-performing men and women is action orientation. They are in a hurry to get their key tasks completed. Highly productive people take the time to think, plan and set priorities.</p>
+<p class="prose-p">They then launch quickly and strongly toward their goals and objectives. They work steadily, smoothly and continuously. As a result, they seem to power through enormous amounts of work in the same amount of time that the average person spends socializing, wasting time, and working on low-value activities. Getting into flow.</p>
+<p class="prose-p">When you work on your most important tasks at a high and continuous level of activity, you can actually enter into an amazing mental state called flow. Almost everyone has experienced this at some time. Really successful people are those who get themselves into this state far more often than the average person. When you are in the state of flow, which is the highest human state of performance and productivity, something almost miraculous happens to your mind and emotions.</p>
+<p class="prose-p">You feel elated and clear. Everything you do seems effortless and accurate. You feel happy and energized. You experience a tremendous sense of calm and increased personal effectiveness.</p>
+<p class="prose-p">In the state of flow, which has been identified and talked about over the centuries, you actually function on a higher plane of clarity, creativity and competence. You are more sensitive and aware. Your insight and intuition guide you and direct you to do and say exactly the right things at the right time. You see the interconnectedness of people and circumstances around you.</p>
+<p class="prose-p">You often come up with brilliant ideas and insights that enable you to move ahead even more rapidly. Trigger high performance in yourself. One of the ways you can trigger the state of flow is by developing a sense of urgency. This is an inner drive and desire to get on with the job quickly and get it done fast.</p>
+<p class="prose-p">This is an impatience that motivates you to get going and to keep going. A sense of urgency feels very much like racing against yourself. With this ingrained sense of urgency, you develop a bias for action. You take action rather than talking continually about what you are going to do.</p>
+<p class="prose-p">You focus on specific steps you can take immediately. You concentrate on the things you can do right now to get the results you want and to achieve the goals you desire. A fast tempo seems to go hand in hand with all great success. Developing this tempo requires that you start moving and keep moving at a steady rate.</p>
+<p class="prose-p">The faster you move, the more impelled you feel to do even more, even faster. You enter the zone, building up a sense of momentum. When you regularly take continuous action towards your most important goals, you activate the momentum principle of success. This principle says that although it may take tremendous amounts of energy to overcome inertia and get started initially, it then takes far less energy to keep going.</p>
+<p class="prose-p">The good news is that the faster you move, the more energy you have. The faster you move, the more you get done and the more effective you feel. The faster you move, the more experience you get and the more you learn. The faster you move, the more competent and capable you become at your work.</p>
+<p class="prose-p">A sense of urgency shifts you automatically onto the fast track in your career. The faster you work and the more you get done, the higher will be your levels of self-esteem, self-respect and personal pride. You will feel in complete control of your life and your work. Do it now.</p>
+<p class="prose-p">One of the simplest and yet most powerful ways to get yourself started is to repeat the words do it now, do it now, do it now, over and over to yourself. If you feel yourself slowing down or becoming distracted by conversations or low-value activities, repeat to yourself the words back to work, back to work, back to work, over and over. In the final analysis, nothing will help you more in your career than for you to develop the reputation for being the kind of person</p>
           </div>
         </section>
         
@@ -1236,13 +1362,13 @@
           <div class="section-body">
             <p class="prose-p">who gets important work done quickly and well. This reputation will make you one of the most valuable and respected people in your field. Here are two exercises for you. 1. Resolve today to develop a sense of urgency in everything you do.</p>
 <p class="prose-p">Select one area where you have a tendency to procrastinate and make a decision to develop the habit of fast action in that area. 2. When you see an opportunity or a problem, take action on it immediately. When you are given a task or responsibility, take care of it quickly and report back fast. Move rapidly in every important area of your life.</p>
-<p class="prose-p">You will be amazed at how much better you feel and how much more you get done.</p>
-<h4 class="section-subhead">Chapter 21.</h4>
-<p class="prose-p">Single Handle Every Task. James Allen wrote, Herein lies the secret of true power. Learn, by constant practice, how to husband your resources and to concentrate them at any given moment upon a given point. Eat that frog.</p>
-<p class="prose-p">Every bit of planning, prioritizing and organizing comes down to this simple concept. Every great achievement of humankind has been preceded by a long period of hard, concentrated work until the job was done. Your ability to select your most important task, to begin it and then to concentrate on it single-mindedly until it is complete, is the key to high levels of performance and personal productivity. Once you get going, keep going.</p>
-<p class="prose-p">Single handling requires that once you begin, you keep working at the task without diversion or distraction, until the job is 100% complete. You keep urging yourself onward by repeating the words back to work, over and over, whenever you’re tempted to stop or do something else. By concentrating single-mindedly on your most important task, you can reduce the time required to complete it by 50% or more. It’s been estimated that the tendency to start and stop a task, to pick it up, put it down and come back to it, can increase the time necessary to complete the task by as much as 500%.</p>
-<p class="prose-p">Each time you return to the task, you have to familiarize yourself with where you were when you stopped and what you still have to do. You have to overcome inertia and get yourself going again. You have to develop momentum and get into a productive work rhythm. But when you prepare thoroughly and then begin, refusing to stop or turn aside until the job is done, you develop energy, enthusiasm and motivation.</p>
-<p class="prose-p">You get better and better and more productive. You work faster and more effectively. Don’t waste time.</p>
+<p class="prose-p">You will be amazed at how much better you feel and how much more you get done.
+
+#### Chapter 21. Single Handle Every Task. James Allen wrote, Herein lies the secret of true power. Learn, by constant practice, how to husband your resources and to concentrate them at any given moment upon a given point.</p>
+<p class="prose-p">Eat that frog. Every bit of planning, prioritizing and organizing comes down to this simple concept. Every great achievement of humankind has been preceded by a long period of hard, concentrated work until the job was done. Your ability to select your most important task, to begin it and then to concentrate on it single-mindedly until it is complete, is the key to high levels of performance and personal productivity.</p>
+<p class="prose-p">Once you get going, keep going. Single handling requires that once you begin, you keep working at the task without diversion or distraction, until the job is 100% complete. You keep urging yourself onward by repeating the words back to work, over and over, whenever you’re tempted to stop or do something else. By concentrating single-mindedly on your most important task, you can reduce the time required to complete it by 50% or more.</p>
+<p class="prose-p">It’s been estimated that the tendency to start and stop a task, to pick it up, put it down and come back to it, can increase the time necessary to complete the task by as much as 500%. Each time you return to the task, you have to familiarize yourself with where you were when you stopped and what you still have to do. You have to overcome inertia and get yourself going again. You have to develop momentum and get into a productive work rhythm.</p>
+<p class="prose-p">But when you prepare thoroughly and then begin, refusing to stop or turn aside until the job is done, you develop energy, enthusiasm and motivation. You get better and better and more productive. You work faster and more effectively. Don’t waste time.</p>
 <p class="prose-p">The truth is that once you have decided on your number one task, anything else that you do other than that is a relative waste of time. Any other activity is just not as valuable or as important as this job based on your own priorities. The more you discipline yourself to working non-stop on a single task, the more you progress along the efficiency curve. You get more and more high-quality work done in less and less time.</p>
 <p class="prose-p">Each time you stop working, however, you break cycle and move back along the curve to where every part of the task is more difficult and time-consuming. Self-discipline is the key. Albert Hubbard defines self-discipline as the ability to make yourself do what you should do when you should do it, whether you feel like it or not. In the final analysis, success in any area requires tons of discipline.</p>
 <p class="prose-p">Discipline, self-mastery, and self-control are the basic building blocks of both character and high performance. Starting a high-priority task and persisting with that task until it is 100% complete is the true test of your character, your willpower, and your resolve. Persistence is actually self-discipline in action. The good news is that the more you discipline yourself to persist on a major task, the more you like and respect yourself, and the higher is your self-esteem.</p>
@@ -1458,6 +1584,204 @@
 
     document.getElementById('scroll-top-btn').addEventListener('click', () => {
       window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    // ==========================================
+    // IN-PAGE CONTENT SEARCH (單書全文搜尋)
+    // ==========================================
+    const searchBar = document.getElementById('inpage-search-bar');
+    const searchInput = document.getElementById('inpage-search-input');
+    const searchCount = document.getElementById('inpage-search-count');
+    const searchDrawer = document.getElementById('inpage-search-drawer');
+    const searchDrawerList = document.getElementById('inpage-search-drawer-list');
+    const searchToggleBtn = document.getElementById('search-toggle-btn');
+    const searchClearBtn = document.getElementById('inpage-search-clear');
+    const searchPrevBtn = document.getElementById('inpage-search-prev');
+    const searchNextBtn = document.getElementById('inpage-search-next');
+    const searchCloseBtn = document.getElementById('inpage-search-close');
+    const drawerCloseBtn = document.getElementById('inpage-drawer-close');
+
+    let searchMatches = [];
+    let currentMatchIdx = -1;
+
+    // Cache original innerHTML for clean resets
+    const rawParagraphs = Array.from(document.querySelectorAll('.section-body p')).map(p => ({
+      el: p,
+      rawHtml: p.innerHTML,
+      rawText: p.textContent
+    }));
+
+    function openSearch() {
+      searchBar.classList.add('active');
+      searchInput.focus();
+      searchInput.select();
+      if (searchInput.value.trim()) {
+        performSearch(searchInput.value.trim());
+      }
+    }
+
+    function closeSearch() {
+      searchBar.classList.remove('active');
+      searchDrawer.classList.remove('active');
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchCount.textContent = '0 / 0';
+    }
+
+    function clearHighlights() {
+      rawParagraphs.forEach(item => {
+        item.el.innerHTML = item.rawHtml;
+      });
+    }
+
+    function escapeRegex(str) {
+      return str.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+    }
+
+    function escapeHtml(str) {
+      return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+
+    function performSearch(query) {
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchDrawerList.innerHTML = '';
+
+      if (!query || query.trim().length === 0) {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+        return;
+      }
+
+      query = query.trim();
+      const qLower = query.toLowerCase();
+      const regex = new RegExp(`(${escapeRegex(query)})`, 'gi');
+
+      rawParagraphs.forEach((item, pIdx) => {
+        if (item.rawText.toLowerCase().includes(qLower)) {
+          const sec = item.el.closest('.transcript-section');
+          const secTime = sec ? (sec.querySelector('.section-time')?.textContent || '') : '';
+          const secId = sec ? sec.id : '';
+
+          // Apply highlight
+          item.el.innerHTML = item.rawHtml.replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const marks = Array.from(item.el.querySelectorAll('mark.search-highlight'));
+          marks.forEach(mark => {
+            searchMatches.push({
+              mark,
+              el: item.el,
+              secTime,
+              secId
+            });
+          });
+
+          // Snippet creation
+          const matchPos = item.rawText.toLowerCase().indexOf(qLower);
+          const start = Math.max(0, matchPos - 30);
+          const end = Math.min(item.rawText.length, matchPos + query.length + 50);
+          const snippetText = item.rawText.slice(start, end);
+          const snippetHtml = escapeHtml(snippetText).replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const card = document.createElement('div');
+          card.className = 'search-result-item';
+          card.innerHTML = `
+            <div class="search-result-time">${secTime}</div>
+            <div class="search-result-snippet">...${snippetHtml}...</div>
+          `;
+          card.addEventListener('click', () => {
+            const targetIdx = searchMatches.findIndex(m => m.mark === marks[0]);
+            if (targetIdx >= 0) goToMatch(targetIdx);
+          });
+          searchDrawerList.appendChild(card);
+        }
+      });
+
+      if (searchMatches.length > 0) {
+        searchDrawer.classList.add('active');
+        goToMatch(0);
+      } else {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+      }
+    }
+
+    function goToMatch(idx) {
+      if (idx < 0 || idx >= searchMatches.length) return;
+      if (currentMatchIdx >= 0 && searchMatches[currentMatchIdx]) {
+        searchMatches[currentMatchIdx].mark.classList.remove('active-match');
+      }
+      currentMatchIdx = idx;
+      const target = searchMatches[currentMatchIdx];
+      target.mark.classList.add('active-match');
+      searchCount.textContent = `${currentMatchIdx + 1} / ${searchMatches.length}`;
+
+      // Highlight active drawer item
+      const drawerItems = searchDrawerList.querySelectorAll('.search-result-item');
+      drawerItems.forEach(di => di.classList.remove('active'));
+
+      target.mark.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+
+    searchToggleBtn.addEventListener('click', () => {
+      if (searchBar.classList.contains('active')) {
+        closeSearch();
+      } else {
+        openSearch();
+      }
+    });
+
+    let debounceTimer;
+    searchInput.addEventListener('input', (e) => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => {
+        performSearch(e.target.value);
+      }, 200);
+    });
+
+    searchClearBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      performSearch('');
+      searchInput.focus();
+    });
+
+    searchNextBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const nextIdx = (currentMatchIdx + 1) % searchMatches.length;
+      goToMatch(nextIdx);
+    });
+
+    searchPrevBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const prevIdx = (currentMatchIdx - 1 + searchMatches.length) % searchMatches.length;
+      goToMatch(prevIdx);
+    });
+
+    searchInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        if (e.shiftKey) {
+          searchPrevBtn.click();
+        } else {
+          searchNextBtn.click();
+        }
+      } else if (e.key === 'Escape') {
+        closeSearch();
+      }
+    });
+
+    searchCloseBtn.addEventListener('click', closeSearch);
+    drawerCloseBtn.addEventListener('click', () => searchDrawer.classList.remove('active'));
+
+    window.addEventListener('keydown', (e) => {
+      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'f') {
+        e.preventDefault();
+        openSearch();
+      } else if (e.key === 'Escape') {
+        if (searchBar.classList.contains('active')) closeSearch();
+      }
     });
   </script>
 </body>

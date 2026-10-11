@@ -137,43 +137,41 @@
 
 THE SEVEN HABITS OF HIGHLY EFFECTIVE PEOPLE, by Stephen R. Covey.
 
-#### PART 1 PARADIMES AND PRINCIPLES INSIDE OUT.
+#### PART 1 PARADIMES AND PRINCIPLES INSIDE OUT. There is no real excellence in all this world which can be separated from right living. David Starr Jordan In more than 25 years of working with people in business, university, and marriage and family settings, I have come in contact with many individuals who have achieved an incredible degree of outward success, but have found themselves struggling with an inner hunger, a deep need for personal congruency and effectiveness and for healthy, growing relationships with other people.
 
-There is no real excellence in all this world which can be separated from right living. David Starr Jordan In more than 25 years of working with people in business, university, and marriage and family settings, I have come in contact with many individuals who have achieved an incredible degree of outward success, but have found themselves struggling with an inner hunger, a deep need for personal congruency and effectiveness and for healthy, growing relationships with other people. I suspect some of the problems they have shared with me may be familiar to you.
+I suspect some of the problems they have shared with me may be familiar to you. I’ve set and met my career goals and I’m having tremendous professional success. But it’s cost me my personal and family life. I don’t know my wife and children anymore.
 
-I’ve set and met my career goals and I’m having tremendous professional success. But it’s cost me my personal and family life. I don’t know my wife and children anymore. I’m not even sure I know myself and what’s really important to me.
+I’m not even sure I know myself and what’s really important to me. I’ve had to ask myself, is it worth it? I’ve started a new diet, for the fifth time this year. I know I’m overweight, and I really want to change.
 
-I’ve had to ask myself, is it worth it? I’ve started a new diet, for the fifth time this year. I know I’m overweight, and I really want to change. I read all the new information, I set goals, I get myself all psyched up with a positive mental attitude and tell myself I can do it.
+I read all the new information, I set goals, I get myself all psyched up with a positive mental attitude and tell myself I can do it. But I don’t. After a few weeks, I fizzle. I just can’t seem to keep a promise I make to myself.
 
-But I don’t. After a few weeks, I fizzle. I just can’t seem to keep a promise I make to myself. I’ve taken course after course on effective management training.
+I’ve taken course after course on effective management training. I expect a lot out of my employees and I work hard to be friendly toward them and to treat them right. But I don’t feel any loyalty from them. I think if I were homesick for a day, they’d spend most of their time gabbing at the water fountain.
 
-I expect a lot out of my employees and I work hard to be friendly toward them and to treat them right. But I don’t feel any loyalty from them. I think if I were homesick for a day, they’d spend most of their time gabbing at the water fountain. Why can’t I train them to be independent and responsible, or find employees who can be?
+Why can’t I train them to be independent and responsible, or find employees who can be? My teenage son is rebellious and on drugs. No matter what I try, he won’t listen to me. What can I do?
 
-My teenage son is rebellious and on drugs. No matter what I try, he won’t listen to me. What can I do? There’s so much to do.
+There’s so much to do. And there’s never enough time. I feel pressured and hassled all day, every day, seven days a week. I’ve attended time management seminars and I’ve tried half a dozen different planning systems. They’ve helped some, but I still don’t feel I’m living the happy, productive, peaceful life I want to live.
 
-And there’s never enough time. I feel pressured and hassled all day, every day, seven days a week. I’ve attended time management seminars and I’ve tried half a dozen different planning systems. They’ve helped some, but I still don’t feel I’m living the happy, productive, peaceful life I want to live. I want to teach my children the value of work.
+I want to teach my children the value of work. But to get them to do anything, I have to supervise every move, and put up with complaining every step of the way. It’s so much easier to do it myself. Why can’t children do their work cheerfully and without being reminded?
 
-But to get them to do anything, I have to supervise every move, and put up with complaining every step of the way. It’s so much easier to do it myself. Why can’t children do their work cheerfully and without being reminded? I’m busy, really busy.
+I’m busy, really busy. But sometimes I wonder if what I’m doing will make any difference in the long run. I’d really like to think there was meaning in my life, that somehow things were different because I was here. I see my friends or relatives achieve some degree of success or receive some recognition, and I smile and congratulate them enthusiastically.
 
-But sometimes I wonder if what I’m doing will make any difference in the long run. I’d really like to think there was meaning in my life, that somehow things were different because I was here. I see my friends or relatives achieve some degree of success or receive some recognition, and I smile and congratulate them enthusiastically. But inside, I’m eating my heart out.
+But inside, I’m eating my heart out. Why do I feel this way? I have a forceful personality. I know, in almost any interaction, I can control the outcome.
 
-Why do I feel this way? I have a forceful personality. I know, in almost any interaction, I can control the outcome. Most of the time, I can even do it by influencing others to come up with the solution I want.
+Most of the time, I can even do it by influencing others to come up with the solution I want. I think through each situation and I really feel the ideas I come up with are usually the best for everyone. But I feel uneasy. I always wonder what other people really think of me and my ideas.
 
-I think through each situation and I really feel the ideas I come up with are usually the best for everyone. But I feel uneasy. I always wonder what other people really think of me and my ideas. My marriage has gone flat.
+My marriage has gone flat. We don’t fight or anything, we just don’t love each other anymore. We’ve gone to counseling, we’ve tried a number of things, but we just can’t seem to rekindle the feeling we used to have. These are deep problems, painful problems, problems that quick fix approaches can’t solve.
 
-We don’t fight or anything, we just don’t love each other anymore. We’ve gone to counseling, we’ve tried a number of things, but we just can’t seem to rekindle the feeling we used to have. These are deep problems, painful problems, problems that quick fix approaches can’t solve. Two years ago, my wife Sandra and I were struggling with this kind of concern.
+Two years ago, my wife Sandra and I were struggling with this kind of concern. One of our sons was having a very difficult time in school. He was doing poorly academically, he didn’t even know how to follow the instructions on the tests, let alone do well on them. Socially he was immature, often embarrassing those closest to him.
 
-One of our sons was having a very difficult time in school. He was doing poorly academically, he didn’t even know how to follow the instructions on the tests, let alone do well on them. Socially he was immature, often embarrassing those closest to him. Athletically, he was small, skinny, and uncoordinated, swinging his baseball bat, for example, almost before the ball was even pitched.
+Athletically, he was small, skinny, and uncoordinated, swinging his baseball bat, for example, almost before the ball was even pitched. Others would laugh at him. Sandra and I were consumed with a desire to help him. We felt that if success were important in any area of life, it was supremely important in our role as parents.
 
-Others would laugh at him. Sandra and I were consumed with a desire to help him. We felt that if success were important in any area of life, it was supremely important in our role as parents. So we worked on our attitudes and behavior toward him and we tried to work on his.
+So we worked on our attitudes and behavior toward him and we tried to work on his. We attempted to psych him up using positive mental attitude techniques. Come on, son. You can do it.
 
-We attempted to psych him up using positive mental attitude techniques. Come on, son. You can do it. We know you can.
+We know you can. Put your hands a little higher on the bat and keep your eye on the ball. Don’t swing till it gets close to you. And if he did a little better, we would go to great lengths to reinforce him.
 
-Put your hands a little higher on the bat and keep your eye on the ball. Don’t swing till it gets close to you. And if he did a little better, we would go to great lengths to reinforce him. That’s good, son, keep it up.
+That’s good, son, keep it up. When others laughed, we reprimanded them. Leave him alone. Get off his back.
 
-When others laughed, we reprimanded them. Leave him alone. Get off his back. He’s just learning.
-
-And our son would cry and insist that he’d never be any good and that he didn’t like
+He’s just learning. And our son would cry and insist that he’d never be any good and that he didn’t like
 
 
 <a id="sec-000502"></a>
@@ -737,23 +735,21 @@ It’s obviously not a quick fix. But I assure you, you will feel benefits and s
 
 Heaven knows how to put a proper price on its goods.
 
-#### Part 2.
+#### Part 2. Private victory. Habit 1. Be proactive.
 
-Private victory. Habit 1. Be proactive. Principles of personal vision.
+Principles of personal vision. I know of no more encouraging fact than the unquestionable ability of man to elevate his life by conscious endeavor. Henry David Thoreau. As you read this book, try to stand apart from yourself.
 
-I know of no more encouraging fact than the unquestionable ability of man to elevate his life by conscious endeavor. Henry David Thoreau. As you read this book, try to stand apart from yourself. Try to project your consciousness upward into a corner of the room and see yourself, in your mind’s eye, reading.
+Try to project your consciousness upward into a corner of the room and see yourself, in your mind’s eye, reading. Can you look at yourself almost as though you were someone else? Now try something else. Think about the mood you are now in.
 
-Can you look at yourself almost as though you were someone else? Now try something else. Think about the mood you are now in. Can you identify it?
+Can you identify it? What are you feeling? How would you describe your present mental state? Now think for a minute about how your mind is working.
 
-What are you feeling? How would you describe your present mental state? Now think for a minute about how your mind is working. Is it quick and alert?
+Is it quick and alert? Do you sense that you are torn between doing this mental exercise and evaluating the point to be made out of it? Your ability to do what you just did is uniquely human. Animals do not possess this ability.
 
-Do you sense that you are torn between doing this mental exercise and evaluating the point to be made out of it? Your ability to do what you just did is uniquely human. Animals do not possess this ability. We call it self-awareness or the ability to think about your very thought process.
+We call it self-awareness or the ability to think about your very thought process. This is the reason why man has dominion over all things in the world and why he can make significant advances from generation to generation. This is why we can evaluate and learn from others' experiences as well as our own. This is also why we can make and break our habits.
 
-This is the reason why man has dominion over all things in the world and why he can make significant advances from generation to generation. This is why we can evaluate and learn from others' experiences as well as our own. This is also why we can make and break our habits. We are not our feelings.
+We are not our feelings. We are not our moods. We are not even our thoughts. The very fact that we can think about these things separates us from the men from the animal world.
 
-We are not our moods. We are not even our thoughts. The very fact that we can think about these things separates us from the men from the animal world. Self-awareness enables us to stand apart and examine even the way we see ourselves, our self-paradigm, the most fundamental paradigm of effectiveness.
-
-It affects not only our attitudes and behaviors, but also how we see other people. It becomes our map of the basic nature of mankind.
+Self-awareness enables us to stand apart and examine even the way we see ourselves, our self-paradigm, the most fundamental paradigm of effectiveness. It affects not only our attitudes and behaviors, but also how we see other people. It becomes our map of the basic nature of mankind.
 
 In fact, until we take how we see ourselves, and how we see others, into account, we will be unable to understand how others see and feel about themselves and their world. Unaware, we will project our intentions on their behavior and call ourselves objective. This significantly limits our personal potential and our ability to relate to others as well. But because of the unique human capacity of self-awareness, we can examine our paradigms to determine whether they are reality or principle based or if they are a function of conditioning and conditions.
 
@@ -1013,11 +1009,11 @@ As I sat one day with the president in an advisory capacity, he said, “Stephen
 
 What a relief not to have to worry about this part of the business. At the next meeting, it was go for this and go for that to all the executives.
 
-#### Part 1.
+#### Part 1. To this man, it was what’s your opinion? His circle of influence had grown.
 
-To this man, it was what’s your opinion? His circle of influence had grown. This caused quite a stir in the organization. The reactive minds in the executive corridors began shooting their vindictive ammunition at this proactive man.
+This caused quite a stir in the organization. The reactive minds in the executive corridors began shooting their vindictive ammunition at this proactive man. It’s the nature of reactive people to absolve themselves of responsibility. It’s so much safer to say, I am not responsible.
 
-It’s the nature of reactive people to absolve themselves of responsibility. It’s so much safer to say, I am not responsible. If I say I am responsible, I might have to say, I am irresponsible.
+If I say I am responsible, I might have to say, I am irresponsible.
 
 
 <a id="sec-021557"></a>
@@ -3739,33 +3735,33 @@ Little by little, your resting pulse rate will go down as your heart and oxygen 
 
 As you act based on the value of physical well-being instead of reacting to all the forces that keep you from exercising, your paradigm of yourself, you will be able to do more demanding things. Your self-esteem, your self-confidence, and your integrity will be profoundly affected.
 
-#### THE SPIRITUAL DIMENSION.
+#### THE SPIRITUAL DIMENSION. Renewing the spiritual dimension provides leadership to your life. It’s highly related to habit too.
 
-Renewing the spiritual dimension provides leadership to your life. It’s highly related to habit too. The spiritual dimension is your core, your center, your commitment to your value system. It’s a very private area of life and a supremely important one.
+The spiritual dimension is your core, your center, your commitment to your value system. It’s a very private area of life and a supremely important one. It draws upon the sources that inspire and uplift you and tie you to the timeless truths of all humanity. And people do it very, very differently.
 
-It draws upon the sources that inspire and uplift you and tie you to the timeless truths of all humanity. And people do it very, very differently. I find renewal in daily prayerful meditation on the scriptures because they represent my value system. As I read and meditate, I feel renewed, strengthened, centered and recommitted to serve.
+I find renewal in daily prayerful meditation on the scriptures because they represent my value system. As I read and meditate, I feel renewed, strengthened, centered and recommitted to serve. Immersion in great literature or great music can provide a similar renewal of the spirit for some. There are others who find it in the way they communicate with nature.
 
-Immersion in great literature or great music can provide a similar renewal of the spirit for some. There are others who find it in the way they communicate with nature. Nature bequeaths its own blessing on those who immerse themselves in it. When you’re able to leave the noise and the discord of the city and give yourself up to the harmony and rhythm of nature, you come back renewed.
+Nature bequeaths its own blessing on those who immerse themselves in it. When you’re able to leave the noise and the discord of the city and give yourself up to the harmony and rhythm of nature, you come back renewed. For a time, you’re undisturbable, almost unflappable, until gradually the noise and the discord from outside start to invade that sense of inner peace. Arthur Gordon shares a wonderful, intimate story of his own spiritual renewal in a little story called The Turn of the Tide.
 
-For a time, you’re undisturbable, almost unflappable, until gradually the noise and the discord from outside start to invade that sense of inner peace. Arthur Gordon shares a wonderful, intimate story of his own spiritual renewal in a little story called The Turn of the Tide. It tells of a time in his life when he began to feel that everything was stale and flat. His enthusiasm waned, his writing efforts were fruitless.
+It tells of a time in his life when he began to feel that everything was stale and flat. His enthusiasm waned, his writing efforts were fruitless. And the situation was growing worse day by day.
 
-And the situation was growing worse day by day. Finally, he determined to get help from a medical doctor. Observing nothing physically wrong, the doctor asked him if he would be able to follow his instructions for one day. When Gordon replied that he could.
+Finally, he determined to get help from a medical doctor. Observing nothing physically wrong, the doctor asked him if he would be able to follow his instructions for one day. When Gordon replied that he could. The doctor told him to spend the following day in the place where he was happiest as a child.
 
-The doctor told him to spend the following day in the place where he was happiest as a child. He could take food, but he was not to talk to anyone or to read or write or listen to the radio. He then wrote out four prescriptions and told him to open one at 9, 12, 3, and 6 o’clock. Are you serious?
+He could take food, but he was not to talk to anyone or to read or write or listen to the radio. He then wrote out four prescriptions and told him to open one at 9, 12, 3, and 6 o’clock. Are you serious? Gordon asked him.
 
-Gordon asked him. You won’t think I’m joking when you get my bill. Was the reply. So the next morning, Gordon went to the beach.
+You won’t think I’m joking when you get my bill. Was the reply. So the next morning, Gordon went to the beach. As he opened the first prescription, he read listen carefully.
 
-As he opened the first prescription, he read listen carefully. He thought the doctor was insane. How could he listen for three hours? But he had agreed to follow the doctor’s orders, so he listened.
+He thought the doctor was insane. How could he listen for three hours? But he had agreed to follow the doctor’s orders, so he listened. He heard the usual sounds of the sea and the birds.
 
-He heard the usual sounds of the sea and the birds. After a while, he could hear the other sounds that weren’t so apparent at first. As he listened, he began to think of lessons the sea had taught him as a child patience, respect, and awareness of the interdependence of things. He began to listen to the sounds and the silence and to feel a growing peace.
+After a while, he could hear the other sounds that weren’t so apparent at first. As he listened, he began to think of lessons the sea had taught him as a child patience, respect, and awareness of the interdependence of things. He began to listen to the sounds and the silence and to feel a growing peace. At noon, he opened the second slip of paper and read try reaching back.
 
-At noon, he opened the second slip of paper and read try reaching back. Reaching back to what? He wondered. Perhaps to childhood, perhaps to memories of happy times.
+Reaching back to what? He wondered. Perhaps to childhood, perhaps to memories of happy times. He thought about his past, about the many little moments of joy.
 
-He thought about his past, about the many little moments of joy. He tried to remember them with exactness. And in remembering, he found a growing warmth inside. At three o’clock, he opened the third piece of paper.
+He tried to remember them with exactness. And in remembering, he found a growing warmth inside. At three o’clock, he opened the third piece of paper. Until now, the prescriptions had been easy to take.
 
-Until now, the prescriptions had been easy to take. But this one was different, it said examine your motives. At first he was defensive. He thought about what he wanted success, recognition, security and he justified them all.
+But this one was different, it said examine your motives. At first he was defensive. He thought about what he wanted success, recognition, security and he justified them all. But then the thought occurred to him that those motives weren’t good enough, and that perhaps therein was the answer to his stagnant situation.
 
-But then the thought occurred to him that those motives weren’t good enough, and that perhaps therein was the answer to his stagnant situation. He considered his motives deeply. He thought about past happiness. And at last, the answer came to him.
+He considered his motives deeply. He thought about past happiness. And at last, the answer came to him.
 
 
 <a id="sec-090345"></a>

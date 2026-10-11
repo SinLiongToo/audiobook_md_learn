@@ -70,47 +70,47 @@
 <a id="sec-000000"></a>
 ### ⏱️ [00:00:00 - 00:05:00]
 
-#### Chapter 1, The Essentialist.
+#### Chapter 1, The Essentialist. The wisdom of life consists in the elimination of non-essentials. Lin Yutong Sam Elliott is a capable executive in Silicon Valley who found himself stretched too thin after his company was acquired by a larger, bureaucratic business. He was in earnest about being a good citizen in his new role so he said yes to many requests without really thinking about it.
 
-The wisdom of life consists in the elimination of non-essentials. Lin Yutong Sam Elliott is a capable executive in Silicon Valley who found himself stretched too thin after his company was acquired by a larger, bureaucratic business. He was in earnest about being a good citizen in his new role so he said yes to many requests without really thinking about it. But as a result, he would spend the whole day rushing from one meeting and conference call to another, trying to please everyone and get it all done.
+But as a result, he would spend the whole day rushing from one meeting and conference call to another, trying to please everyone and get it all done. His stress went up as the quality of his work went down. It was like he was majoring in minor activities and as a result, his work became unsatisfying for him and frustrating for the people he was trying so hard to please. In the midst of his frustration, the company came to him and offered him an early retirement package.
 
-His stress went up as the quality of his work went down. It was like he was majoring in minor activities and as a result, his work became unsatisfying for him and frustrating for the people he was trying so hard to please. In the midst of his frustration, the company came to him and offered him an early retirement package. But he was in his early 50s and had no interest in completely retiring.
+But he was in his early 50s and had no interest in completely retiring. He thought briefly about starting a consulting company doing what he was already doing. He even thought of selling his services back to his employer as a consultant. But none of these options seemed that appealing.
 
-He thought briefly about starting a consulting company doing what he was already doing. He even thought of selling his services back to his employer as a consultant. But none of these options seemed that appealing. So he went to speak with a mentor who gave him surprising advice, stay, but do what you would as a consultant and nothing else.
+So he went to speak with a mentor who gave him surprising advice, stay, but do what you would as a consultant and nothing else. And don’t tell anyone.
 
-And don’t tell anyone. In other words, his mentor was advising him to do only those things that he deemed essential and ignore everything else that was asked of him. The executive followed the advice. He made a daily commitment towards cutting out the red tape.
+In other words, his mentor was advising him to do only those things that he deemed essential and ignore everything else that was asked of him. The executive followed the advice. He made a daily commitment towards cutting out the red tape. He began saying no. He was tentative at first.
 
-He began saying no. He was tentative at first. He would evaluate requests based on the timid criteria, can I actually fulfill this request given the time and resources I… If the answer was no, then he would refuse the request. He was pleasantly surprised to find that while people would at first look a little disappointed, they seemed to respect his honesty.
+He would evaluate requests based on the timid criteria, can I actually fulfill this request given the time and resources I… If the answer was no, then he would refuse the request. He was pleasantly surprised to find that while people would at first look a little disappointed, they seemed to respect his honesty. Encouraged by his small wins, he pushed back a bit more.
 
-Encouraged by his small wins, he pushed back a bit more. Now when a request would come in, he would pause and evaluate the request against the tougher criteria. Is this the very most important thing I should be doing with my time and resources right now? If he couldn’t answer a definitive yes, then he would refuse the request.
+Now when a request would come in, he would pause and evaluate the request against the tougher criteria. Is this the very most important thing I should be doing with my time and resources right now? If he couldn’t answer a definitive yes, then he would refuse the request. And once again to his delight, while his colleagues might initially seem disappointed, they soon began to respect him more for his refusal, not less.
 
-And once again to his delight, while his colleagues might initially seem disappointed, they soon began to respect him more for his refusal, not less. Emboldened, he began to apply this selective criteria to everything, not just direct requests. In his past life, he would always volunteer for presentations or assignments that came up last minute. Now he found a way to not sign up for them.
+Emboldened, he began to apply this selective criteria to everything, not just direct requests. In his past life, he would always volunteer for presentations or assignments that came up last minute. Now he found a way to not sign up for them. He used to be one of the first to jump in on an email trail, but now he just stepped back and let others jump in.
 
-He used to be one of the first to jump in on an email trail, but now he just stepped back and let others jump in. He stopped attending conference calls that he only had a couple of minutes of interest in. He stopped sitting in on the weekly update call because he didn’t need the information. He stopped attending meetings on his calendar if he didn’t have a direct contribution to make.
+He stopped attending conference calls that he only had a couple of minutes of interest in. He stopped sitting in on the weekly update call because he didn’t need the information. He stopped attending meetings on his calendar if he didn’t have a direct contribution to make. He explained to me, just because I was invited, didn’t seem a good enough reason to attend.
 
-He explained to me, just because I was invited, didn’t seem a good enough reason to attend. It felt self-indulgent at first, but by being selective he bought himself space, and in that space he found creative freedom. He could concentrate his efforts on one project at a time. He could plan thoroughly.
+It felt self-indulgent at first, but by being selective he bought himself space, and in that space he found creative freedom. He could concentrate his efforts on one project at a time. He could plan thoroughly. He could anticipate roadblocks and start to remove obstacles.
 
-He could anticipate roadblocks and start to remove obstacles. Instead of spinning his wheels trying to get everything done, he could get the right things done. His newfound commitment to doing only the things that were truly important and eliminating everything else restored the quality of his work. Instead of making just a millimeter of progress, in a million directions he began to generate tremendous momentum towards accomplishing the things that were truly vital.
+Instead of spinning his wheels trying to get everything done, he could get the right things done. His newfound commitment to doing only the things that were truly important and eliminating everything else restored the quality of his work. Instead of making just a millimeter of progress, in a million directions he began to generate tremendous momentum towards accomplishing the things that were truly vital. He continued this for several months.
 
-He continued this for several months. He immediately found that he not only got more of his day back at work, in the evenings he got even more time back at home.
+He immediately found that he not only got more of his day back at work, in the evenings he got even more time back at home. He said, “I got back my family life.” I can go home at a decent time. Now instead of being a slave to his phone, he shuts it down. He goes to the gym.
 
-He said, “I got back my family life.” I can go home at a decent time. Now instead of being a slave to his phone, he shuts it down. He goes to the gym. He goes out to eat with his wife.
+He goes out to eat with his wife. To his great surprise, there were no negative repercussions to his experiment. His manager didn’t chastise him. His colleagues didn’t resent him.
 
-To his great surprise, there were no negative repercussions to his experiment. His manager didn’t chastise him. His colleagues didn’t resent him. Quite the opposite.
+Quite the opposite. Because he was left only with projects that were meaningful to him and actually valuable to the company, they began to respect and value his work more than ever. His work became fulfilling again. His performance ratings went up.
 
-Because he was left only with projects that were meaningful to him and actually valuable to the company, they began to respect and value his work more than ever. His work became fulfilling again. His performance ratings went up. He ended up with one of the largest bonuses of his career.
+He ended up with one of the largest bonuses of his career. In this example is the basic value proposition of essentialism. Only once you give yourself permission to stop trying to do it all, to stop saying yes to everyone. Can you make your highest contribution towards the things that really matter?
 
-In this example is the basic value proposition of essentialism. Only once you give yourself permission to stop trying to do it all, to stop saying yes to everyone. Can you make your highest contribution towards the things that really matter? What about you?
+What about you? How many times have you reacted to a request by saying yes without really thinking about it? How many times have you resented committing to do something and wondered, why did I sign up for this? How often do you say yes simply to please?
 
-How many times have you reacted to a request by saying yes without really thinking about it? How many times have you resented committing to do something and wondered, why did I sign up for this? How often do you say yes simply to please? Or to avoid trouble?
+Or to avoid trouble? Or because yes had just become your default response? Now let me ask you this. Have you ever found yourself stretched too thin?
 
-Or because yes had just become your default response? Now let me ask you this. Have you ever found yourself stretched too thin? Have you ever felt both overworked and underutilized?
+Have you ever felt both overworked and underutilized? Have you ever found yourself majoring in minor activities? Do you ever feel busy but not productive? Like you’re always in motion, but never getting anywhere?
 
-Have you ever found yourself majoring in minor activities? Do you ever feel busy but not productive? Like you’re always in motion, but never getting anywhere? If you answered yes to any of these, the way out is the way of the essentialist.
+If you answered yes to any of these, the way out is the way of the essentialist. Oceanaupdf.com. The way of the essentialist Dieter Rams was the lead designer at Braun for many years. He’s driven by the idea that almost everything is noise.
 
-Oceanaupdf.com. The way of the essentialist Dieter Rams was the lead designer at Braun for many years. He’s driven by the idea that almost everything is noise. He believes very few things are essential.
+He believes very few things are essential. His job is to filter through that noise until he gets to the essence.
 
-His job is to filter through that noise until he gets to the essence. For example, as a young 24-year-old at the company he was asked to collaborate on a record player, the norm at the time was to cover the turntable in a solid wooden lid or even to incorporate the player into a piece of living room furniture. Instead, he and his team removed the clutter and designed a player with a clear plastic
+For example, as a young 24-year-old at the company he was asked to collaborate on a record player, the norm at the time was to cover the turntable in a solid wooden lid or even to incorporate the player into a piece of living room furniture. Instead, he and his team removed the clutter and designed a player with a clear plastic
 
 
 <a id="sec-000500"></a>
@@ -454,31 +454,31 @@ But an essentialist has learned to tell the difference between what is truly imp
 
 Oceanopdf.com.
 
-#### Chapter 4.
+#### Chapter 4. Tradeoff. Which problem do I want? Strategy is about making choices.
 
-Tradeoff. Which problem do I want? Strategy is about making choices. Tradeoffs.
+Tradeoffs. It’s about deliberately choosing to be different. Michael Porter. Imagine you could go back to 1972 and invest a dollar in each company in the SAMP 500.
 
-It’s about deliberately choosing to be different. Michael Porter. Imagine you could go back to 1972 and invest a dollar in each company in the SAMP 500. Which company would provide the largest return on your investment by 2002?
+Which company would provide the largest return on your investment by 2002? Would it be G? IBM Intel. According to Money Magazine and the analysis they initiated from Ned Davis Research, the answer is none of the above.
 
-Would it be G? IBM Intel. According to Money Magazine and the analysis they initiated from Ned Davis Research, the answer is none of the above. The correct answer is Southwest Airlines.
+The correct answer is Southwest Airlines. This is startling because the airline industry is notoriously bad at generating profits. Yet Southwest, led by Herb Kelleher, has consistently, year after year, produced amazing financial results. Herb’s essentialist approach to business is central to why.
 
-This is startling because the airline industry is notoriously bad at generating profits. Yet Southwest, led by Herb Kelleher, has consistently, year after year, produced amazing financial results. Herb’s essentialist approach to business is central to why. I once attended an event where Herb was interviewed about his business strategy.
+I once attended an event where Herb was interviewed about his business strategy. Two, it was a great talk in many ways. But when he began to talk about how deliberate he was about the tradeoffs he had made at Southwest, my ears perked up. Rather than try to fly to every destination, they had deliberately chosen to offer only point-to-point flights.
 
-Two, it was a great talk in many ways. But when he began to talk about how deliberate he was about the tradeoffs he had made at Southwest, my ears perked up. Rather than try to fly to every destination, they had deliberately chosen to offer only point-to-point flights. Instead of jacking up prices to cover the cost of meals, he decided they would serve none.
+Instead of jacking up prices to cover the cost of meals, he decided they would serve none. Instead of assigning seats in advance, they would let people choose them as they got on the plane. Instead of upselling their passengers on glitzy first-class service, they offered only coach. These tradeoffs weren’t made by default but by design.
 
-Instead of assigning seats in advance, they would let people choose them as they got on the plane. Instead of upselling their passengers on glitzy first-class service, they offered only coach. These tradeoffs weren’t made by default but by design. Each and every one was made as part of a deliberate strategy to keep costs down.
+Each and every one was made as part of a deliberate strategy to keep costs down. Did he run the risk of alienating customers who wanted the broader range of destinations, the choice to purchase overpriced meals, and so forth? Yes. But Kelleher was totally clear about what the company was, a low-cost airline, and what they were not.
 
-Did he run the risk of alienating customers who wanted the broader range of destinations, the choice to purchase overpriced meals, and so forth? Yes. But Kelleher was totally clear about what the company was, a low-cost airline, and what they were not. And his tradeoffs reflected as much.
+And his tradeoffs reflected as much. It was an example of his essentialist thinking at work when he said, you have to look at every opportunity and say, well, no, I’m sorry. We’re not going to go a thousand different things that really won’t contribute much to the end result we are trying to achieve. At first, Southwest was lambasted by critics, naysayers, and other non-essentialists who couldn’t believe that this approach could possibly be successful.
 
-It was an example of his essentialist thinking at work when he said, you have to look at every opportunity and say, well, no, I’m sorry. We’re not going to go a thousand different things that really won’t contribute much to the end result we are trying to achieve. At first, Southwest was lambasted by critics, naysayers, and other non-essentialists who couldn’t believe that this approach could possibly be successful. Who in their right mind would want to fly an airline that traveled only to certain places and didn’t serve meals, no matter how cheap tickets were.
+Who in their right mind would want to fly an airline that traveled only to certain places and didn’t serve meals, no matter how cheap tickets were. Yet after a few years, it became clear Southwest was on to something. Competitors in the industry took notice of Southwest’s soaring profits and started trying to imitate their approach. But instead of adopting Kelleher’s essentialist approach, carte blanche, they did what Harvard Business School professor Michelle Porter terms straddling their strategy.
 
-Yet after a few years, it became clear Southwest was on to something. Competitors in the industry took notice of Southwest’s soaring profits and started trying to imitate their approach. But instead of adopting Kelleher’s essentialist approach, carte blanche, they did what Harvard Business School professor Michelle Porter terms straddling their strategy. In the simplest terms, straddling means keeping your existing strategy intact while simultaneously also trying to adopt the strategy of a competitor.
+In the simplest terms, straddling means keeping your existing strategy intact while simultaneously also trying to adopt the strategy of a competitor. One of the most visible attempts at the time was made by Continental Airlines. They called their new point-to-point service Continental Light. Continental Light adopted some of Southwest’s practices.
 
-One of the most visible attempts at the time was made by Continental Airlines. They called their new point-to-point service Continental Light. Continental Light adopted some of Southwest’s practices. They lowered their fares.
+They lowered their fares. They got rid of meals. They stopped their first-class service. They increased the frequency of departures.
 
-They got rid of meals. They stopped their first-class service. They increased the frequency of departures. The problem was that because they were still hanging on to their existing business model, Continental Light accounted for only a small percentage of flights offered by the airline, they didn’t have the operational efficiencies that would allow them to compete on price.
+The problem was that because they were still hanging on to their existing business model, Continental Light accounted for only a small percentage of flights offered by the airline, they didn’t have the operational efficiencies that would allow them to compete on price. So they were forced to skimp in other ways that ended up compromising the quality of their service. While Southwest had made conscious, deliberate trade-offs in key strategic areas, Continental was forced to sacrifice things around the margins that weren’t part of a coherent strategy.
 
-So they were forced to skimp in other ways that ended up compromising the quality of their service. While Southwest had made conscious, deliberate trade-offs in key strategic areas, Continental was forced to sacrifice things around the margins that weren’t part of a coherent strategy. According to Porter, a strategic position is not sustainable, unless there are trade-offs with other positions. By trying to operate by two incompatible strategies,
+According to Porter, a strategic position is not sustainable, unless there are trade-offs with other positions. By trying to operate by two incompatible strategies,
 
 
 <a id="sec-005023"></a>
@@ -1062,33 +1062,33 @@ What will I say no to? This is the question that will uncover your true prioriti
 
 It is that question that can deliver the rare and precious clarity necessary to achieve game-changing breakthroughs in your career and in your life. Oceanopdf.com.
 
-#### Chapter 10, clarify.
+#### Chapter 10, clarify. One decision that makes a thousand. To follow without halt, one aim.
 
-One decision that makes a thousand. To follow without halt, one aim. There is the secret to success. Anna Pavlova, Russian ballet dancer.
+There is the secret to success. Anna Pavlova, Russian ballet dancer. Let’s start with the game. On the next page are mission statements from three companies.
 
-Let’s start with the game. On the next page are mission statements from three companies. Try to match each company with its mission statement. One, company mission statement.
+Try to match each company with its mission statement. One, company mission statement. One echo, a profitable growth through superior a chief manufacturer and customer service, innovation, quality, and distributor of agricultural commitment. Equipment such as replacement parts, tractors, hay tools, and implements.
 
-One echo, a profitable growth through superior a chief manufacturer and customer service, innovation, quality, and distributor of agricultural commitment. Equipment such as replacement parts, tractors, hay tools, and implements. Two Dover B to be the leader in every market we serve corporations. To the benefit of our customers and our manufacturer shareholders.
+Two Dover B to be the leader in every market we serve corporations. To the benefit of our customers and our manufacturer shareholders. Equipment such as garbage trucks and electronic equipment such as inkjet printers and circuit board assemblies. Three Dean Foods C, the company’s primary objective is to corporation.
 
-Equipment such as garbage trucks and electronic equipment such as inkjet printers and circuit board assemblies. Three Dean Foods C, the company’s primary objective is to corporation. Maximize long-term stockholder value. Wow.
+Maximize long-term stockholder value. Wow. A food and beverage adhering to the laws of the jurisdictions and company. In particular, which it operates and at all times observing milk, dairy, and soy products the highest ethical standards.
 
-A food and beverage adhering to the laws of the jurisdictions and company. In particular, which it operates and at all times observing milk, dairy, and soy products the highest ethical standards. Manufacturer, how did you do? If you had absolutely no idea how to solve this puzzle, you are not alone.
+Manufacturer, how did you do? If you had absolutely no idea how to solve this puzzle, you are not alone. The largely indistinguishable statements make the task almost impossible. Such vague inflated mission statements may still be considered best practice in some quarters, but in many cases they do not achieve what they were intended to achieve.
 
-The largely indistinguishable statements make the task almost impossible. Such vague inflated mission statements may still be considered best practice in some quarters, but in many cases they do not achieve what they were intended to achieve. To inspire their employees with a clear sense of purpose. This section of the book is all about how to eliminate non-essentials in order to ensure that we can pour our energies into the activities that are most meaningful to us.
+To inspire their employees with a clear sense of purpose. This section of the book is all about how to eliminate non-essentials in order to ensure that we can pour our energies into the activities that are most meaningful to us. The first type of non-essential you’re going to learn how to eliminate is simply any activity that is misaligned with what you are intending to achieve. It sounds straightforward enough, but to be able to do that you need to be really clear about what your purpose is in the first place, which is where this chapter comes in.
 
-The first type of non-essential you’re going to learn how to eliminate is simply any activity that is misaligned with what you are intending to achieve. It sounds straightforward enough, but to be able to do that you need to be really clear about what your purpose is in the first place, which is where this chapter comes in. Answer code 1A2B and 3C, oceanopdf.com. From pretty clear to really clear.
+Answer code 1A2B and 3C, oceanopdf.com. From pretty clear to really clear. Executives I work with often suggest their company purpose or strategy is pretty clear. As if to say that is sufficient.
 
-Executives I work with often suggest their company purpose or strategy is pretty clear. As if to say that is sufficient. But anyone who wears glasses knows there is a big difference between pretty clear and really clear. The same seems true with individuals professional strategy.
+But anyone who wears glasses knows there is a big difference between pretty clear and really clear. The same seems true with individuals professional strategy. When I ask people, what do you really want out of your career over the next five years? I’m still taken aback by how few people can answer the question.
 
-When I ask people, what do you really want out of your career over the next five years? I’m still taken aback by how few people can answer the question. This would matter less if it were not for the fact that clarity of purpose so consistently predicts how people do their jobs. In working with executive teams I have been amazed to see what happens when teams are only sort of clear about what they are trying to achieve rather than really clear.
+This would matter less if it were not for the fact that clarity of purpose so consistently predicts how people do their jobs. In working with executive teams I have been amazed to see what happens when teams are only sort of clear about what they are trying to achieve rather than really clear. For one, there is a heavy price just in terms of human dynamics. The fact is motivation and cooperation deteriorate when there is a lack of purpose.
 
-For one, there is a heavy price just in terms of human dynamics. The fact is motivation and cooperation deteriorate when there is a lack of purpose. You can train leaders on communication and teamwork and conduct 360 feedback reports until you are blue in the face. But if a team does not have clarity of goals and roles, problems will fester and multiply.
+You can train leaders on communication and teamwork and conduct 360 feedback reports until you are blue in the face. But if a team does not have clarity of goals and roles, problems will fester and multiply. This is not just my theory or something I read in another business book. In gathering data from more than 500 people about their experience on more than 1,000 teams, I have found a consistent reality when there is a serious lack of clarity about what the team stands for and what their goals and roles are, people experience confusion, stress, and frustration.
 
-This is not just my theory or something I read in another business book. In gathering data from more than 500 people about their experience on more than 1,000 teams, I have found a consistent reality when there is a serious lack of clarity about what the team stands for and what their goals and roles are, people experience confusion, stress, and frustration. When there is a high level of clarity, on the other hand, people thrive. When there is a lack of clarity, people waste time and energy on the trivial many.
+When there is a high level of clarity, on the other hand, people thrive. When there is a lack of clarity, people waste time and energy on the trivial many. When they have sufficient levels of clarity, they are capable of greater breakthroughs and innovations, greater than people even realize they ought to have in those areas that are truly vital. In my work, I’ve noticed two common patterns that typically emerge when teams lack clarity of purpose.
 
-When they have sufficient levels of clarity, they are capable of greater breakthroughs and innovations, greater than people even realize they ought to have in those areas that are truly vital. In my work, I’ve noticed two common patterns that typically emerge when teams lack clarity of purpose. Pattern one, playing politics in the first pattern, the team becomes overly focused on winning the attention of the manager. The problem is when people don’t know what the end game is, they are unclear about how to win, and as a result, they make up their own game and their own rules as they vie for the manager’s favor.
+Pattern one, playing politics in the first pattern, the team becomes overly focused on winning the attention of the manager. The problem is when people don’t know what the end game is, they are unclear about how to win, and as a result, they make up their own game and their own rules as they vie for the manager’s favor. Instead of focusing their time and energies on making a high level of contribution, they put all their effort into games like attempting to look better than their peers, demonstrating their self-importance and echoing their manager’s every idea or sentiment.
 
-Instead of focusing their time and energies on making a high level of contribution, they put all their effort into games like attempting to look better than their peers, demonstrating their self-importance and echoing their manager’s every idea or sentiment. These kinds of activities are not only non-essential, but damaging and counterproductive. We do a similar thing in our personal lives as well. When we are unclear about our real purpose in life, in other words, when we don’t have a clear sense of our goals, our aspirations, and our values, we make up our own social games.
+These kinds of activities are not only non-essential, but damaging and counterproductive. We do a similar thing in our personal lives as well. When we are unclear about our real purpose in life, in other words, when we don’t have a clear sense of our goals, our aspirations, and our values, we make up our own social games.
 
 
 <a id="sec-021046"></a>
@@ -1284,35 +1284,35 @@ We learn from them. We develop more skills. We keep practicing. After a while, w
 
 And in time, we have gained mastery of a type of social art form. We can handle almost any requests from almost anybody with grace and dignity, Tom Friel. The former CEO of Hydragamp, struggles, once said to me, we need to learn the slow yes and the quick no, oceanopdf.com.
 
-#### Chapter 12, Uncommit.
+#### Chapter 12, Uncommit. Win big by cutting your losses.
 
-Win big by cutting your losses. Half of the troubles of this life can be traced to saying yes to. Quickly and not saying no soon enough. Josh Billings.
+Half of the troubles of this life can be traced to saying yes to. Quickly and not saying no soon enough. Josh Billings. By any estimation, the Concorde jet was a striking achievement in aeronautical engineering.
 
-By any estimation, the Concorde jet was a striking achievement in aeronautical engineering. To board this passenger plane, you could fly from London to New York in as little as 2 hours, 52 minutes, and 59 seconds. That’s less than half the time of a traditional plane, making the Concorde the fastest passenger plane in the world. Unfortunately, it was also an extraordinary financial failure.
+To board this passenger plane, you could fly from London to New York in as little as 2 hours, 52 minutes, and 59 seconds. That’s less than half the time of a traditional plane, making the Concorde the fastest passenger plane in the world. Unfortunately, it was also an extraordinary financial failure. Of course, many great ideas, innovations, and products are.
 
-Of course, many great ideas, innovations, and products are. But what made this one different was that it consistently lost money for more than four decades. Yet each time it went over budget, the French and British governments poured more and more money in. They did this even knowing that the chance of recouping their continued investments, let alone the original expenditures, were minuscule, with the plane’s limited seating, few orders coming in, and the high cost of production.
+But what made this one different was that it consistently lost money for more than four decades. Yet each time it went over budget, the French and British governments poured more and more money in. They did this even knowing that the chance of recouping their continued investments, let alone the original expenditures, were minuscule, with the plane’s limited seating, few orders coming in, and the high cost of production. It was clear that even with exaggerated estimates, the project would never be profitable.
 
-It was clear that even with exaggerated estimates, the project would never be profitable. Indeed, when the British cabinet papers were released under the 30-year rule, they revealed that government ministers at the time knew the investment could not stand on normal economic grounds. Why would intelligent, capable British and French government officials continue to invest in what was clearly a losing proposition for so long? One reason is a very common psychological phenomenon called sunk cost bias.
+Indeed, when the British cabinet papers were released under the 30-year rule, they revealed that government ministers at the time knew the investment could not stand on normal economic grounds. Why would intelligent, capable British and French government officials continue to invest in what was clearly a losing proposition for so long? One reason is a very common psychological phenomenon called sunk cost bias. Sunk cost bias is the tendency to continue to invest time, money, or energy into something we know is a losing proposition simply because we have already incurred, or sunk, a cost that cannot be recouped.
 
-Sunk cost bias is the tendency to continue to invest time, money, or energy into something we know is a losing proposition simply because we have already incurred, or sunk, a cost that cannot be recouped. But of course, this can easily become a vicious cycle. The more we invest, the more determined we become to see it through and see our investment pay off. The more we invest in something, the harder it is to let go.
+But of course, this can easily become a vicious cycle. The more we invest, the more determined we become to see it through and see our investment pay off. The more we invest in something, the harder it is to let go. The sunk costs for developing and building the concord were around $1 billion.
 
-The sunk costs for developing and building the concord were around $1 billion. Yet the more money the British and French governments poured into it, the harder it was to walk away. Three individuals are equally vulnerable to sunk cost bias. It explains why we’ll continue to sit through a terrible movie because we’ve already paid the price of a ticket.
+Yet the more money the British and French governments poured into it, the harder it was to walk away. Three individuals are equally vulnerable to sunk cost bias. It explains why we’ll continue to sit through a terrible movie because we’ve already paid the price of a ticket. It explains why we continue to pour money into a home renovation that never seems to near completion.
 
-It explains why we continue to pour money into a home renovation that never seems to near completion. It explains why we’ll continue to wait for a bus or a subway train that never comes instead of hailing a cab. And it explains why we invest in toxic relationships, even when our efforts only make things worse. Examples like this abound.
+It explains why we’ll continue to wait for a bus or a subway train that never comes instead of hailing a cab. And it explains why we invest in toxic relationships, even when our efforts only make things worse. Examples like this abound. Consider the somewhat bizarre story of a man named Henry Gribham, who recently spent his entire life savings, $2,600 in total, at a carnival game trying to win an Xbox Kinect.
 
-Consider the somewhat bizarre story of a man named Henry Gribham, who recently spent his entire life savings, $2,600 in total, at a carnival game trying to win an Xbox Kinect. The more he spent, the more determined he became to win, Henry said. You just get caught up in the hole, I’ve got to win my money back, but it didn’t turn out that way. The more he invested in trying to win this non-essential item, the harder it was for him to walk away.
+The more he spent, the more determined he became to win, Henry said. You just get caught up in the hole, I’ve got to win my money back, but it didn’t turn out that way. The more he invested in trying to win this non-essential item, the harder it was for him to walk away. Have you ever continued to invest time or effort in non-essential project instead of cutting your losses?
 
-Have you ever continued to invest time or effort in non-essential project instead of cutting your losses? Have you ever continued to pour money into an investment that wasn’t panning out instead of walking away? Have you ever kept plodding down a dead end because you could not admit, I shouldn’t have pursued this direction in the first place? Ever been stuck in a cycle of throwing good money after bad?
+Have you ever continued to pour money into an investment that wasn’t panning out instead of walking away? Have you ever kept plodding down a dead end because you could not admit, I shouldn’t have pursued this direction in the first place? Ever been stuck in a cycle of throwing good money after bad? A non-essentialist can’t break free of traps like these.
 
-A non-essentialist can’t break free of traps like these. An essentialist has the courage and confidence to admit his or her mistakes and uncommit, no matter the sunk costs. Non-essentialist essentialist asks, why stop now when I’ve asked? If I weren’t already invested and already invested so much in this project, how much would I invest in project?
+An essentialist has the courage and confidence to admit his or her mistakes and uncommit, no matter the sunk costs. Non-essentialist essentialist asks, why stop now when I’ve asked? If I weren’t already invested and already invested so much in this project, how much would I invest in project? It now, thinks if I just keep trying.
 
-It now, thinks if I just keep trying. I thinks, what else could I do with this time or money if I pulled the plug? Can make this work, hates admitting to mistakes. Now comfortable with cutting losses, sunk costs bias while all too common isn’t the only non-essentialist trap to watch out for.
+I thinks, what else could I do with this time or money if I pulled the plug? Can make this work, hates admitting to mistakes. Now comfortable with cutting losses, sunk costs bias while all too common isn’t the only non-essentialist trap to watch out for. Below are several other common traps and tips for how to extricate yourself politely, gracefully, and with minimal cost.
 
-Below are several other common traps and tips for how to extricate yourself politely, gracefully, and with minimal cost. Oceanawpdf.com.avoidingcommitmenttraps. Beware of the endowment effect a sense of ownership is a powerful thing. As the saying goes, nobody in the history of the world has watched their rental car.
+Oceanawpdf.com.avoidingcommitmenttraps. Beware of the endowment effect a sense of ownership is a powerful thing. As the saying goes, nobody in the history of the world has watched their rental car. This is because of something called the endowment effect, our tendency to undervalue things that aren’t ours and to overvalue things because we already own them.
 
-This is because of something called the endowment effect, our tendency to undervalue things that aren’t ours and to overvalue things because we already own them. In one study demonstrating the power of the endowment effect, the Nobel Prize, winning researcher Daniel Kahneman and colleagues randomly gave coffee mugs to only half the subjects in an experiment. The first group was asked how much they would be willing to sell their mug for, while the second group was asked what they would be willing to pay for it.
+In one study demonstrating the power of the endowment effect, the Nobel Prize, winning researcher Daniel Kahneman and colleagues randomly gave coffee mugs to only half the subjects in an experiment. The first group was asked how much they would be willing to sell their mug for, while the second group was asked what they would be willing to pay for it. It turned out the students who owned the mugs refused to sell for less than $5.25, while those without the cups were willing to pay only $2.25 to $2.75.
 
-It turned out the students who owned the mugs refused to sell for less than $5.25, while those without the cups were willing to pay only $2.25 to $2.75. The mere fact of ownership, in other words, caused the mug owners to value the objects more highly and made them less willing to part with them. In your own life, I’m sure you can think of items that seem to be more valuable the moment you think about giving them away. Think of a book on your shelf you haven’t read in years, or a kitchen appliance still sitting in the box, or the sweater you got from Aunt Mildred but never wore.
+The mere fact of ownership, in other words, caused the mug owners to value the objects more highly and made them less willing to part with them. In your own life, I’m sure you can think of items that seem to be more valuable the moment you think about giving them away. Think of a book on your shelf you haven’t read in years, or a kitchen appliance still sitting in the box, or the sweater you got from Aunt Mildred but never wore.
 
 
 <a id="sec-024100"></a>
@@ -1450,9 +1450,9 @@ We can wait, we can observe, we can see how things develop. Doing less is not ju
 
 Editing our time and activities continuously allows us to make more minor, but deliberate adjustments along the way. Becoming an essentialist means making cutting, condensing, and correcting a natural part of our daily routine, making editing a natural cadence in our lives. Oceanopdf.com.
 
-#### Chapter 14, limit, the freedom of setting boundaries.
+#### Chapter 14, limit, the freedom of setting boundaries. Noah’s a complete sentence.
 
-Noah’s a complete sentence. Anne Lamott. Jin Young was an employee at a technology company in Korea who found herself planning her wedding while simultaneously preparing for a board meeting that was to take place three weeks prior to her big day. When her manager, Hyori, asked Jin Young to create the script and all the slides for their joint presentation at the board meeting, Jin Young put in several 15-hour days and completed the work quickly so she could devote the days leading up to the board meeting to planning her wedding.
+Anne Lamott. Jin Young was an employee at a technology company in Korea who found herself planning her wedding while simultaneously preparing for a board meeting that was to take place three weeks prior to her big day. When her manager, Hyori, asked Jin Young to create the script and all the slides for their joint presentation at the board meeting, Jin Young put in several 15-hour days and completed the work quickly so she could devote the days leading up to the board meeting to planning her wedding.
 
 Her manager was surprised and delighted that the work was done ahead of schedule, and Jin Young was now free to immerse herself in five uninterrupted days of wedding planning. Then Jin Young received an urgent request from her manager, asking her to complete an additional project prior to the board meeting. In their several years of working together, Jin Young had never told Hyori no, even when saying… Yes, threw her life into temporary turmoil, as it often did.
 
@@ -1648,15 +1648,15 @@ Four, what would the financial impact of this be? And how can you invest to redu
 
 The future is simply too unpredictable. Instead, they build in buffers to reduce the friction caused by the unexpected. Oshinapdf.com.
 
-#### Chapter 16.
+#### Chapter 16. Subtract.
 
-Subtract. Bring forth more by removing obstacles. To attain knowledge, add things every day. To attain wisdom, subtract.
+Bring forth more by removing obstacles. To attain knowledge, add things every day. To attain wisdom, subtract. Things every day.
 
-Things every day. Lao Tzu. In the business parable the goal, Alex Rogo is a fictional character who is overwhelmed with the responsibility of turning around a failing production plant within three months. At first, he does not see how this is possible.
+Lao Tzu. In the business parable the goal, Alex Rogo is a fictional character who is overwhelmed with the responsibility of turning around a failing production plant within three months. At first, he does not see how this is possible. Then he is mentored by a professor who tells him he can make incredible progress in a short time if only he can find the plant’s constraints.
 
-Then he is mentored by a professor who tells him he can make incredible progress in a short time if only he can find the plant’s constraints. Constraints, he is told, are the obstacles holding the whole system back. Even if he improves everything else in the plant, his mentor tells him if he doesn’t address the constraints, the plant will not materially improve. As Alex is trying to make sense of what he is being taught, he goes on a hike with his son and some other friends.
+Constraints, he is told, are the obstacles holding the whole system back. Even if he improves everything else in the plant, his mentor tells him if he doesn’t address the constraints, the plant will not materially improve. As Alex is trying to make sense of what he is being taught, he goes on a hike with his son and some other friends. As the scout leader, it’s his responsibility to get all of the boys to the campsite before the sunset.
 
-As the scout leader, it’s his responsibility to get all of the boys to the campsite before the sunset. But as anyone who has been on such a hike knows, getting a group of young boys to keep up a pace
+But as anyone who has been on such a hike knows, getting a group of young boys to keep up a pace
 
 
 <a id="sec-032618"></a>
@@ -1720,13 +1720,13 @@ In other words, we both actually ended up doing less, but better. Removing obsta
 
 All it takes is a small shove. Then momentum will naturally build. Oceanallpdf.com.
 
-#### Chapter 17.
+#### Chapter 17. Progress.
 
-Progress. The power of small wins. Every day do something that will inch you closer to a better. Tomorrow.
+The power of small wins. Every day do something that will inch you closer to a better. Tomorrow. Doug Firebaugh.
 
-Doug Firebaugh. Think of the last time you were pulled over by the police while driving. Did you wonder to yourself, is this going to be a good ticket or a bad one? Not likely.
+Think of the last time you were pulled over by the police while driving. Did you wonder to yourself, is this going to be a good ticket or a bad one? Not likely. Everyone knows tickets are all bad.
 
-Everyone knows tickets are all bad. Right. Yet at least one innovative police precinct in Richmond, Canada, thinks this is an assumption that ought to be challenged. There is a well-established approach to cracking down on crime, pass new and harsher laws, set stronger sentencing, or initiate zero-tolerance initiatives.
+Right. Yet at least one innovative police precinct in Richmond, Canada, thinks this is an assumption that ought to be challenged. There is a well-established approach to cracking down on crime, pass new and harsher laws, set stronger sentencing, or initiate zero-tolerance initiatives.
 
 In other words, do more of what we already do, only more forcefully. For years, the Richmond Police Department followed these core and long-held practices of policing systems everywhere and experienced the typical results. Recidivism rates at 65% and spiraling youth crime. That is, until a young, forward-thinking new superintendent, War Clapham, came in and challenged them.
 
@@ -1804,11 +1804,9 @@ Or perhaps your parents had a star chart for you. Every time you ate your spinac
 
 Don’t be above applying the same technique to your own essential goals, at home or at work. When we start small and reward progress, we end up achieving more than when we set big, lofty, and often impossible goals. And as a bonus, the act of positively reinforcing our successes allows us to reap more enjoyment and satisfaction out of the process.
 
-#### Chapter 18.
+#### Chapter 18. Flow, the genius of routine.
 
-Flow, the genius of routine. Routine, in an intelligent man, is a sign of ambition. H. Auden.
-
-For years before the Olympic swimmer
+Routine, in an intelligent man, is a sign of ambition. H. Auden. For years before the Olympic swimmer
 
 
 <a id="sec-034628"></a>

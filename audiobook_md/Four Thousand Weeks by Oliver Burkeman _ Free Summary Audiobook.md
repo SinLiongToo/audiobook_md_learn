@@ -71,15 +71,13 @@ This was something that the Canadian writer David Kane realized when a mass shoo
 
 But rather than feeling defeated that you can’t accomplish everything, your choices could symbolize a commitment to choosing what matters most to you whether you’re foregoing other options to support your family, watch a sunset, or write a novel.
 
-#### Chapter 4 Become a Better Procrastinator by Prioritizing Limited Goals.
+#### Chapter 4 Become a Better Procrastinator by Prioritizing Limited Goals. Philosophers like Heidegger who have written about finitude tend to avoid giving practical advice about time management for fear of wandering too close to the self-help genre. But by considering Heidegger’s idea that deciding what we don’t want to spend time on is a core challenge, we can draw some conclusions.
 
-Philosophers like Heidegger who have written about finitude tend to avoid giving practical advice about time management for fear of wandering too close to the self-help genre. But by considering Heidegger’s idea that deciding what we don’t want to spend time on is a core challenge, we can draw some conclusions. In short, we need to improve our ability to procrastinate. Many of us reprimand ourselves for our tendency to procrastinate.
+In short, we need to improve our ability to procrastinate. Many of us reprimand ourselves for our tendency to procrastinate. But procrastination is a human tendency and is inevitable. To become better procrastinators, it’s time to shift our focus from attempting to get everything done to prioritizing what matters most.
 
-But procrastination is a human tendency and is inevitable. To become better procrastinators, it’s time to shift our focus from attempting to get everything done to prioritizing what matters most. The key message here? Become a better procrastinator by prioritizing limited goals.
+The key message here? Become a better procrastinator by prioritizing limited goals. The first principle to becoming a better procrastinator is by paying yourself first with your time. Say you have a task that is very important to you.
 
-The first principle to becoming a better procrastinator is by paying yourself first with your time. Say you have a task that is very important to you. This could be a creative project or even developing a relationship you haven’t had the time for. Instead of waiting for a moment when you have time to do it, actively make time in your schedule.
-
-You might try working on a project
+This could be a creative project or even developing a relationship you haven’t had the time for. Instead of waiting for a moment when you have time to do it, actively make time in your schedule. You might try working on a project
 
 
 <a id="sec-001005"></a>
@@ -91,17 +89,17 @@ As a result, you never finish what’s important to you. Tackling one project at
 
 Whether we like it or not, we simply don’t have time to accomplish everything we want to do. Whether it’s a friendship you only somewhat enjoy or a semi-interesting job opportunity, learn how to say no to some of the things you might want to do. If an activity isn’t in your top five things you want to get out of life, it might be in your best interest to avoid it.
 
-#### Chapter 5 There’s more to your distractions than meets the eye.
+#### Chapter 5 There’s more to your distractions than meets the eye. Even if you live to be eighty, you won’t really have four thousand weeks.
 
-Even if you live to be eighty, you won’t really have four thousand weeks. Life is filled with all kinds of unexpected events. And we also tend to get distracted. Philosophers since the time of the ancient Greeks have been concerned about the human proclivity toward distraction.
+Life is filled with all kinds of unexpected events. And we also tend to get distracted. Philosophers since the time of the ancient Greeks have been concerned about the human proclivity toward distraction. Their chief concern has been the fact that our reality is defined by our attention.
 
-Their chief concern has been the fact that our reality is defined by our attention. Of course, achieving complete control over your attention is impossible and undesirable. According to neuroscientists, involuntary attention is crucial to our survival. It enables us to move out of the way of an approaching bus.
+Of course, achieving complete control over your attention is impossible and undesirable. According to neuroscientists, involuntary attention is crucial to our survival. It enables us to move out of the way of an approaching bus. At the same time, to accomplish our goals, we need to master a certain level of focus.
 
-At the same time, to accomplish our goals, we need to master a certain level of focus. Here’s the key message, there’s more to your distractions than meets the eye. Today, the most obvious distractions we face come from digital technologies. By now, many of us are aware that technology companies profit from capturing and tracking our attention and selling our data to advertisers.
+Here’s the key message, there’s more to your distractions than meets the eye. Today, the most obvious distractions we face come from digital technologies. By now, many of us are aware that technology companies profit from capturing and tracking our attention and selling our data to advertisers. Companies achieve this through persuasive design which keeps us addicted to our screens.
 
-Companies achieve this through persuasive design which keeps us addicted to our screens. But the danger with technology isn’t just that it wastes the time we spend on it. Social media also distorts our perceptions of the world. Technology influences our ideas about what’s important, the threats we face, and our political opponents.
+But the danger with technology isn’t just that it wastes the time we spend on it. Social media also distorts our perceptions of the world. Technology influences our ideas about what’s important, the threats we face, and our political opponents. This has a tangible effect on how we behave offline.
 
-This has a tangible effect on how we behave offline. The author was an avid Twitter user until he realized that technology was taking a toll even after he’d signed off for the day. After his child was born, he’d speculate how to describe his son’s adorable behavior in a tweet instead of cherishing moments together. But technology alone isn’t to blame for our tendency to become distracted.
+The author was an avid Twitter user until he realized that technology was taking a toll even after he’d signed off for the day. After his child was born, he’d speculate how to describe his son’s adorable behavior in a tweet instead of cherishing moments together. But technology alone isn’t to blame for our tendency to become distracted.
 
 The truth is that doing what matters to us can cause unexpected discomfort. If you were trying to write a book in a remote cabin, you’d likely still find it painful or boring to focus entirely on your project. You might avoid work with a nap or by daydreaming. The reason that doing the work you enjoy can cause discomfort is that when you focus on an activity that actually matters, it forces you to face your limitations.
 
@@ -125,15 +123,15 @@ Standing in front of the collapsed prehistoric volcano, Persig couldn’t help b
 
 You can’t succeed or fail at living in the present moment because, whether you like it or not, the present moment is all that exists.
 
-#### Chapter 7 Take Up Hobbies or Spend Time with Family and Friends to Reap the Benefits of Leisure Time In his 1962 book The Decline of Pleasure, the critic Walter Kern noted our increasing tendency to fill our free time with productive activities.
+#### Chapter 7 Take Up Hobbies or Spend Time with Family and Friends to Reap the Benefits of Leisure Time In his 1962 book The Decline of Pleasure, the critic Walter Kern noted our increasing tendency to fill our free time with productive activities. We party to expand our network or spend a weekend at home to renovate the house.
 
-We party to expand our network or spend a weekend at home to renovate the house. But increasingly, we fail to find the time to relax. The decline of leisure was a byproduct of the Industrial Revolution. Factory owners encouraged workers to use their time off in ways that would enhance their productivity at work.
+But increasingly, we fail to find the time to relax. The decline of leisure was a byproduct of the Industrial Revolution. Factory owners encouraged workers to use their time off in ways that would enhance their productivity at work. This was, ironically, exacerbated by labor reformers and union leaders who argued that workers would use their additional free time to improve themselves through education or cultural activities.
 
-This was, ironically, exacerbated by labor reformers and union leaders who argued that workers would use their additional free time to improve themselves through education or cultural activities. This idea of spending our free time well continues to grip us today. To reap the pleasure of experience fully, it’s about time that we redefined our approach to leisure. The key message here is, take up hobbies or spend time with family and friends to reap the benefits of leisure time.
+This idea of spending our free time well continues to grip us today. To reap the pleasure of experience fully, it’s about time that we redefined our approach to leisure. The key message here is, take up hobbies or spend time with family and friends to reap the benefits of leisure time. These days, having a hobby can be somewhat embarrassing.
 
-These days, having a hobby can be somewhat embarrassing. Calling something a hobby tends to imply that you’re an amateur. It’s much more fashionable to pack in a side hustle or an activity that’s intended to bring profit. But having a hobby can enrich your life precisely because it’s done simply for the sake of pleasure.
+Calling something a hobby tends to imply that you’re an amateur. It’s much more fashionable to pack in a side hustle or an activity that’s intended to bring profit. But having a hobby can enrich your life precisely because it’s done simply for the sake of pleasure. Giving yourself permission to be mediocre at something can be liberating.
 
-Giving yourself permission to be mediocre at something can be liberating. For over two decades, the British rock star Rod Stewart has enjoyed building a model railway of a 1940s American urban landscape. Clearly, Stewart’s motive with the project wasn’t to boost his brand. And he wasn’t especially gifted at creating models.
+For over two decades, the British rock star Rod Stewart has enjoyed building a model railway of a 1940s American urban landscape. Clearly, Stewart’s motive with the project wasn’t to boost his brand. And he wasn’t especially gifted at creating models.
 
 In fact, he hired someone to do the electrical wiring. Hobbies can enrich your experience. But when pondering what to do with your leisure time, you might consider spending time with others. A study in Sweden found that antidepressant sales fell at a greater rate when more people were on holiday.
 

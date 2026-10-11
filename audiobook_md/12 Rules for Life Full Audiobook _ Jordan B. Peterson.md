@@ -421,9 +421,9 @@ Perhaps we’d come to avoid those pathways to hell, and we have seen in the ter
 
 If we each live properly, we will collectively flourish. Best wishes to you all as you proceed through these pages. Dr. Jordan B. Peterson, clinical psychologist and professor of psychology. 12 Rules for Life by Jordan Peterson.
 
-#### Rule 1.
+#### Rule 1. Stand up straight with your shoulders back.
 
-Stand up straight with your shoulders back. Lobsters and territory. If you’re like most people, you don’t have to think about lobsters, unless you’re eating one.
+Lobsters and territory. If you’re like most people, you don’t have to think about lobsters, unless you’re eating one.
 
 However, these interesting and delicious crustaceans are very much worth considering. Their nervous systems are comparatively simple, with large, easily observable neurons, the magic cells of the brain. Because of this, scientists have been able to map the neural circuitry of lobsters very accurately. This has helped us understand the structure and function of the brain and behavior of more complex animals, including human beings.
 
@@ -1273,17 +1273,17 @@ Once having understood hell, researched it so to speak, particularly your own in
 
 That would justify your miserable existence. That would atone for your sinful nature and replace your shame and self-consciousness with the natural pride and forthright confidence of someone who has learned once again to walk with God in the garden. You could begin by treating yourself as if you were someone you were responsible for helping. 12 Rules for Life by Jordan Peterson.
 
-#### Rule 3.
+#### Rule 3. Make friends with people who want the best for you.
 
-Make friends with people who want the best for you. The Old Hometown The town I grew up in had been scraped only 50 years earlier out of the endless, flat northern prairie. Fairview, Alberta was part of the frontier and had the cowboy bars to prove it. The Hudson’s Bay Company department store on Main Street still bought beaver, wolf and coyote furs directly from their local trappers. 3,000 people lived there, 400 miles away from the nearest city.
+The Old Hometown The town I grew up in had been scraped only 50 years earlier out of the endless, flat northern prairie. Fairview, Alberta was part of the frontier and had the cowboy bars to prove it. The Hudson’s Bay Company department store on Main Street still bought beaver, wolf and coyote furs directly from their local trappers. 3,000 people lived there, 400 miles away from the nearest city. Cable TV, video games and internet did not exist.
 
-Cable TV, video games and internet did not exist. It was no easy matter to stay innocently amused in Fairview, particularly during the five months of winter when long stretches of 40 below days and even colder nights were the norm. The world is a different place when it’s cold like that. The drunks in our town ended their sad lives early.
+It was no easy matter to stay innocently amused in Fairview, particularly during the five months of winter when long stretches of 40 below days and even colder nights were the norm. The world is a different place when it’s cold like that. The drunks in our town ended their sad lives early. They passed out in snow banks at three in the morning and froze to death.
 
-They passed out in snow banks at three in the morning and froze to death. You don’t go outside casually when it’s 40 below. Introducing AudioNest, your gateway to the world’s best-selling audiobooks, all for free. Imagine diving into captivating stories while you commute, cook or even relax.
+You don’t go outside casually when it’s 40 below. Introducing AudioNest, your gateway to the world’s best-selling audiobooks, all for free. Imagine diving into captivating stories while you commute, cook or even relax. With AudioNest, you can minimize the app and let your favorite books play in the background, seamlessly blending with your daily life.
 
-With AudioNest, you can minimize the app and let your favorite books play in the background, seamlessly blending with your daily life. The best part? You can enjoy these stories in the language you love, English, Spanish, Hindi, German, you name it, we’ve got it. Why wait?
+The best part? You can enjoy these stories in the language you love, English, Spanish, Hindi, German, you name it, we’ve got it. Why wait? Step into AudioNest today, where every story is yours to explore for free.
 
-Step into AudioNest today, where every story is yours to explore for free. To download the AudioNest app, visit our website www.audionestapp.com or click on the link in bio. On first breath, the arid desert air constricts
+To download the AudioNest app, visit our website www.audionestapp.com or click on the link in bio. On first breath, the arid desert air constricts
 
 
 <a id="sec-025117"></a>
@@ -1573,43 +1573,41 @@ Use your judgment and protect yourself from too uncritical compassion and pity. 
 
 12 Rules for Life by Jordan Peterson.
 
-#### Rule 4.
+#### Rule 4. Compare yourself to who you were yesterday, not to who someone else is today. The Internal Critic. It was easier for people to be good at something when more of us lived in small rural communities.
 
-Compare yourself to who you were yesterday, not to who someone else is today. The Internal Critic. It was easier for people to be good at something when more of us lived in small rural communities. Someone could be homecoming queen.
+Someone could be homecoming queen. Someone else could be spelling bee champ, math whiz, or basketball star. There were only one or two mechanics and a couple of teachers. In each of their domains, these local heroes had the opportunity to enjoy some serotonin field confidence of the victor.
 
-Someone else could be spelling bee champ, math whiz, or basketball star. There were only one or two mechanics and a couple of teachers. In each of their domains, these local heroes had the opportunity to enjoy some serotonin field confidence of the victor. It may be for that reason that people who were born in small towns are statistically overrepresented among the eminent.
+It may be for that reason that people who were born in small towns are statistically overrepresented among the eminent. If you’re one in a million now but originated in modern New York, there’s 20 of you, and most of us now live in cities. What’s more, we’ve become digitally connected to the entire seven billion. Our hierarchies of accomplishment are now dizzyingly vertical.
 
-If you’re one in a million now but originated in modern New York, there’s 20 of you, and most of us now live in cities. What’s more, we’ve become digitally connected to the entire seven billion. Our hierarchies of accomplishment are now dizzyingly vertical. No matter how good you are at something or how you rank your accomplishments, there is someone out there who makes you look incompetent.
+No matter how good you are at something or how you rank your accomplishments, there is someone out there who makes you look incompetent. You’re a decent guitar player, but you’re not Jimmy Page or Jack White. You’re almost certainly not even going to rock your local pub. You’re a good cook, but there are many great chefs.
 
-You’re a decent guitar player, but you’re not Jimmy Page or Jack White. You’re almost certainly not even going to rock your local pub. You’re a good cook, but there are many great chefs. Your mother’s recipe for fish heads and rice, no matter how celebrated in her village of origin, doesn’t cut it in these days of grapefruit foam and scotch tobacco ice cream.
+Your mother’s recipe for fish heads and rice, no matter how celebrated in her village of origin, doesn’t cut it in these days of grapefruit foam and scotch tobacco ice cream. Some mafia don has a tackier yacht. Some obsessive CEO has a more complicated self-winding watch, kept in his more valuable mechanical hardwood and steel automatic self-winding watch case. Even the most stunning Hollywood actress eventually transforms into the Evil Queen on eternal paranoid watch for the new Snow White.
 
-Some mafia don has a tackier yacht. Some obsessive CEO has a more complicated self-winding watch, kept in his more valuable mechanical hardwood and steel automatic self-winding watch case. Even the most stunning Hollywood actress eventually transforms into the Evil Queen on eternal paranoid watch for the new Snow White. And you?
+And you? Your career is boring and pointless. Your housekeeping skills are second rate. Your taste is appalling.
 
-Your career is boring and pointless. Your housekeeping skills are second rate. Your taste is appalling. You’re fatter than your friends, and everyone dreads your parties.
+You’re fatter than your friends, and everyone dreads your parties. Who cares if you’re Prime Minister of Canada when someone else is the President of the United States? Inside us dwells a critical internal voice and spirit that knows all this. It’s predisposed to make its noisy case.
 
-Who cares if you’re Prime Minister of Canada when someone else is the President of the United States? Inside us dwells a critical internal voice and spirit that knows all this. It’s predisposed to make its noisy case. It condemns our mediocre efforts.
+It condemns our mediocre efforts. It can be very difficult to quell. Worse, critics of its sort are necessary. There is no shortage of tasteless artists, of tuneless musicians, poisonous cooks, bureaucratically personality-disordered middle managers, hack-noveless and tedious ideology-ridden professors.
 
-It can be very difficult to quell. Worse, critics of its sort are necessary. There is no shortage of tasteless artists, of tuneless musicians, poisonous cooks, bureaucratically personality-disordered middle managers, hack-noveless and tedious ideology-ridden professors. Things and people differ importantly in their qualities.
+Things and people differ importantly in their qualities. Awful music torments listeners everywhere. Poorly designed buildings crumble in earthquakes. Substandard automobiles kill their drivers when they crash.
 
-Awful music torments listeners everywhere. Poorly designed buildings crumble in earthquakes. Substandard automobiles kill their drivers when they crash. Failure is the price we pay for standards.
+Failure is the price we pay for standards. And because mediocrity has consequences both real and harsh, standards are necessary. We’re not equal in ability or outcome, and never will be. A very small number of people produce very much of everything.
 
-And because mediocrity has consequences both real and harsh, standards are necessary. We’re not equal in ability or outcome, and never will be. A very small number of people produce very much of everything. The winners don’t take all, but they take most, and the bottom is not a good place to be.
+The winners don’t take all, but they take most, and the bottom is not a good place to be. People are unhappy at the bottom. They get sick there, and remain unknown and unloved. They waste their lives there.
 
-People are unhappy at the bottom. They get sick there, and remain unknown and unloved. They waste their lives there. They die there.
+They die there. In consequence, the self-denigrating voice in the minds of people weaves a devastating tale. Life is a zero-sum game. Worthlessness is the default condition.
 
-In consequence, the self-denigrating voice in the minds of people weaves a devastating tale. Life is a zero-sum game. Worthlessness is the default condition. What but willful blindness could possibly shelter people from such withering criticism?
+What but willful blindness could possibly shelter people from such withering criticism? It is for such reasons that a whole generation of social psychologists recommended positive illusions as the only reliable route to mental health. Their credo? Let a lie be your umbrella.
 
-It is for such reasons that a whole generation of social psychologists recommended positive illusions as the only reliable route to mental health. Their credo? Let a lie be your umbrella. A more dismal, wretched, pessimistic philosophy can hardly be imagined.
+A more dismal, wretched, pessimistic philosophy can hardly be imagined. Things are so terrible that only delusion can save you. Here’s an alternative approach, and one that requires no illusions. If the cards are always stacked against you, perhaps the game you are playing is somehow rigged.
 
-Things are so terrible that only delusion can save you. Here’s an alternative approach, and one that requires no illusions. If the cards are always stacked against you, perhaps the game you are playing is somehow rigged. Perhaps by you, unbeknownst to yourself.
+Perhaps by you, unbeknownst to yourself. If the internal voice makes you doubt the value of your endeavors, or your life, or life itself, perhaps you should stop listening. If the critical voice within says the same denigrating things about everyone, no matter how successful, how reliable can it be? Maybe its comments are chatter, not wisdom.
 
-If the internal voice makes you doubt the value of your endeavors, or your life, or life itself, perhaps you should stop listening. If the critical voice within says the same denigrating things about everyone, no matter how successful, how reliable can it be? Maybe its comments are chatter, not wisdom. There will always be people better than you.
+There will always be people better than you. That’s a cliche of nihilism. Like the phrase, in a million years, who’s going to know the difference? The proper response to that statement is not, well then, everything is meaningless.
 
-That’s a cliche of nihilism. Like the phrase, in a million years, who’s going to know the difference? The proper response to that statement is not, well then, everything is meaningless. It’s, any idiot can choose a frame of time within which nothing matters.
+It’s, any idiot can choose a frame of time within which nothing matters. Talking yourself into irrelevance is not a profound critique of being. It’s a cheap trick of the rational mind. Many good games.
 
-Talking yourself into irrelevance is not a profound critique of being. It’s a cheap trick of the rational mind. Many good games. Standards of better or worse are not illusory or unnecessary.
-
-If you hadn’t decided that what you are doing right now was better than the alternatives, you wouldn’t be doing it. The idea of a value-free choice is a contradiction in terms. Value judgments are a precondition for action.
+Standards of better or worse are not illusory or unnecessary. If you hadn’t decided that what you are doing right now was better than the alternatives, you wouldn’t be doing it. The idea of a value-free choice is a contradiction in terms. Value judgments are a precondition for action.
 
 Furthermore, every activity, once chosen, comes with its own internal standards of accomplishment. If something can be done at all, it can be done better or worse. To do anything at all is therefore to play a game with a defined and valued end, which can always be reached more or less efficiently and elegantly. Every game comes with its chance of success or failure.
 

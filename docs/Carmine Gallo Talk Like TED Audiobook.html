@@ -66,26 +66,12 @@
       --card-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
     }
 
-    [data-line-height="compact"] {
-      --line-height: 1.68;
-    }
-    [data-line-height="normal"] {
-      --line-height: 1.88;
-    }
-    [data-line-height="loose"] {
-      --line-height: 2.12;
-    }
+    [data-line-height="compact"] { --line-height: 1.68; }
+    [data-line-height="normal"] { --line-height: 1.88; }
+    [data-line-height="loose"] { --line-height: 2.12; }
 
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
-    html {
-      scroll-behavior: smooth;
-    }
-
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
     body {
       font-family: var(--font-family);
       font-size: var(--font-size);
@@ -119,7 +105,7 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 0 20px;
+      padding: 0 18px;
       background-color: var(--bg-header);
       backdrop-filter: blur(8px);
       -webkit-backdrop-filter: blur(8px);
@@ -129,7 +115,7 @@
     .header-left, .header-right {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 8px;
       flex-wrap: nowrap;
     }
 
@@ -138,7 +124,7 @@
       border: 1px solid var(--border-color);
       color: var(--text-primary);
       cursor: pointer;
-      font-size: 14px;
+      font-size: 13.5px;
       padding: 6px 10px;
       border-radius: 8px;
       display: inline-flex;
@@ -147,6 +133,7 @@
       transition: all 0.2s;
       white-space: nowrap;
       user-select: none;
+      text-decoration: none;
     }
     .btn-icon:hover {
       background-color: var(--accent-light);
@@ -161,11 +148,132 @@
       font-size: 14px;
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
+    }
+    .home-link:hover { color: var(--accent-color); }
+
+    /* In-Page Search Bar Dropdown */
+    .inpage-search-bar {
+      position: sticky;
+      top: 60px;
+      z-index: 890;
+      background-color: var(--bg-surface);
+      border-bottom: 1px solid var(--border-color);
+      padding: 10px 18px;
+      display: none;
+      align-items: center;
+      gap: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    }
+    .inpage-search-bar.active { display: flex; }
+
+    .inpage-search-input-wrapper {
+      flex: 1;
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    .inpage-search-input {
+      width: 100%;
+      padding: 8px 36px 8px 12px;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      font-size: 14px;
+    }
+    .inpage-search-input:focus { outline: 2px solid var(--accent-color); }
+
+    .inpage-search-clear {
+      position: absolute;
+      right: 10px;
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 16px;
     }
 
-    .home-link:hover {
+    .inpage-search-count {
+      font-size: 13px;
+      color: var(--text-secondary);
+      font-family: monospace;
+      white-space: nowrap;
+    }
+    .search-nav-btns { display: flex; gap: 6px; }
+
+    /* In-Page Search Results Drawer */
+    .inpage-search-drawer {
+      position: fixed;
+      right: 20px;
+      top: 120px;
+      width: 360px;
+      max-height: calc(100vh - 160px);
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+      z-index: 895;
+      display: none;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .inpage-search-drawer.active { display: flex; }
+    .inpage-search-drawer-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-weight: 600;
+      font-size: 14px;
+    }
+    .inpage-search-drawer-list {
+      overflow-y: auto;
+      padding: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .search-result-item {
+      padding: 10px 12px;
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+      background: var(--bg-primary);
+      cursor: pointer;
+      font-size: 13px;
+      transition: all 0.15s;
+    }
+    .search-result-item:hover, .search-result-item.active {
+      border-color: var(--accent-color);
+      background: var(--accent-light);
+    }
+    .search-result-time {
+      font-weight: 700;
       color: var(--accent-color);
+      font-family: monospace;
+      margin-bottom: 4px;
+    }
+    .search-result-snippet {
+      color: var(--text-primary);
+      line-height: 1.5;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    /* Highlight mark */
+    mark.search-highlight {
+      background-color: #fef08a;
+      color: #1f2937;
+      padding: 1px 3px;
+      border-radius: 3px;
+    }
+    mark.search-highlight.active-match {
+      background-color: #f97316;
+      color: #ffffff;
+      outline: 2px solid #ea580c;
     }
 
     /* Layout Wrapper */
@@ -212,9 +320,7 @@
       font-size: 13px;
       margin-bottom: 14px;
     }
-    .toc-search:focus {
-      outline: 2px solid var(--accent-color);
-    }
+    .toc-search:focus { outline: 2px solid var(--accent-color); }
 
     .toc-list {
       list-style: none;
@@ -237,12 +343,10 @@
       overflow: hidden;
       text-overflow: ellipsis;
     }
-
     .toc-item a:hover {
       background-color: var(--accent-light);
       color: var(--accent-color);
     }
-
     .toc-item.active a {
       background-color: var(--accent-color);
       color: #ffffff;
@@ -257,19 +361,17 @@
       display: flex;
       justify-content: center;
     }
-
     .reader-container {
       width: 100%;
       max-width: var(--content-max-width);
     }
 
-    /* Book Hero / Header */
+    /* Book Hero */
     .book-hero {
       margin-bottom: 40px;
       padding-bottom: 24px;
       border-bottom: 2px solid var(--border-color);
     }
-
     .book-hero h1 {
       font-size: 2.1em;
       line-height: 1.35;
@@ -285,7 +387,6 @@
       gap: 10px;
       margin-top: 14px;
     }
-
     .meta-chip {
       display: inline-flex;
       align-items: center;
@@ -297,8 +398,13 @@
       font-size: 13px;
       font-weight: 500;
     }
+    .meta-chip.cat-badge {
+      background-color: #06b6d422;
+      color: #06b6d4;
+      font-weight: 600;
+    }
 
-    /* Content Typography & Enhanced Paragraphs */
+    /* Content Typography */
     .transcript-section {
       margin-bottom: 50px;
       scroll-margin-top: 80px;
@@ -349,25 +455,22 @@
       letter-spacing: 0.015em;
     }
 
-    /* Indented paragraph style (Traditional) */
+    /* Indented paragraph style */
     [data-p-style="indent"] .section-body p {
       text-indent: 2em;
       margin-bottom: 1.15em;
       line-height: var(--line-height);
     }
 
-    /* Block paragraph style (Modern with whitespace) */
+    /* Block paragraph style */
     [data-p-style="block"] .section-body p {
       text-indent: 0;
       margin-bottom: 1.55em;
       line-height: var(--line-height);
     }
+    .section-body p:last-child { margin-bottom: 0; }
 
-    .section-body p:last-child {
-      margin-bottom: 0;
-    }
-
-    /* Floating Navigation Controls */
+    /* Floating Tools */
     .floating-tools {
       position: fixed;
       bottom: 24px;
@@ -377,7 +480,6 @@
       gap: 10px;
       z-index: 800;
     }
-
     .float-btn {
       width: 44px;
       height: 44px;
@@ -399,7 +501,6 @@
       color: var(--accent-color);
     }
 
-    /* Overlay for mobile drawer */
     .backdrop {
       display: none;
       position: fixed;
@@ -419,36 +520,22 @@
         transform: translateX(-100%);
         box-shadow: 4px 0 16px rgba(0,0,0,0.15);
       }
-
-      .sidebar.open {
-        transform: translateX(0);
-      }
-
-      .backdrop.open {
-        display: block;
+      .sidebar.open { transform: translateX(0); }
+      .backdrop.open { display: block; }
+      .inpage-search-drawer {
+        left: 20px;
+        right: 20px;
+        width: auto;
       }
     }
 
     @media (max-width: 640px) {
-      :root {
-        --font-size: 17px;
-      }
-      .main-content {
-        padding: 24px 16px 60px 16px;
-      }
-      .book-hero h1 {
-        font-size: 1.55em;
-      }
-      .top-header {
-        padding: 0 10px;
-      }
-      .btn-icon {
-        padding: 5px 8px;
-        font-size: 13px;
-      }
-      [data-p-style="indent"] .section-body p {
-        text-indent: 1.5em;
-      }
+      :root { --font-size: 17px; }
+      .main-content { padding: 24px 16px 60px 16px; }
+      .book-hero h1 { font-size: 1.55em; }
+      .top-header { padding: 0 10px; }
+      .btn-icon { padding: 5px 7px; font-size: 12.5px; }
+      [data-p-style="indent"] .section-body p { text-indent: 1.5em; }
     }
   </style>
 </head>
@@ -464,6 +551,14 @@
       <a href="index.html" class="home-link" title="返回書架">
         🏠 書架
       </a>
+      <!-- Search Inside Book Button -->
+      <button class="btn-icon" id="search-toggle-btn" title="搜尋本書內文 (Ctrl+F)">
+        🔍 <span>搜尋內文</span>
+      </button>
+      <!-- Global Search Link -->
+      <a href="index.html?tab=search" class="btn-icon" title="前往全書庫全文檢索">
+        🌐 <span>全庫搜尋</span>
+      </a>
     </div>
 
     <div class="header-right">
@@ -473,7 +568,7 @@
       </button>
 
       <!-- Line Height Toggle -->
-      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 精簡)">
+      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 緊湊)">
         ↕ <span id="line-height-label">行距</span>
       </button>
 
@@ -492,6 +587,29 @@
       <button class="btn-icon" id="font-inc-btn" title="放大字級">A+</button>
     </div>
   </header>
+
+  <!-- In-Page Search Bar Dropdown -->
+  <div class="inpage-search-bar" id="inpage-search-bar">
+    <div class="inpage-search-input-wrapper">
+      <input type="text" id="inpage-search-input" class="inpage-search-input" placeholder="🔍 搜尋本書內文關鍵字 (按 Enter 尋找下一處，Esc 關閉)...">
+      <button class="inpage-search-clear" id="inpage-search-clear" title="清空">✕</button>
+    </div>
+    <span class="inpage-search-count" id="inpage-search-count">0 / 0</span>
+    <div class="search-nav-btns">
+      <button class="btn-icon" id="inpage-search-prev" title="上一處 (Shift+Enter)">▲</button>
+      <button class="btn-icon" id="inpage-search-next" title="下一處 (Enter)">▼</button>
+      <button class="btn-icon" id="inpage-search-close" title="關閉搜尋 (Esc)">✕</button>
+    </div>
+  </div>
+
+  <!-- In-Page Search Results Drawer -->
+  <div class="inpage-search-drawer" id="inpage-search-drawer">
+    <div class="inpage-search-drawer-header">
+      <span>搜尋結果清單</span>
+      <button class="btn-icon" id="inpage-drawer-close" style="padding: 2px 6px;">✕</button>
+    </div>
+    <div class="inpage-search-drawer-list" id="inpage-search-drawer-list"></div>
+  </div>
 
   <div class="backdrop" id="backdrop"></div>
 
@@ -605,6 +723,7 @@
         <header class="book-hero">
           <h1>Carmine Gallo Talk Like TED Audiobook</h1>
           <div class="book-meta-chips">
+            <span class="meta-chip cat-badge">🎯 領導與策略</span>
             <span class="meta-chip">🏷️ 時長：07:42:05</span>
 <span class="meta-chip">🏷️ 模型：small.en</span>
 <span class="meta-chip">🏷️ 日期：2026-09-22</span>
@@ -612,7 +731,7 @@
         </header>
 
         <!-- Transcript Content -->
-        <div class="book-body">
+        <div class="book-body" id="book-body">
           
         <section class="transcript-section" id="sec-000000">
           <div class="section-header">
@@ -687,13 +806,14 @@
 <p class="prose-p">Jefferson, Lincoln, Churchill, Kennedy, King, Reagan. Failure to communicate effectively in business is a fast road to failure. It means startups won’t get funded, products won’t get sold, projects won’t get backing, and careers will not soar. The ability to deliver a TED-worthy presentation could mean the difference between enjoying a claim or toiling in hopeless obscurity.</p>
 <p class="prose-p">You’re still alive. That means your life has purpose. You were meant for greatness. Don’t sabotage your potential because you can’t communicate your ideas.</p>
 <p class="prose-p">At TED 2006, motivational guru Tony Robbins said, effective leaders have the ability to move themselves and others to action because they understand the invisible forces that shape us. Passionate, powerful, and inspiring communication is one of those forces that moves and shapes us. A new approach to solving long-standing problems, inspiring stories, intriguing ways of delivering information, and standing ovations are all known as TED moments. Create those moments, captivate your audience, inspire them, change the world.</p>
-<p class="prose-p">Here’s how.</p>
-<h4 class="section-subhead">Part 1.</h4>
-<p class="prose-p">Emotional The key part of the TED format is that we have humans connecting to humans in a direct and almost vulnerable way. You’re on stage naked, so to speak. The talks that work best are the ones where people can really sense that humanity, the emotions, dreams, imagination. Chris Anderson, Curator, TED.</p>
-<h4 class="section-subhead">Chapter 1.</h4>
-<p class="prose-p">Unleash the Master Within Passion is the thing that will help you create the highest expression of your talent. Larry Smith, TEDx November 2011. Amy Mullins has 12 pairs of legs. Like most people, she was born with two, but unlike most people, Mullins had to have both legs amputated below the knee due to a medical condition.</p>
-<p class="prose-p">Mullins has lived with no lower legs since her first birthday. Mullins grew up in a middle-class family in the middle-class town of Allentown, Pennsylvania, yet her achievements are far from ordinary. Mullins&#x27; doctor suggested that an early amputation would give her the best chance to have a reasonable amount of mobility. As a child, Mullins had no input into that decision, but as she grew up, she refused to see herself or to accept the label that most people gave her, disabled.</p>
-<p class="prose-p">Instead, she decided</p>
+<p class="prose-p">Here’s how.
+
+#### Part 1. Emotional The key part of the TED format is that we have humans connecting to humans in a direct and almost vulnerable way. You’re on stage naked, so to speak. The talks that work best are the ones where people can really sense that humanity, the emotions, dreams, imagination.</p>
+<p class="prose-p">Chris Anderson, Curator, TED.
+
+#### Chapter 1. Unleash the Master Within Passion is the thing that will help you create the highest expression of your talent. Larry Smith, TEDx November 2011. Amy Mullins has 12 pairs of legs.</p>
+<p class="prose-p">Like most people, she was born with two, but unlike most people, Mullins had to have both legs amputated below the knee due to a medical condition. Mullins has lived with no lower legs since her first birthday. Mullins grew up in a middle-class family in the middle-class town of Allentown, Pennsylvania, yet her achievements are far from ordinary. Mullins&#x27; doctor suggested that an early amputation would give her the best chance to have a reasonable amount of mobility.</p>
+<p class="prose-p">As a child, Mullins had no input into that decision, but as she grew up, she refused to see herself or to accept the label that most people gave her, disabled. Instead, she decided</p>
           </div>
         </section>
         
@@ -819,12 +939,12 @@
 <p class="prose-p">It defines a person. They simply cannot separate their pursuit from who they are. It’s core to their being. According to Cardin, passion is aroused not because some entrepreneurs are inherently disposed to such feelings, but rather because they are engaged in something that relates to a meaningful and salient self-identity for them.</p>
 <p class="prose-p">Cardin’s analysis helps us explain why the most popular TED speakers connect with their audiences because they speak about topics that are salient to their self-identity. Take urban environmental consultant Majora Carter as an example. Carter’s oldest brother served in Vietnam, but he was gunned down near their home in the South Bronx. Poverty, homelessness, and racial divides made Carter who she is, a passionate advocate for urban renewal.</p>
 <p class="prose-p">Her experience defined her, and it defines her work. According to TED.com, Carter’s confidence, energy, and intensely emotional delivery make her talks a force of nature. For Majora Carter, raising the hopes of those who have lost hope is core to who she is. Entrepreneurship is core to Sir Richard Branson’s identity.</p>
-<p class="prose-p">In 2007, Branson told a TED audience, “… companies are all about finding the right people, inspiring those people, and drawing out the best in people. I just love learning, and I’m incredibly inquisitive, and I love taking on the status quo and trying to turn it upside down.” Building companies like Virgin Atlantic that challenge the status quo is core to who Richard Branson is. I spent a day with Richard Branson in April of 2013.</p>
-<p class="prose-p">I had been invited to accompany him on the inaugural flight of Virgin America’s new route from Los Angeles to Las Vegas. On the ground and in the air, Branson was all smiles, as he enthusiastically talked about customer service and how it makes the difference in the success of his brand. Branson and Carter are engaged in activities that are intensely associated with their role identities in a profoundly meaningful way. And it’s that passion that plays a critical role in their career success and their success as communicators.</p>
-<p class="prose-p">According to Carter, people who are genuinely passionate about their topic make better speakers. They inspire their audiences in ways that non-passionate low-energy people fail to do. When you’re passionate about something, you can’t help yourself from thinking about it, acting on it, and talking about it with other people. Carter says that investors, customers, and other stakeholders are smart consumers.</p>
-<p class="prose-p">They know when a person is displaying genuine passion and when a person is just faking it. It’s very difficult, nearly impossible, to electrify an audience without feeling an intense, meaningful connection to the topic of your presentation. Passion Why It Works The next step for Cardin was to identify why passion matters. She found that passion leads to important behaviors and outcomes.</p>
-<p class="prose-p">Cardin, along with dozens of other scientists in the field, has discovered that passionate business leaders are more creative. They set higher goals, exhibit greater persistence, and record better company performance. Cardin and her colleagues also found a direct correlation between a presenter’s perceived passion and the likelihood that investors will fund his or her ideas. The researchers performed a remarkable experiment and published their results in the September 2012 issue of the Journal of Business Venturing.</p>
-<p class="prose-p">They set out to understand the role that passion plays in investor decision making. The business pitch is one of the most critical presentations in business. Without funding, most ventures would never get off the ground. Companies like Google and Apple would never have changed our lives if it had not been for charismatic, passionate leaders who grabbed the attention of investors.</p>
+<p class="prose-p">In 2007, Branson told a TED audience, “… companies are all about finding the right people, inspiring those people, and drawing out the best in people. I just love learning, and I’m incredibly inquisitive, and I love taking on the status quo and trying to turn it upside down.” Building companies like Virgin Atlantic that challenge the status quo is core to who Richard Branson is. I spent a day with Richard Branson in April of 2013. I had been invited to accompany him on the inaugural flight of Virgin America’s new route from Los Angeles to Las Vegas.</p>
+<p class="prose-p">On the ground and in the air, Branson was all smiles, as he enthusiastically talked about customer service and how it makes the difference in the success of his brand. Branson and Carter are engaged in activities that are intensely associated with their role identities in a profoundly meaningful way. And it’s that passion that plays a critical role in their career success and their success as communicators. According to Carter, people who are genuinely passionate about their topic make better speakers.</p>
+<p class="prose-p">They inspire their audiences in ways that non-passionate low-energy people fail to do. When you’re passionate about something, you can’t help yourself from thinking about it, acting on it, and talking about it with other people. Carter says that investors, customers, and other stakeholders are smart consumers. They know when a person is displaying genuine passion and when a person is just faking it.</p>
+<p class="prose-p">It’s very difficult, nearly impossible, to electrify an audience without feeling an intense, meaningful connection to the topic of your presentation. Passion Why It Works The next step for Cardin was to identify why passion matters. She found that passion leads to important behaviors and outcomes. Cardin, along with dozens of other scientists in the field, has discovered that passionate business leaders are more creative.</p>
+<p class="prose-p">They set higher goals, exhibit greater persistence, and record better company performance. Cardin and her colleagues also found a direct correlation between a presenter’s perceived passion and the likelihood that investors will fund his or her ideas. The researchers performed a remarkable experiment and published their results in the September 2012 issue of the Journal of Business Venturing. They set out to understand the role that passion plays in investor decision making.</p>
+<p class="prose-p">The business pitch is one of the most critical presentations in business. Without funding, most ventures would never get off the ground. Companies like Google and Apple would never have changed our lives if it had not been for charismatic, passionate leaders who grabbed the attention of investors.</p>
           </div>
         </section>
         
@@ -1238,13 +1358,13 @@
 <p class="prose-p">In Allende’s 2007 TED talk, she revealed a recipe for great characters. Nice people with common sense do not make interesting characters. They only make good former spouses, she said. Passion lives here.</p>
 <p class="prose-p">Heart is what drives us and determines our fate. That is what I need for my characters in my books, a passionate heart. I need Mavericks, dissidents, adventurers, outsiders, and rebels who ask questions, bend the rules, and take risks. People like all of you in this room.</p>
 <p class="prose-p">Secret number two, master the art of storytelling. Great speakers are indeed Mavericks, adventurers, and rule-bending rebels who take risks. They tell stories to express their passion for the subject and to connect with their audiences. Ideas are the currency of the 21st century, and stories facilitate the exchange of that currency.</p>
-<p class="prose-p">Stories illustrate, illuminate, and inspire.</p>
-<h4 class="section-subhead">Chapter 3 Have a Conversation Don’t fake it till you make it.</h4>
-<p class="prose-p">Fake it till you become it. Amy Cuddy, Professor, Harvard Business School. It takes practice to appear natural. Just ask Amanda Palmer, who stole the show at TED 2013.</p>
-<p class="prose-p">Palmer’s presentation, The Art of Asking, received more than one million views within days of being posted on TED.com. The week after her presentation, Palmer wrote a lengthy post on her blog thanking the many people who had helped her to craft, rehearse, and deliver the talk of her life. It really did take a village to build a TED talk. The post also confirms that giving a presentation that truly moves people takes hard work.</p>
-<p class="prose-p">Secret number three, have a conversation. Practice relentlessly and internalize your content so that you can deliver the presentation as comfortably as having a conversation with a close friend. Why it works True persuasion occurs only after you’ve built an emotional rapport with your listeners and you’ve gained their trust. If your voice, gestures, and body language are incongruent with your words, your listeners will distrust your message.</p>
-<p class="prose-p">It’s the equivalent of having a Ferrari, your magnificent story, without knowing how to drive it. The Art of Asking and Practicing Amanda Palmer delivered the most talked about presentation at TED 2013. Palmer is the first to admit that her punk rock, indie, cabaret music isn’t for everybody, but regardless of whether… you’d like her music, we can all learn something from her approach to public speaking. Palmer is a performance artist and a musician.</p>
-<p class="prose-p">You would think she’d be comfortable giving a short presentation. The fact that she is a performer explains why she spent countless hours over a period of four months to get it just right.</p>
+<p class="prose-p">Stories illustrate, illuminate, and inspire.
+
+#### Chapter 3 Have a Conversation Don’t fake it till you make it. Fake it till you become it. Amy Cuddy, Professor, Harvard Business School. It takes practice to appear natural.</p>
+<p class="prose-p">Just ask Amanda Palmer, who stole the show at TED 2013. Palmer’s presentation, The Art of Asking, received more than one million views within days of being posted on TED.com. The week after her presentation, Palmer wrote a lengthy post on her blog thanking the many people who had helped her to craft, rehearse, and deliver the talk of her life. It really did take a village to build a TED talk.</p>
+<p class="prose-p">The post also confirms that giving a presentation that truly moves people takes hard work. Secret number three, have a conversation. Practice relentlessly and internalize your content so that you can deliver the presentation as comfortably as having a conversation with a close friend. Why it works True persuasion occurs only after you’ve built an emotional rapport with your listeners and you’ve gained their trust.</p>
+<p class="prose-p">If your voice, gestures, and body language are incongruent with your words, your listeners will distrust your message. It’s the equivalent of having a Ferrari, your magnificent story, without knowing how to drive it. The Art of Asking and Practicing Amanda Palmer delivered the most talked about presentation at TED 2013. Palmer is the first to admit that her punk rock, indie, cabaret music isn’t for everybody, but regardless of whether… you’d like her music, we can all learn something from her approach to public speaking.</p>
+<p class="prose-p">Palmer is a performance artist and a musician. You would think she’d be comfortable giving a short presentation. The fact that she is a performer explains why she spent countless hours over a period of four months to get it just right.</p>
 <p class="prose-p">She said, “I slaved over the talk, writing and writing and rewriting and timing and retiming and tweaking and trying to fit the perfect sets of information into 12 short minutes.” In Palmer’s 30-page blog post on the making of her TED presentation, she thanked 105 people for their input and credits them for her success. In fact, Palmer’s first mentor was science musician Thomas Dolby, who helps TED with their music programming. Be totally authentic, he suggested. Authenticity doesn’t happen naturally.</p>
 <p class="prose-p">That’s right, authenticity does not happen naturally. How can that be? After all, if you</p>
           </div>
@@ -2830,6 +2950,204 @@
 
     document.getElementById('scroll-top-btn').addEventListener('click', () => {
       window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    // ==========================================
+    // IN-PAGE CONTENT SEARCH (單書全文搜尋)
+    // ==========================================
+    const searchBar = document.getElementById('inpage-search-bar');
+    const searchInput = document.getElementById('inpage-search-input');
+    const searchCount = document.getElementById('inpage-search-count');
+    const searchDrawer = document.getElementById('inpage-search-drawer');
+    const searchDrawerList = document.getElementById('inpage-search-drawer-list');
+    const searchToggleBtn = document.getElementById('search-toggle-btn');
+    const searchClearBtn = document.getElementById('inpage-search-clear');
+    const searchPrevBtn = document.getElementById('inpage-search-prev');
+    const searchNextBtn = document.getElementById('inpage-search-next');
+    const searchCloseBtn = document.getElementById('inpage-search-close');
+    const drawerCloseBtn = document.getElementById('inpage-drawer-close');
+
+    let searchMatches = [];
+    let currentMatchIdx = -1;
+
+    // Cache original innerHTML for clean resets
+    const rawParagraphs = Array.from(document.querySelectorAll('.section-body p')).map(p => ({
+      el: p,
+      rawHtml: p.innerHTML,
+      rawText: p.textContent
+    }));
+
+    function openSearch() {
+      searchBar.classList.add('active');
+      searchInput.focus();
+      searchInput.select();
+      if (searchInput.value.trim()) {
+        performSearch(searchInput.value.trim());
+      }
+    }
+
+    function closeSearch() {
+      searchBar.classList.remove('active');
+      searchDrawer.classList.remove('active');
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchCount.textContent = '0 / 0';
+    }
+
+    function clearHighlights() {
+      rawParagraphs.forEach(item => {
+        item.el.innerHTML = item.rawHtml;
+      });
+    }
+
+    function escapeRegex(str) {
+      return str.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+    }
+
+    function escapeHtml(str) {
+      return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+
+    function performSearch(query) {
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchDrawerList.innerHTML = '';
+
+      if (!query || query.trim().length === 0) {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+        return;
+      }
+
+      query = query.trim();
+      const qLower = query.toLowerCase();
+      const regex = new RegExp(`(${escapeRegex(query)})`, 'gi');
+
+      rawParagraphs.forEach((item, pIdx) => {
+        if (item.rawText.toLowerCase().includes(qLower)) {
+          const sec = item.el.closest('.transcript-section');
+          const secTime = sec ? (sec.querySelector('.section-time')?.textContent || '') : '';
+          const secId = sec ? sec.id : '';
+
+          // Apply highlight
+          item.el.innerHTML = item.rawHtml.replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const marks = Array.from(item.el.querySelectorAll('mark.search-highlight'));
+          marks.forEach(mark => {
+            searchMatches.push({
+              mark,
+              el: item.el,
+              secTime,
+              secId
+            });
+          });
+
+          // Snippet creation
+          const matchPos = item.rawText.toLowerCase().indexOf(qLower);
+          const start = Math.max(0, matchPos - 30);
+          const end = Math.min(item.rawText.length, matchPos + query.length + 50);
+          const snippetText = item.rawText.slice(start, end);
+          const snippetHtml = escapeHtml(snippetText).replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const card = document.createElement('div');
+          card.className = 'search-result-item';
+          card.innerHTML = `
+            <div class="search-result-time">${secTime}</div>
+            <div class="search-result-snippet">...${snippetHtml}...</div>
+          `;
+          card.addEventListener('click', () => {
+            const targetIdx = searchMatches.findIndex(m => m.mark === marks[0]);
+            if (targetIdx >= 0) goToMatch(targetIdx);
+          });
+          searchDrawerList.appendChild(card);
+        }
+      });
+
+      if (searchMatches.length > 0) {
+        searchDrawer.classList.add('active');
+        goToMatch(0);
+      } else {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+      }
+    }
+
+    function goToMatch(idx) {
+      if (idx < 0 || idx >= searchMatches.length) return;
+      if (currentMatchIdx >= 0 && searchMatches[currentMatchIdx]) {
+        searchMatches[currentMatchIdx].mark.classList.remove('active-match');
+      }
+      currentMatchIdx = idx;
+      const target = searchMatches[currentMatchIdx];
+      target.mark.classList.add('active-match');
+      searchCount.textContent = `${currentMatchIdx + 1} / ${searchMatches.length}`;
+
+      // Highlight active drawer item
+      const drawerItems = searchDrawerList.querySelectorAll('.search-result-item');
+      drawerItems.forEach(di => di.classList.remove('active'));
+
+      target.mark.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+
+    searchToggleBtn.addEventListener('click', () => {
+      if (searchBar.classList.contains('active')) {
+        closeSearch();
+      } else {
+        openSearch();
+      }
+    });
+
+    let debounceTimer;
+    searchInput.addEventListener('input', (e) => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => {
+        performSearch(e.target.value);
+      }, 200);
+    });
+
+    searchClearBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      performSearch('');
+      searchInput.focus();
+    });
+
+    searchNextBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const nextIdx = (currentMatchIdx + 1) % searchMatches.length;
+      goToMatch(nextIdx);
+    });
+
+    searchPrevBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const prevIdx = (currentMatchIdx - 1 + searchMatches.length) % searchMatches.length;
+      goToMatch(prevIdx);
+    });
+
+    searchInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        if (e.shiftKey) {
+          searchPrevBtn.click();
+        } else {
+          searchNextBtn.click();
+        }
+      } else if (e.key === 'Escape') {
+        closeSearch();
+      }
+    });
+
+    searchCloseBtn.addEventListener('click', closeSearch);
+    drawerCloseBtn.addEventListener('click', () => searchDrawer.classList.remove('active'));
+
+    window.addEventListener('keydown', (e) => {
+      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'f') {
+        e.preventDefault();
+        openSearch();
+      } else if (e.key === 'Escape') {
+        if (searchBar.classList.contains('active')) closeSearch();
+      }
     });
   </script>
 </body>

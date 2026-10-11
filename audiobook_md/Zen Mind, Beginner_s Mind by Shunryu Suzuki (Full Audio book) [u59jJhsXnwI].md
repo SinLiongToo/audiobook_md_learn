@@ -391,21 +391,19 @@ In other words, just practice zazin in a certain posture. Do not think about any
 
 That is to say, your own true nature resumes itself.
 
-#### PART TWO.
+#### PART TWO. Right Attitude Single-minded way, the purpose of my talk is not to give you some intellectual understanding, but just to express my appreciation of our Zen practice. To be able to sit with you in zazin is very, very unusual. Of course, whatever we do is unusual because our life itself is so unusual.
 
-Right Attitude Single-minded way, the purpose of my talk is not to give you some intellectual understanding, but just to express my appreciation of our Zen practice. To be able to sit with you in zazin is very, very unusual. Of course, whatever we do is unusual because our life itself is so unusual. Buddha said, to appreciate your human life is as rare as soil on your fingernail.
+Buddha said, to appreciate your human life is as rare as soil on your fingernail. You know dirt hardly ever sticks on your nail. Our human life is rare and wonderful. When I sit, I want to remain sitting forever, but I encourage myself to have another practice, for instance, to recite the sutra or to bow.
 
-You know dirt hardly ever sticks on your nail. Our human life is rare and wonderful. When I sit, I want to remain sitting forever, but I encourage myself to have another practice, for instance, to recite the sutra or to bow. And when I bow, I think, this is wonderful, but I have to change my practice again to recite the sutra.
+And when I bow, I think, this is wonderful, but I have to change my practice again to recite the sutra. So the purpose of my talk is to express my appreciation. That is all. Our way is not to sit to acquire something.
 
-So the purpose of my talk is to express my appreciation. That is all. Our way is not to sit to acquire something. It is to express our true nature.
+It is to express our true nature. That is our practice. If you want to express yourself, your true nature, there should be some natural and appropriate way of expression. Even swaying right and left as you sit down or get up from zazin is an expression of yourself.
 
-That is our practice. If you want to express yourself, your true nature, there should be some natural and appropriate way of expression. Even swaying right and left as you sit down or get up from zazin is an expression of yourself. It is not preparation for practice or relaxation after practice.
+It is not preparation for practice or relaxation after practice. It is part of the practice. So we should not do it as if it were preparing for something else. This should be true in your everyday life.
 
-It is part of the practice. So we should not do it as if it were preparing for something else. This should be true in your everyday life. To cook or to fix some food is not preparation.
+To cook or to fix some food is not preparation. According to Dogen, it is practice. To cook is not just to prepare food for someone or for yourself. It is to express your sincerity.
 
-According to Dogen, it is practice. To cook is not just to prepare food for someone or for yourself. It is to express your sincerity. So when you cook, you should express yourself and your activity in the kitchen.
-
-You should allow yourself plenty of time. You should work on it with nothing in your mind, and without expecting anything, you should just cook.
+So when you cook, you should express yourself and your activity in the kitchen. You should allow yourself plenty of time. You should work on it with nothing in your mind, and without expecting anything, you should just cook.
 
 
 <a id="sec-005521"></a>

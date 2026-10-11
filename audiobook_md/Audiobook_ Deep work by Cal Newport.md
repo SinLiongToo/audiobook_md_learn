@@ -258,17 +258,15 @@ When Carl Jung wanted to revolutionize the field of psychiatry, he built a retre
 
 A deep life is a good life.
 
-#### Part 1.
+#### Part 1. The Idea.
 
-The Idea.
+#### Chapter 1. Deep Work is Valuable. As Election Day loomed in 2012, traffic at the New York Times website spiked, as is normal during moments of national importance.
 
-#### Chapter 1.
+But this time, something was different. A wildly disproportionate fraction of this traffic, more than 70% by some reports, was visiting a single location in the sprawling domain. It wasn’t a front page breaking news story, and it wasn’t commentary from one of the paper’s Pulitzer Prize-winning columnists. It was instead a blog run by a baseball stats geek turned election forecaster named Nate Silver.
 
-Deep Work is Valuable. As Election Day loomed in 2012, traffic at the New York Times website spiked, as is normal during moments of national importance. But this time, something was different. A wildly disproportionate fraction of this traffic, more than 70% by some reports, was visiting a single location in the sprawling domain.
+Less than a year later, ESPN and ABC News lured Silver away from the Times, which tried to retain him by promising a staff of up to a dozen writers, in a major deal that would give Silver’s operation a role in everything from sports to weather to network news segments to, and probably enough, Academy Awards telecasts. Though there’s debate about the methodological rigor of Silver’s hand-tuned models, there are few who deny that in 2012, this 35-year-old data whiz was a winner in our economy.
 
-It wasn’t a front page breaking news story, and it wasn’t commentary from one of the paper’s Pulitzer Prize-winning columnists. It was instead a blog run by a baseball stats geek turned election forecaster named Nate Silver. Less than a year later, ESPN and ABC News lured Silver away from the Times, which tried to retain him by promising a staff of up to a dozen writers, in a major deal that would give Silver’s operation a role in everything from sports to weather to network news segments to, and probably enough, Academy Awards telecasts.
-
-Though there’s debate about the methodological rigor of Silver’s hand-tuned models, there are few who deny that in 2012, this 35-year-old data whiz was a winner in our economy. Another winner is David Heinermeyer Hanson, a computer programming star who created the Ruby on Rails website development framework, which currently provides the foundation for some of the web’s most popular destinations, including Twitter and Hulu. Hanson is a partner in the influential development firm Basecamp, called 37signalsuntil2014. Hanson doesn’t talk publicly about the magnitude of his profit share from Basecamp or his other revenue sources, but we can assume they’re lucrative given that Hanson splits his time between Chicago, Malibu, and Marbella, Spain, where he dabbles in high-performance racecar driving.
+Another winner is David Heinermeyer Hanson, a computer programming star who created the Ruby on Rails website development framework, which currently provides the foundation for some of the web’s most popular destinations, including Twitter and Hulu. Hanson is a partner in the influential development firm Basecamp, called 37signalsuntil2014. Hanson doesn’t talk publicly about the magnitude of his profit share from Basecamp or his other revenue sources, but we can assume they’re lucrative given that Hanson splits his time between Chicago, Malibu, and Marbella, Spain, where he dabbles in high-performance racecar driving.
 
 Our third and final example of a clear winner in our economy is John Doar, a general partner in the famed Silicon Valley venture capital fund Kleiner, Perkins, Caufield, and Byers. Doar helped fund many of the key companies fueling the current technological revolution, including Twitter, Google, Amazon, Netscape, and Sun Microsystems. The return on these investments has been astronomical. Doar’s net worth, as of this writing, is more than $3 billion. Why have Silver, Hanson, and Doar done so well?
 
@@ -484,19 +482,17 @@ Follow-up discussions, however, soon uncovered that this goal didn’t really re
 
 Unless you have strong evidence that distraction is important for your specific profession, you’re best served, for the reasons argued earlier in this chapter, by giving serious consideration to depth.
 
-#### Chapter 2 Deep work is rare.
+#### Chapter 2 Deep work is rare. In 2012, Facebook unveiled the plans for a new headquarters designed by Frank Gehry. At the center of this new building is what CEO Mark Zuckerberg called the largest open floor plan in the world. More than 3,000 employees will work on moveable furniture spread over a 10-acre expanse.
 
-In 2012, Facebook unveiled the plans for a new headquarters designed by Frank Gehry. At the center of this new building is what CEO Mark Zuckerberg called the largest open floor plan in the world. More than 3,000 employees will work on moveable furniture spread over a 10-acre expanse. Facebook, of course, is not the only Silicon Valley heavyweight to embrace the open office concept.
+Facebook, of course, is not the only Silicon Valley heavyweight to embrace the open office concept. When Jack Dorsey, whom we met at the end of the last chapter, bought the old San Francisco Chronicle building to House Square, he configured the space so that his developers work in common spaces on long, shared desks.
 
-When Jack Dorsey, whom we met at the end of the last chapter, bought the old San Francisco Chronicle building to House Square, he configured the space so that his developers work in common spaces on long, shared desks. “… We encourage people to stay out in the open because we believe in serendipity and people walking by each other teaching new things,” Dorsey explained. Another big business trend in recent years is the rise of instant messaging.
+“… We encourage people to stay out in the open because we believe in serendipity and people walking by each other teaching new things,” Dorsey explained. Another big business trend in recent years is the rise of instant messaging. A Times article notes that this technology is no longer the province of chatty teenagers and is now helping companies benefit from new productivity gains and improvements in customer response time.
 
-A Times article notes that this technology is no longer the province of chatty teenagers and is now helping companies benefit from new productivity gains and improvements in customer response time. A senior project manager at IBM boasts, “… We send 2.5 million IMs within IBM each day.” One of the more successful recent entrants into the business IM space is Hall, a Silicon Valley startup that helps employees move beyond just chat and engage in real-time collaboration. A San Francisco-based developer I know described to me what it was like to work in a company that uses Hall.
+A senior project manager at IBM boasts, “… We send 2.5 million IMs within IBM each day.” One of the more successful recent entrants into the business IM space is Hall, a Silicon Valley startup that helps employees move beyond just chat and engage in real-time collaboration. A San Francisco-based developer I know described to me what it was like to work in a company that uses Hall. The most efficient employees, he explained, set up their text editor to flash an alert on their screen when a new question or comment is posted to the company’s Hall account.
 
-The most efficient employees, he explained, set up their text editor to flash an alert on their screen when a new question or comment is posted to the company’s Hall account. They can then, with a sequence of practiced keystrokes, jump over to Hall, type in their thoughts, and then jump back to their coding with barely a pause. My friends seemed impressed when describing their speed. A third trend is the push for content producers of all types to maintain a social media presence.
+They can then, with a sequence of practiced keystrokes, jump over to Hall, type in their thoughts, and then jump back to their coding with barely a pause. My friends seemed impressed when describing their speed. A third trend is the push for content producers of all types to maintain a social media presence. The New York Times, a bastion of old-world media values, now encourages its employees to tweet, a hint taken by the more than 800 writers, editors, and photographers for the paper who now maintain a Twitter account.
 
-The New York Times, a bastion of old-world media values, now encourages its employees to tweet, a hint taken by the more than 800 writers, editors, and photographers for the paper who now maintain a Twitter account. This is not outlier behavior. It’s instead the new normal. When the novelist Jonathan Franzen wrote a piece for The Guardian calling Twitter a coercive development in the literary world, he was widely ridiculed as out of touch.
-
-The online magazine Slate called Franzen’s complaints a lonely war on the Internet, and fellow novelist Jennifer Weiner wrote a response in The New Republic in which she argued Franzen’s a category of one, a lonely voice issuing ex cathedra edicts that can only apply to himself.
+This is not outlier behavior. It’s instead the new normal. When the novelist Jonathan Franzen wrote a piece for The Guardian calling Twitter a coercive development in the literary world, he was widely ridiculed as out of touch. The online magazine Slate called Franzen’s complaints a lonely war on the Internet, and fellow novelist Jennifer Weiner wrote a response in The New Republic in which she argued Franzen’s a category of one, a lonely voice issuing ex cathedra edicts that can only apply to himself.
 
 
 <a id="sec-012546"></a>
@@ -660,17 +656,15 @@ If you believe in the value of depth, this reality spells bad news for businesse
 
 Having just established that there’s nothing fundamentally flawed about deep work and nothing fundamentally necessary about the distracting behaviors that displace it, you can therefore continue with confidence with the ultimate goal of this book, to systematically develop your personal ability to go deep and, by doing so, reap great rewards.
 
-#### Chapter 3 Deep Work is Meaningful Rick Fuhrer is a blacksmith.
+#### Chapter 3 Deep Work is Meaningful Rick Fuhrer is a blacksmith. He specializes in ancient and medieval metalworking practices which he painstakingly recreates in his shop, Door County Forge Works. I do all my work by hand and use tools that multiply my force without limiting my creativity or interaction with the material, he explains in his artist statement.
 
-He specializes in ancient and medieval metalworking practices which he painstakingly recreates in his shop, Door County Forge Works. I do all my work by hand and use tools that multiply my force without limiting my creativity or interaction with the material, he explains in his artist statement. What may take me a hundred blows by hand can be accomplished in one by a large swaging machine. This is the antithesis of my goal and to that end all my work shows evidence of the two hands that made it.
+What may take me a hundred blows by hand can be accomplished in one by a large swaging machine. This is the antithesis of my goal and to that end all my work shows evidence of the two hands that made it. A 2012 PBS documentary provides a glimpse into Fuhrer’s world. We learn that he works in a converted barn in Wisconsin farm country, not far inland from the scenic Sturgeon Bay of Lake Michigan.
 
-A 2012 PBS documentary provides a glimpse into Fuhrer’s world. We learn that he works in a converted barn in Wisconsin farm country, not far inland from the scenic Sturgeon Bay of Lake Michigan. Fuhrer often leaves the barn doors open to vent the heat of the forges one suspects, his efforts framed by farm fields stretching to the horizon. The setting is idyllic, but the work can seem at first encounter brutish.
+Fuhrer often leaves the barn doors open to vent the heat of the forges one suspects, his efforts framed by farm fields stretching to the horizon. The setting is idyllic, but the work can seem at first encounter brutish. In the documentary Fuhrer is trying to recreate a Viking era sword. He begins by using a 1500 year old technique to smelt crucible steel, an unusually pure, for the period, form of the metal.
 
-In the documentary Fuhrer is trying to recreate a Viking era sword. He begins by using a 1500 year old technique to smelt crucible steel, an unusually pure, for the period, form of the metal. The result is an ingot, not much bigger than three or four stacked smartphones. This dense ingot must then be shaped and polished into a long and elegant sword blade.
+The result is an ingot, not much bigger than three or four stacked smartphones. This dense ingot must then be shaped and polished into a long and elegant sword blade. This part, the initial breakdown is terrible, Fuhrer says to the camera as he methodically heats the ingot, hits it with a hammer, turns it, hits it, then puts it back in the flames to start over. The narrator reveals that it will take eight hours of this hammering to complete the shaping.
 
-This part, the initial breakdown is terrible, Fuhrer says to the camera as he methodically heats the ingot, hits it with a hammer, turns it, hits it, then puts it back in the flames to start over. The narrator reveals that it will take eight hours of this hammering to complete the shaping. As you watch Fuhrer work however, the sense of the labor shifts. It becomes clear that he’s not drearily whacking at the metal like a miner with a pickaxe.
-
-Every hit, though forceful, is carefully controlled. He peers intently at the metal through thin framed intellectual glasses, which seem out of place perched above his heavy beard and broad shoulders, burning it just so for each impact.
+As you watch Fuhrer work however, the sense of the labor shifts. It becomes clear that he’s not drearily whacking at the metal like a miner with a pickaxe. Every hit, though forceful, is carefully controlled. He peers intently at the metal through thin framed intellectual glasses, which seem out of place perched above his heavy beard and broad shoulders, burning it just so for each impact.
 
 “'You have to be very gentle with it, or you will crack it,' he explains. After a few more hammer strikes, he adds, ”'You have to nudge it. Slowly it breaks down. Then you start to enjoy it.'" At one point, about halfway through the smithing, after Fuhrer has finished hammering out the desired shape, he begins rotating the metal carefully in a narrow trough of burning charcoal.
 
@@ -824,11 +818,9 @@ This chapter argues that when it comes to the embrace of depth, such resonance i
 
 This is perhaps the best way to sum up the argument of this chapter, and of part one more broadly. A deep life is a good life, any way you look at it.
 
-#### Part 2.
+#### Part 2. The Rules. Rule number one.
 
-The Rules. Rule number one. Work deeply. Soon after I met David Duane for a drink at a DuPont Circle bar, he brought up the eudaimonia machine.
-
-Duane is an architecture professor and therefore likes to explore the intersection between the conceptual and the concrete. The
+Work deeply. Soon after I met David Duane for a drink at a DuPont Circle bar, he brought up the eudaimonia machine. Duane is an architecture professor and therefore likes to explore the intersection between the conceptual and the concrete. The
 
 
 <a id="sec-024127"></a>

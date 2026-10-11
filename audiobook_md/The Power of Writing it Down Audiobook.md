@@ -1982,11 +1982,9 @@ When you do this, a magical thing happens. Your writing suddenly becomes richer.
 
 These are the beautiful, juicy, delicious ingredients of your life.
 
-#### Chapter 12.
+#### Chapter 12. The ending that hasn’t been written. The myth about endings and how to get a happily ever after. There’s a moment I’ve come to expect when I’m helping a new writer outline their personal story.
 
-The ending that hasn’t been written. The myth about endings and how to get a happily ever after. There’s a moment I’ve come to expect when I’m helping a new writer outline their personal story. It happens at around three-fourths of the way through the process and it’s so predictable now that I can almost time it.
-
-They look at the story and they realize the ending hasn’t happened yet. You might be thinking, of course the ending hasn’t happened yet, we’re still alive. But as you write the smaller stories of your life, the story of getting fired, for example, or going through a divorce or having a baby, think about how often we quote, write the ends of the stories in our minds before they have actually been written.
+It happens at around three-fourths of the way through the process and it’s so predictable now that I can almost time it. They look at the story and they realize the ending hasn’t happened yet. You might be thinking, of course the ending hasn’t happened yet, we’re still alive. But as you write the smaller stories of your life, the story of getting fired, for example, or going through a divorce or having a baby, think about how often we quote, write the ends of the stories in our minds before they have actually been written.
 
 
 <a id="sec-045711"></a>
@@ -2238,17 +2236,15 @@ When the words come, the writing life draws us back in to the one thing that can
 
 If we’re lucky, we can even find small, unexpected bits of nourishment in a sea.
 
-#### Chapter 14, The Gift You Leave Behind, How Words Make You a Person of Influence.
+#### Chapter 14, The Gift You Leave Behind, How Words Make You a Person of Influence. It’s crazy to think how much we try to remember that we cannot remember. Our lives pass by quickly, and most of what we do on a given day fades into the background of our brains like white noise. Can you remember what you did last Thursday?
 
-It’s crazy to think how much we try to remember that we cannot remember. Our lives pass by quickly, and most of what we do on a given day fades into the background of our brains like white noise. Can you remember what you did last Thursday? What about a year ago today?
+What about a year ago today? You might be able to take a guess at where you were, who you were with, or what general things you were doing, but do you really remember? What do you remember about your life? When was the last time you felt joyful?
 
-You might be able to take a guess at where you were, who you were with, or what general things you were doing, but do you really remember? What do you remember about your life? When was the last time you felt joyful? What about devastated?
+What about devastated? Research shows you’re much more likely to be able to answer the second question than the first. Negative emotions carve deep ruts in our brains, and are memorized by our bodies so that they can be replayed over and over again. Positive emotions like joy and peace and love don’t always have the same impact.
 
-Research shows you’re much more likely to be able to answer the second question than the first. Negative emotions carve deep ruts in our brains, and are memorized by our bodies so that they can be replayed over and over again. Positive emotions like joy and peace and love don’t always have the same impact. Do you want to get to the end of your life and remember only the negative?
+Do you want to get to the end of your life and remember only the negative? What parts do you want to remember? What we write down is what we remember. It’s like a time capsule in that way, a lifeline back to the best parts of ourselves, a little popcorn trail of words we can follow so that we never lose sight of the path we’re on.
 
-What parts do you want to remember? What we write down is what we remember. It’s like a time capsule in that way, a lifeline back to the best parts of ourselves, a little popcorn trail of words we can follow so that we never lose sight of the path we’re on. Words help us to see ourselves more clearly.
-
-They help us remember who we are and what we’re here for. They help others remember us too.
+Words help us to see ourselves more clearly. They help us remember who we are and what we’re here for. They help others remember us too.
 
 
 <a id="sec-053741"></a>

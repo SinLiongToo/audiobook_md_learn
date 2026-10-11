@@ -176,29 +176,29 @@ Every time I detected a little nip of magic in their communicating, I asked them
 
 When you master them, everyone from new acquaintances to family, friends, and business associates will happily open their hearts, homes, companies, and even wallets to give you whatever they can. There’s a bonus. As you sail through life with your new communication skills, you will look back and see some very happy givers smiling in your wake.
 
-#### Part 1.
+#### Part 1. How to Intrigue Everyone Without Saying a Word.
 
-How to Intrigue Everyone Without Saying a Word. You only have ten seconds to show you’re a somebody. The exact moment that two humans lay eyes on each other has awesome potency. The first side of you is a brilliant holograph.
+You only have ten seconds to show you’re a somebody. The exact moment that two humans lay eyes on each other has awesome potency. The first side of you is a brilliant holograph. It burns its way into your new acquaintances' eyes and can stay emblazoned in his or her memory forever.
 
-It burns its way into your new acquaintances' eyes and can stay emblazoned in his or her memory forever. Artists are sometimes able to capture this quick-silver, fleeting, emotional response. My friend Robert Grossman is an accomplished caricature artist who draws regularly for Forbes, Newsweek, Sports Illustrated, Rolling Stone, and other popular publications. Bob has a unique gift for capturing not only the physical appearance of his subjects, but for zeroing in on the essence of their personalities.
+Artists are sometimes able to capture this quick-silver, fleeting, emotional response. My friend Robert Grossman is an accomplished caricature artist who draws regularly for Forbes, Newsweek, Sports Illustrated, Rolling Stone, and other popular publications. Bob has a unique gift for capturing not only the physical appearance of his subjects, but for zeroing in on the essence of their personalities. The bodies and souls of hundreds of luminaries radiate from his sketch pad.
 
-The bodies and souls of hundreds of luminaries radiate from his sketch pad. One glance at his caricatures of famous people, and you can actually see their personalities. Sometimes at a party, Bob will do a quick sketch on a cocktail napkin of a guest. Hovering over Bob’s shoulder, the onlookers gasp as they watch their friend’s image and essence materialize before their eyes.
+One glance at his caricatures of famous people, and you can actually see their personalities. Sometimes at a party, Bob will do a quick sketch on a cocktail napkin of a guest. Hovering over Bob’s shoulder, the onlookers gasp as they watch their friend’s image and essence materialize before their eyes. When he’s finished drawing, he puts his pen down and hands the napkin to the subject.
 
-When he’s finished drawing, he puts his pen down and hands the napkin to the subject. Often a puzzled look comes over the subject’s face. He or she usually mumbles some politeness like, well, that’s great, but it really isn’t me. The crowd’s convincing crescendo of, oh yes it is, drowns the subject out and squelches any lingering doubt.
+Often a puzzled look comes over the subject’s face. He or she usually mumbles some politeness like, well, that’s great, but it really isn’t me. The crowd’s convincing crescendo of, oh yes it is, drowns the subject out and squelches any lingering doubt. The confused subject is left to stare back at the world’s view of himself or herself in the napkin.
 
-The confused subject is left to stare back at the world’s view of himself or herself in the napkin. Once, when I was visiting Bob’s studio, I asked him how he could capture people’s personalities so well. He said, it’s simple. I just look at them.
+Once, when I was visiting Bob’s studio, I asked him how he could capture people’s personalities so well. He said, it’s simple. I just look at them. No, I asked.
 
-No, I asked. How do you capture their personalities? Can you have to do a lot of research about their lifestyle, their history? No, I told you, Leolaw, just look at them.
+How do you capture their personalities? Can you have to do a lot of research about their lifestyle, their history? No, I told you, Leolaw, just look at them. Huh?
 
-Huh? He went on to explain, almost every facet of people’s personalities is evident from their appearance, their posture, the way they move. For instance, he said, calling me over to a file where he kept his caricatures of political figures. See, Bob said, pointing to angles on various presidential body parts.
+He went on to explain, almost every facet of people’s personalities is evident from their appearance, their posture, the way they move. For instance, he said, calling me over to a file where he kept his caricatures of political figures. See, Bob said, pointing to angles on various presidential body parts. Here’s the boyishness of Clinton, showing me his half smile, the awkwardness of the elder George Bush, pointing to his shoulder angle, the charm of Reagan, noting the ex-president’s smiling eyes, the shiftiness of Nixon, pointing to the furtive tilt of his head.
 
-Here’s the boyishness of Clinton, showing me his half smile, the awkwardness of the elder George Bush, pointing to his shoulder angle, the charm of Reagan, noting the ex-president’s smiling eyes, the shiftiness of Nixon, pointing to the furtive tilt of his head. Digging a little deeper into his file, he pulled out Franklin Delano Roosevelt and pointing to the nose high in the air, here’s the pride of FDR. It’s all in the face and the body. First impressions are indelible. Why?
+Digging a little deeper into his file, he pulled out Franklin Delano Roosevelt and pointing to the nose high in the air, here’s the pride of FDR. It’s all in the face and the body. First impressions are indelible. Why? Because in our fast-paced information overload world of multiple stimuli bombarding us every second, people’s heads are spinning.
 
-Because in our fast-paced information overload world of multiple stimuli bombarding us every second, people’s heads are spinning. They must form quick judgments to make sense of the world and get on with what they have to do. So whenever people meet you, they take an instant mental snapshot. That image of you becomes the data they deal with for a very long time.
+They must form quick judgments to make sense of the world and get on with what they have to do. So whenever people meet you, they take an instant mental snapshot. That image of you becomes the data they deal with for a very long time. Your body shrieks before your lips can speak.
 
-Your body shrieks before your lips can speak. Are their data accurate? Amazingly enough, yes. Even before your lips part and the first syllable escapes, the essence of you has already axed its way into their brains.
+Are their data accurate? Amazingly enough, yes. Even before your lips part and the first syllable escapes, the essence of you has already axed its way into their brains. The way you look and the way you move is more than 80% of someone’s first impression of you.
 
-The way you look and the way you move is more than 80% of someone’s first impression of you. Not one word need be spoken. I’ve lived and worked in countries where I didn’t s- speak the native language. Yet without one understandable syllable spoken between us,
+Not one word need be spoken. I’ve lived and worked in countries where I didn’t s- speak the native language. Yet without one understandable syllable spoken between us,
 
 
 <a id="sec-001505"></a>
@@ -644,15 +644,13 @@ When the folks at Cape Kennedy aim a spacecraft for the moon, a mistake in the m
 
 We now move from the silent world to the spoken word.
 
-#### Part 2 How to Know What to Say After You Say Hi Just as the first glimpse should please their eyes, your first words should delight their ears.
+#### Part 2 How to Know What to Say After You Say Hi Just as the first glimpse should please their eyes, your first words should delight their ears. Your tongue is a welcome mat embossed with either welcome or go away. To make your conversation partner feel welcome, you must master small talk. Can you hear the shudder?
 
-Your tongue is a welcome mat embossed with either welcome or go away. To make your conversation partner feel welcome, you must master small talk. Can you hear the shudder? Those two little words drive a stake into the hearts of some otherwise fearless and undaunted souls.
+Those two little words drive a stake into the hearts of some otherwise fearless and undaunted souls. Invite them to a party where they don’t know anyone, and it mainlines queasiness into their veins. If this sounds familiar, take consolation from the fact that the brighter the individual, the more he or she detests small talk. When consulting for Fortune 500 companies, I was astounded.
 
-Invite them to a party where they don’t know anyone, and it mainlines queasiness into their veins. If this sounds familiar, take consolation from the fact that the brighter the individual, the more he or she detests small talk. When consulting for Fortune 500 companies, I was astounded. Top executives, completely comfortable making big talk with their boards of directors or addressing their stockholders, confessed they felt like little lost children at parties where the pratter was less than prodigious.
+Top executives, completely comfortable making big talk with their boards of directors or addressing their stockholders, confessed they felt like little lost children at parties where the pratter was less than prodigious. Small talk haters take further consolation from the fact that you are in star-studded company. Fear of small talk and stage fright are the same thing. The butterflies you feel in your stomach when you’re in a room full of strangers flutter round the tummies of top performers.
 
-Small talk haters take further consolation from the fact that you are in star-studded company. Fear of small talk and stage fright are the same thing. The butterflies you feel in your stomach when you’re in a room full of strangers flutter round the tummies of top performers. Pablo Casals complained of lifelong stage fright.
-
-Carly Simon curtailed live performances because of it. A friend of mine who worked with Neil Diamond said he insisted the words to Song Song Blue, a tune he’d been crooning for forty years, be displayed on his teleprompter. Lest fear frees him into forgetfulness.
+Pablo Casals complained of lifelong stage fright. Carly Simon curtailed live performances because of it. A friend of mine who worked with Neil Diamond said he insisted the words to Song Song Blue, a tune he’d been crooning for forty years, be displayed on his teleprompter. Lest fear frees him into forgetfulness.
 
 
 <a id="sec-012549"></a>
@@ -784,21 +782,19 @@ The conversation then escalates naturally, compatibly. Don’t rush it or, like 
 
 Week number eleven.
 
-#### PROSAIC WITH PASSION.
+#### PROSAIC WITH PASSION. Worried about your first words? Fear not, because eighty percent of your listener’s impression has nothing to do with your words anyway. Almost anything you say at first is fine.
 
-Worried about your first words? Fear not, because eighty percent of your listener’s impression has nothing to do with your words anyway. Almost anything you say at first is fine. No matter how prosaic the text, an empathetic mood, a positive demeanor and passionate delivery make you sound exciting.
+No matter how prosaic the text, an empathetic mood, a positive demeanor and passionate delivery make you sound exciting. Anything except liverwurst. Except to Dottie, waiting for her sandwich at her desk. Sometimes as I walked out the door scratching my head wondering what to bring her, she’d call after me.
 
-Anything except liverwurst. Except to Dottie, waiting for her sandwich at her desk. Sometimes as I walked out the door scratching my head wondering what to bring her, she’d call after me. Anything except liverwurst, that is.
+Anything except liverwurst, that is. Thanks, Dottie. That’s a little bit of help. Here’s my anything except liverwurst on small talk.
 
-Thanks, Dottie. That’s a little bit of help. Here’s my anything except liverwurst on small talk. Anything you say is fine as long as it is not complaining, rude or unpleasant.
+Anything you say is fine as long as it is not complaining, rude or unpleasant. If the first… words out of your mouth are a complaint, plan. People label you a complainer. Why?
 
-If the first… words out of your mouth are a complaint, plan. People label you a complainer. Why? Because that complaint is your new acquaintance’s 100 percent sampling of you so far.
+Because that complaint is your new acquaintance’s 100 percent sampling of you so far. You could be the happiest Pollyanna ever, but how will they know? If your first comment is a complaint, you’re a griper. If your first words are rude, you’re a creep.
 
-You could be the happiest Pollyanna ever, but how will they know? If your first comment is a complaint, you’re a griper. If your first words are rude, you’re a creep. If your first words are unpleasant, you’re a stinker.
+If your first words are unpleasant, you’re a stinker. Open and shut. Other than these downers anything goes. Ask them where they’re from, how they know the host of the party, where they bought the lovely suit they’re wearing, or hundreds of et ceteras.
 
-Open and shut. Other than these downers anything goes. Ask them where they’re from, how they know the host of the party, where they bought the lovely suit they’re wearing, or hundreds of et ceteras. The trick is to ask your prosaic question with passion to get the other person talking.
-
-Still feel a bit shaky on making the approach to strangers? Let’s take a quick detour on our road to meaningful communicating. I’ll give you three quickie techniques to meet
+The trick is to ask your prosaic question with passion to get the other person talking. Still feel a bit shaky on making the approach to strangers? Let’s take a quick detour on our road to meaningful communicating. I’ll give you three quickie techniques to meet
 
 
 <a id="sec-014559"></a>
@@ -824,13 +820,15 @@ Are you a golfer? Me, too. What courses have you played? Your business cards and
 
 Whether you are riding in the elevator, climbing the doorstep, or traversing the path to the party, make sure your what’s-it is hanging out for all to see. Always wear a what’s-it. Whenever you go to a gathering, wear or carry something unusual to give people who find you the delightful stranger across the crowded room an excuse to approach. Excuse me, I couldn’t help but notice your…
 
-what is that? The next quickie technique was originated by doggedly determined politicians who don’t let one party go or escape if they think he or she could be helpful to their campaigns. I call it the who’s-at technique. How to meet the people you want to meet Say you have scrutinized the body of the important business contact you want to meet.
+what is that?
 
-You’ve searched in vain from the tip of his cowlick to the toes of his boots. He’s not sporting a single what’s-it. If you strike out on finding something to comment on, resort to the who’s-at technique. Like a persistent politician, go to the party giver and say, that man or woman over there looks interesting.
+The next quickie technique was originated by doggedly determined politicians who don’t let one party go or escape if they think he or she could be helpful to their campaigns. I call it the who’s-at technique. How to meet the people you want to meet Say you have scrutinized the body of the important business contact you want to meet. You’ve searched in vain from the tip of his cowlick to the toes of his boots.
 
-Who is he or she? Then ask for an introduction. Don’t be hesitant. The party giver will be pleased you find one of the guests interesting.
+He’s not sporting a single what’s-it. If you strike out on finding something to comment on, resort to the who’s-at technique. Like a persistent politician, go to the party giver and say, that man or woman over there looks interesting. Who is he or she?
 
-If however you are loathe to pull the party giver away from his or her other guests, you can still perform who’s-at. This time, don’t ask for a formal introduction. Simply
+Then ask for an introduction. Don’t be hesitant. The party giver will be pleased you find one of the guests interesting. If however you are loathe to pull the party giver away from his or her other guests, you can still perform who’s-at.
+
+This time, don’t ask for a formal introduction. Simply
 
 
 <a id="sec-015101"></a>
@@ -1154,13 +1152,11 @@ Anything that happened today is good material. Knowing the big deal news of the 
 
 Let’s go.
 
-#### Part 3.
+#### Part 3. How to talk like a VIP. Welcome to the human jungle. When two tigers prowling through the jungle chance upon one another in a clearing, they look at each other.
 
-How to talk like a VIP. Welcome to the human jungle. When two tigers prowling through the jungle chance upon one another in a clearing, they look at each other. They freeze.
+They freeze. Instinctively they calculate. If our staring came to hissing, came to scratching, came to clawing, who would win? Which of us has the stronger survival skills?
 
-Instinctively they calculate. If our staring came to hissing, came to scratching, came to clawing, who would win? Which of us has the stronger survival skills? Tigers in the wilderness differ little from the urban upright animals inhabiting the corporate jungle or singles jungle or social jungle.
-
-Humans start the process by looking at each other and talking. In the business world, while smiling and uttering, how do you do, hello, howdy or high, they are, like tigers, instinctively, instantaneously sizing each other up.
+Tigers in the wilderness differ little from the urban upright animals inhabiting the corporate jungle or singles jungle or social jungle. Humans start the process by looking at each other and talking. In the business world, while smiling and uttering, how do you do, hello, howdy or high, they are, like tigers, instinctively, instantaneously sizing each other up.
 
 
 <a id="sec-024136"></a>
@@ -2422,29 +2418,29 @@ Every time I detected a little nip of magic in their communicating, I asked them
 
 When you master them, everyone from new acquaintances to family, friends, and business associates will happily open their hearts, homes, companies, and even wallets to give you whatever they can. There’s a bonus. As you sail through life with your new communication skills, you will look back and see some very happy givers smiling in your wake.
 
-#### Part 1.
+#### Part 1. How to Intrigue Everyone Without Saying a Word You only have 10 seconds to show you’re a somebody.
 
-How to Intrigue Everyone Without Saying a Word You only have 10 seconds to show you’re a somebody. The exact moment that two humans lay eyes on each other has awesome potency. The first side of you is a brilliant holograph. It burns its way into your new acquaintance’s eyes and can stay emblazoned in his or her memory forever.
+The exact moment that two humans lay eyes on each other has awesome potency. The first side of you is a brilliant holograph. It burns its way into your new acquaintance’s eyes and can stay emblazoned in his or her memory forever. Artists are sometimes able to capture this quick, silver, fleeting, emotional response.
 
-Artists are sometimes able to capture this quick, silver, fleeting, emotional response. My friend Robert Grossman is an accomplished caricature artist who draws regularly for Forbes, Newsweek, Sports Illustrated, Rolling Stone, and other popular publications. Bob has a unique gift for capturing not only the physical appearance of his subjects, but for zeroing in on the essence of their personalities. The bodies and souls of hundreds of luminaries radiate from his sketch pad.
+My friend Robert Grossman is an accomplished caricature artist who draws regularly for Forbes, Newsweek, Sports Illustrated, Rolling Stone, and other popular publications. Bob has a unique gift for capturing not only the physical appearance of his subjects, but for zeroing in on the essence of their personalities. The bodies and souls of hundreds of luminaries radiate from his sketch pad. One glance at his caricatures of famous people, and you can actually see their personalities.
 
-One glance at his caricatures of famous people, and you can actually see their personalities. Sometimes at a party, Bob will do a quick sketch on a cocktail napkin of a guest. Hovering over Bob’s shoulder, the onlookers gasp as they watch their friend’s image and essence materialize before their eyes. When he’s finished drawing, he puts his pen down and hands the napkin to the subject.
+Sometimes at a party, Bob will do a quick sketch on a cocktail napkin of a guest. Hovering over Bob’s shoulder, the onlookers gasp as they watch their friend’s image and essence materialize before their eyes. When he’s finished drawing, he puts his pen down and hands the napkin to the subject. Often a puzzled look comes over the subject’s face.
 
-Often a puzzled look comes over the subject’s face. He or she usually mumbles some politeness like, well, that’s great, but it really isn’t me. The crowds convincing Crescendo of, oh, yes, it is, drowns the subject out and squelches any lingering doubt. The confused subject is left to stare back at the world’s view of himself or herself in the napkin.
+He or she usually mumbles some politeness like, well, that’s great, but it really isn’t me. The crowds convincing Crescendo of, oh, yes, it is, drowns the subject out and squelches any lingering doubt. The confused subject is left to stare back at the world’s view of himself or herself in the napkin. Once, when I was visiting Bob’s studio, I asked him how he could capture people’s personalities so well.
 
-Once, when I was visiting Bob’s studio, I asked him how he could capture people’s personalities so well. He said, it’s simple. I just look at them. No, I asked.
+He said, it’s simple. I just look at them. No, I asked. How do you capture their personalities?
 
-How do you capture their personalities? Don’t you have to do a lot of research about their lifestyle, their history? No, I told you, Leela, just look at them. Huh?
+Don’t you have to do a lot of research about their lifestyle, their history? No, I told you, Leela, just look at them. Huh? He went on to explain almost every facet of people’s personalities is evident from their appearance, their posture, the way they move.
 
-He went on to explain almost every facet of people’s personalities is evident from their appearance, their posture, the way they move. For instance, he said, calling me over to a file where he kept his caricatures of political figures. See, Bob said, pointing to angles on various presidential body parts. Here’s the boyishness of Clinton, showing me his half smile, the awkwardness of the elder George Bush, pointing to his shoulder angle, the charm of Reagan, noting the ex-president’s smiling eyes, the shiftiness of Nixon, pointing to the furtive tilt of his head.
+For instance, he said, calling me over to a file where he kept his caricatures of political figures. See, Bob said, pointing to angles on various presidential body parts. Here’s the boyishness of Clinton, showing me his half smile, the awkwardness of the elder George Bush, pointing to his shoulder angle, the charm of Reagan, noting the ex-president’s smiling eyes, the shiftiness of Nixon, pointing to the furtive tilt of his head. Digging a little deeper into his file, he pulled out Franklin Delano Roosevelt and pointing to the nose high in the air.
 
-Digging a little deeper into his file, he pulled out Franklin Delano Roosevelt and pointing to the nose high in the air. Here’s the pride of FDR. It’s all in the face and the body. First impressions are indelible. Why?
+Here’s the pride of FDR. It’s all in the face and the body. First impressions are indelible. Why? Because in our fast paced information overload world of multiple stimuli bombarding us every second, people’s heads are spinning.
 
-Because in our fast paced information overload world of multiple stimuli bombarding us every second, people’s heads are spinning. They must form quick judgments to make sense of the world and get on with what they have to do. So whenever people meet you, they take an instant mental snapshot. That image of you becomes the data they deal with for a very long time.
+They must form quick judgments to make sense of the world and get on with what they have to do. So whenever people meet you, they take an instant mental snapshot. That image of you becomes the data they deal with for a very long time. Your body shrieks before your lips can speak.
 
-Your body shrieks before your lips can speak. Are their data accurate? Amazingly enough, yes. Even before your lips part and the first syllable escapes, the essence of you has already axed its way into their brains.
+Are their data accurate? Amazingly enough, yes. Even before your lips part and the first syllable escapes, the essence of you has already axed its way into their brains. The way you look and the way you move is more than 80% of someone’s first impression of you.
 
-The way you look and the way you move is more than 80% of someone’s first impression of you. Not one word need be spoken.
+Not one word need be spoken.
 
 
 <a id="sec-055852"></a>
@@ -2902,13 +2898,13 @@ Think of yourself in these first moments like a rocket taking off. When the folk
 
 We now move from the silent world to the spoken word.
 
-#### Part 2 How to Know What to Say After You Say Hi Just as the first glimpse should please their eyes, your first words should delight their ears.
+#### Part 2 How to Know What to Say After You Say Hi Just as the first glimpse should please their eyes, your first words should delight their ears. Your tongue is a welcome mat embossed with either welcome or go away. To make your conversation partner feel welcome, you must master small talk. Can you hear the shudder?
 
-Your tongue is a welcome mat embossed with either welcome or go away. To make your conversation partner feel welcome, you must master small talk. Can you hear the shudder? Those two little words drive a stake into the hearts of some otherwise fearless and undaunted souls.
+Those two little words drive a stake into the hearts of some otherwise fearless and undaunted souls. Invite them to a party where they don’t know anyone, and it mainlines queasiness into their veins. If this sounds familiar, take consolation from the fact that the brighter the individual, the more he or she detests small talk. When consulting for Fortune 500 companies, I was astounded.
 
-Invite them to a party where they don’t know anyone, and it mainlines queasiness into their veins. If this sounds familiar, take consolation from the fact that the brighter the individual, the more he or she detests small talk. When consulting for Fortune 500 companies, I was astounded. Top executives, completely comfortable making big talk with their boards of directors or addressing their stockholders, confessed they felt like little lost children at parties where the pratter was less than prodigious.
+Top executives, completely comfortable making big talk with their boards of directors or addressing their stockholders, confessed they felt like little lost children at parties where the pratter was less than prodigious. Small talk haters take further consolation from the fact that you are in star-studded company. Fear of small talk and stage fright are the same thing. The butterflies you feel in your stomach when you’re in a room full of strangers flutter round the tummies of top performers.
 
-Small talk haters take further consolation from the fact that you are in star-studded company. Fear of small talk and stage fright are the same thing. The butterflies you feel in your stomach when you’re in a room full of strangers flutter round the tummies of top performers. Pablo Casals complained of lifelong stage fright.
+Pablo Casals complained of lifelong stage fright.
 
 
 <a id="sec-070926"></a>
@@ -3106,25 +3102,25 @@ final approval in the mirror, is to turn on the radio news or scan your newspape
 
 Ready for the big leagues of conversation? Let’s go.
 
-#### Part 3.
+#### Part 3. How to talk like a VIP. Welcome to the human jungle.
 
-How to talk like a VIP. Welcome to the human jungle. When two tigers prowling through the jungle chance upon one another in a clearing, they look at each other. They freeze.
+When two tigers prowling through the jungle chance upon one another in a clearing, they look at each other. They freeze. Instinctively they calculate. If our staring came to hissing, came to scratching, came to clawing, who would win?
 
-Instinctively they calculate. If our staring came to hissing, came to scratching, came to clawing, who would win? Which of us has the stronger survival skills? Tigers in the wilderness differ little from the urban upright animals inhabiting the corporate jungle or singles jungle or social jungle.
+Which of us has the stronger survival skills? Tigers in the wilderness differ little from the urban upright animals inhabiting the corporate jungle or singles jungle or social jungle. Humans start the process by looking at each other and talking. In the business world, while smiling and uttering, how do you do, hello, howdy or high, they are, like tigers, instinctively, instantaneously sizing each other up.
 
-Humans start the process by looking at each other and talking. In the business world, while smiling and uttering, how do you do, hello, howdy or high, they are, like tigers, instinctively, instantaneously sizing each other up. They’re not calculating the length of each other’s claws or the sharpness of their teeth. They are judging each other on a weapon far more powerful to survival as they have defined it.
+They’re not calculating the length of each other’s claws or the sharpness of their teeth. They are judging each other on a weapon far more powerful to survival as they have defined it. Humans are judging each other’s communication skills. Though they may not know the names of the specific studies first proving it, they sensed the truth.
 
-Humans are judging each other’s communication skills. Though they may not know the names of the specific studies first proving it, they sensed the truth. Eighty-five percent of one’s success in life is directly due to communication skills. They may not be familiar with the U. S. Census Bureau’s recent survey showing employers choose candidates with good communication skills and attitude way over education, experience, and training, but they know communication skills get people to the top.
+Eighty-five percent of one’s success in life is directly due to communication skills. They may not be familiar with the U. S. Census Bureau’s recent survey showing employers choose candidates with good communication skills and attitude way over education, experience, and training, but they know communication skills get people to the top. Thus, by observing each other carefully during casual conversing, it becomes almost immediately evident to both which is the bigger cat in the human jungle. It doesn’t take long for people to recognize who is an important person.
 
-Thus, by observing each other carefully during casual conversing, it becomes almost immediately evident to both which is the bigger cat in the human jungle. It doesn’t take long for people to recognize who is an important person. One cliché, one insensitive remark, one over-anxious reaction, and you can be professionally or personally demoted. You can lose a potentially important friendship or business contact.
+One cliché, one insensitive remark, one over-anxious reaction, and you can be professionally or personally demoted. You can lose a potentially important friendship or business contact. One stupid move and you can tumble off the corporate or social ladder. The techniques in this section will help ensure that you make all the right moves so this doesn’t happen.
 
-One stupid move and you can tumble off the corporate or social ladder. The techniques in this section will help ensure that you make all the right moves so this doesn’t happen. The following communication skills give you a leg up to start your ascent to the top of any ladder you choose. Twenty-four.
+The following communication skills give you a leg up to start your ascent to the top of any ladder you choose. Twenty-four. How to find out what they do without even asking. To size each other up, the first question little cats flat-pawedly ask each other is, �And what do you do, hmm?� Then they crouch there, quivering their whiskers and twitching their noses with an obvious, �I’m going to pronounce silent judgment on you after you answer, look on their pusses.� Big cats never ask outright, �What do you do?� Oh, they find out all right, in a much more subtle manner.
 
-How to find out what they do without even asking. To size each other up, the first question little cats flat-pawedly ask each other is, �And what do you do, hmm?� Then they crouch there, quivering their whiskers and twitching their noses with an obvious, �I’m going to pronounce silent judgment on you after you answer, look on their pusses.� Big cats never ask outright, �What do you do?� Oh, they find out all right, in a much more subtle manner. By not asking the question, the big boys and big girls come across as more principled, even spiritual.
+By not asking the question, the big boys and big girls come across as more principled, even spiritual. After all, their silence says, �A man or woman is far more than his or her job.� Resisting the tempting question also shows their sensitivity. With so much downsizing, right-sizing, and capsizing of corporations these days, the blunt interrogation evokes uneasiness. The job question is not just unpleasant for those who are between engagements. �I have several gainfully employed friends who hate being asked, and what do you do?� One of these folks cuts cadavers for autopsies, the other is an IRS collection agent.
 
-After all, their silence says, �A man or woman is far more than his or her job.� Resisting the tempting question also shows their sensitivity. With so much downsizing, right-sizing, and capsizing of corporations these days, the blunt interrogation evokes uneasiness. The job question is not just unpleasant for those who are between engagements. �I have several gainfully employed friends who hate being asked, and what do you do?� One of these folks cuts cadavers for autopsies, the other is an IRS collection agent. Additionally, millions of talented and accomplished women have chosen to devote themselves to motherhood.
+Additionally, millions of talented and accomplished women have chosen to devote themselves to motherhood. When the cruel corporate question is thrust at them, they feel guilty. The rude interrogation belittles their commitment to their families. No matter how the women answer, they fear the asker is only going to hear a humble, �I’m just a housewife.� Big boys and big girls should avoid asking, �What do you do?� for another reason.
 
-When the cruel corporate question is thrust at them, they feel guilty. The rude interrogation belittles their commitment to their families. No matter how the women answer, they fear the asker is only going to hear a humble, �I’m just a housewife.� Big boys and big girls should avoid asking, �What do you do?� for another reason. Their abstinence from the question leads listeners to believe that they are in the habit of soaring
+Their abstinence from the question leads listeners to believe that they are in the habit of soaring
 
 
 <a id="sec-074444"></a>

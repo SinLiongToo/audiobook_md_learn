@@ -932,29 +932,27 @@ Next time you feel low, put yourself in a growth mindset. Think about learning, 
 
 Is there something you’ve always wanted to do but were afraid you weren’t good at? Make a plan to do it.
 
-#### Chapter 3 The Truth About Ability and Accomplishment Try to picture Thomas Edison as vividly as you can.
+#### Chapter 3 The Truth About Ability and Accomplishment Try to picture Thomas Edison as vividly as you can. Think about where he is and what he’s doing. Is he alone?
 
-Think about where he is and what he’s doing. Is he alone? I asked people and they always said things like this. He’s in his workshop surrounded by equipment.
+I asked people and they always said things like this. He’s in his workshop surrounded by equipment. He’s working on the phonograph, trying things. He succeeds.
 
-He’s working on the phonograph, trying things. He succeeds. Is he alone? Yes, he’s doing this stuff alone because he’s the only one who knows what he’s after.
+Is he alone? Yes, he’s doing this stuff alone because he’s the only one who knows what he’s after. He’s in New Jersey. He’s standing in a white coat in a lab type room.
 
-He’s in New Jersey. He’s standing in a white coat in a lab type room. He’s leaning over a light bulb.
+He’s leaning over a light bulb. Suddenly it works. Is he alone? Yes, he’s kind of a reclusive guy who likes to tinker on his own.
 
-Suddenly it works. Is he alone? Yes, he’s kind of a reclusive guy who likes to tinker on his own. In truth, the record shows quite a different fellow working in quite a different way.
+In truth, the record shows quite a different fellow working in quite a different way. Edison was not a loner. For the invention of the light bulb, he had 30 assistants, including well-trained scientists often working around the clock in a corporate-funded state-of-the-art laboratory. It did not happen suddenly.
 
-Edison was not a loner. For the invention of the light bulb, he had 30 assistants, including well-trained scientists often working around the clock in a corporate-funded state-of-the-art laboratory. It did not happen suddenly. The light bulb has become the symbol for that single moment when the brilliant solution strikes.
+The light bulb has become the symbol for that single moment when the brilliant solution strikes. But there was no single moment of invention.
 
-But there was no single moment of invention. In fact, the light bulb was not one invention, but a whole network of time-consuming inventions, each requiring one or more chemists, mathematicians, physicists, engineers, and glassblowers. Edison was no naive tinkerer or unworldly egghead. The Wizard of Menlo Park was a savvy entrepreneur, fully aware of the commercial potential of his inventions.
+In fact, the light bulb was not one invention, but a whole network of time-consuming inventions, each requiring one or more chemists, mathematicians, physicists, engineers, and glassblowers. Edison was no naive tinkerer or unworldly egghead. The Wizard of Menlo Park was a savvy entrepreneur, fully aware of the commercial potential of his inventions. He also knew how to cozy up to the press, sometimes beating others out as the inventor of something because he knew how to publicize himself.
 
-He also knew how to cozy up to the press, sometimes beating others out as the inventor of something because he knew how to publicize himself. Yes, he was a genius, but he was not always one. His biographer, Paul Israel, sifting through all the available information, thinks he was more or less a regular boy of his time and place. Young Tom was taken with experiments and mechanical things, perhaps more avidly than most.
+Yes, he was a genius, but he was not always one. His biographer, Paul Israel, sifting through all the available information, thinks he was more or less a regular boy of his time and place. Young Tom was taken with experiments and mechanical things, perhaps more avidly than most. But machines and technology were part of the ordinary Midwestern boys' experience.
 
-But machines and technology were part of the ordinary Midwestern boys' experience. What eventually set him apart was his mindset and drive. He never stopped being the curious, tinkering boy looking for new challenges. Long after other men had taken up their roles in society, he rode the rails from city to city, learning everything he could about telegraphy and working his way up the ladder of telegraphers through nonstop self-education and invention.
+What eventually set him apart was his mindset and drive. He never stopped being the curious, tinkering boy looking for new challenges. Long after other men had taken up their roles in society, he rode the rails from city to city, learning everything he could about telegraphy and working his way up the ladder of telegraphers through nonstop self-education and invention. And later, much to the disappointment of his wives, his consuming love remained self-improvement and invention, but only in his field.
 
-And later, much to the disappointment of his wives, his consuming love remained self-improvement and invention, but only in his field. There are many myths about ability and achievement, especially about the lone, brilliant person suddenly producing amazing things. Yet Darwin’s masterwork, The Origin of Species, took years of teamwork in the field, hundreds of discussions with colleagues and mentors, several preliminary drafts, and half a lifetime of dedication before it reached fruition. Mozart labored for more than ten years until he produced any work that we admire today.
+There are many myths about ability and achievement, especially about the lone, brilliant person suddenly producing amazing things. Yet Darwin’s masterwork, The Origin of Species, took years of teamwork in the field, hundreds of discussions with colleagues and mentors, several preliminary drafts, and half a lifetime of dedication before it reached fruition. Mozart labored for more than ten years until he produced any work that we admire today. Before then, his compositions were not that original or interesting.
 
-Before then, his compositions were not that original or interesting. Naturally, they were often patched-together chunks taken from other composers. This chapter is about the real ingredients in achievement. It’s about why some people achieve less than expected and why some people achieve more.
-
-Mindset and school achievement.
+Naturally, they were often patched-together chunks taken from other composers. This chapter is about the real ingredients in achievement. It’s about why some people achieve less than expected and why some people achieve more. Mindset and school achievement.
 
 
 <a id="sec-015558"></a>
@@ -1008,19 +1006,17 @@ Soon my sleek stallion bolted forward like whirl away, and there was no one who 
 
 I had the horse to prove it. Of course, learning shouldn’t really be a race, but this race helped my friend discover his brain and connect it up with his schooling.
 
-#### THE COLLEGE TRANSITION.
+#### THE COLLEGE TRANSITION. Another transition, another crisis. College is when all the students who were the brains in high school are thrown together.
 
-Another transition, another crisis. College is when all the students who were the brains in high school are thrown together. Like our graduate students, yesterday they were king of the hill, but today who are they? There is the anxiety of being dethroned more palpable than in pre-med classes.
+Like our graduate students, yesterday they were king of the hill, but today who are they? There is the anxiety of being dethroned more palpable than in pre-med classes. In the last chapter, I mentioned our study of tense but hopeful undergraduates taking their first college chemistry course. This is the course that would give them, or deny them, entree into the pre-med curriculum, and it’s well known that students will go to almost any lengths to do well in this course.
 
-In the last chapter, I mentioned our study of tense but hopeful undergraduates taking their first college chemistry course. This is the course that would give them, or deny them, entree into the pre-med curriculum, and it’s well known that students will go to almost any lengths to do well in this course. At the beginning of the semester, we measured students' mindsets, and then we followed them through the course, watching their grades and asking about their study strategies. Once again, we found that the students with the growth mindset earned better grades in the course.
+At the beginning of the semester, we measured students' mindsets, and then we followed them through the course, watching their grades and asking about their study strategies. Once again, we found that the students with the growth mindset earned better grades in the course. Even when they did poorly on a particular test, they bounced back on the next ones. When students with the fixed mindset did poorly, they often didn’t make a comeback.
 
-Even when they did poorly on a particular test, they bounced back on the next ones. When students with the fixed mindset did poorly, they often didn’t make a comeback. In this course, everybody studied, but there are different ways to study. Many students study like this.
+In this course, everybody studied, but there are different ways to study. Many students study like this. They read the textbook and their class notes. If the material is really hard, they read them again.
 
-They read the textbook and their class notes. If the material is really hard, they read them again. Or they might try to memorize everything they can, like a vacuum cleaner. That’s how the students with the fixed mindset studied.
+Or they might try to memorize everything they can, like a vacuum cleaner. That’s how the students with the fixed mindset studied. If they did poorly on the test, they concluded that chemistry was not their subject. After all, I did everything possible, didn’t I?
 
-If they did poorly on the test, they concluded that chemistry was not their subject. After all, I did everything possible, didn’t I? Far from it. They would be shocked to find out what students with the growth mindset do.
-
-Even I find it remarkable. The students with growth mindset completely took charge of their learning and motivation.
+Far from it. They would be shocked to find out what students with the growth mindset do. Even I find it remarkable. The students with growth mindset completely took charge of their learning and motivation.
 
 Instead of plunging into unthinking memorization of the course material, they said, “I look for themes and underlying principles across lectures.” And I went over mistakes until I was certain I understood them. They were studying to learn, not just to waste the test. And actually, this was why they got higher grades, not because they were smarter or had a better background in science.
 
@@ -1748,31 +1744,29 @@ Think about times you’ve needed to reach deep down inside in difficult sports 
 
 The more you can do this, the more rewarding sports will be for you and for those who play them with you.
 
-#### Chapter 5 Business, Mindset, and Leadership Enron and the Talent Mindset In 2001 came the announcement that shocked the corporate world.
+#### Chapter 5 Business, Mindset, and Leadership Enron and the Talent Mindset In 2001 came the announcement that shocked the corporate world. Enron, the corporate poster child at the company of the future, had gone belly up. What happened? How did such spectacular promise turn into such a spectacular disaster?
 
-Enron, the corporate poster child at the company of the future, had gone belly up. What happened? How did such spectacular promise turn into such a spectacular disaster? Was it incompetence?
+Was it incompetence? Was it corruption? It was mindset. According to Malcolm Gladwell, writing in The New Yorker, American corporations had become obsessed with talent.
 
-Was it corruption? It was mindset. According to Malcolm Gladwell, writing in The New Yorker, American corporations had become obsessed with talent. Indeed, the gurus at McKinsey & Company, the premier management consulting firm in the country, were insisting that corporate success today requires the talent mindset.
+Indeed, the gurus at McKinsey & Company, the premier management consulting firm in the country, were insisting that corporate success today requires the talent mindset. Just as there are naturals in sport, they maintained there are naturals in business. And as sports teams write huge checks to sign outsized talent, so too should corporations spare no expense in recruiting talent, for this is the secret weapon, the key to beating the competition. As Gladwell writes, this talent mindset is the new orthodoxy of American management.
 
-Just as there are naturals in sport, they maintained there are naturals in business. And as sports teams write huge checks to sign outsized talent, so too should corporations spare no expense in recruiting talent, for this is the secret weapon, the key to beating the competition. As Gladwell writes, this talent mindset is the new orthodoxy of American management. It created the blueprint for the Enron culture and sowed the seeds of its demise.
+It created the blueprint for the Enron culture and sowed the seeds of its demise. Enron recruited big talent, mostly people with fancy degrees, which is not in itself so bad. It paid them big money, which is not that terrible. But by putting complete faith in talent, Enron did a fatal thing.
 
-Enron recruited big talent, mostly people with fancy degrees, which is not in itself so bad. It paid them big money, which is not that terrible. But by putting complete faith in talent, Enron did a fatal thing. It created a culture that worshipped talent, thereby forcing its employees to look and act extraordinarily talented.
+It created a culture that worshipped talent, thereby forcing its employees to look and act extraordinarily talented. Basically, it forced them into the fixed mindset, and we know a lot about that. We know from our studies that people with the fixed mindset do not admit and correct their deficiencies. After the study where we interviewed students from the University of Hong Kong, where everything is in English, students with the fixed mindset were so worried about appearing deficient that they refused to take a course that would improve their English.
 
-Basically, it forced them into the fixed mindset, and we know a lot about that. We know from our studies that people with the fixed mindset do not admit and correct their deficiencies. After the study where we interviewed students from the University of Hong Kong, where everything is in English, students with the fixed mindset were so worried about appearing deficient that they refused to take a course that would improve their English. They did not live in a psychological world where they could take this risk.
+They did not live in a psychological world where they could take this risk. And remember how we put students into a fixed mindset by praising their intelligence, much as Enron had done with its star employees? Later, after some hard problems, we asked the students to write a letter to someone in another school describing their experience in our study. When we read their letters, we were shocked.
 
-And remember how we put students into a fixed mindset by praising their intelligence, much as Enron had done with its star employees? Later, after some hard problems, we asked the students to write a letter to someone in another school describing their experience in our study. When we read their letters, we were shocked. Almost forty percent of them had lied about their scores.
+Almost forty percent of them had lied about their scores. Always in the upward direction, the fixed mindset had made a flaw intolerable. Gladwell concludes that when people live in an environment that steams them for their innate talent, they have great difficulty when their image is threatened. They will not take the remedial course.
 
-Always in the upward direction, the fixed mindset had made a flaw intolerable. Gladwell concludes that when people live in an environment that steams them for their innate talent, they have great difficulty when their image is threatened. They will not take the remedial course. They will not stand up to investors and the public and admit that they were wrong.
+They will not stand up to investors and the public and admit that they were wrong. They’d sooner lie. Obviously, a company that cannot self-correct, cannot thrive. If Enron was done in by its fixed mindset, does it follow that companies that thrive have a growth mindset?
 
-They’d sooner lie. Obviously, a company that cannot self-correct, cannot thrive. If Enron was done in by its fixed mindset, does it follow that companies that thrive have a growth mindset? Let’s see.
+Let’s see. Organisations that Grow Ben Collins set out to discover what made some companies move from being good to being great. What was it that allowed them to make the leap to greatness and stay there, while other comparable companies just held steady at good? To answer this question, he and his research team embarked on a five-year study.
 
-Organisations that Grow Ben Collins set out to discover what made some companies move from being good to being great. What was it that allowed them to make the leap to greatness and stay there, while other comparable companies just held steady at good? To answer this question, he and his research team embarked on a five-year study. They selected eleven companies whose stock returns had skyrocketed relative to other companies in their industry and maintained this edge for at least fifteen years.
+They selected eleven companies whose stock returns had skyrocketed relative to other companies in their industry and maintained this edge for at least fifteen years. They matched each company to another one in the same industry that had similar resources but did not make the leap. He also studied a third group of companies, ones that had made a leap from good to great but did not sustain it. What distinguished the thriving companies from the others?
 
-They matched each company to another one in the same industry that had similar resources but did not make the leap. He also studied a third group of companies, ones that had made a leap from good to great but did not sustain it. What distinguished the thriving companies from the others? There were several important factors, as Collins reports in his book Good to Great, but one that was absolutely key was the type of leader who in every case led the company into greatness.
+There were several important factors, as Collins reports in his book Good to Great, but one that was absolutely key was the type of leader who in every case led the company into greatness. These were not the larger-than-life, charismatic types who oozed ego and self-proclaimed talent. They were self-effacing people who constantly asked questions and had the ability to confront the most brutal answers—that is, to look failures in the face, even their own, while maintaining faith that they would succeed in the end.
 
-These were not the larger-than-life, charismatic types who oozed ego and self-proclaimed talent. They were self-effacing people who constantly asked questions and had the ability to confront the most brutal answers—that is, to look failures in the face, even their own, while maintaining faith that they would succeed in the end. Does this sound familiar? Collins wonders why his effective leaders have these particular qualities and why these qualities go together the way they do, and how these leaders came to acquire them.
-
-But we know
+Does this sound familiar? Collins wonders why his effective leaders have these particular qualities and why these qualities go together the way they do, and how these leaders came to acquire them. But we know
 
 
 <a id="sec-034653"></a>
@@ -2734,13 +2728,13 @@ Think of me trying to do that too. Are you shy? Then you really need the growth 
 
 Next time you’re venturing into a social situation, think about these things. How social skills are things you can improve, and how social interactions are for learning and enjoyment, not judgment. Keep practicing this.
 
-#### Chapter 7 Parents, Teachers, and Coaches Where do mindsets come from?
+#### Chapter 7 Parents, Teachers, and Coaches Where do mindsets come from? No parent thinks, I wonder what I can do today to undermine my children, subvert their effort, turn them off learning, and limit their achievement.
 
-No parent thinks, I wonder what I can do today to undermine my children, subvert their effort, turn them off learning, and limit their achievement. Of course not. They think, I would do anything, give anything, to make my children successful. Yet many of the things they do boomerang.
+Of course not. They think, I would do anything, give anything, to make my children successful. Yet many of the things they do boomerang. Their helpful judgments, their lessons, their motivating techniques often send the wrong message.
 
-Their helpful judgments, their lessons, their motivating techniques often send the wrong message. In fact, every word and action can send a message. It tells children or students or athletes how to think about themselves. It can be a fixed mindset message that says, you have permanent traits and I’m judging them, or it can be a growth mindset message that says, you are a developing person and I am interested in your development.
+In fact, every word and action can send a message. It tells children or students or athletes how to think about themselves. It can be a fixed mindset message that says, you have permanent traits and I’m judging them, or it can be a growth mindset message that says, you are a developing person and I am interested in your development. It’s remarkable how sensitive children are to these messages and how concerned they are about them.
 
-It’s remarkable how sensitive children are to these messages and how concerned they are about them. Hine Ginnett, the child-rearing sage of the 1950s through 1970s, tells this story. Bruce, age five, went with his mother to his new kindergarten.
+Hine Ginnett, the child-rearing sage of the 1950s through 1970s, tells this story. Bruce, age five, went with his mother to his new kindergarten.
 
 When they arrived, Bruce looked up at the paintings on the wall and said, “Who made those ugly pictures?” His mother rushed to correct him. It’s not nice to call pictures ugly when they are so pretty. But his teacher knew exactly what he meant. In here, she said, you don’t have to paint pretty pictures.
 

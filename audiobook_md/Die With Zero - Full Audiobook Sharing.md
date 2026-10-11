@@ -804,15 +804,13 @@ It also means knowing your projected death date and your annual cost of just sta
 
 If you want to die with zero and make the most of whatever health you have at every point in your lifetime, you will need to spend more in your 50s than in your 60s, more in your 60s than in your 70s, let alone your 80s and 90s.
 
-#### Chapter 8 further explains these ideas and gives you the tools for implementing them by yourself or with the help of a financial advisor.
+#### Chapter 8 further explains these ideas and gives you the tools for implementing them by yourself or with the help of a financial advisor. Final countdown. Like all living creatures, humans have evolved to survive.
 
-Final countdown. Like all living creatures, humans have evolved to survive. Of course, we want to do more than just survive.
+Of course, we want to do more than just survive. For example, I’m sure if I ask you if you want to survive or really thrive, you choose thriving. But our biology is such that efforts to live the best life we can often don’t come as naturally or as strongly as the basic instinct to survive. Avoiding death is our number one priority and that single goal dwarfs everything else.
 
-For example, I’m sure if I ask you if you want to survive or really thrive, you choose thriving. But our biology is such that efforts to live the best life we can often don’t come as naturally or as strongly as the basic instinct to survive. Avoiding death is our number one priority and that single goal dwarfs everything else. My friend Cooper Ritchie put it well when he said, the human brain is wired to be irrational about death.
+My friend Cooper Ritchie put it well when he said, the human brain is wired to be irrational about death. People avoid the subject of death. They behave as if it’s never coming and too many don’t plan for it. It’s just some sort of mystery date in one’s future when we expire.
 
-People avoid the subject of death. They behave as if it’s never coming and too many don’t plan for it. It’s just some sort of mystery date in one’s future when we expire. This kind of blanket denial explains why so many people are willing to spend tens or even hundreds of thousands of dollars to prolong life for just a few more weeks.
-
-Think about it. That’s money that they spent years or decades working for. They gave up years of their life while healthy and vibrant
+This kind of blanket denial explains why so many people are willing to spend tens or even hundreds of thousands of dollars to prolong life for just a few more weeks. Think about it. That’s money that they spent years or decades working for. They gave up years of their life while healthy and vibrant
 
 
 <a id="sec-015539"></a>
@@ -1438,21 +1436,21 @@ Think of one way in which you can invest your time or your money to improve your
 
 to Live by Dr. Joel Fuhrman. Do more of the physical activities that you already enjoy, such as dancing or hiking, that will also improve your enjoyment of future experiences. If your ability to enjoy experiences is more constrained by time than by money or by health, think of one or two ways you can spend some money now to free up more of your time.
 
-#### Chapter 7.
+#### Chapter 7. Start the time bucket your life.
 
-Start the time bucket your life. Rule number 7. Think of your life as distinct seasons. When my daughters were little, we loved watching Pooh’s Heffalump movie together.
+Rule number 7. Think of your life as distinct seasons. When my daughters were little, we loved watching Pooh’s Heffalump movie together. I think it’s the most wonderful kids movie there is, a sweet, innocent story about friendship.
 
-I think it’s the most wonderful kids movie there is, a sweet, innocent story about friendship. We watched it many times, but then one day, when my younger daughter was 10, I suggested we watch the Heffalump movie and, to my astonishment, she just wasn’t interested anymore. All of a sudden, she thought she was too old for it. If someone had told me by this date my kid would stop wanting to watch the Heffalump movie, I probably would have watched it with her a lot more.
+We watched it many times, but then one day, when my younger daughter was 10, I suggested we watch the Heffalump movie and, to my astonishment, she just wasn’t interested anymore. All of a sudden, she thought she was too old for it. If someone had told me by this date my kid would stop wanting to watch the Heffalump movie, I probably would have watched it with her a lot more. Unfortunately, in real life, you rarely get an exact date when you will no longer be able to do something.
 
-Unfortunately, in real life, you rarely get an exact date when you will no longer be able to do something. These things just seem to fade away. And until they’re gone, you don’t give their gradual demise much thought, if any. You just kinda assume that some things will last forever, but of course, they don’t.
+These things just seem to fade away. And until they’re gone, you don’t give their gradual demise much thought, if any. You just kinda assume that some things will last forever, but of course, they don’t. That’s sad, granted, but there’s good news.
 
-That’s sad, granted, but there’s good news. It’s realizing that they don’t last forever, that everything eventually fades and dies, can make you appreciate everything more in the here and now. This entire book is predicated on the hard, cold truth that we will all die. As we age, our health will gradually decline.
+It’s realizing that they don’t last forever, that everything eventually fades and dies, can make you appreciate everything more in the here and now. This entire book is predicated on the hard, cold truth that we will all die. As we age, our health will gradually decline. But there’s another, less obvious truth about dying that has important implications for how you should live your life.
 
-But there’s another, less obvious truth about dying that has important implications for how you should live your life. We all die a multitude of deaths throughout our lives. I’ll explain that shortly. This chapter explores the practical implications of this universal process of passing from one stage in your life to the next.
+We all die a multitude of deaths throughout our lives. I’ll explain that shortly. This chapter explores the practical implications of this universal process of passing from one stage in your life to the next. In addition, this chapter gives you a tool known as time-bucketing for planning your life experiences accordingly.
 
-In addition, this chapter gives you a tool known as time-bucketing for planning your life experiences accordingly. No clear endpoints. My experience with the Heflump movie is just one example. For several years, I was living the life of a dad who watches his favorite kids' movies surrounded by his young children.
+No clear endpoints. My experience with the Heflump movie is just one example. For several years, I was living the life of a dad who watches his favorite kids' movies surrounded by his young children. But then one day, that stage of my life and theirs was gone.
 
-But then one day, that stage of my life and theirs was gone. I’m still here, of course, and I can still enjoy other experiences with my daughters, watching their soccer games and dance recitals, for example, and taking them on trips. But someday they will grow up and that version of me will disappear too. Likewise, but for reasons of my own inevitable aging, there will eventually be a last time I ever go wave running, and the last time I play in a poker tournament, and the last time I’ll be able to board a plane and fly somewhere exotic.
+I’m still here, of course, and I can still enjoy other experiences with my daughters, watching their soccer games and dance recitals, for example, and taking them on trips. But someday they will grow up and that version of me will disappear too. Likewise, but for reasons of my own inevitable aging, there will eventually be a last time I ever go wave running, and the last time I play in a poker tournament, and the last time I’ll be able to board a plane and fly somewhere exotic.
 
 Some of these final experiences will come sooner than others, but all will definitely come at some point, hopefully in the far distant future. Now, I’m not trying to be morbid, nor am I trying to present so much in the way of gloom and doom. My point, and this is important, is that the day I die and the day I stop being able to enjoy certain experiences are two distinctly different dates. And this is true for everyone.
 

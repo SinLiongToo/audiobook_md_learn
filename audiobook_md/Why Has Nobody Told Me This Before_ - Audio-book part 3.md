@@ -33,57 +33,57 @@
 <a id="sec-000000"></a>
 ### ⏱️ [00:00:00 - 00:05:02]
 
-#### Chapter 21.
+#### Chapter 21. Being Enough. The brick wall that most people hit on their way to self-acceptance is. The misconception that it will cause laziness and complacency.
 
-Being Enough. The brick wall that most people hit on their way to self-acceptance is. The misconception that it will cause laziness and complacency. They.
+They. Think that self-acceptance means believing you are okay just as you are. Therefore you will have no motivation for improvement, work, achievement or change. In reality, the research shows us that those.
 
-Think that self-acceptance means believing you are okay just as you are. Therefore you will have no motivation for improvement, work, achievement or change. In reality, the research shows us that those. Who develop self-acceptance and learn to be self-compassionate are.
+Who develop self-acceptance and learn to be self-compassionate are. Less likely to fear failure, more likely to persevere and try again when. They do fail and generally have more self-confidence, any at all, 2005. Self-acceptance and the compassion we show ourselves when we are.
 
-Less likely to fear failure, more likely to persevere and try again when. They do fail and generally have more self-confidence, any at all, 2005. Self-acceptance and the compassion we show ourselves when we are. Accepting of the self is not the same as becoming indy-errant to the.
+Accepting of the self is not the same as becoming indy-errant to the. World and passively resigning yourself to accept defeat when things are. Tough. Having unconditional love for yourself means doing the opposite.
 
-World and passively resigning yourself to accept defeat when things are. Tough. Having unconditional love for yourself means doing the opposite. Sometimes.
+Sometimes. It can mean taking the more D. I cult road because it is in. Your best interests.
 
-It can mean taking the more D. I cult road because it is in. Your best interests. It is refusing to kick yourself while you are down or.
+It is refusing to kick yourself while you are down or. Indulging in self-loathing and instead using every ounce of strength to. Pull yourself back upper or a fall. The D.
 
-Indulging in self-loathing and instead using every ounce of strength to. Pull yourself back upper or a fall. The D. I.
+I. Arence is that when you strive, you do so from a place of love. And contentment rather than striving from a place of fear and scarcity. If we don’t do the work to develop self-acceptance, we set ourselves.
 
-Arence is that when you strive, you do so from a place of love. And contentment rather than striving from a place of fear and scarcity. If we don’t do the work to develop self-acceptance, we set ourselves. Up to live a life in which we may need constant reassurance, get.
+Up to live a life in which we may need constant reassurance, get. Trapped in jobs we hate or relationships that cause us harm, or find. Ourselves living with resentment. So how do we start developing self-acceptance?
 
-Trapped in jobs we hate or relationships that cause us harm, or find. Ourselves living with resentment. So how do we start developing self-acceptance? Understanding yourself.
+Understanding yourself. Sounds simple, but many people go through life without much in the. Way of examining their own par-earns of behavior that impact on their. Experience of life.
 
-Sounds simple, but many people go through life without much in the. Way of examining their own par-earns of behavior that impact on their. Experience of life. To build self-acceptance we first need to understand.
+To build self-acceptance we first need to understand. Who we are and who we want to be. That comes from practicing self-awareness. We become self-aware through self-reflection.
 
-Who we are and who we want to be. That comes from practicing self-awareness. We become self-aware through self-reflection. Keeping.
+Keeping. Journals, going to a therapist or talking to friends can all help us to. Reflect on ourselves and our experience in a way that enables us to. Learn more about who we are and why we do what we do.
 
-Journals, going to a therapist or talking to friends can all help us to. Reflect on ourselves and our experience in a way that enables us to. Learn more about who we are and why we do what we do. Self-acceptance involves listening to our own needs and meeting them.
+Self-acceptance involves listening to our own needs and meeting them. If. We are not paying an end tie on, we don’t always pick up on the signs. During that process it is important to be attentive to the parts of us.
 
-If. We are not paying an end tie on, we don’t always pick up on the signs. During that process it is important to be attentive to the parts of us. That we feel proud of and the parts of us that we may prefer not to.
+That we feel proud of and the parts of us that we may prefer not to. Think about, the things we dislike, feel anxious or regretful about, or. Want to change. But when we do reflect on those more DI cult aspects.
 
-Think about, the things we dislike, feel anxious or regretful about, or. Want to change. But when we do reflect on those more DI cult aspects. Of the self, it is crucial that we come at it with the compassion of an.
+Of the self, it is crucial that we come at it with the compassion of an. Observer if we are to learn. If reflecting on DI cult situations triggers. Intense emotions that make it harder to think clearly, it can be helpful.
 
-Observer if we are to learn. If reflecting on DI cult situations triggers. Intense emotions that make it harder to think clearly, it can be helpful. To get support from a therapist to help us work through it.
+To get support from a therapist to help us work through it. Painting the picture of self-acceptance. Let’s say that from the moment you closed this book you started living. Your life with unconditional self-acceptance.
 
-Painting the picture of self-acceptance. Let’s say that from the moment you closed this book you started living. Your life with unconditional self-acceptance. What would that look like?
+What would that look like? What would you do DI errantly? What would you say yes to? What?
 
-What would you do DI errantly? What would you say yes to? What? Would you say no to?
+Would you say no to? What would you work harder on? What would. You let go of.
 
-What would you work harder on? What would. You let go of. How would you speak to yourself?
+How would you speak to yourself? How would you speak. To others. Try writing down your answers to those questions in great detail and.
 
-How would you speak. To others. Try writing down your answers to those questions in great detail and. Create a vision of how the idea of self-acceptance would translate into.
+Create a vision of how the idea of self-acceptance would translate into. Behavior change for you. As with most changes, the action comes first. And the feeling comes later.
 
-Behavior change for you. As with most changes, the action comes first. And the feeling comes later. So living a life in which you feel a sense of.
+So living a life in which you feel a sense of. Self-worth means making it a life practice. The work is never done. You.
 
-Self-worth means making it a life practice. The work is never done. You. Never arrive.
+Never arrive. You do the work every day to live in line with. Unconditional self-acceptance. Accepting all of you.
 
-You do the work every day to live in line with. Unconditional self-acceptance. Accepting all of you. While you maintain a sense of self that stays with you throughout your.
+While you maintain a sense of self that stays with you throughout your. Life, you also experience a wide range of emotional states that are. Constantly in motion, changing from one moment to the next. We take.
 
-Life, you also experience a wide range of emotional states that are. Constantly in motion, changing from one moment to the next. We take. On DI errant roles and behaviors in DI errant scenarios and many.
+On DI errant roles and behaviors in DI errant scenarios and many. People see those as DI errant parts of themselves. Depending on our. Early life experiences and how the world responded to those emotion.
 
-People see those as DI errant parts of themselves. Depending on our. Early life experiences and how the world responded to those emotion. States, we can feel that some parts of the self are less acceptable than.
+States, we can feel that some parts of the self are less acceptable than. Others. If anger was unacceptable for you growing up, then it might feel. Much harder to treat yourself with compassion and acceptance when.
 
-Others. If anger was unacceptable for you growing up, then it might feel. Much harder to treat yourself with compassion and acceptance when. You are feeling angry.
+You are feeling angry. This makes self-acceptance conditional on how. You feel. Try this.
 
-This makes self-acceptance conditional on how. You feel. Try this. You can build your awareness
+You can build your awareness
 
 
 <a id="sec-000502"></a>
@@ -181,41 +181,41 @@ Lasiness. Complacency and lack of drive. In reality the research shows us that t
 
 Self acceptance is not the same as passively accepting defeat. Self compassion OEN involves taking the more DI cult road. That is in your best interests.
 
-#### Chapter 22.
+#### Chapter 22. Make anxiety disappear.
 
-Make anxiety disappear. For as long as I can remember. I have had a fear of heights. For the.
+For as long as I can remember. I have had a fear of heights. For the. Most part one was able to avoid them.
 
-Most part one was able to avoid them. Growing up. But when I met my. Now husband.
+Growing up. But when I met my. Now husband. We went on a trip to Italy together.
 
-We went on a trip to Italy together. We went to visit the. Leaning tower of Pisa and as we stood looking at it he held out two. Tickets.
+We went to visit the. Leaning tower of Pisa and as we stood looking at it he held out two. Tickets. We were going to the top.
 
-We were going to the top. A deep intake of breath was. Followed by another glance up at the tower that leans at three point nine nine degrees. And looks worryingly close to falling over.
+A deep intake of breath was. Followed by another glance up at the tower that leans at three point nine nine degrees. And looks worryingly close to falling over. My heart started to beat against my rib cage and I felt sick.
 
-My heart started to beat against my rib cage and I felt sick. But the. Tickets were bought so up we went. To get to the top of the leaning.
+But the. Tickets were bought so up we went. To get to the top of the leaning. Tower of Pisa you climb the narrow stone steps that spiral around.
 
-Tower of Pisa you climb the narrow stone steps that spiral around. Inside the tower. The ground beneath your feet is not level and as you. Scale the tower you get the sensation that it is starting to fall over.
+Inside the tower. The ground beneath your feet is not level and as you. Scale the tower you get the sensation that it is starting to fall over. At.
 
-At. Least that was my assessment at the time. With a queue of people. Behind me I kept going.
+Least that was my assessment at the time. With a queue of people. Behind me I kept going. Once at the top the tilt feels even worse.
 
-Once at the top the tilt feels even worse. Everyone walked straight over to the edge to take in the view. I had the. Overwhelming urge to get closer to the ground.
+Everyone walked straight over to the edge to take in the view. I had the. Overwhelming urge to get closer to the ground. I moved as far away.
 
-I moved as far away. From the edge as I could get and dropped to the ground. There was a. Vega amped to make it look like I was just sighing down casually to.
+From the edge as I could get and dropped to the ground. There was a. Vega amped to make it look like I was just sighing down casually to. Have a rest.
 
-Have a rest. But by now my fear of embarrassment was outweighed by. My fear of falling to my death. Of course, sighing on the floor made me.
+But by now my fear of embarrassment was outweighed by. My fear of falling to my death. Of course, sighing on the floor made me. No safer.
 
-No safer. But it was not based on logic. My brain was sending out strong. Signals to the rest of my body to get down.
+But it was not based on logic. My brain was sending out strong. Signals to the rest of my body to get down. I even found myself looking.
 
-I even found myself looking. Down at the slab of stone to avoid looking out at the view. Marhu. Took a picture of me crouching on the floor and we now have a funny.
+Down at the slab of stone to avoid looking out at the view. Marhu. Took a picture of me crouching on the floor and we now have a funny. Memory to look back on.
 
-Memory to look back on. But what was going on at the time? Why did I. Have the urge to get on the floor.
+But what was going on at the time? Why did I. Have the urge to get on the floor. My phobia, learned early in childhood, meant that the moment I saw.
 
-My phobia, learned early in childhood, meant that the moment I saw. Those tickets and imagined climbing to the top of the tower, my body. Reacted. My heart started beating faster, my breathing became shallow.
+Those tickets and imagined climbing to the top of the tower, my body. Reacted. My heart started beating faster, my breathing became shallow. And fast, my palms sweaty.
 
-And fast, my palms sweaty. The building being oh balance only. Contributed to my predictions that I would fall to my death at any. Moment.
+The building being oh balance only. Contributed to my predictions that I would fall to my death at any. Moment. But the brain’s alarm system, which was sounding and telling.
 
-But the brain’s alarm system, which was sounding and telling. Me to get to safety, is more like a smoke alarm. It doesn’t have time to. Take account of all the facts.
+Me to get to safety, is more like a smoke alarm. It doesn’t have time to. Take account of all the facts. Its job is to sense danger and let me know.
 
-Its job is to sense danger and let me know. It takes its information from the distress signals in my body. Information. About my surroundings from. my senses, and pieces that together with.
+It takes its information from the distress signals in my body. Information. About my surroundings from. my senses, and pieces that together with.
 
 
 <a id="sec-001503"></a>
@@ -291,41 +291,41 @@ Our attempts to control fear and eliminate it become the real. Problem that dict
 
 More detail.
 
-#### Chapter 23.
+#### Chapter 23. Things we do that make. Anxiety worse. When we feel anxious about something, the most natural human.
 
-Things we do that make. Anxiety worse. When we feel anxious about something, the most natural human. Response is to avoid it.
+Response is to avoid it. We know that if we stay away, we’ll feel safe, for. Now. But avoidance not only maintains anxiety, it makes it worse over.
 
-We know that if we stay away, we’ll feel safe, for. Now. But avoidance not only maintains anxiety, it makes it worse over. Your brain learns like a scientist.
+Your brain learns like a scientist. Each time it has an experience. Positive or negative, it clocks that as evidence for its beliefs. If you.
 
-Each time it has an experience. Positive or negative, it clocks that as evidence for its beliefs. If you. Avoid the thing you fear, you never give yourself the chance to build up.
+Avoid the thing you fear, you never give yourself the chance to build up. Evidence in your mind that you can get through it and survive. Just. Telling your brain that something is safe is not enough.
 
-Evidence in your mind that you can get through it and survive. Just. Telling your brain that something is safe is not enough. You must.
+You must. Experience it. Your brain will take some convincing, so you need to repeat that. Behavior over and over.
 
-Experience it. Your brain will take some convincing, so you need to repeat that. Behavior over and over. As many times as it takes.
+As many times as it takes. The things you do. Most of the time become your comfort zone. So, if you want to feel.
 
-The things you do. Most of the time become your comfort zone. So, if you want to feel. Less anxious about something.
+Less anxious about something. Do it as OEM as you can. Use the skills to. Help you sit with the anxiety and it will reduce over time.
 
-Do it as OEM as you can. Use the skills to. Help you sit with the anxiety and it will reduce over time. When we learn to face the things that make us feel afraid, we get.
+When we learn to face the things that make us feel afraid, we get. Stronger. When we do that day a day, over time we develop a sense. Of growth.
 
-Stronger. When we do that day a day, over time we develop a sense. Of growth. Imagine if, over the next five years, you made your decisions.
+Imagine if, over the next five years, you made your decisions. Based on the life you want to have, instead of fear. We avoid the discomfort of fear in so many ways. If you feel anxious.
 
-Based on the life you want to have, instead of fear. We avoid the discomfort of fear in so many ways. If you feel anxious. About a social event, you may avoid it by not going.
+About a social event, you may avoid it by not going. Or maybe you do. Go, but you drink to excess before you go. Drinking may dampen that.
 
-Or maybe you do. Go, but you drink to excess before you go. Drinking may dampen that. Anxiety in the moment, leaving you feeling the need to do the same at.
+Anxiety in the moment, leaving you feeling the need to do the same at. The next social event. These safety behaviors work in the same way to. Numb the anxiety in the moment.
 
-The next social event. These safety behaviors work in the same way to. Numb the anxiety in the moment. But they don’t help us to feel less.
+But they don’t help us to feel less. Afraid in the future.
 
-Afraid in the future. In fact, they do the opposite. They feed the anxiety. For the future and we become dependent on using those safety.
+In fact, they do the opposite. They feed the anxiety. For the future and we become dependent on using those safety. Behaviors, making life even harder.
 
-Behaviors, making life even harder. There is a list of some common safety behaviors that ease anxiety in. The moment, but keep us stuck in the long term. Escape.
+There is a list of some common safety behaviors that ease anxiety in. The moment, but keep us stuck in the long term. Escape. Whether it be in a social situation, the supermarket, or a.
 
-Whether it be in a social situation, the supermarket, or a. Confined space, when anxiety hits we have the urge to get out of there. As quickly as possible. Anxious avoidance, the moment you say no to that invitation to.
+Confined space, when anxiety hits we have the urge to get out of there. As quickly as possible. Anxious avoidance, the moment you say no to that invitation to. Avoid the social situation or opt for food deliveries to avoid the anxious.
 
-Avoid the social situation or opt for food deliveries to avoid the anxious. Everything you get in the supermarket, you are rewarded with instant relief. Phew. I don’t have to face that feeling today.
+Everything you get in the supermarket, you are rewarded with instant relief. Phew. I don’t have to face that feeling today. But the longer you stay.
 
-But the longer you stay. Away from something, the more the fear seems to grow. Then the day. Comes that you need to face it once again and it now feels.
+Away from something, the more the fear seems to grow. Then the day. Comes that you need to face it once again and it now feels. Overwhelming.
 
-Overwhelming. Compensatory strategies. This can happen or are experiencing a high. Anxiety state.
+Compensatory strategies. This can happen or are experiencing a high. Anxiety state.
 
 For example, someone with a fear of contamination or. Sickness may wash excessively or being in a hospital searing. Anticipation, also called sensitization, this is when we rehearse and. Anticipate various worst case scenarios that may occur in a feared.
 
@@ -351,51 +351,49 @@ You must experience it to truly believe it. Your brain will take some convincing
 
 If you want to feel less anxious about something, do it as OEN as you can.
 
-#### Chapter 24.
+#### Chapter 24. How to calm anxiety right now. If you struggle with anxiety, you are probably hoping for a tip that you. Can use right now.
 
-How to calm anxiety right now. If you struggle with anxiety, you are probably hoping for a tip that you. Can use right now. Something easy to learn that will have instant.
+Something easy to learn that will have instant. EX. Many people feel this way at the beginning of therapy. That is.
 
-EX. Many people feel this way at the beginning of therapy. That is. Why I always teach people this first skill as early as possible.
+Why I always teach people this first skill as early as possible. It is easy to. Learn and takes just a few minutes to bring down the intensity of. Anxiety.
 
-It is easy to. Learn and takes just a few minutes to bring down the intensity of. Anxiety. At the very least, it prevents anxiety from escalating into.
+At the very least, it prevents anxiety from escalating into. Panic. When anxiety is triggered, you start breathing more quickly. This is.
 
-Panic. When anxiety is triggered, you start breathing more quickly. This is. Your body’s way of GEing in extra oxygen to fuel the survival.
+Your body’s way of GEing in extra oxygen to fuel the survival. Response. You feel as though you cannot catch your breath. So you breathe.
 
-Response. You feel as though you cannot catch your breath. So you breathe. Faster with rapid, shallow breaths, then you have an excess of oxygen in.
+Faster with rapid, shallow breaths, then you have an excess of oxygen in. Your system. If you slow your breathing down, you can calm the body. And, in turn, slow your breathing.
 
-Your system. If you slow your breathing down, you can calm the body. And, in turn, slow your breathing. Not only this, but if you can extend.
+Not only this, but if you can extend. The out breath so that it is longer or more vigorous than the in breath. This helps to slow your heart rate down. When the pounding heart.
 
-The out breath so that it is longer or more vigorous than the in breath. This helps to slow your heart rate down. When the pounding heart. Comes down, so does the anxiety response.
+Comes down, so does the anxiety response. Some people like to count the breaths when doing an extended. Out breath, such as breathing in for a count of 7 and out for a count of. 11, or a variation that works for you. Taking some time to practice slow breathing techniques is a great.
 
-Some people like to count the breaths when doing an extended. Out breath, such as breathing in for a count of 7 and out for a count of. 11, or a variation that works for you. Taking some time to practice slow breathing techniques is a great. Investment of time.
+Investment of time. It’s an anxiety management tool that works in the. Moment. Do it anywhere, any time and nobody even needs to.
 
-It’s an anxiety management tool that works in the. Moment. Do it anywhere, any time and nobody even needs to. Know you are doing it.
+Know you are doing it. One of my favorites is square breathing. Just. Follow the steps below.
 
-One of my favorites is square breathing. Just. Follow the steps below. Toolkit.
+Toolkit. Square breathing. Step 1. Focus your gaze on something square, a nearby window, door, picture frame or computer screen.
 
-Square breathing. Step 1. Focus your gaze on something square, a nearby window, door, picture frame or computer screen. Step 2.
+Step 2. Focus your eyes on the Bo O M Lahand corner and as you. Breathe in, count to 4 and trace your eyes up to the top corner. Step 3.
 
-Focus your eyes on the Bo O M Lahand corner and as you. Breathe in, count to 4 and trace your eyes up to the top corner. Step 3. Hold your breath for 4 seconds as you trace your eyes across.
+Hold your breath for 4 seconds as you trace your eyes across. The top to the other corner. Step 4. As you breathe out, trace your eyes down to the Bo O M corner.
 
-The top to the other corner. Step 4. As you breathe out, trace your eyes down to the Bo O M corner. Counting to 4 once again.
+Counting to 4 once again. Step 5. Hold for 4 seconds as you move back to the Bo O M Lah corner. To start again.
 
-Step 5. Hold for 4 seconds as you move back to the Bo O M Lah corner. To start again. So, you breathe in for 4 seconds, hold for 4 seconds, out for 4 seconds.
+So, you breathe in for 4 seconds, hold for 4 seconds, out for 4 seconds. And hold for 4 seconds. Focusing on something square can act as a. Guide and help you to keep your end tie on on the breathing, minimizing.
 
-And hold for 4 seconds. Focusing on something square can act as a. Guide and help you to keep your end tie on on the breathing, minimizing. The chances of being distracted too soon.
+The chances of being distracted too soon. If you try it for a few minutes. And feel like it’s not working yet, keep going. It takes some time for.
 
-If you try it for a few minutes. And feel like it’s not working yet, keep going. It takes some time for. Your body to respond.
+Your body to respond. One extra tip is to practice this every day, at times when you don’t. Feel anxious. When something is well practiced, it is much easier to use.
 
-One extra tip is to practice this every day, at times when you don’t. Feel anxious. When something is well practiced, it is much easier to use. When you find yourself overwhelmed with fear.
+When you find yourself overwhelmed with fear. Movement. Another tool that has almost instant EX, and requires very Leela. Practice to master, is exercise.
 
-Movement. Another tool that has almost instant EX, and requires very Leela. Practice to master, is exercise. When your anxiety response is triggered.
+When your anxiety response is triggered. Your muscles fill up with oxygen and adrenaline, ready to move fast. If. You don’t move and burn oh that fuel, your body is like a rocket with.
 
-Your muscles fill up with oxygen and adrenaline, ready to move fast. If. You don’t move and burn oh that fuel, your body is like a rocket with. Engines firing and nowhere to go.
+Engines firing and nowhere to go. Bring on the trembling, shaking. Sweating and the urge to pace around the house. Exercise is one of the best anxiety management tools because it.
 
-Bring on the trembling, shaking. Sweating and the urge to pace around the house. Exercise is one of the best anxiety management tools because it. Follows the natural course of your threat response.
+Follows the natural course of your threat response. Your body is geared. Up to move. Allow it to do that and your body can use up the energy. and stress hormones it has produced and rebalance.
 
-Your body is geared. Up to move. Allow it to do that and your body can use up the energy. and stress hormones it has produced and rebalance. If you have a stressful day, try adding in a short jog outside, or an intense half hour with a punch bag.
-
-Physical movement will truly relieve your body
+If you have a stressful day, try adding in a short jog outside, or an intense half hour with a punch bag. Physical movement will truly relieve your body
 
 
 <a id="sec-003014"></a>
@@ -407,45 +405,43 @@ Your mental health will thank you for it. Chapter summary. When anxious our brea
 
 Try to make the out breath longer and more vigorous than the. In breath. Give it some time and the anxiety response will begin to drop.
 
-#### Chapter 25.
+#### Chapter 25. What to do with anxious.
 
-What to do with anxious. Thoughts. Like many other kids in the early 90s, I was allowed to stay up a leela. Later on a Friday evening to watch casualty, a television show about an. accident and emergency department.
+Thoughts. Like many other kids in the early 90s, I was allowed to stay up a leela. Later on a Friday evening to watch casualty, a television show about an. accident and emergency department. This particular episode, the only.
 
-This particular episode, the only. Episode 1 Remember to this day was about a man who lived on the. 6th floor of a block of flats. A fire breaks out downstairs and he is. Trapped.
+Episode 1 Remember to this day was about a man who lived on the. 6th floor of a block of flats. A fire breaks out downstairs and he is. Trapped. Not long later I am lying in bed, running through it in my mind.
 
-Not long later I am lying in bed, running through it in my mind. What would I do if my house caught on fire? Is the house on fire now? How would I know?
+What would I do if my house caught on fire? Is the house on fire now? How would I know? What if I wouldn’t wake up in time?
 
-What if I wouldn’t wake up in time? Maybe I should. Try and stay awake. Maybe I should open the bedroom door and check.
+Maybe I should. Try and stay awake. Maybe I should open the bedroom door and check. Downstairs.
 
-Downstairs. I lie there, eyes wide open, trying out DI errant scenarios in. My head. Imagining waking up my younger sister, who was in the room.
+I lie there, eyes wide open, trying out DI errant scenarios in. My head. Imagining waking up my younger sister, who was in the room. With me, opening the door to a cloud of smoke, opening the windows.
 
-With me, opening the door to a cloud of smoke, opening the windows. And calling for help. Soon the warm glow through the glass panel above. My bedroom door started to look more and more like the orange glow.
+And calling for help. Soon the warm glow through the glass panel above. My bedroom door started to look more and more like the orange glow. A fire.
 
-A fire. I remained still and silent, unable to move, listening for the. Crackling sounds and waiting for the smoke. That night, I not only believed that a fire in my home was possible, I.
+I remained still and silent, unable to move, listening for the. Crackling sounds and waiting for the smoke. That night, I not only believed that a fire in my home was possible, I. Saw it happening over and over in my own head.
 
-Saw it happening over and over in my own head. I bought into every. Scenario as if it were occurring. Played it over and over in my head like.
+I bought into every. Scenario as if it were occurring. Played it over and over in my head like. A movie.
 
-A movie. When a worrying thought pops into your head, it’s like driving past a. Car accident. You can’t not look at it.
+When a worrying thought pops into your head, it’s like driving past a. Car accident. You can’t not look at it. Thoughts of danger demand your.
 
-Thoughts of danger demand your. Entire on for a reason. Your brain is o’erring up a story for what might. Be happening and if there is a chance of the worst case scenario.
+Entire on for a reason. Your brain is o’erring up a story for what might. Be happening and if there is a chance of the worst case scenario. Happening, then you had beer be prepared.
 
-Happening, then you had beer be prepared. As I explained in a previous chapter, your brain acts a bit like a smoke. Alarm. Every time you sense a threat in your environment, that alarm.
+As I explained in a previous chapter, your brain acts a bit like a smoke. Alarm. Every time you sense a threat in your environment, that alarm. Gets triggered and tells your body to get into survival mode.
 
-Gets triggered and tells your body to get into survival mode. That is. Called your fight or flight response. Your body gears up to either fight.
+That is. Called your fight or flight response. Your body gears up to either fight. Oh, that threat or escape quicker than you ever thought you could move.
 
-Oh, that threat or escape quicker than you ever thought you could move. A smoke alarm is made to go. Oh, when there is a fire, a necessary tool for survival. Just like the smoke alarm, anxiety can be triggered.
+A smoke alarm is made to go. Oh, when there is a fire, a necessary tool for survival. Just like the smoke alarm, anxiety can be triggered. Even when we are not truly at risk.
 
-Even when we are not truly at risk. But when you burn the toast and the smoke alarm sounds, you don’t remove the smoke alarm. If you understand why it is there and how it works, you can start to work with it. Make adjustments.
+But when you burn the toast and the smoke alarm sounds, you don’t remove the smoke alarm. If you understand why it is there and how it works, you can start to work with it. Make adjustments. Open a window.
 
-Open a window. You get the idea. We cannot remove our survival response. We would not want to, but we can learn about what exacerbates it and make adjustments so that we can detect a false alarm and act accordingly.
+You get the idea. We cannot remove our survival response. We would not want to, but we can learn about what exacerbates it and make adjustments so that we can detect a false alarm and act accordingly. Get some distance.
 
-Get some distance. Thoughts are not facts. They are guesses, stories, memories, ideas and theories. They are a construct o’ed to you by your brain as one.
+Thoughts are not facts. They are guesses, stories, memories, ideas and theories. They are a construct o’ed to you by your brain as one. Potential explanation for the sensations you are experiencing right.
 
-Potential explanation for the sensations you are experiencing right. Now, we know they are not facts because they are so heavily. Influenced by your physical state, hormones, blood pressure, heart rate, digestion, hydration, to name just a few, by each of your senses and by your memories of past experience. So what does this mean for those anxious thoughts that pop into our heads?
+Now, we know they are not facts because they are so heavily. Influenced by your physical state, hormones, blood pressure, heart rate, digestion, hydration, to name just a few, by each of your senses and by your memories of past experience. So what does this mean for those anxious thoughts that pop into our heads? It means the power of that thought and any other thought is in how much we buy into it, how much we believe that thought to be a true reflection of reality.
 
-It means the power of that thought and any other thought is in how much we buy into it, how much we believe that thought to be a true reflection of reality. The best way to break down the power that thoughts have over our emotional state is to first get some distance from them. How do we get distance from something that is inside our head? GEing distance from thoughts can be done in a number of ways.
-
-Mindfulness is a great skill to start practicing for building that ability to
+The best way to break down the power that thoughts have over our emotional state is to first get some distance from them. How do we get distance from something that is inside our head? GEing distance from thoughts can be done in a number of ways. Mindfulness is a great skill to start practicing for building that ability to
 
 
 <a id="sec-003517"></a>
@@ -631,17 +627,15 @@ Chapter summary. Our collective fear of death is a fear of both the known and th
 
 Quite the opposite. Acceptance of death allows us to bring meaning to life.
 
-#### Chapter 27.
+#### Chapter 27. Is Stress Different From? Anxiety.
 
-Is Stress Different From? Anxiety. Stress and anxiety are both terms that have become widely used as umbrella terms for a diverse set of experiences. It is not unusual to hear.
+Stress and anxiety are both terms that have become widely used as umbrella terms for a diverse set of experiences. It is not unusual to hear. People say that they were stressed and so their anxiety got worse. Or, they might say the opposite.
 
-People say that they were stressed and so their anxiety got worse. Or, they might say the opposite. The result is that most people use the words interchangeably to describe an almost infinite number of experiences. They might be stressed about work deadlines or anxious about finding a spider in the bathroom.
+The result is that most people use the words interchangeably to describe an almost infinite number of experiences. They might be stressed about work deadlines or anxious about finding a spider in the bathroom. You might feel stressed because you had to wait in a queue at the post OCE that made you late. But, you might also describe dealing with stress at losing your job and struggling to pay rent.
 
-You might feel stressed because you had to wait in a queue at the post OCE that made you late. But, you might also describe dealing with stress at losing your job and struggling to pay rent. The next person might describe both of those as anxiety provoking. But you’ll notice that the two are each given their own sections in this book.
+The next person might describe both of those as anxiety provoking. But you’ll notice that the two are each given their own sections in this book. The experience of what we call stress is constructed through the same mechanisms in the brain as emotions are Feldman Barr. 2017. Your brain is constantly receiving information from your body about the demands of the outside world and trying to work out how.
 
-The experience of what we call stress is constructed through the same mechanisms in the brain as emotions are Feldman Barr. 2017. Your brain is constantly receiving information from your body about the demands of the outside world and trying to work out how. Much ought is needed. It tries to match the amount of energy being released in the body to the demands from the outside world to ensure that nothing is wasted.
-
-When our internal physiological state feels well matched to the environment we mostly interpret that as a positive feeling even when it involves stress for example when you feel pumped and ready for a big sports competition. But when that internal environment is not matched to the demands of the external world we tend to interpret that as negative when we are tired but wired and can’t get to sleep or when we are so stressed that we can’t seem to focus on the questions in an exam or job interview at such times we tend to experience the prediction that we cannot cope with current demands stress and anxiety are both associated with states of alertness but for the purposes of this book anxiety is associated with the feeling of fear and the excessive worry thoughts that come along with that experience in contrast the stress that you feel in the line at the post oce would have a di errant meaning to that of anxiety if you felt stressed in the line that might be because you had a tight schedule of things to get done that day that spike in stress would increase your alertness to help you make a decision about whether to continue in the line or reprioritize in order to meet your expectations of the day if the feeling was anxiety it is likely to be associated with worry thoughts and predictions that something threatening or dangerous might happen so while the mechanisms of stress and anxiety are the same we conceptualize them in di errant ways if you are lying in bed and here glass breaking downstairs your stress response will fire up but you are more likely to frame that sensation as anxiety and fear you might have the urge to phyto the threat or escape that same stress response is given di errant meaning when you are carrying around the threat of unemployment employment or struggling to manage the demands of both a job and parenting.
+Much ought is needed. It tries to match the amount of energy being released in the body to the demands from the outside world to ensure that nothing is wasted. When our internal physiological state feels well matched to the environment we mostly interpret that as a positive feeling even when it involves stress for example when you feel pumped and ready for a big sports competition. But when that internal environment is not matched to the demands of the external world we tend to interpret that as negative when we are tired but wired and can’t get to sleep or when we are so stressed that we can’t seem to focus on the questions in an exam or job interview at such times we tend to experience the prediction that we cannot cope with current demands stress and anxiety are both associated with states of alertness but for the purposes of this book anxiety is associated with the feeling of fear and the excessive worry thoughts that come along with that experience in contrast the stress that you feel in the line at the post oce would have a di errant meaning to that of anxiety if you felt stressed in the line that might be because you had a tight schedule of things to get done that day that spike in stress would increase your alertness to help you make a decision about whether to continue in the line or reprioritize in order to meet your expectations of the day if the feeling was anxiety it is likely to be associated with worry thoughts and predictions that something threatening or dangerous might happen so while the mechanisms of stress and anxiety are the same we conceptualize them in di errant ways if you are lying in bed and here glass breaking downstairs your stress response will fire up but you are more likely to frame that sensation as anxiety and fear you might have the urge to phyto the threat or escape that same stress response is given di errant meaning when you are carrying around the threat of unemployment employment or struggling to manage the demands of both a job and parenting.
 
 Those things are not perceived as immediate danger. We cannot fight them or escape them in the same way. So while we have simplified that stress response down to a fight or flight, in reality there are many ways in which the stress response can vary. There can be DI erances in the ratio of hormones released.
 
@@ -677,21 +671,21 @@ Something. The brain allows the release of energy to increase your. Alertness an
 
 But. This is one way the overall stress response can vary to meet. Your needs.
 
-#### Chapter 28.
+#### Chapter 28. Why Reducing Stress Is Not The.
 
-Why Reducing Stress Is Not The. Only answer. Reducing stress where we can is generally a good idea. But reducing the.
+Only answer. Reducing stress where we can is generally a good idea. But reducing the. Stress in your life is so frequently O-aired as a stress management.
 
-Stress in your life is so frequently O-aired as a stress management. Solution and it has never sat comfortably with me. One reason is that it. Is a vague term that nobody really knows what to do with, and the.
+Solution and it has never sat comfortably with me. One reason is that it. Is a vague term that nobody really knows what to do with, and the. Second is because many stresses are non-negotiable.
 
-Second is because many stresses are non-negotiable. While some stress in our lives is stress that we choose, the stress. Leading up to a sports competition or preparing for a big event like a. Wedding, the most intense stress we face is OEN not optional.
+While some stress in our lives is stress that we choose, the stress. Leading up to a sports competition or preparing for a big event like a. Wedding, the most intense stress we face is OEN not optional. A high pressure situation might be a boxer entering the ring but it might also.
 
-A high pressure situation might be a boxer entering the ring but it might also. Be entering the hospital to find out the results of your biopsy. It is. Working through your finances and realizing you might lose your home.
+Be entering the hospital to find out the results of your biopsy. It is. Working through your finances and realizing you might lose your home. These are the moments that bring huge stress responses and need real-time tools to help us deal with them in the healthiest, most e-science.
 
-These are the moments that bring huge stress responses and need real-time tools to help us deal with them in the healthiest, most e-science. Way Possible. We humans have a love-hate relationship with stress. We love the.
+Way Possible. We humans have a love-hate relationship with stress. We love the. Thrill of a horror movie or the speed of the roller coaster.
 
-Thrill of a horror movie or the speed of the roller coaster. We actively. Choose these spikes in our stress response and we anticipate them with. Huge excitement.
+We actively. Choose these spikes in our stress response and we anticipate them with. Huge excitement. We may feel out of control, but we know it’s just for a.
 
-We may feel out of control, but we know it’s just for a. Moment. We feel afraid, but at the same time we trust that we will live.
+Moment. We feel afraid, but at the same time we trust that we will live.
 
 
 <a id="sec-012038"></a>
@@ -737,19 +731,17 @@ It is also our most valuable tool. Learning to replenish a period of stress is m
 
 We need stress for a fun and challenging life, but too much. And the benefits are lost.
 
-#### Chapter 29.
+#### Chapter 29. When good stress goes bad. The stress response works at its best when it is short term and limited.
 
-When good stress goes bad. The stress response works at its best when it is short term and limited. When our circumstances cause continued stress that we cannot change. Or we don’t know how to bring that stress back down, our body is not.
+When our circumstances cause continued stress that we cannot change. Or we don’t know how to bring that stress back down, our body is not. Replenished for its aort. Imagine driving along the motorway at speed.
 
-Replenished for its aort. Imagine driving along the motorway at speed. In second gear. There is only so long you can keep that up before.
+In second gear. There is only so long you can keep that up before. Damage is done. When stress becomes sustained over long periods, our brain tends.
 
-Damage is done. When stress becomes sustained over long periods, our brain tends. Towards more habitual behaviors that demand less energy. Our ability.
+Towards more habitual behaviors that demand less energy. Our ability. To control our impulses, remember information and make decisions. Becomes impaired.
 
-To control our impulses, remember information and make decisions. Becomes impaired. Over time, our immune system is erected. In the.
+Over time, our immune system is erected. In the. Short term, adrenaline gives our immune function a boost to help fight. Bacterial and viral infections.
 
-Short term, adrenaline gives our immune function a boost to help fight. Bacterial and viral infections. But in the longer term, overproduction of. Adrenaline and abnormal par urns of cortisol are linked with shorter life.
-
-Expectancy. Kumori et al. 2011.
+But in the longer term, overproduction of. Adrenaline and abnormal par urns of cortisol are linked with shorter life. Expectancy. Kumori et al. 2011.
 
 
 <a id="sec-012538"></a>
@@ -795,25 +787,25 @@ Burnout is not just a workplace issue. There is no silver bullet that works for 
 
 If you are showing signs of burnout, listen to them and. Respond now by starting to meet your needs.
 
-#### Chapter 30.
+#### Chapter 30. Making stress work for you. In the previous section on fear, I talked about using breathing techniques as a fast way to calm the body and mind.
 
-Making stress work for you. In the previous section on fear, I talked about using breathing techniques as a fast way to calm the body and mind. See pages 200 202. Those techniques are just as helpful with stress.
+See pages 200 202. Those techniques are just as helpful with stress. Your breathing can directly impact on your heart rate and level of stress or calm. When you inhale, the diaphragm moves down creating more space in the chest, which allows the heart to expand further and the rate of the blood flow to slow down.
 
-Your breathing can directly impact on your heart rate and level of stress or calm. When you inhale, the diaphragm moves down creating more space in the chest, which allows the heart to expand further and the rate of the blood flow to slow down. When the brain receives the information about this, its job is to then send a signal to speed up the heart.
+When the brain receives the information about this, its job is to then send a signal to speed up the heart. In contrast, when you breathe out, the diaphragm moves up leaving a smaller space for the heart. And so the blood passes through quicker. This causes your brain to send signals to slow your heart down.
 
-In contrast, when you breathe out, the diaphragm moves up leaving a smaller space for the heart. And so the blood passes through quicker. This causes your brain to send signals to slow your heart down. When out breaths are longer and more forceful than in breaths, this slows the heart rate and calms the body.
+When out breaths are longer and more forceful than in breaths, this slows the heart rate and calms the body. When the in breaths are longer than the out breaths, we become more alert and activated.
 
-When the in breaths are longer than the out breaths, we become more alert and activated. Therefore, one of the most immediate ways to start calming your stress response is to make your exhales longer and more forceful than the in breaths. It’s worth noting that the aim when you are feeling overwhelmed with stress is not to go from agitated and worried to a relaxed and meditative state. When the world is demanding of us, we want to be alert.
+Therefore, one of the most immediate ways to start calming your stress response is to make your exhales longer and more forceful than the in breaths. It’s worth noting that the aim when you are feeling overwhelmed with stress is not to go from agitated and worried to a relaxed and meditative state. When the world is demanding of us, we want to be alert. As you use breathing techniques such as this one, you will notice that your mind’s ability to think more clearly and problem solve becomes more available to you.
 
-As you use breathing techniques such as this one, you will notice that your mind’s ability to think more clearly and problem solve becomes more available to you. In that sense, we are not trying to make it all go away and induce ultimate relaxation, but to put you in the best state possible in which you are able to use the advantages of the stress response, e.g. alertness, and bring down the intensity of the disadvantages, e.g. worry and overwhelm.
+In that sense, we are not trying to make it all go away and induce ultimate relaxation, but to put you in the best state possible in which you are able to use the advantages of the stress response, e.g. alertness, and bring down the intensity of the disadvantages, e.g. worry and overwhelm. However, if you are PU-ing time aside to practice relaxation or have interest in using breathwork, then you can use this technique over longer periods to bring about the physical state of deep relaxation.
 
-However, if you are PU-ing time aside to practice relaxation or have interest in using breathwork, then you can use this technique over longer periods to bring about the physical state of deep relaxation. That tends to be when you have more time and no distractions or current demands so that you can use longer out breaths or other relaxation techniques to help you relax. But when you are in the moment and you need to perform, then the breathing technique is a good choice for helping you get through the moment, turning to others.
+That tends to be when you have more time and no distractions or current demands so that you can use longer out breaths or other relaxation techniques to help you relax. But when you are in the moment and you need to perform, then the breathing technique is a good choice for helping you get through the moment, turning to others. I’m sure most parents can relate to the experience of lying in bed and running through in their minds what they do in the event of a house fire.
 
-I’m sure most parents can relate to the experience of lying in bed and running through in their minds what they do in the event of a house fire. You run through each possible scenario of how you could grab each. Of your children as quickly as possible. How does that need to protect?
+You run through each possible scenario of how you could grab each. Of your children as quickly as possible. How does that need to protect? Fit into a fight or flight mode?
 
-Fit into a fight or flight mode? Fight or flight does not tell the whole. Story. Connection with and protection of others is just as much a part.
+Fight or flight does not tell the whole. Story. Connection with and protection of others is just as much a part. Of our survival instinct as fighting that fire or escaping from it.
 
-Of our survival instinct as fighting that fire or escaping from it. Some. Stressful situations may lead
+Some. Stressful situations may lead
 
 
 <a id="sec-013545"></a>

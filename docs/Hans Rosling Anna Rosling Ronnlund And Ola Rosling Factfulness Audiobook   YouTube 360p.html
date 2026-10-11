@@ -66,26 +66,12 @@
       --card-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
     }
 
-    [data-line-height="compact"] {
-      --line-height: 1.68;
-    }
-    [data-line-height="normal"] {
-      --line-height: 1.88;
-    }
-    [data-line-height="loose"] {
-      --line-height: 2.12;
-    }
+    [data-line-height="compact"] { --line-height: 1.68; }
+    [data-line-height="normal"] { --line-height: 1.88; }
+    [data-line-height="loose"] { --line-height: 2.12; }
 
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
-    html {
-      scroll-behavior: smooth;
-    }
-
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
     body {
       font-family: var(--font-family);
       font-size: var(--font-size);
@@ -119,7 +105,7 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 0 20px;
+      padding: 0 18px;
       background-color: var(--bg-header);
       backdrop-filter: blur(8px);
       -webkit-backdrop-filter: blur(8px);
@@ -129,7 +115,7 @@
     .header-left, .header-right {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 8px;
       flex-wrap: nowrap;
     }
 
@@ -138,7 +124,7 @@
       border: 1px solid var(--border-color);
       color: var(--text-primary);
       cursor: pointer;
-      font-size: 14px;
+      font-size: 13.5px;
       padding: 6px 10px;
       border-radius: 8px;
       display: inline-flex;
@@ -147,6 +133,7 @@
       transition: all 0.2s;
       white-space: nowrap;
       user-select: none;
+      text-decoration: none;
     }
     .btn-icon:hover {
       background-color: var(--accent-light);
@@ -161,11 +148,132 @@
       font-size: 14px;
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
+    }
+    .home-link:hover { color: var(--accent-color); }
+
+    /* In-Page Search Bar Dropdown */
+    .inpage-search-bar {
+      position: sticky;
+      top: 60px;
+      z-index: 890;
+      background-color: var(--bg-surface);
+      border-bottom: 1px solid var(--border-color);
+      padding: 10px 18px;
+      display: none;
+      align-items: center;
+      gap: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    }
+    .inpage-search-bar.active { display: flex; }
+
+    .inpage-search-input-wrapper {
+      flex: 1;
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    .inpage-search-input {
+      width: 100%;
+      padding: 8px 36px 8px 12px;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      font-size: 14px;
+    }
+    .inpage-search-input:focus { outline: 2px solid var(--accent-color); }
+
+    .inpage-search-clear {
+      position: absolute;
+      right: 10px;
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 16px;
     }
 
-    .home-link:hover {
+    .inpage-search-count {
+      font-size: 13px;
+      color: var(--text-secondary);
+      font-family: monospace;
+      white-space: nowrap;
+    }
+    .search-nav-btns { display: flex; gap: 6px; }
+
+    /* In-Page Search Results Drawer */
+    .inpage-search-drawer {
+      position: fixed;
+      right: 20px;
+      top: 120px;
+      width: 360px;
+      max-height: calc(100vh - 160px);
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+      z-index: 895;
+      display: none;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .inpage-search-drawer.active { display: flex; }
+    .inpage-search-drawer-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-weight: 600;
+      font-size: 14px;
+    }
+    .inpage-search-drawer-list {
+      overflow-y: auto;
+      padding: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .search-result-item {
+      padding: 10px 12px;
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+      background: var(--bg-primary);
+      cursor: pointer;
+      font-size: 13px;
+      transition: all 0.15s;
+    }
+    .search-result-item:hover, .search-result-item.active {
+      border-color: var(--accent-color);
+      background: var(--accent-light);
+    }
+    .search-result-time {
+      font-weight: 700;
       color: var(--accent-color);
+      font-family: monospace;
+      margin-bottom: 4px;
+    }
+    .search-result-snippet {
+      color: var(--text-primary);
+      line-height: 1.5;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    /* Highlight mark */
+    mark.search-highlight {
+      background-color: #fef08a;
+      color: #1f2937;
+      padding: 1px 3px;
+      border-radius: 3px;
+    }
+    mark.search-highlight.active-match {
+      background-color: #f97316;
+      color: #ffffff;
+      outline: 2px solid #ea580c;
     }
 
     /* Layout Wrapper */
@@ -212,9 +320,7 @@
       font-size: 13px;
       margin-bottom: 14px;
     }
-    .toc-search:focus {
-      outline: 2px solid var(--accent-color);
-    }
+    .toc-search:focus { outline: 2px solid var(--accent-color); }
 
     .toc-list {
       list-style: none;
@@ -237,12 +343,10 @@
       overflow: hidden;
       text-overflow: ellipsis;
     }
-
     .toc-item a:hover {
       background-color: var(--accent-light);
       color: var(--accent-color);
     }
-
     .toc-item.active a {
       background-color: var(--accent-color);
       color: #ffffff;
@@ -257,19 +361,17 @@
       display: flex;
       justify-content: center;
     }
-
     .reader-container {
       width: 100%;
       max-width: var(--content-max-width);
     }
 
-    /* Book Hero / Header */
+    /* Book Hero */
     .book-hero {
       margin-bottom: 40px;
       padding-bottom: 24px;
       border-bottom: 2px solid var(--border-color);
     }
-
     .book-hero h1 {
       font-size: 2.1em;
       line-height: 1.35;
@@ -285,7 +387,6 @@
       gap: 10px;
       margin-top: 14px;
     }
-
     .meta-chip {
       display: inline-flex;
       align-items: center;
@@ -297,8 +398,13 @@
       font-size: 13px;
       font-weight: 500;
     }
+    .meta-chip.cat-badge {
+      background-color: #06b6d422;
+      color: #06b6d4;
+      font-weight: 600;
+    }
 
-    /* Content Typography & Enhanced Paragraphs */
+    /* Content Typography */
     .transcript-section {
       margin-bottom: 50px;
       scroll-margin-top: 80px;
@@ -349,25 +455,22 @@
       letter-spacing: 0.015em;
     }
 
-    /* Indented paragraph style (Traditional) */
+    /* Indented paragraph style */
     [data-p-style="indent"] .section-body p {
       text-indent: 2em;
       margin-bottom: 1.15em;
       line-height: var(--line-height);
     }
 
-    /* Block paragraph style (Modern with whitespace) */
+    /* Block paragraph style */
     [data-p-style="block"] .section-body p {
       text-indent: 0;
       margin-bottom: 1.55em;
       line-height: var(--line-height);
     }
+    .section-body p:last-child { margin-bottom: 0; }
 
-    .section-body p:last-child {
-      margin-bottom: 0;
-    }
-
-    /* Floating Navigation Controls */
+    /* Floating Tools */
     .floating-tools {
       position: fixed;
       bottom: 24px;
@@ -377,7 +480,6 @@
       gap: 10px;
       z-index: 800;
     }
-
     .float-btn {
       width: 44px;
       height: 44px;
@@ -399,7 +501,6 @@
       color: var(--accent-color);
     }
 
-    /* Overlay for mobile drawer */
     .backdrop {
       display: none;
       position: fixed;
@@ -419,36 +520,22 @@
         transform: translateX(-100%);
         box-shadow: 4px 0 16px rgba(0,0,0,0.15);
       }
-
-      .sidebar.open {
-        transform: translateX(0);
-      }
-
-      .backdrop.open {
-        display: block;
+      .sidebar.open { transform: translateX(0); }
+      .backdrop.open { display: block; }
+      .inpage-search-drawer {
+        left: 20px;
+        right: 20px;
+        width: auto;
       }
     }
 
     @media (max-width: 640px) {
-      :root {
-        --font-size: 17px;
-      }
-      .main-content {
-        padding: 24px 16px 60px 16px;
-      }
-      .book-hero h1 {
-        font-size: 1.55em;
-      }
-      .top-header {
-        padding: 0 10px;
-      }
-      .btn-icon {
-        padding: 5px 8px;
-        font-size: 13px;
-      }
-      [data-p-style="indent"] .section-body p {
-        text-indent: 1.5em;
-      }
+      :root { --font-size: 17px; }
+      .main-content { padding: 24px 16px 60px 16px; }
+      .book-hero h1 { font-size: 1.55em; }
+      .top-header { padding: 0 10px; }
+      .btn-icon { padding: 5px 7px; font-size: 12.5px; }
+      [data-p-style="indent"] .section-body p { text-indent: 1.5em; }
     }
   </style>
 </head>
@@ -464,6 +551,14 @@
       <a href="index.html" class="home-link" title="返回書架">
         🏠 書架
       </a>
+      <!-- Search Inside Book Button -->
+      <button class="btn-icon" id="search-toggle-btn" title="搜尋本書內文 (Ctrl+F)">
+        🔍 <span>搜尋內文</span>
+      </button>
+      <!-- Global Search Link -->
+      <a href="index.html?tab=search" class="btn-icon" title="前往全書庫全文檢索">
+        🌐 <span>全庫搜尋</span>
+      </a>
     </div>
 
     <div class="header-right">
@@ -473,7 +568,7 @@
       </button>
 
       <!-- Line Height Toggle -->
-      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 精簡)">
+      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 緊湊)">
         ↕ <span id="line-height-label">行距</span>
       </button>
 
@@ -492,6 +587,29 @@
       <button class="btn-icon" id="font-inc-btn" title="放大字級">A+</button>
     </div>
   </header>
+
+  <!-- In-Page Search Bar Dropdown -->
+  <div class="inpage-search-bar" id="inpage-search-bar">
+    <div class="inpage-search-input-wrapper">
+      <input type="text" id="inpage-search-input" class="inpage-search-input" placeholder="🔍 搜尋本書內文關鍵字 (按 Enter 尋找下一處，Esc 關閉)...">
+      <button class="inpage-search-clear" id="inpage-search-clear" title="清空">✕</button>
+    </div>
+    <span class="inpage-search-count" id="inpage-search-count">0 / 0</span>
+    <div class="search-nav-btns">
+      <button class="btn-icon" id="inpage-search-prev" title="上一處 (Shift+Enter)">▲</button>
+      <button class="btn-icon" id="inpage-search-next" title="下一處 (Enter)">▼</button>
+      <button class="btn-icon" id="inpage-search-close" title="關閉搜尋 (Esc)">✕</button>
+    </div>
+  </div>
+
+  <!-- In-Page Search Results Drawer -->
+  <div class="inpage-search-drawer" id="inpage-search-drawer">
+    <div class="inpage-search-drawer-header">
+      <span>搜尋結果清單</span>
+      <button class="btn-icon" id="inpage-drawer-close" style="padding: 2px 6px;">✕</button>
+    </div>
+    <div class="inpage-search-drawer-list" id="inpage-search-drawer-list"></div>
+  </div>
 
   <div class="backdrop" id="backdrop"></div>
 
@@ -619,6 +737,7 @@
         <header class="book-hero">
           <h1>Hans Rosling Anna Rosling Ronnlund And Ola Rosling Factfulness Audiobook   YouTube 360p</h1>
           <div class="book-meta-chips">
+            <span class="meta-chip cat-badge">🎯 領導與策略</span>
             <span class="meta-chip">🏷️ 時長：08:51:06</span>
 <span class="meta-chip">🏷️ 模型：small.en</span>
 <span class="meta-chip">🏷️ 日期：2026-09-22</span>
@@ -626,7 +745,7 @@
         </header>
 
         <!-- Transcript Content -->
-        <div class="book-body">
+        <div class="book-body" id="book-body">
           
         <section class="transcript-section" id="sec-000000">
           <div class="section-header">
@@ -785,8 +904,9 @@
 <p class="prose-p">I will have shown them that the world is completely different from what they thought. I will have proven to them that many of the changes they think will never happen have already happened. I will have been struggling to awaken their curiosity about what is possible, which is absolutely different from what they believe and from what they see in the news every day. I swallow the sword because I want the audience to realize how wrong their intuitions can be.</p>
 <p class="prose-p">I want them to realize that what I have shown them, both the sword swallowing and the material about the world that came before it, however much it conflicts with their preconceived ideas, however impossible it seems, is true. I want people when they realize that they have been wrong about the world to feel not embarrassment, but that childlike sense of wonder, inspiration, and curiosity that I remember from the circus and that I still get every time I discover I have been wrong.</p>
 <p class="prose-p">Wow! How is that even possible? This is a book about the world and how it really is. It is also a book about you and why you and almost everyone I have ever met do not see the world as it really is.</p>
-<p class="prose-p">It is about what you can do about it and how this will make you feel more positive, less stressed, and more hopeful as you walk out of the circus tent and back into the world. So, if you are more interested in being right than in continuing to live in your bubble, if you are willing to change your worldview, if you are ready for critical thinking to replace instinctive reaction, and if you are feeling humble, curious, and ready to be amazed, then please read on.</p>
-<h4 class="section-subhead">Chapter 1 The Gap Instinct Capturing a Monster in a Classroom Using Only a Piece of Paper Where it all started?</h4>
+<p class="prose-p">It is about what you can do about it and how this will make you feel more positive, less stressed, and more hopeful as you walk out of the circus tent and back into the world. So, if you are more interested in being right than in continuing to live in your bubble, if you are willing to change your worldview, if you are ready for critical thinking to replace instinctive reaction, and if you are feeling humble, curious, and ready to be amazed, then please read on.
+
+#### Chapter 1 The Gap Instinct Capturing a Monster in a Classroom Using Only a Piece of Paper Where it all started?</p>
 <p class="prose-p">It was October 1995 and little did I know that after my class that evening,</p>
           </div>
         </section>
@@ -1031,12 +1151,12 @@
 <p class="prose-p">Factfulness Factfulness is recognizing when a story talks about a gap and remembering that this paints a picture of two separate groups with a gap in between. The reality is often not polarized at all. Usually the majority is right there in the middle, where the gap is supposed to be. To control the gap instinct, look for the majority.</p>
 <p class="prose-p">Beware comparisons of averages. If you could check the spreads, you would probably find they overlap. There is probably no gap at all. Beware comparisons of extremes.</p>
 <p class="prose-p">In all groups of countries or people, there are some at the top and some at the bottom. The difference is sometimes extremely unfair, but even then, the majority is usually somewhere in between, right where the gap is supposed to be. The view from up here. Remember, looking down from above distorts the view.</p>
-<p class="prose-p">Everything else looks equally short, but it’s not.</p>
-<h4 class="section-subhead">Chapter 2 The Negativity Instinct How I was kind of born in Egypt and what a baby in an incubator can teach us about the world.</h4>
-<p class="prose-p">Which statement do you agree with most? A. The world is getting better. B.</p>
-<p class="prose-p">The world is getting worse. C. The world is getting neither better nor worse. Getting Out of the Ditch I remember being suddenly upside down.</p>
-<p class="prose-p">I remember the dark, the smell of urine, and being unable to breathe as my mouth and nostrils filled with mud. I remember struggling to turn myself upright, but only sinking deeper into the sticky liquid. I remember my arms stretched out behind me, desperately searching the grass for something to pull, then being suddenly hauled out by the ankles. My grandma putting me in the big sink on the kitchen floor and washing me gently with the hot water meant for the dishes, the scent of the soap.</p>
-<p class="prose-p">These are my earliest memories and were nearly my last. They are memories of my rescue, aged four, from the sewage ditch running in front of my grandma’s house. It was filled to the brim with a mix of last night’s rain and sewage slurry from the factory</p>
+<p class="prose-p">Everything else looks equally short, but it’s not.
+
+#### Chapter 2 The Negativity Instinct How I was kind of born in Egypt and what a baby in an incubator can teach us about the world. Which statement do you agree with most? A. The world is getting better.</p>
+<p class="prose-p">B. The world is getting worse. C. The world is getting neither better nor worse.</p>
+<p class="prose-p">Getting Out of the Ditch I remember being suddenly upside down. I remember the dark, the smell of urine, and being unable to breathe as my mouth and nostrils filled with mud. I remember struggling to turn myself upright, but only sinking deeper into the sticky liquid. I remember my arms stretched out behind me, desperately searching the grass for something to pull, then being suddenly hauled out by the ankles.</p>
+<p class="prose-p">My grandma putting me in the big sink on the kitchen floor and washing me gently with the hot water meant for the dishes, the scent of the soap. These are my earliest memories and were nearly my last. They are memories of my rescue, aged four, from the sewage ditch running in front of my grandma’s house. It was filled to the brim with a mix of last night’s rain and sewage slurry from the factory</p>
           </div>
         </section>
         
@@ -1243,14 +1363,15 @@
           </div>
           <div class="section-body">
             <p class="prose-p">When you see bad news, ask whether equally positive news would have reached you. Gradual improvement is not news. When a trend is gradually improving with periodic dips, you’re more likely to notice the dips than the overall improvement. More news does not equal more suffering.</p>
-<p class="prose-p">More bad news is sometimes due to better surveillance of suffering, not a worsening world. Beware of rosy pasts. People often glorify their early experiences, and nations often glorify their histories.</p>
-<h4 class="section-subhead">Chapter 3 The Straight Line Instinct How more survivors means fewer people, how traffic accidents are like cavities, and why my grandson is like the population of the world.</h4>
-<p class="prose-p">The most frightening graph I ever saw. Statistics can be terrifying. On September 23, 2014, I was sitting at my desk in the Gapminder office in Stockholm when I saw a line on a graph that gripped me with fear. I had been concerned about the Ebola outbreak in West Africa since August.</p>
-<p class="prose-p">Like others, I had seen the tragic images in the media of people dying in the streets of Monrovia, the capital of Liberia. But in my work, I often heard about sudden outbreaks of deadly diseases, and I had assumed it was just like most others, and would soon be contained. The graph in the World Health Organization research article shocked me into fear and then action. The researchers had collected all the Ebola data since the start of the epidemic and used it to calculate the expected number of new cases per day up to the end of October.</p>
-<p class="prose-p">They showed, for the first time, that the number of cases was not just increasing along a straight line, one, two, three, four, five. Instead the line was doubling like this, one, two, four, eight, sixteen. Each infected person was infecting, on average, two more people before dying. As a result, the number of new cases per day was doubling every three weeks.</p>
-<p class="prose-p">The graph showed how enormous the outbreak would soon become if each infected person kept infecting two more. Doubling is scary. I had first learned about the effect of doubling at school. In the Indian legend, the Lord Krishna asks for one grain of rice in the first square of the chessboard, then two grains on the second square, four grains on the third square, then eight and so on, doubling the number of grains each time.</p>
-<p class="prose-p">By the time he gets to the last of the sixty-four squares, he is owed eighteen quintillion, four hundred forty-six quadrillion, seven hundred forty-four trillion, seventy-three billion, seven hundred nine million, five hundred fifty-one thousand, six hundred fifteen grains of rice, enough to cover the whole of India with a layer of rice thirty inches deep. Anything that keeps doubling grows much faster than we first assume. So I knew the situation in West Africa was about to become desperate. Liberia was at risk of a catastrophe worse than its recently ended civil war, and one that would almost inevitably spread to the entire world.</p>
-<p class="prose-p">Unlike malaria, Ebola could spread quickly in all climates and could travel on airplanes, across borders and oceans, inside the bodies of unknowingly infected passengers. There was no effective treatment for it. People were already dying in the streets now. Within only nine weeks, the time needed for three doublings, the situation would be eight times as desperate.</p>
+<p class="prose-p">More bad news is sometimes due to better surveillance of suffering, not a worsening world. Beware of rosy pasts. People often glorify their early experiences, and nations often glorify their histories.
+
+#### Chapter 3 The Straight Line Instinct How more survivors means fewer people, how traffic accidents are like cavities, and why my grandson is like the population of the world. The most frightening graph I ever saw.</p>
+<p class="prose-p">Statistics can be terrifying. On September 23, 2014, I was sitting at my desk in the Gapminder office in Stockholm when I saw a line on a graph that gripped me with fear. I had been concerned about the Ebola outbreak in West Africa since August. Like others, I had seen the tragic images in the media of people dying in the streets of Monrovia, the capital of Liberia.</p>
+<p class="prose-p">But in my work, I often heard about sudden outbreaks of deadly diseases, and I had assumed it was just like most others, and would soon be contained. The graph in the World Health Organization research article shocked me into fear and then action. The researchers had collected all the Ebola data since the start of the epidemic and used it to calculate the expected number of new cases per day up to the end of October. They showed, for the first time, that the number of cases was not just increasing along a straight line, one, two, three, four, five.</p>
+<p class="prose-p">Instead the line was doubling like this, one, two, four, eight, sixteen. Each infected person was infecting, on average, two more people before dying. As a result, the number of new cases per day was doubling every three weeks. The graph showed how enormous the outbreak would soon become if each infected person kept infecting two more.</p>
+<p class="prose-p">Doubling is scary. I had first learned about the effect of doubling at school. In the Indian legend, the Lord Krishna asks for one grain of rice in the first square of the chessboard, then two grains on the second square, four grains on the third square, then eight and so on, doubling the number of grains each time. By the time he gets to the last of the sixty-four squares, he is owed eighteen quintillion, four hundred forty-six quadrillion, seven hundred forty-four trillion, seventy-three billion, seven hundred nine million, five hundred fifty-one thousand, six hundred fifteen grains of rice, enough to cover the whole of India with a layer of rice thirty inches deep.</p>
+<p class="prose-p">Anything that keeps doubling grows much faster than we first assume. So I knew the situation in West Africa was about to become desperate. Liberia was at risk of a catastrophe worse than its recently ended civil war, and one that would almost inevitably spread to the entire world. Unlike malaria, Ebola could spread quickly in all climates and could travel on airplanes, across borders and oceans, inside the bodies of unknowingly infected passengers.</p>
+<p class="prose-p">There was no effective treatment for it. People were already dying in the streets now. Within only nine weeks, the time needed for three doublings, the situation would be eight times as desperate.</p>
           </div>
         </section>
         
@@ -1432,18 +1553,19 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">No child ever kept up the rate of growth it achieved in its first six months, and no parents would expect it to.</p>
-<h4 class="section-subhead">Chapter 4 The Fear Instinct How to Hide 40 Million Airplanes and How I Kind of Won the Nobel Peace Prize Blood all over the floor.</h4>
-<p class="prose-p">On October 7, 1975, I was plastering a patient’s arm when an assistant nurse burst through the door and announced that a plane had crashed and the wounded were coming in by helicopter. It was my fifth day as a junior doctor on the emergency ward in the small coastal town of Hudiksvall in Sweden. All the senior staff were down in the dining hall, and as the assistant nurse and I searched frantically for the folder of disaster instructions, I could already hear the helicopter landing.</p>
-<p class="prose-p">The two of us were going to have to handle this on our own. Years later a stretcher was rolled in, bearing a man in dark green overalls and a camouflage life jacket. His arms and legs were twitching. An epileptic seizure, I thought, off with his clothes.</p>
-<p class="prose-p">I removed his life jacket easily, but his overalls were more problematic. They looked like a space suit, with huge sturdy zippers all over, and no matter how hard I tried, I couldn’t find the zipper that undid them. I had just registered that the uniform meant this was a military pilot when I noticed the blood all over the floor. He’s bleeding, I shouted.</p>
-<p class="prose-p">With this much blood I knew he could be dead in a matter of seconds, but with the overalls still on I couldn’t see where it was coming from. I grabbed a big pair of plaster pliers to cut through the fabric and howl to the assistant nurse—four bags of blood, O negative, now!&quot; To the patient, I shouted, where does it hurt? И А СИСИСИА Не А СИСИСИСИСИС. He replied. I couldn’t understand a word, but it sounded like Russian.</p>
-<p class="prose-p">I looked the man in the eyes and said with a clear voice, Висео тика товоришь шветскея балнитса, which means All is calm, comrade, Swedish hospital. I will never forget the look of panic I triggered with those words. Frightened out of his mind, he stared back at me and tried to tell me something. Врад Фрат пластре Ракстрий А СИСИСИСИСИС. I looked into his eyes full of fear, and then I realized, This must be a Russian fighter pilot who has been shot down over Swedish territory, which means that the Soviet Union is attacking us.</p>
-<p class="prose-p">World War III has started. I was paralyzed by fear. Fortunately, at that moment, the head nurse, Birgitta, came back from lunch. She snatched the plaster pliers from my hand and hissed, Don’t shred it.</p>
-<p class="prose-p">That’s an Air Force G-suit, and it costs more than ten thousand Swedish kronor. After a beat, she added, And can you please step off the life jacket? You’re standing on the color cartridge, and it’s making the whole floor red. Birgitta turned to the patient, calmly freed him from his G-suit, and wrapped him in a couple of blankets.</p>
-<p class="prose-p">In the meantime, she told him in Swedish, You were in the icy water for twenty-three minutes, which is why you are jerking and shivering, and why we can’t understand what you’re saying. The Swedish Air Force pilot, who had evidently crashed during a routine flight, gave me a comforting little smile. A few years ago, I contacted the pilot and was relieved to hear that he doesn’t remember a thing from those first minutes in the emergency room in 1975, but for me the experience is hard to forget.</p>
-<p class="prose-p">I will forever remember my complete misjudgment. Everything was the other way around. The Russian was Swedish, the war was peace, the epileptic seizure was cooling, and the blood was a color ampoule from inside the life jacket. But it had all seemed so convincing to me.</p>
-<p class="prose-p">When we are afraid, we do not see clearly. I was a young doctor facing my first emergency, and I had always been terrified by the prospect of a Third World War. As a child, I often had nightmares about it.</p>
+            <p class="prose-p">No child ever kept up the rate of growth it achieved in its first six months, and no parents would expect it to.
+
+#### Chapter 4 The Fear Instinct How to Hide 40 Million Airplanes and How I Kind of Won the Nobel Peace Prize Blood all over the floor. On October 7, 1975, I was plastering a patient’s arm when an assistant nurse burst through the door and announced that a plane had crashed and the wounded were coming in by helicopter. It was my fifth day as a junior doctor on the emergency ward in the small coastal town of Hudiksvall in Sweden.</p>
+<p class="prose-p">All the senior staff were down in the dining hall, and as the assistant nurse and I searched frantically for the folder of disaster instructions, I could already hear the helicopter landing. The two of us were going to have to handle this on our own.</p>
+<p class="prose-p">Years later a stretcher was rolled in, bearing a man in dark green overalls and a camouflage life jacket. His arms and legs were twitching. An epileptic seizure, I thought, off with his clothes. I removed his life jacket easily, but his overalls were more problematic.</p>
+<p class="prose-p">They looked like a space suit, with huge sturdy zippers all over, and no matter how hard I tried, I couldn’t find the zipper that undid them. I had just registered that the uniform meant this was a military pilot when I noticed the blood all over the floor. He’s bleeding, I shouted. With this much blood I knew he could be dead in a matter of seconds, but with the overalls still on I couldn’t see where it was coming from.</p>
+<p class="prose-p">I grabbed a big pair of plaster pliers to cut through the fabric and howl to the assistant nurse—four bags of blood, O negative, now!&quot; To the patient, I shouted, where does it hurt? И А СИСИСИА Не А СИСИСИСИСИС. He replied. I couldn’t understand a word, but it sounded like Russian. I looked the man in the eyes and said with a clear voice, Висео тика товоришь шветскея балнитса, which means All is calm, comrade, Swedish hospital.</p>
+<p class="prose-p">I will never forget the look of panic I triggered with those words. Frightened out of his mind, he stared back at me and tried to tell me something. Врад Фрат пластре Ракстрий А СИСИСИСИСИС. I looked into his eyes full of fear, and then I realized, This must be a Russian fighter pilot who has been shot down over Swedish territory, which means that the Soviet Union is attacking us. World War III has started.</p>
+<p class="prose-p">I was paralyzed by fear. Fortunately, at that moment, the head nurse, Birgitta, came back from lunch. She snatched the plaster pliers from my hand and hissed, Don’t shred it. That’s an Air Force G-suit, and it costs more than ten thousand Swedish kronor.</p>
+<p class="prose-p">After a beat, she added, And can you please step off the life jacket? You’re standing on the color cartridge, and it’s making the whole floor red. Birgitta turned to the patient, calmly freed him from his G-suit, and wrapped him in a couple of blankets. In the meantime, she told him in Swedish, You were in the icy water for twenty-three minutes, which is why you are jerking and shivering, and why we can’t understand what you’re saying.</p>
+<p class="prose-p">The Swedish Air Force pilot, who had evidently crashed during a routine flight, gave me a comforting little smile. A few years ago, I contacted the pilot and was relieved to hear that he doesn’t remember a thing from those first minutes in the emergency room in 1975, but for me the experience is hard to forget. I will forever remember my complete misjudgment. Everything was the other way around.</p>
+<p class="prose-p">The Russian was Swedish, the war was peace, the epileptic seizure was cooling, and the blood was a color ampoule from inside the life jacket. But it had all seemed so convincing to me. When we are afraid, we do not see clearly. I was a young doctor facing my first emergency, and I had always been terrified by the prospect of a Third World War.</p>
+<p class="prose-p">As a child, I often had nightmares about it.</p>
           </div>
         </section>
         
@@ -1619,13 +1741,13 @@
 <p class="prose-p">It makes a terrified junior doctor think about nuclear war when he should be treating hypothermia, and it makes whole populations focus on earthquakes and crashes. Whole populations focus on earthquakes and crashing planes and invisible substances when millions are dying from diarrhea and seaflores are becoming underwater deserts. I would like my fear to be focused on the mega-dangers of today and not the dangers from our evolutionary past. Factfulness Factfulness is—recognizing when frightening things get our attention and remembering that these are not necessarily the most risky.</p>
 <p class="prose-p">Our natural fears of violence, captivity, and contamination make us systematically overestimate these risks. To control the fear instinct, calculate the risks. The Scary World Fear versus Reality Reality. The world seems scarier than it is because what you hear about it has been selected by your own attention filter or by the media precisely because it is scary.</p>
 <p class="prose-p">Risk equals danger times exposure. The risk something poses to you depends not on how scared it makes you feel but on a combination of two things. How dangerous is it and how much are you exposed to it? Get calm before you carry on.</p>
-<p class="prose-p">When you’re afraid, you see the world differently. Make as few decisions as possible until the panic has subsided.</p>
-<h4 class="section-subhead">Chapter 5 The Size Instinct Putting War Memorials and bear attacks in proportion using two magic tools that you already possess.</h4>
-<p class="prose-p">The Deaths I Do Not See When I was a young doctor in Mozambique in the early 1980s, I had to do some very difficult math. The math was difficult because of what I was counting. I was counting dead children. Specifically, I was comparing the number of deaths among children admitted to our hospital in Nakhala with the number of children dying in their homes within the district we were supposed to serve.</p>
-<p class="prose-p">At that time, Mozambique was the poorest country in the world. In my first year in Nakhala district, I was the only doctor for a population of three hundred thousand people. In my second year, a second doctor joined me. We covered a population that in Sweden would have been served by one hundred doctors, and every morning on my way to work I said to myself, Today I must do the work of fifty doctors.</p>
-<p class="prose-p">We admitted around one thousand very sick children each year to the district’s one small hospital, which meant around three per day. I will never forget trying to save the lives of those children. All had very severe diseases, like diarrhea, pneumonia, and malaria, often complicated by anemia and malnutrition, and despite our best efforts, around one in twenty of them died. That was one child every week, almost all of whom we could have cured if we had had more and better resources and staff.</p>
-<p class="prose-p">The care we could provide was rudimentary—water and salt solutions and intramuscular injections. We did not give intravenous drips. The nurses had not yet acquired the skills to administer them, and it would have taken up too much of the doctor’s time to place and supervise the infusions. We rarely had oxygen tanks, and we had limited capacity for blood transfusions.</p>
-<p class="prose-p">This was the medicine of extreme poverty.</p>
+<p class="prose-p">When you’re afraid, you see the world differently. Make as few decisions as possible until the panic has subsided.
+
+#### Chapter 5 The Size Instinct Putting War Memorials and bear attacks in proportion using two magic tools that you already possess. The Deaths I Do Not See When I was a young doctor in Mozambique in the early 1980s, I had to do some very difficult math. The math was difficult because of what I was counting.</p>
+<p class="prose-p">I was counting dead children. Specifically, I was comparing the number of deaths among children admitted to our hospital in Nakhala with the number of children dying in their homes within the district we were supposed to serve. At that time, Mozambique was the poorest country in the world. In my first year in Nakhala district, I was the only doctor for a population of three hundred thousand people.</p>
+<p class="prose-p">In my second year, a second doctor joined me. We covered a population that in Sweden would have been served by one hundred doctors, and every morning on my way to work I said to myself, Today I must do the work of fifty doctors. We admitted around one thousand very sick children each year to the district’s one small hospital, which meant around three per day. I will never forget trying to save the lives of those children.</p>
+<p class="prose-p">All had very severe diseases, like diarrhea, pneumonia, and malaria, often complicated by anemia and malnutrition, and despite our best efforts, around one in twenty of them died. That was one child every week, almost all of whom we could have cured if we had had more and better resources and staff. The care we could provide was rudimentary—water and salt solutions and intramuscular injections. We did not give intravenous drips.</p>
+<p class="prose-p">The nurses had not yet acquired the skills to administer them, and it would have taken up too much of the doctor’s time to place and supervise the infusions. We rarely had oxygen tanks, and we had limited capacity for blood transfusions. This was the medicine of extreme poverty.</p>
           </div>
         </section>
         
@@ -1707,8 +1829,9 @@
 <p class="prose-p">More than 1.5 million Vietnamese and 58,000 Americans had died. Was this how the city commemorated such a catastrophe? Seeing that, I was disappointed. Niam drove me to see a bigger monument, a marble stone twelve feet high, to commemorate independence from French colonial rule.</p>
 <p class="prose-p">I was still underwhelmed. Then Niam asked me if I was ready to see the proper war monument. He drove a little way further and pointed out of the window. Of the treetops I could see a large pagoda covered in gold.</p>
 <p class="prose-p">It seemed about three hundred feet high. He said, “Here is where we commemorate our war heroes.” Isn’t it beautiful? This was the monument to Vietnam’s wars with China. The wars with China had lasted on and off for two thousand years.</p>
-<p class="prose-p">The French occupation had lasted two hundred years. The resistance war against America took only twenty years. The sizes of the monuments put things in perfect proportion. It was only by comparing them that I could understand the relative insignificance of the Vietnam War to the people who now live in Vietnam.</p>
-<h4 class="section-subhead">BEARS AND AXES.</h4>
+<p class="prose-p">The French occupation had lasted two hundred years. The resistance war against America took only twenty years. The sizes of the monuments put things in perfect proportion. It was only by comparing them that I could understand the relative insignificance of the Vietnam War to the people who now live in Vietnam.
+
+#### BEARS AND AXES.</p>
 <p class="prose-p">Marie Laschen was thirty-eight years old when she was killed by multiple blows to the head from an axe. It was the night of October 17, 2004. Marie’s former partner had broken into her house in the small town of Pitio in the north of Sweden and is waiting for her to come home. The tragic and brutal murder of a mother of three was barely reported in the national media and even the local newspaper gave it only modest coverage.</p>
 <p class="prose-p">That same day a forty-year-old father of three, also living in the far north of Sweden, was killed by a bear while out hunting. His name was Johann Westerlund and he was the first person killed by a bear in Sweden since 1902. This brutal, tragic and crucially rare event received massive coverage throughout Sweden. In Sweden a fatal bear attack is a once-in-a-century event.</p>
 <p class="prose-p">Meanwhile, a woman is killed by her partner every thirty days. This is a thirteen-hundred-fold difference in magnitude and yet one more domestic murder</p>
@@ -1770,8 +1893,9 @@
 <p class="prose-p">To check, we need to divide the total number of child deaths by the total number of births. In 1950, 97 million children were born and 14.4 million children died. To get the child mortality rate, we divide the number of deaths, 14.4 million, by the number of births, 97 million. That comes out to 15 percent.</p>
 <p class="prose-p">So in 1950, out of every 100 babies who were born, 15 died before their first birthday. Now let’s look at the most recent numbers. In 2016, 141 million children were born and 4.2 million died. Dividing the number of births by the number of deaths comes out to just 3 percent.</p>
 <p class="prose-p">Out of every 100 babies born across the world, only three die before reaching the age of one. Wow! The infant mortality rate has changed from 15 percent to 3 percent. When we compare rates rather than amounts of dead children, the most recent number suddenly seems astonishingly low.</p>
-<p class="prose-p">Some people feel ashamed when doing this. doing this kind of math with human lives. I feel ashamed when not doing it. A lonely number always makes me suspicious that I will misinterpret it. A number that I have compared and divided can instead fill me with hope.</p>
-<h4 class="section-subhead">PER PERSON.</h4>
+<p class="prose-p">Some people feel ashamed when doing this. doing this kind of math with human lives. I feel ashamed when not doing it. A lonely number always makes me suspicious that I will misinterpret it. A number that I have compared and divided can instead fill me with hope.
+
+#### PER PERSON.</p>
 <p class="prose-p">The forecasts show that it is China, India, and the other emerging economies that are increasing their carbon dioxide emissions at a speed that will cause dangerous climate change. In fact, China already admits more CO2 than the USA, and India already admits more than Germany. This outspoken statement came from an Environment Minister from a European Union country who was part of a panel discussing climate change at the World Economic Forum in Davos in January 2007. He made his attribution of blame in a neutral tone of voice, as if he were stating a self-evident fact.</p>
 <p class="prose-p">Had he been watching the faces of the Chinese and Indian panel members, he would have realized that his view was not self-evident at all. The Chinese expert looked angry but continued to stare straight ahead. The Indian expert, in contrast, could not sit still. He waved his arm and could barely wait for the moderator’s signal that he could speak.</p>
 <p class="prose-p">He stood up. There was a short silence, while he looked into the face of each panel member. His elegant dark blue turban, an expensive-looking dark grey suit, and the way he was behaving in his moment of outrage, confirmed his status as one of India’s highest-ranking civil servants with many years&#x27; experience as a lead expert at the World Bank and the International Monetary Fund.</p>
@@ -1810,21 +1934,22 @@
           </div>
           <div class="section-body">
             <p class="prose-p">They are quite likely more important than all the others put together. Divide. Amounts and rates can tell you very different stories. Rates are more meaningful, especially when comparing between different sized groups.</p>
-<p class="prose-p">In particular, look for rates per person when comparing between countries or regions.</p>
-<h4 class="section-subhead">Chapter 6.</h4>
-<p class="prose-p">The Generalization Instinct. Why I had to lie about the Danes and how it can be smart to build half a house. Dinner is served. An orange sun was setting behind the acacia trees on the savannah of the Bandundu region south of the Congo River.</p>
-<p class="prose-p">Half a day’s walk from the end of the paved road. This is where you find the people who live in extreme poverty. They are stuck behind that mountain, beyond where the road ends. My colleague Torquille and I spent the day interviewing the people in this remote village about their nutrition, and now they wanted to throw us a party.</p>
-<p class="prose-p">No one had ever walked so far to ask them about their problems. As Swedish villagers would have done a hundred years ago, they were demonstrating their gratitude and respect by serving their guests the biggest piece of meat they could find. The entire village was gathered in a circle around Torquille and me as we were presented with our plates. On top of two large green leaves lay two whole-skinned, grilled rats. I thought I might throw up.</p>
-<p class="prose-p">Then I noticed that Torquille had already started eating. We were both very hungry after a whole day’s work with no food. I looked around at the villagers who were smiling at me expectantly. I had to eat it, and I did.</p>
-<p class="prose-p">It was actually not that bad. It tasted a bit like chicken. To be polite, I tried to look happy as I swallowed it down. Then it was time for dessert.</p>
-<p class="prose-p">Another plate full of big white larvas from the palm nut tree. And I do mean big. Each one was longer and thicker than my thumb and had been lightly fried in its own fat. But I wondered, had they been too lightly fried?</p>
-<p class="prose-p">Because they seemed to be moving, the villagers were proud to offer us such a delicious treat. Remember, I am a sword-swallower. I should be able to push anything down my throat, and I am not usually a fussy eater. I had even once eaten porridge made from mosquitoes.</p>
-<p class="prose-p">But no, this I couldn’t do. The heads of the larvas looked like little brown nuts and their thick bodies like transparent wrinkled marshmallows through which I could see their intestines. The villagers gestured that I should bite them into and suck out the insides. If I tried, I would puke the rat back up.</p>
-<p class="prose-p">I did not want to offend. Suddenly an idea. I smiled softly and said regretfully, you know what, I am sorry, but I can’t eat larvas. Torquille turned to me surprised.</p>
-<p class="prose-p">He already had a couple of larvas hanging out of the corners of his mouth. He really loved those larvas. He had previously worked as a missionary in Congo, where they had been the highlight of every week for one whole year. You see, we don’t eat larvas, I said, trying to look convincing.</p>
-<p class="prose-p">The villagers looked at Torquille. But he eats them, they asked. Torquille stared at me. Ah, I said.</p>
-<p class="prose-p">You see, he comes from a different tribe. I come from Sweden. He comes from Denmark. In Denmark they love eating larvas.</p>
-<p class="prose-p">But in Sweden it’s against our culture. The village teacher went and got out the world map and I pointed out the water separating our two countries. On this side of the water they eat larvas, I said.</p>
+<p class="prose-p">In particular, look for rates per person when comparing between countries or regions.
+
+#### Chapter 6. The Generalization Instinct. Why I had to lie about the Danes and how it can be smart to build half a house. Dinner is served.</p>
+<p class="prose-p">An orange sun was setting behind the acacia trees on the savannah of the Bandundu region south of the Congo River. Half a day’s walk from the end of the paved road. This is where you find the people who live in extreme poverty. They are stuck behind that mountain, beyond where the road ends.</p>
+<p class="prose-p">My colleague Torquille and I spent the day interviewing the people in this remote village about their nutrition, and now they wanted to throw us a party. No one had ever walked so far to ask them about their problems. As Swedish villagers would have done a hundred years ago, they were demonstrating their gratitude and respect by serving their guests the biggest piece of meat they could find. The entire village was gathered in a circle around Torquille and me as we were presented with our plates.</p>
+<p class="prose-p">On top of two large green leaves lay two whole-skinned, grilled rats. I thought I might throw up. Then I noticed that Torquille had already started eating. We were both very hungry after a whole day’s work with no food.</p>
+<p class="prose-p">I looked around at the villagers who were smiling at me expectantly. I had to eat it, and I did. It was actually not that bad. It tasted a bit like chicken.</p>
+<p class="prose-p">To be polite, I tried to look happy as I swallowed it down. Then it was time for dessert. Another plate full of big white larvas from the palm nut tree. And I do mean big.</p>
+<p class="prose-p">Each one was longer and thicker than my thumb and had been lightly fried in its own fat. But I wondered, had they been too lightly fried? Because they seemed to be moving, the villagers were proud to offer us such a delicious treat. Remember, I am a sword-swallower.</p>
+<p class="prose-p">I should be able to push anything down my throat, and I am not usually a fussy eater. I had even once eaten porridge made from mosquitoes. But no, this I couldn’t do. The heads of the larvas looked like little brown nuts and their thick bodies like transparent wrinkled marshmallows through which I could see their intestines.</p>
+<p class="prose-p">The villagers gestured that I should bite them into and suck out the insides. If I tried, I would puke the rat back up. I did not want to offend.</p>
+<p class="prose-p">Suddenly an idea. I smiled softly and said regretfully, you know what, I am sorry, but I can’t eat larvas. Torquille turned to me surprised. He already had a couple of larvas hanging out of the corners of his mouth.</p>
+<p class="prose-p">He really loved those larvas. He had previously worked as a missionary in Congo, where they had been the highlight of every week for one whole year. You see, we don’t eat larvas, I said, trying to look convincing. The villagers looked at Torquille.</p>
+<p class="prose-p">But he eats them, they asked. Torquille stared at me. Ah, I said. You see, he comes from a different tribe.</p>
+<p class="prose-p">I come from Sweden. He comes from Denmark. In Denmark they love eating larvas. But in Sweden it’s against our culture.</p>
+<p class="prose-p">The village teacher went and got out the world map and I pointed out the water separating our two countries. On this side of the water they eat larvas, I said.</p>
           </div>
         </section>
         
@@ -1995,10 +2120,10 @@
 <p class="prose-p">Look for differences within groups. Especially when the groups are large, look for ways to split them into smaller, more precise categories. And look for similarities across groups. If you find striking similarities between different groups, consider whether your categories are relevant.</p>
 <p class="prose-p">But also, look for differences across groups. Do not assume that what applies for one group, for instance you and other people living on Level 4 or unconscious soldiers, applies for another, for example, people not living on Level 4 or sleeping babies. Beware of the majority. The majority just means more than half.</p>
 <p class="prose-p">Ask whether it means 51 percent, 99 percent, or something in between. Beware of vivid examples. Vivid images are easier to recall, but they might be the exception rather than the rule. Assume people are not idiots.</p>
-<p class="prose-p">When something looks strange, be curious and humble, and think, in what way is this a smart solution?</p>
-<h4 class="section-subhead">Chapter 7 The Destiny Instinct What rocks that move and what grandpa never talked about.</h4>
-<p class="prose-p">Snowballs in hell. Not long ago I was invited to the five-star Balmoral Hotel in Edinburgh to present to a gathering of capital managers and their wealthiest clients. As I set up my equipment in the magnificent high-ceilinged ballroom, I couldn’t help feeling a bit small. And I asked myself why a wealthy financial institution would want its clients to hear from a Swedish professor of public health.</p>
-<p class="prose-p">I had been carefully briefed weeks earlier, but to feel sure, I asked the conference organizer</p>
+<p class="prose-p">When something looks strange, be curious and humble, and think, in what way is this a smart solution?
+
+#### Chapter 7 The Destiny Instinct What rocks that move and what grandpa never talked about. Snowballs in hell. Not long ago I was invited to the five-star Balmoral Hotel in Edinburgh to present to a gathering of capital managers and their wealthiest clients. As I set up my equipment in the magnificent high-ceilinged ballroom, I couldn’t help feeling a bit small.</p>
+<p class="prose-p">And I asked myself why a wealthy financial institution would want its clients to hear from a Swedish professor of public health. I had been carefully briefed weeks earlier, but to feel sure, I asked the conference organizer</p>
           </div>
         </section>
         
@@ -2178,15 +2303,15 @@
             <p class="prose-p">the beach. Factfulness. Factfulness is recognising that many things, including people, countries, religions, and cultures, appear to be constant just because the change is happening slowly, and remembering that even small, slow changes gradually add up to big changes. To control the destiny instinct, remember slow change is still change.</p>
 <p class="prose-p">Keep track of gradual improvements. A small change every year can translate into a huge change over decades. Update your knowledge. Some knowledge goes out of date quickly.</p>
 <p class="prose-p">Technology, countries, societies, cultures, and religions are constantly changing. Collect to Grandpa. If you want to be reminded of how values have changed, think about your grandparents&#x27; values, and how they differ from yours. Collect examples of cultural change.</p>
-<p class="prose-p">Challenge the idea that today’s culture must also have been yesterday’s, and will also be tomorrow’s.</p>
-<h4 class="section-subhead">Chapter 8.</h4>
-<p class="prose-p">The Single Perspective Instinct. Why governments should not be mistaken for nails, and why shoes and bricks sometimes tell you more than numbers. Who can we trust? Forming your worldview, by relying on the media, would be like forming your view about me by looking only at a picture of my foot.</p>
-<p class="prose-p">Sure, my foot is part of me, but it’s a pretty ugly part. I have better parts. My arms are unremarkable, but quite fine. My face is okay.</p>
-<p class="prose-p">It isn’t that the picture of my foot is deliberately lying about me, but it isn’t showing you the whole of me. Where, then, shall we get our information from, if not from the media? Who can we trust? How about experts?</p>
-<p class="prose-p">People who devote their working lives to understanding their chosen slice of the world. Well, you have to be very careful here, too. The Single Perspective Instinct. We find simple ideas very attractive.</p>
-<p class="prose-p">We enjoy that moment of insight. We enjoy feeling we really understand or know something. And it is easy to take off down a slippery slope, from one attention-grabbing simple idea to a feeling that this idea beautifully explains or is the beautiful solution for lots of other things. The world becomes simple.</p>
-<p class="prose-p">All problems have a single cause, something we must always be completely against. Or all problems have a single solution, something we must always be for. Everything is simple. There’s just one small issue.</p>
-<p class="prose-p">We completely misunderstand the world. I call this preference for single causes and single solutions, the Single Perspective Instinct.</p>
+<p class="prose-p">Challenge the idea that today’s culture must also have been yesterday’s, and will also be tomorrow’s.
+
+#### Chapter 8. The Single Perspective Instinct. Why governments should not be mistaken for nails, and why shoes and bricks sometimes tell you more than numbers. Who can we trust?</p>
+<p class="prose-p">Forming your worldview, by relying on the media, would be like forming your view about me by looking only at a picture of my foot. Sure, my foot is part of me, but it’s a pretty ugly part. I have better parts. My arms are unremarkable, but quite fine.</p>
+<p class="prose-p">My face is okay. It isn’t that the picture of my foot is deliberately lying about me, but it isn’t showing you the whole of me. Where, then, shall we get our information from, if not from the media? Who can we trust?</p>
+<p class="prose-p">How about experts? People who devote their working lives to understanding their chosen slice of the world. Well, you have to be very careful here, too. The Single Perspective Instinct.</p>
+<p class="prose-p">We find simple ideas very attractive. We enjoy that moment of insight. We enjoy feeling we really understand or know something. And it is easy to take off down a slippery slope, from one attention-grabbing simple idea to a feeling that this idea beautifully explains or is the beautiful solution for lots of other things.</p>
+<p class="prose-p">The world becomes simple. All problems have a single cause, something we must always be completely against. Or all problems have a single solution, something we must always be for. Everything is simple.</p>
+<p class="prose-p">There’s just one small issue. We completely misunderstand the world. I call this preference for single causes and single solutions, the Single Perspective Instinct.</p>
 <p class="prose-p">For example, the simple and beautiful idea of the free market can lead to the simplistic idea that all problems have a single cause, government interference, which we must always oppose, and that the solution to all problems is to liberate market forces by reducing taxes and removing regulations, which we must always support. Alternatively, the simple and beautiful idea of equality can lead to the simplistic idea that all problems are caused by inequality, which we should always oppose, and that the solution to all problems is redistribution of resources, which we should always support.</p>
 <p class="prose-p">It saves a lot of time to think like this. You can have opinions and answers without having to learn about a problem from scratch, and you can get on with using your brain for other tasks. But it’s not so useful if you</p>
           </div>
@@ -2331,8 +2456,9 @@
 <p class="prose-p">Be aware, too, of the limits of the expertise of others. Hammers and nails. If you are good with a tool, you may want to use it too often. If you have analyzed a problem in depth, you can end up exaggerating the importance of that problem or of your solution.</p>
 <p class="prose-p">Remember that no one tool is good for everything. If your favorite idea is a hammer, look for colleagues with screwdrivers, wrenches, and tape measures. Be open to ideas from other fields. Numbers but not only numbers.</p>
 <p class="prose-p">The world cannot be understood without numbers, and it cannot be understood with numbers alone. Love numbers for what they tell you about real lives. Beware of simple ideas and simple solutions. History is full of visionaries who use simple utopian visions to justify terrible actions.</p>
-<p class="prose-p">Welcome complexity. Combine ideas. Compromise. Solve problems on a case-by-case basis.</p>
-<h4 class="section-subhead">Chapter 9.</h4>
+<p class="prose-p">Welcome complexity. Combine ideas. Compromise. Solve problems on a case-by-case basis.
+
+#### Chapter 9.</p>
 <p class="prose-p">The Blame Instinct. About magic washing machines and money-making robots. Let’s beat up Grandma. I was lecturing at the Karolinska Institute explaining that the big pharmaceutical companies do hardly any research on malaria and nothing at all on sleeping sickness or other illnesses that affect only the poorest.</p>
 <p class="prose-p">A student sitting in the front said, “Let’s punch them in the face.”</p>
           </div>
@@ -2484,9 +2610,9 @@
 <p class="prose-p">Resist blaming experts for focusing too much on their own interests and specializations, or for getting things wrong, which sometimes they do, but often with good intentions. In fact, resist blaming any one individual or group of individuals for anything, because the problem is that when we identify the bad guy, we are done thinking. And it’s almost always more complicated than that. It’s almost always about multiple interacting causes.</p>
 <p class="prose-p">A system, if you really want to change the world, you have to understand how it actually works, and forget about punching anyone in the face. Factfulness Factfulness is recognizing when a scapegoat is being used, and remembering that blaming an individual often steals the focus from other possible explanations, and blocks our ability to prevent similar problems in the future. To control the blame instinct, resist finding a scapegoat. Look for causes, not villains.</p>
 <p class="prose-p">When something goes wrong, don’t look for an individual or a group to blame, except that bad things can happen without anyone intending them to. Instead, spend your energy on understanding the multiple interacting causes or system that created the situation. Look for systems, not heroes. When someone claims to have caused something good, ask whether the outcome might have happened anyway, even if that individual had done nothing.</p>
-<p class="prose-p">Give the system some credit.</p>
-<h4 class="section-subhead">Chapter 10 The Urgency Instinct How now or never can block our roads and our minds, roadblocks and mental blocks.</h4>
-<p class="prose-p">If it’s not contagious, then why did you evacuate your children and wife?</p>
+<p class="prose-p">Give the system some credit.
+
+#### Chapter 10 The Urgency Instinct How now or never can block our roads and our minds, roadblocks and mental blocks. If it’s not contagious, then why did you evacuate your children and wife?</p>
           </div>
         </section>
         
@@ -2687,14 +2813,14 @@
 <p class="prose-p">If something is urgent and important, it should be measured. Beware of data that is relevant but inaccurate or accurate but irrelevant. Only relevant and accurate data is useful. Beware of fortune-tellers.</p>
 <p class="prose-p">Any prediction about the future is uncertain. Be wary of predictions that fail to acknowledge that. Insist on a full range of scenarios. Never just the best or worst case.</p>
 <p class="prose-p">Ask how often such predictions have been right before. Be wary of drastic action. Ask what the side effects will be. Ask how the idea has been tested.</p>
-<p class="prose-p">Step-by-step practical improvements and evaluation of their impact are less dramatic but usually more effective.</p>
-<h4 class="section-subhead">Chapter 11.</h4>
-<p class="prose-p">Factfulness in Practice. How Factfulness Saved My Life. I think we should run. Whispered the young teacher standing beside me.</p>
-<p class="prose-p">Two thoughts raced across my mind. One was that if the teacher took off, I would have no way of communicating with the agitated crowd in front of me. I grabbed his arm and held on tightly. The other thought was something that a wise governor of Tanzania had told me.</p>
-<p class="prose-p">When someone threatens you with a machete, never turn your back. Stand still. Look him straight in the eye and ask him what the problem is. It was 1989 and I was in a remote and extremely poor village named Makanga in the Bandundu region of what was then Zaire and is now the Democratic Republic of the Congo.</p>
-<p class="prose-p">I was part of a team investigating an epidemic of the incurable paralytic disease called Konzo that I had first discovered in Mozambique years earlier. The research project had been two years in the planning and everything, all the approvals, drivers, translators and lab equipment had been meticulously prepared. But I had made one serious mistake. I had not explained properly to the villagers what I wanted to do and why.</p>
-<p class="prose-p">I wanted to interview all the villagers and take samples of their food and their blood and urine and I should have been with the head of the village when he explained that to them. That morning, as I had been quietly and methodically setting up in the hut, I heard villagers starting to gather outside. They somehow seemed uneasy, but I was occupied with getting the blood sample machine. machine to work. Eventually I managed to start the diesel generator and do a test run with the centrifuge.</p>
-<p class="prose-p">The machines were noisy, and it was only when I switched them off that I heard the raised voices.</p>
+<p class="prose-p">Step-by-step practical improvements and evaluation of their impact are less dramatic but usually more effective.
+
+#### Chapter 11. Factfulness in Practice. How Factfulness Saved My Life. I think we should run.</p>
+<p class="prose-p">Whispered the young teacher standing beside me. Two thoughts raced across my mind. One was that if the teacher took off, I would have no way of communicating with the agitated crowd in front of me. I grabbed his arm and held on tightly.</p>
+<p class="prose-p">The other thought was something that a wise governor of Tanzania had told me. When someone threatens you with a machete, never turn your back. Stand still. Look him straight in the eye and ask him what the problem is.</p>
+<p class="prose-p">It was 1989 and I was in a remote and extremely poor village named Makanga in the Bandundu region of what was then Zaire and is now the Democratic Republic of the Congo. I was part of a team investigating an epidemic of the incurable paralytic disease called Konzo that I had first discovered in Mozambique years earlier. The research project had been two years in the planning and everything, all the approvals, drivers, translators and lab equipment had been meticulously prepared. But I had made one serious mistake.</p>
+<p class="prose-p">I had not explained properly to the villagers what I wanted to do and why. I wanted to interview all the villagers and take samples of their food and their blood and urine and I should have been with the head of the village when he explained that to them. That morning, as I had been quietly and methodically setting up in the hut, I heard villagers starting to gather outside. They somehow seemed uneasy, but I was occupied with getting the blood sample machine. machine to work.</p>
+<p class="prose-p">Eventually I managed to start the diesel generator and do a test run with the centrifuge. The machines were noisy, and it was only when I switched them off that I heard the raised voices.</p>
           </div>
         </section>
         
@@ -3025,6 +3151,204 @@
 
     document.getElementById('scroll-top-btn').addEventListener('click', () => {
       window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    // ==========================================
+    // IN-PAGE CONTENT SEARCH (單書全文搜尋)
+    // ==========================================
+    const searchBar = document.getElementById('inpage-search-bar');
+    const searchInput = document.getElementById('inpage-search-input');
+    const searchCount = document.getElementById('inpage-search-count');
+    const searchDrawer = document.getElementById('inpage-search-drawer');
+    const searchDrawerList = document.getElementById('inpage-search-drawer-list');
+    const searchToggleBtn = document.getElementById('search-toggle-btn');
+    const searchClearBtn = document.getElementById('inpage-search-clear');
+    const searchPrevBtn = document.getElementById('inpage-search-prev');
+    const searchNextBtn = document.getElementById('inpage-search-next');
+    const searchCloseBtn = document.getElementById('inpage-search-close');
+    const drawerCloseBtn = document.getElementById('inpage-drawer-close');
+
+    let searchMatches = [];
+    let currentMatchIdx = -1;
+
+    // Cache original innerHTML for clean resets
+    const rawParagraphs = Array.from(document.querySelectorAll('.section-body p')).map(p => ({
+      el: p,
+      rawHtml: p.innerHTML,
+      rawText: p.textContent
+    }));
+
+    function openSearch() {
+      searchBar.classList.add('active');
+      searchInput.focus();
+      searchInput.select();
+      if (searchInput.value.trim()) {
+        performSearch(searchInput.value.trim());
+      }
+    }
+
+    function closeSearch() {
+      searchBar.classList.remove('active');
+      searchDrawer.classList.remove('active');
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchCount.textContent = '0 / 0';
+    }
+
+    function clearHighlights() {
+      rawParagraphs.forEach(item => {
+        item.el.innerHTML = item.rawHtml;
+      });
+    }
+
+    function escapeRegex(str) {
+      return str.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+    }
+
+    function escapeHtml(str) {
+      return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+
+    function performSearch(query) {
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchDrawerList.innerHTML = '';
+
+      if (!query || query.trim().length === 0) {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+        return;
+      }
+
+      query = query.trim();
+      const qLower = query.toLowerCase();
+      const regex = new RegExp(`(${escapeRegex(query)})`, 'gi');
+
+      rawParagraphs.forEach((item, pIdx) => {
+        if (item.rawText.toLowerCase().includes(qLower)) {
+          const sec = item.el.closest('.transcript-section');
+          const secTime = sec ? (sec.querySelector('.section-time')?.textContent || '') : '';
+          const secId = sec ? sec.id : '';
+
+          // Apply highlight
+          item.el.innerHTML = item.rawHtml.replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const marks = Array.from(item.el.querySelectorAll('mark.search-highlight'));
+          marks.forEach(mark => {
+            searchMatches.push({
+              mark,
+              el: item.el,
+              secTime,
+              secId
+            });
+          });
+
+          // Snippet creation
+          const matchPos = item.rawText.toLowerCase().indexOf(qLower);
+          const start = Math.max(0, matchPos - 30);
+          const end = Math.min(item.rawText.length, matchPos + query.length + 50);
+          const snippetText = item.rawText.slice(start, end);
+          const snippetHtml = escapeHtml(snippetText).replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const card = document.createElement('div');
+          card.className = 'search-result-item';
+          card.innerHTML = `
+            <div class="search-result-time">${secTime}</div>
+            <div class="search-result-snippet">...${snippetHtml}...</div>
+          `;
+          card.addEventListener('click', () => {
+            const targetIdx = searchMatches.findIndex(m => m.mark === marks[0]);
+            if (targetIdx >= 0) goToMatch(targetIdx);
+          });
+          searchDrawerList.appendChild(card);
+        }
+      });
+
+      if (searchMatches.length > 0) {
+        searchDrawer.classList.add('active');
+        goToMatch(0);
+      } else {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+      }
+    }
+
+    function goToMatch(idx) {
+      if (idx < 0 || idx >= searchMatches.length) return;
+      if (currentMatchIdx >= 0 && searchMatches[currentMatchIdx]) {
+        searchMatches[currentMatchIdx].mark.classList.remove('active-match');
+      }
+      currentMatchIdx = idx;
+      const target = searchMatches[currentMatchIdx];
+      target.mark.classList.add('active-match');
+      searchCount.textContent = `${currentMatchIdx + 1} / ${searchMatches.length}`;
+
+      // Highlight active drawer item
+      const drawerItems = searchDrawerList.querySelectorAll('.search-result-item');
+      drawerItems.forEach(di => di.classList.remove('active'));
+
+      target.mark.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+
+    searchToggleBtn.addEventListener('click', () => {
+      if (searchBar.classList.contains('active')) {
+        closeSearch();
+      } else {
+        openSearch();
+      }
+    });
+
+    let debounceTimer;
+    searchInput.addEventListener('input', (e) => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => {
+        performSearch(e.target.value);
+      }, 200);
+    });
+
+    searchClearBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      performSearch('');
+      searchInput.focus();
+    });
+
+    searchNextBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const nextIdx = (currentMatchIdx + 1) % searchMatches.length;
+      goToMatch(nextIdx);
+    });
+
+    searchPrevBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const prevIdx = (currentMatchIdx - 1 + searchMatches.length) % searchMatches.length;
+      goToMatch(prevIdx);
+    });
+
+    searchInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        if (e.shiftKey) {
+          searchPrevBtn.click();
+        } else {
+          searchNextBtn.click();
+        }
+      } else if (e.key === 'Escape') {
+        closeSearch();
+      }
+    });
+
+    searchCloseBtn.addEventListener('click', closeSearch);
+    drawerCloseBtn.addEventListener('click', () => searchDrawer.classList.remove('active'));
+
+    window.addEventListener('keydown', (e) => {
+      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'f') {
+        e.preventDefault();
+        openSearch();
+      } else if (e.key === 'Escape') {
+        if (searchBar.classList.contains('active')) closeSearch();
+      }
     });
   </script>
 </body>

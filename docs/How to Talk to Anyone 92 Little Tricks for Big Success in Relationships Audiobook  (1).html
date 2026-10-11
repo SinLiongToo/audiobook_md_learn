@@ -66,26 +66,12 @@
       --card-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
     }
 
-    [data-line-height="compact"] {
-      --line-height: 1.68;
-    }
-    [data-line-height="normal"] {
-      --line-height: 1.88;
-    }
-    [data-line-height="loose"] {
-      --line-height: 2.12;
-    }
+    [data-line-height="compact"] { --line-height: 1.68; }
+    [data-line-height="normal"] { --line-height: 1.88; }
+    [data-line-height="loose"] { --line-height: 2.12; }
 
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
-    html {
-      scroll-behavior: smooth;
-    }
-
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
     body {
       font-family: var(--font-family);
       font-size: var(--font-size);
@@ -119,7 +105,7 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 0 20px;
+      padding: 0 18px;
       background-color: var(--bg-header);
       backdrop-filter: blur(8px);
       -webkit-backdrop-filter: blur(8px);
@@ -129,7 +115,7 @@
     .header-left, .header-right {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 8px;
       flex-wrap: nowrap;
     }
 
@@ -138,7 +124,7 @@
       border: 1px solid var(--border-color);
       color: var(--text-primary);
       cursor: pointer;
-      font-size: 14px;
+      font-size: 13.5px;
       padding: 6px 10px;
       border-radius: 8px;
       display: inline-flex;
@@ -147,6 +133,7 @@
       transition: all 0.2s;
       white-space: nowrap;
       user-select: none;
+      text-decoration: none;
     }
     .btn-icon:hover {
       background-color: var(--accent-light);
@@ -161,11 +148,132 @@
       font-size: 14px;
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
+    }
+    .home-link:hover { color: var(--accent-color); }
+
+    /* In-Page Search Bar Dropdown */
+    .inpage-search-bar {
+      position: sticky;
+      top: 60px;
+      z-index: 890;
+      background-color: var(--bg-surface);
+      border-bottom: 1px solid var(--border-color);
+      padding: 10px 18px;
+      display: none;
+      align-items: center;
+      gap: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    }
+    .inpage-search-bar.active { display: flex; }
+
+    .inpage-search-input-wrapper {
+      flex: 1;
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    .inpage-search-input {
+      width: 100%;
+      padding: 8px 36px 8px 12px;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      font-size: 14px;
+    }
+    .inpage-search-input:focus { outline: 2px solid var(--accent-color); }
+
+    .inpage-search-clear {
+      position: absolute;
+      right: 10px;
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 16px;
     }
 
-    .home-link:hover {
+    .inpage-search-count {
+      font-size: 13px;
+      color: var(--text-secondary);
+      font-family: monospace;
+      white-space: nowrap;
+    }
+    .search-nav-btns { display: flex; gap: 6px; }
+
+    /* In-Page Search Results Drawer */
+    .inpage-search-drawer {
+      position: fixed;
+      right: 20px;
+      top: 120px;
+      width: 360px;
+      max-height: calc(100vh - 160px);
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+      z-index: 895;
+      display: none;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .inpage-search-drawer.active { display: flex; }
+    .inpage-search-drawer-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-weight: 600;
+      font-size: 14px;
+    }
+    .inpage-search-drawer-list {
+      overflow-y: auto;
+      padding: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .search-result-item {
+      padding: 10px 12px;
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+      background: var(--bg-primary);
+      cursor: pointer;
+      font-size: 13px;
+      transition: all 0.15s;
+    }
+    .search-result-item:hover, .search-result-item.active {
+      border-color: var(--accent-color);
+      background: var(--accent-light);
+    }
+    .search-result-time {
+      font-weight: 700;
       color: var(--accent-color);
+      font-family: monospace;
+      margin-bottom: 4px;
+    }
+    .search-result-snippet {
+      color: var(--text-primary);
+      line-height: 1.5;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    /* Highlight mark */
+    mark.search-highlight {
+      background-color: #fef08a;
+      color: #1f2937;
+      padding: 1px 3px;
+      border-radius: 3px;
+    }
+    mark.search-highlight.active-match {
+      background-color: #f97316;
+      color: #ffffff;
+      outline: 2px solid #ea580c;
     }
 
     /* Layout Wrapper */
@@ -212,9 +320,7 @@
       font-size: 13px;
       margin-bottom: 14px;
     }
-    .toc-search:focus {
-      outline: 2px solid var(--accent-color);
-    }
+    .toc-search:focus { outline: 2px solid var(--accent-color); }
 
     .toc-list {
       list-style: none;
@@ -237,12 +343,10 @@
       overflow: hidden;
       text-overflow: ellipsis;
     }
-
     .toc-item a:hover {
       background-color: var(--accent-light);
       color: var(--accent-color);
     }
-
     .toc-item.active a {
       background-color: var(--accent-color);
       color: #ffffff;
@@ -257,19 +361,17 @@
       display: flex;
       justify-content: center;
     }
-
     .reader-container {
       width: 100%;
       max-width: var(--content-max-width);
     }
 
-    /* Book Hero / Header */
+    /* Book Hero */
     .book-hero {
       margin-bottom: 40px;
       padding-bottom: 24px;
       border-bottom: 2px solid var(--border-color);
     }
-
     .book-hero h1 {
       font-size: 2.1em;
       line-height: 1.35;
@@ -285,7 +387,6 @@
       gap: 10px;
       margin-top: 14px;
     }
-
     .meta-chip {
       display: inline-flex;
       align-items: center;
@@ -297,8 +398,13 @@
       font-size: 13px;
       font-weight: 500;
     }
+    .meta-chip.cat-badge {
+      background-color: #06b6d422;
+      color: #06b6d4;
+      font-weight: 600;
+    }
 
-    /* Content Typography & Enhanced Paragraphs */
+    /* Content Typography */
     .transcript-section {
       margin-bottom: 50px;
       scroll-margin-top: 80px;
@@ -349,25 +455,22 @@
       letter-spacing: 0.015em;
     }
 
-    /* Indented paragraph style (Traditional) */
+    /* Indented paragraph style */
     [data-p-style="indent"] .section-body p {
       text-indent: 2em;
       margin-bottom: 1.15em;
       line-height: var(--line-height);
     }
 
-    /* Block paragraph style (Modern with whitespace) */
+    /* Block paragraph style */
     [data-p-style="block"] .section-body p {
       text-indent: 0;
       margin-bottom: 1.55em;
       line-height: var(--line-height);
     }
+    .section-body p:last-child { margin-bottom: 0; }
 
-    .section-body p:last-child {
-      margin-bottom: 0;
-    }
-
-    /* Floating Navigation Controls */
+    /* Floating Tools */
     .floating-tools {
       position: fixed;
       bottom: 24px;
@@ -377,7 +480,6 @@
       gap: 10px;
       z-index: 800;
     }
-
     .float-btn {
       width: 44px;
       height: 44px;
@@ -399,7 +501,6 @@
       color: var(--accent-color);
     }
 
-    /* Overlay for mobile drawer */
     .backdrop {
       display: none;
       position: fixed;
@@ -419,36 +520,22 @@
         transform: translateX(-100%);
         box-shadow: 4px 0 16px rgba(0,0,0,0.15);
       }
-
-      .sidebar.open {
-        transform: translateX(0);
-      }
-
-      .backdrop.open {
-        display: block;
+      .sidebar.open { transform: translateX(0); }
+      .backdrop.open { display: block; }
+      .inpage-search-drawer {
+        left: 20px;
+        right: 20px;
+        width: auto;
       }
     }
 
     @media (max-width: 640px) {
-      :root {
-        --font-size: 17px;
-      }
-      .main-content {
-        padding: 24px 16px 60px 16px;
-      }
-      .book-hero h1 {
-        font-size: 1.55em;
-      }
-      .top-header {
-        padding: 0 10px;
-      }
-      .btn-icon {
-        padding: 5px 8px;
-        font-size: 13px;
-      }
-      [data-p-style="indent"] .section-body p {
-        text-indent: 1.5em;
-      }
+      :root { --font-size: 17px; }
+      .main-content { padding: 24px 16px 60px 16px; }
+      .book-hero h1 { font-size: 1.55em; }
+      .top-header { padding: 0 10px; }
+      .btn-icon { padding: 5px 7px; font-size: 12.5px; }
+      [data-p-style="indent"] .section-body p { text-indent: 1.5em; }
     }
   </style>
 </head>
@@ -464,6 +551,14 @@
       <a href="index.html" class="home-link" title="返回書架">
         🏠 書架
       </a>
+      <!-- Search Inside Book Button -->
+      <button class="btn-icon" id="search-toggle-btn" title="搜尋本書內文 (Ctrl+F)">
+        🔍 <span>搜尋內文</span>
+      </button>
+      <!-- Global Search Link -->
+      <a href="index.html?tab=search" class="btn-icon" title="前往全書庫全文檢索">
+        🌐 <span>全庫搜尋</span>
+      </a>
     </div>
 
     <div class="header-right">
@@ -473,7 +568,7 @@
       </button>
 
       <!-- Line Height Toggle -->
-      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 精簡)">
+      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 緊湊)">
         ↕ <span id="line-height-label">行距</span>
       </button>
 
@@ -492,6 +587,29 @@
       <button class="btn-icon" id="font-inc-btn" title="放大字級">A+</button>
     </div>
   </header>
+
+  <!-- In-Page Search Bar Dropdown -->
+  <div class="inpage-search-bar" id="inpage-search-bar">
+    <div class="inpage-search-input-wrapper">
+      <input type="text" id="inpage-search-input" class="inpage-search-input" placeholder="🔍 搜尋本書內文關鍵字 (按 Enter 尋找下一處，Esc 關閉)...">
+      <button class="inpage-search-clear" id="inpage-search-clear" title="清空">✕</button>
+    </div>
+    <span class="inpage-search-count" id="inpage-search-count">0 / 0</span>
+    <div class="search-nav-btns">
+      <button class="btn-icon" id="inpage-search-prev" title="上一處 (Shift+Enter)">▲</button>
+      <button class="btn-icon" id="inpage-search-next" title="下一處 (Enter)">▼</button>
+      <button class="btn-icon" id="inpage-search-close" title="關閉搜尋 (Esc)">✕</button>
+    </div>
+  </div>
+
+  <!-- In-Page Search Results Drawer -->
+  <div class="inpage-search-drawer" id="inpage-search-drawer">
+    <div class="inpage-search-drawer-header">
+      <span>搜尋結果清單</span>
+      <button class="btn-icon" id="inpage-drawer-close" style="padding: 2px 6px;">✕</button>
+    </div>
+    <div class="inpage-search-drawer-list" id="inpage-search-drawer-list"></div>
+  </div>
 
   <div class="backdrop" id="backdrop"></div>
 
@@ -617,6 +735,7 @@
         <header class="book-hero">
           <h1>How to Talk to Anyone 92 Little Tricks for Big Success in Relationships Audiobook  (1)</h1>
           <div class="book-meta-chips">
+            <span class="meta-chip cat-badge">🎯 領導與策略</span>
             <span class="meta-chip">🏷️ 時長：08:41:30</span>
 <span class="meta-chip">🏷️ 模型：small.en</span>
 <span class="meta-chip">🏷️ 日期：2026-09-22</span>
@@ -624,7 +743,7 @@
         </header>
 
         <!-- Transcript Content -->
-        <div class="book-body">
+        <div class="book-body" id="book-body">
           
         <section class="transcript-section" id="sec-000000">
           <div class="section-header">
@@ -677,19 +796,20 @@
           </div>
           <div class="section-body">
             <p class="prose-p">Every time I detected a little nip of magic in their communicating, I asked them to plug it out with tweezers and expose it to the bright light of consciousness. We analyzed it together, and then I turned it into an easy-to-do, little trick others could duplicate and profit from. My findings and the strokes of some of those very effective folks are in this book. Some are subtle, some are surprising, but all are achievable.</p>
-<p class="prose-p">When you master them, everyone from new acquaintances to family, friends, and business associates will happily open their hearts, homes, companies, and even wallets to give you whatever they can. There’s a bonus. As you sail through life with your new communication skills, you will look back and see some very happy givers smiling in your wake.</p>
-<h4 class="section-subhead">Part 1.</h4>
-<p class="prose-p">How to Intrigue Everyone Without Saying a Word. You only have ten seconds to show you’re a somebody. The exact moment that two humans lay eyes on each other has awesome potency. The first side of you is a brilliant holograph.</p>
-<p class="prose-p">It burns its way into your new acquaintances&#x27; eyes and can stay emblazoned in his or her memory forever. Artists are sometimes able to capture this quick-silver, fleeting, emotional response. My friend Robert Grossman is an accomplished caricature artist who draws regularly for Forbes, Newsweek, Sports Illustrated, Rolling Stone, and other popular publications. Bob has a unique gift for capturing not only the physical appearance of his subjects, but for zeroing in on the essence of their personalities.</p>
-<p class="prose-p">The bodies and souls of hundreds of luminaries radiate from his sketch pad. One glance at his caricatures of famous people, and you can actually see their personalities. Sometimes at a party, Bob will do a quick sketch on a cocktail napkin of a guest. Hovering over Bob’s shoulder, the onlookers gasp as they watch their friend’s image and essence materialize before their eyes.</p>
-<p class="prose-p">When he’s finished drawing, he puts his pen down and hands the napkin to the subject. Often a puzzled look comes over the subject’s face. He or she usually mumbles some politeness like, well, that’s great, but it really isn’t me. The crowd’s convincing crescendo of, oh yes it is, drowns the subject out and squelches any lingering doubt.</p>
-<p class="prose-p">The confused subject is left to stare back at the world’s view of himself or herself in the napkin. Once, when I was visiting Bob’s studio, I asked him how he could capture people’s personalities so well. He said, it’s simple. I just look at them.</p>
-<p class="prose-p">No, I asked. How do you capture their personalities? Can you have to do a lot of research about their lifestyle, their history? No, I told you, Leolaw, just look at them.</p>
-<p class="prose-p">Huh? He went on to explain, almost every facet of people’s personalities is evident from their appearance, their posture, the way they move. For instance, he said, calling me over to a file where he kept his caricatures of political figures. See, Bob said, pointing to angles on various presidential body parts.</p>
-<p class="prose-p">Here’s the boyishness of Clinton, showing me his half smile, the awkwardness of the elder George Bush, pointing to his shoulder angle, the charm of Reagan, noting the ex-president’s smiling eyes, the shiftiness of Nixon, pointing to the furtive tilt of his head. Digging a little deeper into his file, he pulled out Franklin Delano Roosevelt and pointing to the nose high in the air, here’s the pride of FDR. It’s all in the face and the body. First impressions are indelible. Why?</p>
-<p class="prose-p">Because in our fast-paced information overload world of multiple stimuli bombarding us every second, people’s heads are spinning. They must form quick judgments to make sense of the world and get on with what they have to do. So whenever people meet you, they take an instant mental snapshot. That image of you becomes the data they deal with for a very long time.</p>
-<p class="prose-p">Your body shrieks before your lips can speak. Are their data accurate? Amazingly enough, yes. Even before your lips part and the first syllable escapes, the essence of you has already axed its way into their brains.</p>
-<p class="prose-p">The way you look and the way you move is more than 80% of someone’s first impression of you. Not one word need be spoken. I’ve lived and worked in countries where I didn’t s- speak the native language. Yet without one understandable syllable spoken between us,</p>
+<p class="prose-p">When you master them, everyone from new acquaintances to family, friends, and business associates will happily open their hearts, homes, companies, and even wallets to give you whatever they can. There’s a bonus. As you sail through life with your new communication skills, you will look back and see some very happy givers smiling in your wake.
+
+#### Part 1. How to Intrigue Everyone Without Saying a Word.</p>
+<p class="prose-p">You only have ten seconds to show you’re a somebody. The exact moment that two humans lay eyes on each other has awesome potency. The first side of you is a brilliant holograph. It burns its way into your new acquaintances&#x27; eyes and can stay emblazoned in his or her memory forever.</p>
+<p class="prose-p">Artists are sometimes able to capture this quick-silver, fleeting, emotional response. My friend Robert Grossman is an accomplished caricature artist who draws regularly for Forbes, Newsweek, Sports Illustrated, Rolling Stone, and other popular publications. Bob has a unique gift for capturing not only the physical appearance of his subjects, but for zeroing in on the essence of their personalities. The bodies and souls of hundreds of luminaries radiate from his sketch pad.</p>
+<p class="prose-p">One glance at his caricatures of famous people, and you can actually see their personalities. Sometimes at a party, Bob will do a quick sketch on a cocktail napkin of a guest. Hovering over Bob’s shoulder, the onlookers gasp as they watch their friend’s image and essence materialize before their eyes. When he’s finished drawing, he puts his pen down and hands the napkin to the subject.</p>
+<p class="prose-p">Often a puzzled look comes over the subject’s face. He or she usually mumbles some politeness like, well, that’s great, but it really isn’t me. The crowd’s convincing crescendo of, oh yes it is, drowns the subject out and squelches any lingering doubt. The confused subject is left to stare back at the world’s view of himself or herself in the napkin.</p>
+<p class="prose-p">Once, when I was visiting Bob’s studio, I asked him how he could capture people’s personalities so well. He said, it’s simple. I just look at them. No, I asked.</p>
+<p class="prose-p">How do you capture their personalities? Can you have to do a lot of research about their lifestyle, their history? No, I told you, Leolaw, just look at them. Huh?</p>
+<p class="prose-p">He went on to explain, almost every facet of people’s personalities is evident from their appearance, their posture, the way they move. For instance, he said, calling me over to a file where he kept his caricatures of political figures. See, Bob said, pointing to angles on various presidential body parts. Here’s the boyishness of Clinton, showing me his half smile, the awkwardness of the elder George Bush, pointing to his shoulder angle, the charm of Reagan, noting the ex-president’s smiling eyes, the shiftiness of Nixon, pointing to the furtive tilt of his head.</p>
+<p class="prose-p">Digging a little deeper into his file, he pulled out Franklin Delano Roosevelt and pointing to the nose high in the air, here’s the pride of FDR. It’s all in the face and the body. First impressions are indelible. Why? Because in our fast-paced information overload world of multiple stimuli bombarding us every second, people’s heads are spinning.</p>
+<p class="prose-p">They must form quick judgments to make sense of the world and get on with what they have to do. So whenever people meet you, they take an instant mental snapshot. That image of you becomes the data they deal with for a very long time. Your body shrieks before your lips can speak.</p>
+<p class="prose-p">Are their data accurate? Amazingly enough, yes. Even before your lips part and the first syllable escapes, the essence of you has already axed its way into their brains. The way you look and the way you move is more than 80% of someone’s first impression of you.</p>
+<p class="prose-p">Not one word need be spoken. I’ve lived and worked in countries where I didn’t s- speak the native language. Yet without one understandable syllable spoken between us,</p>
           </div>
         </section>
         
@@ -1023,12 +1143,12 @@
 <p class="prose-p">Rehearse being the super somebody you want to be ahead of time. See yourself walking around with hang-by-your-teeth posture, shaking hands, smiling the flooding smile and making sticky eyes. Hear yourself chatting comfortably with everyone. Feel the pleasure of knowing you are in peak form and everyone is gravitating toward you.</p>
 <p class="prose-p">Visualize yourself a super somebody. Then it all happens automatically. You now have the skills necessary to get you started on the right foot with any new person in your life. Think of yourself in these first moments like a rocket taking off.</p>
 <p class="prose-p">When the folks at Cape Kennedy aim a spacecraft for the moon, a mistake in the millionth of a degree at the beginning when the craft is still on the ground means missing the moon by thousands of miles. Likewise, a tiny body language blooper at the outside of a relationship may mean you will never make a hit with that person. But with the flooding smile, sticky eyes, epoxy eyes, hang-by-your-teeth, the big baby pivot, hello old friend, limit the fidget, Hans’s horse sense, and watch the scene before you make the scene, you’ll be right on course to get whatever you eventually want from anybody, be it business, friendship, or love.</p>
-<p class="prose-p">We now move from the silent world to the spoken word.</p>
-<h4 class="section-subhead">Part 2 How to Know What to Say After You Say Hi Just as the first glimpse should please their eyes, your first words should delight their ears.</h4>
-<p class="prose-p">Your tongue is a welcome mat embossed with either welcome or go away. To make your conversation partner feel welcome, you must master small talk. Can you hear the shudder? Those two little words drive a stake into the hearts of some otherwise fearless and undaunted souls.</p>
-<p class="prose-p">Invite them to a party where they don’t know anyone, and it mainlines queasiness into their veins. If this sounds familiar, take consolation from the fact that the brighter the individual, the more he or she detests small talk. When consulting for Fortune 500 companies, I was astounded. Top executives, completely comfortable making big talk with their boards of directors or addressing their stockholders, confessed they felt like little lost children at parties where the pratter was less than prodigious.</p>
-<p class="prose-p">Small talk haters take further consolation from the fact that you are in star-studded company. Fear of small talk and stage fright are the same thing. The butterflies you feel in your stomach when you’re in a room full of strangers flutter round the tummies of top performers. Pablo Casals complained of lifelong stage fright.</p>
-<p class="prose-p">Carly Simon curtailed live performances because of it. A friend of mine who worked with Neil Diamond said he insisted the words to Song Song Blue, a tune he’d been crooning for forty years, be displayed on his teleprompter. Lest fear frees him into forgetfulness.</p>
+<p class="prose-p">We now move from the silent world to the spoken word.
+
+#### Part 2 How to Know What to Say After You Say Hi Just as the first glimpse should please their eyes, your first words should delight their ears. Your tongue is a welcome mat embossed with either welcome or go away. To make your conversation partner feel welcome, you must master small talk. Can you hear the shudder?</p>
+<p class="prose-p">Those two little words drive a stake into the hearts of some otherwise fearless and undaunted souls. Invite them to a party where they don’t know anyone, and it mainlines queasiness into their veins. If this sounds familiar, take consolation from the fact that the brighter the individual, the more he or she detests small talk. When consulting for Fortune 500 companies, I was astounded.</p>
+<p class="prose-p">Top executives, completely comfortable making big talk with their boards of directors or addressing their stockholders, confessed they felt like little lost children at parties where the pratter was less than prodigious. Small talk haters take further consolation from the fact that you are in star-studded company. Fear of small talk and stage fright are the same thing. The butterflies you feel in your stomach when you’re in a room full of strangers flutter round the tummies of top performers.</p>
+<p class="prose-p">Pablo Casals complained of lifelong stage fright. Carly Simon curtailed live performances because of it. A friend of mine who worked with Neil Diamond said he insisted the words to Song Song Blue, a tune he’d been crooning for forty years, be displayed on his teleprompter. Lest fear frees him into forgetfulness.</p>
           </div>
         </section>
         
@@ -1125,15 +1245,15 @@
 <p class="prose-p">Both the man and his wife looked troubled and sympathetic. Do you mean you won’t be able to see them or hear from them until after the war is over? There was more to the conversation, but the result was within ten minutes they had invited Hayakawa, whom they initially may have suspected was a Japanese spy, to visit them some time in their city and have dinner in their home, and all because of this brilliant scholar’s admittedly common and unoriginal small talk. Not communicators know the most soothing and appropriate first word should be, like Senator Hayakawa’s, unoriginal, even banal.</p>
 <p class="prose-p">But not indifferent. Hayakawa delivered his sentiments with sincerity and passion, assent from banality. It is not necessary, of course, to stay with mundane remarks. If you find your company displays cleverness or wit, you match that.</p>
 <p class="prose-p">The conversation then escalates naturally, compatibly. Don’t rush it or, like the mensons, you seem like you’re showing off. The bottom line on your first words is to have the courage of your own triteness. Because remember, people tune into your tone more than your text.</p>
-<p class="prose-p">Week number eleven.</p>
-<h4 class="section-subhead">PROSAIC WITH PASSION.</h4>
-<p class="prose-p">Worried about your first words? Fear not, because eighty percent of your listener’s impression has nothing to do with your words anyway. Almost anything you say at first is fine. No matter how prosaic the text, an empathetic mood, a positive demeanor and passionate delivery make you sound exciting.</p>
-<p class="prose-p">Anything except liverwurst. Except to Dottie, waiting for her sandwich at her desk. Sometimes as I walked out the door scratching my head wondering what to bring her, she’d call after me. Anything except liverwurst, that is.</p>
-<p class="prose-p">Thanks, Dottie. That’s a little bit of help. Here’s my anything except liverwurst on small talk. Anything you say is fine as long as it is not complaining, rude or unpleasant.</p>
-<p class="prose-p">If the first… words out of your mouth are a complaint, plan. People label you a complainer. Why? Because that complaint is your new acquaintance’s 100 percent sampling of you so far.</p>
-<p class="prose-p">You could be the happiest Pollyanna ever, but how will they know? If your first comment is a complaint, you’re a griper. If your first words are rude, you’re a creep. If your first words are unpleasant, you’re a stinker.</p>
-<p class="prose-p">Open and shut. Other than these downers anything goes. Ask them where they’re from, how they know the host of the party, where they bought the lovely suit they’re wearing, or hundreds of et ceteras. The trick is to ask your prosaic question with passion to get the other person talking.</p>
-<p class="prose-p">Still feel a bit shaky on making the approach to strangers? Let’s take a quick detour on our road to meaningful communicating. I’ll give you three quickie techniques to meet</p>
+<p class="prose-p">Week number eleven.
+
+#### PROSAIC WITH PASSION. Worried about your first words? Fear not, because eighty percent of your listener’s impression has nothing to do with your words anyway. Almost anything you say at first is fine.</p>
+<p class="prose-p">No matter how prosaic the text, an empathetic mood, a positive demeanor and passionate delivery make you sound exciting. Anything except liverwurst. Except to Dottie, waiting for her sandwich at her desk. Sometimes as I walked out the door scratching my head wondering what to bring her, she’d call after me.</p>
+<p class="prose-p">Anything except liverwurst, that is. Thanks, Dottie. That’s a little bit of help. Here’s my anything except liverwurst on small talk.</p>
+<p class="prose-p">Anything you say is fine as long as it is not complaining, rude or unpleasant. If the first… words out of your mouth are a complaint, plan. People label you a complainer. Why?</p>
+<p class="prose-p">Because that complaint is your new acquaintance’s 100 percent sampling of you so far. You could be the happiest Pollyanna ever, but how will they know? If your first comment is a complaint, you’re a griper. If your first words are rude, you’re a creep.</p>
+<p class="prose-p">If your first words are unpleasant, you’re a stinker. Open and shut. Other than these downers anything goes. Ask them where they’re from, how they know the host of the party, where they bought the lovely suit they’re wearing, or hundreds of et ceteras.</p>
+<p class="prose-p">The trick is to ask your prosaic question with passion to get the other person talking. Still feel a bit shaky on making the approach to strangers? Let’s take a quick detour on our road to meaningful communicating. I’ll give you three quickie techniques to meet</p>
           </div>
         </section>
         
@@ -1153,11 +1273,13 @@
 <p class="prose-p">An attractive woman spots you across the room. She wants to talk to you, but she’s thinking, Well, mister, you’re attractive, but golly, what can I say to you? You just ain’t got no what’s-it. Be a what’s-it seeker, too.</p>
 <p class="prose-p">Likewise, become proficient in scrutinizing the apparel of those you wish to approach. Why not express interest in the handkerchief in the tycoon’s vest pocket, the brooch on the bosom of the rich divorcee, or the school ring on the finger of the CEO whose company you want to work for? The big spender, who you suspect might buy a hundred of your widgets, has a tiny golf-club lapel pin? Say, Excuse me, I couldn’t help but notice your attractive lapel pin.</p>
 <p class="prose-p">Are you a golfer? Me, too. What courses have you played? Your business cards and your what’s-it are crucial socializing artifacts.</p>
-<p class="prose-p">Whether you are riding in the elevator, climbing the doorstep, or traversing the path to the party, make sure your what’s-it is hanging out for all to see. Always wear a what’s-it. Whenever you go to a gathering, wear or carry something unusual to give people who find you the delightful stranger across the crowded room an excuse to approach. Excuse me, I couldn’t help but notice your…</p>
-<p class="prose-p">what is that? The next quickie technique was originated by doggedly determined politicians who don’t let one party go or escape if they think he or she could be helpful to their campaigns. I call it the who’s-at technique. How to meet the people you want to meet Say you have scrutinized the body of the important business contact you want to meet.</p>
-<p class="prose-p">You’ve searched in vain from the tip of his cowlick to the toes of his boots. He’s not sporting a single what’s-it. If you strike out on finding something to comment on, resort to the who’s-at technique. Like a persistent politician, go to the party giver and say, that man or woman over there looks interesting.</p>
-<p class="prose-p">Who is he or she? Then ask for an introduction. Don’t be hesitant. The party giver will be pleased you find one of the guests interesting.</p>
-<p class="prose-p">If however you are loathe to pull the party giver away from his or her other guests, you can still perform who’s-at. This time, don’t ask for a formal introduction. Simply</p>
+<p class="prose-p">Whether you are riding in the elevator, climbing the doorstep, or traversing the path to the party, make sure your what’s-it is hanging out for all to see. Always wear a what’s-it. Whenever you go to a gathering, wear or carry something unusual to give people who find you the delightful stranger across the crowded room an excuse to approach. Excuse me, I couldn’t help but notice your…
+
+what is that?</p>
+<p class="prose-p">The next quickie technique was originated by doggedly determined politicians who don’t let one party go or escape if they think he or she could be helpful to their campaigns. I call it the who’s-at technique. How to meet the people you want to meet Say you have scrutinized the body of the important business contact you want to meet. You’ve searched in vain from the tip of his cowlick to the toes of his boots.</p>
+<p class="prose-p">He’s not sporting a single what’s-it. If you strike out on finding something to comment on, resort to the who’s-at technique. Like a persistent politician, go to the party giver and say, that man or woman over there looks interesting. Who is he or she?</p>
+<p class="prose-p">Then ask for an introduction. Don’t be hesitant. The party giver will be pleased you find one of the guests interesting. If however you are loathe to pull the party giver away from his or her other guests, you can still perform who’s-at.</p>
+<p class="prose-p">This time, don’t ask for a formal introduction. Simply</p>
           </div>
         </section>
         
@@ -1398,11 +1520,11 @@
 <p class="prose-p">Thus she instructed them to read the daily newspaper or listen to a radio broadcast before leaving for an appointment. Sydney told me when she initiated this rule, her business increased significantly. Reports came back from her clients complimenting her on the fascinating women she had working for her. The consummate businesswoman, Ms. Barrows always strove to exceed her customers&#x27; expectations.</p>
 <p class="prose-p">Technique number 23. The latest news. Don’t leave home without it. The last move to make before leaving for the party, even after you’ve given yourself final approval in the mirror, is to turn on the radio news or scan your newspaper.</p>
 <p class="prose-p">Anything that happened today is good material. Knowing the big deal news of the moment is also a defensive move that rescues you from putting your foot in your mouth by asking what everybody’s talking about. Foot in mouth is not very tasty in public, especially when it’s surrounded by egg on face. Ready for the big leagues of conversation?</p>
-<p class="prose-p">Let’s go.</p>
-<h4 class="section-subhead">Part 3.</h4>
-<p class="prose-p">How to talk like a VIP. Welcome to the human jungle. When two tigers prowling through the jungle chance upon one another in a clearing, they look at each other. They freeze.</p>
-<p class="prose-p">Instinctively they calculate. If our staring came to hissing, came to scratching, came to clawing, who would win? Which of us has the stronger survival skills? Tigers in the wilderness differ little from the urban upright animals inhabiting the corporate jungle or singles jungle or social jungle.</p>
-<p class="prose-p">Humans start the process by looking at each other and talking. In the business world, while smiling and uttering, how do you do, hello, howdy or high, they are, like tigers, instinctively, instantaneously sizing each other up.</p>
+<p class="prose-p">Let’s go.
+
+#### Part 3. How to talk like a VIP. Welcome to the human jungle. When two tigers prowling through the jungle chance upon one another in a clearing, they look at each other.</p>
+<p class="prose-p">They freeze. Instinctively they calculate. If our staring came to hissing, came to scratching, came to clawing, who would win? Which of us has the stronger survival skills?</p>
+<p class="prose-p">Tigers in the wilderness differ little from the urban upright animals inhabiting the corporate jungle or singles jungle or social jungle. Humans start the process by looking at each other and talking. In the business world, while smiling and uttering, how do you do, hello, howdy or high, they are, like tigers, instinctively, instantaneously sizing each other up.</p>
           </div>
         </section>
         
@@ -2344,19 +2466,20 @@
           <div class="section-body">
             <p class="prose-p">When I was in the presence of the most successful and beloved leaders, I analyzed their body language and their facial expressions. I listened carefully to their casual conversations. Their timing, and their choice of words. I watched as they dealt with their families, friends, associates, and adversaries.</p>
 <p class="prose-p">Every time I detected a little nip of magic in their communicating, I asked them to pluck it out with tweezers and expose it to the bright light of consciousness. We analyzed it together, and then I turned it into an easy-to-do little trick others could duplicate and profit from. My findings and the strokes of some of those very effective folks are in this book. Some are subtle, some are surprising, but all are achievable.</p>
-<p class="prose-p">When you master them, everyone from new acquaintances to family, friends, and business associates will happily open their hearts, homes, companies, and even wallets to give you whatever they can. There’s a bonus. As you sail through life with your new communication skills, you will look back and see some very happy givers smiling in your wake.</p>
-<h4 class="section-subhead">Part 1.</h4>
-<p class="prose-p">How to Intrigue Everyone Without Saying a Word You only have 10 seconds to show you’re a somebody. The exact moment that two humans lay eyes on each other has awesome potency. The first side of you is a brilliant holograph. It burns its way into your new acquaintance’s eyes and can stay emblazoned in his or her memory forever.</p>
-<p class="prose-p">Artists are sometimes able to capture this quick, silver, fleeting, emotional response. My friend Robert Grossman is an accomplished caricature artist who draws regularly for Forbes, Newsweek, Sports Illustrated, Rolling Stone, and other popular publications. Bob has a unique gift for capturing not only the physical appearance of his subjects, but for zeroing in on the essence of their personalities. The bodies and souls of hundreds of luminaries radiate from his sketch pad.</p>
-<p class="prose-p">One glance at his caricatures of famous people, and you can actually see their personalities. Sometimes at a party, Bob will do a quick sketch on a cocktail napkin of a guest. Hovering over Bob’s shoulder, the onlookers gasp as they watch their friend’s image and essence materialize before their eyes. When he’s finished drawing, he puts his pen down and hands the napkin to the subject.</p>
-<p class="prose-p">Often a puzzled look comes over the subject’s face. He or she usually mumbles some politeness like, well, that’s great, but it really isn’t me. The crowds convincing Crescendo of, oh, yes, it is, drowns the subject out and squelches any lingering doubt. The confused subject is left to stare back at the world’s view of himself or herself in the napkin.</p>
-<p class="prose-p">Once, when I was visiting Bob’s studio, I asked him how he could capture people’s personalities so well. He said, it’s simple. I just look at them. No, I asked.</p>
-<p class="prose-p">How do you capture their personalities? Don’t you have to do a lot of research about their lifestyle, their history? No, I told you, Leela, just look at them. Huh?</p>
-<p class="prose-p">He went on to explain almost every facet of people’s personalities is evident from their appearance, their posture, the way they move. For instance, he said, calling me over to a file where he kept his caricatures of political figures. See, Bob said, pointing to angles on various presidential body parts. Here’s the boyishness of Clinton, showing me his half smile, the awkwardness of the elder George Bush, pointing to his shoulder angle, the charm of Reagan, noting the ex-president’s smiling eyes, the shiftiness of Nixon, pointing to the furtive tilt of his head.</p>
-<p class="prose-p">Digging a little deeper into his file, he pulled out Franklin Delano Roosevelt and pointing to the nose high in the air. Here’s the pride of FDR. It’s all in the face and the body. First impressions are indelible. Why?</p>
-<p class="prose-p">Because in our fast paced information overload world of multiple stimuli bombarding us every second, people’s heads are spinning. They must form quick judgments to make sense of the world and get on with what they have to do. So whenever people meet you, they take an instant mental snapshot. That image of you becomes the data they deal with for a very long time.</p>
-<p class="prose-p">Your body shrieks before your lips can speak. Are their data accurate? Amazingly enough, yes. Even before your lips part and the first syllable escapes, the essence of you has already axed its way into their brains.</p>
-<p class="prose-p">The way you look and the way you move is more than 80% of someone’s first impression of you. Not one word need be spoken.</p>
+<p class="prose-p">When you master them, everyone from new acquaintances to family, friends, and business associates will happily open their hearts, homes, companies, and even wallets to give you whatever they can. There’s a bonus. As you sail through life with your new communication skills, you will look back and see some very happy givers smiling in your wake.
+
+#### Part 1. How to Intrigue Everyone Without Saying a Word You only have 10 seconds to show you’re a somebody.</p>
+<p class="prose-p">The exact moment that two humans lay eyes on each other has awesome potency. The first side of you is a brilliant holograph. It burns its way into your new acquaintance’s eyes and can stay emblazoned in his or her memory forever. Artists are sometimes able to capture this quick, silver, fleeting, emotional response.</p>
+<p class="prose-p">My friend Robert Grossman is an accomplished caricature artist who draws regularly for Forbes, Newsweek, Sports Illustrated, Rolling Stone, and other popular publications. Bob has a unique gift for capturing not only the physical appearance of his subjects, but for zeroing in on the essence of their personalities. The bodies and souls of hundreds of luminaries radiate from his sketch pad. One glance at his caricatures of famous people, and you can actually see their personalities.</p>
+<p class="prose-p">Sometimes at a party, Bob will do a quick sketch on a cocktail napkin of a guest. Hovering over Bob’s shoulder, the onlookers gasp as they watch their friend’s image and essence materialize before their eyes. When he’s finished drawing, he puts his pen down and hands the napkin to the subject. Often a puzzled look comes over the subject’s face.</p>
+<p class="prose-p">He or she usually mumbles some politeness like, well, that’s great, but it really isn’t me. The crowds convincing Crescendo of, oh, yes, it is, drowns the subject out and squelches any lingering doubt. The confused subject is left to stare back at the world’s view of himself or herself in the napkin. Once, when I was visiting Bob’s studio, I asked him how he could capture people’s personalities so well.</p>
+<p class="prose-p">He said, it’s simple. I just look at them. No, I asked. How do you capture their personalities?</p>
+<p class="prose-p">Don’t you have to do a lot of research about their lifestyle, their history? No, I told you, Leela, just look at them. Huh? He went on to explain almost every facet of people’s personalities is evident from their appearance, their posture, the way they move.</p>
+<p class="prose-p">For instance, he said, calling me over to a file where he kept his caricatures of political figures. See, Bob said, pointing to angles on various presidential body parts. Here’s the boyishness of Clinton, showing me his half smile, the awkwardness of the elder George Bush, pointing to his shoulder angle, the charm of Reagan, noting the ex-president’s smiling eyes, the shiftiness of Nixon, pointing to the furtive tilt of his head. Digging a little deeper into his file, he pulled out Franklin Delano Roosevelt and pointing to the nose high in the air.</p>
+<p class="prose-p">Here’s the pride of FDR. It’s all in the face and the body. First impressions are indelible. Why? Because in our fast paced information overload world of multiple stimuli bombarding us every second, people’s heads are spinning.</p>
+<p class="prose-p">They must form quick judgments to make sense of the world and get on with what they have to do. So whenever people meet you, they take an instant mental snapshot. That image of you becomes the data they deal with for a very long time. Your body shrieks before your lips can speak.</p>
+<p class="prose-p">Are their data accurate? Amazingly enough, yes. Even before your lips part and the first syllable escapes, the essence of you has already axed its way into their brains. The way you look and the way you move is more than 80% of someone’s first impression of you.</p>
+<p class="prose-p">Not one word need be spoken.</p>
           </div>
         </section>
         
@@ -2696,11 +2819,12 @@
 <p class="prose-p">Watch the scene before you make the scene. Rehearse being the super somebody you want to be ahead of time. See yourself walking around with hang by your teeth posture, shaking hands, smiling the flooding smile, and making sticky eyes. Hear yourself chatting comfortably with everyone.</p>
 <p class="prose-p">Feel the pleasure of knowing you are in peak form and everyone is gravitating toward you. Visualize yourself a super somebody. Then it all happens automatically. You now have the skills necessary to get you started on the right foot with any new person in your life.</p>
 <p class="prose-p">Think of yourself in these first moments like a rocket taking off. When the folks at Cape Kennedy aim a spacecraft for the moon, a mistake in the millionth of a degree at the beginning, when the craft is still on the ground, means missing the moon by thousands of miles. Likewise, a tiny body language blooper at the outside of a relationship may mean you will never make a hit with that person. But with the flooding smile, sticky eyes, epoxy eyes, hang by your teeth, the big baby pivot, hello old friend, limit the fidget, Hans’s horse sense, and watch the scene before you make the scene, you’ll be right on course to get whatever you eventually want from anybody, be it business, friendship, or love.</p>
-<p class="prose-p">We now move from the silent world to the spoken word.</p>
-<h4 class="section-subhead">Part 2 How to Know What to Say After You Say Hi Just as the first glimpse should please their eyes, your first words should delight their ears.</h4>
-<p class="prose-p">Your tongue is a welcome mat embossed with either welcome or go away. To make your conversation partner feel welcome, you must master small talk. Can you hear the shudder? Those two little words drive a stake into the hearts of some otherwise fearless and undaunted souls.</p>
-<p class="prose-p">Invite them to a party where they don’t know anyone, and it mainlines queasiness into their veins. If this sounds familiar, take consolation from the fact that the brighter the individual, the more he or she detests small talk. When consulting for Fortune 500 companies, I was astounded. Top executives, completely comfortable making big talk with their boards of directors or addressing their stockholders, confessed they felt like little lost children at parties where the pratter was less than prodigious.</p>
-<p class="prose-p">Small talk haters take further consolation from the fact that you are in star-studded company. Fear of small talk and stage fright are the same thing. The butterflies you feel in your stomach when you’re in a room full of strangers flutter round the tummies of top performers. Pablo Casals complained of lifelong stage fright.</p>
+<p class="prose-p">We now move from the silent world to the spoken word.
+
+#### Part 2 How to Know What to Say After You Say Hi Just as the first glimpse should please their eyes, your first words should delight their ears. Your tongue is a welcome mat embossed with either welcome or go away. To make your conversation partner feel welcome, you must master small talk. Can you hear the shudder?</p>
+<p class="prose-p">Those two little words drive a stake into the hearts of some otherwise fearless and undaunted souls. Invite them to a party where they don’t know anyone, and it mainlines queasiness into their veins. If this sounds familiar, take consolation from the fact that the brighter the individual, the more he or she detests small talk. When consulting for Fortune 500 companies, I was astounded.</p>
+<p class="prose-p">Top executives, completely comfortable making big talk with their boards of directors or addressing their stockholders, confessed they felt like little lost children at parties where the pratter was less than prodigious. Small talk haters take further consolation from the fact that you are in star-studded company. Fear of small talk and stage fright are the same thing. The butterflies you feel in your stomach when you’re in a room full of strangers flutter round the tummies of top performers.</p>
+<p class="prose-p">Pablo Casals complained of lifelong stage fright.</p>
           </div>
         </section>
         
@@ -2854,17 +2978,18 @@
           </div>
           <div class="section-body">
             <p class="prose-p">final approval in the mirror, is to turn on the radio news or scan your newspaper. Anything that happened today is good material. Knowing the big deal news of the moment is also a defensive move that rescues you from putting your foot in your mouth by asking what everybody’s talking about. Foot in mouth is not very tasty in public, especially when it’s surrounded by egg-on-face.</p>
-<p class="prose-p">Ready for the big leagues of conversation? Let’s go.</p>
-<h4 class="section-subhead">Part 3.</h4>
-<p class="prose-p">How to talk like a VIP. Welcome to the human jungle. When two tigers prowling through the jungle chance upon one another in a clearing, they look at each other. They freeze.</p>
-<p class="prose-p">Instinctively they calculate. If our staring came to hissing, came to scratching, came to clawing, who would win? Which of us has the stronger survival skills? Tigers in the wilderness differ little from the urban upright animals inhabiting the corporate jungle or singles jungle or social jungle.</p>
-<p class="prose-p">Humans start the process by looking at each other and talking. In the business world, while smiling and uttering, how do you do, hello, howdy or high, they are, like tigers, instinctively, instantaneously sizing each other up. They’re not calculating the length of each other’s claws or the sharpness of their teeth. They are judging each other on a weapon far more powerful to survival as they have defined it.</p>
-<p class="prose-p">Humans are judging each other’s communication skills. Though they may not know the names of the specific studies first proving it, they sensed the truth. Eighty-five percent of one’s success in life is directly due to communication skills. They may not be familiar with the U. S. Census Bureau’s recent survey showing employers choose candidates with good communication skills and attitude way over education, experience, and training, but they know communication skills get people to the top.</p>
-<p class="prose-p">Thus, by observing each other carefully during casual conversing, it becomes almost immediately evident to both which is the bigger cat in the human jungle. It doesn’t take long for people to recognize who is an important person. One cliché, one insensitive remark, one over-anxious reaction, and you can be professionally or personally demoted. You can lose a potentially important friendship or business contact.</p>
-<p class="prose-p">One stupid move and you can tumble off the corporate or social ladder. The techniques in this section will help ensure that you make all the right moves so this doesn’t happen. The following communication skills give you a leg up to start your ascent to the top of any ladder you choose. Twenty-four.</p>
-<p class="prose-p">How to find out what they do without even asking. To size each other up, the first question little cats flat-pawedly ask each other is, �And what do you do, hmm?� Then they crouch there, quivering their whiskers and twitching their noses with an obvious, �I’m going to pronounce silent judgment on you after you answer, look on their pusses.� Big cats never ask outright, �What do you do?� Oh, they find out all right, in a much more subtle manner. By not asking the question, the big boys and big girls come across as more principled, even spiritual.</p>
-<p class="prose-p">After all, their silence says, �A man or woman is far more than his or her job.� Resisting the tempting question also shows their sensitivity. With so much downsizing, right-sizing, and capsizing of corporations these days, the blunt interrogation evokes uneasiness. The job question is not just unpleasant for those who are between engagements. �I have several gainfully employed friends who hate being asked, and what do you do?� One of these folks cuts cadavers for autopsies, the other is an IRS collection agent. Additionally, millions of talented and accomplished women have chosen to devote themselves to motherhood.</p>
-<p class="prose-p">When the cruel corporate question is thrust at them, they feel guilty. The rude interrogation belittles their commitment to their families. No matter how the women answer, they fear the asker is only going to hear a humble, �I’m just a housewife.� Big boys and big girls should avoid asking, �What do you do?� for another reason. Their abstinence from the question leads listeners to believe that they are in the habit of soaring</p>
+<p class="prose-p">Ready for the big leagues of conversation? Let’s go.
+
+#### Part 3. How to talk like a VIP. Welcome to the human jungle.</p>
+<p class="prose-p">When two tigers prowling through the jungle chance upon one another in a clearing, they look at each other. They freeze. Instinctively they calculate. If our staring came to hissing, came to scratching, came to clawing, who would win?</p>
+<p class="prose-p">Which of us has the stronger survival skills? Tigers in the wilderness differ little from the urban upright animals inhabiting the corporate jungle or singles jungle or social jungle. Humans start the process by looking at each other and talking. In the business world, while smiling and uttering, how do you do, hello, howdy or high, they are, like tigers, instinctively, instantaneously sizing each other up.</p>
+<p class="prose-p">They’re not calculating the length of each other’s claws or the sharpness of their teeth. They are judging each other on a weapon far more powerful to survival as they have defined it. Humans are judging each other’s communication skills. Though they may not know the names of the specific studies first proving it, they sensed the truth.</p>
+<p class="prose-p">Eighty-five percent of one’s success in life is directly due to communication skills. They may not be familiar with the U. S. Census Bureau’s recent survey showing employers choose candidates with good communication skills and attitude way over education, experience, and training, but they know communication skills get people to the top. Thus, by observing each other carefully during casual conversing, it becomes almost immediately evident to both which is the bigger cat in the human jungle. It doesn’t take long for people to recognize who is an important person.</p>
+<p class="prose-p">One cliché, one insensitive remark, one over-anxious reaction, and you can be professionally or personally demoted. You can lose a potentially important friendship or business contact. One stupid move and you can tumble off the corporate or social ladder. The techniques in this section will help ensure that you make all the right moves so this doesn’t happen.</p>
+<p class="prose-p">The following communication skills give you a leg up to start your ascent to the top of any ladder you choose. Twenty-four. How to find out what they do without even asking. To size each other up, the first question little cats flat-pawedly ask each other is, �And what do you do, hmm?� Then they crouch there, quivering their whiskers and twitching their noses with an obvious, �I’m going to pronounce silent judgment on you after you answer, look on their pusses.� Big cats never ask outright, �What do you do?� Oh, they find out all right, in a much more subtle manner.</p>
+<p class="prose-p">By not asking the question, the big boys and big girls come across as more principled, even spiritual. After all, their silence says, �A man or woman is far more than his or her job.� Resisting the tempting question also shows their sensitivity. With so much downsizing, right-sizing, and capsizing of corporations these days, the blunt interrogation evokes uneasiness. The job question is not just unpleasant for those who are between engagements. �I have several gainfully employed friends who hate being asked, and what do you do?� One of these folks cuts cadavers for autopsies, the other is an IRS collection agent.</p>
+<p class="prose-p">Additionally, millions of talented and accomplished women have chosen to devote themselves to motherhood. When the cruel corporate question is thrust at them, they feel guilty. The rude interrogation belittles their commitment to their families. No matter how the women answer, they fear the asker is only going to hear a humble, �I’m just a housewife.� Big boys and big girls should avoid asking, �What do you do?� for another reason.</p>
+<p class="prose-p">Their abstinence from the question leads listeners to believe that they are in the habit of soaring</p>
           </div>
         </section>
         
@@ -3317,6 +3442,204 @@
 
     document.getElementById('scroll-top-btn').addEventListener('click', () => {
       window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    // ==========================================
+    // IN-PAGE CONTENT SEARCH (單書全文搜尋)
+    // ==========================================
+    const searchBar = document.getElementById('inpage-search-bar');
+    const searchInput = document.getElementById('inpage-search-input');
+    const searchCount = document.getElementById('inpage-search-count');
+    const searchDrawer = document.getElementById('inpage-search-drawer');
+    const searchDrawerList = document.getElementById('inpage-search-drawer-list');
+    const searchToggleBtn = document.getElementById('search-toggle-btn');
+    const searchClearBtn = document.getElementById('inpage-search-clear');
+    const searchPrevBtn = document.getElementById('inpage-search-prev');
+    const searchNextBtn = document.getElementById('inpage-search-next');
+    const searchCloseBtn = document.getElementById('inpage-search-close');
+    const drawerCloseBtn = document.getElementById('inpage-drawer-close');
+
+    let searchMatches = [];
+    let currentMatchIdx = -1;
+
+    // Cache original innerHTML for clean resets
+    const rawParagraphs = Array.from(document.querySelectorAll('.section-body p')).map(p => ({
+      el: p,
+      rawHtml: p.innerHTML,
+      rawText: p.textContent
+    }));
+
+    function openSearch() {
+      searchBar.classList.add('active');
+      searchInput.focus();
+      searchInput.select();
+      if (searchInput.value.trim()) {
+        performSearch(searchInput.value.trim());
+      }
+    }
+
+    function closeSearch() {
+      searchBar.classList.remove('active');
+      searchDrawer.classList.remove('active');
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchCount.textContent = '0 / 0';
+    }
+
+    function clearHighlights() {
+      rawParagraphs.forEach(item => {
+        item.el.innerHTML = item.rawHtml;
+      });
+    }
+
+    function escapeRegex(str) {
+      return str.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+    }
+
+    function escapeHtml(str) {
+      return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+
+    function performSearch(query) {
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchDrawerList.innerHTML = '';
+
+      if (!query || query.trim().length === 0) {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+        return;
+      }
+
+      query = query.trim();
+      const qLower = query.toLowerCase();
+      const regex = new RegExp(`(${escapeRegex(query)})`, 'gi');
+
+      rawParagraphs.forEach((item, pIdx) => {
+        if (item.rawText.toLowerCase().includes(qLower)) {
+          const sec = item.el.closest('.transcript-section');
+          const secTime = sec ? (sec.querySelector('.section-time')?.textContent || '') : '';
+          const secId = sec ? sec.id : '';
+
+          // Apply highlight
+          item.el.innerHTML = item.rawHtml.replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const marks = Array.from(item.el.querySelectorAll('mark.search-highlight'));
+          marks.forEach(mark => {
+            searchMatches.push({
+              mark,
+              el: item.el,
+              secTime,
+              secId
+            });
+          });
+
+          // Snippet creation
+          const matchPos = item.rawText.toLowerCase().indexOf(qLower);
+          const start = Math.max(0, matchPos - 30);
+          const end = Math.min(item.rawText.length, matchPos + query.length + 50);
+          const snippetText = item.rawText.slice(start, end);
+          const snippetHtml = escapeHtml(snippetText).replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const card = document.createElement('div');
+          card.className = 'search-result-item';
+          card.innerHTML = `
+            <div class="search-result-time">${secTime}</div>
+            <div class="search-result-snippet">...${snippetHtml}...</div>
+          `;
+          card.addEventListener('click', () => {
+            const targetIdx = searchMatches.findIndex(m => m.mark === marks[0]);
+            if (targetIdx >= 0) goToMatch(targetIdx);
+          });
+          searchDrawerList.appendChild(card);
+        }
+      });
+
+      if (searchMatches.length > 0) {
+        searchDrawer.classList.add('active');
+        goToMatch(0);
+      } else {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+      }
+    }
+
+    function goToMatch(idx) {
+      if (idx < 0 || idx >= searchMatches.length) return;
+      if (currentMatchIdx >= 0 && searchMatches[currentMatchIdx]) {
+        searchMatches[currentMatchIdx].mark.classList.remove('active-match');
+      }
+      currentMatchIdx = idx;
+      const target = searchMatches[currentMatchIdx];
+      target.mark.classList.add('active-match');
+      searchCount.textContent = `${currentMatchIdx + 1} / ${searchMatches.length}`;
+
+      // Highlight active drawer item
+      const drawerItems = searchDrawerList.querySelectorAll('.search-result-item');
+      drawerItems.forEach(di => di.classList.remove('active'));
+
+      target.mark.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+
+    searchToggleBtn.addEventListener('click', () => {
+      if (searchBar.classList.contains('active')) {
+        closeSearch();
+      } else {
+        openSearch();
+      }
+    });
+
+    let debounceTimer;
+    searchInput.addEventListener('input', (e) => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => {
+        performSearch(e.target.value);
+      }, 200);
+    });
+
+    searchClearBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      performSearch('');
+      searchInput.focus();
+    });
+
+    searchNextBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const nextIdx = (currentMatchIdx + 1) % searchMatches.length;
+      goToMatch(nextIdx);
+    });
+
+    searchPrevBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const prevIdx = (currentMatchIdx - 1 + searchMatches.length) % searchMatches.length;
+      goToMatch(prevIdx);
+    });
+
+    searchInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        if (e.shiftKey) {
+          searchPrevBtn.click();
+        } else {
+          searchNextBtn.click();
+        }
+      } else if (e.key === 'Escape') {
+        closeSearch();
+      }
+    });
+
+    searchCloseBtn.addEventListener('click', closeSearch);
+    drawerCloseBtn.addEventListener('click', () => searchDrawer.classList.remove('active'));
+
+    window.addEventListener('keydown', (e) => {
+      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'f') {
+        e.preventDefault();
+        openSearch();
+      } else if (e.key === 'Escape') {
+        if (searchBar.classList.contains('active')) closeSearch();
+      }
     });
   </script>
 </body>

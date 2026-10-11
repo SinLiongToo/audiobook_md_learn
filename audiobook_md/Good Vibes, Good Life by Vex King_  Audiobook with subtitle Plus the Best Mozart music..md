@@ -270,9 +270,9 @@ The truth is that you can feel good right now. The feelings we project are retur
 
 You’ll feel good and attract good. By taking positive actions and changing your mindset, you’ll manifest greater things. By loving yourself, you’ll live a life you love.
 
-#### Part 2 – Positive Lifestyle Habits Introduction Higher states of vibration will help you feel good, which means you can manifest more good things in your life.
+#### Part 2 – Positive Lifestyle Habits Introduction Higher states of vibration will help you feel good, which means you can manifest more good things in your life. Your aim is to feel better by vibrating higher.
 
-Your aim is to feel better by vibrating higher. There are many lifestyle habits that will help you do this and bring you closer to a more loving and joyful state. You can change your emotional state through all sorts of activities that will raise your vibration, some of which will have a lasting effect while others may make you feel good only in the moment.
+There are many lifestyle habits that will help you do this and bring you closer to a more loving and joyful state. You can change your emotional state through all sorts of activities that will raise your vibration, some of which will have a lasting effect while others may make you feel good only in the moment.
 
 For example, if you feel upset because you’ve fallen out with a friend, you might be able to change your emotional state by doing something fun with other friends instead. Other ways you might raise your vibration include physical touch with a loved one, laughing, listening to uplifting music, spreading kindness, sleeping deeply, moving your body or any other activity that you enjoy. But afterwards, you might be left to face your misery again. Nothing has improved in your mind, you have just temporarily avoided the problem.
 
@@ -1450,9 +1450,9 @@ Only with faith can we recognize the value of our apparent downfalls. What we tr
 
 Your job is to do the best you can to achieve this.
 
-#### Part 7, pain and purpose.
+#### Part 7, pain and purpose. Introduction, life doesn’t battle you because you’re weak, it battles you because you’re strong. It knows that if it gives you pain, you’ll realize your power. The great Greek philosopher Aristotle claimed that everything happens for a reason.
 
-Introduction, life doesn’t battle you because you’re weak, it battles you because you’re strong. It knows that if it gives you pain, you’ll realize your power. The great Greek philosopher Aristotle claimed that everything happens for a reason. You can apply this when you consider that every experience in your life is designed to shape you and help you grow into the highest
+You can apply this when you consider that every experience in your life is designed to shape you and help you grow into the highest
 
 
 <a id="sec-035159"></a>

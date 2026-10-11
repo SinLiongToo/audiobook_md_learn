@@ -134,11 +134,9 @@ Your soul is the reason why you’re even on this journey in the first place, to
 
 If you want to be free, happy, peaceful, and full of love, then you will need to let go of listening only to your mind and go beyond it by tuning into something much greater that will help you not just to survive, but to thrive.
 
-#### Chapter 4 Thoughts vs Thinking Stop thinking and end your problems. Lao Tzu Thoughts are the energetic, mental, raw materials from which we use to create everything in the world.
+#### Chapter 4 Thoughts vs Thinking Stop thinking and end your problems. Lao Tzu Thoughts are the energetic, mental, raw materials from which we use to create everything in the world. We can’t experience anything without thought. It’s important to know that thoughts are a noun and aren’t something that we do, but something that we have.
 
-We can’t experience anything without thought. It’s important to know that thoughts are a noun and aren’t something that we do, but something that we have. A thought takes no effort or force on our end and it is something that just happens. We also cannot control what thoughts pop into our minds.
-
-The source of thoughts comes from something that is beyond our minds, the universe if
+A thought takes no effort or force on our end and it is something that just happens. We also cannot control what thoughts pop into our minds. The source of thoughts comes from something that is beyond our minds, the universe if
 
 
 <a id="sec-002515"></a>
@@ -248,29 +246,27 @@ Without thought, we would have nothing to be aware of. Thought is like the DVD t
 
 The electricity that’s needed to power the DVD player and TV is like universal mind in the sense that it is the invisible energy slash force that connects and powers all things. It is the source from which everything can work and function.
 
-#### Chapter 7.
+#### Chapter 7. If thinking is the root cause of suffering, how do we stop thinking? A crowded mind leaves no space for a peaceful heart.
 
-If thinking is the root cause of suffering, how do we stop thinking? A crowded mind leaves no space for a peaceful heart. Christine Evangelou. Heaven and Hell.
+Christine Evangelou. Heaven and Hell. A Zen Parable. A tough, brawny samurai once approached Zen Master who was in deep meditation.
 
-A Zen Parable. A tough, brawny samurai once approached Zen Master who was in deep meditation. Impatient and discourteous, the samurai demanded in his husky voice so accustomed to forceful yelling, tell me the nature of heaven and hell. The Zen Master opened his eyes, looked the samurai in the face, and replied with a certain scorn, why should I answer to a shabby, disgusting, despondent slob like you?
+Impatient and discourteous, the samurai demanded in his husky voice so accustomed to forceful yelling, tell me the nature of heaven and hell. The Zen Master opened his eyes, looked the samurai in the face, and replied with a certain scorn, why should I answer to a shabby, disgusting, despondent slob like you? A worm like you, do you think I should tell you anything? I can’t stand you.
 
-A worm like you, do you think I should tell you anything? I can’t stand you. Get out of my sight. I have no time for silly questions.
+Get out of my sight. I have no time for silly questions. The samurai could not bear these insults. Consumed by rage, he drew his sword and raised it to sever the master’s head at once.
 
-The samurai could not bear these insults. Consumed by rage, he drew his sword and raised it to sever the master’s head at once. Looking straight into the samurai’s eyes, the Zen Master tenderly declared, that’s hell. The samurai froze.
+Looking straight into the samurai’s eyes, the Zen Master tenderly declared, that’s hell. The samurai froze. He immediately understood that anger had him in its grip. His mind had just created his own hell.
 
-He immediately understood that anger had him in its grip. His mind had just created his own hell. One filled with resentment, hatred, self-defense, and fury. He realized that he was so deep in his torment that he was ready to kill somebody.
+One filled with resentment, hatred, self-defense, and fury. He realized that he was so deep in his torment that he was ready to kill somebody. The samurai’s eyes filled with tears. Setting his sword aside, he put his palms together and obsequiously bowed in gratitude for this insight.
 
-The samurai’s eyes filled with tears. Setting his sword aside, he put his palms together and obsequiously bowed in gratitude for this insight. The Zen Master gently acknowledged with a delicate smile, and that’s heaven. It’s not possible to just entirely stop thinking, but what we can do is reduce the time we spend thinking so that it gets smaller and smaller each day that passes.
+The Zen Master gently acknowledged with a delicate smile, and that’s heaven. It’s not possible to just entirely stop thinking, but what we can do is reduce the time we spend thinking so that it gets smaller and smaller each day that passes. Eventually, we can get to the point where we spend most of our day not caught up in our thinking and live in a blissful state most of the time. When we say that we want to stop thinking, many people assume that we are trying to stop all thoughts in general.
 
-Eventually, we can get to the point where we spend most of our day not caught up in our thinking and live in a blissful state most of the time. When we say that we want to stop thinking, many people assume that we are trying to stop all thoughts in general. This isn’t what we’re trying to do. Now that you know the difference between thoughts and thinking, we are working on allowing thoughts to come and flow through us while minimizing the thinking about those thoughts that emerge.
+This isn’t what we’re trying to do. Now that you know the difference between thoughts and thinking, we are working on allowing thoughts to come and flow through us while minimizing the thinking about those thoughts that emerge. The most interesting and almost paradoxical thing about stopping our thinking is that we don’t have to do anything to minimize it other than be aware of it. By us becoming aware that we are thinking and that it is the root cause of all our suffering, it automatically makes us conscious to that fact and we become detached to it, allowing it to settle and pass.
 
-The most interesting and almost paradoxical thing about stopping our thinking is that we don’t have to do anything to minimize it other than be aware of it. By us becoming aware that we are thinking and that it is the root cause of all our suffering, it automatically makes us conscious to that fact and we become detached to it, allowing it to settle and pass. This takes almost no effort and is done through pure presence in the moment. Here’s an analogy from one of my mentors that illustrates this concept.
+This takes almost no effort and is done through pure presence in the moment. Here’s an analogy from one of my mentors that illustrates this concept. Imagine I give you a bowl of cloudy, dirty, murky water. If I asked you, how would you make the water clear?
 
-Imagine I give you a bowl of cloudy, dirty, murky water. If I asked you, how would you make the water clear? How would you do it? Take 15 seconds to see what answers you come up with before moving on.
+How would you do it? Take 15 seconds to see what answers you come up with before moving on. Most people say something along the lines of filtering the water or even boiling it. What most people don’t realize is that if we let the bowl of dirty water sit for a period of time, we can see that the dirt begins to settle on its own in the water and after a while the water becomes clear on its own.
 
-Most people say something along the lines of filtering the water or even boiling it. What most people don’t realize is that if we let the bowl of dirty water sit for a period of time, we can see that the dirt begins to settle on its own in the water and after a while the water becomes clear on its own. This is how our minds also work. If we let our thinking sit without disturbing it by trying to filter or boil it, the thinking will settle down on its own and our minds will become free from thinking.
-
-The natural state of water is clear, and the natural state of our minds is also clear if we do not disturb it. If life begins to feel unclear, disorganized, stressful, and you’re not sure what to do next, you now know that it’s only because your thinking is stirring up the dirt, making your mind cloudy and difficult to see ahead.
+This is how our minds also work. If we let our thinking sit without disturbing it by trying to filter or boil it, the thinking will settle down on its own and our minds will become free from thinking. The natural state of water is clear, and the natural state of our minds is also clear if we do not disturb it. If life begins to feel unclear, disorganized, stressful, and you’re not sure what to do next, you now know that it’s only because your thinking is stirring up the dirt, making your mind cloudy and difficult to see ahead.
 
 
 <a id="sec-004524"></a>
@@ -314,23 +310,21 @@ After practice, thinking hinders the performance of athletes and the same is tru
 
 I am not asking you to adopt this belief, but to try and experience it for yourself so that you gain the insight to make it your own.
 
-#### Chapter 9 If we stop thinking, what do we do about our goals, dreams, and ambitions?
+#### Chapter 9 If we stop thinking, what do we do about our goals, dreams, and ambitions? There are no limitations to the mind except those we acknowledge. Napoleon Hill I think, therefore, I suffer. When I finally understood that thinking was the root cause of all my suffering, I was jumping up and down, exhilarated, relieved, and grateful for discovering the true reason for everything negative I’ve experienced in my life.
 
-There are no limitations to the mind except those we acknowledge. Napoleon Hill I think, therefore, I suffer. When I finally understood that thinking was the root cause of all my suffering, I was jumping up and down, exhilarated, relieved, and grateful for discovering the true reason for everything negative I’ve experienced in my life. This ecstasy was short-lived though because soon after the exuberance settled, the next thoughts popped into my mind.
+This ecstasy was short-lived though because soon after the exuberance settled, the next thoughts popped into my mind. If thinking is the root cause of all my suffering and I just stop thinking, how do I live my life now? What about all of my goals, dreams, and ambitions? Do I stop wanting things in life?
 
-If thinking is the root cause of all my suffering and I just stop thinking, how do I live my life now? What about all of my goals, dreams, and ambitions? Do I stop wanting things in life? Will I just devolve into a couch potato and not do anything with my life anymore?
+Will I just devolve into a couch potato and not do anything with my life anymore? In case you were wondering, yes, I am telepathic and yes, I can read your mind. Just kidding. But if you are wondering how I wrote the exact or very similar questions and know what thoughts you most likely have right now, it’s because I am human also, contrary to popular belief.
 
-In case you were wondering, yes, I am telepathic and yes, I can read your mind. Just kidding. But if you are wondering how I wrote the exact or very similar questions and know what thoughts you most likely have right now, it’s because I am human also, contrary to popular belief. All of us are going through similar journeys of awakening to our true selves, so rest assured that many people are having the exact same thoughts you are having right now as you come to see your true magnificence.
+All of us are going through similar journeys of awakening to our true selves, so rest assured that many people are having the exact same thoughts you are having right now as you come to see your true magnificence. Now back to the question of what we do about our goals, dreams, and ambitions if we stop thinking. As I pondered on these questions, an incredible amount of fear and anxiety began to surface because I thought that I would have to give it all up and become a monk in the middle of the mountains.
 
-Now back to the question of what we do about our goals, dreams, and ambitions if we stop thinking. As I pondered on these questions, an incredible amount of fear and anxiety began to surface because I thought that I would have to give it all up and become a monk in the middle of the mountains. I was definitely not ready to do that. As much as I wish I were that enlightened and detached from my life, I genuinely enjoyed being in the world, experienced the fullness of life with other people, even if a large portion of my life was filled with suffering.
+I was definitely not ready to do that. As much as I wish I were that enlightened and detached from my life, I genuinely enjoyed being in the world, experienced the fullness of life with other people, even if a large portion of my life was filled with suffering. Here’s what I’ve discovered about what to do with our goals and dreams with this new understanding. As we’ve mentioned in previous chapters, there’s a difference between thoughts versus thinking.
 
-Here’s what I’ve discovered about what to do with our goals and dreams with this new understanding. As we’ve mentioned in previous chapters, there’s a difference between thoughts versus thinking. The source of thoughts and the source of thinking are different, and the source is what will dictate whether it causes suffering or not. Similarly, where our goals and dreams come from will determine whether we feel great about pursuing them or not.
+The source of thoughts and the source of thinking are different, and the source is what will dictate whether it causes suffering or not. Similarly, where our goals and dreams come from will determine whether we feel great about pursuing them or not. Like everything in this world, there is nothing inherently good or bad, only our making thinks it so. Goals, dreams, and ambitions are not good or bad, so it’s not really an either or situation, but more about where those goals are coming from.
 
-Like everything in this world, there is nothing inherently good or bad, only our making thinks it so. Goals, dreams, and ambitions are not good or bad, so it’s not really an either or situation, but more about where those goals are coming from. There are two sources of goals. Goals created out of inspiration, and goals created out of desperation.
+There are two sources of goals. Goals created out of inspiration, and goals created out of desperation. When goals are created out of desperation, we feel a large sense of scarcity and urgency. It feels heavy, like a burden, we may even feel daunted by the colossal task we’ve just committed ourselves to, imposter syndrome and self-doubt begin to manifest, and we always feel like we never have enough time for anything.
 
-When goals are created out of desperation, we feel a large sense of scarcity and urgency. It feels heavy, like a burden, we may even feel daunted by the colossal task we’ve just committed ourselves to, imposter syndrome and self-doubt begin to manifest, and we always feel like we never have enough time for anything. We go about our life frantically, desperately searching for answers and ways that we can accomplish our goal faster, always looking externally, never feeling enough or that we can never get enough.
-
-Worst of all, if we happen to accomplish our goal within a few hours or days afterwards,
+We go about our life frantically, desperately searching for answers and ways that we can accomplish our goal faster, always looking externally, never feeling enough or that we can never get enough. Worst of all, if we happen to accomplish our goal within a few hours or days afterwards,
 
 
 <a id="sec-005529"></a>
@@ -486,35 +480,33 @@ An object in motion will stay in motion. I never understood why spiritual master
 
 your new life full of peace, joy, and love.
 
-#### Chapter 12.
+#### Chapter 12. Nothing is either good or bad. There is nothing either good or bad, but thinking makes it so. William Shakespeare.
 
-Nothing is either good or bad. There is nothing either good or bad, but thinking makes it so. William Shakespeare. Here’s an analogy that helps put this into perspective.
+Here’s an analogy that helps put this into perspective. On a piano, there are 88 keys. When we look at a piano, we don’t point out specific keys for no reason and say that that key is wrong. We only think a specific key is wrong if we think someone is playing a specific song and hits a key that isn’t in the song.
 
-On a piano, there are 88 keys. When we look at a piano, we don’t point out specific keys for no reason and say that that key is wrong. We only think a specific key is wrong if we think someone is playing a specific song and hits a key that isn’t in the song. Inherently, the piano has no wrong keys though.
+Inherently, the piano has no wrong keys though. There are only keys and notes that sound more or less pleasant when played consecutively. Just like how there are no wrong keys on the piano, there are no wrong decisions in life. There’s only thinking that gives us pleasant or not so pleasant feelings.
 
-There are only keys and notes that sound more or less pleasant when played consecutively. Just like how there are no wrong keys on the piano, there are no wrong decisions in life. There’s only thinking that gives us pleasant or not so pleasant feelings. When we put things into a bucket of right or wrong, good or bad, this creates duality and conditions in our lives which determines how we feel.
+When we put things into a bucket of right or wrong, good or bad, this creates duality and conditions in our lives which determines how we feel. For instance, if we believe that opposing political parties are wrong or bad, this can cause animosity between us and make us feel a concoction of negative emotions. If, on the other hand, we see different political parties in the same way as there are different keys on a piano, and how there are no inherently wrong parties, then we open ourselves up to experience love, joy, and peace in the moment.
 
-For instance, if we believe that opposing political parties are wrong or bad, this can cause animosity between us and make us feel a concoction of negative emotions. If, on the other hand, we see different political parties in the same way as there are different keys on a piano, and how there are no inherently wrong parties, then we open ourselves up to experience love, joy, and peace in the moment. We begin to see alternative perspectives that we haven’t seen before and have an opportunity to deepen our understanding of the nature of life.
+We begin to see alternative perspectives that we haven’t seen before and have an opportunity to deepen our understanding of the nature of life. It’s like if we are hiking on a mountain and stop at specific points to look at the beautiful view. There are no wrong spots that we can stop at, stand in, and take in the magnificence of nature, but by being open to all possible spots we can stand in, we can see the view from different vantage points we haven’t seen before.
 
-It’s like if we are hiking on a mountain and stop at specific points to look at the beautiful view. There are no wrong spots that we can stop at, stand in, and take in the magnificence of nature, but by being open to all possible spots we can stand in, we can see the view from different vantage points we haven’t seen before. Instead of looking for right or wrong, good or bad in the world, look for truth. Instead of trying to prove we are right and they are wrong, or how they’re better and we’re worse, look for the truth in what’s in front of you.
+Instead of looking for right or wrong, good or bad in the world, look for truth. Instead of trying to prove we are right and they are wrong, or how they’re better and we’re worse, look for the truth in what’s in front of you. I would only caution this by saying that many people believe what they think is the truth. For the most part, without this deeper understanding of life, most of what we think is not truth, even though it may seem like it.
 
-I would only caution this by saying that many people believe what they think is the truth. For the most part, without this deeper understanding of life, most of what we think is not truth, even though it may seem like it. True truth is not subjective. If it is true for one person, but not for another, then it is not universal truth.
+True truth is not subjective. If it is true for one person, but not for another, then it is not universal truth. Look for what is universally true for every single conscious human being on the planet, no matter who they are, where they’re from, and what their background is. That is the true truth, and that is where you’ll find everything you’ve been searching for.
 
-Look for what is universally true for every single conscious human being on the planet, no matter who they are, where they’re from, and what their background is. That is the true truth, and that is where you’ll find everything you’ve been searching for. Remember that the only place you can find this is deep within your being, so don’t try to go looking for it outside of you. If you’re confronted with something that may stir up negative emotions, go within yourself to find the source of universal truth deep within your soul.
+Remember that the only place you can find this is deep within your being, so don’t try to go looking for it outside of you. If you’re confronted with something that may stir up negative emotions, go within yourself to find the source of universal truth deep within your soul. If you try to look for the answers outside or try to dig into external reasons for the root of why you feel this way, you’ll be looking for the rest of eternity and will never find it.
 
-If you try to look for the answers outside or try to dig into external reasons for the root of why you feel this way, you’ll be looking for the rest of eternity and will never find it. Negative emotions are an indication of misunderstanding. When we are gripped by negative emotions, it means that we believe what we are thinking. It is in this moment that we simply forgot where our experience comes from, and that our thinking is the cause of our negative emotions.
+Negative emotions are an indication of misunderstanding. When we are gripped by negative emotions, it means that we believe what we are thinking. It is in this moment that we simply forgot where our experience comes from, and that our thinking is the cause of our negative emotions. All you have to do is remember that thinking is the root cause of how we’re feeling.
 
-All you have to do is remember that thinking is the root cause of how we’re feeling. Once this is brought to your awareness, don’t fight the thinking. Just become aware that it is your thinking that’s causing the ill feelings, welcome it with love, and it will slowly dissipate before your eyes. Not too long after, you’ll return to your natural state of peace, love, and joy.
+Once this is brought to your awareness, don’t fight the thinking. Just become aware that it is your thinking that’s causing the ill feelings, welcome it with love, and it will slowly dissipate before your eyes. Not too long after, you’ll return to your natural state of peace, love, and joy.
 
-#### Chapter 13.
+#### Chapter 13. How do you know what to do without thinking?
 
-How do you know what to do without thinking? The intuitive mind is a sacred gift, and the rational mind is a faithful servant. We have created a society that honors the servant and has forgotten the gift. Albert Einstein.
+The intuitive mind is a sacred gift, and the rational mind is a faithful servant. We have created a society that honors the servant and has forgotten the gift. Albert Einstein. In the previous chapter, we discussed how there is no right or wrong in this world.
 
-In the previous chapter, we discussed how there is no right or wrong in this world. This chapter will build on the last to deepen our understanding and illuminate how to know what to do without thinking. Although there are no right or wrong decisions we can make, just like how there are no wrong keys on a piano, there are decisions or keys that are more pleasant than others depending on the context. Knowing that there is no right or wrong relieves us from quite a bit of pressure to choose the right one.
+This chapter will build on the last to deepen our understanding and illuminate how to know what to do without thinking. Although there are no right or wrong decisions we can make, just like how there are no wrong keys on a piano, there are decisions or keys that are more pleasant than others depending on the context. Knowing that there is no right or wrong relieves us from quite a bit of pressure to choose the right one. When we make decisions, we want to rely on nonthinking.
 
-When we make decisions, we want to rely on nonthinking. When we try to think, analyze, create pros and cons lists, and ask everyone, including our pets, for advice, it causes anxiety and frustration until we make that decision. Most of the time, we already know deep down what to do in any specific situation. This is often referred to as your gut feeling, intuition, or inner wisdom.
-
-What we do is try to confirm our intuition with the external world,
+When we try to think, analyze, create pros and cons lists, and ask everyone, including our pets, for advice, it causes anxiety and frustration until we make that decision. Most of the time, we already know deep down what to do in any specific situation. This is often referred to as your gut feeling, intuition, or inner wisdom. What we do is try to confirm our intuition with the external world,
 
 
 <a id="sec-012542"></a>
@@ -540,13 +532,13 @@ But if we release the break in our mind and realize that it’s just our thinkin
 
 Trust in your own intuition and inner wisdom. It has always and will always be there for you when you need it as long as you trust that it will.
 
-#### Chapter 14.
+#### Chapter 14. How to follow your intuition. Have the courage to follow your heart and intuition.
 
-How to follow your intuition. Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.
+They somehow already know what you truly want to become. Everything else is secondary. Steve Jobs. In a previous chapter we talked about how we don’t need to think in order to thrive in the world and that the way that we do thrive is to remove the thinking that we have going on.
 
-Steve Jobs. In a previous chapter we talked about how we don’t need to think in order to thrive in the world and that the way that we do thrive is to remove the thinking that we have going on. The state of flow is a state of pure oneness and a direct connection to everything around us. there is no separation when we are in that state, we can also say that it is a state where we are in direct connection and alignment with God, the universe, and infinite intelligence.
+The state of flow is a state of pure oneness and a direct connection to everything around us. there is no separation when we are in that state, we can also say that it is a state where we are in direct connection and alignment with God, the universe, and infinite intelligence. What thinking does is sever this connection we have with the divine, causing us to feel stress, frustration, anger, resentment, depression, and all of these negative emotions many of us feel on a daily basis.
 
-What thinking does is sever this connection we have with the divine, causing us to feel stress, frustration, anger, resentment, depression, and all of these negative emotions many of us feel on a daily basis. This is why some religions describe hell as the complete separation from God. From now on, for simplicity’s sake, I’ll be using the term non-thinking instead of flow, but they really are synonymous when I use them in this book. This state of non-thinking also means a direct connection to infinite intelligence.
+This is why some religions describe hell as the complete separation from God. From now on, for simplicity’s sake, I’ll be using the term non-thinking instead of flow, but they really are synonymous when I use them in this book. This state of non-thinking also means a direct connection to infinite intelligence.
 
 
 <a id="sec-013043"></a>
@@ -620,19 +612,19 @@ It is in this moment that you must have faith in your inner wisdom, God, to guid
 
 The fear is only present as long as your thinking is revolving around fear. Once you acknowledge the fear and understand that it’s only your thinking that’s causing those feelings, the illusion will fall apart and you’ll fall back into peace, joy, and pure love. This is the space you want to stay in, which will allow you to create the positive feelings that are the prerequisite to manifesting all you could possibly imagine for yourself.
 
-#### Chapter 15, creating space for miracles.
+#### Chapter 15, creating space for miracles. Today I make space for miracles.
 
-Today I make space for miracles. I recognize that it’s not how big a miracle it is that’s important, but how much room I create for it. Kyle Gray. The story of the Zen master and a scholar.
+I recognize that it’s not how big a miracle it is that’s important, but how much room I create for it. Kyle Gray. The story of the Zen master and a scholar. Empty your cup.
 
-Empty your cup. Once upon a time, there was a wise Zen master. People traveled from far away to seek his help. In return, he would teach them and show them the way to enlightenment.
+Once upon a time, there was a wise Zen master. People traveled from far away to seek his help. In return, he would teach them and show them the way to enlightenment. On this particular day, a scholar came to visit the master for advice.
 
-On this particular day, a scholar came to visit the master for advice. I have come to ask you to teach me about Zen, the scholar said. Soon it became obvious that the scholar was full of his own opinions and knowledge. He interrupted the master repeatedly with his own stories and failed to listen to what the master had to say.
+I have come to ask you to teach me about Zen, the scholar said. Soon it became obvious that the scholar was full of his own opinions and knowledge. He interrupted the master repeatedly with his own stories and failed to listen to what the master had to say. The master calmly suggested that they should have tea.
 
-The master calmly suggested that they should have tea. So the master gently poured his guest a cup. The cup was filled, yet he kept pouring until the cup overflowed onto the table, onto the floor, and finally onto the scholars' robes. The scholar cried, stop, the cup is full already.
+So the master gently poured his guest a cup. The cup was filled, yet he kept pouring until the cup overflowed onto the table, onto the floor, and finally onto the scholars' robes. The scholar cried, stop, the cup is full already. Can’t you see?
 
-Can’t you see? Exactly, the Zen master applied with a smile. You are like this cup, so full of ideas that nothing more will fit in. Come back to me with an empty cup.
+Exactly, the Zen master applied with a smile. You are like this cup, so full of ideas that nothing more will fit in. Come back to me with an empty cup. It is ironic how much can be written about nothing.
 
-It is ironic how much can be written about nothing. That’s what space is. Nothing. When we study the universe in quantum physics, we realize that everything comes from nothing.
+That’s what space is. Nothing. When we study the universe in quantum physics, we realize that everything comes from nothing.
 
 Therefore, the great spiritual masters call this the great nothingness. For there to be creation, there must first be space. The same is true for our own minds. If you want something new to be created, such as new thoughts, then you must first create space so that you can receive new ideas that can change your life.
 
@@ -684,15 +676,13 @@ If you do fall back into thinking, it is completely okay. Do not beat yourself u
 
 Know that it is absolutely human to think. Once you catch yourself and see that it is your thinking that’s causing your suffering, that’s all you need to do in order to bring yourself to a state of peace, happiness, and love again. The transition can happen painlessly and effortlessly if you let it.
 
-#### Chapter 17 Now what?
+#### Chapter 17 Now what? There will come a time when you believe everything is finished, and that will be the beginning.
 
-There will come a time when you believe everything is finished, and that will be the beginning. Louis Lamour Although this is the end of the book, it is just the beginning of a new life for you. You are only ever one thought away from peace, love, and joy, which come from a state of non-thinking. Remember this and keep it close to your heart, because it is all the hope you need when life gets inevitably tough.
+Louis Lamour Although this is the end of the book, it is just the beginning of a new life for you. You are only ever one thought away from peace, love, and joy, which come from a state of non-thinking. Remember this and keep it close to your heart, because it is all the hope you need when life gets inevitably tough. In the beginning, I promised you that you will not be the same person as you were before you read this book.
 
-In the beginning, I promised you that you will not be the same person as you were before you read this book. If you begin reading this book with the intention of having an open and willing mind, then you have already received numerous insights that have completely changed the way you look at life and thus you are not the same person as you were before. Once you see something new from an insight, you cannot unsee it. Once your consciousness expands, it cannot contract again.
+If you begin reading this book with the intention of having an open and willing mind, then you have already received numerous insights that have completely changed the way you look at life and thus you are not the same person as you were before. Once you see something new from an insight, you cannot unsee it. Once your consciousness expands, it cannot contract again. We may forget from time to time and cause ourselves to suffer when we begin thinking again, but as soon as we remember that, we immediately realize that we are the ever-expanding awareness of life itself and find love, peace, and joy in the present.
 
-We may forget from time to time and cause ourselves to suffer when we begin thinking again, but as soon as we remember that, we immediately realize that we are the ever-expanding awareness of life itself and find love, peace, and joy in the present. If this seems like it is too simple and that it can’t be all there is, that is just your mind causing you to think again.
-
-The truth is simple and will always be. Anything that makes something complex and intricate is only taking you further away from the truth.
+If this seems like it is too simple and that it can’t be all there is, that is just your mind causing you to think again. The truth is simple and will always be. Anything that makes something complex and intricate is only taking you further away from the truth.
 
 The truth is not something you think, but something that you know and feel deep within your soul. Listen to that inner wisdom inside of you that knows all of this. Let it guide you through your life. We are the most fulfilled when we listen to our soul.
 

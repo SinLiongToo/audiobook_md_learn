@@ -142,27 +142,25 @@ I save a lot, and I have no idea what I’ll use the savings for in the future. 
 
 In fact, the most important part of every plan is planning on your plan, not going according to plan. Now let me show you how this applies to you. The psychology of money.
 
-#### Chapter 14 You’ll change.
+#### Chapter 14 You’ll change. Long-term planning is harder than it seems, because people’s goals and desires change over time.
 
-Long-term planning is harder than it seems, because people’s goals and desires change over time. I grew up with a friend who came from neither privilege nor natural intellect, but was the hardest working guy I knew. These people have a lot to teach, because they have an unfiltered understanding of every inch of the road to success. His life’s mission and dream as a teenager was to be a doctor.
+I grew up with a friend who came from neither privilege nor natural intellect, but was the hardest working guy I knew. These people have a lot to teach, because they have an unfiltered understanding of every inch of the road to success. His life’s mission and dream as a teenager was to be a doctor. To say the odds were stacked against him is being charitable.
 
-To say the odds were stacked against him is being charitable. No reasonable person at the time would consider it a possibility. But he pushed, and a decade older than his classmates, he eventually became a doctor. How much fulfillment comes from starting from nothing, bulldozing your way to the top of medical school, and achieving one of the most noble professions against all odds?
+No reasonable person at the time would consider it a possibility. But he pushed, and a decade older than his classmates, he eventually became a doctor. How much fulfillment comes from starting from nothing, bulldozing your way to the top of medical school, and achieving one of the most noble professions against all odds? I spoke to him a few years ago.
 
-I spoke to him a few years ago. The conversation went like this. Me. Long time no talk.
+The conversation went like this. Me. Long time no talk. How you doing?
 
-How you doing? Him. Awful career. Me.
+Him. Awful career. Me. Haha.
 
-Haha. Well. Him. Awful career, man.
+Well. Him. Awful career, man. This went on for ten minutes.
 
-This went on for ten minutes. The stress and hours had worn him into the ground. He seemed as disappointed in where he is today, as he was driven toward where he wanted to be fifteen years ago. An underpinning of psychology is that people are poor forecasters of their future selves.
+The stress and hours had worn him into the ground. He seemed as disappointed in where he is today, as he was driven toward where he wanted to be fifteen years ago. An underpinning of psychology is that people are poor forecasters of their future selves. Imagining a goal is easy and fun.
 
-Imagining a goal is easy and fun. Imagining a goal in the context of the realistic life stresses that grow with competitive pursuits is something entirely different. This has a big impact on our ability to plan for future financial goals. Every five-year-old boy wants to drive a tractor when they grow up.
+Imagining a goal in the context of the realistic life stresses that grow with competitive pursuits is something entirely different. This has a big impact on our ability to plan for future financial goals. Every five-year-old boy wants to drive a tractor when they grow up. Few jobs look better in the eyes of a young boy whose idea of a good job begins and ends with vroom vroom beep beep big tractor here I come.
 
-Few jobs look better in the eyes of a young boy whose idea of a good job begins and ends with vroom vroom beep beep big tractor here I come. Then many grow up and realize that driving a tractor maybe isn’t the best career. Maybe they want something more prestigious or lucrative. So as a teenager, they dream of being a lawyer.
+Then many grow up and realize that driving a tractor maybe isn’t the best career. Maybe they want something more prestigious or lucrative. So as a teenager, they dream of being a lawyer. Now they think, they know, their plan is set.
 
-Now they think, they know, their plan is set. Law school and its costs, here we come. Then as a lawyer, they face such long working hours that they rarely see their families. So perhaps they take a lower paying job with flexible hours.
-
-Then they realize that childcare is so expensive that it consumes most of their paycheck and they opt to be a stay-at-home parent.
+Law school and its costs, here we come. Then as a lawyer, they face such long working hours that they rarely see their families. So perhaps they take a lower paying job with flexible hours. Then they realize that childcare is so expensive that it consumes most of their paycheck and they opt to be a stay-at-home parent.
 
 
 <a id="sec-002013"></a>
@@ -210,13 +208,11 @@ Sunk costs, anchoring decisions to past efforts that can’t be refunded, are a 
 
 The quicker it’s done, the sooner you can get back to compounding. Next, let’s talk about compounding’s price of admission. The psychology of money.
 
-#### Chapter 15 Nothing’s free.
+#### Chapter 15 Nothing’s free. Everything has a price, but not all prices appear on labels.
 
-Everything has a price, but not all prices appear on labels. Everything has a price. And the key to a lot of things with money is just figuring out what the price is and being willing to pay it. The problem is that the price of a lot of things is not obvious until you’ve experienced them first hand.
+Everything has a price. And the key to a lot of things with money is just figuring out what the price is and being willing to pay it. The problem is that the price of a lot of things is not obvious until you’ve experienced them first hand. When the bill is overdue.
 
-When the bill is overdue. General Electric was the largest company in the world in 2004, worth a third of a trillion dollars. It had. had either been first or second each year for the previous decade, capitalism’s shining example of corporate aristocracy. Then everything fell to pieces.
-
-The 2008 financial crisis sent GE’s financing division, which supplied more than half the
+General Electric was the largest company in the world in 2004, worth a third of a trillion dollars. It had. had either been first or second each year for the previous decade, capitalism’s shining example of corporate aristocracy. Then everything fell to pieces. The 2008 financial crisis sent GE’s financing division, which supplied more than half the
 
 
 <a id="sec-003018"></a>
@@ -376,9 +372,9 @@ What the market did this year, or whether we’ll have a recession next year, is
 
 #### THE PSYCHOLOGY OF MONEY.
 
-#### Chapter 17 The Seduction of Pessimism Optimism sounds like a sales pitch.
+#### Chapter 17 The Seduction of Pessimism Optimism sounds like a sales pitch. Pessimism sounds like someone trying to help you.
 
-Pessimism sounds like someone trying to help you. For reasons I’ve never understood, people like to hear that the world is going to hell. Historian Dyrdae McCloskey.
+For reasons I’ve never understood, people like to hear that the world is going to hell. Historian Dyrdae McCloskey.
 
 
 <a id="sec-010035"></a>
@@ -504,9 +500,7 @@ Now, a short story about stories.
 
 #### THE PSYCHOLOGY OF MONEY, CHAPTER 18, WHEN YOU’LL BELIEVE ANYTHING.
 
-#### APPEALING FICTIONS AND WHY STORIES ARE MORE POWERFUL THAN STATISTICS.
-
-Imagine an alien dispatched to Earth. His job is to keep tabs on our economy. He circles above New York City, trying to size up the economy and how it changed between
+#### APPEALING FICTIONS AND WHY STORIES ARE MORE POWERFUL THAN STATISTICS. Imagine an alien dispatched to Earth. His job is to keep tabs on our economy. He circles above New York City, trying to size up the economy and how it changed between
 
 
 <a id="sec-012546"></a>
@@ -640,29 +634,29 @@ We don’t wander around blind and confused. We have to think the world we opera
 
 The one who’s confident, he knows what’s happening based on what he sees but turns out to be completely wrong because he can’t know the stories going on inside everyone else’s head. Here’s all of us. The psychology of money.
 
-#### Chapter 19.
+#### Chapter 19. All together now.
 
-All together now. What we’ve learned about the psychology of your own money. Congratulations, you’re still listening. It’s time to tie together a few things we’ve learned.
+What we’ve learned about the psychology of your own money. Congratulations, you’re still listening. It’s time to tie together a few things we’ve learned. This chapter is a bit of a summary, a few short and actionable lessons that can help you make better financial decisions.
 
-This chapter is a bit of a summary, a few short and actionable lessons that can help you make better financial decisions. First, let me tell you a story about a dentist appointment gone horribly awry. It teaches us something vital about the dangers of giving advice about what to do with your money. Clarence Hughes went to the dentist in 1931.
+First, let me tell you a story about a dentist appointment gone horribly awry. It teaches us something vital about the dangers of giving advice about what to do with your money. Clarence Hughes went to the dentist in 1931. His mouth was radiating pain.
 
-His mouth was radiating pain. His dentist put him under crude anesthesia to ease the pain. When Clarence awoke hours later, he had sixteen fewer teeth and his tonsils removed. And then everything went wrong.
+His dentist put him under crude anesthesia to ease the pain. When Clarence awoke hours later, he had sixteen fewer teeth and his tonsils removed. And then everything went wrong. Clarence died a week later from his surgery’s complications.
 
-Clarence died a week later from his surgery’s complications. His wife sued the dentist, but not because the surgery went awry. Every surgery risked death in 1931. Clarence, she said, never consented to the procedures in the first place, and wouldn’t if you were asked.
+His wife sued the dentist, but not because the surgery went awry. Every surgery risked death in 1931. Clarence, she said, never consented to the procedures in the first place, and wouldn’t if you were asked. The case wove through courts, but went nowhere.
 
-The case wove through courts, but went nowhere. Consent between doctor and patient wasn’t black and white in 1931. One court summed up the idea that doctors require freedom to make the best medical decisions. Without such, we could not enjoy the advancement of science.
+Consent between doctor and patient wasn’t black and white in 1931. One court summed up the idea that doctors require freedom to make the best medical decisions. Without such, we could not enjoy the advancement of science. For most of history, the ethos of medicine was that the doctor’s job was to fix the patient, and what the patient thought about the doctor’s treatment plans wasn’t relevant. Dr. J.
 
-For most of history, the ethos of medicine was that the doctor’s job was to fix the patient, and what the patient thought about the doctor’s treatment plans wasn’t relevant. Dr. J. Katz wrote about the philosophy in his book, The Silent World Between Doctor and Patient. Doctors felt that, in order to accomplish that objective, they were obligated to attend to their patient’s physical and emotional needs, and to do so on their own authority, without consulting with their patients about the decisions that needed to be made.
+Katz wrote about the philosophy in his book, The Silent World Between Doctor and Patient. Doctors felt that, in order to accomplish that objective, they were obligated to attend to their patient’s physical and emotional needs, and to do so on their own authority, without consulting with their patients about the decisions that needed to be made. The idea that patients may also be entitled to sharing the burdens of decisions with their doctors was never part of the ethos of medicine. This wasn’t ego or malice.
 
-The idea that patients may also be entitled to sharing the burdens of decisions with their doctors was never part of the ethos of medicine. This wasn’t ego or malice. It was a belief in two points. One, every patient wants to be cured.
+It was a belief in two points. One, every patient wants to be cured. Two, there is a universal and right way to cure them. Not requiring patient consent in treatment plans makes sense if you believe in those two points.
 
-Two, there is a universal and right way to cure them. Not requiring patient consent in treatment plans makes sense if you believe in those two points. But that’s not how medicine works. In the last 50 years, medical school subtly shifted teaching away from treating disease and toward treating patients.
+But that’s not how medicine works. In the last 50 years, medical school subtly shifted teaching away from treating disease and toward treating patients. That meant laying out the options of treatment plans, and then letting the patient decide the best path forward. This trend was partly driven by patient protection laws, partly by Katz’s influential book, which argued that patients have widely different views about what’s worth it in medicine, so their beliefs have to be taken into consideration.
 
-That meant laying out the options of treatment plans, and then letting the patient decide the best path forward. This trend was partly driven by patient protection laws, partly by Katz’s influential book, which argued that patients have widely different views about what’s worth it in medicine, so their beliefs have to be taken into consideration. That’s road. It is dangerous nonsense to assert that, in the practice of their art and science, physicians can rely on their benevolent intentions, their abilities to judge what is the right thing to do.
+That’s road. It is dangerous nonsense to assert that, in the practice of their art and science, physicians can rely on their benevolent intentions, their abilities to judge what is the right thing to do. It is not that easy. Medicine is a complex profession, and the interactions between physicians and patients are also complex.
 
-It is not that easy. Medicine is a complex profession, and the interactions between physicians and patients are also complex. The last line is important. Medicine is a complex profession, and the interactions between physicians and patients are also complex.
+The last line is important. Medicine is a complex profession, and the interactions between physicians and patients are also complex. You know what profession is the same. Financial advice.
 
-You know what profession is the same. Financial advice. I can’t tell you what to do with your money because I don’t know you. I don’t know what you want.
+I can’t tell you what to do with your money because I don’t know you. I don’t know what you want.
 
 
 <a id="sec-015603"></a>
@@ -706,17 +700,17 @@ You should like risk because it pays off over time. But you should be paranoid o
 
 Smart, informed, and reasonable people can disagree in finance because people have vastly different goals and desires. There is no single right answer, just the answer that works for you. Now let me tell you what works for me.
 
-#### THE PSYCHOLOGY OF MONEY CHAPTER 20 CONFESSIONS THE PSYCHOLOGY OF MY OWN MONEY.
+#### THE PSYCHOLOGY OF MONEY CHAPTER 20 CONFESSIONS THE PSYCHOLOGY OF MY OWN MONEY. Sandy Gottesman, a billionaire investor who founded the consulting group First Manhattan, is said to ask one question when interviewing candidates for his investment team.
 
-Sandy Gottesman, a billionaire investor who founded the consulting group First Manhattan, is said to ask one question when interviewing candidates for his investment team. What do you own and why? And what stocks do you think are cheap or what economy is about to have a recession? Just show me what you do with your own money.
+What do you own and why? And what stocks do you think are cheap or what economy is about to have a recession? Just show me what you do with your own money. I love this question because it highlights what can often be a mile-wide gap between what makes sense, which is what people suggest you do, and what feels right to them, which is what they actually do.
 
-I love this question because it highlights what can often be a mile-wide gap between what makes sense, which is what people suggest you do, and what feels right to them, which is what they actually do. Half of all U. S. mutual fund portfolio managers do not invest a cent of their own money in their funds, according to Morningstar. This might seem atrocious, and surely this statistic uncovers some hypocrisy. But this kind of stuff is more common than you think.
+Half of all U. S. mutual fund portfolio managers do not invest a cent of their own money in their funds, according to Morningstar. This might seem atrocious, and surely this statistic uncovers some hypocrisy. But this kind of stuff is more common than you think. Ken Moray, a professor of medicine at USC, wrote an essay in 2011 titled, How Doctors Die, that showed the degree to which doctors choose different end-of-life treatments for themselves than they recommend for their patients.
 
-Ken Moray, a professor of medicine at USC, wrote an essay in 2011 titled, How Doctors Die, that showed the degree to which doctors choose different end-of-life treatments for themselves than they recommend for their patients. “'Doctors don’t die like the rest of us,' he wrote. ”'What’s unusual about them is not how much treatment they get compared to most Americans, but how little. For all the time they spend fending off the deaths of others, they tend to be fairly serene when faced with death themselves.
+“'Doctors don’t die like the rest of us,' he wrote. ”'What’s unusual about them is not how much treatment they get compared to most Americans, but how little. For all the time they spend fending off the deaths of others, they tend to be fairly serene when faced with death themselves. They know exactly what is going to happen, they know the choices, and they generally have access to any sort of medical care they could want, but they go gently. A doctor may throw the kitchen sink at her patient’s cancer but choose palliative care for herself.
 
-They know exactly what is going to happen, they know the choices, and they generally have access to any sort of medical care they could want, but they go gently. A doctor may throw the kitchen sink at her patient’s cancer but choose palliative care for herself. The difference between what someone suggests you do and what they do for themselves isn’t always a bad thing. It just underscores that, when dealing with complicated and emotional issues that affect you and your family, there is no one right answer.
+The difference between what someone suggests you do and what they do for themselves isn’t always a bad thing. It just underscores that, when dealing with complicated and emotional issues that affect you and your family, there is no one right answer. There is no universal truth. There is only what works for you and your family, checking the boxes you want checked in a way that leaves you comfortable and sleeping well at night.
 
-There is no universal truth. There is only what works for you and your family, checking the boxes you want checked in a way that leaves you comfortable and sleeping well at night. There are basic principles that must be adhered to. This is true in finance and in medicine, but important financial decisions are not made
+There are basic principles that must be adhered to. This is true in finance and in medicine, but important financial decisions are not made
 
 
 <a id="sec-020608"></a>

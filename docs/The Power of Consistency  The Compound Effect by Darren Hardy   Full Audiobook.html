@@ -66,26 +66,12 @@
       --card-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
     }
 
-    [data-line-height="compact"] {
-      --line-height: 1.68;
-    }
-    [data-line-height="normal"] {
-      --line-height: 1.88;
-    }
-    [data-line-height="loose"] {
-      --line-height: 2.12;
-    }
+    [data-line-height="compact"] { --line-height: 1.68; }
+    [data-line-height="normal"] { --line-height: 1.88; }
+    [data-line-height="loose"] { --line-height: 2.12; }
 
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
-    html {
-      scroll-behavior: smooth;
-    }
-
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
     body {
       font-family: var(--font-family);
       font-size: var(--font-size);
@@ -119,7 +105,7 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 0 20px;
+      padding: 0 18px;
       background-color: var(--bg-header);
       backdrop-filter: blur(8px);
       -webkit-backdrop-filter: blur(8px);
@@ -129,7 +115,7 @@
     .header-left, .header-right {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 8px;
       flex-wrap: nowrap;
     }
 
@@ -138,7 +124,7 @@
       border: 1px solid var(--border-color);
       color: var(--text-primary);
       cursor: pointer;
-      font-size: 14px;
+      font-size: 13.5px;
       padding: 6px 10px;
       border-radius: 8px;
       display: inline-flex;
@@ -147,6 +133,7 @@
       transition: all 0.2s;
       white-space: nowrap;
       user-select: none;
+      text-decoration: none;
     }
     .btn-icon:hover {
       background-color: var(--accent-light);
@@ -161,11 +148,132 @@
       font-size: 14px;
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
+    }
+    .home-link:hover { color: var(--accent-color); }
+
+    /* In-Page Search Bar Dropdown */
+    .inpage-search-bar {
+      position: sticky;
+      top: 60px;
+      z-index: 890;
+      background-color: var(--bg-surface);
+      border-bottom: 1px solid var(--border-color);
+      padding: 10px 18px;
+      display: none;
+      align-items: center;
+      gap: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    }
+    .inpage-search-bar.active { display: flex; }
+
+    .inpage-search-input-wrapper {
+      flex: 1;
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    .inpage-search-input {
+      width: 100%;
+      padding: 8px 36px 8px 12px;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      font-size: 14px;
+    }
+    .inpage-search-input:focus { outline: 2px solid var(--accent-color); }
+
+    .inpage-search-clear {
+      position: absolute;
+      right: 10px;
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 16px;
     }
 
-    .home-link:hover {
+    .inpage-search-count {
+      font-size: 13px;
+      color: var(--text-secondary);
+      font-family: monospace;
+      white-space: nowrap;
+    }
+    .search-nav-btns { display: flex; gap: 6px; }
+
+    /* In-Page Search Results Drawer */
+    .inpage-search-drawer {
+      position: fixed;
+      right: 20px;
+      top: 120px;
+      width: 360px;
+      max-height: calc(100vh - 160px);
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+      z-index: 895;
+      display: none;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .inpage-search-drawer.active { display: flex; }
+    .inpage-search-drawer-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-weight: 600;
+      font-size: 14px;
+    }
+    .inpage-search-drawer-list {
+      overflow-y: auto;
+      padding: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .search-result-item {
+      padding: 10px 12px;
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+      background: var(--bg-primary);
+      cursor: pointer;
+      font-size: 13px;
+      transition: all 0.15s;
+    }
+    .search-result-item:hover, .search-result-item.active {
+      border-color: var(--accent-color);
+      background: var(--accent-light);
+    }
+    .search-result-time {
+      font-weight: 700;
       color: var(--accent-color);
+      font-family: monospace;
+      margin-bottom: 4px;
+    }
+    .search-result-snippet {
+      color: var(--text-primary);
+      line-height: 1.5;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    /* Highlight mark */
+    mark.search-highlight {
+      background-color: #fef08a;
+      color: #1f2937;
+      padding: 1px 3px;
+      border-radius: 3px;
+    }
+    mark.search-highlight.active-match {
+      background-color: #f97316;
+      color: #ffffff;
+      outline: 2px solid #ea580c;
     }
 
     /* Layout Wrapper */
@@ -212,9 +320,7 @@
       font-size: 13px;
       margin-bottom: 14px;
     }
-    .toc-search:focus {
-      outline: 2px solid var(--accent-color);
-    }
+    .toc-search:focus { outline: 2px solid var(--accent-color); }
 
     .toc-list {
       list-style: none;
@@ -237,12 +343,10 @@
       overflow: hidden;
       text-overflow: ellipsis;
     }
-
     .toc-item a:hover {
       background-color: var(--accent-light);
       color: var(--accent-color);
     }
-
     .toc-item.active a {
       background-color: var(--accent-color);
       color: #ffffff;
@@ -257,19 +361,17 @@
       display: flex;
       justify-content: center;
     }
-
     .reader-container {
       width: 100%;
       max-width: var(--content-max-width);
     }
 
-    /* Book Hero / Header */
+    /* Book Hero */
     .book-hero {
       margin-bottom: 40px;
       padding-bottom: 24px;
       border-bottom: 2px solid var(--border-color);
     }
-
     .book-hero h1 {
       font-size: 2.1em;
       line-height: 1.35;
@@ -285,7 +387,6 @@
       gap: 10px;
       margin-top: 14px;
     }
-
     .meta-chip {
       display: inline-flex;
       align-items: center;
@@ -297,8 +398,13 @@
       font-size: 13px;
       font-weight: 500;
     }
+    .meta-chip.cat-badge {
+      background-color: #3b82f622;
+      color: #3b82f6;
+      font-weight: 600;
+    }
 
-    /* Content Typography & Enhanced Paragraphs */
+    /* Content Typography */
     .transcript-section {
       margin-bottom: 50px;
       scroll-margin-top: 80px;
@@ -349,25 +455,22 @@
       letter-spacing: 0.015em;
     }
 
-    /* Indented paragraph style (Traditional) */
+    /* Indented paragraph style */
     [data-p-style="indent"] .section-body p {
       text-indent: 2em;
       margin-bottom: 1.15em;
       line-height: var(--line-height);
     }
 
-    /* Block paragraph style (Modern with whitespace) */
+    /* Block paragraph style */
     [data-p-style="block"] .section-body p {
       text-indent: 0;
       margin-bottom: 1.55em;
       line-height: var(--line-height);
     }
+    .section-body p:last-child { margin-bottom: 0; }
 
-    .section-body p:last-child {
-      margin-bottom: 0;
-    }
-
-    /* Floating Navigation Controls */
+    /* Floating Tools */
     .floating-tools {
       position: fixed;
       bottom: 24px;
@@ -377,7 +480,6 @@
       gap: 10px;
       z-index: 800;
     }
-
     .float-btn {
       width: 44px;
       height: 44px;
@@ -399,7 +501,6 @@
       color: var(--accent-color);
     }
 
-    /* Overlay for mobile drawer */
     .backdrop {
       display: none;
       position: fixed;
@@ -419,36 +520,22 @@
         transform: translateX(-100%);
         box-shadow: 4px 0 16px rgba(0,0,0,0.15);
       }
-
-      .sidebar.open {
-        transform: translateX(0);
-      }
-
-      .backdrop.open {
-        display: block;
+      .sidebar.open { transform: translateX(0); }
+      .backdrop.open { display: block; }
+      .inpage-search-drawer {
+        left: 20px;
+        right: 20px;
+        width: auto;
       }
     }
 
     @media (max-width: 640px) {
-      :root {
-        --font-size: 17px;
-      }
-      .main-content {
-        padding: 24px 16px 60px 16px;
-      }
-      .book-hero h1 {
-        font-size: 1.55em;
-      }
-      .top-header {
-        padding: 0 10px;
-      }
-      .btn-icon {
-        padding: 5px 8px;
-        font-size: 13px;
-      }
-      [data-p-style="indent"] .section-body p {
-        text-indent: 1.5em;
-      }
+      :root { --font-size: 17px; }
+      .main-content { padding: 24px 16px 60px 16px; }
+      .book-hero h1 { font-size: 1.55em; }
+      .top-header { padding: 0 10px; }
+      .btn-icon { padding: 5px 7px; font-size: 12.5px; }
+      [data-p-style="indent"] .section-body p { text-indent: 1.5em; }
     }
   </style>
 </head>
@@ -464,6 +551,14 @@
       <a href="index.html" class="home-link" title="返回書架">
         🏠 書架
       </a>
+      <!-- Search Inside Book Button -->
+      <button class="btn-icon" id="search-toggle-btn" title="搜尋本書內文 (Ctrl+F)">
+        🔍 <span>搜尋內文</span>
+      </button>
+      <!-- Global Search Link -->
+      <a href="index.html?tab=search" class="btn-icon" title="前往全書庫全文檢索">
+        🌐 <span>全庫搜尋</span>
+      </a>
     </div>
 
     <div class="header-right">
@@ -473,7 +568,7 @@
       </button>
 
       <!-- Line Height Toggle -->
-      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 精簡)">
+      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 緊湊)">
         ↕ <span id="line-height-label">行距</span>
       </button>
 
@@ -492,6 +587,29 @@
       <button class="btn-icon" id="font-inc-btn" title="放大字級">A+</button>
     </div>
   </header>
+
+  <!-- In-Page Search Bar Dropdown -->
+  <div class="inpage-search-bar" id="inpage-search-bar">
+    <div class="inpage-search-input-wrapper">
+      <input type="text" id="inpage-search-input" class="inpage-search-input" placeholder="🔍 搜尋本書內文關鍵字 (按 Enter 尋找下一處，Esc 關閉)...">
+      <button class="inpage-search-clear" id="inpage-search-clear" title="清空">✕</button>
+    </div>
+    <span class="inpage-search-count" id="inpage-search-count">0 / 0</span>
+    <div class="search-nav-btns">
+      <button class="btn-icon" id="inpage-search-prev" title="上一處 (Shift+Enter)">▲</button>
+      <button class="btn-icon" id="inpage-search-next" title="下一處 (Enter)">▼</button>
+      <button class="btn-icon" id="inpage-search-close" title="關閉搜尋 (Esc)">✕</button>
+    </div>
+  </div>
+
+  <!-- In-Page Search Results Drawer -->
+  <div class="inpage-search-drawer" id="inpage-search-drawer">
+    <div class="inpage-search-drawer-header">
+      <span>搜尋結果清單</span>
+      <button class="btn-icon" id="inpage-drawer-close" style="padding: 2px 6px;">✕</button>
+    </div>
+    <div class="inpage-search-drawer-list" id="inpage-search-drawer-list"></div>
+  </div>
 
   <div class="backdrop" id="backdrop"></div>
 
@@ -563,6 +681,7 @@
         <header class="book-hero">
           <h1>The Power of Consistency  The Compound Effect by Darren Hardy   Full Audiobook</h1>
           <div class="book-meta-chips">
+            <span class="meta-chip cat-badge">⚡ 習慣與生產力</span>
             <span class="meta-chip">🏷️ 時長：04:09:10</span>
 <span class="meta-chip">🏷️ 模型：small.en</span>
 <span class="meta-chip">🏷️ 日期：2026-09-22</span>
@@ -570,7 +689,7 @@
         </header>
 
         <!-- Transcript Content -->
-        <div class="book-body">
+        <div class="book-body" id="book-body">
           
         <section class="transcript-section" id="sec-000000">
           <div class="section-header">
@@ -578,25 +697,24 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <h4 class="section-subhead">Chapter 1.</h4>
-<p class="prose-p">The compound effect in action. Do you know that expression, slow and steady wins the race? Ever heard the story of the tortoise in the hair? Ladies and gentlemen, I’m the tortoise.</p>
-<p class="prose-p">Give me enough time, and I will beat virtually anybody, anytime, in any competition. Why? Not because I’m the best or the smartest or the fastest. I’ll win because of the positive habits I’ve developed, and because of the consistency I use in applying those habits.</p>
-<p class="prose-p">I’m the world’s biggest believer in consistency. I’m living proof that it’s the ultimate key to success, yet it’s one of the biggest pitfalls for people struggling to achieve. Most people don’t know how to sustain it. I do.</p>
-<p class="prose-p">I have my father to thank for that. In essence, he was my first coach for igniting the power of the compound effect. My parents divorced when I was 18 months old, and my dad raised me as a single father. He wasn’t exactly the soft, nurturing type.</p>
-<p class="prose-p">He was a former university football coach, and he hard-wired me for achievement. Thanks to dad, wake-up calls were at six o’clock every morning. Not by a loving tap on the shoulder or even the sound of a radio alarm. No, I was awakened each morning by the repetitious pile driving sound of iron pounding on the concrete floor of our garage, situated next to my bedroom.</p>
-<p class="prose-p">It was like waking up twelve feet from a construction zone. He’d painted a huge, no-pain, no-gain, sign on the wall of the garage, which he stared at while he did countless old-school strongman dead lifts, power cleans, lunges, and squats. Rain, sleet, or shine. Dad was out there in his shorts and tattered sweatshirt.</p>
-<p class="prose-p">He never missed a day. You could set your watch by his routine. I had more chores than a housekeeper and gardener put together. Upon returning from school, there was always a list of instructions to greet me.</p>
-<p class="prose-p">Pull weeds, rake leaves, sweep the garage, dust, vacuum, do the dishes, you name it. And getting behind in school wasn’t tolerated. That’s just the way it was. Dad was the original, no excuses, guy.</p>
-<p class="prose-p">We weren’t ever allowed to stay home from school sick, unless we were actually puking, bleeding, or, showing bone. The term, showing bone, came from his coaching days. His players knew they weren’t allowed to come out of the game unless they were seriously injured. One time his quarterback asked to be pulled out of the game.</p>
-<p class="prose-p">Dad said, not unless you’re showing bone. The quarterback pulled back his shoulder pads, and sure enough, his collarbone was showing. Only then was he allowed to come off the field. One of Dad’s core philosophies was, it doesn’t matter how smart you are or aren’t.</p>
-<p class="prose-p">You need to make up in hard work what you lack in experience, skill, intelligence, or innate ability. If your competitor is smarter, more talented, or experienced, you just need to work three or four times as hard. You can still beat them. No matter what the challenge, he taught me to make up in hard work for wherever I might be disadvantaged.</p>
-<p class="prose-p">Miss free throws at the game? Do 1,000 free throws every day for a month. Not good at dribbling with your left hand? Tie your right hand behind your back and dribble three hours a day.</p>
-<p class="prose-p">Behind in your math? Hunker down, hire a tutor, and work like hell all summer until you get it. No excuses. If you aren’t good at something, work harder, work smarter.</p>
-<p class="prose-p">He walked his talk, too. Dad went from being a football coach to a top salesperson. From there he became the boss, and ultimately, went on to own his own company. But I wasn’t given loads of instruction.</p>
-<p class="prose-p">From the beginning, Dad let us figure it out. He was all about taking personal responsibility. He didn’t hammer on us every night about homework, we just had to show up with the results. And, when you did, you were celebrated.</p>
-<p class="prose-p">If we got good grades, Dad took us to Prings, an ice cream parlor where you could get these king banana splits, six scoops of ice cream and all the fixings. Many times my siblings didn’t fare as well in school, so they didn’t get to go. Getting to go was a big deal, so you worked your butt off to win the trip. Dad’s discipline served as an example for me.</p>
-<p class="prose-p">Dad was my idol, and I wanted him to be proud of me. I also lived in fear of disappointing him. One of his philosophies as, be the guy who says, no. It’s no great achievement to go along with the crowd. Be the unusual guy, the extraordinary guy.</p>
-<p class="prose-p">That’s why I never did drugs, he never harped on me about it, but I didn’t want to be that guy who just went along because everyone else was doing it. And I didn’t want to let</p>
+            <p class="prose-p">#### Chapter 1. The compound effect in action. Do you know that expression, slow and steady wins the race? Ever heard the story of the tortoise in the hair?</p>
+<p class="prose-p">Ladies and gentlemen, I’m the tortoise. Give me enough time, and I will beat virtually anybody, anytime, in any competition. Why? Not because I’m the best or the smartest or the fastest.</p>
+<p class="prose-p">I’ll win because of the positive habits I’ve developed, and because of the consistency I use in applying those habits. I’m the world’s biggest believer in consistency. I’m living proof that it’s the ultimate key to success, yet it’s one of the biggest pitfalls for people struggling to achieve. Most people don’t know how to sustain it.</p>
+<p class="prose-p">I do. I have my father to thank for that. In essence, he was my first coach for igniting the power of the compound effect. My parents divorced when I was 18 months old, and my dad raised me as a single father.</p>
+<p class="prose-p">He wasn’t exactly the soft, nurturing type. He was a former university football coach, and he hard-wired me for achievement. Thanks to dad, wake-up calls were at six o’clock every morning. Not by a loving tap on the shoulder or even the sound of a radio alarm.</p>
+<p class="prose-p">No, I was awakened each morning by the repetitious pile driving sound of iron pounding on the concrete floor of our garage, situated next to my bedroom. It was like waking up twelve feet from a construction zone. He’d painted a huge, no-pain, no-gain, sign on the wall of the garage, which he stared at while he did countless old-school strongman dead lifts, power cleans, lunges, and squats. Rain, sleet, or shine.</p>
+<p class="prose-p">Dad was out there in his shorts and tattered sweatshirt. He never missed a day. You could set your watch by his routine. I had more chores than a housekeeper and gardener put together.</p>
+<p class="prose-p">Upon returning from school, there was always a list of instructions to greet me. Pull weeds, rake leaves, sweep the garage, dust, vacuum, do the dishes, you name it. And getting behind in school wasn’t tolerated. That’s just the way it was.</p>
+<p class="prose-p">Dad was the original, no excuses, guy. We weren’t ever allowed to stay home from school sick, unless we were actually puking, bleeding, or, showing bone. The term, showing bone, came from his coaching days. His players knew they weren’t allowed to come out of the game unless they were seriously injured.</p>
+<p class="prose-p">One time his quarterback asked to be pulled out of the game. Dad said, not unless you’re showing bone. The quarterback pulled back his shoulder pads, and sure enough, his collarbone was showing. Only then was he allowed to come off the field.</p>
+<p class="prose-p">One of Dad’s core philosophies was, it doesn’t matter how smart you are or aren’t. You need to make up in hard work what you lack in experience, skill, intelligence, or innate ability. If your competitor is smarter, more talented, or experienced, you just need to work three or four times as hard. You can still beat them.</p>
+<p class="prose-p">No matter what the challenge, he taught me to make up in hard work for wherever I might be disadvantaged. Miss free throws at the game? Do 1,000 free throws every day for a month. Not good at dribbling with your left hand?</p>
+<p class="prose-p">Tie your right hand behind your back and dribble three hours a day. Behind in your math? Hunker down, hire a tutor, and work like hell all summer until you get it. No excuses.</p>
+<p class="prose-p">If you aren’t good at something, work harder, work smarter. He walked his talk, too. Dad went from being a football coach to a top salesperson. From there he became the boss, and ultimately, went on to own his own company.</p>
+<p class="prose-p">But I wasn’t given loads of instruction. From the beginning, Dad let us figure it out. He was all about taking personal responsibility. He didn’t hammer on us every night about homework, we just had to show up with the results.</p>
+<p class="prose-p">And, when you did, you were celebrated. If we got good grades, Dad took us to Prings, an ice cream parlor where you could get these king banana splits, six scoops of ice cream and all the fixings. Many times my siblings didn’t fare as well in school, so they didn’t get to go. Getting to go was a big deal, so you worked your butt off to win the trip.</p>
+<p class="prose-p">Dad’s discipline served as an example for me. Dad was my idol, and I wanted him to be proud of me. I also lived in fear of disappointing him. One of his philosophies as, be the guy who says, no. It’s no great achievement to go along with the crowd.</p>
+<p class="prose-p">Be the unusual guy, the extraordinary guy. That’s why I never did drugs, he never harped on me about it, but I didn’t want to be that guy who just went along because everyone else was doing it. And I didn’t want to let</p>
           </div>
         </section>
         
@@ -964,12 +1082,12 @@
 <p class="prose-p">Eliminate sabotaging habits and instill the needed positive habits, and you can take your life in any direction you desire, to the heights of your greatest imagination. Let me show you how. Put the compound effect to work for you. Summary action steps.</p>
 <p class="prose-p">What area, person, or circumstance in your life do you struggle with the most? Start journaling all the aspects of that situation that you are grateful for. Keep a record of everything that reinforces and expands your gratitude in that area. Where in your life are you not taking 100% responsibility for the success or failure of your present condition?</p>
 <p class="prose-p">Write down three things you have done in the past that have messed things up. List three things you should have done but didn’t. Write out three things that happened to you but you responded poorly. Write down three things you can start doing right now to take back responsibility for the outcomes of your life.</p>
-<p class="prose-p">Start tracking at least one behavior in one area of your life you’d like to change and improve, e.g., money, nutrition, fitness, recognizing others, parenting, any area.</p>
-<h4 class="section-subhead">Chapter 3.</h4>
-<p class="prose-p">Habits. A wise teacher was taking a stroll through the forest with a young pupil and stopped before a tiny tree. Pull up that sapling. The teacher instructed his pupil, pointing to a sprout just coming up from the earth.</p>
-<p class="prose-p">The youngster pulled it up easily with his fingers. Now pull up that one, said the teacher, indicating a more established sapling that had grown to about knee-high to the boy. With little effort, the lad yanked and the tree came up, roots and all. And now, this one, said the teacher, nodding toward a more well-developed evergreen that was as tall as the young pupil.</p>
-<p class="prose-p">With great effort, throwing all his weight and strength into the task, using sticks and stone he found to pry up the stubborn roots, the boy finally got the tree loose. Now, the wise one said, “I’d like you to pull this one up.” The young boy followed the teacher’s gaze, which fell upon a mighty oak so tall the boy could scarcely see the top. Knowing the great struggle he just had pulling up the much smaller tree, he simply told his teacher, I am sorry, but I can’t.</p>
-<p class="prose-p">My son, you have just demonstrated the power that habits will have over your life. The teacher exclaimed, the older they are, the bigger they get, the deeper the roots grow, and the harder they are to uproot.</p>
+<p class="prose-p">Start tracking at least one behavior in one area of your life you’d like to change and improve, e.g., money, nutrition, fitness, recognizing others, parenting, any area.
+
+#### Chapter 3. Habits. A wise teacher was taking a stroll through the forest with a young pupil and stopped before a tiny tree. Pull up that sapling.</p>
+<p class="prose-p">The teacher instructed his pupil, pointing to a sprout just coming up from the earth. The youngster pulled it up easily with his fingers. Now pull up that one, said the teacher, indicating a more established sapling that had grown to about knee-high to the boy. With little effort, the lad yanked and the tree came up, roots and all.</p>
+<p class="prose-p">And now, this one, said the teacher, nodding toward a more well-developed evergreen that was as tall as the young pupil. With great effort, throwing all his weight and strength into the task, using sticks and stone he found to pry up the stubborn roots, the boy finally got the tree loose.</p>
+<p class="prose-p">Now, the wise one said, “I’d like you to pull this one up.” The young boy followed the teacher’s gaze, which fell upon a mighty oak so tall the boy could scarcely see the top. Knowing the great struggle he just had pulling up the much smaller tree, he simply told his teacher, I am sorry, but I can’t. My son, you have just demonstrated the power that habits will have over your life. The teacher exclaimed, the older they are, the bigger they get, the deeper the roots grow, and the harder they are to uproot.</p>
           </div>
         </section>
         
@@ -1256,13 +1374,13 @@
 <p class="prose-p">When you press on, you will receive huge payoffs. Speaking of payoffs, the next chapter is where we really start breaking away from the herd, where the multiplying effect really takes shape. With all the disciplined effort you’ve applied from the fundamentals of the first three chapters, here’s where you get rewarded, big time. Put the compound effect to work for you.</p>
 <p class="prose-p">Summary action steps. Identify your three best habits, those that support your most important goal. Identify your three bad habits that take you off course from your most important goal. Identify three new habits you need to develop to put you on track toward your most important goal.</p>
 <p class="prose-p">Download the habits sheet at www.thecompoundeffect.com slash free identify your core motivation. Discover what gets you fired up and keeps you fired up to achieve big results. Download the core values assessment document at www.thecompoundeffect.com slash free find your why power. Design your concise, compelling, and awe-inspiring goals.</p>
-<p class="prose-p">Download the goal sheet at www.thecompoundeffect.com slash free order your copy of living your best year ever a proven system for achieving big goals from www.success.com slash bestierever to guide you through the designing process as well as the achieving process all year long.</p>
-<h4 class="section-subhead">Chapter 4.</h4>
-<p class="prose-p">Momentum. I’d like to introduce you to a very good friend of mine. This friend, also close to Bill Gates, Steve Jobs, Richard Branson, Michael Jordan, Lance Armstrong, Michael Phelps, and every other superachiever, will impact your life like no other. I’d like to introduce you to Mo, or, Big Mo, as I like to call it.</p>
-<p class="prose-p">Big Mo is, without doubt, one of the most powerful and enigmatic forces of success. You can’t see or feel Mo, but you know when you’ve got it. You can’t count on Mo showing up to every occasion, but when it does, wow. Big Mo can catapult you into the stratosphere of success.</p>
-<p class="prose-p">And once you’ve got Mo on your side, there’s almost no way anyone can catch you. I’m excited about this chapter. When you implement the ideas outlined ahead, your payoff will be a thousand times, or more, what you paid for this book. Seriously, these ideas are big.</p>
-<p class="prose-p">Harnessing the power of Big Mo. If you remember your high school physics class, you do, don’t you? You’ll recall Newton’s First Law, also known as the Law of Inertia. Objects at rest tend to stay at rest unless acted on by an outside force.</p>
-<p class="prose-p">Objects in motion tend to stay in motion, unless something stops their momentum. Put another way, couch potatoes tend to stay couch potatoes. Achievers, people who get into a successful rhythm, continue busting their butts and end</p>
+<p class="prose-p">Download the goal sheet at www.thecompoundeffect.com slash free order your copy of living your best year ever a proven system for achieving big goals from www.success.com slash bestierever to guide you through the designing process as well as the achieving process all year long.
+
+#### Chapter 4. Momentum. I’d like to introduce you to a very good friend of mine. This friend, also close to Bill Gates, Steve Jobs, Richard Branson, Michael Jordan, Lance Armstrong, Michael Phelps, and every other superachiever, will impact your life like no other.</p>
+<p class="prose-p">I’d like to introduce you to Mo, or, Big Mo, as I like to call it. Big Mo is, without doubt, one of the most powerful and enigmatic forces of success. You can’t see or feel Mo, but you know when you’ve got it. You can’t count on Mo showing up to every occasion, but when it does, wow.</p>
+<p class="prose-p">Big Mo can catapult you into the stratosphere of success. And once you’ve got Mo on your side, there’s almost no way anyone can catch you. I’m excited about this chapter. When you implement the ideas outlined ahead, your payoff will be a thousand times, or more, what you paid for this book.</p>
+<p class="prose-p">Seriously, these ideas are big. Harnessing the power of Big Mo. If you remember your high school physics class, you do, don’t you? You’ll recall Newton’s First Law, also known as the Law of Inertia.</p>
+<p class="prose-p">Objects at rest tend to stay at rest unless acted on by an outside force. Objects in motion tend to stay in motion, unless something stops their momentum. Put another way, couch potatoes tend to stay couch potatoes. Achievers, people who get into a successful rhythm, continue busting their butts and end</p>
           </div>
         </section>
         
@@ -1448,22 +1566,22 @@
             <p class="prose-p">Learn how to use them or you might end up losing because of them. Let me show you how. Put the compound effect to work for you. Summary action steps.</p>
 <p class="prose-p">Build your bookend morning and evening routines. Design a predictable and fail-safe world-class routine schedule for your life. List three areas of life in which you are not consistent enough. What has this inconsistency cost you in life thus far?</p>
 <p class="prose-p">Make a declaration to stay steadfast in your new commitment to consistency. On your rhythm register, write down a half dozen key behaviors relevant to your new goals. These should be behaviors you want to establish a rhythm with and eventually create momentum, big mo. Download the rhythm register at www.thecompoundeffect.com slash free for a complete achievement management system T.</p>
-<p class="prose-p">M., including the rhythm register. Obtain the Living Your Best Year Ever program at www.success.com slash bestyearever.</p>
-<h4 class="section-subhead">Chapter 5.</h4>
-<p class="prose-p">Influences. Hopefully by now you understand exactly how important your choices are. Even those that seem insignificant, when compounded, can make an extreme impact on your life. We’ve also discussed the fact that you are 100% responsible for your life.</p>
-<p class="prose-p">You alone are responsible for the choices you make and the actions you take. That said, you must also realize your choices, behaviors, and habits are influenced by very powerful external forces. Most of us aren’t aware of the subtle control these forces have on our lives. For you to sustain your positive trajectory toward your goals, you’ll need to understand and govern these influences so they will support rather than derail your journey toward success.</p>
-<p class="prose-p">Everyone is affected by three kinds of influences, input, what you feed your mind, associations, the people with whom you spend time, an environment, your surroundings. I. Input. Garbage in, garbage out.</p>
-<p class="prose-p">If you want your body to run at peak performance, you’ve got to be vigilant about consuming the highest quality nutrients and avoiding tempting junk food. If you want your brain to perform at its peak, you’ve got to be even more vigilant about what you feed it. Are you feeding it new summaries or mind-numbing sitcoms? Are you reading the tabloids, or success?</p>
-<p class="prose-p">Controlling the input has a direct and measurable impact on your productivity and outcomes. Controlling what our brains consume is especially difficult because so much of what we take in is unconscious. Although it’s true that we can eat without thinking, it’s easier to pay attention to what we put in our bodies because food doesn’t leap into our mouths. We need an extra level of vigilance to prevent our brains from absorbing irrelevant, counterproductive or downright destructive input.</p>
-<p class="prose-p">It’s a never-ending battle to be selective and to stand guard against any information that can derail your creative potential. Your brain is not designed to make you happy. Your brain has only one agenda in mind. Survival.</p>
-<p class="prose-p">It is always watching for signs of, lack and attack. Your brain is programmed to seek out the negative, dwindling resources, destructive weather, whatever’s out to hurt you. So when you switch on that radio on the way to work and get bombarded with all those reports about robberies, fires, attacks, and other things, it’s a matter of time. tax, the tanking economy, your brain lights up. It now will spend all day chewing over that feast of fear, worry, negativity.</p>
-<p class="prose-p">Same deal when you tune into the evening news after work. More bad news? Perfect. Your mind will stew on that all night long.</p>
-<p class="prose-p">Left to its own devices, your mind will traffic in the negative, worrisome, and fearful all day and night. We can’t change our DNA, but we can change our behavior. We can teach our minds to look beyond, lack and attack. How?</p>
-<p class="prose-p">We can protect and feed our mind. We can be disciplined and proactive about what we allow in. Don’t drink dirty water. You get in life what you create.</p>
-<p class="prose-p">Expectation drives the creative process. What do you expect? Do you expect whatever it is you’re thinking about? Your thought process, the conversation in your head, is at the base of the results you create in life.</p>
-<p class="prose-p">To the question is, what are you thinking about? What is influencing and directing your thoughts? The answer. Whatever you’re allowing yourself to hear and see, this is the input you are feeding your brain.</p>
-<p class="prose-p">Period. See Figure 12. Your mind is like an empty glass, it’ll hold anything you put into it. You put in sensational news, salacious headlines, talk show rants, and you’re pouring dirty water into your glass.</p>
-<p class="prose-p">If you’ve got dark, dismal, worrisome water in your glass, everything you create will be filtered through that muddy mess, because that’s what you’ll be thinking about.</p>
+<p class="prose-p">M., including the rhythm register. Obtain the Living Your Best Year Ever program at www.success.com slash bestyearever.
+
+#### Chapter 5. Influences. Hopefully by now you understand exactly how important your choices are.</p>
+<p class="prose-p">Even those that seem insignificant, when compounded, can make an extreme impact on your life. We’ve also discussed the fact that you are 100% responsible for your life. You alone are responsible for the choices you make and the actions you take. That said, you must also realize your choices, behaviors, and habits are influenced by very powerful external forces.</p>
+<p class="prose-p">Most of us aren’t aware of the subtle control these forces have on our lives. For you to sustain your positive trajectory toward your goals, you’ll need to understand and govern these influences so they will support rather than derail your journey toward success. Everyone is affected by three kinds of influences, input, what you feed your mind, associations, the people with whom you spend time, an environment, your surroundings. I.</p>
+<p class="prose-p">Input. Garbage in, garbage out. If you want your body to run at peak performance, you’ve got to be vigilant about consuming the highest quality nutrients and avoiding tempting junk food. If you want your brain to perform at its peak, you’ve got to be even more vigilant about what you feed it.</p>
+<p class="prose-p">Are you feeding it new summaries or mind-numbing sitcoms? Are you reading the tabloids, or success? Controlling the input has a direct and measurable impact on your productivity and outcomes. Controlling what our brains consume is especially difficult because so much of what we take in is unconscious.</p>
+<p class="prose-p">Although it’s true that we can eat without thinking, it’s easier to pay attention to what we put in our bodies because food doesn’t leap into our mouths. We need an extra level of vigilance to prevent our brains from absorbing irrelevant, counterproductive or downright destructive input. It’s a never-ending battle to be selective and to stand guard against any information that can derail your creative potential. Your brain is not designed to make you happy.</p>
+<p class="prose-p">Your brain has only one agenda in mind. Survival. It is always watching for signs of, lack and attack. Your brain is programmed to seek out the negative, dwindling resources, destructive weather, whatever’s out to hurt you.</p>
+<p class="prose-p">So when you switch on that radio on the way to work and get bombarded with all those reports about robberies, fires, attacks, and other things, it’s a matter of time. tax, the tanking economy, your brain lights up. It now will spend all day chewing over that feast of fear, worry, negativity. Same deal when you tune into the evening news after work. More bad news?</p>
+<p class="prose-p">Perfect. Your mind will stew on that all night long. Left to its own devices, your mind will traffic in the negative, worrisome, and fearful all day and night. We can’t change our DNA, but we can change our behavior.</p>
+<p class="prose-p">We can teach our minds to look beyond, lack and attack. How? We can protect and feed our mind. We can be disciplined and proactive about what we allow in.</p>
+<p class="prose-p">Don’t drink dirty water. You get in life what you create. Expectation drives the creative process. What do you expect?</p>
+<p class="prose-p">Do you expect whatever it is you’re thinking about? Your thought process, the conversation in your head, is at the base of the results you create in life. To the question is, what are you thinking about? What is influencing and directing your thoughts?</p>
+<p class="prose-p">The answer. Whatever you’re allowing yourself to hear and see, this is the input you are feeding your brain. Period. See Figure 12.</p>
+<p class="prose-p">Your mind is like an empty glass, it’ll hold anything you put into it. You put in sensational news, salacious headlines, talk show rants, and you’re pouring dirty water into your glass. If you’ve got dark, dismal, worrisome water in your glass, everything you create will be filtered through that muddy mess, because that’s what you’ll be thinking about.</p>
           </div>
         </section>
         
@@ -1963,6 +2081,204 @@
 
     document.getElementById('scroll-top-btn').addEventListener('click', () => {
       window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    // ==========================================
+    // IN-PAGE CONTENT SEARCH (單書全文搜尋)
+    // ==========================================
+    const searchBar = document.getElementById('inpage-search-bar');
+    const searchInput = document.getElementById('inpage-search-input');
+    const searchCount = document.getElementById('inpage-search-count');
+    const searchDrawer = document.getElementById('inpage-search-drawer');
+    const searchDrawerList = document.getElementById('inpage-search-drawer-list');
+    const searchToggleBtn = document.getElementById('search-toggle-btn');
+    const searchClearBtn = document.getElementById('inpage-search-clear');
+    const searchPrevBtn = document.getElementById('inpage-search-prev');
+    const searchNextBtn = document.getElementById('inpage-search-next');
+    const searchCloseBtn = document.getElementById('inpage-search-close');
+    const drawerCloseBtn = document.getElementById('inpage-drawer-close');
+
+    let searchMatches = [];
+    let currentMatchIdx = -1;
+
+    // Cache original innerHTML for clean resets
+    const rawParagraphs = Array.from(document.querySelectorAll('.section-body p')).map(p => ({
+      el: p,
+      rawHtml: p.innerHTML,
+      rawText: p.textContent
+    }));
+
+    function openSearch() {
+      searchBar.classList.add('active');
+      searchInput.focus();
+      searchInput.select();
+      if (searchInput.value.trim()) {
+        performSearch(searchInput.value.trim());
+      }
+    }
+
+    function closeSearch() {
+      searchBar.classList.remove('active');
+      searchDrawer.classList.remove('active');
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchCount.textContent = '0 / 0';
+    }
+
+    function clearHighlights() {
+      rawParagraphs.forEach(item => {
+        item.el.innerHTML = item.rawHtml;
+      });
+    }
+
+    function escapeRegex(str) {
+      return str.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+    }
+
+    function escapeHtml(str) {
+      return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+
+    function performSearch(query) {
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchDrawerList.innerHTML = '';
+
+      if (!query || query.trim().length === 0) {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+        return;
+      }
+
+      query = query.trim();
+      const qLower = query.toLowerCase();
+      const regex = new RegExp(`(${escapeRegex(query)})`, 'gi');
+
+      rawParagraphs.forEach((item, pIdx) => {
+        if (item.rawText.toLowerCase().includes(qLower)) {
+          const sec = item.el.closest('.transcript-section');
+          const secTime = sec ? (sec.querySelector('.section-time')?.textContent || '') : '';
+          const secId = sec ? sec.id : '';
+
+          // Apply highlight
+          item.el.innerHTML = item.rawHtml.replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const marks = Array.from(item.el.querySelectorAll('mark.search-highlight'));
+          marks.forEach(mark => {
+            searchMatches.push({
+              mark,
+              el: item.el,
+              secTime,
+              secId
+            });
+          });
+
+          // Snippet creation
+          const matchPos = item.rawText.toLowerCase().indexOf(qLower);
+          const start = Math.max(0, matchPos - 30);
+          const end = Math.min(item.rawText.length, matchPos + query.length + 50);
+          const snippetText = item.rawText.slice(start, end);
+          const snippetHtml = escapeHtml(snippetText).replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const card = document.createElement('div');
+          card.className = 'search-result-item';
+          card.innerHTML = `
+            <div class="search-result-time">${secTime}</div>
+            <div class="search-result-snippet">...${snippetHtml}...</div>
+          `;
+          card.addEventListener('click', () => {
+            const targetIdx = searchMatches.findIndex(m => m.mark === marks[0]);
+            if (targetIdx >= 0) goToMatch(targetIdx);
+          });
+          searchDrawerList.appendChild(card);
+        }
+      });
+
+      if (searchMatches.length > 0) {
+        searchDrawer.classList.add('active');
+        goToMatch(0);
+      } else {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+      }
+    }
+
+    function goToMatch(idx) {
+      if (idx < 0 || idx >= searchMatches.length) return;
+      if (currentMatchIdx >= 0 && searchMatches[currentMatchIdx]) {
+        searchMatches[currentMatchIdx].mark.classList.remove('active-match');
+      }
+      currentMatchIdx = idx;
+      const target = searchMatches[currentMatchIdx];
+      target.mark.classList.add('active-match');
+      searchCount.textContent = `${currentMatchIdx + 1} / ${searchMatches.length}`;
+
+      // Highlight active drawer item
+      const drawerItems = searchDrawerList.querySelectorAll('.search-result-item');
+      drawerItems.forEach(di => di.classList.remove('active'));
+
+      target.mark.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+
+    searchToggleBtn.addEventListener('click', () => {
+      if (searchBar.classList.contains('active')) {
+        closeSearch();
+      } else {
+        openSearch();
+      }
+    });
+
+    let debounceTimer;
+    searchInput.addEventListener('input', (e) => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => {
+        performSearch(e.target.value);
+      }, 200);
+    });
+
+    searchClearBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      performSearch('');
+      searchInput.focus();
+    });
+
+    searchNextBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const nextIdx = (currentMatchIdx + 1) % searchMatches.length;
+      goToMatch(nextIdx);
+    });
+
+    searchPrevBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const prevIdx = (currentMatchIdx - 1 + searchMatches.length) % searchMatches.length;
+      goToMatch(prevIdx);
+    });
+
+    searchInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        if (e.shiftKey) {
+          searchPrevBtn.click();
+        } else {
+          searchNextBtn.click();
+        }
+      } else if (e.key === 'Escape') {
+        closeSearch();
+      }
+    });
+
+    searchCloseBtn.addEventListener('click', closeSearch);
+    drawerCloseBtn.addEventListener('click', () => searchDrawer.classList.remove('active'));
+
+    window.addEventListener('keydown', (e) => {
+      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'f') {
+        e.preventDefault();
+        openSearch();
+      } else if (e.key === 'Escape') {
+        if (searchBar.classList.contains('active')) closeSearch();
+      }
     });
   </script>
 </body>

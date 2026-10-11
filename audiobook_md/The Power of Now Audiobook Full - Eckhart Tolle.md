@@ -373,27 +373,25 @@ In every pleasure or emotional height contains within itself the seat of pain, i
 
 There are two levels to your pain, the pain that you create now, and the pain from the past that still lives on in your mind and body. Ceasing to create pain in the present and dissolving past pain, this is what I want to talk about now.
 
-#### Chapter 2 Consciousness, the way out of pain create no more pain in the present.
+#### Chapter 2 Consciousness, the way out of pain create no more pain in the present. Nobody says life is entirely free of pain and sorrow. Isn’t it a question of learning to live with them rather than trying to avoid them?
 
-Nobody says life is entirely free of pain and sorrow. Isn’t it a question of learning to live with them rather than trying to avoid them? The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life.
+The greater part of human pain is unnecessary. It is self-created as long as the unobserved mind runs your life. The pain that you create now is always some form of non-acceptance, some form of unconscious resistance to what is. On the level of thought, the resistance is some form of judgment.
 
-The pain that you create now is always some form of non-acceptance, some form of unconscious resistance to what is. On the level of thought, the resistance is some form of judgment. On the emotional level, it is some form of negativity. The intensity of the pain depends on the degree of resistance to the present moment, and this in turn depends on how strongly you are identified with your mind.
+On the emotional level, it is some form of negativity. The intensity of the pain depends on the degree of resistance to the present moment, and this in turn depends on how strongly you are identified with your mind. The mind always seeks to deny the now and to escape from it.
 
-The mind always seeks to deny the now and to escape from it. In other words, the more you are identified with your mind, the more you suffer. Or you may put it like this, the more you are able to honor and accept the now, the more you are free of pain, of suffering, and free of the egoic mind. Why does the mind habitually deny or resist the now?
+In other words, the more you are identified with your mind, the more you suffer. Or you may put it like this, the more you are able to honor and accept the now, the more you are free of pain, of suffering, and free of the egoic mind. Why does the mind habitually deny or resist the now? Because it cannot function and remain in control without time, which is past and future, so it perceives the timeless now as threatening.
 
-Because it cannot function and remain in control without time, which is past and future, so it perceives the timeless now as threatening. Time and mind are in fact inseparable. Imagine the earth devoid of human life, inhabited only by plants and animals. Would it still have a past and a future?
+Time and mind are in fact inseparable. Imagine the earth devoid of human life, inhabited only by plants and animals. Would it still have a past and a future? Could we still speak of time in any meaningful way?
 
-Could we still speak of time in any meaningful way? The question what time is it? Or what is the date today? If anybody were there to ask it, would be quite meaningless.
+The question what time is it? Or what is the date today? If anybody were there to ask it, would be quite meaningless. The oak tree or the eagle would be bemused by such a question.
 
-The oak tree or the eagle would be bemused by such a question. What time, they would ask. Well of course it’s now, the time is now. What else is there?
+What time, they would ask. Well of course it’s now, the time is now. What else is there? Yes, we need the mind as well as time to function in this world, but there comes a point where they take over our lives, and this is where dysfunction, pain, and sorrow set in.
 
-Yes, we need the mind as well as time to function in this world, but there comes a point where they take over our lives, and this is where dysfunction, pain, and sorrow set in. The mind, to ensure that it remains in control, seeks continuously to cover up the present moment with past and future. And so, as the vitality and infinite creative potential of being, which is inseparable from the now, becomes covered up by time, your true nature becomes obscured by the mind.
+The mind, to ensure that it remains in control, seeks continuously to cover up the present moment with past and future. And so, as the vitality and infinite creative potential of being, which is inseparable from the now, becomes covered up by time, your true nature becomes obscured by the mind. An increasingly heavy burden of time has been accumulating in the human mind. All individuals are suffering under this burden.
 
-An increasingly heavy burden of time has been accumulating in the human mind. All individuals are suffering under this burden. But they also keep adding to it every moment whenever they ignore or deny that precious moment, or reduce it to a means of getting to some future moment, which only exists in the mind, never in actuality. The accumulation of time in the collective and individual human mind also holds a vast amount of residual pain from the past.
+But they also keep adding to it every moment whenever they ignore or deny that precious moment, or reduce it to a means of getting to some future moment, which only exists in the mind, never in actuality. The accumulation of time in the collective and individual human mind also holds a vast amount of residual pain from the past. If you no longer want to create pain for yourself and others, if you no longer want to add to the residue of past pain that still lives on in you, then don’t create any more time, or at least no more than is necessary to deal with the practical aspects of your life.
 
-If you no longer want to create pain for yourself and others, if you no longer want to add to the residue of past pain that still lives on in you, then don’t create any more time, or at least no more than is necessary to deal with the practical aspects of your life. How to Stop Creating Time Realize deeply that the present moment is all you ever have. Make the now the primary focus of your life, whereas before you dwelt in time and paid brief visits to the now, have your dwelling place in the now, and pay brief visits to past and future when required to deal with the practical aspects of your life situation.
-
-Always say yes to the present moment. What could be more futile, more insane than to create inner resistance to something that
+How to Stop Creating Time Realize deeply that the present moment is all you ever have. Make the now the primary focus of your life, whereas before you dwelt in time and paid brief visits to the now, have your dwelling place in the now, and pay brief visits to past and future when required to deal with the practical aspects of your life situation. Always say yes to the present moment. What could be more futile, more insane than to create inner resistance to something that
 
 
 <a id="sec-005021"></a>
@@ -529,15 +527,13 @@ Perhaps you find it as yet hard to believe, and I am certainly not asking you to
 
 The secret of life is to die before you die, and find that there is no death.
 
-#### Chapter 3, Moving Deeply into the Now.
+#### Chapter 3, Moving Deeply into the Now. Don’t seek yourself in the mind. I feel that there is still a great deal. I need to learn about the workings of my mind before I can get anywhere near full consciousness or spiritual.
 
-Don’t seek yourself in the mind. I feel that there is still a great deal. I need to learn about the workings of my mind before I can get anywhere near full consciousness or spiritual. Enlightenment.
+Enlightenment. No, you don’t. The problems of the mind cannot be solved on the level of the mind. Once you have understood the basic dysfunction, there isn’t really much else that you need to learn or understand.
 
-No, you don’t. The problems of the mind cannot be solved on the level of the mind. Once you have understood the basic dysfunction, there isn’t really much else that you need to learn or understand. Studying the complexities of the mind may make you a good psychologist, but doing so won’t take you beyond the mind, just as the study of madness isn’t enough to create sanity.
+Studying the complexities of the mind may make you a good psychologist, but doing so won’t take you beyond the mind, just as the study of madness isn’t enough to create sanity. You have already understood the basic mechanics of the unconscious state, identification with the mind, which creates a false self, the ego, as a substitute for your true self rooted in being. You become as a branch cut off from the vine, as Jesus puts it. Once you know how the basic dysfunction operates, there is no need to explore all its countless manifestations, no need to make it into a complex personal problem.
 
-You have already understood the basic mechanics of the unconscious state, identification with the mind, which creates a false self, the ego, as a substitute for your true self rooted in being. You become as a branch cut off from the vine, as Jesus puts it. Once you know how the basic dysfunction operates, there is no need to explore all its countless manifestations, no need to make it into a complex personal problem. The ego, of course, loves that.
-
-It is always seeking for something to attach itself to in order to uphold and strengthen its illusory sense of self, and it will readily attach itself to your problems. This is why, for so many people, a large part of their sense of selfish intimately connected with their problems. Once this has happened, the last thing they want is to become free of them. That would mean loss of self. There can be a great deal of unconscious ego investment in pain and suffering.
+The ego, of course, loves that. It is always seeking for something to attach itself to in order to uphold and strengthen its illusory sense of self, and it will readily attach itself to your problems. This is why, for so many people, a large part of their sense of selfish intimately connected with their problems. Once this has happened, the last thing they want is to become free of them. That would mean loss of self. There can be a great deal of unconscious ego investment in pain and suffering.
 
 So once you recognize the root of unconsciousness as identification with the mind, which of course includes the emotions, you step out of it. You become present. When you are present, you can allow the mind to be as it is without getting entangled in it. The mind in itself is not dysfunctional.
 
@@ -765,17 +761,15 @@ You don’t demand that situations, conditions, places, or people should make yo
 
 You have succeeded already.
 
-#### Chapter 4.
+#### Chapter 4. Mind Strategies for Avoiding the Now Loss of Now. The Core Delusion. Even if I completely accept that ultimately time is an illusion, what difference is that going to make in my life?
 
-Mind Strategies for Avoiding the Now Loss of Now. The Core Delusion. Even if I completely accept that ultimately time is an illusion, what difference is that going to make in my life? I still have to live in a world that is completely dominated by time.
+I still have to live in a world that is completely dominated by time. Intellectual agreement is just another belief and won’t make much difference to your life. To realize this truth, you need to live it. When every cell of your body is so present that it feels vibrant with life, and when you can feel that life every moment as the joy of being, then it can be said that you are free of time.
 
-Intellectual agreement is just another belief and won’t make much difference to your life. To realize this truth, you need to live it. When every cell of your body is so present that it feels vibrant with life, and when you can feel that life every moment as the joy of being, then it can be said that you are free of time. But I still have to pay the bills tomorrow, and I am still going to grow old and die just like everybody else.
+But I still have to pay the bills tomorrow, and I am still going to grow old and die just like everybody else. So how can I ever say that I am free of time? Tomorrow’s bills are not the problem. The dissolution of the physical body is not a problem.
 
-So how can I ever say that I am free of time? Tomorrow’s bills are not the problem. The dissolution of the physical body is not a problem. Loss of now is the problem, or rather, the core delusion that turns a mere situation, event, or emotion into a personal problem and into suffering.
+Loss of now is the problem, or rather, the core delusion that turns a mere situation, event, or emotion into a personal problem and into suffering. Loss of now is loss of being. To be free of time is to be free of the psychological need of past for your identity, and future for your fulfillment. It represents the most profound transformation of consciousness that you can imagine.
 
-Loss of now is loss of being. To be free of time is to be free of the psychological need of past for your identity, and future for your fulfillment. It represents the most profound transformation of consciousness that you can imagine. In some rare cases, this shift in consciousness happens dramatically and radically, once and for all.
-
-When it does, it usually comes about through total surrender in the midst of intense suffering. Most people, however, have to work at it. When you have had your first few glimpses of the timeless state of consciousness, you begin to move back and forth between the dimensions of time and presence.
+In some rare cases, this shift in consciousness happens dramatically and radically, once and for all. When it does, it usually comes about through total surrender in the midst of intense suffering. Most people, however, have to work at it. When you have had your first few glimpses of the timeless state of consciousness, you begin to move back and forth between the dimensions of time and presence.
 
 First, you become aware of just how rarely your attention is truly in the now, but to know that you are not present is a great success. That knowing is presence, even if initially it only lasts for a couple of seconds of clock time before it is lost again. Then, with increasing frequency, you choose to have the focus of your consciousness in the present moment rather than in the past or future, and whenever you realize that you had lost the now, you are able to stay in it not just for a couple of seconds, but for longer periods as perceived from the external perspective of clock time.
 
@@ -1011,11 +1005,11 @@ That is fine and can be helpful, but it is not essential. What is essential is y
 
 So don’t seek to understand the past, but be as present as you can. The past cannot survive in your presence. It can only survive in your absence.
 
-#### Chapter 5, The State of Presence.
+#### Chapter 5, The State of Presence. It’s not what you think it is.
 
-It’s not what you think it is. You keep talking about the state of presence as the key. I think. I understand it intellectually, but I don’t know if I have ever truly experienced it.
+You keep talking about the state of presence as the key. I think. I understand it intellectually, but I don’t know if I have ever truly experienced it. I wonder, is it what I think it is, or is it something entirely different?
 
-I wonder, is it what I think it is, or is it something entirely different? It’s not. What you think it is, you can’t think about presence, and the mind can’t understand it. Understanding presence is being present.
+It’s not. What you think it is, you can’t think about presence, and the mind can’t understand it. Understanding presence is being present.
 
 
 <a id="sec-022609"></a>
@@ -1173,15 +1167,15 @@ No, you don’t. The problems of the mind cannot be solved on the level of the m
 
 You have already understood the basic mechanics of the unconscious state, identification with the mind, which creates a false self, the ego, as a substitute for your true self rooted in being. You become as a branch cut off from the vine, as Jesus puts it. The ego’s needs are endless, it feels vulnerable and threatened, and so lives in a state of fear and want.
 
-#### Chapter 6.
+#### Chapter 6. The Inner Body Being Is Your Deepest Self You spoke earlier about the importance of having deep roots within or inhabiting the body.
 
-The Inner Body Being Is Your Deepest Self You spoke earlier about the importance of having deep roots within or inhabiting the body. Can you explain what you meant by that? The body can become a point of access into the realm of being. Let’s go into that more deeply now.
+Can you explain what you meant by that? The body can become a point of access into the realm of being. Let’s go into that more deeply now. I am still not quite sure if I fully understand what you mean by being.
 
-I am still not quite sure if I fully understand what you mean by being. Water. What do you mean by that? I don’t understand it.
+Water. What do you mean by that? I don’t understand it. This is what a fish would say if it had a human mind.
 
-This is what a fish would say if it had a human mind. Please stop trying to understand being. You have already had significant glimpses of being, but the mind will always try to squeeze it into a little box and then put a label on it. It cannot be done.
+Please stop trying to understand being. You have already had significant glimpses of being, but the mind will always try to squeeze it into a little box and then put a label on it. It cannot be done. It cannot become an object of knowledge.
 
-It cannot become an object of knowledge. In being, subject and object
+In being, subject and object
 
 
 <a id="sec-025117"></a>
@@ -1389,21 +1383,21 @@ This is the beginning of the realization of oneness, which is love. At the deepe
 
 When the mind is running your life, conflict, strife and problems are inevitable. Being in touch with your inner body creates a clear space of no mind within which the relationship can flower.
 
-#### Chapter 7.
+#### Chapter 7. Portals into the unmanifested, going deeply into the body. I can feel the energy inside my body, especially in my arms and legs, but I don’t seem to be able to go more deeply, as you suggested earlier.
 
-Portals into the unmanifested, going deeply into the body. I can feel the energy inside my body, especially in my arms and legs, but I don’t seem to be able to go more deeply, as you suggested earlier. Make it into a meditation. It needn’t take long.
+Make it into a meditation. It needn’t take long. Ten to fifteen minutes of clock time should be sufficient. Make sure first that there are no external distractions, such as telephones or people who are likely to interrupt you.
 
-Ten to fifteen minutes of clock time should be sufficient. Make sure first that there are no external distractions, such as telephones or people who are likely to interrupt you. Sit on a chair, but don’t lean back. Keep the spine erect.
+Sit on a chair, but don’t lean back. Keep the spine erect. Doing so will help you to stay alert. Alternatively, choose your own favorite position for meditation.
 
-Doing so will help you to stay alert. Alternatively, choose your own favorite position for meditation. Make sure the body is relaxed. Close your eyes.
+Make sure the body is relaxed. Close your eyes. Take a few deep breaths. Feel yourself breathing into the lower abdomen, as it were.
 
-Take a few deep breaths. Feel yourself breathing into the lower abdomen, as it were. Observe how it expands and contracts slightly with each in and out breath. Then become aware of the entire inner energy field of the body.
+Observe how it expands and contracts slightly with each in and out breath. Then become aware of the entire inner energy field of the body. Don’t think about it. Feel it.
 
-Don’t think about it. Feel it. By doing this, you reclaim consciousness from the mind. If you find it helpful, use the light visualization I described earlier.
+By doing this, you reclaim consciousness from the mind. If you find it helpful, use the light visualization I described earlier. When you can feel the inner body clearly as a single field of energy, let go, if possible, of any visual image and focus exclusively on the feeling. If you can, also drop any mental image you may still have of the physical body.
 
-When you can feel the inner body clearly as a single field of energy, let go, if possible, of any visual image and focus exclusively on the feeling. If you can, also drop any mental image you may still have of the physical body. All that is left, then, is an all-encompassing sense of presence or beingness, and the inner body is felt to be without a boundary. Then take your attention even more deeply into that feeling.
+All that is left, then, is an all-encompassing sense of presence or beingness, and the inner body is felt to be without a boundary. Then take your attention even more deeply into that feeling. Become one with it. Merge with the energy field, so that there is no longer a perceived duality of the observer and the observed of you and your body.
 
-Become one with it. Merge with the energy field, so that there is no longer a perceived duality of the observer and the observed of you and your body. The distinction between inner and outer also dissolves now, so there is no inner body anymore. By going deeply into the body, you have transcended the body.
+The distinction between inner and outer also dissolves now, so there is no inner body anymore. By going deeply into the body, you have transcended the body.
 
 
 <a id="sec-032638"></a>
@@ -1571,17 +1565,17 @@ This is never lost. Nothing that is of value, nothing that is real is ever lost.
 
 Every portal is a portal of death, the death of the false self. When you go through it, you cease to derive your identity from your psychological, mind-made form. You then realize that death is an illusion.
 
-#### Chapter 8.
+#### Chapter 8. Enlightened relationships.
 
-Enlightened relationships. Enter the now from wherever you are. I always thought that true enlightenment is not possible except through love in a relationship between a man and a woman. Isn’t this what makes us whole again?
+Enter the now from wherever you are. I always thought that true enlightenment is not possible except through love in a relationship between a man and a woman. Isn’t this what makes us whole again? How can one’s life be fulfilled until that happens?
 
-How can one’s life be fulfilled until that happens? Is that true in your experience? Has this happened to you? Not yet, but how could it be otherwise?
+Is that true in your experience? Has this happened to you? Not yet, but how could it be otherwise? I know that it will happen.
 
-I know that it will happen. In other words, you are waiting for an event in time to save you. Is this not the core error that we have been talking about? Salvation is not elsewhere in place or time.
+In other words, you are waiting for an event in time to save you. Is this not the core error that we have been talking about? Salvation is not elsewhere in place or time. It is here and now.
 
-It is here and now. What does that statement mean? Salvation is here and now. I don’t understand it.
+What does that statement mean? Salvation is here and now. I don’t understand it. I don’t even know what salvation means.
 
-I don’t even know what salvation means. Most people pursue physical pleasures or various forms of psychological gratification, because they believe that those things will make them happy or free them from a feeling of fear or lack. Happiness may be perceived as a heightened sense of aliveness attained through physical pleasure or a more secure and more complete sense of self
+Most people pursue physical pleasures or various forms of psychological gratification, because they believe that those things will make them happy or free them from a feeling of fear or lack. Happiness may be perceived as a heightened sense of aliveness attained through physical pleasure or a more secure and more complete sense of self
 
 
 <a id="sec-035150"></a>

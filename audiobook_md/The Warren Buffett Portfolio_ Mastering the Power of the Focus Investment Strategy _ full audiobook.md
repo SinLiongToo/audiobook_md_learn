@@ -111,9 +111,9 @@ This is where you will find the new ideas that I have learned from Ed Thorpe, Ch
 
 Finally, Chapter 9 gives consolidated information about the characteristics of focus investors, along with clear guidance, so that you can easily initiate a focus investment strategy for your own portfolio. Robert G. Hagstrom, Wayne, Pennsylvania.
 
-#### Chapter 1, Focus Investing.
+#### Chapter 1, Focus Investing. Robert, we just focused on a few outstanding companies.
 
-Robert, we just focused on a few outstanding companies. We’re focus investors, Warren Buffett. I remember that conversation with Warren Buffett as if it happened yesterday. It was for me a defining moment for two reasons.
+We’re focus investors, Warren Buffett. I remember that conversation with Warren Buffett as if it happened yesterday. It was for me a defining moment for two reasons.
 
 First, it moved my thinking in a totally new direction. And second, it gave a name to an approach to portfolio management that I instinctively felt made wonderful sense, but that our industry had long overlooked. That approach is what we now call focus investing, and it is the exact opposite of what most people imagine that experienced investors do. Hollywood has given us a visual cliché of what a money manager looks like, talking into two phones at once, frantically taking notes while trying to keep an eye on jittery computer screens that blink and blip at him from all directions, tearing at his hair whenever one of those computer blinks shows a miniscule drop in stock price.
 
@@ -269,23 +269,23 @@ The most detailed model that focus investors will have to learn is the model for
 
 Typically, these two visionaries credit not themselves personally, but their organization, which they describe as a didactic enterprise teaching the right systems of thought, of which the chief lessons are that a few big ideas really work.
 
-#### Chapter 2 The High Priests of Modern Finance Traditional wisdom can be long on tradition and short on wisdom.
+#### Chapter 2 The High Priests of Modern Finance Traditional wisdom can be long on tradition and short on wisdom. Warren Buffett. The worst financial disaster of the twentieth century was the stock market crash of 1929 and the Great Depression that followed it. The second worst was the bear market and recession of 1973 to 1974.
 
-Warren Buffett. The worst financial disaster of the twentieth century was the stock market crash of 1929 and the Great Depression that followed it. The second worst was the bear market and recession of 1973 to 1974. It did not begin with a single horrific day as did the 1929 crash, and its effects on American families were not so widespread nor so devastating, and so it does not hold the same place in our collective imagination.
+It did not begin with a single horrific day as did the 1929 crash, and its effects on American families were not so widespread nor so devastating, and so it does not hold the same place in our collective imagination. Yet, for finance professionals, the second period is almost as important, for it represents a very important watershed in the history of modern finance, and in particular, the development of modern portfolio theory. Looking back now with the clarity of hindsight, we can see the two very different schools of thought, which today still engage serious debate about investment philosophy, had their beginnings during this two-year debacle.
 
-Yet, for finance professionals, the second period is almost as important, for it represents a very important watershed in the history of modern finance, and in particular, the development of modern portfolio theory. Looking back now with the clarity of hindsight, we can see the two very different schools of thought, which today still engage serious debate about investment philosophy, had their beginnings during this two-year debacle. Two separate groups of people in the investment world searched for the best way to respond and arrived at different conclusions.
+Two separate groups of people in the investment world searched for the best way to respond and arrived at different conclusions. Actually, rather than two groups, it’s probably more accurate to say it was one man, Warren Buffett, and one group, everybody else. The bear market of 1973 to 1974 was a slow, tortuous process of unrelenting losses that lasted for two uninterrupted years. The broader markets declined by over 60 percent.
 
-Actually, rather than two groups, it’s probably more accurate to say it was one man, Warren Buffett, and one group, everybody else. The bear market of 1973 to 1974 was a slow, tortuous process of unrelenting losses that lasted for two uninterrupted years. The broader markets declined by over 60 percent. Fixed income holders who owned lower coupon bonds saw their investment shrink.
+Fixed income holders who owned lower coupon bonds saw their investment shrink. Interest rates and inflation soared to double digits. Oil prices skyrocketed. Mortgage rates were so high that very few could afford the purchase of a new home.
 
-Interest rates and inflation soared to double digits. Oil prices skyrocketed. Mortgage rates were so high that very few could afford the purchase of a new home. It was a dark, brutal time.
+It was a dark, brutal time. So severe was the financial damage that investment managers began to question their own approach. Looking for answers, most of the investment professionals gradually turned, some of them with great reluctance, to a body of academic study that had been largely ignored for two decades. Collectively, those academic studies have come to be called modern portfolio theory.
 
-So severe was the financial damage that investment managers began to question their own approach. Looking for answers, most of the investment professionals gradually turned, some of them with great reluctance, to a body of academic study that had been largely ignored for two decades. Collectively, those academic studies have come to be called modern portfolio theory. Buffett turned in a different direction.
+Buffett turned in a different direction. Warren Buffett, the son of a stockbroker, began marking the board at his father’s Omaha, Nebraska firm when he was 11 years old and bought his first shares of stock the same year. As a student at the University of Nebraska, the young man with a gift for numbers happened upon a book entitled The Intelligent Investor by Columbia University professor Benjamin Graham. Graham believed that the critical piece of investment information is a company’s intrinsic value.
 
-Warren Buffett, the son of a stockbroker, began marking the board at his father’s Omaha, Nebraska firm when he was 11 years old and bought his first shares of stock the same year. As a student at the University of Nebraska, the young man with a gift for numbers happened upon a book entitled The Intelligent Investor by Columbia University professor Benjamin Graham. Graham believed that the critical piece of investment information is a company’s intrinsic value. The core task for investors is to accurately calculate this value and then maintain the discipline to buy stock only when the price is below it.
+The core task for investors is to accurately calculate this value and then maintain the discipline to buy stock only when the price is below it. Buffett was so attracted to this mathematical approach that he attended Columbia for graduate school so that he could study under Graham. After completing a master’s degree in economics, Buffett returned home to Omaha and began working for his father, who by then owned a brokerage firm named Buffett Falcon Company. It was 1952, the young Buffett set to work practicing Ben Graham’s investment techniques.
 
-Buffett was so attracted to this mathematical approach that he attended Columbia for graduate school so that he could study under Graham. After completing a master’s degree in economics, Buffett returned home to Omaha and began working for his father, who by then owned a brokerage firm named Buffett Falcon Company. It was 1952, the young Buffett set to work practicing Ben Graham’s investment techniques. Just as Graham had taught him, Buffett would consider purchasing stocks only when they were selling well below calculated worth.
+Just as Graham had taught him, Buffett would consider purchasing stocks only when they were selling well below calculated worth. In true Graham fashion, Buffett’s interest really perked up when stock prices traded lower. While working with his father, Warren Buffett remained in close contact with his mentor, and in 1954, Graham invited his former student to join him in New York, working with the Graham Newman Corporation. After two years, Graham retired and Buffett returned to Nebraska.
 
-In true Graham fashion, Buffett’s interest really perked up when stock prices traded lower. While working with his father, Warren Buffett remained in close contact with his mentor, and in 1954, Graham invited his former student to join him in New York, working with the Graham Newman Corporation. After two years, Graham retired and Buffett returned to Nebraska. With seven
+With seven
 
 
 <a id="sec-004022"></a>
@@ -427,15 +427,15 @@ Unfolding events will take care of that. If we follow Buffett’s advice, the su
 
 You are neither right nor wrong because the crowd disagrees with you. You are right because your data and reasoning are right.
 
-#### Chapter 3 The Super-Investors of Buffettville Investing is not a game where the guy with the hundred sixty IQ beats the guy with the hundred thirty IQ, Warren Buffett.
+#### Chapter 3 The Super-Investors of Buffettville Investing is not a game where the guy with the hundred sixty IQ beats the guy with the hundred thirty IQ, Warren Buffett. In the midst of the high-flying years of the 1920s, a young Benjamin Graham, who was already beginning to make his mark on Wall Street, approached Columbia University, his alma mater, about teaching a night school class in security analysis.
 
-In the midst of the high-flying years of the 1920s, a young Benjamin Graham, who was already beginning to make his mark on Wall Street, approached Columbia University, his alma mater, about teaching a night school class in security analysis. He had been thinking of writing a book on the subject and thought that teaching the class would help him organize his ideas. Columbia accepted his proposal and put the class on the schedule for the fall term of 1927. No one was more surprised than Graham at the response.
+He had been thinking of writing a book on the subject and thought that teaching the class would help him organize his ideas. Columbia accepted his proposal and put the class on the schedule for the fall term of 1927. No one was more surprised than Graham at the response. So many people showed up that the school put guards at the door to make sure those who were preregistered got their seats.
 
-So many people showed up that the school put guards at the door to make sure those who were preregistered got their seats. One of those was a young assistant professor from Columbia School of Business named David L. Dodd. He got in.
+One of those was a young assistant professor from Columbia School of Business named David L. Dodd. He got in. The second year the demand was even greater, as many wanted to take the class over in hope of picking up new tips.
 
-The second year the demand was even greater, as many wanted to take the class over in hope of picking up new tips. The following year was 1929. Over the next months Graham was fully occupied in coping with the effects of the crash, both for himself and his clients, and so work on the book was delayed. He had asked his former student, David Dodd, to help with the writing, but even so it was not until 1934, the height of the Great Depression, that the groundbreaking book with the mild mannered title, Security Analysis, first appeared.
+The following year was 1929. Over the next months Graham was fully occupied in coping with the effects of the crash, both for himself and his clients, and so work on the book was delayed. He had asked his former student, David Dodd, to help with the writing, but even so it was not until 1934, the height of the Great Depression, that the groundbreaking book with the mild mannered title, Security Analysis, first appeared. Graham later said the delay was providential, for it allowed him to include wisdom acquired at the cost of much suffering.
 
-Graham later said the delay was providential, for it allowed him to include wisdom acquired at the cost of much suffering. Security Analysis is universally acclaimed a classic, and still in print after five editions and sixty-five years. It is impossible to overstate its influence on the modern world of investing, or the enormous contributions of Ben Graham to the profession. Three years after its original publication, the Columbia Business School sponsored a seminar marking the anniversary of this seminal text by two of its illustrious faculty, and invited Warren Buffett, one of the school’s best-known alumni, and the most famous modern-day proponent of Graham’s value approach, to address the gathering.
+Security Analysis is universally acclaimed a classic, and still in print after five editions and sixty-five years. It is impossible to overstate its influence on the modern world of investing, or the enormous contributions of Ben Graham to the profession. Three years after its original publication, the Columbia Business School sponsored a seminar marking the anniversary of this seminal text by two of its illustrious faculty, and invited Warren Buffett, one of the school’s best-known alumni, and the most famous modern-day proponent of Graham’s value approach, to address the gathering.
 
 Most of those in the audience that day in 1984, university professors, researchers, and other academicians, along with many investment professionals, still held firmly to modern portfolio theory and the validity of the efficient market. Buffett, as we know, just as firmly disagreed. In his speech, which he titled, The Superinvestors of Graham and Doddsville, Buffett told some stories, made a few unflashy jokes, and quietly, firmly, demolished the platform on which rested the efficient market theory. It was classic Warren Buffett, pure and unadulterated.
 
@@ -615,11 +615,9 @@ Perhaps, as Buffett says, we have even backed away from the teaching of value in
 
 It is, as has been observed in other contexts, pretty darned hard to argue with success.
 
-#### Chapter 4 A Better Way to Measure Performance When the price of a stock can be influenced by a herd on Wall Street with prices set at the margin by the most emotional person, or the greediest person, or the most depressed person, it is hard to argue that the market always prices rationally.
+#### Chapter 4 A Better Way to Measure Performance When the price of a stock can be influenced by a herd on Wall Street with prices set at the margin by the most emotional person, or the greediest person, or the most depressed person, it is hard to argue that the market always prices rationally. In fact, market prices are frequently nonsensical. Warren Buffett If Buffett is right, if market prices are frequently nonsensical, then we are foolish indeed to use price as a sole indicator of performance.
 
-In fact, market prices are frequently nonsensical. Warren Buffett If Buffett is right, if market prices are frequently nonsensical, then we are foolish indeed to use price as a sole indicator of performance. Yet we do. Our entire industry is price myopic.
-
-If the price of a particular stock is going up, we assume good things are
+Yet we do. Our entire industry is price myopic. If the price of a particular stock is going up, we assume good things are
 
 
 <a id="sec-014556"></a>
@@ -1571,13 +1569,13 @@ The stock market’s constant gyrations can be unsettling to investors and make 
 
 #### CHAPTER VIII.
 
-#### THE MARKET AS A COMPLEX SYSTEM.
+#### THE MARKET AS A COMPLEX SYSTEM. We’ve long felt that the only value of stock forecasters is to make fortune tellers look good.
 
-We’ve long felt that the only value of stock forecasters is to make fortune tellers look good. Warren Buffett. Anyone who has observed Warren Buffett for any length of time knows that his position on forecasting is clear. Don’t waste your time.
+Warren Buffett. Anyone who has observed Warren Buffett for any length of time knows that his position on forecasting is clear. Don’t waste your time. Whether in regard to the economy, the market, or individual stock prices, Buffett believes firmly that forecasting has no place in investing.
 
-Whether in regard to the economy, the market, or individual stock prices, Buffett believes firmly that forecasting has no place in investing. For over forty years he has achieved great wealth and an unmatched performance record by simply investing in great companies while simultaneously avoiding the ruinous distractions that occur when investors become obsessed with guessing the future direction of markets. The fact that people will be full of greed, fear, or folly is predictable, says Buffett. The sequence, however, is not.
+For over forty years he has achieved great wealth and an unmatched performance record by simply investing in great companies while simultaneously avoiding the ruinous distractions that occur when investors become obsessed with guessing the future direction of markets. The fact that people will be full of greed, fear, or folly is predictable, says Buffett. The sequence, however, is not. For many Buffett followers, the idea of predicting markets is moot.
 
-For many Buffett followers, the idea of predicting markets is moot. They are able to push ahead with their investment approach without allowing the passing fortune tellers to interrupt their work. There are, however, a far larger number of investors who, despite good intentions, cannot help but be seduced by the promoter who sells clairvoyance in a bottle.
+They are able to push ahead with their investment approach without allowing the passing fortune tellers to interrupt their work. There are, however, a far larger number of investors who, despite good intentions, cannot help but be seduced by the promoter who sells clairvoyance in a bottle.
 
 
 <a id="sec-043717"></a>
@@ -1741,11 +1739,11 @@ We will neither try to predict these nor profit from them. If we can identify bu
 
 Face up to two unpleasant facts. The future is never clear, and you pay a very high price in the stock market for a cheery consensus. Uncertainty is the friend of the buyer of long-term values.
 
-#### Chapter 9 Where Are the 400 Hitters?
+#### Chapter 9 Where Are the 400 Hitters? The first rule of baseball is, Get a good ball to hit, Rogers Hornsby.
 
-The first rule of baseball is, Get a good ball to hit, Rogers Hornsby. In 1996, Stephen J. Gould, the noted biologist, prolific writer, and lifelong Yankees fan, published Full House, The Spread of Excellence from Plato to Darwin. Gould is fascinated by the complex nature of life and studies intensely the variations of different systems. In this illuminating book he talks about, among other things, the death of 400 hitting in Major League Baseball.
+In 1996, Stephen J. Gould, the noted biologist, prolific writer, and lifelong Yankees fan, published Full House, The Spread of Excellence from Plato to Darwin. Gould is fascinated by the complex nature of life and studies intensely the variations of different systems. In this illuminating book he talks about, among other things, the death of 400 hitting in Major League Baseball. The record books say that between 1901 and 1930, a span of thirty years, there were nine seasons when at least one player achieved a batting average better than 400.
 
-The record books say that between 1901 and 1930, a span of thirty years, there were nine seasons when at least one player achieved a batting average better than 400. But in the sixty-eight years that followed, only one player ever reached that milestone. Ted Williams hit 406 in 1941. On the face of things, just from those statistics, we might conclude that batting skills over
+But in the sixty-eight years that followed, only one player ever reached that milestone. Ted Williams hit 406 in 1941. On the face of things, just from those statistics, we might conclude that batting skills over
 
 
 <a id="sec-051237"></a>

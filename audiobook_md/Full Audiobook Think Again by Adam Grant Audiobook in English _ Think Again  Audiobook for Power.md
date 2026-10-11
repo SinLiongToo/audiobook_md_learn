@@ -191,11 +191,9 @@ This book is an invitation to let go of knowledge and opinions that are no longe
 
 A hallmark of wisdom is knowing when it’s time to abandon some of your most treasured tools and some of the most cherished parts of your identity.
 
-#### Part 1 Individual Rethinking Updating Our Own Views Chapter 1 A preacher, a prosecutor, a politician, and a scientist walk into your mind.
+#### Part 1 Individual Rethinking Updating Our Own Views Chapter 1 A preacher, a prosecutor, a politician, and a scientist walk into your mind. Progress is impossible without change and those who cannot change their minds cannot change anything. George Bernard Shaw, you probably don’t recognize his name, but Mike Lazaridis has had a defining impact on your life.
 
-Progress is impossible without change and those who cannot change their minds cannot change anything. George Bernard Shaw, you probably don’t recognize his name, but Mike Lazaridis has had a defining impact on your life. From an early age, it was clear that Mike was something of an electronics wizard. By the end of this video, please like, share, and subscribe! time he turned 4, he was building his own record player out of Legos and rubber bands.
-
-In high school, when his teachers had broken TVs, they called Mike to fix them. In his spare time, he built a computer and designed a better buzzer for high school quiz
+From an early age, it was clear that Mike was something of an electronics wizard. By the end of this video, please like, share, and subscribe! time he turned 4, he was building his own record player out of Legos and rubber bands. In high school, when his teachers had broken TVs, they called Mike to fix them. In his spare time, he built a computer and designed a better buzzer for high school quiz
 
 
 <a id="sec-003020"></a>
@@ -373,21 +371,19 @@ Looking back, if Mike Lazaridis had been more open to rethinking his pet product
 
 Of course, I might be wrong. If I am, I’ll be quick to think again.
 
-#### Chapter 2 The Armchair Quarterback and the Impostor Finding the Sweet Spot of Confidence Ignorance More Frequently Bugets Confidence Than Does Knowledge By Charles Darwin When Ursula Merckx was admitted to the clinic, she complained of headaches, back pain, and dizziness severe enough that she could no longer work.
+#### Chapter 2 The Armchair Quarterback and the Impostor Finding the Sweet Spot of Confidence Ignorance More Frequently Bugets Confidence Than Does Knowledge By Charles Darwin When Ursula Merckx was admitted to the clinic, she complained of headaches, back pain, and dizziness severe enough that she could no longer work. Over the following month, her condition deteriorated. She struggled to locate the glass of water she put next to her bed.
 
-Over the following month, her condition deteriorated. She struggled to locate the glass of water she put next to her bed. She couldn’t find the door to her room. She walked directly into her bed frame.
+She couldn’t find the door to her room. She walked directly into her bed frame. Ursula was a seamstress in her mid-fifties, and she hadn’t lost her dexterity. She was able to cut different shapes out of paper with scissors.
 
-Ursula was a seamstress in her mid-fifties, and she hadn’t lost her dexterity. She was able to cut different shapes out of paper with scissors. She could easily point to her nose, mouth, arms, and legs, and had no difficulty describing her home and her pets. For an Austrian doctor named Gabriel Anton, she presented a curious case.
+She could easily point to her nose, mouth, arms, and legs, and had no difficulty describing her home and her pets. For an Austrian doctor named Gabriel Anton, she presented a curious case. When Anton put a red ribbon and scissors on the table in front of her, she couldn’t name them, even though she confirmed calmly and faithfully that she could see the presented objects. She was clearly having problems with language production, which she acknowledged, and with spatial orientation.
 
-When Anton put a red ribbon and scissors on the table in front of her, she couldn’t name them, even though she confirmed calmly and faithfully that she could see the presented objects. She was clearly having problems with language production, which she acknowledged, and with spatial orientation. Yet something else was wrong. Ursula could no longer tell the difference between light and dark.
+Yet something else was wrong. Ursula could no longer tell the difference between light and dark. When Anton held up an object and asked her to describe it, she didn’t even try to look at it but instead reached out to touch it. Tests showed that her eyesight was severely impaired.
 
-When Anton held up an object and asked her to describe it, she didn’t even try to look at it but instead reached out to touch it. Tests showed that her eyesight was severely impaired. Oddly, when Anton asked her about the deficit, she insisted she could see. Eventually, when she lost her vision altogether, she remained completely unaware of it.
+Oddly, when Anton asked her about the deficit, she insisted she could see. Eventually, when she lost her vision altogether, she remained completely unaware of it. It was now extremely astonishing, Anton wrote, that the patient did not notice her massive and later complete loss of her ability to see. She was mentally blind to her blindness.
 
-It was now extremely astonishing, Anton wrote, that the patient did not notice her massive and later complete loss of her ability to see. She was mentally blind to her blindness. It was the late 1800s, and Ursula wasn’t alone. A decade earlier, a neuropathologist in Zurich had reported a case of a man who suffered an accident that left him blind but was unaware of it despite being intellectually unimpaired.
+It was the late 1800s, and Ursula wasn’t alone. A decade earlier, a neuropathologist in Zurich had reported a case of a man who suffered an accident that left him blind but was unaware of it despite being intellectually unimpaired. Although he didn’t blink when a fist was placed in front of his face and couldn’t see the food on his plate, he thought he was in a dark humoured hole or cellar. Half a century later, a pair of doctors reported six cases of people who had gone blind but claimed otherwise.
 
-Although he didn’t blink when a fist was placed in front of his face and couldn’t see the food on his plate, he thought he was in a dark humoured hole or cellar. Half a century later, a pair of doctors reported six cases of people who had gone blind but claimed otherwise. One of the most striking features in the behaviour of our patients was their inability to learn from their experiences. The doctors wrote, as they were not aware of their blindness when they walked about, they bumped into the furniture and walls but did not change their behaviour.
-
-When confronted with their blindness in a rather pointed fashion, they would either deny any visual difficulty or remark, it is so dark in the room, why don’t they turn the light on?
+One of the most striking features in the behaviour of our patients was their inability to learn from their experiences. The doctors wrote, as they were not aware of their blindness when they walked about, they bumped into the furniture and walls but did not change their behaviour. When confronted with their blindness in a rather pointed fashion, they would either deny any visual difficulty or remark, it is so dark in the room, why don’t they turn the light on?
 
 
 <a id="sec-011041"></a>
@@ -569,13 +565,11 @@ They’re aware that each answer raises new questions, and the quest for knowled
 
 Confident humility is a corrective lens, it enables us to overcome those weaknesses.
 
-#### Chapter 3 The Joy of Being Wrong The thrill of not believing everything you think I have a degree from Harvard.
+#### Chapter 3 The Joy of Being Wrong The thrill of not believing everything you think I have a degree from Harvard. Whenever I’m wrong, the world makes a little less sense. By Dr. Fraser Crane, played by Kelsey Grammer. In the fall of 1959, a prominent psychologist welcomed new participants into a wildly unethical study.
 
-Whenever I’m wrong, the world makes a little less sense. By Dr. Fraser Crane, played by Kelsey Grammer. In the fall of 1959, a prominent psychologist welcomed new participants into a wildly unethical study. He had handpicked a group of Harvard sophomores to join a series of experiments that would run through the rest of their time in college.
+He had handpicked a group of Harvard sophomores to join a series of experiments that would run through the rest of their time in college. The students volunteered to spend a couple of hours a week contributing to knowledge about how personality develops and how psychological problems can be solved. They had no idea that they were actually signing up to have their beliefs attacked. The researcher, Henry Murray, had originally trained as a physician and biochemist.
 
-The students volunteered to spend a couple of hours a week contributing to knowledge about how personality develops and how psychological problems can be solved. They had no idea that they were actually signing up to have their beliefs attacked. The researcher, Henry Murray, had originally trained as a physician and biochemist. After becoming a distinguished psychologist, he was disillusioned that his field paid little attention to how people navigate difficult interactions, so he decided to create them in his own lab.
-
-He gave students a month to write out their personal philosophy of life, including their core values and guiding principles. When they showed up to submit their work, they were paired with another student who had done the same exercise. They would have a day or two to read each other’s philosophies, and then they would
+After becoming a distinguished psychologist, he was disillusioned that his field paid little attention to how people navigate difficult interactions, so he decided to create them in his own lab. He gave students a month to write out their personal philosophy of life, including their core values and guiding principles. When they showed up to submit their work, they were paired with another student who had done the same exercise. They would have a day or two to read each other’s philosophies, and then they would
 
 
 <a id="sec-015114"></a>
@@ -799,13 +793,11 @@ Still, I can’t help but wonder if he had learned to question his opinions, wou
 
 Or we can operate more like scientists, defining ourselves as people committed to the pursuit of truth, even if it means proving our own views wrong.
 
-#### Chapter 4 The Good Fight Club The psychology of constructive conflict arguments are extremely vulgar for everybody in good society holds exactly the same opinions.
+#### Chapter 4 The Good Fight Club The psychology of constructive conflict arguments are extremely vulgar for everybody in good society holds exactly the same opinions. By Oscar Wilde, as the two youngest boys in a big family, the bishop’s sons did everything together. They launched a newspaper and built their own printing press together. They opened a bicycle shop and then started manufacturing their own bikes together.
 
-By Oscar Wilde, as the two youngest boys in a big family, the bishop’s sons did everything together. They launched a newspaper and built their own printing press together. They opened a bicycle shop and then started manufacturing their own bikes together. And after years of toiling away at a seemingly impossible problem, they invented the first successful airplane together.
+And after years of toiling away at a seemingly impossible problem, they invented the first successful airplane together. Wilbur and Orwell Wright first caught the flying bug when their father brought home a toy helicopter. After it broke, they built one of their own. As they advanced from playing together to working together to rethinking human flight together, there was no trace of sibling rivalry between them.
 
-Wilbur and Orwell Wright first caught the flying bug when their father brought home a toy helicopter. After it broke, they built one of their own. As they advanced from playing together to working together to rethinking human flight together, there was no trace of sibling rivalry between them. Wilbur even said they thought together.
-
-Even though it was Wilbur who launched the project, the brothers shared equal credit for their achievement. When it came time to decide who would pilot their historic
+Wilbur even said they thought together. Even though it was Wilbur who launched the project, the brothers shared equal credit for their achievement. When it came time to decide who would pilot their historic
 
 
 <a id="sec-023644"></a>
@@ -993,25 +985,25 @@ At Kitty Hawk they found that it was indeed the Wright one. The Wright brothers 
 
 In a great argument our adversary is not a foil but a propeller. With twin propellers spinning in divergent directions our thinking doesn’t get stuck on the ground. It takes flight.
 
-#### Part 2.
+#### Part 2. Interpersonal rethinking.
 
-Interpersonal rethinking. Opening other people’s minds.
+Opening other people’s minds.
 
-#### Chapter 5 dances with fours how to win debates and influence people exhausting someone in argument is not the same as convincing him.
+#### Chapter 5 dances with fours how to win debates and influence people exhausting someone in argument is not the same as convincing him. By Tim K. R. E.
 
-By Tim K. R. E. I.
+I. D. E. R. at 31 Harish Natarajan has won three dozen international debate tournaments.
 
-D. E. R. at 31 Harish Natarajan has won three dozen international debate tournaments. He’s been told it’s a world record but his opponent today presents a unique challenge.
+He’s been told it’s a world record but his opponent today presents a unique challenge. Deborah Joe Proctet is a prodigy hailing from Haifa, Israel. She’s just eight years old and although she made her first foray into public debating only last summer she’s been preparing for this moment for years. Deborah has absorbed countless articles to accumulate knowledge, closely studied speech writing to hone her clarity and even practiced her delivery to incorporate humor.
 
-Deborah Joe Proctet is a prodigy hailing from Haifa, Israel. She’s just eight years old and although she made her first foray into public debating only last summer she’s been preparing for this moment for years. Deborah has absorbed countless articles to accumulate knowledge, closely studied speech writing to hone her clarity and even practiced her delivery to incorporate humor. Now she’s ready to challenge the champion himself.
+Now she’s ready to challenge the champion himself. Her parents are hoping she’ll make history. Harish was a wonder kind too. By the time he was eight he was out maneuvering his own parents in dinner table debates about the Indian caste system. him.
 
-Her parents are hoping she’ll make history. Harish was a wonder kind too. By the time he was eight he was out maneuvering his own parents in dinner table debates about the Indian caste system. him. He went on to become the European debate champion and a grand finalist in the world debate championship and coached the Filipino national school debate team at the world championship.
+He went on to become the European debate champion and a grand finalist in the world debate championship and coached the Filipino national school debate team at the world championship. I was introduced to Harish by an unusually bright former student who used to compete against him and remembers having lost many likely all of their debates. Harish and Deborah are facing off in San Francisco in February 2019 in front of a large crowd. They’ve been kept in the dark about the debate topic.
 
-I was introduced to Harish by an unusually bright former student who used to compete against him and remembers having lost many likely all of their debates. Harish and Deborah are facing off in San Francisco in February 2019 in front of a large crowd. They’ve been kept in the dark about the debate topic. When they walk on stage the moderator announces the subject should preschools be subsidized by the government.
+When they walk on stage the moderator announces the subject should preschools be subsidized by the government. After just 15 minutes of preparation Deborah will present her strongest arguments in favor of subsidies and Harish will marshal his best case against them. Their goal is to win the audience over to their side on preschool subsidies but their impact on me will be much broader. They’ll end up changing my view of what it takes to win a debate.
 
-After just 15 minutes of preparation Deborah will present her strongest arguments in favor of subsidies and Harish will marshal his best case against them. Their goal is to win the audience over to their side on preschool subsidies but their impact on me will be much broader. They’ll end up changing my view of what it takes to win a debate. Deborah kicks off with a joke drawing laughter from the crowd by telling Harish that although he may hold the world record in debate wins he’s never debated someone like her.
+Deborah kicks off with a joke drawing laughter from the crowd by telling Harish that although he may hold the world record in debate wins he’s never debated someone like her. Then she goes on to summarize an impressive number of studies citing her sources about the academic social and professional benefits of preschool programs. For good measure she quotes a former prime minister’s argument about preschool being a smart investment. Harish acknowledges the facts that Deborah presented but then makes his case that subsidizing preschools is not the appropriate remedy for the damage caused by poverty.
 
-Then she goes on to summarize an impressive number of studies citing her sources about the academic social and professional benefits of preschool programs. For good measure she quotes a former prime minister’s argument about preschool being a smart investment. Harish acknowledges the facts that Deborah presented but then makes his case that subsidizing preschools is not the appropriate remedy for the damage caused by poverty. He suggests that the issue should be evaluated on two grounds whether preschool is currently under provided and
+He suggests that the issue should be evaluated on two grounds whether preschool is currently under provided and
 
 
 <a id="sec-031711"></a>
@@ -1465,23 +1457,21 @@ After getting to know Daryl, one imperial wizard didn’t stop at leaving the KK
 
 Years later, he asked Daryl to be his daughter’s godfather.
 
-#### Chapter 7.
+#### Chapter 7. Vaccine whisperers and mild-mannered interrogators how the right kind of listening motivates people to change. It’s a rare person who wants to hear what he doesn’t want to hear. By attributed to Dick C-A-V-E-T-T, when Mary Ellen Etienne Russo went into labor, she broke down in tears.
 
-Vaccine whisperers and mild-mannered interrogators how the right kind of listening motivates people to change. It’s a rare person who wants to hear what he doesn’t want to hear. By attributed to Dick C-A-V-E-T-T, when Mary Ellen Etienne Russo went into labor, she broke down in tears. It was September 2018 and her baby wasn’t due until December.
+It was September 2018 and her baby wasn’t due until December. Just before midnight, Toby arrived weighing just two pounds. His body was so tiny that his head could fit in the palm of her hand and Mary Ellen was terrified that he wouldn’t survive. Toby spent only a few seconds in her arms before he was rushed to the neonatal intensive care unit.
 
-Just before midnight, Toby arrived weighing just two pounds. His body was so tiny that his head could fit in the palm of her hand and Mary Ellen was terrified that he wouldn’t survive. Toby spent only a few seconds in her arms before he was rushed to the neonatal intensive care unit. He needed a mask to breathe and was soon taken to surgery for internal bleeding.
+He needed a mask to breathe and was soon taken to surgery for internal bleeding. It would be months before he was allowed to go home. While Toby was still in the hospital, Mary Ellen was shopping for diapers when she saw a headline about measles spreading in her province of Quebec. She hadn’t had Toby vaccinated.
 
-It would be months before he was allowed to go home. While Toby was still in the hospital, Mary Ellen was shopping for diapers when she saw a headline about measles spreading in her province of Quebec. She hadn’t had Toby vaccinated. It wasn’t even a question.
+It wasn’t even a question. He seemed too fragile. She hadn’t vaccinated her three other children either. It wasn’t the norm in her community.
 
-He seemed too fragile. She hadn’t vaccinated her three other children either. It wasn’t the norm in her community. Her friends and neighbors took it for granted that vaccines were dangerous and passed around horror stories about their side effects.
+Her friends and neighbors took it for granted that vaccines were dangerous and passed around horror stories about their side effects. Still, the fact remained Quebec had already had two serious measles outbreaks that decade. Today in the developed world, measles is on the rise for the first time in at least half a century and its mortality rate is around one in a thousand. In the developing world, it’s closer to one in a hundred.
 
-Still, the fact remained Quebec had already had two serious measles outbreaks that decade. Today in the developed world, measles is on the rise for the first time in at least half a century and its mortality rate is around one in a thousand. In the developing world, it’s closer to one in a hundred. Estimates suggest that from 2016 to 2018, measles deaths spiked worldwide by 58% with over a hundred thousand casualties.
+Estimates suggest that from 2016 to 2018, measles deaths spiked worldwide by 58% with over a hundred thousand casualties. These deaths could have been prevented by the vaccine which has saved roughly 20 million lives in the past two decades. Although epidemiologists recommend two doses of the measles vaccine and a minimum immunization rate of 95% around the globe, only 85% of people get the first dose and just 67% continue to the second. Many of those who skipped the shot simply do not believe in the science.
 
-These deaths could have been prevented by the vaccine which has saved roughly 20 million lives in the past two decades. Although epidemiologists recommend two doses of the measles vaccine and a minimum immunization rate of 95% around the globe, only 85% of people get the first dose and just 67% continue to the second. Many of those who skipped the shot simply do not believe in the science. Government officials have tried to prosecute the problem, some warning that the unvaccinated could be fined up to a thousand dollars and sentenced to jail for up to six months.
+Government officials have tried to prosecute the problem, some warning that the unvaccinated could be fined up to a thousand dollars and sentenced to jail for up to six months. Many schools shut their doors to unvaccinated children and one county even banned them from enclosed public places. When such measures failed to solve the problem, public officials turned to preaching. Since people held unfounded fears about vaccines, it was time to educate them with the dose of the truth.
 
-Many schools shut their doors to unvaccinated children and one county even banned them from enclosed public places. When such measures failed to solve the problem, public officials turned to preaching. Since people held unfounded fears about vaccines, it was time to educate them with the dose of the truth. The results were often disappointing.
-
-In a pair of experiments in Germany, introducing
+The results were often disappointing. In a pair of experiments in Germany, introducing
 
 
 <a id="sec-045319"></a>
@@ -1663,25 +1653,25 @@ When we succeed in changing someone’s mind, we shouldn’t only ask whether we
 
 we’ve achieved. We should also ask whether we are proud of how we’ve achieved it.
 
-#### Part 3.
+#### Part 3. Collective Rethinking. Creating Communities of Lifelong Learners Chapter 8.
 
-Collective Rethinking. Creating Communities of Lifelong Learners Chapter 8. Charged Conversations. Depolarizing our divided discussions when conflict is cliche, complexity is breaking news.
+Charged Conversations. Depolarizing our divided discussions when conflict is cliche, complexity is breaking news. By Amanda Ripley. Eager to have a Joe clenching, emotionally fraught argument about abortion?
 
-By Amanda Ripley. Eager to have a Joe clenching, emotionally fraught argument about abortion? How about immigration, the death penalty or climate change? If you think you can handle it, head for the second floor of a brick building on the Columbia University campus in New York.
+How about immigration, the death penalty or climate change? If you think you can handle it, head for the second floor of a brick building on the Columbia University campus in New York. It’s the home of the Difficult Conversations Lab. If you’re brave enough to visit, you’ll be matched up with a stranger who strongly disagrees with your views on a controversial topic.
 
-It’s the home of the Difficult Conversations Lab. If you’re brave enough to visit, you’ll be matched up with a stranger who strongly disagrees with your views on a controversial topic. You’ll be given just 20 minutes to discuss the issue, and then you’ll both have to decide whether you’ve aligned enough to write and sign a joint statement on your shared views around abortion laws. If you’re able to do so, no small feat, your statement will be posted on a public forum.
+You’ll be given just 20 minutes to discuss the issue, and then you’ll both have to decide whether you’ve aligned enough to write and sign a joint statement on your shared views around abortion laws. If you’re able to do so, no small feat, your statement will be posted on a public forum. For two decades, the psychologist who runs the lab, Peter T. Callman, has been bringing people together to talk about polarizing issues.
 
-For two decades, the psychologist who runs the lab, Peter T. Callman, has been bringing people together to talk about polarizing issues. His mission is to reverse engineer the successful conversations and then experiment with recipes to make more of them. To put you in the right mindset before you begin your conversation about abortion, Peter gives you and the stranger a news article about another divisive issue, gun control.
+His mission is to reverse engineer the successful conversations and then experiment with recipes to make more of them. To put you in the right mindset before you begin your conversation about abortion, Peter gives you and the stranger a news article about another divisive issue, gun control. What you don’t know is that there are different versions of the gun control article, and which one you read is going to have a major impact on whether you land on the same page about abortion.
 
-What you don’t know is that there are different versions of the gun control article, and which one you read is going to have a major impact on whether you land on the same page about abortion. If the gun control article covers both sides of the issue, making a balanced case for both gun rights and gun legislation, you and your adversary have a decent chance at reaching consensus on abortion. In one of Peter’s experiments, after reading a both sides article, 46% of pairs were able to find enough common ground to draft and sign a statement together.
+If the gun control article covers both sides of the issue, making a balanced case for both gun rights and gun legislation, you and your adversary have a decent chance at reaching consensus on abortion. In one of Peter’s experiments, after reading a both sides article, 46% of pairs were able to find enough common ground to draft and sign a statement together. That’s a remarkable result. But Peter went on to do something far more impressive.
 
-That’s a remarkable result. But Peter went on to do something far more impressive. He randomly assigned some pairs to read another version of the same article, which led 100% of them to generate and sign a joint statement about abortion laws. That version of the article featured the same information but presented it differently.
+He randomly assigned some pairs to read another version of the same article, which led 100% of them to generate and sign a joint statement about abortion laws. That version of the article featured the same information but presented it differently. Instead of describing the issue as a black and white disagreement between two sides, the article framed the debate as a complex problem with many shades of grey, representing a number of different viewpoints. At the turn of the last century, the great hope for the internet was that it would expose us to different views.
 
-Instead of describing the issue as a black and white disagreement between two sides, the article framed the debate as a complex problem with many shades of grey, representing a number of different viewpoints. At the turn of the last century, the great hope for the internet was that it would expose us to different views. But as the web welcomed a few billion fresh voices and vantage points into the conversation, it also became a weapon of misinformation and disinformation. By the 2016 elections, as the problem of political polarization became more extreme and more visible, the solution seemed obvious to me.
+But as the web welcomed a few billion fresh voices and vantage points into the conversation, it also became a weapon of misinformation and disinformation. By the 2016 elections, as the problem of political polarization became more extreme and more visible, the solution seemed obvious to me. We needed to burst filter bubbles in our news feeds and shatter echo chambers in our networks. If we could just show people the other side of an issue, they would open their minds and become more informed.
 
-We needed to burst filter bubbles in our news feeds and shatter echo chambers in our networks. If we could just show people the other side of an issue, they would open their minds and become more informed. Peter’s research challenges that assumption. We now know that where complicated issues are concerned, seeing the opinions of the other side is not enough.
+Peter’s research challenges that assumption. We now know that where complicated issues are concerned, seeing the opinions of the other side is not enough. Social media platforms have exposed us to them, but they haven’t changed our minds. Knowing another side exists isn’t sufficient to leave preachers doubting whether they’re on the right side of morality, prosecutors questioning whether they’re on the right side of the case, or politicians wondering whether they’re on the right side of history.
 
-Social media platforms have exposed us to them, but they haven’t changed our minds. Knowing another side exists isn’t sufficient to leave preachers doubting whether they’re on the right side of morality, prosecutors questioning whether they’re on the right side of the case, or politicians wondering whether they’re on the right side of history. Seeing an opposing opinion doesn’t necessarily motivate you to rethink your own stance. It makes it easier for you to stick to your guns or your gun bans.
+Seeing an opposing opinion doesn’t necessarily motivate you to rethink your own stance. It makes it easier for you to stick to your guns or your gun bans.
 
 
 <a id="sec-053350"></a>
@@ -1855,13 +1845,11 @@ If the woman had taken responsibility for reevaluating her beliefs and behaviors
 
 In scientist mode, it can be an invigorating truth, it means there are new opportunities for understanding and for progress.
 
-#### Chapter 9 Rewriting the Textbook Teaching Students to Question Knowledge No Schooling Was Allowed to Interfere with My Education, by Grant Allen A decade ago, if you had told Erin McCarthy she would become a teacher, she would have laughed.
+#### Chapter 9 Rewriting the Textbook Teaching Students to Question Knowledge No Schooling Was Allowed to Interfere with My Education, by Grant Allen A decade ago, if you had told Erin McCarthy she would become a teacher, she would have laughed. When she graduated from college, the last thing she wanted to do was teach. She was fascinated by history but bored by her social studies classes.
 
-When she graduated from college, the last thing she wanted to do was teach. She was fascinated by history but bored by her social studies classes. Searching for a way to breathe life into overlooked objects and forgotten events, Erin started her career working in museums. Before long, she found herself writing a resource manual for teachers, leading school tours and engaging students in interactive programs. She realized that the enthusiasm she saw on field trips was missing in too many classrooms, and she decided to do something about it.
+Searching for a way to breathe life into overlooked objects and forgotten events, Erin started her career working in museums. Before long, she found herself writing a resource manual for teachers, leading school tours and engaging students in interactive programs. She realized that the enthusiasm she saw on field trips was missing in too many classrooms, and she decided to do something about it. For the past eight years Erin has taught social studies in the Milwaukee area. Her mission is to cultivate curiosity about the past, but also to motivate students to update their knowledge in the present.
 
-For the past eight years Erin has taught social studies in the Milwaukee area. Her mission is to cultivate curiosity about the past, but also to motivate students to update their knowledge in the present. In 2020 she was named Wisconsin’s Teacher of the Year.
-
-One day an eighth grader complained that the reading assignment from a history textbook was inaccurate. If you’re a teacher, that kind of criticism could be a nightmare. Using an outdated textbook would be a sign that you don’t know your material, and it
+In 2020 she was named Wisconsin’s Teacher of the Year. One day an eighth grader complained that the reading assignment from a history textbook was inaccurate. If you’re a teacher, that kind of criticism could be a nightmare. Using an outdated textbook would be a sign that you don’t know your material, and it
 
 
 <a id="sec-061419"></a>
@@ -2039,11 +2027,9 @@ I believe that good teachers introduce new thoughts, but great teachers introduc
 
 It’s the habits we develop as we keep revising our drafts and the skills we build to keep learning.
 
-#### Chapter 10 that’s not the way we’ve always done it.
+#### Chapter 10 that’s not the way we’ve always done it. Building cultures of learning at work if only it weren’t for the people. Earth would be an engineer’s paradise. By Kurt Warnugert as an A-word scuba diver, Luca Parmitano was familiar with the risks of drowning.
 
-Building cultures of learning at work if only it weren’t for the people. Earth would be an engineer’s paradise. By Kurt Warnugert as an A-word scuba diver, Luca Parmitano was familiar with the risks of drowning. He just didn’t realize it could happen in outer space.
-
-Luca had just become the youngest astronaut ever to take a long trip to the International Space Station. In July 2013, the 36-year-old Italian astronaut completed his first spacewalk, spending six hours running experiments, moving equipment, and setting up power and data cables.
+He just didn’t realize it could happen in outer space. Luca had just become the youngest astronaut ever to take a long trip to the International Space Station. In July 2013, the 36-year-old Italian astronaut completed his first spacewalk, spending six hours running experiments, moving equipment, and setting up power and data cables.
 
 Now, a week later, Luca and another astronaut, Chris Cassidy, were heading out for a second walk to continue their work and do some maintenance. As they prepared to leave the airlock, they could see the Earth 250 miles below. After 44 minutes in space, Luca felt something strange. The back of his head seemed to be wet.
 

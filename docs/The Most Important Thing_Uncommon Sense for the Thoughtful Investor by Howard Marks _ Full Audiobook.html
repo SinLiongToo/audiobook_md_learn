@@ -66,26 +66,12 @@
       --card-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
     }
 
-    [data-line-height="compact"] {
-      --line-height: 1.68;
-    }
-    [data-line-height="normal"] {
-      --line-height: 1.88;
-    }
-    [data-line-height="loose"] {
-      --line-height: 2.12;
-    }
+    [data-line-height="compact"] { --line-height: 1.68; }
+    [data-line-height="normal"] { --line-height: 1.88; }
+    [data-line-height="loose"] { --line-height: 2.12; }
 
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
-    html {
-      scroll-behavior: smooth;
-    }
-
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
     body {
       font-family: var(--font-family);
       font-size: var(--font-size);
@@ -119,7 +105,7 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 0 20px;
+      padding: 0 18px;
       background-color: var(--bg-header);
       backdrop-filter: blur(8px);
       -webkit-backdrop-filter: blur(8px);
@@ -129,7 +115,7 @@
     .header-left, .header-right {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 8px;
       flex-wrap: nowrap;
     }
 
@@ -138,7 +124,7 @@
       border: 1px solid var(--border-color);
       color: var(--text-primary);
       cursor: pointer;
-      font-size: 14px;
+      font-size: 13.5px;
       padding: 6px 10px;
       border-radius: 8px;
       display: inline-flex;
@@ -147,6 +133,7 @@
       transition: all 0.2s;
       white-space: nowrap;
       user-select: none;
+      text-decoration: none;
     }
     .btn-icon:hover {
       background-color: var(--accent-light);
@@ -161,11 +148,132 @@
       font-size: 14px;
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
+    }
+    .home-link:hover { color: var(--accent-color); }
+
+    /* In-Page Search Bar Dropdown */
+    .inpage-search-bar {
+      position: sticky;
+      top: 60px;
+      z-index: 890;
+      background-color: var(--bg-surface);
+      border-bottom: 1px solid var(--border-color);
+      padding: 10px 18px;
+      display: none;
+      align-items: center;
+      gap: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    }
+    .inpage-search-bar.active { display: flex; }
+
+    .inpage-search-input-wrapper {
+      flex: 1;
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    .inpage-search-input {
+      width: 100%;
+      padding: 8px 36px 8px 12px;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      font-size: 14px;
+    }
+    .inpage-search-input:focus { outline: 2px solid var(--accent-color); }
+
+    .inpage-search-clear {
+      position: absolute;
+      right: 10px;
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 16px;
     }
 
-    .home-link:hover {
+    .inpage-search-count {
+      font-size: 13px;
+      color: var(--text-secondary);
+      font-family: monospace;
+      white-space: nowrap;
+    }
+    .search-nav-btns { display: flex; gap: 6px; }
+
+    /* In-Page Search Results Drawer */
+    .inpage-search-drawer {
+      position: fixed;
+      right: 20px;
+      top: 120px;
+      width: 360px;
+      max-height: calc(100vh - 160px);
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+      z-index: 895;
+      display: none;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .inpage-search-drawer.active { display: flex; }
+    .inpage-search-drawer-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-weight: 600;
+      font-size: 14px;
+    }
+    .inpage-search-drawer-list {
+      overflow-y: auto;
+      padding: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .search-result-item {
+      padding: 10px 12px;
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+      background: var(--bg-primary);
+      cursor: pointer;
+      font-size: 13px;
+      transition: all 0.15s;
+    }
+    .search-result-item:hover, .search-result-item.active {
+      border-color: var(--accent-color);
+      background: var(--accent-light);
+    }
+    .search-result-time {
+      font-weight: 700;
       color: var(--accent-color);
+      font-family: monospace;
+      margin-bottom: 4px;
+    }
+    .search-result-snippet {
+      color: var(--text-primary);
+      line-height: 1.5;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    /* Highlight mark */
+    mark.search-highlight {
+      background-color: #fef08a;
+      color: #1f2937;
+      padding: 1px 3px;
+      border-radius: 3px;
+    }
+    mark.search-highlight.active-match {
+      background-color: #f97316;
+      color: #ffffff;
+      outline: 2px solid #ea580c;
     }
 
     /* Layout Wrapper */
@@ -212,9 +320,7 @@
       font-size: 13px;
       margin-bottom: 14px;
     }
-    .toc-search:focus {
-      outline: 2px solid var(--accent-color);
-    }
+    .toc-search:focus { outline: 2px solid var(--accent-color); }
 
     .toc-list {
       list-style: none;
@@ -237,12 +343,10 @@
       overflow: hidden;
       text-overflow: ellipsis;
     }
-
     .toc-item a:hover {
       background-color: var(--accent-light);
       color: var(--accent-color);
     }
-
     .toc-item.active a {
       background-color: var(--accent-color);
       color: #ffffff;
@@ -257,19 +361,17 @@
       display: flex;
       justify-content: center;
     }
-
     .reader-container {
       width: 100%;
       max-width: var(--content-max-width);
     }
 
-    /* Book Hero / Header */
+    /* Book Hero */
     .book-hero {
       margin-bottom: 40px;
       padding-bottom: 24px;
       border-bottom: 2px solid var(--border-color);
     }
-
     .book-hero h1 {
       font-size: 2.1em;
       line-height: 1.35;
@@ -285,7 +387,6 @@
       gap: 10px;
       margin-top: 14px;
     }
-
     .meta-chip {
       display: inline-flex;
       align-items: center;
@@ -297,8 +398,13 @@
       font-size: 13px;
       font-weight: 500;
     }
+    .meta-chip.cat-badge {
+      background-color: #10b98122;
+      color: #10b981;
+      font-weight: 600;
+    }
 
-    /* Content Typography & Enhanced Paragraphs */
+    /* Content Typography */
     .transcript-section {
       margin-bottom: 50px;
       scroll-margin-top: 80px;
@@ -349,25 +455,22 @@
       letter-spacing: 0.015em;
     }
 
-    /* Indented paragraph style (Traditional) */
+    /* Indented paragraph style */
     [data-p-style="indent"] .section-body p {
       text-indent: 2em;
       margin-bottom: 1.15em;
       line-height: var(--line-height);
     }
 
-    /* Block paragraph style (Modern with whitespace) */
+    /* Block paragraph style */
     [data-p-style="block"] .section-body p {
       text-indent: 0;
       margin-bottom: 1.55em;
       line-height: var(--line-height);
     }
+    .section-body p:last-child { margin-bottom: 0; }
 
-    .section-body p:last-child {
-      margin-bottom: 0;
-    }
-
-    /* Floating Navigation Controls */
+    /* Floating Tools */
     .floating-tools {
       position: fixed;
       bottom: 24px;
@@ -377,7 +480,6 @@
       gap: 10px;
       z-index: 800;
     }
-
     .float-btn {
       width: 44px;
       height: 44px;
@@ -399,7 +501,6 @@
       color: var(--accent-color);
     }
 
-    /* Overlay for mobile drawer */
     .backdrop {
       display: none;
       position: fixed;
@@ -419,36 +520,22 @@
         transform: translateX(-100%);
         box-shadow: 4px 0 16px rgba(0,0,0,0.15);
       }
-
-      .sidebar.open {
-        transform: translateX(0);
-      }
-
-      .backdrop.open {
-        display: block;
+      .sidebar.open { transform: translateX(0); }
+      .backdrop.open { display: block; }
+      .inpage-search-drawer {
+        left: 20px;
+        right: 20px;
+        width: auto;
       }
     }
 
     @media (max-width: 640px) {
-      :root {
-        --font-size: 17px;
-      }
-      .main-content {
-        padding: 24px 16px 60px 16px;
-      }
-      .book-hero h1 {
-        font-size: 1.55em;
-      }
-      .top-header {
-        padding: 0 10px;
-      }
-      .btn-icon {
-        padding: 5px 8px;
-        font-size: 13px;
-      }
-      [data-p-style="indent"] .section-body p {
-        text-indent: 1.5em;
-      }
+      :root { --font-size: 17px; }
+      .main-content { padding: 24px 16px 60px 16px; }
+      .book-hero h1 { font-size: 1.55em; }
+      .top-header { padding: 0 10px; }
+      .btn-icon { padding: 5px 7px; font-size: 12.5px; }
+      [data-p-style="indent"] .section-body p { text-indent: 1.5em; }
     }
   </style>
 </head>
@@ -464,6 +551,14 @@
       <a href="index.html" class="home-link" title="返回書架">
         🏠 書架
       </a>
+      <!-- Search Inside Book Button -->
+      <button class="btn-icon" id="search-toggle-btn" title="搜尋本書內文 (Ctrl+F)">
+        🔍 <span>搜尋內文</span>
+      </button>
+      <!-- Global Search Link -->
+      <a href="index.html?tab=search" class="btn-icon" title="前往全書庫全文檢索">
+        🌐 <span>全庫搜尋</span>
+      </a>
     </div>
 
     <div class="header-right">
@@ -473,7 +568,7 @@
       </button>
 
       <!-- Line Height Toggle -->
-      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 精簡)">
+      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 緊湊)">
         ↕ <span id="line-height-label">行距</span>
       </button>
 
@@ -492,6 +587,29 @@
       <button class="btn-icon" id="font-inc-btn" title="放大字級">A+</button>
     </div>
   </header>
+
+  <!-- In-Page Search Bar Dropdown -->
+  <div class="inpage-search-bar" id="inpage-search-bar">
+    <div class="inpage-search-input-wrapper">
+      <input type="text" id="inpage-search-input" class="inpage-search-input" placeholder="🔍 搜尋本書內文關鍵字 (按 Enter 尋找下一處，Esc 關閉)...">
+      <button class="inpage-search-clear" id="inpage-search-clear" title="清空">✕</button>
+    </div>
+    <span class="inpage-search-count" id="inpage-search-count">0 / 0</span>
+    <div class="search-nav-btns">
+      <button class="btn-icon" id="inpage-search-prev" title="上一處 (Shift+Enter)">▲</button>
+      <button class="btn-icon" id="inpage-search-next" title="下一處 (Enter)">▼</button>
+      <button class="btn-icon" id="inpage-search-close" title="關閉搜尋 (Esc)">✕</button>
+    </div>
+  </div>
+
+  <!-- In-Page Search Results Drawer -->
+  <div class="inpage-search-drawer" id="inpage-search-drawer">
+    <div class="inpage-search-drawer-header">
+      <span>搜尋結果清單</span>
+      <button class="btn-icon" id="inpage-drawer-close" style="padding: 2px 6px;">✕</button>
+    </div>
+    <div class="inpage-search-drawer-list" id="inpage-search-drawer-list"></div>
+  </div>
 
   <div class="backdrop" id="backdrop"></div>
 
@@ -592,6 +710,7 @@
         <header class="book-hero">
           <h1>The Most Important Thing_Uncommon Sense for the Thoughtful Investor by Howard Marks _ Full Audiobook</h1>
           <div class="book-meta-chips">
+            <span class="meta-chip cat-badge">💰 財富與投資</span>
             <span class="meta-chip">🏷️ 時長：06:35:10</span>
 <span class="meta-chip">🏷️ 模型：small.en</span>
 <span class="meta-chip">🏷️ 日期：2026-09-22</span>
@@ -599,7 +718,7 @@
         </header>
 
         <!-- Transcript Content -->
-        <div class="book-body">
+        <div class="book-body" id="book-body">
           
         <section class="transcript-section" id="sec-000000">
           <div class="section-header">
@@ -607,22 +726,23 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">The Most Important Thing, by Howard Marks. Uncommon Sense for the Thoughtful Investor.</p>
-<h4 class="section-subhead">Chapter 1 The Most Important Thing is Second-Level Thinking.</h4>
-<p class="prose-p">The art of investment has one characteristic that is not generally appreciated. A creditable, if unspectacular, result can be achieved by the lay investor with a minimum of effort and capability, but to improve this easily attainable standard requires much application and more than a trace of wisdom, Ben Graham, the intelligent investor. Everything should be made as simple as possible, but not simpler, Albert Einstein. It’s not supposed to be easy.</p>
-<p class="prose-p">Anyone who finds it easy is stupid Charlie Munger. Few people have what it takes to be great investors. Some can be taught, but not everyone. And those who can be taught can’t be taught everything.</p>
-<p class="prose-p">Valid approaches work some of the time, but not all. And investing can’t be reduced to an algorithm and turned over to a computer. Even the best investors don’t get it right every time. The reasons are simple.</p>
-<p class="prose-p">No rule always works. The environment isn’t controllable, and circumstances rarely repeat exactly. Psychology plays a major role in markets, and because it’s highly variable, cause and effect relationships aren’t reliable. An investment approach may work for a while, but eventually the actions it calls for will change the environment, meaning a new approach is needed.</p>
-<p class="prose-p">And if others emulate an approach, that will blunt its effectiveness. Investing, like economics, is more art than science. And that means it can get a little messy. One of the most important things to bear in mind today is that economics isn’t an exact science.</p>
-<p class="prose-p">It may. Not even be much of a science at all, in the sense that in science, controlled experiments. Can be conducted, past results can be replicated with confidence, and cause, and effect relationships can be depended on to hold. Will it work?</p>
-<p class="prose-p">March 5, 2009 Because investing is at least as much art as it is science, it’s never my goal, in this book or elsewhere, to suggest it can be routinized. In fact, one of the things I most want to emphasize is how essential it is that one’s investment approach be intuitive and adaptive rather than be fixed and mechanistic. At bottom, it’s a matter of what you’re trying to accomplish. Anyone can achieve average investment performance, just invest in an index fund that buys a little of everything.</p>
-<p class="prose-p">That will give you what is known as, market returns, merely matching whatever the market does. But successful investors want more. They want to beat the market. In my view, that’s the definition of successful investing, doing better than the market and other investors.</p>
-<p class="prose-p">To accomplish that, you need either good luck or superior insight. Counting on luck isn’t much of a plan, so you’d better concentrate on insight. In basketball. They say, you can’t coach height, meaning all the coaching in the world won’t make a player taller.</p>
-<p class="prose-p">It’s almost as hard to teach insight. As with any other art form, some people just understand investing better than others. They have, or manage to acquire, that necessary, trace of wisdom, that Ben Graham so eloquently calls for. Everyone wants to make money.</p>
-<p class="prose-p">All of economics is based on belief in the universality of the profit motive. So is capitalism, the profit motive makes people work harder and risk their capital. The pursuit of. Profit has produced much of the material progress the world has enjoyed.</p>
-<p class="prose-p">But that universality also makes beating the market a difficult task. Millions of people are competing for each available dollar of investment gain. Who’ll get it? The person who’s a step ahead.</p>
-<p class="prose-p">In some pursuits, getting to the front of the pack means more schooling, more time in the gym or the library, better nutrition, more perspiration, greater stamina, or better equipment. But in investing, where these things count for less, it calls for more perceptive thinking at what I call the second level. Would-be investors can take courses in finance and accounting, read widely and, if they are fortunate, receive mentoring from someone with a deep understanding of the investment process. But only a few of them will achieve the superior insight, intuition, sense of value and awareness of psychology that are required for.</p>
-<p class="prose-p">Consistently above average results. Doing so requires second level thinking.</p>
+            <p class="prose-p">The Most Important Thing, by Howard Marks. Uncommon Sense for the Thoughtful Investor.
+
+#### Chapter 1 The Most Important Thing is Second-Level Thinking. The art of investment has one characteristic that is not generally appreciated. A creditable, if unspectacular, result can be achieved by the lay investor with a minimum of effort and capability, but to improve this easily attainable standard requires much application and more than a trace of wisdom, Ben Graham, the intelligent investor.</p>
+<p class="prose-p">Everything should be made as simple as possible, but not simpler, Albert Einstein. It’s not supposed to be easy. Anyone who finds it easy is stupid Charlie Munger. Few people have what it takes to be great investors.</p>
+<p class="prose-p">Some can be taught, but not everyone. And those who can be taught can’t be taught everything. Valid approaches work some of the time, but not all. And investing can’t be reduced to an algorithm and turned over to a computer.</p>
+<p class="prose-p">Even the best investors don’t get it right every time. The reasons are simple. No rule always works. The environment isn’t controllable, and circumstances rarely repeat exactly.</p>
+<p class="prose-p">Psychology plays a major role in markets, and because it’s highly variable, cause and effect relationships aren’t reliable. An investment approach may work for a while, but eventually the actions it calls for will change the environment, meaning a new approach is needed. And if others emulate an approach, that will blunt its effectiveness. Investing, like economics, is more art than science.</p>
+<p class="prose-p">And that means it can get a little messy. One of the most important things to bear in mind today is that economics isn’t an exact science. It may. Not even be much of a science at all, in the sense that in science, controlled experiments.</p>
+<p class="prose-p">Can be conducted, past results can be replicated with confidence, and cause, and effect relationships can be depended on to hold. Will it work? March 5, 2009 Because investing is at least as much art as it is science, it’s never my goal, in this book or elsewhere, to suggest it can be routinized.</p>
+<p class="prose-p">In fact, one of the things I most want to emphasize is how essential it is that one’s investment approach be intuitive and adaptive rather than be fixed and mechanistic. At bottom, it’s a matter of what you’re trying to accomplish. Anyone can achieve average investment performance, just invest in an index fund that buys a little of everything. That will give you what is known as, market returns, merely matching whatever the market does.</p>
+<p class="prose-p">But successful investors want more. They want to beat the market. In my view, that’s the definition of successful investing, doing better than the market and other investors. To accomplish that, you need either good luck or superior insight.</p>
+<p class="prose-p">Counting on luck isn’t much of a plan, so you’d better concentrate on insight. In basketball. They say, you can’t coach height, meaning all the coaching in the world won’t make a player taller. It’s almost as hard to teach insight.</p>
+<p class="prose-p">As with any other art form, some people just understand investing better than others. They have, or manage to acquire, that necessary, trace of wisdom, that Ben Graham so eloquently calls for. Everyone wants to make money. All of economics is based on belief in the universality of the profit motive.</p>
+<p class="prose-p">So is capitalism, the profit motive makes people work harder and risk their capital. The pursuit of. Profit has produced much of the material progress the world has enjoyed. But that universality also makes beating the market a difficult task.</p>
+<p class="prose-p">Millions of people are competing for each available dollar of investment gain. Who’ll get it? The person who’s a step ahead. In some pursuits, getting to the front of the pack means more schooling, more time in the gym or the library, better nutrition, more perspiration, greater stamina, or better equipment.</p>
+<p class="prose-p">But in investing, where these things count for less, it calls for more perceptive thinking at what I call the second level. Would-be investors can take courses in finance and accounting, read widely and, if they are fortunate, receive mentoring from someone with a deep understanding of the investment process. But only a few of them will achieve the superior insight, intuition, sense of value and awareness of psychology that are required for. Consistently above average results.</p>
+<p class="prose-p">Doing so requires second level thinking.</p>
           </div>
         </section>
         
@@ -664,14 +784,15 @@
 <p class="prose-p">That’s not easy. The. Attractiveness of buying something for less than its worth makes eminent sense. So how is one to find bargains in efficient markets?</p>
 <p class="prose-p">You must bring exceptional analytical ability, insight or foresight. But because it’s exceptional, few people have it. Returns and how they get that way, November 11, 2002 for your performance to diverge from the norm, your expectations, and thus your portfolio, have to diverge from the norm, and you have to be more right than the consensus. Different and better, that’s a pretty good description of second-level thinking.</p>
 <p class="prose-p">Those who consider the investment process simple generally aren’t aware of the need for, or even the existence of, second-level thinking. Thus, many people are misled into believing that everyone can be a successful investor. Not everyone can. But the good news is that the prevalence of first-level thinkers increases the returns available to.</p>
-<p class="prose-p">Second-level thinkers. To consistently achieve superior investment returns, you must be one. Of them.</p>
-<h4 class="section-subhead">Chapter 2.</h4>
-<p class="prose-p">The most important thing is understanding market efficiency, and its limitations. In theory there’s no difference between theory and practice, but in practice there is Yogi Berra. The 1960s saw the emergence of a new theory of finance and investing, a body of thought known as the Chicago School, because of its origins at the University of Chicago’s Graduate School of Business. As a student there in 1967 to 1969, I found myself at ground zero for this new theory.</p>
-<p class="prose-p">It greatly informed and influenced my thinking. The theory included. Concepts that went on to become important elements in investment dialogue, risk aversion, volatility as the definition of risk, risk, adjusted returns, systematic and non-systematic risk, alpha, beta, the random walk hypothesis and the efficient market hypothesis. All of these are addressed in the pages that follow.</p>
-<p class="prose-p">In the years since it was first proposed, that last concept has proved to be particularly influential in the field of investing, so significant that it deserves its own chapter. The efficient market hypothesis states that there are many participants in the markets, and they share roughly equal access to all relevant information. They are intelligent, objective, highly motivated and hardworking. Their analytical models are widely known and employed.</p>
-<p class="prose-p">Because of the collective efforts of these participants, information is reflected fully and immediately in the market price of each asset. And because. Market participants will move instantly to buy any asset that’s too cheap or sell one that’s too. Dear, assets are priced fairly in the absolute and relative to each other.</p>
-<p class="prose-p">The US market prices represent accurate estimates of assets intrinsic value and no participant can consistently identify and profit from instances when they are wrong. Assets therefore sell at prices from which they can be expected to deliver risk adjusted returns that are fair relative to other assets. Riskier assets must offer higher returns in order to attract buyers. The market will set prices so that appears to be the case, but it won’t provide a free lunch.</p>
-<p class="prose-p">That is, there will be no incremental return that is not required. related to, and compensatory for, incremental risk. That’s a more or less official summary of the highlights. Now my take.</p>
+<p class="prose-p">Second-level thinkers. To consistently achieve superior investment returns, you must be one. Of them.
+
+#### Chapter 2. The most important thing is understanding market efficiency, and its limitations.</p>
+<p class="prose-p">In theory there’s no difference between theory and practice, but in practice there is Yogi Berra. The 1960s saw the emergence of a new theory of finance and investing, a body of thought known as the Chicago School, because of its origins at the University of Chicago’s Graduate School of Business. As a student there in 1967 to 1969, I found myself at ground zero for this new theory. It greatly informed and influenced my thinking.</p>
+<p class="prose-p">The theory included. Concepts that went on to become important elements in investment dialogue, risk aversion, volatility as the definition of risk, risk, adjusted returns, systematic and non-systematic risk, alpha, beta, the random walk hypothesis and the efficient market hypothesis. All of these are addressed in the pages that follow. In the years since it was first proposed, that last concept has proved to be particularly influential in the field of investing, so significant that it deserves its own chapter.</p>
+<p class="prose-p">The efficient market hypothesis states that there are many participants in the markets, and they share roughly equal access to all relevant information. They are intelligent, objective, highly motivated and hardworking. Their analytical models are widely known and employed. Because of the collective efforts of these participants, information is reflected fully and immediately in the market price of each asset.</p>
+<p class="prose-p">And because. Market participants will move instantly to buy any asset that’s too cheap or sell one that’s too. Dear, assets are priced fairly in the absolute and relative to each other. The US market prices represent accurate estimates of assets intrinsic value and no participant can consistently identify and profit from instances when they are wrong.</p>
+<p class="prose-p">Assets therefore sell at prices from which they can be expected to deliver risk adjusted returns that are fair relative to other assets. Riskier assets must offer higher returns in order to attract buyers. The market will set prices so that appears to be the case, but it won’t provide a free lunch. That is, there will be no incremental return that is not required. related to, and compensatory for, incremental risk.</p>
+<p class="prose-p">That’s a more or less official summary of the highlights. Now my take.</p>
           </div>
         </section>
         
@@ -759,14 +880,15 @@
 <p class="prose-p">In short, I think theories should inform our decisions but not dominate them. If we entirely ignore theory, we can make big mistakes. We can fool ourselves into thinking it’s possible to know more than everyone else and to regularly beat heavily populated markets. We can buy securities for their returns but ignore.</p>
 <p class="prose-p">Their risk. We can buy 50 correlated securities and mistakenly think we’ve diversified. But swallowing theory whole can make us give up on finding bargains, turn the process over to a computer and miss out on the contributions skillful individuals can make. The image here is of the efficient market believing finance professor who takes a walk with a student.</p>
 <p class="prose-p">Isn’t that a $10 bill lying on the ground asks the student? No, it can’t be a $10 bill answers the. Professor. If it were, someone would have picked it up by now.</p>
-<p class="prose-p">The professor walks away and the student picks it up and has a beer. What’s it all about alpha? July 11, 2001.</p>
-<h4 class="section-subhead">Chapter 3.</h4>
-<p class="prose-p">The most important thing is value. For investing to be reliably successful, an accurate estimate of intrinsic value is the indispensable starting point. Without it, any hope for consistent success as an investor is just that hope. The oldest rule in investing is also the simplest buy low sell high.</p>
-<p class="prose-p">Seems blindingly obvious who would want to do anything else. But what does that rule actually mean? Again, obvious on the surface. It means that you should buy something at a low price and sell it at a high price.</p>
-<p class="prose-p">But what in turn does that mean? What’s high and what’s low? On a superficial level, you can take it to mean that the goal is to buy something for less than you sell it for. But since your sale will take place well down the road, that’s not much help in figuring out the proper price at which to buy today.</p>
-<p class="prose-p">There has to be some objective standard for high and low, and most usefully that standard is the asset’s intrinsic value. Now the meaning of the saying becomes clear, buy at a price below intrinsic value and sell at a higher price. Of course, to do that, you’d better have a good idea what intrinsic value is. Four.</p>
-<p class="prose-p">Me, an accurate estimate of value is the indispensable starting point. To simplify or oversimplify, all approaches to investing in company securities can be divided into two basic types, those based on analysis of the company’s attributes, known as fundamentals, and those based on study of the price behavior of the securities themselves.</p>
-<p class="prose-p">In other words, an investor has two basic choices, gauge the securities underlying intrinsic value and buy or sell when the price diverges from it, or base decisions purely on expectations regarding future price movements. I’ll turn to the latter first, since I don’t believe in it and should be able to dispose of it rather promptly. Technical analysis, or the study of past stock price behavior, has been practiced ever since I joined the industry,</p>
+<p class="prose-p">The professor walks away and the student picks it up and has a beer. What’s it all about alpha? July 11, 2001.
+
+#### Chapter 3. The most important thing is value.</p>
+<p class="prose-p">For investing to be reliably successful, an accurate estimate of intrinsic value is the indispensable starting point. Without it, any hope for consistent success as an investor is just that hope. The oldest rule in investing is also the simplest buy low sell high. Seems blindingly obvious who would want to do anything else.</p>
+<p class="prose-p">But what does that rule actually mean? Again, obvious on the surface. It means that you should buy something at a low price and sell it at a high price. But what in turn does that mean?</p>
+<p class="prose-p">What’s high and what’s low? On a superficial level, you can take it to mean that the goal is to buy something for less than you sell it for. But since your sale will take place well down the road, that’s not much help in figuring out the proper price at which to buy today. There has to be some objective standard for high and low, and most usefully that standard is the asset’s intrinsic value.</p>
+<p class="prose-p">Now the meaning of the saying becomes clear, buy at a price below intrinsic value and sell at a higher price. Of course, to do that, you’d better have a good idea what intrinsic value is. Four. Me, an accurate estimate of value is the indispensable starting point.</p>
+<p class="prose-p">To simplify or oversimplify, all approaches to investing in company securities can be divided into two basic types, those based on analysis of the company’s attributes, known as fundamentals, and those based on study of the price behavior of the securities themselves. In other words, an investor has two basic choices, gauge the securities underlying intrinsic value and buy or sell when the price diverges from it, or base decisions purely on expectations regarding future price movements. I’ll turn to the latter first, since I don’t believe in it and should be able to dispose of it rather promptly.</p>
+<p class="prose-p">Technical analysis, or the study of past stock price behavior, has been practiced ever since I joined the industry,</p>
           </div>
         </section>
         
@@ -847,8 +969,9 @@
             <p class="prose-p">Investors with no knowledge of, or concern for, profits, dividends, valuation or the conduct of business simply cannot possess the resolve needed to do the right thing at the right time. With everyone around them buying and making money, they can’t know when a stock is too high and therefore resist joining in. And with a market in freefall, they can’t possibly have the, confidence needed to hold or buy at severely reduced prices. Irrational exuberance, May 1. 2000 an accurate opinion on valuation, loosely held, will be of limited help.</p>
 <p class="prose-p">An incorrect opinion on valuation, strongly held, is far worse. This one statement shows how hard it is to get it all right. Give most investors, and certainly most amateur investors, a dose of truth serum, and then ask this question, what’s your approach to investing? The inevitable.</p>
 <p class="prose-p">Answer, I look for things that will go up. But the serious pursuit of profit has to be based on something more tangible. In my view, the best candidate for that something tangible is fundamentally derived intrinsic value. An accurate estimate of intrinsic value is the essential foundation for steady, unemotional and potentially profitable investing.</p>
-<p class="prose-p">Value investors score their biggest gains when they buy an underpriced asset, average down unfailingly and have their analysis proved out. Thus, there are two essential ingredients for profit in a declining market. You have to have a view on intrinsic value, and you have to hold that view strongly enough to be able to hang in and buy even as price declines suggest that you’re wrong. Oh yes, there’s a third, you have to be right.</p>
-<h4 class="section-subhead">Chapter 4.</h4>
+<p class="prose-p">Value investors score their biggest gains when they buy an underpriced asset, average down unfailingly and have their analysis proved out. Thus, there are two essential ingredients for profit in a declining market. You have to have a view on intrinsic value, and you have to hold that view strongly enough to be able to hang in and buy even as price declines suggest that you’re wrong. Oh yes, there’s a third, you have to be right.
+
+#### Chapter 4.</p>
 <p class="prose-p">The most important thing is the relationship between price and value. Investment success doesn’t come from buying good things, but rather from buying things well. Let’s say you become convinced of the efficacy of value investing and you’re able to come up with an estimate of intrinsic value for a stock or other asset. Let’s even say your estimate is right.</p>
 <p class="prose-p">You’re not done. In order to know what action to take, you have to look at the asset’s price relative to its value. Establishing a healthy relationship between fundamentals, value, and price is at the core of successful investing. For a value investor, price has to be the starting point.</p>
 <p class="prose-p">It has been demonstrated time and time again that no asset is so good that it can’t become a bad investment if bought at too high a price. And there are few assets so bad that they can’t be a good investment when bought cheap enough. When people say flatly, we only buy a, or, a is a superior asset class, that sounds. A lot like, we buy a at any price and we buy it before b, c, or d at any price.</p>
@@ -916,13 +1039,14 @@
 <p class="prose-p">But certainly the hoped-for arrival of this sucker can’t be counted on. Unlike having an underpriced asset move to its fair value, expecting appreciation on the part of a fairly priced or overpriced asset requires a rationality on the part of buyers that absolutely cannot be considered dependable. Buying something for less than its value. In my opinion, this is what it’s all about, the most dependable way to make money.</p>
 <p class="prose-p">Buying at a discount from. Intrinsic value and having the assets price move toward its value doesn’t require serendipity. It just requires that market participants wake up to reality. When the market’s functioning properly, value exerts a magnetic pull on price.</p>
 <p class="prose-p">Of all the possible routes to investment profit, buying cheap is clearly the most reliable. Even that, however, isn’t sure to work. You can be wrong about the current value. Or events can come along that reduce value.</p>
-<p class="prose-p">Or deterioration in attitudes or markets can make something sell even further below its value. Or the convergence of price and intrinsic value can take more time than you have, as John Maynard Keynes pointed out, the market can remain irrational longer than you can remain solvent. Trying to buy below value isn’t infallible, but it’s the best chance we have.</p>
-<h4 class="section-subhead">Chapter 5 The Most Important Thing Is Understanding Risk.</h4>
-<p class="prose-p">Risk means more things can happen than will happen, Elroy Dimson. Investing consists of exactly one thing, dealing with the future. And because none of us can know the future with certainty, risk is inescapable. Thus, dealing with risk is an essential, I think the essential, element in investing.</p>
-<p class="prose-p">It’s not hard to find investments that might go up. If you can find enough of these, you’ll have moved in the right direction. And you’re unlikely to succeed for long if you haven’t dealt explicitly with risk. The first step consists of understanding it.</p>
-<p class="prose-p">The second step is recognizing when it’s high. The critical final step is controlling it. Because the issue is so complex and so important, I devote three chapters to examining risk in depth. Why do I say risk assessment is such an essential element in the investment process?</p>
-<p class="prose-p">There are three powerful reasons. First, risk is a bad thing, and most level-headed people want to avoid or minimize it. It is an underlying assumption in financial. Theory that people are naturally risk-averse, meaning they’d rather take less risk than more.</p>
-<p class="prose-p">Thus, for starters, an investor considering a given investment has to make judgments about how risky it is and whether he or she can live with the absolute quantum of risk. Second, when you’re considering an investment, your decision should be a function of the risk entailed as well as the potential return. Because of their dislike for risk, investors have to be bribed with higher prospective returns to take incremental risks. Put simply, if both a U. S. Treasury note and small company stock appeared likely to return 7% per year, everyone would rush to buy the former, driving up its price and reducing its prospective return, and dump the latter, driving down its price and thus increasing its return.</p>
+<p class="prose-p">Or deterioration in attitudes or markets can make something sell even further below its value. Or the convergence of price and intrinsic value can take more time than you have, as John Maynard Keynes pointed out, the market can remain irrational longer than you can remain solvent. Trying to buy below value isn’t infallible, but it’s the best chance we have.
+
+#### Chapter 5 The Most Important Thing Is Understanding Risk. Risk means more things can happen than will happen, Elroy Dimson.</p>
+<p class="prose-p">Investing consists of exactly one thing, dealing with the future. And because none of us can know the future with certainty, risk is inescapable. Thus, dealing with risk is an essential, I think the essential, element in investing. It’s not hard to find investments that might go up.</p>
+<p class="prose-p">If you can find enough of these, you’ll have moved in the right direction. And you’re unlikely to succeed for long if you haven’t dealt explicitly with risk. The first step consists of understanding it. The second step is recognizing when it’s high.</p>
+<p class="prose-p">The critical final step is controlling it. Because the issue is so complex and so important, I devote three chapters to examining risk in depth. Why do I say risk assessment is such an essential element in the investment process? There are three powerful reasons.</p>
+<p class="prose-p">First, risk is a bad thing, and most level-headed people want to avoid or minimize it. It is an underlying assumption in financial. Theory that people are naturally risk-averse, meaning they’d rather take less risk than more. Thus, for starters, an investor considering a given investment has to make judgments about how risky it is and whether he or she can live with the absolute quantum of risk.</p>
+<p class="prose-p">Second, when you’re considering an investment, your decision should be a function of the risk entailed as well as the potential return. Because of their dislike for risk, investors have to be bribed with higher prospective returns to take incremental risks. Put simply, if both a U. S. Treasury note and small company stock appeared likely to return 7% per year, everyone would rush to buy the former, driving up its price and reducing its prospective return, and dump the latter, driving down its price and thus increasing its return.</p>
 <p class="prose-p">This process of adjusting relative prices, which economists call equilibration, is supposed to render prospective returns proportional to risk. So, going beyond determining whether he or she can bear the absolute amount of risk that is attendant, the investor’s second job is to determine whether the return on a given investment justifies taking the risk. Clearly, return tells just half of the story, and risk assessment is required. T.</p>
 <p class="prose-p">H. I. R. D., when you consider.</p>
 <p class="prose-p">Investment results, the return means only so much by itself, the risk taken has to be assessed as well. Was the return achieved in safe instruments or risky ones?</p>
@@ -1074,14 +1198,15 @@
             <p class="prose-p">People overestimate their ability to gauge risk and understand mechanisms they’ve never before seen in operation. In theory, one thing. That distinguishes humans from other species is that we can figure out that some things. Dangerous without experiencing it.</p>
 <p class="prose-p">We don’t have to burn ourselves to know we shouldn’t sit on a hot stove. But in bullish times, people tend not to perform this function. Rather than recognize risk ahead, they tend to overestimate their ability to understand how new financial inventions will work.</p>
 <p class="prose-p">Finally and importantly, most people view risk taking primarily as a way to make money. Bearing higher risk generally produces higher returns. The market has to set things up to look like that’ll be the case, if it didn’t, people wouldn’t make risky investments. But it can’t always work that way, or else risky investments wouldn’t be risky.</p>
-<p class="prose-p">And when risk-bearing doesn’t work, it really doesn’t work, and people are reminded what risk’s all about. No different this time, December 17th, 2007 backslash.</p>
-<h4 class="section-subhead">Chapter 6 The most important thing is recognizing risk.</h4>
-<p class="prose-p">My belief is that because the system is now more stable, we’ll make it less stable through more leverage, more risk taking, Myron Scholes. The received wisdom is that risk increases in the recessions and falls in booms. In contrast, it may be more helpful to think of risk as increasing during upswings, as financial imbalances build up and materializing in recessions, Andrew Crockett. No matter how good fundamentals may be, humans exercising their greed and propensity to err have the ability to screw things up.</p>
-<p class="prose-p">Great investing requires both generating returns and controlling risk. And recognizing risk is an absolute prerequisite for controlling it. Hopefully I’ve made clear what I think risk is, and isn’t. Risk means uncertainty about which outcome will occur and about the possibility of loss when the unfavorable ones do.</p>
-<p class="prose-p">The next important step is to describe the process through which risk can be recognized for what it is. Recognizing risk often starts with understanding when investors are paying it too little heed, being too optimistic and paying too much for a given asset as a result. High risk, in other words, comes primarily with high prices. Whether it be an individual security or other asset that is overrated and thus overpriced, or an entire market that’s been born aloft by bullish sentiment and thus is sky high, participating when prices are high rather than shying away is the main source of risk.</p>
-<p class="prose-p">Whereas the theorist thinks return and risk are two separate things, albeit correlated, the. Value investor thinks of high risk and low prospective return as nothing but two sides of the same coin, both stemming primarily from high prices. The us, awareness of the relationship between price and value, whether for a single security or an entire market, is an essential component of dealing successfully with risk. Risk arises when markets go so high that prices.</p>
-<p class="prose-p">Imply losses rather than the potential rewards they should. Dealing with this risk starts with recognizing it. All along the upward sloping capital market line, the increase in potential return represents compensation for bearing incremental risk. Except for those people who can generate alpha or access managers who have it, investors shouldn’t plan on getting added return without bearing incremental risk.</p>
-<p class="prose-p">And for doing so, they should demand risk premiums. But at some point in the swing of the pendulum, people usually forget that truth and embrace risk taking to excess. In short, in bull markets, usually when things have been going well for a while, people tend to say, risk is my friend. The more risk I take, the greater my return will be. I’d like more risk, please.</p>
+<p class="prose-p">And when risk-bearing doesn’t work, it really doesn’t work, and people are reminded what risk’s all about. No different this time, December 17th, 2007 backslash.
+
+#### Chapter 6 The most important thing is recognizing risk. My belief is that because the system is now more stable, we’ll make it less stable through more leverage, more risk taking, Myron Scholes. The received wisdom is that risk increases in the recessions and falls in booms. In contrast, it may be more helpful to think of risk as increasing during upswings, as financial imbalances build up and materializing in recessions, Andrew Crockett.</p>
+<p class="prose-p">No matter how good fundamentals may be, humans exercising their greed and propensity to err have the ability to screw things up. Great investing requires both generating returns and controlling risk. And recognizing risk is an absolute prerequisite for controlling it. Hopefully I’ve made clear what I think risk is, and isn’t.</p>
+<p class="prose-p">Risk means uncertainty about which outcome will occur and about the possibility of loss when the unfavorable ones do. The next important step is to describe the process through which risk can be recognized for what it is. Recognizing risk often starts with understanding when investors are paying it too little heed, being too optimistic and paying too much for a given asset as a result. High risk, in other words, comes primarily with high prices.</p>
+<p class="prose-p">Whether it be an individual security or other asset that is overrated and thus overpriced, or an entire market that’s been born aloft by bullish sentiment and thus is sky high, participating when prices are high rather than shying away is the main source of risk. Whereas the theorist thinks return and risk are two separate things, albeit correlated, the. Value investor thinks of high risk and low prospective return as nothing but two sides of the same coin, both stemming primarily from high prices.</p>
+<p class="prose-p">The us, awareness of the relationship between price and value, whether for a single security or an entire market, is an essential component of dealing successfully with risk. Risk arises when markets go so high that prices. Imply losses rather than the potential rewards they should. Dealing with this risk starts with recognizing it.</p>
+<p class="prose-p">All along the upward sloping capital market line, the increase in potential return represents compensation for bearing incremental risk. Except for those people who can generate alpha or access managers who have it, investors shouldn’t plan on getting added return without bearing incremental risk. And for doing so, they should demand risk premiums. But at some point in the swing of the pendulum, people usually forget that truth and embrace risk taking to excess. In short, in bull markets, usually when things have been going well for a while, people tend to say, risk is my friend.</p>
+<p class="prose-p">The more risk I take, the greater my return will be. I’d like more risk, please.</p>
 <p class="prose-p">The truth is, risk tolerance is antithetical to successful investing. When people aren’t afraid of risk, they’ll accept risk without being. Compensated for doing so, and risk compensation will disappear. This is a simple end.</p>
 <p class="prose-p">Inevitable relationship. When investors are unworried and risk tolerant, they buy stocks at high price-slash-earnings ratios and private companies at high multiples of EBITDA, cash flow, defined as earnings before interest, taxes, depreciation and amortization, and they pile into bonds despite narrow yield spreads and into real estate at minimal, cap rates, the ratio of net operating income to price. There are few things</p>
           </div>
@@ -1171,10 +1296,10 @@
 <p class="prose-p">I’m firmly convinced that investment risk resides most where it is least perceived, and vice versa, when everyone believes something is risky, their unwillingness to buy usually reduces its price to the point where it’s not risky at all. Broadly negative opinion can make it the least risky thing, since all optimism has been driven out of its price. And, of course, as. Demonstrated by the experience of nifty 50 investors, when everyone believes something.</p>
 <p class="prose-p">Embodies no risk, they usually bid it up to the point where it’s enormously risky. No risk is feared, and thus no reward for risk bearing, no, risk premium, is demanded or provided. That can make the thing that’s most esteemed the riskiest. This paradox exists because most investors think quality, as opposed to price, is the determinant of whether something’s.</p>
 <p class="prose-p">Risky. But high quality assets can be risky, and low quality assets can be safe. It’s just a matter of the price paid for them. Elevated popular opinion, then, isn’t just the source of low return potential, but also of high risk.</p>
-<p class="prose-p">Everyone knows, April 26, 2007.</p>
-<h4 class="section-subhead">Chapter 7 The Most Important Thing Is Controlling Risk.</h4>
-<p class="prose-p">When you boil it all down, it’s the investor’s job to intelligently bear risk for profit. Doing it well is what separates the best from the rest. Outstanding investors, in my opinion, are distinguished at least as much for their ability to control risk as they are for generating return. High absolute return is much more recognizable and titillating than superior risk-adjusted performance.</p>
-<p class="prose-p">That’s why it’s high-returning investors who get their pictures in the papers. Since it’s hard to gauge risk and risk-adjusted performance, even after the fact, and since the importance of managing risk is widely underappreciated, investors rarely gain recognition for having done a great job in this regard.</p>
+<p class="prose-p">Everyone knows, April 26, 2007.
+
+#### Chapter 7 The Most Important Thing Is Controlling Risk. When you boil it all down, it’s the investor’s job to intelligently bear risk for profit. Doing it well is what separates the best from the rest. Outstanding investors, in my opinion, are distinguished at least as much for their ability to control risk as they are for generating return.</p>
+<p class="prose-p">High absolute return is much more recognizable and titillating than superior risk-adjusted performance. That’s why it’s high-returning investors who get their pictures in the papers. Since it’s hard to gauge risk and risk-adjusted performance, even after the fact, and since the importance of managing risk is widely underappreciated, investors rarely gain recognition for having done a great job in this regard.</p>
           </div>
         </section>
         
@@ -1260,8 +1385,9 @@
 <p class="prose-p">Clearly, Oaktree doesn’t run from risk. We welcome it at the right time, in the right instances, and at the right price. We could easily avoid all risk, and so could you. But we’d be assured of avoiding returns above the risk-free rate as well.</p>
 <p class="prose-p">Will Rogers said, you’ve got to go out on a limb sometimes because that’s where the fruit is. None of us is in this business to make 4%. So even though the first tenet in Oaktree’s investment philosophy stresses the importance of risk control, this has nothing to do with risk avoidance. It’s by bearing risk when we’re well paid to do so, and especially by taking risks toward which others are averse in the extreme, that we strive to add value for our clients.</p>
 <p class="prose-p">When formulated that way, it’s obvious how big a part risk plays in our process. Rick Funston. Of Deloitte and Touche said in the article that prompted this memo, when corporate risk becomes personal, corporate board member, 2005 special supplement, you need comfort that the risks and exposures are understood, appropriately managed, and made more transparent for everyone. This is not risk aversion, it is risk intelligence.</p>
-<p class="prose-p">TH adds what Oaktree strives for every day. Risk, January 19, 2006 the road to long-term investment success runs through risk control more than through aggressiveness. Over a full career, most investors&#x27; results will be determined more by how many losers they have, and how bad they are, than by the greatness of their winners. Skillful risk control is the mark of the superior investor.</p>
-<h4 class="section-subhead">Chapter 8 The Most Important Thing Is Being Attemptive to Cycles I think it’s essential to remember that just about everything is cyclical.</h4>
+<p class="prose-p">TH adds what Oaktree strives for every day. Risk, January 19, 2006 the road to long-term investment success runs through risk control more than through aggressiveness. Over a full career, most investors&#x27; results will be determined more by how many losers they have, and how bad they are, than by the greatness of their winners. Skillful risk control is the mark of the superior investor.
+
+#### Chapter 8 The Most Important Thing Is Being Attemptive to Cycles I think it’s essential to remember that just about everything is cyclical.</p>
 <p class="prose-p">There’s little I’m certain of, but these things are true, cycles always prevail eventually. Nothing goes in one direction forever. Trees don’t grow to the sky. Few things go to zero.</p>
 <p class="prose-p">And there’s little that’s. As dangerous for investor health as insistence on extrapolating today’s events into the future. The more time I spend in the world of investing, the more I appreciate the underlying cyclicality of things. In November 2001 I devoted an entire memo to the subject.</p>
 <p class="prose-p">I titled it, You Can’t Predict. You can prepare, borrowing the advertising tagline of Mass Mutual Life Insurance Company because I agree wholeheartedly with their theme, we never know what lies ahead, but we can prepare for the possibilities and reduce their sting. In investing, as in life, there are very few sure things. Values can evaporate, estimates can be wrong, circumstances can change and sure things can fail.</p>
@@ -1393,16 +1519,17 @@
           <div class="section-body">
             <p class="prose-p">than it went in. The occurrence of this pendulum, like pattern in most market phenomena, is extremely dependable. But just like the oscillation of cycles, we never know, how far the pendulum will swing in its arc, what might cause the swing to stop and turn back, when this reversal will occur, or how far it will then swing in the opposite direction. For a bullish phase, to hold sway, the environment has to be characterized by greed.</p>
 <p class="prose-p">Optimism, exuberance, confidence, credulity, daring, risk tolerance and aggressiveness. But these traits will not govern a market forever. Eventually, they will give way to fear, pessimism, prudence, uncertainty, skepticism, caution, risk aversion and reticence. Busts are the product of booms, and I’m convinced it’s usually more correct to attribute a bust to the excesses of the preceding boom than to the specific event that sets off the correction.</p>
-<p class="prose-p">Now what? January 10, 2008 there are a few things of which we can be sure, and this is one, extreme market behavior will reverse. Those who believe that the pendulum will move in one direction forever, or reside at an extreme forever, eventually will lose huge sums. Those who understand the pendulum’s behavior can benefit enormously.</p>
-<h4 class="section-subhead">Chapter 10 the most important thing is combating negative influences.</h4>
-<p class="prose-p">The desire for more, the fear of missing out, the tendency to compare against others, the influence of the crowd and the dream of the sure thing, these factors are near universal. Thus they have a profound collective impact on most investors and most markets. The result is mistakes, and those mistakes are frequent, widespread and recurring. Inefficiencies, mispricings, misperceptions, mistakes that other people make, provide potential opportunities for superior performance.</p>
-<p class="prose-p">Exploiting them is, in fact, the only road to consistent outperformance. To distinguish yourself from the others, you need to be on the right side of those mistakes. Why do mistakes occur? Because investing is an action undertaken by human beings, most of whom are at the mercy of their psyches and emotions.</p>
-<p class="prose-p">Many people possess the intellect needed to analyze data, but far fewer are able to look more deeply into things and withstand the powerful influence of psychology. To say this another way, many people will reach similar cognitive conclusions from their analysis, but what they do with those conclusions varies all over the lot because psychology influences them differently. The biggest investing errors come not from factors that are informational or analytical, but from those that are psychological. Investor psychology includes many.</p>
-<p class="prose-p">Different elements which we will look at in this chapter, but the key thing to remember is that. They consistently lead to incorrect decisions. Much of this falls under the heading of, human nature. The first emotion that serves to undermine investors&#x27; efforts is the desire for money, especially as it morphs into greed.</p>
-<p class="prose-p">Most people invest to make money. Some participate as an intellectual exercise or because it’s a good field in which to vent their competitiveness, but even they keep score in terms of money. Money may not be everyone’s goal for its own sake, but it is everyone’s unit of account. People who don’t care about money generally don’t go into investing.</p>
-<p class="prose-p">There’s nothing wrong with trying to make money. Indeed, the desire for gain is one of the most important elements in the workings of the market and the overall economy. The danger comes when it moves on further to greed, which Merriam-Websters defines as an, inordinate or all-consuming and usually reprehensible acquisitiveness. Especially for wealth or gain.</p>
-<p class="prose-p">Greed is an extremely powerful force. It’s strong enough to. Overcome common sense, risk aversion, prudence, caution, logic, memory of painful past lessons, resolve, trepidation and all the other elements that might otherwise keep investors out of trouble. Instead, from time to time greed drives investors to throw in their lot with the crowd in pursuit of profit, and eventually they pay the price.</p>
-<p class="prose-p">The combination of greed and optimism repeatedly leads people to pursue strategies they hope will produce high returns without high risk, pay elevated prices for securities that are in vogue, and hold things after they have become highly priced in the hope there’s still some appreciation left. Afterwards, hindsight shows everyone what went wrong, that expectations were unrealistic and risks were ignored. Hindsight first, please, or, what were they thinking, October 17, 2005 the counterpart</p>
+<p class="prose-p">Now what? January 10, 2008 there are a few things of which we can be sure, and this is one, extreme market behavior will reverse. Those who believe that the pendulum will move in one direction forever, or reside at an extreme forever, eventually will lose huge sums. Those who understand the pendulum’s behavior can benefit enormously.
+
+#### Chapter 10 the most important thing is combating negative influences. The desire for more, the fear of missing out, the tendency to compare against others, the influence of the crowd and the dream of the sure thing, these factors are near universal.</p>
+<p class="prose-p">Thus they have a profound collective impact on most investors and most markets. The result is mistakes, and those mistakes are frequent, widespread and recurring. Inefficiencies, mispricings, misperceptions, mistakes that other people make, provide potential opportunities for superior performance. Exploiting them is, in fact, the only road to consistent outperformance.</p>
+<p class="prose-p">To distinguish yourself from the others, you need to be on the right side of those mistakes. Why do mistakes occur? Because investing is an action undertaken by human beings, most of whom are at the mercy of their psyches and emotions. Many people possess the intellect needed to analyze data, but far fewer are able to look more deeply into things and withstand the powerful influence of psychology.</p>
+<p class="prose-p">To say this another way, many people will reach similar cognitive conclusions from their analysis, but what they do with those conclusions varies all over the lot because psychology influences them differently. The biggest investing errors come not from factors that are informational or analytical, but from those that are psychological. Investor psychology includes many. Different elements which we will look at in this chapter, but the key thing to remember is that.</p>
+<p class="prose-p">They consistently lead to incorrect decisions. Much of this falls under the heading of, human nature. The first emotion that serves to undermine investors&#x27; efforts is the desire for money, especially as it morphs into greed. Most people invest to make money.</p>
+<p class="prose-p">Some participate as an intellectual exercise or because it’s a good field in which to vent their competitiveness, but even they keep score in terms of money. Money may not be everyone’s goal for its own sake, but it is everyone’s unit of account. People who don’t care about money generally don’t go into investing. There’s nothing wrong with trying to make money.</p>
+<p class="prose-p">Indeed, the desire for gain is one of the most important elements in the workings of the market and the overall economy. The danger comes when it moves on further to greed, which Merriam-Websters defines as an, inordinate or all-consuming and usually reprehensible acquisitiveness. Especially for wealth or gain. Greed is an extremely powerful force.</p>
+<p class="prose-p">It’s strong enough to. Overcome common sense, risk aversion, prudence, caution, logic, memory of painful past lessons, resolve, trepidation and all the other elements that might otherwise keep investors out of trouble. Instead, from time to time greed drives investors to throw in their lot with the crowd in pursuit of profit, and eventually they pay the price. The combination of greed and optimism repeatedly leads people to pursue strategies they hope will produce high returns without high risk, pay elevated prices for securities that are in vogue, and hold things after they have become highly priced in the hope there’s still some appreciation left.</p>
+<p class="prose-p">Afterwards, hindsight shows everyone what went wrong, that expectations were unrealistic and risks were ignored. Hindsight first, please, or, what were they thinking, October 17, 2005 the counterpart</p>
           </div>
         </section>
         
@@ -1506,8 +1633,9 @@
 <p class="prose-p">Enough to move whole markets, why shouldn’t they affect you, too? If a bull case is so powerful that it can make adults overlook elevated valuations and deny the impossibility of the perpetual, motion machine, why shouldn’t it have the same influence on you? If a scare story of unlimited loss is strong enough to make others sell at giveaway prices, what would keep it from doing the same to you? Believe me, it’s hard to resist buying at the top, and harder still to sell, when everyone else is buying, the pundits are positive, the rationale is widely accepted, prices are soaring and the biggest risk takers are reporting huge returns.</p>
 <p class="prose-p">It’s also hard to resist selling, and very tough to buy, when the opposite is true at the bottom and holding or buying appears to entail the risk of total loss. Like so many other things described in this book, there’s no simple solution, no formula that will tell you when the. Market has gone to an irrational extreme, no foolproof tool that will keep you on the right side. Of these decisions, no magic pill that will protect you against destructive emotions.</p>
 <p class="prose-p">As Charlie Munger says, it’s not supposed to be easy. What weapons might you marshal on your side to increase your odds? Here are the ones that work for Oaktree, a strongly held sense of intrinsic value, insistence on acting as you should when price diverges from value, enough conversance with past cycles, gained at first from reading and talking to veteran investors, and later through experience, to know that market excesses are ultimately punished, not rewarded, a thorough understanding of the insidious effect of psychology on the investing process at market extremes, a promise to remember that.</p>
-<p class="prose-p">When things seem too good to be true, they usually are, willingness to look wrong while the market goes from misvalued to more misvalued, as it invariably will, and like-minded friends end. Colleagues from whom to gain support, and for you to support. These things aren’t sure to. Do the job, but they can give you a fighting chance.</p>
-<h4 class="section-subhead">Chapter 11 The most important thing is contrarianism.</h4>
+<p class="prose-p">When things seem too good to be true, they usually are, willingness to look wrong while the market goes from misvalued to more misvalued, as it invariably will, and like-minded friends end. Colleagues from whom to gain support, and for you to support. These things aren’t sure to. Do the job, but they can give you a fighting chance.
+
+#### Chapter 11 The most important thing is contrarianism.</p>
 <p class="prose-p">To buy when others are despondently selling and to sell when others are euphorically buying takes the greatest courage, but provides the greatest profit, SIR John Templeton. There’s only one way to describe most investors, and followers. Superior investors are the exact opposite. Superior investing, as I hope I’ve convinced you by now, requires second-level thinking, a way of thinking that’s different from that of others, more complex and more insightful.</p>
 <p class="prose-p">By definition, most of the crowd can’t share it. Thus, the judgments of the crowd can’t hold the key to success. Rather, the trend, the consensus view, is something to game against, and the consensus portfolio is one to diverge from. As the pendulum swings or the market goes through its cycles, the key to ultimate success lies in doing the opposite.</p>
 <p class="prose-p">This is the core of Warren Buffett’s oft-quoted advice, the less prudence with which others conduct their affairs, the greater the prudence with which we should conduct our own affairs. He is urging us to do the opposite of what others do, to be contrarians. Doing the… same thing others do exposes you to fluctuations that in part are exaggerated by their… actions and your own. It’s certainly undesirable to be part of the herd when it stampedes off the cliff, but it takes rare skill, insight and discipline to avoid it.</p>
@@ -1594,10 +1722,11 @@
 <p class="prose-p">At that moment, being optimistic and buying was the ultimate act of contrarianism. Certain common threads run through the best investments I’ve witnessed. They’re usually contrarian, challenging and uncomfortable, although the experienced contrarian takes comfort from his or her position outside the herd. Whenever the debt market collapses, for example, most people say, we’re not going to try to catch a falling knife, it’s too dangerous.</p>
 <p class="prose-p">They usually add, we’re going to wait until the dust settles and the uncertainty is resolved. What they mean, of course, is that they’re frightened and unsure of what to do. The one. Thing I’m sure of is that by the time the knife has stopped falling, the dust has settled and the uncertainty has been resolved, there’ll be no great bargains left.</p>
 <p class="prose-p">When buying something has become comfortable again, its price will no longer be so low that it’s a great bargain. Thus, a hugely profitable investment that doesn’t begin with discomfort is usually an oxymoron. It’s our job as contrarians to catch falling knives, hopefully with care and skill. That’s why the concept of intrinsic value is so important.</p>
-<p class="prose-p">If we hold a view of value that enables us to buy when everyone else is selling, and if our view turns out to be right, that’s the route to the greatest rewards earned with the least risk.</p>
-<h4 class="section-subhead">Chapter 12 The Most Important Thing Is Finding Bargains The best opportunities are usually found among things most others won’t do.</h4>
-<p class="prose-p">The process of intelligently building a portfolio consists of buying the best investments, making room for them by selling lesser ones, and staying clear of the worst. The raw materials for the process consist of, a, a list of potential investments, b, estimates of their intrinsic value, c, a sense for how their prices compare with their intrinsic value, and, d, an understanding of the risks involved in each, and of the effect their inclusion would have on the portfolio being assembled. The first step is usually to make sure that the things being considered satisfy some absolute standards.</p>
-<p class="prose-p">Even sophisticated investors may not say, I’ll buy anything if it’s cheap enough. More often they create a list of investment candidates meeting their minimum criteria, and from those they choose the best bargains. That’s what this chapter is all about.</p>
+<p class="prose-p">If we hold a view of value that enables us to buy when everyone else is selling, and if our view turns out to be right, that’s the route to the greatest rewards earned with the least risk.
+
+#### Chapter 12 The Most Important Thing Is Finding Bargains The best opportunities are usually found among things most others won’t do. The process of intelligently building a portfolio consists of buying the best investments, making room for them by selling lesser ones, and staying clear of the worst.</p>
+<p class="prose-p">The raw materials for the process consist of, a, a list of potential investments, b, estimates of their intrinsic value, c, a sense for how their prices compare with their intrinsic value, and, d, an understanding of the risks involved in each, and of the effect their inclusion would have on the portfolio being assembled. The first step is usually to make sure that the things being considered satisfy some absolute standards. Even sophisticated investors may not say, I’ll buy anything if it’s cheap enough.</p>
+<p class="prose-p">More often they create a list of investment candidates meeting their minimum criteria, and from those they choose the best bargains. That’s what this chapter is all about.</p>
 <p class="prose-p">For example, an investor might start by narrowing the list of possibilities to those whose riskiness falls within acceptable limits since there can be risks with which certain investors aren’t comfortable. Examples might include the risk of obsolescence in a fast-moving segment of the technology world and the risk that a hot consumer product will lose its popularity. These might be subjects that some investors consider beyond their expertise. Or investors might find some companies unacceptable in the absolute because their industries are too unpredictable or their financial statements aren’t sufficiently transparent.</p>
 <p class="prose-p">It’s not unreasonable to want to emphasize assets that fall within a certain portion of the risk spectrum. Securities that the market deems ultra-safe may offer uninteresting returns, while securities at the other extreme may exceed investors&#x27; risk tolerance.</p>
 <p class="prose-p">In other words, there can reasonably be some places investors won’t go, regardless of price. Not only can there be risks investors don’t want to take,</p>
@@ -1667,8 +1796,9 @@
 <p class="prose-p">No one had a good word to say about any of them. Each exemplified the uncomfortably idiosyncratic and imprudent, appearing investments that David Swenson talked about in chapter 11. And thus each turned into a great place to be for the next 20 or 30 years. I hope these large scale examples give.</p>
 <p class="prose-p">You a good idea for where bargains may be found. Since bargains provide value at. Unreasonably low prices, and thus unusual ratios of return to risk, they represent the holy grail for investors. Such deals shouldn’t exist in an efficient market for the reason specified.</p>
 <p class="prose-p">In chapter 2. However, everything in my experience tells me that while bargains aren’t the rule, the forces that are supposed to eliminate them often fail to do so. We’re active investors because we believe we can beat the market by identifying superior opportunities.</p>
-<p class="prose-p">On the other hand, many of the special deals we’re offered are too good to be true, and avoiding them is essential for investment success. Thus, as with so many things, the optimism that drives one to be an active investor and the skepticism that emerges from the presumption of market efficiency must be balanced. It’s obvious that investors can be forced into mistakes by psychological weakness, analytical error or refusal to tread on uncertain ground. Those mistakes create bargains for second-level thinkers capable of seeing the errors of others.</p>
-<h4 class="section-subhead">Chapter 13 The most important thing is patient opportunism.</h4>
+<p class="prose-p">On the other hand, many of the special deals we’re offered are too good to be true, and avoiding them is essential for investment success. Thus, as with so many things, the optimism that drives one to be an active investor and the skepticism that emerges from the presumption of market efficiency must be balanced. It’s obvious that investors can be forced into mistakes by psychological weakness, analytical error or refusal to tread on uncertain ground. Those mistakes create bargains for second-level thinkers capable of seeing the errors of others.
+
+#### Chapter 13 The most important thing is patient opportunism.</p>
 <p class="prose-p">The market’s not a very accommodating machine, it won’t provide high returns just because</p>
           </div>
         </section>
@@ -1770,12 +1900,12 @@
             <p class="prose-p">to cover their loans, perhaps 75 or 80 cents on the dollar. Any excess would go to the investor, but the banks didn’t care about generating anything for them. Thus, BWICs took place at incredibly low prices. Loan prices eventually fell into the 60s, and every holder on short-term credit who couldn’t access additional capital was likely wiped out.</p>
 <p class="prose-p">Selling prices were ridiculous. The declines on senior loan indices in 2008 exceeded those on subordinated high-yield bond indices, certainly signaling them. Inefficiency. You could buy first-lean debt at prices from which you would break even if the.</p>
 <p class="prose-p">Issuing company turned out to be worth 20 to 40 percent of what a buyout fund had paid for it just a year or two earlier. The promised yields were very large, and in fact much of this paper appreciated dramatically in 2009. This was a time for the patient opportunist to step forward. It was primarily those who had been cognizant of the risks in 2006 and 2007 and kept their powder dry, waiting for opportunity, who were able to do so.</p>
-<p class="prose-p">The key during a crisis is to be, a. insulated from the forces that require selling and, b. positioned to be a buyer instead. To satisfy those criteria, an investor needs the following things, staunch reliance on you, little or no use of leverage, long-term capital and a strong stomach. Patient opportunism, buttressed by a contrarian attitude and a strong balance sheet, can yield amazing profits during meltdowns.</p>
-<h4 class="section-subhead">Chapter 14 The Most Important Thing Is Knowing What You Don’t Know.</h4>
-<p class="prose-p">We have two classes of forecasters, those who don’t know, and those who don’t know they don’t know, John Kenneth Galbraith it’s frightening to think that you might not know something, but more frightening to think that, by and large, the world is run by people who have faith that they know exactly what’s going on, Amos Tversky. There are two kinds of people who lose money, those who know nothing and those who know everything, Henry Kaufman. I’ve chosen three quotes with which to lead off this chapter, and I have a million more where those came from.</p>
-<p class="prose-p">Awareness of the limited extent of our foreknowledge is an essential component of my approach to investing. I’m firmly convinced that, A, it’s hard to know what. The macro future holds and, B, few people possess superior knowledge of these matters that can regularly be turned into an investing advantage. There are two caveats, however, the more we concentrate on smaller, picture things, the more it’s possible to gain a knowledge advantage.</p>
-<p class="prose-p">With hard work and skill, we can consistently know more than the next person about individual companies and securities, but that’s much less likely with regard to markets and economies. Thus, I suggest people try to, know the knowable. An exception comes in the form of my suggestion, on which I elaborate in the next chapter, that investors should make an effort to figure out where they stand at a moment in time in terms of cycles and pendulums. That won’t render the future twists and turns knowable, but it can help one prepare for likely developments.</p>
-<p class="prose-p">I am not going to try to prove my contention that the future, is unknowable. You can’t prove a negative, and that certainly includes this one.</p>
+<p class="prose-p">The key during a crisis is to be, a. insulated from the forces that require selling and, b. positioned to be a buyer instead. To satisfy those criteria, an investor needs the following things, staunch reliance on you, little or no use of leverage, long-term capital and a strong stomach. Patient opportunism, buttressed by a contrarian attitude and a strong balance sheet, can yield amazing profits during meltdowns.
+
+#### Chapter 14 The Most Important Thing Is Knowing What You Don’t Know. We have two classes of forecasters, those who don’t know, and those who don’t know they don’t know, John Kenneth Galbraith it’s frightening to think that you might not know something, but more frightening to think that, by and large, the world is run by people who have faith that they know exactly what’s going on, Amos Tversky.</p>
+<p class="prose-p">There are two kinds of people who lose money, those who know nothing and those who know everything, Henry Kaufman. I’ve chosen three quotes with which to lead off this chapter, and I have a million more where those came from. Awareness of the limited extent of our foreknowledge is an essential component of my approach to investing. I’m firmly convinced that, A, it’s hard to know what.</p>
+<p class="prose-p">The macro future holds and, B, few people possess superior knowledge of these matters that can regularly be turned into an investing advantage. There are two caveats, however, the more we concentrate on smaller, picture things, the more it’s possible to gain a knowledge advantage. With hard work and skill, we can consistently know more than the next person about individual companies and securities, but that’s much less likely with regard to markets and economies. Thus, I suggest people try to, know the knowable.</p>
+<p class="prose-p">An exception comes in the form of my suggestion, on which I elaborate in the next chapter, that investors should make an effort to figure out where they stand at a moment in time in terms of cycles and pendulums. That won’t render the future twists and turns knowable, but it can help one prepare for likely developments. I am not going to try to prove my contention that the future, is unknowable. You can’t prove a negative, and that certainly includes this one.</p>
 <p class="prose-p">However, I, have yet to meet anyone who consistently knows what lies ahead macro-wise. Of all the economists and strategists you follow, are any correct most of the time. My research on this subject, and I use quotation marks because my efforts in the area are too limited and anecdotal to be considered serious research, has consisted primarily of reading forecasts and observing their lack of utility. I wrote two memos as a result, The Value of Predictions, or Where’d All This Rain Come From.</p>
 <p class="prose-p">February 15, 1993, and, The Value of Predictions 2, or Give That Man a Cigar, August 22, 1996. In the second memo, I used data from three semiannual Wall Street Journal economic polls to examine the usefulness of forecasts.</p>
 <p class="prose-p">First, were the forecasts generally accurate? The answer was clearly no. On average, the predictions for the 90-day T-bill rate, 30-year bond rate and yen-slash-dollar exchange rate 6 and 12 months out were off by 15%. The average forecaster missed the. First rate on the long bond 6 months later by 96 basis points, a divergence big enough.</p>
@@ -1841,12 +1971,12 @@
 <p class="prose-p">Touchstones November 10, 2009 if you know the future, it’s silly to play defense. You should behave aggressively and target the greatest winners, there can be no loss to fear. Diversification is unnecessary, and maximum leverage can be employed.</p>
 <p class="prose-p">In fact, being unduly modest about what you know can result in opportunity costs, for gone profits. On the other hand, if you don’t know what the future holds, it’s foolhardy to act as if you do. Harkening back to Amos Tversky in the powerful quote that opened this chapter, the bottom line is clear. Investing in an unknowable future as an agnostic is a daunting prospect, but if foreknowledge is elusive, investing as if you know what’s coming is close to nuts.</p>
 <p class="prose-p">Maybe Mark Twain put it best, it ain’t what you don’t know that gets you into trouble. It’s what you know for sure that just ain’t so. Overestimating what you’re capable of knowing or doing can be extremely dangerous. In brain surgery, trans-ocean racing or investing.</p>
-<p class="prose-p">Acknowledging the boundaries of what you can know, and working within those limits rather than venturing beyond, can give you a great advantage.</p>
-<h4 class="section-subhead">Chapter 15 the most important thing is having a sense for where we stand.</h4>
-<p class="prose-p">We may never know where we’re going, but we better have a good idea where we are. Market cycles present the investor with a daunting challenge, given that, their ups and downs are inevitable. They will profoundly influence our performance as investors. They are unpredictable as to extent and, especially, timing.</p>
-<p class="prose-p">So we have to cope with a force that will have great impact but is largely unknowable. What, then, are we to do about cycles? The question is of vital importance, but the obvious answers, as so often, are not the right ones. The first possibility is that rather than accept that cycles are unpredictable, we should redouble our efforts to predict the future, throwing added resources into the battle and betting increasingly on our conclusions.</p>
-<p class="prose-p">But a great deal of data, and all my experience, tell me that the only thing we can predict about cycles is their inevitability. Further, superior results in investing come from knowing more than others, and it hasn’t been demonstrated to. My satisfaction that a lot of people know more than the consensus about the timing and content of future cycles. The second possibility is to accept that the future isn’t knowable, throw up our hands, and simply ignore cycles.</p>
-<p class="prose-p">Instead of trying to predict them, we could try to make good investments and hold them throughout. Since we can’t know when to hold more or less of them, or when our investment posture should become more aggressive or more defensive, we could simply invest with total disregard for cycles and their profound effect.</p>
+<p class="prose-p">Acknowledging the boundaries of what you can know, and working within those limits rather than venturing beyond, can give you a great advantage.
+
+#### Chapter 15 the most important thing is having a sense for where we stand. We may never know where we’re going, but we better have a good idea where we are. Market cycles present the investor with a daunting challenge, given that, their ups and downs are inevitable. They will profoundly influence our performance as investors.</p>
+<p class="prose-p">They are unpredictable as to extent and, especially, timing. So we have to cope with a force that will have great impact but is largely unknowable. What, then, are we to do about cycles? The question is of vital importance, but the obvious answers, as so often, are not the right ones.</p>
+<p class="prose-p">The first possibility is that rather than accept that cycles are unpredictable, we should redouble our efforts to predict the future, throwing added resources into the battle and betting increasingly on our conclusions. But a great deal of data, and all my experience, tell me that the only thing we can predict about cycles is their inevitability. Further, superior results in investing come from knowing more than others, and it hasn’t been demonstrated to. My satisfaction that a lot of people know more than the consensus about the timing and content of future cycles.</p>
+<p class="prose-p">The second possibility is to accept that the future isn’t knowable, throw up our hands, and simply ignore cycles. Instead of trying to predict them, we could try to make good investments and hold them throughout. Since we can’t know when to hold more or less of them, or when our investment posture should become more aggressive or more defensive, we could simply invest with total disregard for cycles and their profound effect.</p>
           </div>
         </section>
         
@@ -1924,9 +2054,9 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">My response is simple, try to figure out what’s going on around us, and use that to guide our actions.</p>
-<h4 class="section-subhead">Chapter 16 the most important thing is appreciating the role of luck.</h4>
-<p class="prose-p">Every once in a while, someone makes a risky bet on an improbable or uncertain outcome and ends up looking like a genius. But we should recognize that it happened because of luck and boldness, not skill. The investment world is not an orderly and logical place where the future can be predicted and specific actions always produce specific results.</p>
+            <p class="prose-p">My response is simple, try to figure out what’s going on around us, and use that to guide our actions.
+
+#### Chapter 16 the most important thing is appreciating the role of luck. Every once in a while, someone makes a risky bet on an improbable or uncertain outcome and ends up looking like a genius. But we should recognize that it happened because of luck and boldness, not skill. The investment world is not an orderly and logical place where the future can be predicted and specific actions always produce specific results.</p>
 <p class="prose-p">The truth is, much in investing is ruled by luck. Some may prefer to call it chance or randomness, and those words do sound more sophisticated than luck. But it comes down to the same thing, a great deal of the success of everything we do as investors will be heavily influenced by the role of the dice. To fully explore the notion of luck, in this chapter 1 want to advance some ideas expressed by Nasim Nicholas Taleb in his book Fooled by Randomness.</p>
 <p class="prose-p">Some of the concepts I explore here occurred to me before I read it, but Taleb’s book put it all together for me and added more. I consider it one of the most important books an investor can read. I borrowed some of Taleb’s ideas for a 2002 memo titled, Returns and How They Get That Way, which incorporated excerpts from Fooled by Randomness, represented here by italics. Randomness or luck, plays a huge part in life’s results and outcomes that hinge on random.</p>
 <p class="prose-p">Events should be viewed as different from those that do not. Thus, when considering whether an investment record is likely to be repeated, it is essential to think about the role of randomness in the manager’s results and whether the performance resulted from skill or simply being lucky. $10 million earned through Russian roulette does not have the same value as $10 million earned through the diligent and artful practice of dentistry. They are the same, can buy the same goods, except that one’s dependence on randomness is greater than the other.</p>
@@ -1992,8 +2122,9 @@
           <div class="section-body">
             <p class="prose-p">Everything I believe and recommend about investing proceeds from that school of thought. We should spend our time trying to find value among the knowable, industries, companies, and securities, rather than base our decisions on what we expect from the less knowable macro world of economies and broad market performance. Given that we don’t know exactly which future we’ll obtain, we have to get value on our side by having a strongly held, analytically-derived opinion of it and buying for less when opportunities to do so present themselves.</p>
 <p class="prose-p">We have to practice defensive investing, since many of the outcomes are likely to go against us. It’s more important to ensure survival under negative outcomes than it is to guarantee maximum returns under favorable ones, to improve our chances of success. We have to emphasize acting contrary to the herd when it’s at extremes, being aggressive when the market is low and cautious when it’s high. Given the highly indeterminate nature of outcomes, we must view strategies and their results, both good and bad, with suspicion until proved out over a large number of trials.</p>
-<p class="prose-p">Several things go together for those who view the world as an uncertain place, healthy respect for risk, awareness that we don’t know what the future holds, and understanding that the best we can do is view the future as a probability distribution and invest accordingly, insistence on defensive investing, and emphasis on avoiding pitfalls. To me that’s what thoughtful investing is all about.</p>
-<h4 class="section-subhead">Chapter 17 The Most Important Thing Is Investing Defensively There are old investors, and there are bold investors, but there are no old bold investors.</h4>
+<p class="prose-p">Several things go together for those who view the world as an uncertain place, healthy respect for risk, awareness that we don’t know what the future holds, and understanding that the best we can do is view the future as a probability distribution and invest accordingly, insistence on defensive investing, and emphasis on avoiding pitfalls. To me that’s what thoughtful investing is all about.
+
+#### Chapter 17 The Most Important Thing Is Investing Defensively There are old investors, and there are bold investors, but there are no old bold investors.</p>
 <p class="prose-p">When friends ask me for personal investment advice, my first step is to try to understand their attitude toward risk and return. Asking for investment advice without specifying that is like asking a doctor for a good medicine without telling him or her what ails you. So I ask, which do you care about more, making money or avoiding losses? The answer is invariably the same, both.</p>
 <p class="prose-p">The problem is that you can’t simultaneously go all out for both profit making and loss avoidance. Each investor has to take a position regarding these two goals, and usually that requires striking a reasonable balance. The decision should be made consciously and rationally. This chapter’s about the choice and my recommendation.</p>
 <p class="prose-p">The best way to put this decision into perspective is by thinking of it in terms of offense versus defense. And one of the best ways to consider this is through the metaphor of sports. 2. Establish the groundwork for this discussion, I’ll refer to the wonderful article by Charles Ellis. Titled, The Loser’s Game, that appeared in the Financial Analysts Journal in 1975.</p>
@@ -2115,10 +2246,11 @@
 <p class="prose-p">For the thoughtful investor, however, the answer is that. Defense can provide good returns achieved consistently, while offense may consist of. Dreams that often go unmet. For me, defense is the way to go.</p>
 <p class="prose-p">Investing defensively can cause you to miss out on things that are hot and get hotter, and it can leave you with your bat on your shoulder in trip after trip to the plate. You may hit fewer home runs than another. Investor but you’re also likely to have fewer strikeouts and fewer inning ending double plays. Defensive investing sounds very erudite, but I can simplify it, invest scared.</p>
 <p class="prose-p">Worry about the possibility of loss. Worry that there’s something you don’t know. Worry that you can make high-quality decisions but still be hit by bad luck or surprise events. Investing scared will prevent hubris, will keep your guard up and your mental adrenaline flowing, will make you insist on adequate margin of safety, and will increase the chances that your portfolio is prepared for things going wrong.</p>
-<p class="prose-p">And if nothing does go wrong, surely the winners will take care of themselves. The most important thing, July 1, 2003.</p>
-<h4 class="section-subhead">Chapter 18 the most important thing is avoiding pitfalls.</h4>
-<p class="prose-p">An investor needs do very few things right as long as he avoids big mistakes, Warren Buffett. In my book, trying to avoid losses is more important than striving for great investment successes. The latter can be achieved some of the time, but the occasional failures may be crippling. The former can be done more often and more dependably and with consequences when it fails that are more tolerable.</p>
-<p class="prose-p">With a risky portfolio, a downward fluctuation may make you lose faith or be sold out at the low. A portfolio that contains too little risk can make you underperform in a bull market, but no one ever went bust from that, there are far worse fates. To avoid losses, we need to understand and avoid the pitfalls that create them. In this chapter 1 bring together some of the key issues discussed in earlier chapters in the hope that highlighting them under one umbrella will help investors become</p>
+<p class="prose-p">And if nothing does go wrong, surely the winners will take care of themselves. The most important thing, July 1, 2003.
+
+#### Chapter 18 the most important thing is avoiding pitfalls. An investor needs do very few things right as long as he avoids big mistakes, Warren Buffett. In my book, trying to avoid losses is more important than striving for great investment successes.</p>
+<p class="prose-p">The latter can be achieved some of the time, but the occasional failures may be crippling. The former can be done more often and more dependably and with consequences when it fails that are more tolerable. With a risky portfolio, a downward fluctuation may make you lose faith or be sold out at the low. A portfolio that contains too little risk can make you underperform in a bull market, but no one ever went bust from that, there are far worse fates.</p>
+<p class="prose-p">To avoid losses, we need to understand and avoid the pitfalls that create them. In this chapter 1 bring together some of the key issues discussed in earlier chapters in the hope that highlighting them under one umbrella will help investors become</p>
           </div>
         </section>
         
@@ -2262,8 +2394,9 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">in mind that in addition to times when the errors are of commission, example, buying, and times when they are of omission, failing to buy, there are times when there’s no glaring error. When investor psychology is at equilibrium and fear and greed are balanced, asset prices are likely to be fair relative to value. In that case, there may be no compelling action and it’s important to know that too. When there’s nothing particularly clever to do, the potential pitfall lies in insisting on being clever.</p>
-<h4 class="section-subhead">Chapter 19 The Most Important Thing Is Adding Value.</h4>
+            <p class="prose-p">in mind that in addition to times when the errors are of commission, example, buying, and times when they are of omission, failing to buy, there are times when there’s no glaring error. When investor psychology is at equilibrium and fear and greed are balanced, asset prices are likely to be fair relative to value. In that case, there may be no compelling action and it’s important to know that too. When there’s nothing particularly clever to do, the potential pitfall lies in insisting on being clever.
+
+#### Chapter 19 The Most Important Thing Is Adding Value.</p>
 <p class="prose-p">The performance of investors who add value is asymmetrical. The percentage of the market’s gain they capture is higher than the percentage of loss they suffer. Only skill can be counted on to add more in propitious environments than it costs in hostile ones. This is the investment asymmetry we seek.</p>
 <p class="prose-p">It’s not hard to perform in line with the market in terms of risk and return. The trick is to do better than the market, to add value. This calls for superior investment skill, superior insight. So here, near the end of the book, we come around full circle to the first chapter and second level thinkers possessing exceptional skill.</p>
 <p class="prose-p">The purpose of this chapter is to explain what it means for skillful investors to add value. To accomplish that, I’m going to introduce two terms from investment theory. One is beta, a measure of a portfolio’s relative sensitivity to market movements. The other is alpha, which I define as personal investment skill or the ability to generate performance that is unrelated to movement of the market.</p>
@@ -2313,8 +2446,9 @@
 <p class="prose-p">This is the investment asymmetry we seek. Superior skill is the prerequisite for it. Here’s how I describe Oaktree’s performance aspirations. In good years in the market, it’s good enough to be average.</p>
 <p class="prose-p">Everyone makes money in the good years, and I have yet to hear anyone explain convincingly why it’s important to beat the market when the market does well. No, in the good year’s average is good enough. There is a time, however, when we consider it essential to beat the market, and that’s in the bad years. Our clients don’t expect to bear the full brunt of market losses when they occur, and neither do we.</p>
 <p class="prose-p">Thus, it’s our goal to do as well as the market and it does well and better than the market when it does poorly. At first blush, that may sound like a modest goal, but it’s really quite ambitious. In order to stay up with the market when it does, well, a portfolio has to incorporate good measures of beta and correlation with the market. But if we’re aided by beta and correlation on the way up, shouldn’t they be expected to hurt us on the way down?</p>
-<p class="prose-p">If we’re consistently able to decline less when the market declines and also participate fully when the market rises, this can be attributable to only one thing, alpha, or skill. That’s an example of value-added investing, and if demonstrated over a period of decades, it has to come from investment skill. Asymmetry, better performance on the upside than on the downside relative to what your style alone would produce, should be every investor’s goal.</p>
-<h4 class="section-subhead">Chapter 20 The most important thing is pulling it all together.</h4>
+<p class="prose-p">If we’re consistently able to decline less when the market declines and also participate fully when the market rises, this can be attributable to only one thing, alpha, or skill. That’s an example of value-added investing, and if demonstrated over a period of decades, it has to come from investment skill. Asymmetry, better performance on the upside than on the downside relative to what your style alone would produce, should be every investor’s goal.
+
+#### Chapter 20 The most important thing is pulling it all together.</p>
 <p class="prose-p">The best foundation for a successful investment, or a successful investment career, is value. You must have a good idea of what the thing you’re considering buying is worth. There are many components to this and many ways to look at it. To oversimplify, there’s cash on the books and the value of the tangible assets, the ability of the company or asset to generate cash, and the potential for these things to increase.</p>
 <p class="prose-p">To achieve superior investment results, your insight into value has to be superior. THS you must learn things others don’t, see things differently or do a better job of analyzing them, ideally, all free. Your view of value has to be based on a solid factual and analytical foundation, and it has to be held firmly. Only then will you know when to buy or sell.</p>
 <p class="prose-p">Only a strong sense of value will give you the discipline needed to take profits on a highly appreciated asset that everyone thinks will rise non-stop, or the guts to hold an average down in a crisis even as prices go lower every day. Of course, for your efforts in these regards to be profitable, your estimate of value has to be on target. The relationship between price and value holds the ultimate key to investment success. Paying below value is the most dependable route to profit.</p>
@@ -2550,6 +2684,204 @@
 
     document.getElementById('scroll-top-btn').addEventListener('click', () => {
       window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    // ==========================================
+    // IN-PAGE CONTENT SEARCH (單書全文搜尋)
+    // ==========================================
+    const searchBar = document.getElementById('inpage-search-bar');
+    const searchInput = document.getElementById('inpage-search-input');
+    const searchCount = document.getElementById('inpage-search-count');
+    const searchDrawer = document.getElementById('inpage-search-drawer');
+    const searchDrawerList = document.getElementById('inpage-search-drawer-list');
+    const searchToggleBtn = document.getElementById('search-toggle-btn');
+    const searchClearBtn = document.getElementById('inpage-search-clear');
+    const searchPrevBtn = document.getElementById('inpage-search-prev');
+    const searchNextBtn = document.getElementById('inpage-search-next');
+    const searchCloseBtn = document.getElementById('inpage-search-close');
+    const drawerCloseBtn = document.getElementById('inpage-drawer-close');
+
+    let searchMatches = [];
+    let currentMatchIdx = -1;
+
+    // Cache original innerHTML for clean resets
+    const rawParagraphs = Array.from(document.querySelectorAll('.section-body p')).map(p => ({
+      el: p,
+      rawHtml: p.innerHTML,
+      rawText: p.textContent
+    }));
+
+    function openSearch() {
+      searchBar.classList.add('active');
+      searchInput.focus();
+      searchInput.select();
+      if (searchInput.value.trim()) {
+        performSearch(searchInput.value.trim());
+      }
+    }
+
+    function closeSearch() {
+      searchBar.classList.remove('active');
+      searchDrawer.classList.remove('active');
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchCount.textContent = '0 / 0';
+    }
+
+    function clearHighlights() {
+      rawParagraphs.forEach(item => {
+        item.el.innerHTML = item.rawHtml;
+      });
+    }
+
+    function escapeRegex(str) {
+      return str.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+    }
+
+    function escapeHtml(str) {
+      return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+
+    function performSearch(query) {
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchDrawerList.innerHTML = '';
+
+      if (!query || query.trim().length === 0) {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+        return;
+      }
+
+      query = query.trim();
+      const qLower = query.toLowerCase();
+      const regex = new RegExp(`(${escapeRegex(query)})`, 'gi');
+
+      rawParagraphs.forEach((item, pIdx) => {
+        if (item.rawText.toLowerCase().includes(qLower)) {
+          const sec = item.el.closest('.transcript-section');
+          const secTime = sec ? (sec.querySelector('.section-time')?.textContent || '') : '';
+          const secId = sec ? sec.id : '';
+
+          // Apply highlight
+          item.el.innerHTML = item.rawHtml.replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const marks = Array.from(item.el.querySelectorAll('mark.search-highlight'));
+          marks.forEach(mark => {
+            searchMatches.push({
+              mark,
+              el: item.el,
+              secTime,
+              secId
+            });
+          });
+
+          // Snippet creation
+          const matchPos = item.rawText.toLowerCase().indexOf(qLower);
+          const start = Math.max(0, matchPos - 30);
+          const end = Math.min(item.rawText.length, matchPos + query.length + 50);
+          const snippetText = item.rawText.slice(start, end);
+          const snippetHtml = escapeHtml(snippetText).replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const card = document.createElement('div');
+          card.className = 'search-result-item';
+          card.innerHTML = `
+            <div class="search-result-time">${secTime}</div>
+            <div class="search-result-snippet">...${snippetHtml}...</div>
+          `;
+          card.addEventListener('click', () => {
+            const targetIdx = searchMatches.findIndex(m => m.mark === marks[0]);
+            if (targetIdx >= 0) goToMatch(targetIdx);
+          });
+          searchDrawerList.appendChild(card);
+        }
+      });
+
+      if (searchMatches.length > 0) {
+        searchDrawer.classList.add('active');
+        goToMatch(0);
+      } else {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+      }
+    }
+
+    function goToMatch(idx) {
+      if (idx < 0 || idx >= searchMatches.length) return;
+      if (currentMatchIdx >= 0 && searchMatches[currentMatchIdx]) {
+        searchMatches[currentMatchIdx].mark.classList.remove('active-match');
+      }
+      currentMatchIdx = idx;
+      const target = searchMatches[currentMatchIdx];
+      target.mark.classList.add('active-match');
+      searchCount.textContent = `${currentMatchIdx + 1} / ${searchMatches.length}`;
+
+      // Highlight active drawer item
+      const drawerItems = searchDrawerList.querySelectorAll('.search-result-item');
+      drawerItems.forEach(di => di.classList.remove('active'));
+
+      target.mark.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+
+    searchToggleBtn.addEventListener('click', () => {
+      if (searchBar.classList.contains('active')) {
+        closeSearch();
+      } else {
+        openSearch();
+      }
+    });
+
+    let debounceTimer;
+    searchInput.addEventListener('input', (e) => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => {
+        performSearch(e.target.value);
+      }, 200);
+    });
+
+    searchClearBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      performSearch('');
+      searchInput.focus();
+    });
+
+    searchNextBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const nextIdx = (currentMatchIdx + 1) % searchMatches.length;
+      goToMatch(nextIdx);
+    });
+
+    searchPrevBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const prevIdx = (currentMatchIdx - 1 + searchMatches.length) % searchMatches.length;
+      goToMatch(prevIdx);
+    });
+
+    searchInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        if (e.shiftKey) {
+          searchPrevBtn.click();
+        } else {
+          searchNextBtn.click();
+        }
+      } else if (e.key === 'Escape') {
+        closeSearch();
+      }
+    });
+
+    searchCloseBtn.addEventListener('click', closeSearch);
+    drawerCloseBtn.addEventListener('click', () => searchDrawer.classList.remove('active'));
+
+    window.addEventListener('keydown', (e) => {
+      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'f') {
+        e.preventDefault();
+        openSearch();
+      } else if (e.key === 'Escape') {
+        if (searchBar.classList.contains('active')) closeSearch();
+      }
     });
   </script>
 </body>

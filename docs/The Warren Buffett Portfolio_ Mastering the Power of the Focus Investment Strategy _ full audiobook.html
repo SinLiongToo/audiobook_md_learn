@@ -66,26 +66,12 @@
       --card-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
     }
 
-    [data-line-height="compact"] {
-      --line-height: 1.68;
-    }
-    [data-line-height="normal"] {
-      --line-height: 1.88;
-    }
-    [data-line-height="loose"] {
-      --line-height: 2.12;
-    }
+    [data-line-height="compact"] { --line-height: 1.68; }
+    [data-line-height="normal"] { --line-height: 1.88; }
+    [data-line-height="loose"] { --line-height: 2.12; }
 
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
-    html {
-      scroll-behavior: smooth;
-    }
-
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
     body {
       font-family: var(--font-family);
       font-size: var(--font-size);
@@ -119,7 +105,7 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 0 20px;
+      padding: 0 18px;
       background-color: var(--bg-header);
       backdrop-filter: blur(8px);
       -webkit-backdrop-filter: blur(8px);
@@ -129,7 +115,7 @@
     .header-left, .header-right {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 8px;
       flex-wrap: nowrap;
     }
 
@@ -138,7 +124,7 @@
       border: 1px solid var(--border-color);
       color: var(--text-primary);
       cursor: pointer;
-      font-size: 14px;
+      font-size: 13.5px;
       padding: 6px 10px;
       border-radius: 8px;
       display: inline-flex;
@@ -147,6 +133,7 @@
       transition: all 0.2s;
       white-space: nowrap;
       user-select: none;
+      text-decoration: none;
     }
     .btn-icon:hover {
       background-color: var(--accent-light);
@@ -161,11 +148,132 @@
       font-size: 14px;
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
+    }
+    .home-link:hover { color: var(--accent-color); }
+
+    /* In-Page Search Bar Dropdown */
+    .inpage-search-bar {
+      position: sticky;
+      top: 60px;
+      z-index: 890;
+      background-color: var(--bg-surface);
+      border-bottom: 1px solid var(--border-color);
+      padding: 10px 18px;
+      display: none;
+      align-items: center;
+      gap: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    }
+    .inpage-search-bar.active { display: flex; }
+
+    .inpage-search-input-wrapper {
+      flex: 1;
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    .inpage-search-input {
+      width: 100%;
+      padding: 8px 36px 8px 12px;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      font-size: 14px;
+    }
+    .inpage-search-input:focus { outline: 2px solid var(--accent-color); }
+
+    .inpage-search-clear {
+      position: absolute;
+      right: 10px;
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 16px;
     }
 
-    .home-link:hover {
+    .inpage-search-count {
+      font-size: 13px;
+      color: var(--text-secondary);
+      font-family: monospace;
+      white-space: nowrap;
+    }
+    .search-nav-btns { display: flex; gap: 6px; }
+
+    /* In-Page Search Results Drawer */
+    .inpage-search-drawer {
+      position: fixed;
+      right: 20px;
+      top: 120px;
+      width: 360px;
+      max-height: calc(100vh - 160px);
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+      z-index: 895;
+      display: none;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .inpage-search-drawer.active { display: flex; }
+    .inpage-search-drawer-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-weight: 600;
+      font-size: 14px;
+    }
+    .inpage-search-drawer-list {
+      overflow-y: auto;
+      padding: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .search-result-item {
+      padding: 10px 12px;
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+      background: var(--bg-primary);
+      cursor: pointer;
+      font-size: 13px;
+      transition: all 0.15s;
+    }
+    .search-result-item:hover, .search-result-item.active {
+      border-color: var(--accent-color);
+      background: var(--accent-light);
+    }
+    .search-result-time {
+      font-weight: 700;
       color: var(--accent-color);
+      font-family: monospace;
+      margin-bottom: 4px;
+    }
+    .search-result-snippet {
+      color: var(--text-primary);
+      line-height: 1.5;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    /* Highlight mark */
+    mark.search-highlight {
+      background-color: #fef08a;
+      color: #1f2937;
+      padding: 1px 3px;
+      border-radius: 3px;
+    }
+    mark.search-highlight.active-match {
+      background-color: #f97316;
+      color: #ffffff;
+      outline: 2px solid #ea580c;
     }
 
     /* Layout Wrapper */
@@ -212,9 +320,7 @@
       font-size: 13px;
       margin-bottom: 14px;
     }
-    .toc-search:focus {
-      outline: 2px solid var(--accent-color);
-    }
+    .toc-search:focus { outline: 2px solid var(--accent-color); }
 
     .toc-list {
       list-style: none;
@@ -237,12 +343,10 @@
       overflow: hidden;
       text-overflow: ellipsis;
     }
-
     .toc-item a:hover {
       background-color: var(--accent-light);
       color: var(--accent-color);
     }
-
     .toc-item.active a {
       background-color: var(--accent-color);
       color: #ffffff;
@@ -257,19 +361,17 @@
       display: flex;
       justify-content: center;
     }
-
     .reader-container {
       width: 100%;
       max-width: var(--content-max-width);
     }
 
-    /* Book Hero / Header */
+    /* Book Hero */
     .book-hero {
       margin-bottom: 40px;
       padding-bottom: 24px;
       border-bottom: 2px solid var(--border-color);
     }
-
     .book-hero h1 {
       font-size: 2.1em;
       line-height: 1.35;
@@ -285,7 +387,6 @@
       gap: 10px;
       margin-top: 14px;
     }
-
     .meta-chip {
       display: inline-flex;
       align-items: center;
@@ -297,8 +398,13 @@
       font-size: 13px;
       font-weight: 500;
     }
+    .meta-chip.cat-badge {
+      background-color: #10b98122;
+      color: #10b981;
+      font-weight: 600;
+    }
 
-    /* Content Typography & Enhanced Paragraphs */
+    /* Content Typography */
     .transcript-section {
       margin-bottom: 50px;
       scroll-margin-top: 80px;
@@ -349,25 +455,22 @@
       letter-spacing: 0.015em;
     }
 
-    /* Indented paragraph style (Traditional) */
+    /* Indented paragraph style */
     [data-p-style="indent"] .section-body p {
       text-indent: 2em;
       margin-bottom: 1.15em;
       line-height: var(--line-height);
     }
 
-    /* Block paragraph style (Modern with whitespace) */
+    /* Block paragraph style */
     [data-p-style="block"] .section-body p {
       text-indent: 0;
       margin-bottom: 1.55em;
       line-height: var(--line-height);
     }
+    .section-body p:last-child { margin-bottom: 0; }
 
-    .section-body p:last-child {
-      margin-bottom: 0;
-    }
-
-    /* Floating Navigation Controls */
+    /* Floating Tools */
     .floating-tools {
       position: fixed;
       bottom: 24px;
@@ -377,7 +480,6 @@
       gap: 10px;
       z-index: 800;
     }
-
     .float-btn {
       width: 44px;
       height: 44px;
@@ -399,7 +501,6 @@
       color: var(--accent-color);
     }
 
-    /* Overlay for mobile drawer */
     .backdrop {
       display: none;
       position: fixed;
@@ -419,36 +520,22 @@
         transform: translateX(-100%);
         box-shadow: 4px 0 16px rgba(0,0,0,0.15);
       }
-
-      .sidebar.open {
-        transform: translateX(0);
-      }
-
-      .backdrop.open {
-        display: block;
+      .sidebar.open { transform: translateX(0); }
+      .backdrop.open { display: block; }
+      .inpage-search-drawer {
+        left: 20px;
+        right: 20px;
+        width: auto;
       }
     }
 
     @media (max-width: 640px) {
-      :root {
-        --font-size: 17px;
-      }
-      .main-content {
-        padding: 24px 16px 60px 16px;
-      }
-      .book-hero h1 {
-        font-size: 1.55em;
-      }
-      .top-header {
-        padding: 0 10px;
-      }
-      .btn-icon {
-        padding: 5px 8px;
-        font-size: 13px;
-      }
-      [data-p-style="indent"] .section-body p {
-        text-indent: 1.5em;
-      }
+      :root { --font-size: 17px; }
+      .main-content { padding: 24px 16px 60px 16px; }
+      .book-hero h1 { font-size: 1.55em; }
+      .top-header { padding: 0 10px; }
+      .btn-icon { padding: 5px 7px; font-size: 12.5px; }
+      [data-p-style="indent"] .section-body p { text-indent: 1.5em; }
     }
   </style>
 </head>
@@ -464,6 +551,14 @@
       <a href="index.html" class="home-link" title="返回書架">
         🏠 書架
       </a>
+      <!-- Search Inside Book Button -->
+      <button class="btn-icon" id="search-toggle-btn" title="搜尋本書內文 (Ctrl+F)">
+        🔍 <span>搜尋內文</span>
+      </button>
+      <!-- Global Search Link -->
+      <a href="index.html?tab=search" class="btn-icon" title="前往全書庫全文檢索">
+        🌐 <span>全庫搜尋</span>
+      </a>
     </div>
 
     <div class="header-right">
@@ -473,7 +568,7 @@
       </button>
 
       <!-- Line Height Toggle -->
-      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 精簡)">
+      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 緊湊)">
         ↕ <span id="line-height-label">行距</span>
       </button>
 
@@ -492,6 +587,29 @@
       <button class="btn-icon" id="font-inc-btn" title="放大字級">A+</button>
     </div>
   </header>
+
+  <!-- In-Page Search Bar Dropdown -->
+  <div class="inpage-search-bar" id="inpage-search-bar">
+    <div class="inpage-search-input-wrapper">
+      <input type="text" id="inpage-search-input" class="inpage-search-input" placeholder="🔍 搜尋本書內文關鍵字 (按 Enter 尋找下一處，Esc 關閉)...">
+      <button class="inpage-search-clear" id="inpage-search-clear" title="清空">✕</button>
+    </div>
+    <span class="inpage-search-count" id="inpage-search-count">0 / 0</span>
+    <div class="search-nav-btns">
+      <button class="btn-icon" id="inpage-search-prev" title="上一處 (Shift+Enter)">▲</button>
+      <button class="btn-icon" id="inpage-search-next" title="下一處 (Enter)">▼</button>
+      <button class="btn-icon" id="inpage-search-close" title="關閉搜尋 (Esc)">✕</button>
+    </div>
+  </div>
+
+  <!-- In-Page Search Results Drawer -->
+  <div class="inpage-search-drawer" id="inpage-search-drawer">
+    <div class="inpage-search-drawer-header">
+      <span>搜尋結果清單</span>
+      <button class="btn-icon" id="inpage-drawer-close" style="padding: 2px 6px;">✕</button>
+    </div>
+    <div class="inpage-search-drawer-list" id="inpage-search-drawer-list"></div>
+  </div>
 
   <div class="backdrop" id="backdrop"></div>
 
@@ -582,6 +700,7 @@
         <header class="book-hero">
           <h1>The Warren Buffett Portfolio_ Mastering the Power of the Focus Investment Strategy _ full audiobook</h1>
           <div class="book-meta-chips">
+            <span class="meta-chip cat-badge">💰 財富與投資</span>
             <span class="meta-chip">🏷️ 時長：05:45:51</span>
 <span class="meta-chip">🏷️ 模型：small.en</span>
 <span class="meta-chip">🏷️ 日期：2026-09-22</span>
@@ -589,7 +708,7 @@
         </header>
 
         <!-- Transcript Content -->
-        <div class="book-body">
+        <div class="book-body" id="book-body">
           
         <section class="transcript-section" id="sec-000000">
           <div class="section-header">
@@ -619,9 +738,10 @@
           <div class="section-body">
             <p class="prose-p">The results are formally presented in an academic monograph titled Focus Investing, an optimal portfolio strategy alternative to active versus passive management. And what we discovered is summarized in nonacademic language in Chapter 4. The next three chapters make up the second large segment of the book. Here we turn our attention to the other fields of study, mathematics, psychology, and the new science of complexity.</p>
 <p class="prose-p">This is where you will find the new ideas that I have learned from Ed Thorpe, Charlie Munger, and Bill Miller. Some people may think it’s strange that we are venturing into apparently unrelated areas, but I believe that without the understanding gained from these other disciplines, any attempt at focus investing will stumble.</p>
-<p class="prose-p">Finally, Chapter 9 gives consolidated information about the characteristics of focus investors, along with clear guidance, so that you can easily initiate a focus investment strategy for your own portfolio. Robert G. Hagstrom, Wayne, Pennsylvania.</p>
-<h4 class="section-subhead">Chapter 1, Focus Investing.</h4>
-<p class="prose-p">Robert, we just focused on a few outstanding companies. We’re focus investors, Warren Buffett. I remember that conversation with Warren Buffett as if it happened yesterday. It was for me a defining moment for two reasons.</p>
+<p class="prose-p">Finally, Chapter 9 gives consolidated information about the characteristics of focus investors, along with clear guidance, so that you can easily initiate a focus investment strategy for your own portfolio. Robert G. Hagstrom, Wayne, Pennsylvania.
+
+#### Chapter 1, Focus Investing. Robert, we just focused on a few outstanding companies.</p>
+<p class="prose-p">We’re focus investors, Warren Buffett. I remember that conversation with Warren Buffett as if it happened yesterday. It was for me a defining moment for two reasons.</p>
 <p class="prose-p">First, it moved my thinking in a totally new direction. And second, it gave a name to an approach to portfolio management that I instinctively felt made wonderful sense, but that our industry had long overlooked. That approach is what we now call focus investing, and it is the exact opposite of what most people imagine that experienced investors do. Hollywood has given us a visual cliché of what a money manager looks like, talking into two phones at once, frantically taking notes while trying to keep an eye on jittery computer screens that blink and blip at him from all directions, tearing at his hair whenever one of those computer blinks shows a miniscule drop in stock price.</p>
 <p class="prose-p">Warren Buffett, the quintessential focus investor, is about as far from that kind of frenzy as anything imaginable. The man whom many consider the world’s greatest investor is usually described with words like soft spoken, down to earth, and grandfatherly. He moves with the calm that comes of great confidence, yet his accomplishments and his performance record are legendary. It is no accident that so many pay such close attention to what he does.</p>
 <p class="prose-p">If Buffett characterizes his approach as focus investing, we would be wise to learn what that means and how it is done. Focus investing is a remarkably simple idea, and yet, like most simple ideas, it rests on a complex foundation of interlocking concepts. If we hold the idea up to the light and look closely at all its facets, below the bright clarity of the surface, we will find depth, substance, and solid thinking. In this audio, we will look more closely at these underlying concepts one at a time.</p>
@@ -746,16 +866,17 @@
           <div class="section-body">
             <p class="prose-p">This investigation need not be overwhelming. You don’t have to become a huge expert in any one of these fields, explains Charlie. All you have to do is take the really big ideas and learn them early and learn them well. The exciting part to this exercise, Charlie points out, is the insight that is possible when several models combine and begin operating in the same direction.</p>
 <p class="prose-p">The most detailed model that focus investors will have to learn is the model for picking stocks, and many of you are already familiar with that model from the Warren Buffett way. From here, we need to add just a few more simple models to complete our education, to understand how to assemble those stocks into a portfolio, and manage that portfolio into the future for maximum results. But we are not alone. We have Warren and Charlie’s wisdom to guide us, and we have their accumulated experience at Berkshire Hathaway.</p>
-<p class="prose-p">Typically, these two visionaries credit not themselves personally, but their organization, which they describe as a didactic enterprise teaching the right systems of thought, of which the chief lessons are that a few big ideas really work.</p>
-<h4 class="section-subhead">Chapter 2 The High Priests of Modern Finance Traditional wisdom can be long on tradition and short on wisdom.</h4>
-<p class="prose-p">Warren Buffett. The worst financial disaster of the twentieth century was the stock market crash of 1929 and the Great Depression that followed it. The second worst was the bear market and recession of 1973 to 1974. It did not begin with a single horrific day as did the 1929 crash, and its effects on American families were not so widespread nor so devastating, and so it does not hold the same place in our collective imagination.</p>
-<p class="prose-p">Yet, for finance professionals, the second period is almost as important, for it represents a very important watershed in the history of modern finance, and in particular, the development of modern portfolio theory. Looking back now with the clarity of hindsight, we can see the two very different schools of thought, which today still engage serious debate about investment philosophy, had their beginnings during this two-year debacle. Two separate groups of people in the investment world searched for the best way to respond and arrived at different conclusions.</p>
-<p class="prose-p">Actually, rather than two groups, it’s probably more accurate to say it was one man, Warren Buffett, and one group, everybody else. The bear market of 1973 to 1974 was a slow, tortuous process of unrelenting losses that lasted for two uninterrupted years. The broader markets declined by over 60 percent. Fixed income holders who owned lower coupon bonds saw their investment shrink.</p>
-<p class="prose-p">Interest rates and inflation soared to double digits. Oil prices skyrocketed. Mortgage rates were so high that very few could afford the purchase of a new home. It was a dark, brutal time.</p>
-<p class="prose-p">So severe was the financial damage that investment managers began to question their own approach. Looking for answers, most of the investment professionals gradually turned, some of them with great reluctance, to a body of academic study that had been largely ignored for two decades. Collectively, those academic studies have come to be called modern portfolio theory. Buffett turned in a different direction.</p>
-<p class="prose-p">Warren Buffett, the son of a stockbroker, began marking the board at his father’s Omaha, Nebraska firm when he was 11 years old and bought his first shares of stock the same year. As a student at the University of Nebraska, the young man with a gift for numbers happened upon a book entitled The Intelligent Investor by Columbia University professor Benjamin Graham. Graham believed that the critical piece of investment information is a company’s intrinsic value. The core task for investors is to accurately calculate this value and then maintain the discipline to buy stock only when the price is below it.</p>
-<p class="prose-p">Buffett was so attracted to this mathematical approach that he attended Columbia for graduate school so that he could study under Graham. After completing a master’s degree in economics, Buffett returned home to Omaha and began working for his father, who by then owned a brokerage firm named Buffett Falcon Company. It was 1952, the young Buffett set to work practicing Ben Graham’s investment techniques. Just as Graham had taught him, Buffett would consider purchasing stocks only when they were selling well below calculated worth.</p>
-<p class="prose-p">In true Graham fashion, Buffett’s interest really perked up when stock prices traded lower. While working with his father, Warren Buffett remained in close contact with his mentor, and in 1954, Graham invited his former student to join him in New York, working with the Graham Newman Corporation. After two years, Graham retired and Buffett returned to Nebraska. With seven</p>
+<p class="prose-p">Typically, these two visionaries credit not themselves personally, but their organization, which they describe as a didactic enterprise teaching the right systems of thought, of which the chief lessons are that a few big ideas really work.
+
+#### Chapter 2 The High Priests of Modern Finance Traditional wisdom can be long on tradition and short on wisdom. Warren Buffett. The worst financial disaster of the twentieth century was the stock market crash of 1929 and the Great Depression that followed it. The second worst was the bear market and recession of 1973 to 1974.</p>
+<p class="prose-p">It did not begin with a single horrific day as did the 1929 crash, and its effects on American families were not so widespread nor so devastating, and so it does not hold the same place in our collective imagination. Yet, for finance professionals, the second period is almost as important, for it represents a very important watershed in the history of modern finance, and in particular, the development of modern portfolio theory. Looking back now with the clarity of hindsight, we can see the two very different schools of thought, which today still engage serious debate about investment philosophy, had their beginnings during this two-year debacle.</p>
+<p class="prose-p">Two separate groups of people in the investment world searched for the best way to respond and arrived at different conclusions. Actually, rather than two groups, it’s probably more accurate to say it was one man, Warren Buffett, and one group, everybody else. The bear market of 1973 to 1974 was a slow, tortuous process of unrelenting losses that lasted for two uninterrupted years. The broader markets declined by over 60 percent.</p>
+<p class="prose-p">Fixed income holders who owned lower coupon bonds saw their investment shrink. Interest rates and inflation soared to double digits. Oil prices skyrocketed. Mortgage rates were so high that very few could afford the purchase of a new home.</p>
+<p class="prose-p">It was a dark, brutal time. So severe was the financial damage that investment managers began to question their own approach. Looking for answers, most of the investment professionals gradually turned, some of them with great reluctance, to a body of academic study that had been largely ignored for two decades. Collectively, those academic studies have come to be called modern portfolio theory.</p>
+<p class="prose-p">Buffett turned in a different direction. Warren Buffett, the son of a stockbroker, began marking the board at his father’s Omaha, Nebraska firm when he was 11 years old and bought his first shares of stock the same year. As a student at the University of Nebraska, the young man with a gift for numbers happened upon a book entitled The Intelligent Investor by Columbia University professor Benjamin Graham. Graham believed that the critical piece of investment information is a company’s intrinsic value.</p>
+<p class="prose-p">The core task for investors is to accurately calculate this value and then maintain the discipline to buy stock only when the price is below it. Buffett was so attracted to this mathematical approach that he attended Columbia for graduate school so that he could study under Graham. After completing a master’s degree in economics, Buffett returned home to Omaha and began working for his father, who by then owned a brokerage firm named Buffett Falcon Company. It was 1952, the young Buffett set to work practicing Ben Graham’s investment techniques.</p>
+<p class="prose-p">Just as Graham had taught him, Buffett would consider purchasing stocks only when they were selling well below calculated worth. In true Graham fashion, Buffett’s interest really perked up when stock prices traded lower. While working with his father, Warren Buffett remained in close contact with his mentor, and in 1954, Graham invited his former student to join him in New York, working with the Graham Newman Corporation. After two years, Graham retired and Buffett returned to Nebraska.</p>
+<p class="prose-p">With seven</p>
           </div>
         </section>
         
@@ -873,12 +994,13 @@
 <p class="prose-p">Before people can successfully use the focus portfolio strategy taught by Buffett, they must remove from their thinking the constructs of modern portfolio theory. Ordinarily, it would be easy to reject a model that is largely considered ineffectual. After all, there is nothing prideful or rewarding about being average. But modern portfolio theory has developed a long history and deep culture.</p>
 <p class="prose-p">It is full of neat formulas and Nobel Prize winners. We should not expect the defenders of modern portfolio theory to be easily swayed. To acquiesce threatens both their intellectual and financial capital. Fortunately, we do not have to take on the task of dismantling modern portfolio theory.</p>
 <p class="prose-p">Unfolding events will take care of that. If we follow Buffett’s advice, the success we earn will eventually work to overthrow the less-than-effective model. Although modern portfolio theory has its share of intellectual heavyweights, do not lose sight of the fact that the lineage of focus investing includes some of history’s greatest investors, including John Maynard Keynes, Phil Fisher, Charlie Munger, Lou Simpson, Bill Ruane, and Warren Buffett. If you are ever thrown off balance by the rumblings of modern portfolio theorists, take heart in the same advice Ben Graham gave to his students.</p>
-<p class="prose-p">You are neither right nor wrong because the crowd disagrees with you. You are right because your data and reasoning are right.</p>
-<h4 class="section-subhead">Chapter 3 The Super-Investors of Buffettville Investing is not a game where the guy with the hundred sixty IQ beats the guy with the hundred thirty IQ, Warren Buffett.</h4>
-<p class="prose-p">In the midst of the high-flying years of the 1920s, a young Benjamin Graham, who was already beginning to make his mark on Wall Street, approached Columbia University, his alma mater, about teaching a night school class in security analysis. He had been thinking of writing a book on the subject and thought that teaching the class would help him organize his ideas. Columbia accepted his proposal and put the class on the schedule for the fall term of 1927. No one was more surprised than Graham at the response.</p>
-<p class="prose-p">So many people showed up that the school put guards at the door to make sure those who were preregistered got their seats. One of those was a young assistant professor from Columbia School of Business named David L. Dodd. He got in.</p>
-<p class="prose-p">The second year the demand was even greater, as many wanted to take the class over in hope of picking up new tips. The following year was 1929. Over the next months Graham was fully occupied in coping with the effects of the crash, both for himself and his clients, and so work on the book was delayed. He had asked his former student, David Dodd, to help with the writing, but even so it was not until 1934, the height of the Great Depression, that the groundbreaking book with the mild mannered title, Security Analysis, first appeared.</p>
-<p class="prose-p">Graham later said the delay was providential, for it allowed him to include wisdom acquired at the cost of much suffering. Security Analysis is universally acclaimed a classic, and still in print after five editions and sixty-five years. It is impossible to overstate its influence on the modern world of investing, or the enormous contributions of Ben Graham to the profession. Three years after its original publication, the Columbia Business School sponsored a seminar marking the anniversary of this seminal text by two of its illustrious faculty, and invited Warren Buffett, one of the school’s best-known alumni, and the most famous modern-day proponent of Graham’s value approach, to address the gathering.</p>
+<p class="prose-p">You are neither right nor wrong because the crowd disagrees with you. You are right because your data and reasoning are right.
+
+#### Chapter 3 The Super-Investors of Buffettville Investing is not a game where the guy with the hundred sixty IQ beats the guy with the hundred thirty IQ, Warren Buffett. In the midst of the high-flying years of the 1920s, a young Benjamin Graham, who was already beginning to make his mark on Wall Street, approached Columbia University, his alma mater, about teaching a night school class in security analysis.</p>
+<p class="prose-p">He had been thinking of writing a book on the subject and thought that teaching the class would help him organize his ideas. Columbia accepted his proposal and put the class on the schedule for the fall term of 1927. No one was more surprised than Graham at the response. So many people showed up that the school put guards at the door to make sure those who were preregistered got their seats.</p>
+<p class="prose-p">One of those was a young assistant professor from Columbia School of Business named David L. Dodd. He got in. The second year the demand was even greater, as many wanted to take the class over in hope of picking up new tips.</p>
+<p class="prose-p">The following year was 1929. Over the next months Graham was fully occupied in coping with the effects of the crash, both for himself and his clients, and so work on the book was delayed. He had asked his former student, David Dodd, to help with the writing, but even so it was not until 1934, the height of the Great Depression, that the groundbreaking book with the mild mannered title, Security Analysis, first appeared. Graham later said the delay was providential, for it allowed him to include wisdom acquired at the cost of much suffering.</p>
+<p class="prose-p">Security Analysis is universally acclaimed a classic, and still in print after five editions and sixty-five years. It is impossible to overstate its influence on the modern world of investing, or the enormous contributions of Ben Graham to the profession. Three years after its original publication, the Columbia Business School sponsored a seminar marking the anniversary of this seminal text by two of its illustrious faculty, and invited Warren Buffett, one of the school’s best-known alumni, and the most famous modern-day proponent of Graham’s value approach, to address the gathering.</p>
 <p class="prose-p">Most of those in the audience that day in 1984, university professors, researchers, and other academicians, along with many investment professionals, still held firmly to modern portfolio theory and the validity of the efficient market. Buffett, as we know, just as firmly disagreed. In his speech, which he titled, The Superinvestors of Graham and Doddsville, Buffett told some stories, made a few unflashy jokes, and quietly, firmly, demolished the platform on which rested the efficient market theory. It was classic Warren Buffett, pure and unadulterated.</p>
 <p class="prose-p">He began by recapping the central argument of modern portfolio theory, that the stock market is efficient.</p>
           </div>
@@ -1023,10 +1145,10 @@
 <p class="prose-p">The Flat Earth Society In his 1984 speech at Columbia, Warren Buffett made the wry observation that if everyone agreed with him and moved over to the focused style of investing, he would be destroying some of his own advantage because the spread between value and price would shrink. But, he quickly added, experience has shown that’s not likely to happen. The secret has been out for fifty years, ever since Ben Graham and Dave Dodd wrote security analysis, yet I have seen no trend toward value investing in the thirty-five years I practiced it, Buffett said.</p>
 <p class="prose-p">There seems to be some perverse human characteristic that likes to make easy things difficult. He may be right. Fifteen years later, there has been no rush toward focus investing. You will recall that in order to have enough observations to make a statistically defensible argument, we had to artificially create portfolios in a computer lab.</p>
 <p class="prose-p">Perhaps, as Buffett says, we have even backed away from the teaching of value investing. It’s likely to continue that way. Ships will sail around the world, but the Flat Earth Society will flourish. There will continue to be wide discrepancies between price and value in the marketplace, and those who read their Graham and Dodd will continue to continue to prosper.</p>
-<p class="prose-p">It is, as has been observed in other contexts, pretty darned hard to argue with success.</p>
-<h4 class="section-subhead">Chapter 4 A Better Way to Measure Performance When the price of a stock can be influenced by a herd on Wall Street with prices set at the margin by the most emotional person, or the greediest person, or the most depressed person, it is hard to argue that the market always prices rationally.</h4>
-<p class="prose-p">In fact, market prices are frequently nonsensical. Warren Buffett If Buffett is right, if market prices are frequently nonsensical, then we are foolish indeed to use price as a sole indicator of performance. Yet we do. Our entire industry is price myopic.</p>
-<p class="prose-p">If the price of a particular stock is going up, we assume good things are</p>
+<p class="prose-p">It is, as has been observed in other contexts, pretty darned hard to argue with success.
+
+#### Chapter 4 A Better Way to Measure Performance When the price of a stock can be influenced by a herd on Wall Street with prices set at the margin by the most emotional person, or the greediest person, or the most depressed person, it is hard to argue that the market always prices rationally. In fact, market prices are frequently nonsensical. Warren Buffett If Buffett is right, if market prices are frequently nonsensical, then we are foolish indeed to use price as a sole indicator of performance.</p>
+<p class="prose-p">Yet we do. Our entire industry is price myopic. If the price of a particular stock is going up, we assume good things are</p>
           </div>
         </section>
         
@@ -1169,8 +1291,9 @@
 <p class="prose-p">We have spent a good deal of this chapter on the ups and downs of mutual funds. We did so, you will recall, because mutual funds are familiar and therefore an easy example. But do not imagine for one minute that the erroneous thinking is limited to managers of mutual funds. They are used here merely to exemplify the broad trends that thread their way through the entire investment world.</p>
 <p class="prose-p">By observing what these mutual fund managers do and how they think, we can learn much about what you should do and how you should think. What we have learned is that short-term performance does not necessarily identify superior portfolio managers any more than poor short-term performance excludes them. The time horizon we use to measure ability is simply too short to draw any meaningful conclusions.</p>
 <p class="prose-p">However, using alternative economic benchmarks such as look-through earnings may be a way for you to gauge your progress when price deviates from expected returns. We also learned that low turnover translates to higher returns in two simple obvious ways. Higher transactions means lower trading costs.</p>
-<p class="prose-p">Finally, don’t overlook the value of unrealized capital gains. With the exception of passive index funds, focus investing gives you the best opportunity to compound this unrealized gain into major profits. The Berkshire system is not bonkers, Charlie Munger concludes. I’d say that Berkshire Hathaway is adapting to the nature of the investment problem as it really is.</p>
-<h4 class="section-subhead">Chapter 5 The Warren Buffett Way Tool Belt The investor of today does not profit from yesterday’s growth, Warren Buffett.</h4>
+<p class="prose-p">Finally, don’t overlook the value of unrealized capital gains. With the exception of passive index funds, focus investing gives you the best opportunity to compound this unrealized gain into major profits. The Berkshire system is not bonkers, Charlie Munger concludes. I’d say that Berkshire Hathaway is adapting to the nature of the investment problem as it really is.
+
+#### Chapter 5 The Warren Buffett Way Tool Belt The investor of today does not profit from yesterday’s growth, Warren Buffett.</p>
 <p class="prose-p">With the Warren Buffett Way, I hoped to produce a useful book that would help investors understand how Warren Buffett goes about selecting common stocks. The book outlines a number of investment tools or tenets that Buffett applies when evaluating possible purchases so that ultimately readers would be able to thoughtfully analyze and purchase a company as Buffett would. I am confident that since its original publication in 1994, the book has endured sufficient scrutiny by professional and individual investors as well as academicians and business owners.</p>
 <p class="prose-p">To date, the feedback we have received has been overwhelmingly positive. The book appears to genuinely help people invest more intelligently. The underlying principles haven’t changed much since the Warren Buffett Way first came out. That’s why they call them principles, Buffett once said.</p>
 <p class="prose-p">But many readers have asked for clarification about applying the tenets in today’s market. Also the continuing debate about growth versus value deserves our attention, and some newer issues have presented themselves, the economic value-added, EVA approach, and the role of technology. Then we use the Warren Buffett Way template to pick technology companies. Market Tenet – How to Value a Business Determining the intrinsic value of a company, the first and most critical step in the Buffett decision process, is both art and science.</p>
@@ -1363,8 +1486,9 @@
 <p class="prose-p">Looking back over the last seventy years, it is amazing to see how the world of investing has changed. The fundamental concepts haven’t changed. It is still crucial to buy good financial businesses run by able managers available at sensible prices. But the economy and the world of business have evolved into quite different forms and this has required investors to evolve their mental models to keep pace with the changing world.</p>
 <p class="prose-p">I asked Professor Moboussin what advice would he give a young person setting forth into the world of investing. I would first tell the person they need to understand the economic models, including not only the accounting numbers and financial statements, but how businesses work and interact as competitors.</p>
 <p class="prose-p">Second, they would need to understand the role and limitations of human beings in the investment process. And third, I would tell them to work hard, but not too hard. Working hard, explains Moboussin, means always having your mind working and reading as much as you can, and not only in the financial area but in other areas, so to build and fortify the mental models necessary to become successful. When I say don’t work too hard, what I mean is there is a tendency to equate activity with getting things done, and in money management it just doesn’t work that way.</p>
-<p class="prose-p">It is very often the people who make fewer but bigger decisions that tend to do better than those who are making a lot of decisions in the name of being busy. If Ben Graham were alive today, I think he would approve. He surely would feel a great deal of satisfaction about the legacy of security analysis. Over the years a distinguished line of professors have taught the course, and many gifted students have profitably applied its lessons to the world they live in.</p>
-<h4 class="section-subhead">Chapter 6 The Mathematics of Investing We try to think like Fermat and Pascal would if they’d never heard of modern finance theory.</h4>
+<p class="prose-p">It is very often the people who make fewer but bigger decisions that tend to do better than those who are making a lot of decisions in the name of being busy. If Ben Graham were alive today, I think he would approve. He surely would feel a great deal of satisfaction about the legacy of security analysis. Over the years a distinguished line of professors have taught the course, and many gifted students have profitably applied its lessons to the world they live in.
+
+#### Chapter 6 The Mathematics of Investing We try to think like Fermat and Pascal would if they’d never heard of modern finance theory.</p>
 <p class="prose-p">Charlie Munger As a boy, Warren Buffett was always fascinated with numbers. We already know he invested in common stocks at a young age, but not many people realize that his relationship with numbers goes much further and much deeper than balance sheets and income statements. When he wasn’t thinking about the stock market, young Buffett was tackling other mathematical puzzles. Once he decided to calculate whether composers of church hymns lived a longer life than other people.</p>
 <p class="prose-p">The probabilities of longevity, he learned, are not assigned to the musically gifted. Today, numbers surround Buffett, and not just stock market numbers. Berkshire’s insurance business, which may be the greatest math challenge of all, is also a lesson in statistics and probabilities. When he is not thinking about the insurance business or the stock market, Buffett is often thinking about the numbers in his favorite pastime, Bridge.</p>
 <p class="prose-p">A passionate player since his college days, Buffett spends hours each week playing Bridge, and when he cannot play in person, he logs on to the Internet and plays with other Bridge fanatics scattered across the country. Buffett sees strong parallels between the game of Bridge and investing in the stock market. It’s a game of a million inferences, he explains. There are a lot of things to draw inferences from.</p>
@@ -1772,12 +1896,14 @@
 <p class="prose-p">He is not talking about predicting the timing, but rather the idea that when irrationality does occur, it leads to predictable patterns of subsequent behavior. Buffett and Munger aside, it is only quite recently that the majority of investment professionals have paid serious attention to the intersection of finance and psychology. For many of you, the ideas summarized in this chapter are valuable just for the sheer pleasure of learning something new, but there is much more to it. When it comes to investing, emotions are very real in the sense that they affect people’s behavior and thus ultimately affect market prices.</p>
 <p class="prose-p">You have already sensed, I am sure, two reasons why understanding the human dynamic is so valuable in your own investing. First, you will have guidelines to help you avoid the most common mistakes, and second, you will be able to recognize other people’s mistakes in time to profit from them. All of us are vulnerable to individual errors of judgment which can affect our personal success. When a thousand or a million people make errors of judgment, the collective impact is to push the market in a destructive direction.</p>
 <p class="prose-p">Then, so strong as the temptation to follow the crowd, accumulated bad judgment only compounds itself. In a turbulent sea of irrational behavior, the few who act rationally may well be the only survivors. Successful focus investors need a certain kind of temperament. The road is always bumpy, and knowing which is the right path to take is often counterintuitive.</p>
-<p class="prose-p">The stock market’s constant gyrations can be unsettling to investors and make them act in irrational ways. You need to be on the lookout for these emotions and be prepared to act sensibly even when instincts may strongly call for the opposite behavior. But as we have learned, the future rewards focus investing significantly enough to warrant our strong effort.</p>
-<h4 class="section-subhead">CHAPTER VIII.</h4>
-<h4 class="section-subhead">THE MARKET AS A COMPLEX SYSTEM.</h4>
-<p class="prose-p">We’ve long felt that the only value of stock forecasters is to make fortune tellers look good. Warren Buffett. Anyone who has observed Warren Buffett for any length of time knows that his position on forecasting is clear. Don’t waste your time.</p>
-<p class="prose-p">Whether in regard to the economy, the market, or individual stock prices, Buffett believes firmly that forecasting has no place in investing. For over forty years he has achieved great wealth and an unmatched performance record by simply investing in great companies while simultaneously avoiding the ruinous distractions that occur when investors become obsessed with guessing the future direction of markets. The fact that people will be full of greed, fear, or folly is predictable, says Buffett. The sequence, however, is not.</p>
-<p class="prose-p">For many Buffett followers, the idea of predicting markets is moot. They are able to push ahead with their investment approach without allowing the passing fortune tellers to interrupt their work. There are, however, a far larger number of investors who, despite good intentions, cannot help but be seduced by the promoter who sells clairvoyance in a bottle.</p>
+<p class="prose-p">The stock market’s constant gyrations can be unsettling to investors and make them act in irrational ways. You need to be on the lookout for these emotions and be prepared to act sensibly even when instincts may strongly call for the opposite behavior. But as we have learned, the future rewards focus investing significantly enough to warrant our strong effort.
+
+#### CHAPTER VIII.
+
+#### THE MARKET AS A COMPLEX SYSTEM. We’ve long felt that the only value of stock forecasters is to make fortune tellers look good.</p>
+<p class="prose-p">Warren Buffett. Anyone who has observed Warren Buffett for any length of time knows that his position on forecasting is clear. Don’t waste your time. Whether in regard to the economy, the market, or individual stock prices, Buffett believes firmly that forecasting has no place in investing.</p>
+<p class="prose-p">For over forty years he has achieved great wealth and an unmatched performance record by simply investing in great companies while simultaneously avoiding the ruinous distractions that occur when investors become obsessed with guessing the future direction of markets. The fact that people will be full of greed, fear, or folly is predictable, says Buffett. The sequence, however, is not. For many Buffett followers, the idea of predicting markets is moot.</p>
+<p class="prose-p">They are able to push ahead with their investment approach without allowing the passing fortune tellers to interrupt their work. There are, however, a far larger number of investors who, despite good intentions, cannot help but be seduced by the promoter who sells clairvoyance in a bottle.</p>
           </div>
         </section>
         
@@ -1914,10 +2040,11 @@
 <p class="prose-p">Nor did they render unsound the negotiated purchases of fine businesses at sensible prices. Imagine the cost to us if we had let a fear of unknowns cause us to defer or alter the deployment of capital. Patterns of speech follow patterns of thought. If investors perceive a pattern, no matter how flawed the recognition, they will act on the pattern recognition.</p>
 <p class="prose-p">The benefit of the Santa Fe Institute is that it helps you understand what the markets are not. Once you understand that the market is a complex adaptive system, you freely put to rest any notion of predictability. You also understand that the market will reach critical points of boom and bust. A different set of major shocks is sure to occur in the next thirty years, explains Buffett.</p>
 <p class="prose-p">We will neither try to predict these nor profit from them. If we can identify businesses that are similar to those we have purchased in the past, external surprises will have little effect on our long-term results. So the next time you are lulled into believing you have finally identified a repeatable pattern primed for profit, remember the scientists working each day at the Santa Fe Institute. And the next time you are shocked frozen by the market’s unpredictability, remember what Buffett says.</p>
-<p class="prose-p">Face up to two unpleasant facts. The future is never clear, and you pay a very high price in the stock market for a cheery consensus. Uncertainty is the friend of the buyer of long-term values.</p>
-<h4 class="section-subhead">Chapter 9 Where Are the 400 Hitters?</h4>
-<p class="prose-p">The first rule of baseball is, Get a good ball to hit, Rogers Hornsby. In 1996, Stephen J. Gould, the noted biologist, prolific writer, and lifelong Yankees fan, published Full House, The Spread of Excellence from Plato to Darwin. Gould is fascinated by the complex nature of life and studies intensely the variations of different systems. In this illuminating book he talks about, among other things, the death of 400 hitting in Major League Baseball.</p>
-<p class="prose-p">The record books say that between 1901 and 1930, a span of thirty years, there were nine seasons when at least one player achieved a batting average better than 400. But in the sixty-eight years that followed, only one player ever reached that milestone. Ted Williams hit 406 in 1941. On the face of things, just from those statistics, we might conclude that batting skills over</p>
+<p class="prose-p">Face up to two unpleasant facts. The future is never clear, and you pay a very high price in the stock market for a cheery consensus. Uncertainty is the friend of the buyer of long-term values.
+
+#### Chapter 9 Where Are the 400 Hitters? The first rule of baseball is, Get a good ball to hit, Rogers Hornsby.</p>
+<p class="prose-p">In 1996, Stephen J. Gould, the noted biologist, prolific writer, and lifelong Yankees fan, published Full House, The Spread of Excellence from Plato to Darwin. Gould is fascinated by the complex nature of life and studies intensely the variations of different systems. In this illuminating book he talks about, among other things, the death of 400 hitting in Major League Baseball. The record books say that between 1901 and 1930, a span of thirty years, there were nine seasons when at least one player achieved a batting average better than 400.</p>
+<p class="prose-p">But in the sixty-eight years that followed, only one player ever reached that milestone. Ted Williams hit 406 in 1941. On the face of things, just from those statistics, we might conclude that batting skills over</p>
           </div>
         </section>
         
@@ -2235,6 +2362,204 @@
 
     document.getElementById('scroll-top-btn').addEventListener('click', () => {
       window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    // ==========================================
+    // IN-PAGE CONTENT SEARCH (單書全文搜尋)
+    // ==========================================
+    const searchBar = document.getElementById('inpage-search-bar');
+    const searchInput = document.getElementById('inpage-search-input');
+    const searchCount = document.getElementById('inpage-search-count');
+    const searchDrawer = document.getElementById('inpage-search-drawer');
+    const searchDrawerList = document.getElementById('inpage-search-drawer-list');
+    const searchToggleBtn = document.getElementById('search-toggle-btn');
+    const searchClearBtn = document.getElementById('inpage-search-clear');
+    const searchPrevBtn = document.getElementById('inpage-search-prev');
+    const searchNextBtn = document.getElementById('inpage-search-next');
+    const searchCloseBtn = document.getElementById('inpage-search-close');
+    const drawerCloseBtn = document.getElementById('inpage-drawer-close');
+
+    let searchMatches = [];
+    let currentMatchIdx = -1;
+
+    // Cache original innerHTML for clean resets
+    const rawParagraphs = Array.from(document.querySelectorAll('.section-body p')).map(p => ({
+      el: p,
+      rawHtml: p.innerHTML,
+      rawText: p.textContent
+    }));
+
+    function openSearch() {
+      searchBar.classList.add('active');
+      searchInput.focus();
+      searchInput.select();
+      if (searchInput.value.trim()) {
+        performSearch(searchInput.value.trim());
+      }
+    }
+
+    function closeSearch() {
+      searchBar.classList.remove('active');
+      searchDrawer.classList.remove('active');
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchCount.textContent = '0 / 0';
+    }
+
+    function clearHighlights() {
+      rawParagraphs.forEach(item => {
+        item.el.innerHTML = item.rawHtml;
+      });
+    }
+
+    function escapeRegex(str) {
+      return str.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+    }
+
+    function escapeHtml(str) {
+      return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+
+    function performSearch(query) {
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchDrawerList.innerHTML = '';
+
+      if (!query || query.trim().length === 0) {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+        return;
+      }
+
+      query = query.trim();
+      const qLower = query.toLowerCase();
+      const regex = new RegExp(`(${escapeRegex(query)})`, 'gi');
+
+      rawParagraphs.forEach((item, pIdx) => {
+        if (item.rawText.toLowerCase().includes(qLower)) {
+          const sec = item.el.closest('.transcript-section');
+          const secTime = sec ? (sec.querySelector('.section-time')?.textContent || '') : '';
+          const secId = sec ? sec.id : '';
+
+          // Apply highlight
+          item.el.innerHTML = item.rawHtml.replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const marks = Array.from(item.el.querySelectorAll('mark.search-highlight'));
+          marks.forEach(mark => {
+            searchMatches.push({
+              mark,
+              el: item.el,
+              secTime,
+              secId
+            });
+          });
+
+          // Snippet creation
+          const matchPos = item.rawText.toLowerCase().indexOf(qLower);
+          const start = Math.max(0, matchPos - 30);
+          const end = Math.min(item.rawText.length, matchPos + query.length + 50);
+          const snippetText = item.rawText.slice(start, end);
+          const snippetHtml = escapeHtml(snippetText).replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const card = document.createElement('div');
+          card.className = 'search-result-item';
+          card.innerHTML = `
+            <div class="search-result-time">${secTime}</div>
+            <div class="search-result-snippet">...${snippetHtml}...</div>
+          `;
+          card.addEventListener('click', () => {
+            const targetIdx = searchMatches.findIndex(m => m.mark === marks[0]);
+            if (targetIdx >= 0) goToMatch(targetIdx);
+          });
+          searchDrawerList.appendChild(card);
+        }
+      });
+
+      if (searchMatches.length > 0) {
+        searchDrawer.classList.add('active');
+        goToMatch(0);
+      } else {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+      }
+    }
+
+    function goToMatch(idx) {
+      if (idx < 0 || idx >= searchMatches.length) return;
+      if (currentMatchIdx >= 0 && searchMatches[currentMatchIdx]) {
+        searchMatches[currentMatchIdx].mark.classList.remove('active-match');
+      }
+      currentMatchIdx = idx;
+      const target = searchMatches[currentMatchIdx];
+      target.mark.classList.add('active-match');
+      searchCount.textContent = `${currentMatchIdx + 1} / ${searchMatches.length}`;
+
+      // Highlight active drawer item
+      const drawerItems = searchDrawerList.querySelectorAll('.search-result-item');
+      drawerItems.forEach(di => di.classList.remove('active'));
+
+      target.mark.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+
+    searchToggleBtn.addEventListener('click', () => {
+      if (searchBar.classList.contains('active')) {
+        closeSearch();
+      } else {
+        openSearch();
+      }
+    });
+
+    let debounceTimer;
+    searchInput.addEventListener('input', (e) => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => {
+        performSearch(e.target.value);
+      }, 200);
+    });
+
+    searchClearBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      performSearch('');
+      searchInput.focus();
+    });
+
+    searchNextBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const nextIdx = (currentMatchIdx + 1) % searchMatches.length;
+      goToMatch(nextIdx);
+    });
+
+    searchPrevBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const prevIdx = (currentMatchIdx - 1 + searchMatches.length) % searchMatches.length;
+      goToMatch(prevIdx);
+    });
+
+    searchInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        if (e.shiftKey) {
+          searchPrevBtn.click();
+        } else {
+          searchNextBtn.click();
+        }
+      } else if (e.key === 'Escape') {
+        closeSearch();
+      }
+    });
+
+    searchCloseBtn.addEventListener('click', closeSearch);
+    drawerCloseBtn.addEventListener('click', () => searchDrawer.classList.remove('active'));
+
+    window.addEventListener('keydown', (e) => {
+      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'f') {
+        e.preventDefault();
+        openSearch();
+      } else if (e.key === 'Escape') {
+        if (searchBar.classList.contains('active')) closeSearch();
+      }
     });
   </script>
 </body>

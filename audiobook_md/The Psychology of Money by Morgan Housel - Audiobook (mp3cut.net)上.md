@@ -255,13 +255,13 @@ Drugs were domesticated 10 years ago, and sale retained some behaviors of their 
 
 But no one’s crazy. We all make decisions based on our own unique experiences that seem to make sense to us in a given moment. Now let me tell you a story about how Bill Gates got rich.
 
-#### THE PSYCHOLOGY OF MONEY CHAPTER 2 LUCK AND RISK.
+#### THE PSYCHOLOGY OF MONEY CHAPTER 2 LUCK AND RISK. Nothing is as good or as bad as it seems. Luck and risk are siblings.
 
-Nothing is as good or as bad as it seems. Luck and risk are siblings. They are both the reality that every outcome in life is guided by forces other than individual effort. NYU professor Scott Galloway has a related idea that is so important to remember when judging success, both your own and others. Nothing is as good or as bad as it seems. Bill Gates went to one of the only high schools in the world that had a computer.
+They are both the reality that every outcome in life is guided by forces other than individual effort. NYU professor Scott Galloway has a related idea that is so important to remember when judging success, both your own and others. Nothing is as good or as bad as it seems. Bill Gates went to one of the only high schools in the world that had a computer. The story of how Lakeside School, just outside Seattle, even got a computer is remarkable.
 
-The story of how Lakeside School, just outside Seattle, even got a computer is remarkable. Bill Dougal was a World War II Navi pilot turned high school math and science teacher. He believed that book study wasn’t enough without real-world experience. He also realized that we’d need to know something about computers when we got to college.
+Bill Dougal was a World War II Navi pilot turned high school math and science teacher. He believed that book study wasn’t enough without real-world experience. He also realized that we’d need to know something about computers when we got to college. We called late Microsoft co-founder Paul Allen.
 
-We called late Microsoft co-founder Paul Allen. In 1968, Dougal petitioned the Lakeside School Mothers Club to use the proceeds from its annual rummage sale, about $3,000, to lease a teletype Model 30 computer hooked up to
+In 1968, Dougal petitioned the Lakeside School Mothers Club to use the proceeds from its annual rummage sale, about $3,000, to lease a teletype Model 30 computer hooked up to
 
 
 <a id="sec-004032"></a>
@@ -467,15 +467,15 @@ Freedom and independence are invaluable. Family and friends are invaluable. Bein
 
 The good news is that the most powerful tool for building enough is remarkably simple and doesn’t require taking risks that could damage any of these things. That’s the next chapter. The Psychology of Money.
 
-#### Chapter 4.
+#### Chapter 4. Confounding Compounding.
 
-Confounding Compounding. Eighty-one point five billion dollars of Warren Buffett’s eighty-four point five billion dollar net worth came after his sixty-fifth birthday. Our minds are not built to handle such absurdities. Lessons from one field can often teach us something important about unrelated fields.
+Eighty-one point five billion dollars of Warren Buffett’s eighty-four point five billion dollar net worth came after his sixty-fifth birthday. Our minds are not built to handle such absurdities. Lessons from one field can often teach us something important about unrelated fields. Take the billion-year history of ice ages and what they teach us about growing your money.
 
-Take the billion-year history of ice ages and what they teach us about growing your money. Our scientific knowledge of Earth is younger than you might think. Understanding how the world works often involves drilling deep below its surface, something we haven’t been able to do until fairly recently. Isaac Newton calculated the movement of the stars hundreds of years before we understood some of the basics of our planet.
+Our scientific knowledge of Earth is younger than you might think. Understanding how the world works often involves drilling deep below its surface, something we haven’t been able to do until fairly recently. Isaac Newton calculated the movement of the stars hundreds of years before we understood some of the basics of our planet. It was not until the nineteenth century the scientists agreed that Earth had, on multiple occasions, been covered in ice.
 
-It was not until the nineteenth century the scientists agreed that Earth had, on multiple occasions, been covered in ice. There was too much evidence to argue otherwise. All over the world sat fingerprints of a previously frozen world, huge boulders strewn in random locations, rock bits scraped down to thin layers. Evidence became clear that there had not been one ice age, but five distinct ones we could measure.
+There was too much evidence to argue otherwise. All over the world sat fingerprints of a previously frozen world, huge boulders strewn in random locations, rock bits scraped down to thin layers. Evidence became clear that there had not been one ice age, but five distinct ones we could measure. The amount of energy needed to freeze the planet, melt it anew, and freeze it over yet again is staggering.
 
-The amount of energy needed to freeze the planet, melt it anew, and freeze it over yet again is staggering. What on Earth, literally, could be causing these cycles? It must be the most powerful force on our planet.
+What on Earth, literally, could be causing these cycles? It must be the most powerful force on our planet.
 
 
 <a id="sec-012052"></a>
@@ -545,13 +545,11 @@ It’s about earning pretty good returns that you can stick with and which can b
 
 Chapter to tell them. The Psychology of Money.
 
-#### Chapter 5.
+#### Chapter 5. Getting wealthy versus staying wealthy. Good investing is not necessarily about making good decisions.
 
-Getting wealthy versus staying wealthy. Good investing is not necessarily about making good decisions. It’s about consistently not screwing up. There are a million ways to get wealthy, and plenty of books on how to do so.
+It’s about consistently not screwing up. There are a million ways to get wealthy, and plenty of books on how to do so. But there is only one way to stay wealthy. Some combination of frugality and paranoia.
 
-But there is only one way to stay wealthy. Some combination of frugality and paranoia. And that’s a topic we don’t discuss enough. Let’s begin with a quick story about two investors, neither of whom knew the other, but whose paths crossed in an interesting way almost a century ago.
-
-Jesse Livermore was the greatest talk market trader of his day. Born in 1877, he became a professional trader before most people knew you could do such a thing.
+And that’s a topic we don’t discuss enough. Let’s begin with a quick story about two investors, neither of whom knew the other, but whose paths crossed in an interesting way almost a century ago. Jesse Livermore was the greatest talk market trader of his day. Born in 1877, he became a professional trader before most people knew you could do such a thing.
 
 
 <a id="sec-013602"></a>
@@ -731,19 +729,17 @@ But the seven percent of components that perform extremely well were more than e
 
 Apple was responsible for almost 7% of the index’s returns in 2018, and it is driven overwhelmingly by the iPhone, which in the world of tech products is a tail-why as tails get. And who’s working at these companies? Google’s hiring acceptance rate is 0.2%, Facebook’s is 0.1%, Apple’s is about 2%, so the people working on these tail projects that drive tail returns have tail careers.
 
-Napoleon’s definition of a military genius was, “… the man who can do the average thing when all those around him are going crazy. It’s the same in investing.” Most financial advice is about today. What should you do right now, and what stocks look like goodbyes today?
+Napoleon’s definition of a military genius was, “… the man who can do the average thing when all those around him are going crazy. It’s the same in investing.” Most financial advice is about today. What should you do right now, and what stocks look like goodbyes today? But most of the time, today is not that important.
 
-But most of the time, today is not that important. Over the course of your lifetime, as an investor, the decisions that you make today, or tomorrow, or next week, will not matter nearly as much as what you do during the small number of days. Only 1% of the time or less, when everyone else around you is going crazy. Consider what would happen if you saved $1 every month from 1900 to 2019.
+Over the course of your lifetime, as an investor, the decisions that you make today, or tomorrow, or next week, will not matter nearly as much as what you do during the small number of days. Only 1% of the time or less, when everyone else around you is going crazy. Consider what would happen if you saved $1 every month from 1900 to 2019. You could invest that $1 into the US stock market every month, rain or shine.
 
-You could invest that $1 into the US stock market every month, rain or shine. It doesn’t matter if economists are screaming about a looming recession or new beer market, you just keep investing. Let’s call an investor who does this sue. But maybe, investing during a recession is too scary.
+It doesn’t matter if economists are screaming about a looming recession or new beer market, you just keep investing. Let’s call an investor who does this sue. But maybe, investing during a recession is too scary. So perhaps you invest your $1 in the stock market when the economy is not in a recession, sell everything when it’s in a recession, and save your monthly dollar in cash.
 
-So perhaps you invest your $1 in the stock market when the economy is not in a recession, sell everything when it’s in a recession, and save your monthly dollar in cash. But invest everything back into the stock market when the recession ends. We’ll call this investor Jim. Or perhaps it takes a few months for a recession to scare you out, and then it takes a while to regain confidence before you get back in the market.
+But invest everything back into the stock market when the recession ends. We’ll call this investor Jim. Or perhaps it takes a few months for a recession to scare you out, and then it takes a while to regain confidence before you get back in the market. You invest $1 in stocks when there is no recession, sell 6 months after a recession begins, and invest back in 6 months after a recession ends.
 
-You invest $1 in stocks when there is no recession, sell 6 months after a recession begins, and invest back in 6 months after a recession ends. We’ll call you Tom. How much money would these 3 investors end up with over time? Sue ends up with $435,551.
+We’ll call you Tom. How much money would these 3 investors end up with over time? Sue ends up with $435,551. Jim has $257,386.
 
-Jim has $257,386. Tom $234,476. Sue wins by a mile. There were 1,428 months between 1900 and 2019.
-
-Just over 300 of them were during a recession.
+Tom $234,476. Sue wins by a mile. There were 1,428 months between 1900 and 2019. Just over 300 of them were during a recession.
 
 
 <a id="sec-021127"></a>
@@ -949,21 +945,19 @@ It’s difficult to learn from what you can’t see, which helps explain why it�
 
 Well, let me convince you to save money.
 
-#### THE PSYCHOLOGY OF MONEY CHAPTER X SAVE MONEY.
+#### THE PSYCHOLOGY OF MONEY CHAPTER X SAVE MONEY. The only factory you can control generates one of the only things that matters. How wonderful! Let me convince you to save money.
 
-The only factory you can control generates one of the only things that matters. How wonderful! Let me convince you to save money. It won’t take long.
+It won’t take long. But it’s an odd task, isn’t it? Do people need to be convinced to save money? My observation is that, yes, many do.
 
-But it’s an odd task, isn’t it? Do people need to be convinced to save money? My observation is that, yes, many do. Past a certain level of income, people fall into three groups.
+Past a certain level of income, people fall into three groups. Those who save, those who don’t think they can save, and those who don’t think they need to save. This is for the latter too. The first idea, simple but easy to overlook, is that building wealth has little to do with your income or investment returns, and lots to do with your savings rate.
 
-Those who save, those who don’t think they can save, and those who don’t think they need to save. This is for the latter too. The first idea, simple but easy to overlook, is that building wealth has little to do with your income or investment returns, and lots to do with your savings rate. A quick story about the power of efficiency.
+A quick story about the power of efficiency. In the 1970s, the world looked like it was running out of oil. The calculation wasn’t hard. The global economy used a lot of oil.
 
-In the 1970s, the world looked like it was running out of oil. The calculation wasn’t hard. The global economy used a lot of oil. The global economy was growing.
+The global economy was growing. And the amount of oil we could drill couldn’t keep up. We didn’t run out of oil, thank goodness. But that wasn’t just because we found more oil or even got better at taking it out of the ground.
 
-And the amount of oil we could drill couldn’t keep up. We didn’t run out of oil, thank goodness. But that wasn’t just because we found more oil or even got better at taking it out of the ground. The biggest reason we overcame the oil crisis is because we started building cars, factories and homes that are more energy efficient than they used to be.
+The biggest reason we overcame the oil crisis is because we started building cars, factories and homes that are more energy efficient than they used to be. The United States uses 60% less energy per dollar of GDP today than it did in 1950. The average miles per gallon of all vehicles on the road has doubled since 1975. A 1989 Ford Taurus 7 averaged 18.0 mpg.
 
-The United States uses 60% less energy per dollar of GDP today than it did in 1950. The average miles per gallon of all vehicles on the road has doubled since 1975. A 1989 Ford Taurus 7 averaged 18.0 mpg. A 2019 Chevy Suburban, absurdly large SUV, averages 18.1 mpg.
-
-The world grew its energy wealth, not by increasing the energy it had, but by decreasing the energy it needed. U. S. oil and gas production has increased 65% since 1975, while conservation and efficiency has more than doubled what we can do with that energy. So, it’s easy to see which has mattered more. The important thing here is that finding more energy is largely out of our control and shrouded in uncertainty because it relies on a slippery mix of having the right geology, geography, weather and geopolitics.
+A 2019 Chevy Suburban, absurdly large SUV, averages 18.1 mpg. The world grew its energy wealth, not by increasing the energy it had, but by decreasing the energy it needed. U. S. oil and gas production has increased 65% since 1975, while conservation and efficiency has more than doubled what we can do with that energy. So, it’s easy to see which has mattered more. The important thing here is that finding more energy is largely out of our control and shrouded in uncertainty because it relies on a slippery mix of having the right geology, geography, weather and geopolitics.
 
 But becoming more efficient with the energy we use is largely in our control. The decision to buy a lighter car or ride a bike is up to you and has a 100% chance of improving efficiency. The same is true with our money. Investment returns can make you rich, but whether an investing strategy will work and how long it will take for and whether markets will cooperate is always in doubt.
 
@@ -1113,21 +1107,19 @@ Bogle, the man who said high-fee funds violate the humble roots of arithmetic, i
 
 Indeed, it rarely is. The psychology of money.
 
-#### Chapter 12 Surprise.
+#### Chapter 12 Surprise. History is the study of change, ironically used as a map of the future. Stanford professor Scott Sagan once said something everyone who follows the economy or investment markets should hang on their wall.
 
-History is the study of change, ironically used as a map of the future. Stanford professor Scott Sagan once said something everyone who follows the economy or investment markets should hang on their wall. Things that have never happened before happen all the time. History is mostly the study of surprising events, but it is often used by investors and economists as an unassailable guide to the future.
+Things that have never happened before happen all the time. History is mostly the study of surprising events, but it is often used by investors and economists as an unassailable guide to the future. Do you see the irony? Do you see the problem?
 
-Do you see the irony? Do you see the problem? It is marked to have a deep appreciation for economic and investing history. History helps us calibrate our expectations.
+It is marked to have a deep appreciation for economic and investing history. History helps us calibrate our expectations. Study where people tend to go wrong and offers a rough guide of what tends to work. But it is not, in any way, a map of the future.
 
-Study where people tend to go wrong and offers a rough guide of what tends to work. But it is not, in any way, a map of the future. A trap many investors fall into is what I call historians as profits policy, an over-reliance on past data as a signal to future conditions in a field where innovation and change are the lifeblood of progress. You can’t blame investors for doing this.
+A trap many investors fall into is what I call historians as profits policy, an over-reliance on past data as a signal to future conditions in a field where innovation and change are the lifeblood of progress. You can’t blame investors for doing this. If you view investing as a hard science, history should be a perfect guide to the future. Geologists can look at a billion years of historical data and form models of how the earth behaves.
 
-If you view investing as a hard science, history should be a perfect guide to the future. Geologists can look at a billion years of historical data and form models of how the earth behaves. So can meteorologists. And doctors, kidneys operate the same way in 2020 as they did in 1020.
+So can meteorologists. And doctors, kidneys operate the same way in 2020 as they did in 1020. But investing is not a hard science. It’s a massive group of people making imperfect decisions with limited information about things that’ll have a massive impact on their well-being, which can make even smart people nervous, greedy and paranoid.
 
-But investing is not a hard science. It’s a massive group of people making imperfect decisions with limited information about things that’ll have a massive impact on their well-being, which can make even smart people nervous, greedy and paranoid. Richard Feynman, the great physicist, once said, imagine how much hotter physics would be if electrons had feelings. Well, investors have feelings, quite a few of them.
+Richard Feynman, the great physicist, once said, imagine how much hotter physics would be if electrons had feelings. Well, investors have feelings, quite a few of them. That’s why it’s hard to predict what they will do next based solely on what they did in the past. The cornerstone of economics is that things change over time, because the invisible hand hates anything staying too good or too bad indefinitely.
 
-That’s why it’s hard to predict what they will do next based solely on what they did in the past. The cornerstone of economics is that things change over time, because the invisible hand hates anything staying too good or too bad indefinitely. Investor Bill Bonner once described how Mr. Market works. He’s got a capitalism at work t-shirt on and a sledgehammer in his hand.
-
-Few things stay the same for very long, which means we can’t treat historians as profits. The most important driver of anything tied to money is the stories people tell themselves
+Investor Bill Bonner once described how Mr. Market works. He’s got a capitalism at work t-shirt on and a sledgehammer in his hand. Few things stay the same for very long, which means we can’t treat historians as profits. The most important driver of anything tied to money is the stories people tell themselves
 
 
 <a id="sec-032215"></a>

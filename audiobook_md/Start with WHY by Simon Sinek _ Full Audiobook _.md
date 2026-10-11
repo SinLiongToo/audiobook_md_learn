@@ -102,21 +102,21 @@
 
 Start with why. How great leaders inspire everyone to take action. By Simon Sinek.
 
-#### Part 1.
+#### Part 1. Assume you know, on a cold January day, a 43-year-old man was sworn in as the chief executive of his country.
 
-Assume you know, on a cold January day, a 43-year-old man was sworn in as the chief executive of his country. By his side stood his predecessor, a famous general who, 15 years earlier, had commanded his nation’s armed forces in a war that resulted in the defeat of Germany. The young leader was raised in the Roman Catholic faith. He spent the next five hours watching parades in his honor and stayed up celebrating until three o’clock in the morning.
+By his side stood his predecessor, a famous general who, 15 years earlier, had commanded his nation’s armed forces in a war that resulted in the defeat of Germany. The young leader was raised in the Roman Catholic faith. He spent the next five hours watching parades in his honor and stayed up celebrating until three o’clock in the morning. You know who I’m describing, right?
 
-You know who I’m describing, right? It’s January 30, 1933, and I’m describing Adolf Hitler and not, as most people would assume, John F. Kennedy. The point is, we make assumptions.
+It’s January 30, 1933, and I’m describing Adolf Hitler and not, as most people would assume, John F. Kennedy. The point is, we make assumptions. We make assumptions about the world around us based on sometimes incomplete or false information.
 
-We make assumptions about the world around us based on sometimes incomplete or false information. In this case, the information I offered was incomplete. Many of you were convinced that I was describing John F. Kennedy until I added one minor little detail, the date.
+In this case, the information I offered was incomplete. Many of you were convinced that I was describing John F. Kennedy until I added one minor little detail, the date. This is important because our behavior is affected by our assumptions or our perceived truths.
 
-This is important because our behavior is affected by our assumptions or our perceived truths. We make decisions based on what we think we know. It wasn’t too long ago that the majority of believed the world was flat. This perceived truth-impacted behavior.
+We make decisions based on what we think we know. It wasn’t too long ago that the majority of believed the world was flat. This perceived truth-impacted behavior. During this period, there was very little exploration.
 
-During this period, there was very little exploration. People feared that if they traveled too far they might fall off the edge of the earth. So for the most part they stayed put. It wasn’t until that minor detail was revealed, the world is round, that behaviors changed on a massive scale.
+People feared that if they traveled too far they might fall off the edge of the earth. So for the most part they stayed put. It wasn’t until that minor detail was revealed, the world is round, that behaviors changed on a massive scale. From this discovery, societies began to traverse the planet.
 
-From this discovery, societies began to traverse the planet. Trade routes were established, spices were traded. New ideas, like mathematics, were shared between societies which unleashed all kinds of innovations and advancements. The correction of a simple false assumption moved the human race forward.
+Trade routes were established, spices were traded. New ideas, like mathematics, were shared between societies which unleashed all kinds of innovations and advancements. The correction of a simple false assumption moved the human race forward. Now consider how organizations are formed and how decisions are made.
 
-Now consider how organizations are formed and how decisions are made. Do we really know why some organizations succeed and why others don’t, or do we just assume? No matter your definition of success, hitting a target stock price, making a certain amount of money, meeting a revenue or profit goal, getting a big promotion, starting your own company, feeding the poor, winning public office, how we go about achieving our goals is very similar. Some of us just wing it, but most of us try to at least gather some data so we can make educated decisions.
+Do we really know why some organizations succeed and why others don’t, or do we just assume? No matter your definition of success, hitting a target stock price, making a certain amount of money, meeting a revenue or profit goal, getting a big promotion, starting your own company, feeding the poor, winning public office, how we go about achieving our goals is very similar. Some of us just wing it, but most of us try to at least gather some data so we can make educated decisions.
 
 Sometimes this gathering process is formal, like conducting polls or market research. And sometimes it’s informal, like asking our friends and colleagues for advice or looking back on our own personal experience to provide some perspective. Regardless of the process or the goals, we all want to make educated decisions. More importantly, we all want to make the right decisions.
 
@@ -394,21 +394,19 @@ Bankers weren’t the first to be swept up by their own success. American car ma
 
 But there is an alternative.
 
-#### Part 2 An Alternative Perspective The golden circle there are a few leaders who choose to inspire other than manipulate in order to motivate people.
+#### Part 2 An Alternative Perspective The golden circle there are a few leaders who choose to inspire other than manipulate in order to motivate people. Whether individuals or organizations, every single one of these inspiring leaders thinks, acts and communicates exactly the same way. And it’s the complete opposite of the rest of us. Consciously or not, how they do it is by following a naturally occurring pattern that I call the golden circle.
 
-Whether individuals or organizations, every single one of these inspiring leaders thinks, acts and communicates exactly the same way. And it’s the complete opposite of the rest of us. Consciously or not, how they do it is by following a naturally occurring pattern that I call the golden circle. The concept of the golden circle was inspired by the golden ratio, a simple mathematical relationship that has fascinated mathematicians, biologists, architects, artists, musicians and naturists since the beginning of history.
+The concept of the golden circle was inspired by the golden ratio, a simple mathematical relationship that has fascinated mathematicians, biologists, architects, artists, musicians and naturists since the beginning of history. From the Egyptians to Pythagoras to Leonardo da Vinci, many have looked to the golden ratio to provide a mathematical formula for proportion and even beauty. It also supports the notion that there is more order in nature than we think, as in the symmetry of leaves and the geometric perfection of snowflakes. What I found so attractive about the golden ratio, however, was that it had so many applications in so many fields.
 
-From the Egyptians to Pythagoras to Leonardo da Vinci, many have looked to the golden ratio to provide a mathematical formula for proportion and even beauty. It also supports the notion that there is more order in nature than we think, as in the symmetry of leaves and the geometric perfection of snowflakes. What I found so attractive about the golden ratio, however, was that it had so many applications in so many fields. And even more significantly, it offered a formula that could produce repeatable and predictable results in places where such results might have been assumed to be a random occurrence or luck.
+And even more significantly, it offered a formula that could produce repeatable and predictable results in places where such results might have been assumed to be a random occurrence or luck. Even mother nature, for most people a symbol of unpredictability, exhibited more order than we previously acknowledged. Like the golden ratio, which offers evidence of order in the seeming disorder of nature, the golden circle finds order and predictability in a human behavior. Put simply, it helps us understand why we do what we do.
 
-Even mother nature, for most people a symbol of unpredictability, exhibited more order than we previously acknowledged. Like the golden ratio, which offers evidence of order in the seeming disorder of nature, the golden circle finds order and predictability in a human behavior. Put simply, it helps us understand why we do what we do. The golden circle provides compelling evidence of how much more we can achieve if we remind ourselves to start everything we do by first asking why.
+The golden circle provides compelling evidence of how much more we can achieve if we remind ourselves to start everything we do by first asking why. The golden circle is an alternative perspective to existing assumptions about why some leaders and organizations have achieved such a disproportionate degree of influence. It offers clear insight as to how Apple is able to innovate in so many diverse industries and never lose its ability to do so. It explains why people tattoo Harley-Davidson logos on their bodies.
 
-The golden circle is an alternative perspective to existing assumptions about why some leaders and organizations have achieved such a disproportionate degree of influence. It offers clear insight as to how Apple is able to innovate in so many diverse industries and never lose its ability to do so. It explains why people tattoo Harley-Davidson logos on their bodies. It provides a clearer understanding not just of how Southwest Airlines created the most profitable airline in history, but why the things it did worked.
+It provides a clearer understanding not just of how Southwest Airlines created the most profitable airline in history, but why the things it did worked. It even gives some clarity as to why people follow Dr. Martin Luther King Jr. in a movement that changed a nation and why we took up John F. Kennedy’s challenge to put a man on the moon even after he died. The golden circle shows how these leaders were able to inspire action instead of manipulating people to act.
 
-It even gives some clarity as to why people follow Dr. Martin Luther King Jr. in a movement that changed a nation and why we took up John F. Kennedy’s challenge to put a man on the moon even after he died. The golden circle shows how these leaders were able to inspire action instead of manipulating people to act. This alternative perspective is not just useful for changing the world, there are practical applications for the ability to inspire, too.
+This alternative perspective is not just useful for changing the world, there are practical applications for the ability to inspire, too. It can be used as a guide to vastly improving leadership, corporate culture, hiring, product development, sales, and marketing. It even explains loyalty and how to create enough momentum to turn an idea into a social movement. And it all starts from the inside out.
 
-It can be used as a guide to vastly improving leadership, corporate culture, hiring, product development, sales, and marketing. It even explains loyalty and how to create enough momentum to turn an idea into a social movement. And it all starts from the inside out. It all starts with why.
-
-Before we can explore its applications, let me first define the terms, starting from the outside of the circle and moving inward. What, every single company and organization on the planet knows what they do.
+It all starts with why. Before we can explore its applications, let me first define the terms, starting from the outside of the circle and moving inward. What, every single company and organization on the planet knows what they do.
 
 
 <a id="sec-005526"></a>
@@ -942,29 +940,27 @@ With a clear sense of why, a debate to take on a bad-fit client turns into 86. C
 
 When we are selective about doing business only with those who believe in our why, trust emerges.
 
-#### Part 3, Leaders Need a Following The emergence of trust to say that most of the company’s employees were embarrassed to work there was an understatement.
+#### Part 3, Leaders Need a Following The emergence of trust to say that most of the company’s employees were embarrassed to work there was an understatement. It was no secret that the employees felt mistreated. And if a company mistreats their people, just watch how the employees treat their customers. Mud rolls down a hill, and if you’re the one standing at the bottom, you get hit with the full brunt.
 
-It was no secret that the employees felt mistreated. And if a company mistreats their people, just watch how the employees treat their customers. Mud rolls down a hill, and if you’re the one standing at the bottom, you get hit with the full brunt. In a company, that’s usually the customer.
+In a company, that’s usually the customer. Throughout the 1980s, this was life at Continental Airlines, the worst airline in the industry. I could see Continental’s biggest problem the second I walked in the door in February of 1994, Gordon Bethune wrote in From Worst to First, the chief executive’s first-hand account of Continental’s turnaround. It was a crummy place to work.
 
-Throughout the 1980s, this was life at Continental Airlines, the worst airline in the industry. I could see Continental’s biggest problem the second I walked in the door in February of 1994, Gordon Bethune wrote in From Worst to First, the chief executive’s first-hand account of Continental’s turnaround. It was a crummy place to work. Employees were surly to customers, surly to each other, and ashamed of their company.
+Employees were surly to customers, surly to each other, and ashamed of their company. And you can’t have a good product without people who like coming to work. It just can’t be done, he recounts. It just can’t.
 
-And you can’t have a good product without people who like coming to work. It just can’t be done, he recounts. It just can’t. Herb Kelleher, the head of Southwest for 20 years, was considered a heretic for positing the notion that it is a company’s responsibility to look after the employees first.
+Herb Kelleher, the head of Southwest for 20 years, was considered a heretic for positing the notion that it is a company’s responsibility to look after the employees first. Happy employees ensure happy customers, he said. And happy customers ensure happy shareholders, in that order. Fortunately, Bethune shared this heretical belief.
 
-Happy employees ensure happy customers, he said. And happy customers ensure happy shareholders, in that order. Fortunately, Bethune shared this heretical belief. Some would argue that the reason Continental’s culture was so poisonous was that the company was struggling.
+Some would argue that the reason Continental’s culture was so poisonous was that the company was struggling. They would tell you that it’s hard for executives to focus on anything other than survival when a company is facing hard times. Once we get profitable again, the logic went, then we will take a look at everything else. And without a doubt, throughout the 1980s and early 1990s, Continental struggled.
 
-They would tell you that it’s hard for executives to focus on anything other than survival when a company is facing hard times. Once we get profitable again, the logic went, then we will take a look at everything else. And without a doubt, throughout the 1980s and early 1990s, Continental struggled. The company filed for Chapter 11 bankruptcy protection twice in 8 years, once in 1983 and again in 1991, and managed to go through 10 course in a decade.
+The company filed for Chapter 11 bankruptcy protection twice in 8 years, once in 1983 and again in 1991, and managed to go through 10 course in a decade. In 1994, the year Bethune took over as the newest CEO, the company had lost $600 million and ranked last in every measurable performance category. But all that didn’t last long once Bethune arrived. The very next year Continental made $250 million and was soon ranked as one of the best companies to work for in America.
 
-In 1994, the year Bethune took over as the newest CEO, the company had lost $600 million and ranked last in every measurable performance category. But all that didn’t last long once Bethune arrived. The very next year Continental made $250 million and was soon ranked as one of the best companies to work for in America. And while Bethune made significant changes to improve the operations, the greatest gains were in a performance category that is nearly impossible to measure – trust.
+And while Bethune made significant changes to improve the operations, the greatest gains were in a performance category that is nearly impossible to measure – trust. Trust does not emerge simply because a seller makes a rational case why the customer should buy a product or service, or because an executive promises change. Trust is not a checklist. Fulfilling all your responsibilities does not create trust.
 
-Trust does not emerge simply because a seller makes a rational case why the customer should buy a product or service, or because an executive promises change. Trust is not a checklist. Fulfilling all your responsibilities does not create trust. Trust is a feeling, not a rational experience.
+Trust is a feeling, not a rational experience. We trust some people and companies even when things go wrong, and we don’t trust others even though everything might have gone exactly as it should have. A completed checklist does not guarantee trust. Trust begins to emerge when we have a sense that another person or organization is driven by things other than their own self-gain.
 
-We trust some people and companies even when things go wrong, and we don’t trust others even though everything might have gone exactly as it should have. A completed checklist does not guarantee trust. Trust begins to emerge when we have a sense that another person or organization is driven by things other than their own self-gain. With trust comes a sense of value, real value, not just value equated with money.
+With trust comes a sense of value, real value, not just value equated with money. Value, by definition, is the transference of trust. You can’t convince someone you have value, just as you can’t convince someone to trust you. You have to earn trust by communicating and demonstrating that you share the same values and beliefs.
 
-Value, by definition, is the transference of trust. You can’t convince someone you have value, just as you can’t convince someone to trust you. You have to earn trust by communicating and demonstrating that you share the same values and beliefs. You have to talk about your why and prove it with what you do.
+You have to talk about your why and prove it with what you do. Again, a why is just a belief, how’s are the actions we take to realize that belief, and what’s are the results of those actions? When all three are in balance, trust is built and value is perceived. This is what Bethune was able to do.
 
-Again, a why is just a belief, how’s are the actions we take to realize that belief, and what’s are the results of those actions? When all three are in balance, trust is built and value is perceived. This is what Bethune was able to do. There are many talented executives with the ability to manage operations, but great leadership is not based solely on great operational ability.
-
-Leading is not the same as being the leader. Being the leader means you hold the highest rank, either by earning it, good fortune or navigating internal politics. Leading, however, means that others willingly follow you, not because they have to, not because they are paid to, but because they want to.
+There are many talented executives with the ability to manage operations, but great leadership is not based solely on great operational ability. Leading is not the same as being the leader. Being the leader means you hold the highest rank, either by earning it, good fortune or navigating internal politics. Leading, however, means that others willingly follow you, not because they have to, not because they are paid to, but because they want to.
 
 
 <a id="sec-022616"></a>
@@ -1580,33 +1576,33 @@ And everyone there that day, regardless of skin color or race or sex, trusted ea
 
 We believed.
 
-#### Part 4 – How to rally those who believe but know how energy excites.
+#### Part 4 – How to rally those who believe but know how energy excites. Charisma inspires. Rah. With the roar, Steve Ballmer, the man who replaced Bill Gates as CEO of Microsoft, bursts onto the stage of the company’s annual global summit meeting.
 
-Charisma inspires. Rah. With the roar, Steve Ballmer, the man who replaced Bill Gates as CEO of Microsoft, bursts onto the stage of the company’s annual global summit meeting. Ballmer loves Microsoft, he says so in no uncertain words.
+Ballmer loves Microsoft, he says so in no uncertain words. He also knows how to pump up a crowd. His energy is almost folkloric. He pumps his fists and runs from one end of the stage to the other, he screams and he sweats.
 
-He also knows how to pump up a crowd. His energy is almost folkloric. He pumps his fists and runs from one end of the stage to the other, he screams and he sweats. He is remarkable to watch and the crowd loves it.
+He is remarkable to watch and the crowd loves it. As Ballmer proves, without a doubt, energy can motivate a crowd. But can it inspire a population? What happens the next day or the next week when Ballmer’s energy is not there to motivate his employees?
 
-As Ballmer proves, without a doubt, energy can motivate a crowd. But can it inspire a population? What happens the next day or the next week when Ballmer’s energy is not there to motivate his employees? Is energy enough to keep a company of about 80,000 people focused?
+Is energy enough to keep a company of about 80,000 people focused? In contrast, Bill Gates is shy and awkward, a social misfit. He does not fit the stereotype of the leader of a multi-billion dollar corporation. He is not the most energetic public speaker.
 
-In contrast, Bill Gates is shy and awkward, a social misfit. He does not fit the stereotype of the leader of a multi-billion dollar corporation. He is not the most energetic public speaker. When Bill Gates speaks, however, people listen with bated breath.
+When Bill Gates speaks, however, people listen with bated breath. They hang on his every word. When Gates speaks, he doesn’t rally a room, he inspires it. Those who hear him take what he says and carry his words with them for weeks, months or years.
 
-They hang on his every word. When Gates speaks, he doesn’t rally a room, he inspires it. Those who hear him take what he says and carry his words with them for weeks, months or years. Gates doesn’t have energy, but Bill Gates inspires.
+Gates doesn’t have energy, but Bill Gates inspires. Energy motivates but charisma inspires. Energy is easy to see, easy to measure and easy to copy. Charisma is hard to define, nearly impossible to measure and too elusive to copy.
 
-Energy motivates but charisma inspires. Energy is easy to see, easy to measure and easy to copy. Charisma is hard to define, nearly impossible to measure and too elusive to copy. All great leaders have charisma because all great leaders have clarity of why, and an undying belief in a purpose or cause bigger than themselves.
+All great leaders have charisma because all great leaders have clarity of why, and an undying belief in a purpose or cause bigger than themselves. It’s not Bill Gates’s passion for computers that inspires us, it’s his undying optimism that even the most complicated problems can being solved. He believes we can find ways to remove obstacles to ensure that everyone can live and work to their greatest potential. It is his five optimism to which we are drawn.
 
-It’s not Bill Gates’s passion for computers that inspires us, it’s his undying optimism that even the most complicated problems can being solved. He believes we can find ways to remove obstacles to ensure that everyone can live and work to their greatest potential. It is his five optimism to which we are drawn. Going through the computer revolution, he saw the computer as a perfect technology to help us all become more productive and achieve our greatest potential.
+Going through the computer revolution, he saw the computer as a perfect technology to help us all become more productive and achieve our greatest potential. That belief inspired his vision of a, PC on every desk to come to life. Ironic considering Microsoft never even made pieces. It wasn’t just what computers did that, Gates saw the impact for the new technology, it was why we needed them.
 
-That belief inspired his vision of a, PC on every desk to come to life. Ironic considering Microsoft never even made pieces. It wasn’t just what computers did that, Gates saw the impact for the new technology, it was why we needed them. Today, the work he does with the Bill and Melinda Gates Foundation has nothing to do with software, but it is another way he has found to bring his why to life.
+Today, the work he does with the Bill and Melinda Gates Foundation has nothing to do with software, but it is another way he has found to bring his why to life. He is looking for ways to solve problems. He still has an undying belief. And he still, believes that if we can help people, this time those with less privilege, remove some seemingly simple obstacles, then they too will have an opportunity to be more productive and lift themselves up to achieve their great.
 
-He is looking for ways to solve problems. He still has an undying belief. And he still, believes that if we can help people, this time those with less privilege, remove some seemingly simple obstacles, then they too will have an opportunity to be more productive and lift themselves up to achieve their great. Status but why, but know how potential. For Gates, all that has changed is what he is doing to bring his cause to life.
+Status but why, but know how potential. For Gates, all that has changed is what he is doing to bring his cause to life. Charisma has nothing to do with energy, it comes from a clarity of why. It comes from absolute conviction in an ideal bigger than oneself.
 
-Charisma has nothing to do with energy, it comes from a clarity of why. It comes from absolute conviction in an ideal bigger than oneself. Energy, in contrast, comes from a good night’s sleep or lots of caffeine. Energy can excite.
+Energy, in contrast, comes from a good night’s sleep or lots of caffeine. Energy can excite. But only charisma can inspire. The commands loyalty.
 
-But only charisma can inspire. The commands loyalty. Energy does not. Energy can always be injected into an organization to motivate people to do things.
+Energy does not. Energy can always be injected into an organization to motivate people to do things. Bonuses, promotions, other carrots and even a few sticks can get people to work harder, for sure, but the gains are, like all manipulations, short term. Over time, such tactics cost more money and increase stress for employee and employer alike, and eventually will become the main reason people show up for work every day.
 
-Bonuses, promotions, other carrots and even a few sticks can get people to work harder, for sure, but the gains are, like all manipulations, short term. Over time, such tactics cost more money and increase stress for employee and employer alike, and eventually will become the main reason people show up for work every day. That’s not loyalty. That’s the employee version of repeat business.
+That’s not loyalty. That’s the employee version of repeat business. Loyalty among employees is when they turn down more money or benefits to continue working at the same company. Loyalty to a company trumps pay and benefits.
 
-Loyalty among employees is when they turn down more money or benefits to continue working at the same company. Loyalty to a company trumps pay and benefits. And unless you’re an astronaut, it’s not the work we do that inspires us either.
+And unless you’re an astronaut, it’s not the work we do that inspires us either.
 
 
 <a id="sec-041159"></a>
@@ -2072,11 +2068,11 @@ The only difference is what they are doing to bring that cause to life. The good
 
 A lot. It is at the what level that a cause is brought to life. It is at this level that a company speaks to the outside world and it is then that we can learn what the company believes.
 
-#### Part 5, The Biggest Challenge is Success.
+#### Part 5, The Biggest Challenge is Success. When why goes fuzzy Goliath flinched a lot of what goes on these days with high flying companies and these overpaid cars? who are really just looting from the top and aren’t watching out for anybody but themselves, really upsets me.
 
-When why goes fuzzy Goliath flinched a lot of what goes on these days with high flying companies and these overpaid cars? who are really just looting from the top and aren’t watching out for anybody but themselves, really upsets me. It’s one of the main things wrong with American business today. This is the sentiment passed down from the founder of one of the most vilified companies in recent history. Raised on a farm in America’s heartland, he came of age during the Great Depression.
+It’s one of the main things wrong with American business today. This is the sentiment passed down from the founder of one of the most vilified companies in recent history. Raised on a farm in America’s heartland, he came of age during the Great Depression. This probably explained his predisposition for frugality.
 
-This probably explained his predisposition for frugality. Working 5 feet 9 inches and weighing only 130 pounds when he played football in high school, Sam Walton, the founder of Walmart, learned early the value of working hard. Working hard leads to winning. And as the quarterback on his high school football team, he won the lot.
+Working 5 feet 9 inches and weighing only 130 pounds when he played football in high school, Sam Walton, the founder of Walmart, learned early the value of working hard. Working hard leads to winning. And as the quarterback on his high school football team, he won the lot.
 
 In fact, they went on to become state champs. Whether through hard work, luck or just an unflappable optimism, Walton got so used to winning all the time that he couldn’t fully visualize what losing looked like. He simply couldn’t imagine it. Walton even philosophized that always thinking about winning probably became a self-fulfilling prophecy for him.
 
@@ -2482,13 +2478,13 @@ It’s one of the main things wrong with American business today. Three more cou
 
 Duke, who took over as CEO in early 2009. Duke’s goal is to restore the luster and the clarity of Walmart’s why. And to do it, he started by paying himself an annual salary of $5.43 million.
 
-#### Part 6, Discover Why.
+#### Part 6, Discover Why. The Origins of a Why.
 
-The Origins of a Why. It started in Vietnam War era Northern California, where anti-government ideals and disdain for large centers of power and rampant. Two young men saw the power of government and corporations as the enemy, not because they were big, per se, but because they squashed the spirit of the individual. They imagined a world in which an individual had a voice.
+It started in Vietnam War era Northern California, where anti-government ideals and disdain for large centers of power and rampant. Two young men saw the power of government and corporations as the enemy, not because they were big, per se, but because they squashed the spirit of the individual. They imagined a world in which an individual had a voice. They imagined a time when an individual could successfully stand up to incumbent power, old assumptions and status quo thoughts and successfully challenge them.
 
-They imagined a time when an individual could successfully stand up to incumbent power, old assumptions and status quo thoughts and successfully challenge them. Even redirect them. They hung out with hippy types who shared their beliefs, but they saw a different way to change the world that didn’t require protesting or engaging in anything illegal. Steve Wozniak and Steve Jobs came of age in this time.
+Even redirect them. They hung out with hippy types who shared their beliefs, but they saw a different way to change the world that didn’t require protesting or engaging in anything illegal. Steve Wozniak and Steve Jobs came of age in this time. Not only was the revolutionary spirit running high in Northern California, but it was also the time and place of the computer revolution.
 
-Not only was the revolutionary spirit running high in Northern California, but it was also the time and place of the computer revolution. And in this technology they saw the opportunity to start their own revolution. The Apple gave an individual the power to do the same things as any company, Wozniak recounts. For the first time ever, one person could take on a corporation simply because they had the
+And in this technology they saw the opportunity to start their own revolution. The Apple gave an individual the power to do the same things as any company, Wozniak recounts. For the first time ever, one person could take on a corporation simply because they had the
 
 
 <a id="sec-064320"></a>

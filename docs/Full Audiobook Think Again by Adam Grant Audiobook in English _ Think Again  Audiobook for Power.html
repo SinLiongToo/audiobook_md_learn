@@ -66,26 +66,12 @@
       --card-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
     }
 
-    [data-line-height="compact"] {
-      --line-height: 1.68;
-    }
-    [data-line-height="normal"] {
-      --line-height: 1.88;
-    }
-    [data-line-height="loose"] {
-      --line-height: 2.12;
-    }
+    [data-line-height="compact"] { --line-height: 1.68; }
+    [data-line-height="normal"] { --line-height: 1.88; }
+    [data-line-height="loose"] { --line-height: 2.12; }
 
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
-    html {
-      scroll-behavior: smooth;
-    }
-
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
     body {
       font-family: var(--font-family);
       font-size: var(--font-size);
@@ -119,7 +105,7 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 0 20px;
+      padding: 0 18px;
       background-color: var(--bg-header);
       backdrop-filter: blur(8px);
       -webkit-backdrop-filter: blur(8px);
@@ -129,7 +115,7 @@
     .header-left, .header-right {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 8px;
       flex-wrap: nowrap;
     }
 
@@ -138,7 +124,7 @@
       border: 1px solid var(--border-color);
       color: var(--text-primary);
       cursor: pointer;
-      font-size: 14px;
+      font-size: 13.5px;
       padding: 6px 10px;
       border-radius: 8px;
       display: inline-flex;
@@ -147,6 +133,7 @@
       transition: all 0.2s;
       white-space: nowrap;
       user-select: none;
+      text-decoration: none;
     }
     .btn-icon:hover {
       background-color: var(--accent-light);
@@ -161,11 +148,132 @@
       font-size: 14px;
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
+    }
+    .home-link:hover { color: var(--accent-color); }
+
+    /* In-Page Search Bar Dropdown */
+    .inpage-search-bar {
+      position: sticky;
+      top: 60px;
+      z-index: 890;
+      background-color: var(--bg-surface);
+      border-bottom: 1px solid var(--border-color);
+      padding: 10px 18px;
+      display: none;
+      align-items: center;
+      gap: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    }
+    .inpage-search-bar.active { display: flex; }
+
+    .inpage-search-input-wrapper {
+      flex: 1;
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    .inpage-search-input {
+      width: 100%;
+      padding: 8px 36px 8px 12px;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      font-size: 14px;
+    }
+    .inpage-search-input:focus { outline: 2px solid var(--accent-color); }
+
+    .inpage-search-clear {
+      position: absolute;
+      right: 10px;
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 16px;
     }
 
-    .home-link:hover {
+    .inpage-search-count {
+      font-size: 13px;
+      color: var(--text-secondary);
+      font-family: monospace;
+      white-space: nowrap;
+    }
+    .search-nav-btns { display: flex; gap: 6px; }
+
+    /* In-Page Search Results Drawer */
+    .inpage-search-drawer {
+      position: fixed;
+      right: 20px;
+      top: 120px;
+      width: 360px;
+      max-height: calc(100vh - 160px);
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+      z-index: 895;
+      display: none;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .inpage-search-drawer.active { display: flex; }
+    .inpage-search-drawer-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-weight: 600;
+      font-size: 14px;
+    }
+    .inpage-search-drawer-list {
+      overflow-y: auto;
+      padding: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .search-result-item {
+      padding: 10px 12px;
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+      background: var(--bg-primary);
+      cursor: pointer;
+      font-size: 13px;
+      transition: all 0.15s;
+    }
+    .search-result-item:hover, .search-result-item.active {
+      border-color: var(--accent-color);
+      background: var(--accent-light);
+    }
+    .search-result-time {
+      font-weight: 700;
       color: var(--accent-color);
+      font-family: monospace;
+      margin-bottom: 4px;
+    }
+    .search-result-snippet {
+      color: var(--text-primary);
+      line-height: 1.5;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    /* Highlight mark */
+    mark.search-highlight {
+      background-color: #fef08a;
+      color: #1f2937;
+      padding: 1px 3px;
+      border-radius: 3px;
+    }
+    mark.search-highlight.active-match {
+      background-color: #f97316;
+      color: #ffffff;
+      outline: 2px solid #ea580c;
     }
 
     /* Layout Wrapper */
@@ -212,9 +320,7 @@
       font-size: 13px;
       margin-bottom: 14px;
     }
-    .toc-search:focus {
-      outline: 2px solid var(--accent-color);
-    }
+    .toc-search:focus { outline: 2px solid var(--accent-color); }
 
     .toc-list {
       list-style: none;
@@ -237,12 +343,10 @@
       overflow: hidden;
       text-overflow: ellipsis;
     }
-
     .toc-item a:hover {
       background-color: var(--accent-light);
       color: var(--accent-color);
     }
-
     .toc-item.active a {
       background-color: var(--accent-color);
       color: #ffffff;
@@ -257,19 +361,17 @@
       display: flex;
       justify-content: center;
     }
-
     .reader-container {
       width: 100%;
       max-width: var(--content-max-width);
     }
 
-    /* Book Hero / Header */
+    /* Book Hero */
     .book-hero {
       margin-bottom: 40px;
       padding-bottom: 24px;
       border-bottom: 2px solid var(--border-color);
     }
-
     .book-hero h1 {
       font-size: 2.1em;
       line-height: 1.35;
@@ -285,7 +387,6 @@
       gap: 10px;
       margin-top: 14px;
     }
-
     .meta-chip {
       display: inline-flex;
       align-items: center;
@@ -297,8 +398,13 @@
       font-size: 13px;
       font-weight: 500;
     }
+    .meta-chip.cat-badge {
+      background-color: #8b5cf622;
+      color: #8b5cf6;
+      font-weight: 600;
+    }
 
-    /* Content Typography & Enhanced Paragraphs */
+    /* Content Typography */
     .transcript-section {
       margin-bottom: 50px;
       scroll-margin-top: 80px;
@@ -349,25 +455,22 @@
       letter-spacing: 0.015em;
     }
 
-    /* Indented paragraph style (Traditional) */
+    /* Indented paragraph style */
     [data-p-style="indent"] .section-body p {
       text-indent: 2em;
       margin-bottom: 1.15em;
       line-height: var(--line-height);
     }
 
-    /* Block paragraph style (Modern with whitespace) */
+    /* Block paragraph style */
     [data-p-style="block"] .section-body p {
       text-indent: 0;
       margin-bottom: 1.55em;
       line-height: var(--line-height);
     }
+    .section-body p:last-child { margin-bottom: 0; }
 
-    .section-body p:last-child {
-      margin-bottom: 0;
-    }
-
-    /* Floating Navigation Controls */
+    /* Floating Tools */
     .floating-tools {
       position: fixed;
       bottom: 24px;
@@ -377,7 +480,6 @@
       gap: 10px;
       z-index: 800;
     }
-
     .float-btn {
       width: 44px;
       height: 44px;
@@ -399,7 +501,6 @@
       color: var(--accent-color);
     }
 
-    /* Overlay for mobile drawer */
     .backdrop {
       display: none;
       position: fixed;
@@ -419,36 +520,22 @@
         transform: translateX(-100%);
         box-shadow: 4px 0 16px rgba(0,0,0,0.15);
       }
-
-      .sidebar.open {
-        transform: translateX(0);
-      }
-
-      .backdrop.open {
-        display: block;
+      .sidebar.open { transform: translateX(0); }
+      .backdrop.open { display: block; }
+      .inpage-search-drawer {
+        left: 20px;
+        right: 20px;
+        width: auto;
       }
     }
 
     @media (max-width: 640px) {
-      :root {
-        --font-size: 17px;
-      }
-      .main-content {
-        padding: 24px 16px 60px 16px;
-      }
-      .book-hero h1 {
-        font-size: 1.55em;
-      }
-      .top-header {
-        padding: 0 10px;
-      }
-      .btn-icon {
-        padding: 5px 8px;
-        font-size: 13px;
-      }
-      [data-p-style="indent"] .section-body p {
-        text-indent: 1.5em;
-      }
+      :root { --font-size: 17px; }
+      .main-content { padding: 24px 16px 60px 16px; }
+      .book-hero h1 { font-size: 1.55em; }
+      .top-header { padding: 0 10px; }
+      .btn-icon { padding: 5px 7px; font-size: 12.5px; }
+      [data-p-style="indent"] .section-body p { text-indent: 1.5em; }
     }
   </style>
 </head>
@@ -464,6 +551,14 @@
       <a href="index.html" class="home-link" title="返回書架">
         🏠 書架
       </a>
+      <!-- Search Inside Book Button -->
+      <button class="btn-icon" id="search-toggle-btn" title="搜尋本書內文 (Ctrl+F)">
+        🔍 <span>搜尋內文</span>
+      </button>
+      <!-- Global Search Link -->
+      <a href="index.html?tab=search" class="btn-icon" title="前往全書庫全文檢索">
+        🌐 <span>全庫搜尋</span>
+      </a>
     </div>
 
     <div class="header-right">
@@ -473,7 +568,7 @@
       </button>
 
       <!-- Line Height Toggle -->
-      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 精簡)">
+      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 緊湊)">
         ↕ <span id="line-height-label">行距</span>
       </button>
 
@@ -492,6 +587,29 @@
       <button class="btn-icon" id="font-inc-btn" title="放大字級">A+</button>
     </div>
   </header>
+
+  <!-- In-Page Search Bar Dropdown -->
+  <div class="inpage-search-bar" id="inpage-search-bar">
+    <div class="inpage-search-input-wrapper">
+      <input type="text" id="inpage-search-input" class="inpage-search-input" placeholder="🔍 搜尋本書內文關鍵字 (按 Enter 尋找下一處，Esc 關閉)...">
+      <button class="inpage-search-clear" id="inpage-search-clear" title="清空">✕</button>
+    </div>
+    <span class="inpage-search-count" id="inpage-search-count">0 / 0</span>
+    <div class="search-nav-btns">
+      <button class="btn-icon" id="inpage-search-prev" title="上一處 (Shift+Enter)">▲</button>
+      <button class="btn-icon" id="inpage-search-next" title="下一處 (Enter)">▼</button>
+      <button class="btn-icon" id="inpage-search-close" title="關閉搜尋 (Esc)">✕</button>
+    </div>
+  </div>
+
+  <!-- In-Page Search Results Drawer -->
+  <div class="inpage-search-drawer" id="inpage-search-drawer">
+    <div class="inpage-search-drawer-header">
+      <span>搜尋結果清單</span>
+      <button class="btn-icon" id="inpage-drawer-close" style="padding: 2px 6px;">✕</button>
+    </div>
+    <div class="inpage-search-drawer-list" id="inpage-search-drawer-list"></div>
+  </div>
 
   <div class="backdrop" id="backdrop"></div>
 
@@ -614,6 +732,7 @@
         <header class="book-hero">
           <h1>Full Audiobook Think Again by Adam Grant Audiobook in English _ Think Again  Audiobook for Power</h1>
           <div class="book-meta-chips">
+            <span class="meta-chip cat-badge">🧠 哲學與思辨</span>
             <span class="meta-chip">🏷️ 時長：08:26:11</span>
 <span class="meta-chip">🏷️ 模型：small.en</span>
 <span class="meta-chip">🏷️ 日期：2026-09-22</span>
@@ -621,7 +740,7 @@
         </header>
 
         <!-- Transcript Content -->
-        <div class="book-body">
+        <div class="book-body" id="book-body">
           
         <section class="transcript-section" id="sec-000000">
           <div class="section-header">
@@ -707,10 +826,10 @@
 <p class="prose-p">The greatest tragedy of mungulch is that a dozen smoke jumpers died fighting a fire that never needed to be fought. As early as the 1880s, scientists had begun highlighting the important role that wildfires play in the life cycles of forests. Fires remove dead matter, send nutrients into the soil, and clear a path for sunlight. When fires are suppressed, forests are left too dense.</p>
 <p class="prose-p">The accumulation of brushed dry leaves and twigs becomes fuel for more explosive wildfires. Yet it wasn’t until 1978 that the US Forest Service put an end to its policy that every fire spotted should be extinguished by 10am the following day. The mungulch wildfire took place in a remote area where human lives were not at risk. The smoke jumpers were called in any way because no one in their community, their organization, or their profession had done enough to question the assumption that wildfires should not be allowed to run their course.</p>
 <p class="prose-p">This book is an invitation to let go of knowledge and opinions that are no longer serving you well and to anchor your sense of self in flexibility rather than consistency. If you can master the art of rethinking, I believe you’ll be better positioned for success at work and happiness in life. Thinking again can help you generate new solutions to old problems and revisit old solutions to new problems. It’s a path to learning more from the people around you and living with fewer regrets.</p>
-<p class="prose-p">A hallmark of wisdom is knowing when it’s time to abandon some of your most treasured tools and some of the most cherished parts of your identity.</p>
-<h4 class="section-subhead">Part 1 Individual Rethinking Updating Our Own Views Chapter 1 A preacher, a prosecutor, a politician, and a scientist walk into your mind.</h4>
-<p class="prose-p">Progress is impossible without change and those who cannot change their minds cannot change anything. George Bernard Shaw, you probably don’t recognize his name, but Mike Lazaridis has had a defining impact on your life. From an early age, it was clear that Mike was something of an electronics wizard. By the end of this video, please like, share, and subscribe! time he turned 4, he was building his own record player out of Legos and rubber bands.</p>
-<p class="prose-p">In high school, when his teachers had broken TVs, they called Mike to fix them. In his spare time, he built a computer and designed a better buzzer for high school quiz</p>
+<p class="prose-p">A hallmark of wisdom is knowing when it’s time to abandon some of your most treasured tools and some of the most cherished parts of your identity.
+
+#### Part 1 Individual Rethinking Updating Our Own Views Chapter 1 A preacher, a prosecutor, a politician, and a scientist walk into your mind. Progress is impossible without change and those who cannot change their minds cannot change anything. George Bernard Shaw, you probably don’t recognize his name, but Mike Lazaridis has had a defining impact on your life.</p>
+<p class="prose-p">From an early age, it was clear that Mike was something of an electronics wizard. By the end of this video, please like, share, and subscribe! time he turned 4, he was building his own record player out of Legos and rubber bands. In high school, when his teachers had broken TVs, they called Mike to fix them. In his spare time, he built a computer and designed a better buzzer for high school quiz</p>
           </div>
         </section>
         
@@ -862,15 +981,15 @@
           <div class="section-body">
             <p class="prose-p">After six months of discussion, Jobs finally became curious enough to give the effort his blessing, and two different teams were off to the races in an experiment to test whether they should add calling capabilities to the iPod or turn the Mac into a miniature tablet that doubled as a phone. Just four years after it launched, the iPhone accounted for half of Apple’s revenue. The iPhone represented a dramatic leap in rethinking the smartphone. Since its inception, smartphone Inno, vision has been much more incremental, with different sizes and shapes, better cameras, and longer battery life, but few fundamental changes to the purpose or user experience.</p>
 <p class="prose-p">Looking back, if Mike Lazaridis had been more open to rethinking his pet product, would BlackBerry and Apple have compelled each other to reimagine the smartphone multiple times by now? The curse of knowledge is that it closes our minds to what we don’t know. Good judgment depends on having the skill and the will to open our minds. I am pretty confident that in life, rethinking is an increasingly important habit.</p>
-<p class="prose-p">Of course, I might be wrong. If I am, I’ll be quick to think again.</p>
-<h4 class="section-subhead">Chapter 2 The Armchair Quarterback and the Impostor Finding the Sweet Spot of Confidence Ignorance More Frequently Bugets Confidence Than Does Knowledge By Charles Darwin When Ursula Merckx was admitted to the clinic, she complained of headaches, back pain, and dizziness severe enough that she could no longer work.</h4>
-<p class="prose-p">Over the following month, her condition deteriorated. She struggled to locate the glass of water she put next to her bed. She couldn’t find the door to her room. She walked directly into her bed frame.</p>
-<p class="prose-p">Ursula was a seamstress in her mid-fifties, and she hadn’t lost her dexterity. She was able to cut different shapes out of paper with scissors. She could easily point to her nose, mouth, arms, and legs, and had no difficulty describing her home and her pets. For an Austrian doctor named Gabriel Anton, she presented a curious case.</p>
-<p class="prose-p">When Anton put a red ribbon and scissors on the table in front of her, she couldn’t name them, even though she confirmed calmly and faithfully that she could see the presented objects. She was clearly having problems with language production, which she acknowledged, and with spatial orientation. Yet something else was wrong. Ursula could no longer tell the difference between light and dark.</p>
-<p class="prose-p">When Anton held up an object and asked her to describe it, she didn’t even try to look at it but instead reached out to touch it. Tests showed that her eyesight was severely impaired. Oddly, when Anton asked her about the deficit, she insisted she could see. Eventually, when she lost her vision altogether, she remained completely unaware of it.</p>
-<p class="prose-p">It was now extremely astonishing, Anton wrote, that the patient did not notice her massive and later complete loss of her ability to see. She was mentally blind to her blindness. It was the late 1800s, and Ursula wasn’t alone. A decade earlier, a neuropathologist in Zurich had reported a case of a man who suffered an accident that left him blind but was unaware of it despite being intellectually unimpaired.</p>
-<p class="prose-p">Although he didn’t blink when a fist was placed in front of his face and couldn’t see the food on his plate, he thought he was in a dark humoured hole or cellar. Half a century later, a pair of doctors reported six cases of people who had gone blind but claimed otherwise. One of the most striking features in the behaviour of our patients was their inability to learn from their experiences. The doctors wrote, as they were not aware of their blindness when they walked about, they bumped into the furniture and walls but did not change their behaviour.</p>
-<p class="prose-p">When confronted with their blindness in a rather pointed fashion, they would either deny any visual difficulty or remark, it is so dark in the room, why don’t they turn the light on?</p>
+<p class="prose-p">Of course, I might be wrong. If I am, I’ll be quick to think again.
+
+#### Chapter 2 The Armchair Quarterback and the Impostor Finding the Sweet Spot of Confidence Ignorance More Frequently Bugets Confidence Than Does Knowledge By Charles Darwin When Ursula Merckx was admitted to the clinic, she complained of headaches, back pain, and dizziness severe enough that she could no longer work. Over the following month, her condition deteriorated. She struggled to locate the glass of water she put next to her bed.</p>
+<p class="prose-p">She couldn’t find the door to her room. She walked directly into her bed frame. Ursula was a seamstress in her mid-fifties, and she hadn’t lost her dexterity. She was able to cut different shapes out of paper with scissors.</p>
+<p class="prose-p">She could easily point to her nose, mouth, arms, and legs, and had no difficulty describing her home and her pets. For an Austrian doctor named Gabriel Anton, she presented a curious case. When Anton put a red ribbon and scissors on the table in front of her, she couldn’t name them, even though she confirmed calmly and faithfully that she could see the presented objects. She was clearly having problems with language production, which she acknowledged, and with spatial orientation.</p>
+<p class="prose-p">Yet something else was wrong. Ursula could no longer tell the difference between light and dark. When Anton held up an object and asked her to describe it, she didn’t even try to look at it but instead reached out to touch it. Tests showed that her eyesight was severely impaired.</p>
+<p class="prose-p">Oddly, when Anton asked her about the deficit, she insisted she could see. Eventually, when she lost her vision altogether, she remained completely unaware of it. It was now extremely astonishing, Anton wrote, that the patient did not notice her massive and later complete loss of her ability to see. She was mentally blind to her blindness.</p>
+<p class="prose-p">It was the late 1800s, and Ursula wasn’t alone. A decade earlier, a neuropathologist in Zurich had reported a case of a man who suffered an accident that left him blind but was unaware of it despite being intellectually unimpaired. Although he didn’t blink when a fist was placed in front of his face and couldn’t see the food on his plate, he thought he was in a dark humoured hole or cellar. Half a century later, a pair of doctors reported six cases of people who had gone blind but claimed otherwise.</p>
+<p class="prose-p">One of the most striking features in the behaviour of our patients was their inability to learn from their experiences. The doctors wrote, as they were not aware of their blindness when they walked about, they bumped into the furniture and walls but did not change their behaviour. When confronted with their blindness in a rather pointed fashion, they would either deny any visual difficulty or remark, it is so dark in the room, why don’t they turn the light on?</p>
           </div>
         </section>
         
@@ -1024,11 +1143,11 @@
 <p class="prose-p">Yet on election day, Haller stunned her country and herself by winning more than a quarter of the vote. She didn’t land the presidency, she came in second. Her 28% fell shy of the victors 39%. But Haller trounced Devi Ortson, who finished fourth with less than 14%.</p>
 <p class="prose-p">Based on her trajectory and momentum, it’s not crazy to imagine that with a few more weeks, she could have won. Great thinkers don’t harbour doubts because they’re impostors. They manta, in doubts because they know we’re all partially blind and they’re committed to improving their sight. They don’t boast about how much they know, they marvel at how little they understand.</p>
 <p class="prose-p">They’re aware that each answer raises new questions, and the quest for knowledge is never finished. A mark of lifelong learners is recognising that they can learn something from everyone they meet. Arrogance leaves us blind to our weaknesses. Humility is a reflective lens, it helps us see them clearly.</p>
-<p class="prose-p">Confident humility is a corrective lens, it enables us to overcome those weaknesses.</p>
-<h4 class="section-subhead">Chapter 3 The Joy of Being Wrong The thrill of not believing everything you think I have a degree from Harvard.</h4>
-<p class="prose-p">Whenever I’m wrong, the world makes a little less sense. By Dr. Fraser Crane, played by Kelsey Grammer. In the fall of 1959, a prominent psychologist welcomed new participants into a wildly unethical study. He had handpicked a group of Harvard sophomores to join a series of experiments that would run through the rest of their time in college.</p>
-<p class="prose-p">The students volunteered to spend a couple of hours a week contributing to knowledge about how personality develops and how psychological problems can be solved. They had no idea that they were actually signing up to have their beliefs attacked. The researcher, Henry Murray, had originally trained as a physician and biochemist. After becoming a distinguished psychologist, he was disillusioned that his field paid little attention to how people navigate difficult interactions, so he decided to create them in his own lab.</p>
-<p class="prose-p">He gave students a month to write out their personal philosophy of life, including their core values and guiding principles. When they showed up to submit their work, they were paired with another student who had done the same exercise. They would have a day or two to read each other’s philosophies, and then they would</p>
+<p class="prose-p">Confident humility is a corrective lens, it enables us to overcome those weaknesses.
+
+#### Chapter 3 The Joy of Being Wrong The thrill of not believing everything you think I have a degree from Harvard. Whenever I’m wrong, the world makes a little less sense. By Dr. Fraser Crane, played by Kelsey Grammer. In the fall of 1959, a prominent psychologist welcomed new participants into a wildly unethical study.</p>
+<p class="prose-p">He had handpicked a group of Harvard sophomores to join a series of experiments that would run through the rest of their time in college. The students volunteered to spend a couple of hours a week contributing to knowledge about how personality develops and how psychological problems can be solved. They had no idea that they were actually signing up to have their beliefs attacked. The researcher, Henry Murray, had originally trained as a physician and biochemist.</p>
+<p class="prose-p">After becoming a distinguished psychologist, he was disillusioned that his field paid little attention to how people navigate difficult interactions, so he decided to create them in his own lab. He gave students a month to write out their personal philosophy of life, including their core values and guiding principles. When they showed up to submit their work, they were paired with another student who had done the same exercise. They would have a day or two to read each other’s philosophies, and then they would</p>
           </div>
         </section>
         
@@ -1211,11 +1330,11 @@
 <p class="prose-p">Kaczynski displays little consideration of alternative views, barely a hint that he might be wrong. Consider just the opening, the Industrial Revolution and its consequences have been a disaster for the human race. They have destabilized society, have made life unfulfilling. The continued development of technology will worsen the situation.</p>
 <p class="prose-p">It will certainly subject human beings to greater indignities and inflict greater damage on the natural world. If the system survives, the consequences will be inevitable. There is no way of reforming or modifying the system. Kaczynski’s case leaves many questions about his mental health unanswered.</p>
 <p class="prose-p">Still, I can’t help but wonder if he had learned to question his opinions, would he still have been able to justify resorting to violence? If he had developed the capacity to discover that he was wrong, would he still have ended up doing something so wrong? Every time we encounter new information, we have a choice. We can attach our opinions to our identities and stand our ground in the stubbornness of preaching and prosecuting.</p>
-<p class="prose-p">Or we can operate more like scientists, defining ourselves as people committed to the pursuit of truth, even if it means proving our own views wrong.</p>
-<h4 class="section-subhead">Chapter 4 The Good Fight Club The psychology of constructive conflict arguments are extremely vulgar for everybody in good society holds exactly the same opinions.</h4>
-<p class="prose-p">By Oscar Wilde, as the two youngest boys in a big family, the bishop’s sons did everything together. They launched a newspaper and built their own printing press together. They opened a bicycle shop and then started manufacturing their own bikes together. And after years of toiling away at a seemingly impossible problem, they invented the first successful airplane together.</p>
-<p class="prose-p">Wilbur and Orwell Wright first caught the flying bug when their father brought home a toy helicopter. After it broke, they built one of their own. As they advanced from playing together to working together to rethinking human flight together, there was no trace of sibling rivalry between them. Wilbur even said they thought together.</p>
-<p class="prose-p">Even though it was Wilbur who launched the project, the brothers shared equal credit for their achievement. When it came time to decide who would pilot their historic</p>
+<p class="prose-p">Or we can operate more like scientists, defining ourselves as people committed to the pursuit of truth, even if it means proving our own views wrong.
+
+#### Chapter 4 The Good Fight Club The psychology of constructive conflict arguments are extremely vulgar for everybody in good society holds exactly the same opinions. By Oscar Wilde, as the two youngest boys in a big family, the bishop’s sons did everything together. They launched a newspaper and built their own printing press together. They opened a bicycle shop and then started manufacturing their own bikes together.</p>
+<p class="prose-p">And after years of toiling away at a seemingly impossible problem, they invented the first successful airplane together. Wilbur and Orwell Wright first caught the flying bug when their father brought home a toy helicopter. After it broke, they built one of their own. As they advanced from playing together to working together to rethinking human flight together, there was no trace of sibling rivalry between them.</p>
+<p class="prose-p">Wilbur even said they thought together. Even though it was Wilbur who launched the project, the brothers shared equal credit for their achievement. When it came time to decide who would pilot their historic</p>
           </div>
         </section>
         
@@ -1372,17 +1491,19 @@
             <p class="prose-p">arrived and started arguing against his own idea, suggesting that Orwell might be right. As they shifted into scientist mode they focused less on why different solutions would succeed a fail and more on how those solutions might work.</p>
 <p class="prose-p">Finally they identified problems with both of their approaches and realized they were both wrong. We worked out a theory of our own on the subject and soon discovered, Orwell wrote, that all the propellers built heretofore are all wrong. He exclaimed that their new design was all right till we have a chance to test them down at Kitty Hawk and find out differently. Even after building a better solution they were still open to rethinking it.</p>
 <p class="prose-p">At Kitty Hawk they found that it was indeed the Wright one. The Wright brothers had figured out that their airplane didn’t need a propeller. It needed two propellers spinning in opposite directions to function like a rotating wing. That’s the beauty of task conflict.</p>
-<p class="prose-p">In a great argument our adversary is not a foil but a propeller. With twin propellers spinning in divergent directions our thinking doesn’t get stuck on the ground. It takes flight.</p>
-<h4 class="section-subhead">Part 2.</h4>
-<p class="prose-p">Interpersonal rethinking. Opening other people’s minds.</p>
-<h4 class="section-subhead">Chapter 5 dances with fours how to win debates and influence people exhausting someone in argument is not the same as convincing him.</h4>
-<p class="prose-p">By Tim K. R. E. I.</p>
-<p class="prose-p">D. E. R. at 31 Harish Natarajan has won three dozen international debate tournaments. He’s been told it’s a world record but his opponent today presents a unique challenge.</p>
-<p class="prose-p">Deborah Joe Proctet is a prodigy hailing from Haifa, Israel. She’s just eight years old and although she made her first foray into public debating only last summer she’s been preparing for this moment for years. Deborah has absorbed countless articles to accumulate knowledge, closely studied speech writing to hone her clarity and even practiced her delivery to incorporate humor. Now she’s ready to challenge the champion himself.</p>
-<p class="prose-p">Her parents are hoping she’ll make history. Harish was a wonder kind too. By the time he was eight he was out maneuvering his own parents in dinner table debates about the Indian caste system. him. He went on to become the European debate champion and a grand finalist in the world debate championship and coached the Filipino national school debate team at the world championship.</p>
-<p class="prose-p">I was introduced to Harish by an unusually bright former student who used to compete against him and remembers having lost many likely all of their debates. Harish and Deborah are facing off in San Francisco in February 2019 in front of a large crowd. They’ve been kept in the dark about the debate topic. When they walk on stage the moderator announces the subject should preschools be subsidized by the government.</p>
-<p class="prose-p">After just 15 minutes of preparation Deborah will present her strongest arguments in favor of subsidies and Harish will marshal his best case against them. Their goal is to win the audience over to their side on preschool subsidies but their impact on me will be much broader. They’ll end up changing my view of what it takes to win a debate. Deborah kicks off with a joke drawing laughter from the crowd by telling Harish that although he may hold the world record in debate wins he’s never debated someone like her.</p>
-<p class="prose-p">Then she goes on to summarize an impressive number of studies citing her sources about the academic social and professional benefits of preschool programs. For good measure she quotes a former prime minister’s argument about preschool being a smart investment. Harish acknowledges the facts that Deborah presented but then makes his case that subsidizing preschools is not the appropriate remedy for the damage caused by poverty. He suggests that the issue should be evaluated on two grounds whether preschool is currently under provided and</p>
+<p class="prose-p">In a great argument our adversary is not a foil but a propeller. With twin propellers spinning in divergent directions our thinking doesn’t get stuck on the ground. It takes flight.
+
+#### Part 2. Interpersonal rethinking.</p>
+<p class="prose-p">Opening other people’s minds.
+
+#### Chapter 5 dances with fours how to win debates and influence people exhausting someone in argument is not the same as convincing him. By Tim K. R. E.</p>
+<p class="prose-p">I. D. E. R. at 31 Harish Natarajan has won three dozen international debate tournaments.</p>
+<p class="prose-p">He’s been told it’s a world record but his opponent today presents a unique challenge. Deborah Joe Proctet is a prodigy hailing from Haifa, Israel. She’s just eight years old and although she made her first foray into public debating only last summer she’s been preparing for this moment for years. Deborah has absorbed countless articles to accumulate knowledge, closely studied speech writing to hone her clarity and even practiced her delivery to incorporate humor.</p>
+<p class="prose-p">Now she’s ready to challenge the champion himself. Her parents are hoping she’ll make history. Harish was a wonder kind too. By the time he was eight he was out maneuvering his own parents in dinner table debates about the Indian caste system. him.</p>
+<p class="prose-p">He went on to become the European debate champion and a grand finalist in the world debate championship and coached the Filipino national school debate team at the world championship. I was introduced to Harish by an unusually bright former student who used to compete against him and remembers having lost many likely all of their debates. Harish and Deborah are facing off in San Francisco in February 2019 in front of a large crowd. They’ve been kept in the dark about the debate topic.</p>
+<p class="prose-p">When they walk on stage the moderator announces the subject should preschools be subsidized by the government. After just 15 minutes of preparation Deborah will present her strongest arguments in favor of subsidies and Harish will marshal his best case against them. Their goal is to win the audience over to their side on preschool subsidies but their impact on me will be much broader. They’ll end up changing my view of what it takes to win a debate.</p>
+<p class="prose-p">Deborah kicks off with a joke drawing laughter from the crowd by telling Harish that although he may hold the world record in debate wins he’s never debated someone like her. Then she goes on to summarize an impressive number of studies citing her sources about the academic social and professional benefits of preschool programs. For good measure she quotes a former prime minister’s argument about preschool being a smart investment. Harish acknowledges the facts that Deborah presented but then makes his case that subsidizing preschools is not the appropriate remedy for the damage caused by poverty.</p>
+<p class="prose-p">He suggests that the issue should be evaluated on two grounds whether preschool is currently under provided and</p>
           </div>
         </section>
         
@@ -1760,16 +1881,16 @@
             <p class="prose-p">directly persuaded these men to change their minds. I didn’t convert anybody, he says. I gave them reason to think about their direction in life and they thought about it and thought, I need a better path and this is the way to go. Daryl doesn’t do this by preaching or prosecuting.</p>
 <p class="prose-p">When he begins a dialogue with white supremacists, many are initially surprised by his thoughtfulness. As they start to see him as an individual and spend more time with him, they often tap into a common identity around shared interests in topics like music. Over time, he helps them see that they joined these hate groups for reasons that weren’t their own. It was a family tradition dating back multiple generations or someone had told them their jobs were being taken by black men as they realize how little they truly know about other groups and how shallow stereotypes are, they start to think again.</p>
 <p class="prose-p">After getting to know Daryl, one imperial wizard didn’t stop at leaving the KKK. He shut down the chapter.</p>
-<p class="prose-p">Years later, he asked Daryl to be his daughter’s godfather.</p>
-<h4 class="section-subhead">Chapter 7.</h4>
-<p class="prose-p">Vaccine whisperers and mild-mannered interrogators how the right kind of listening motivates people to change. It’s a rare person who wants to hear what he doesn’t want to hear. By attributed to Dick C-A-V-E-T-T, when Mary Ellen Etienne Russo went into labor, she broke down in tears. It was September 2018 and her baby wasn’t due until December.</p>
-<p class="prose-p">Just before midnight, Toby arrived weighing just two pounds. His body was so tiny that his head could fit in the palm of her hand and Mary Ellen was terrified that he wouldn’t survive. Toby spent only a few seconds in her arms before he was rushed to the neonatal intensive care unit. He needed a mask to breathe and was soon taken to surgery for internal bleeding.</p>
-<p class="prose-p">It would be months before he was allowed to go home. While Toby was still in the hospital, Mary Ellen was shopping for diapers when she saw a headline about measles spreading in her province of Quebec. She hadn’t had Toby vaccinated. It wasn’t even a question.</p>
-<p class="prose-p">He seemed too fragile. She hadn’t vaccinated her three other children either. It wasn’t the norm in her community. Her friends and neighbors took it for granted that vaccines were dangerous and passed around horror stories about their side effects.</p>
-<p class="prose-p">Still, the fact remained Quebec had already had two serious measles outbreaks that decade. Today in the developed world, measles is on the rise for the first time in at least half a century and its mortality rate is around one in a thousand. In the developing world, it’s closer to one in a hundred. Estimates suggest that from 2016 to 2018, measles deaths spiked worldwide by 58% with over a hundred thousand casualties.</p>
-<p class="prose-p">These deaths could have been prevented by the vaccine which has saved roughly 20 million lives in the past two decades. Although epidemiologists recommend two doses of the measles vaccine and a minimum immunization rate of 95% around the globe, only 85% of people get the first dose and just 67% continue to the second. Many of those who skipped the shot simply do not believe in the science. Government officials have tried to prosecute the problem, some warning that the unvaccinated could be fined up to a thousand dollars and sentenced to jail for up to six months.</p>
-<p class="prose-p">Many schools shut their doors to unvaccinated children and one county even banned them from enclosed public places. When such measures failed to solve the problem, public officials turned to preaching. Since people held unfounded fears about vaccines, it was time to educate them with the dose of the truth. The results were often disappointing.</p>
-<p class="prose-p">In a pair of experiments in Germany, introducing</p>
+<p class="prose-p">Years later, he asked Daryl to be his daughter’s godfather.
+
+#### Chapter 7. Vaccine whisperers and mild-mannered interrogators how the right kind of listening motivates people to change. It’s a rare person who wants to hear what he doesn’t want to hear. By attributed to Dick C-A-V-E-T-T, when Mary Ellen Etienne Russo went into labor, she broke down in tears.</p>
+<p class="prose-p">It was September 2018 and her baby wasn’t due until December. Just before midnight, Toby arrived weighing just two pounds. His body was so tiny that his head could fit in the palm of her hand and Mary Ellen was terrified that he wouldn’t survive. Toby spent only a few seconds in her arms before he was rushed to the neonatal intensive care unit.</p>
+<p class="prose-p">He needed a mask to breathe and was soon taken to surgery for internal bleeding. It would be months before he was allowed to go home. While Toby was still in the hospital, Mary Ellen was shopping for diapers when she saw a headline about measles spreading in her province of Quebec. She hadn’t had Toby vaccinated.</p>
+<p class="prose-p">It wasn’t even a question. He seemed too fragile. She hadn’t vaccinated her three other children either. It wasn’t the norm in her community.</p>
+<p class="prose-p">Her friends and neighbors took it for granted that vaccines were dangerous and passed around horror stories about their side effects. Still, the fact remained Quebec had already had two serious measles outbreaks that decade. Today in the developed world, measles is on the rise for the first time in at least half a century and its mortality rate is around one in a thousand. In the developing world, it’s closer to one in a hundred.</p>
+<p class="prose-p">Estimates suggest that from 2016 to 2018, measles deaths spiked worldwide by 58% with over a hundred thousand casualties. These deaths could have been prevented by the vaccine which has saved roughly 20 million lives in the past two decades. Although epidemiologists recommend two doses of the measles vaccine and a minimum immunization rate of 95% around the globe, only 85% of people get the first dose and just 67% continue to the second. Many of those who skipped the shot simply do not believe in the science.</p>
+<p class="prose-p">Government officials have tried to prosecute the problem, some warning that the unvaccinated could be fined up to a thousand dollars and sentenced to jail for up to six months. Many schools shut their doors to unvaccinated children and one county even banned them from enclosed public places. When such measures failed to solve the problem, public officials turned to preaching. Since people held unfounded fears about vaccines, it was time to educate them with the dose of the truth.</p>
+<p class="prose-p">The results were often disappointing. In a pair of experiments in Germany, introducing</p>
           </div>
         </section>
         
@@ -1923,17 +2044,18 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">we’ve achieved. We should also ask whether we are proud of how we’ve achieved it.</p>
-<h4 class="section-subhead">Part 3.</h4>
-<p class="prose-p">Collective Rethinking. Creating Communities of Lifelong Learners Chapter 8. Charged Conversations. Depolarizing our divided discussions when conflict is cliche, complexity is breaking news.</p>
-<p class="prose-p">By Amanda Ripley. Eager to have a Joe clenching, emotionally fraught argument about abortion? How about immigration, the death penalty or climate change? If you think you can handle it, head for the second floor of a brick building on the Columbia University campus in New York.</p>
-<p class="prose-p">It’s the home of the Difficult Conversations Lab. If you’re brave enough to visit, you’ll be matched up with a stranger who strongly disagrees with your views on a controversial topic. You’ll be given just 20 minutes to discuss the issue, and then you’ll both have to decide whether you’ve aligned enough to write and sign a joint statement on your shared views around abortion laws. If you’re able to do so, no small feat, your statement will be posted on a public forum.</p>
-<p class="prose-p">For two decades, the psychologist who runs the lab, Peter T. Callman, has been bringing people together to talk about polarizing issues. His mission is to reverse engineer the successful conversations and then experiment with recipes to make more of them. To put you in the right mindset before you begin your conversation about abortion, Peter gives you and the stranger a news article about another divisive issue, gun control.</p>
-<p class="prose-p">What you don’t know is that there are different versions of the gun control article, and which one you read is going to have a major impact on whether you land on the same page about abortion. If the gun control article covers both sides of the issue, making a balanced case for both gun rights and gun legislation, you and your adversary have a decent chance at reaching consensus on abortion. In one of Peter’s experiments, after reading a both sides article, 46% of pairs were able to find enough common ground to draft and sign a statement together.</p>
-<p class="prose-p">That’s a remarkable result. But Peter went on to do something far more impressive. He randomly assigned some pairs to read another version of the same article, which led 100% of them to generate and sign a joint statement about abortion laws. That version of the article featured the same information but presented it differently.</p>
-<p class="prose-p">Instead of describing the issue as a black and white disagreement between two sides, the article framed the debate as a complex problem with many shades of grey, representing a number of different viewpoints. At the turn of the last century, the great hope for the internet was that it would expose us to different views. But as the web welcomed a few billion fresh voices and vantage points into the conversation, it also became a weapon of misinformation and disinformation. By the 2016 elections, as the problem of political polarization became more extreme and more visible, the solution seemed obvious to me.</p>
-<p class="prose-p">We needed to burst filter bubbles in our news feeds and shatter echo chambers in our networks. If we could just show people the other side of an issue, they would open their minds and become more informed. Peter’s research challenges that assumption. We now know that where complicated issues are concerned, seeing the opinions of the other side is not enough.</p>
-<p class="prose-p">Social media platforms have exposed us to them, but they haven’t changed our minds. Knowing another side exists isn’t sufficient to leave preachers doubting whether they’re on the right side of morality, prosecutors questioning whether they’re on the right side of the case, or politicians wondering whether they’re on the right side of history. Seeing an opposing opinion doesn’t necessarily motivate you to rethink your own stance. It makes it easier for you to stick to your guns or your gun bans.</p>
+            <p class="prose-p">we’ve achieved. We should also ask whether we are proud of how we’ve achieved it.
+
+#### Part 3. Collective Rethinking. Creating Communities of Lifelong Learners Chapter 8.</p>
+<p class="prose-p">Charged Conversations. Depolarizing our divided discussions when conflict is cliche, complexity is breaking news. By Amanda Ripley. Eager to have a Joe clenching, emotionally fraught argument about abortion?</p>
+<p class="prose-p">How about immigration, the death penalty or climate change? If you think you can handle it, head for the second floor of a brick building on the Columbia University campus in New York. It’s the home of the Difficult Conversations Lab. If you’re brave enough to visit, you’ll be matched up with a stranger who strongly disagrees with your views on a controversial topic.</p>
+<p class="prose-p">You’ll be given just 20 minutes to discuss the issue, and then you’ll both have to decide whether you’ve aligned enough to write and sign a joint statement on your shared views around abortion laws. If you’re able to do so, no small feat, your statement will be posted on a public forum. For two decades, the psychologist who runs the lab, Peter T. Callman, has been bringing people together to talk about polarizing issues.</p>
+<p class="prose-p">His mission is to reverse engineer the successful conversations and then experiment with recipes to make more of them. To put you in the right mindset before you begin your conversation about abortion, Peter gives you and the stranger a news article about another divisive issue, gun control. What you don’t know is that there are different versions of the gun control article, and which one you read is going to have a major impact on whether you land on the same page about abortion.</p>
+<p class="prose-p">If the gun control article covers both sides of the issue, making a balanced case for both gun rights and gun legislation, you and your adversary have a decent chance at reaching consensus on abortion. In one of Peter’s experiments, after reading a both sides article, 46% of pairs were able to find enough common ground to draft and sign a statement together. That’s a remarkable result. But Peter went on to do something far more impressive.</p>
+<p class="prose-p">He randomly assigned some pairs to read another version of the same article, which led 100% of them to generate and sign a joint statement about abortion laws. That version of the article featured the same information but presented it differently. Instead of describing the issue as a black and white disagreement between two sides, the article framed the debate as a complex problem with many shades of grey, representing a number of different viewpoints. At the turn of the last century, the great hope for the internet was that it would expose us to different views.</p>
+<p class="prose-p">But as the web welcomed a few billion fresh voices and vantage points into the conversation, it also became a weapon of misinformation and disinformation. By the 2016 elections, as the problem of political polarization became more extreme and more visible, the solution seemed obvious to me. We needed to burst filter bubbles in our news feeds and shatter echo chambers in our networks. If we could just show people the other side of an issue, they would open their minds and become more informed.</p>
+<p class="prose-p">Peter’s research challenges that assumption. We now know that where complicated issues are concerned, seeing the opinions of the other side is not enough. Social media platforms have exposed us to them, but they haven’t changed our minds. Knowing another side exists isn’t sufficient to leave preachers doubting whether they’re on the right side of morality, prosecutors questioning whether they’re on the right side of the case, or politicians wondering whether they’re on the right side of history.</p>
+<p class="prose-p">Seeing an opposing opinion doesn’t necessarily motivate you to rethink your own stance. It makes it easier for you to stick to your guns or your gun bans.</p>
           </div>
         </section>
         
@@ -2083,11 +2205,11 @@
 <p class="prose-p">I am not sure if in that apology she recognizes that while she may not be or consider herself a racist, that particular act was definitely racist. Granted, it was a stressful situation, a sudden situation, maybe a moment of spectacularly poor judgment, but she went there. Is she a racist? I can’t answer that, only she can answer that, going forward with how she conducts herself and how she chooses to reflect on the situation and examine it.</p>
 <p class="prose-p">By expressing his mixed emotions and his uncertainty about how to judge the woman, Christian signaled his willingness to rethink the situation and encouraged others to rethink their own reactions. You might even be experiencing some complex emotions as you read this. It shouldn’t be up to the victim to inject complexity into a difficult conversation. Everything should start with the offender.</p>
 <p class="prose-p">If the woman had taken responsibility for reevaluating her beliefs and behaviors, she might have become an example to others who recognized a bit of themselves in her reaction. Although she couldn’t change what she’d already done, by recognizing the complex power dynamics that breed and perpetuate systemic racism, she might have spurred deeper discussions of the range of possible steps toward justice. Charged conversations cry out for nuance. When we are preaching, prosecuting or politicking, the complexity of reality can seem like an inconvenient truth.</p>
-<p class="prose-p">In scientist mode, it can be an invigorating truth, it means there are new opportunities for understanding and for progress.</p>
-<h4 class="section-subhead">Chapter 9 Rewriting the Textbook Teaching Students to Question Knowledge No Schooling Was Allowed to Interfere with My Education, by Grant Allen A decade ago, if you had told Erin McCarthy she would become a teacher, she would have laughed.</h4>
-<p class="prose-p">When she graduated from college, the last thing she wanted to do was teach. She was fascinated by history but bored by her social studies classes. Searching for a way to breathe life into overlooked objects and forgotten events, Erin started her career working in museums. Before long, she found herself writing a resource manual for teachers, leading school tours and engaging students in interactive programs. She realized that the enthusiasm she saw on field trips was missing in too many classrooms, and she decided to do something about it.</p>
-<p class="prose-p">For the past eight years Erin has taught social studies in the Milwaukee area. Her mission is to cultivate curiosity about the past, but also to motivate students to update their knowledge in the present. In 2020 she was named Wisconsin’s Teacher of the Year.</p>
-<p class="prose-p">One day an eighth grader complained that the reading assignment from a history textbook was inaccurate. If you’re a teacher, that kind of criticism could be a nightmare. Using an outdated textbook would be a sign that you don’t know your material, and it</p>
+<p class="prose-p">In scientist mode, it can be an invigorating truth, it means there are new opportunities for understanding and for progress.
+
+#### Chapter 9 Rewriting the Textbook Teaching Students to Question Knowledge No Schooling Was Allowed to Interfere with My Education, by Grant Allen A decade ago, if you had told Erin McCarthy she would become a teacher, she would have laughed. When she graduated from college, the last thing she wanted to do was teach. She was fascinated by history but bored by her social studies classes.</p>
+<p class="prose-p">Searching for a way to breathe life into overlooked objects and forgotten events, Erin started her career working in museums. Before long, she found herself writing a resource manual for teachers, leading school tours and engaging students in interactive programs. She realized that the enthusiasm she saw on field trips was missing in too many classrooms, and she decided to do something about it. For the past eight years Erin has taught social studies in the Milwaukee area. Her mission is to cultivate curiosity about the past, but also to motivate students to update their knowledge in the present.</p>
+<p class="prose-p">In 2020 she was named Wisconsin’s Teacher of the Year. One day an eighth grader complained that the reading assignment from a history textbook was inaccurate. If you’re a teacher, that kind of criticism could be a nightmare. Using an outdated textbook would be a sign that you don’t know your material, and it</p>
           </div>
         </section>
         
@@ -2239,10 +2361,10 @@
 <p class="prose-p">When Ron showed the completed drawing to a room full of elementary school students in Mena, they gasped in awe at his progress and his final product. I gasped too, because Austin made these drawings when he was in first grade. Seeing a six-year-old undergo that kind of metamorphosis made me think again about how quickly children can become comfortable rethinking and revising. Ever since, I’ve encouraged our kids to do multiple drafts of their own drawings.</p>
 <p class="prose-p">As excited as they were to see their first draft hanging on the wall, they’re that much prouder of their fourth version. Few of us will have the good fortune to learn to draw a butterfly with Ron Berger or rewrite a textbook with Aaron Makati. Yet all of us have the opportunity to teach more like them. Whomever we are educating, we can express more humility, exude more curiosity, and introduce the children in our lives to the infectious joy of discovery.</p>
 <p class="prose-p">I believe that good teachers introduce new thoughts, but great teachers introduce new ways of thinking. Collecting a teacher’s knowledge may help us solve the challenges of the day, but understanding how a teacher thinks can help us navigate the challenges of a lifetime. Ultimately, air do. Cat iron is more than the information we accumulate in our heads.</p>
-<p class="prose-p">It’s the habits we develop as we keep revising our drafts and the skills we build to keep learning.</p>
-<h4 class="section-subhead">Chapter 10 that’s not the way we’ve always done it.</h4>
-<p class="prose-p">Building cultures of learning at work if only it weren’t for the people. Earth would be an engineer’s paradise. By Kurt Warnugert as an A-word scuba diver, Luca Parmitano was familiar with the risks of drowning. He just didn’t realize it could happen in outer space.</p>
-<p class="prose-p">Luca had just become the youngest astronaut ever to take a long trip to the International Space Station. In July 2013, the 36-year-old Italian astronaut completed his first spacewalk, spending six hours running experiments, moving equipment, and setting up power and data cables.</p>
+<p class="prose-p">It’s the habits we develop as we keep revising our drafts and the skills we build to keep learning.
+
+#### Chapter 10 that’s not the way we’ve always done it. Building cultures of learning at work if only it weren’t for the people. Earth would be an engineer’s paradise. By Kurt Warnugert as an A-word scuba diver, Luca Parmitano was familiar with the risks of drowning.</p>
+<p class="prose-p">He just didn’t realize it could happen in outer space. Luca had just become the youngest astronaut ever to take a long trip to the International Space Station. In July 2013, the 36-year-old Italian astronaut completed his first spacewalk, spending six hours running experiments, moving equipment, and setting up power and data cables.</p>
 <p class="prose-p">Now, a week later, Luca and another astronaut, Chris Cassidy, were heading out for a second walk to continue their work and do some maintenance. As they prepared to leave the airlock, they could see the Earth 250 miles below. After 44 minutes in space, Luca felt something strange. The back of his head seemed to be wet.</p>
 <p class="prose-p">He wasn’t sure where the water was coming from. It wasn’t just a nuisance, it could cut off communication by shorting out his microphone or earphones. He reported the problem to mission control in Houston, and Chris asked if he was sweating. I am sweating, Luca said, but it feels like a lot of water.</p>
 <p class="prose-p">It’s not going anywhere, it’s just in my Snoopy cap. Just FYI, he went back to work. The officer in charge of spacewalks, Karina Eversley, knew something was wrong. That’s not normal, she thought and quickly recruited a team of experts to compile questions for Luca.</p>
@@ -2400,8 +2522,9 @@
             <p class="prose-p">I’d like to understand your thinking, he told her. They went on to delay the launch. Some people weren’t happy we didn’t launch that day, Ellen reflects. But people did not come up to me and berate me in any way or make me feel bad.</p>
 <p class="prose-p">They didn’t take it out on me personally. The following day all the sensors worked properly, but NASA ended up delaying three more launches over the next few months due to intermittent sensor malfunctions. At that point, the manager of the shuttle program called for the team to stand down until they identified the root cause. Eventually they figured out that the sensors were working fine, it was the cryogenic environment that was causing a faulty connection between the sensors and computers.</p>
 <p class="prose-p">Ellen became the deputy director and then the director of the Johnson Space Center and NASA went on to execute 19 consecutive successful space shuttle missions before retiring the program. In 2018, when Ellen retired from NASA, a senior leader approached her to tell her how her vote to delay the launch in 2006 had affected him. I never said anything to you 12 years ago, he said, but it made me rethink how I approached launch days and whether I am doing the right thing.</p>
-<p class="prose-p">We can’t run experiments in the past, we can only imagine the counterfactual in the present. We can wonder whether the lives of 14 astronauts would have been saved if NASA had gone back to rethink the risks of o-ring failures and foam loss before it was too late. We can wonder why those events didn’t make them as careful in reevaluating problems with spacesuits as they had become with space shuttles. In cultures of learning, we are not weighed down with as many of these questions, which means we can live with fewer regrets.</p>
-<h4 class="section-subhead">Part 4 Conclusion Chapter 11, escaping tunnel vision, reconsidering our best late career in life plans a malaise set in within a couple hours of my arriving.</h4>
+<p class="prose-p">We can’t run experiments in the past, we can only imagine the counterfactual in the present. We can wonder whether the lives of 14 astronauts would have been saved if NASA had gone back to rethink the risks of o-ring failures and foam loss before it was too late. We can wonder why those events didn’t make them as careful in reevaluating problems with spacesuits as they had become with space shuttles. In cultures of learning, we are not weighed down with as many of these questions, which means we can live with fewer regrets.
+
+#### Part 4 Conclusion Chapter 11, escaping tunnel vision, reconsidering our best late career in life plans a malaise set in within a couple hours of my arriving.</p>
 <p class="prose-p">I thought getting a job might help. It turns out I have a lot of relatives in hell and, using connections, I became the assistant to a demon who pulls people’s teeth out. It wasn’t actually a job, more of an internship. But I was eager, and at first it was kind of interesting.</p>
 <p class="prose-p">After a while, though, you start asking yourself, is this what I came to hell for, to hand different kinds of pliers to a demon? By Jack H-A-N-D-E-Y, what do you want to be when you grow up? As a kid, that was my least favourite question. I dreaded conversations with adults because they always asked it, and no matter how I replied, they never liked my answer.</p>
 <p class="prose-p">When I said I wanted to be a superhero, they laughed. My next goal was to make the NBA, but despite countless hours of shooting hoops on my driveway, I was cut from middle school basketball tryouts three years in a row. I was clearly aiming too high. In high school, I became obsessed with springboard diving and decided I wanted to become a diving coach.</p>
@@ -2788,6 +2911,204 @@
 
     document.getElementById('scroll-top-btn').addEventListener('click', () => {
       window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    // ==========================================
+    // IN-PAGE CONTENT SEARCH (單書全文搜尋)
+    // ==========================================
+    const searchBar = document.getElementById('inpage-search-bar');
+    const searchInput = document.getElementById('inpage-search-input');
+    const searchCount = document.getElementById('inpage-search-count');
+    const searchDrawer = document.getElementById('inpage-search-drawer');
+    const searchDrawerList = document.getElementById('inpage-search-drawer-list');
+    const searchToggleBtn = document.getElementById('search-toggle-btn');
+    const searchClearBtn = document.getElementById('inpage-search-clear');
+    const searchPrevBtn = document.getElementById('inpage-search-prev');
+    const searchNextBtn = document.getElementById('inpage-search-next');
+    const searchCloseBtn = document.getElementById('inpage-search-close');
+    const drawerCloseBtn = document.getElementById('inpage-drawer-close');
+
+    let searchMatches = [];
+    let currentMatchIdx = -1;
+
+    // Cache original innerHTML for clean resets
+    const rawParagraphs = Array.from(document.querySelectorAll('.section-body p')).map(p => ({
+      el: p,
+      rawHtml: p.innerHTML,
+      rawText: p.textContent
+    }));
+
+    function openSearch() {
+      searchBar.classList.add('active');
+      searchInput.focus();
+      searchInput.select();
+      if (searchInput.value.trim()) {
+        performSearch(searchInput.value.trim());
+      }
+    }
+
+    function closeSearch() {
+      searchBar.classList.remove('active');
+      searchDrawer.classList.remove('active');
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchCount.textContent = '0 / 0';
+    }
+
+    function clearHighlights() {
+      rawParagraphs.forEach(item => {
+        item.el.innerHTML = item.rawHtml;
+      });
+    }
+
+    function escapeRegex(str) {
+      return str.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+    }
+
+    function escapeHtml(str) {
+      return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+
+    function performSearch(query) {
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchDrawerList.innerHTML = '';
+
+      if (!query || query.trim().length === 0) {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+        return;
+      }
+
+      query = query.trim();
+      const qLower = query.toLowerCase();
+      const regex = new RegExp(`(${escapeRegex(query)})`, 'gi');
+
+      rawParagraphs.forEach((item, pIdx) => {
+        if (item.rawText.toLowerCase().includes(qLower)) {
+          const sec = item.el.closest('.transcript-section');
+          const secTime = sec ? (sec.querySelector('.section-time')?.textContent || '') : '';
+          const secId = sec ? sec.id : '';
+
+          // Apply highlight
+          item.el.innerHTML = item.rawHtml.replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const marks = Array.from(item.el.querySelectorAll('mark.search-highlight'));
+          marks.forEach(mark => {
+            searchMatches.push({
+              mark,
+              el: item.el,
+              secTime,
+              secId
+            });
+          });
+
+          // Snippet creation
+          const matchPos = item.rawText.toLowerCase().indexOf(qLower);
+          const start = Math.max(0, matchPos - 30);
+          const end = Math.min(item.rawText.length, matchPos + query.length + 50);
+          const snippetText = item.rawText.slice(start, end);
+          const snippetHtml = escapeHtml(snippetText).replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const card = document.createElement('div');
+          card.className = 'search-result-item';
+          card.innerHTML = `
+            <div class="search-result-time">${secTime}</div>
+            <div class="search-result-snippet">...${snippetHtml}...</div>
+          `;
+          card.addEventListener('click', () => {
+            const targetIdx = searchMatches.findIndex(m => m.mark === marks[0]);
+            if (targetIdx >= 0) goToMatch(targetIdx);
+          });
+          searchDrawerList.appendChild(card);
+        }
+      });
+
+      if (searchMatches.length > 0) {
+        searchDrawer.classList.add('active');
+        goToMatch(0);
+      } else {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+      }
+    }
+
+    function goToMatch(idx) {
+      if (idx < 0 || idx >= searchMatches.length) return;
+      if (currentMatchIdx >= 0 && searchMatches[currentMatchIdx]) {
+        searchMatches[currentMatchIdx].mark.classList.remove('active-match');
+      }
+      currentMatchIdx = idx;
+      const target = searchMatches[currentMatchIdx];
+      target.mark.classList.add('active-match');
+      searchCount.textContent = `${currentMatchIdx + 1} / ${searchMatches.length}`;
+
+      // Highlight active drawer item
+      const drawerItems = searchDrawerList.querySelectorAll('.search-result-item');
+      drawerItems.forEach(di => di.classList.remove('active'));
+
+      target.mark.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+
+    searchToggleBtn.addEventListener('click', () => {
+      if (searchBar.classList.contains('active')) {
+        closeSearch();
+      } else {
+        openSearch();
+      }
+    });
+
+    let debounceTimer;
+    searchInput.addEventListener('input', (e) => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => {
+        performSearch(e.target.value);
+      }, 200);
+    });
+
+    searchClearBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      performSearch('');
+      searchInput.focus();
+    });
+
+    searchNextBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const nextIdx = (currentMatchIdx + 1) % searchMatches.length;
+      goToMatch(nextIdx);
+    });
+
+    searchPrevBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const prevIdx = (currentMatchIdx - 1 + searchMatches.length) % searchMatches.length;
+      goToMatch(prevIdx);
+    });
+
+    searchInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        if (e.shiftKey) {
+          searchPrevBtn.click();
+        } else {
+          searchNextBtn.click();
+        }
+      } else if (e.key === 'Escape') {
+        closeSearch();
+      }
+    });
+
+    searchCloseBtn.addEventListener('click', closeSearch);
+    drawerCloseBtn.addEventListener('click', () => searchDrawer.classList.remove('active'));
+
+    window.addEventListener('keydown', (e) => {
+      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'f') {
+        e.preventDefault();
+        openSearch();
+      } else if (e.key === 'Escape') {
+        if (searchBar.classList.contains('active')) closeSearch();
+      }
     });
   </script>
 </body>

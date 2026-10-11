@@ -3,13 +3,14 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>有聲書數位圖書館 (Audiobook Digital Bookshelf)</title>
+  <title>有聲書數位圖書館 (Audiobook Digital Bookshelf & Knowledge Graph)</title>
   <style>
     :root {
       --bg-primary: #f8fafc;
       --bg-surface: #ffffff;
       --text-primary: #0f172a;
       --text-secondary: #475569;
+      --text-muted: #64748b;
       --border-color: #e2e8f0;
       --accent-color: #2563eb;
       --accent-light: #eff6ff;
@@ -22,6 +23,7 @@
       --bg-surface: #1e293b;
       --text-primary: #f8fafc;
       --text-secondary: #94a3b8;
+      --text-muted: #64748b;
       --border-color: #334155;
       --accent-color: #38bdf8;
       --accent-light: #1e3a5f;
@@ -34,17 +36,18 @@
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans TC", sans-serif;
       background-color: var(--bg-primary);
       color: var(--text-primary);
-      padding: 30px 20px 60px 20px;
+      padding: 24px 20px 60px 20px;
       min-height: 100vh;
     }
 
     .container {
-      max-width: 1200px;
+      max-width: 1280px;
       margin: 0 auto;
     }
 
+    /* Top Header */
     header {
-      margin-bottom: 36px;
+      margin-bottom: 24px;
       display: flex;
       flex-direction: column;
       gap: 16px;
@@ -59,11 +62,12 @@
     }
 
     h1 {
-      font-size: 2.2rem;
+      font-size: 2.1rem;
       font-weight: 800;
       display: flex;
       align-items: center;
       gap: 12px;
+      letter-spacing: -0.01em;
     }
 
     .theme-toggle {
@@ -74,11 +78,13 @@
       color: var(--text-primary);
       cursor: pointer;
       font-weight: 500;
+      transition: all 0.2s;
     }
+    .theme-toggle:hover { border-color: var(--accent-color); }
 
     .stats-bar {
       display: flex;
-      gap: 16px;
+      gap: 14px;
       flex-wrap: wrap;
     }
 
@@ -87,21 +93,92 @@
       color: var(--accent-color);
       padding: 6px 14px;
       border-radius: 20px;
-      font-size: 14px;
+      font-size: 13.5px;
       font-weight: 600;
     }
 
-    /* Search & Filter Bar */
+    /* Main Tab Navigation */
+    .tab-nav {
+      display: flex;
+      gap: 10px;
+      border-bottom: 2px solid var(--border-color);
+      margin-bottom: 24px;
+    }
+
+    .tab-btn {
+      background: none;
+      border: none;
+      padding: 12px 20px;
+      font-size: 16px;
+      font-weight: 700;
+      color: var(--text-secondary);
+      cursor: pointer;
+      position: relative;
+      transition: color 0.2s;
+      border-bottom: 3px solid transparent;
+      margin-bottom: -2px;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .tab-btn:hover { color: var(--accent-color); }
+
+    .tab-btn.active {
+      color: var(--accent-color);
+      border-bottom-color: var(--accent-color);
+    }
+
+    .tab-pane { display: none; }
+    .tab-pane.active { display: block; }
+
+    /* Category Filter Pills */
+    .category-pills {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-bottom: 20px;
+    }
+
+    .cat-pill {
+      padding: 7px 14px;
+      border-radius: 20px;
+      border: 1px solid var(--border-color);
+      background: var(--bg-surface);
+      color: var(--text-secondary);
+      cursor: pointer;
+      font-size: 13.5px;
+      font-weight: 600;
+      transition: all 0.15s ease;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .cat-pill:hover {
+      border-color: var(--accent-color);
+      color: var(--accent-color);
+      transform: translateY(-1px);
+    }
+
+    .cat-pill.active {
+      background: var(--accent-color);
+      color: #ffffff;
+      border-color: var(--accent-color);
+      box-shadow: 0 2px 6px rgba(37,99,235,0.25);
+    }
+
+    /* Search Input */
     .controls {
       display: flex;
       gap: 12px;
-      margin-bottom: 30px;
+      margin-bottom: 24px;
       flex-wrap: wrap;
     }
 
     .search-input {
       flex: 1;
-      min-width: 260px;
+      min-width: 280px;
       padding: 12px 18px;
       border: 1px solid var(--border-color);
       border-radius: 10px;
@@ -109,14 +186,12 @@
       background: var(--bg-surface);
       color: var(--text-primary);
     }
-    .search-input:focus {
-      outline: 2px solid var(--accent-color);
-    }
+    .search-input:focus { outline: 2px solid var(--accent-color); }
 
     /* Books Grid */
     .books-grid {
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
       gap: 20px;
     }
 
@@ -132,6 +207,7 @@
       transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
       text-decoration: none;
       color: inherit;
+      position: relative;
     }
 
     .book-card:hover {
@@ -140,11 +216,27 @@
       border-color: var(--accent-color);
     }
 
+    .book-card-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      margin-bottom: 12px;
+      gap: 8px;
+    }
+
+    .card-cat-badge {
+      font-size: 11.5px;
+      font-weight: 700;
+      padding: 3px 10px;
+      border-radius: 12px;
+      white-space: nowrap;
+    }
+
     .book-card-title {
       font-size: 1.15rem;
       font-weight: 700;
       line-height: 1.4;
-      margin-bottom: 14px;
+      margin-bottom: 16px;
       color: var(--text-primary);
     }
 
@@ -172,6 +264,225 @@
       grid-column: 1 / -1;
       display: none;
     }
+
+    /* ==========================================
+       TAB 2: CONNECTION GRAPH (知識關聯圖譜)
+       ========================================== */
+    .graph-container {
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 14px;
+      padding: 16px;
+      box-shadow: var(--card-shadow);
+      position: relative;
+    }
+
+    .graph-toolbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 14px;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .graph-search-input {
+      padding: 8px 14px;
+      border: 1px solid var(--border-color);
+      border-radius: 8px;
+      background: var(--bg-primary);
+      color: var(--text-primary);
+      font-size: 13.5px;
+      width: 240px;
+    }
+
+    .graph-controls {
+      display: flex;
+      gap: 8px;
+    }
+
+    .graph-btn {
+      padding: 6px 12px;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      background: var(--bg-primary);
+      color: var(--text-primary);
+      cursor: pointer;
+      font-size: 13px;
+      font-weight: 600;
+    }
+    .graph-btn:hover { border-color: var(--accent-color); color: var(--accent-color); }
+
+    #graph-canvas {
+      width: 100%;
+      height: 680px;
+      border-radius: 10px;
+      background: var(--bg-primary);
+      cursor: grab;
+      display: block;
+    }
+    #graph-canvas:active { cursor: grabbing; }
+
+    /* Graph Detail Side Card */
+    .graph-info-card {
+      position: absolute;
+      top: 80px;
+      right: 30px;
+      width: 320px;
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      padding: 18px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+      display: none;
+      flex-direction: column;
+      gap: 12px;
+      z-index: 100;
+    }
+    .graph-info-card.active { display: flex; }
+    .graph-info-title {
+      font-size: 1.1rem;
+      font-weight: 800;
+      color: var(--text-primary);
+      line-height: 1.35;
+    }
+    .graph-info-cat {
+      display: inline-block;
+      font-size: 12px;
+      font-weight: 700;
+      padding: 3px 8px;
+      border-radius: 8px;
+    }
+    .graph-info-links {
+      font-size: 13px;
+      color: var(--text-secondary);
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+    .graph-open-btn {
+      display: inline-flex;
+      justify-content: center;
+      align-items: center;
+      gap: 6px;
+      background: var(--accent-color);
+      color: #ffffff;
+      padding: 10px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: 700;
+      font-size: 14px;
+      transition: background 0.15s;
+    }
+    .graph-open-btn:hover { background: var(--accent-hover); }
+
+    /* ==========================================
+       TAB 3: GLOBAL FULL-TEXT SEARCH (全庫搜尋)
+       ========================================== */
+    .global-search-box {
+      display: flex;
+      gap: 12px;
+      margin-bottom: 24px;
+      flex-wrap: wrap;
+    }
+    .global-search-input {
+      flex: 1;
+      min-width: 300px;
+      padding: 14px 20px;
+      border: 2px solid var(--border-color);
+      border-radius: 10px;
+      font-size: 16px;
+      background: var(--bg-surface);
+      color: var(--text-primary);
+    }
+    .global-search-input:focus {
+      border-color: var(--accent-color);
+      outline: none;
+    }
+
+    .search-status-bar {
+      padding: 12px 18px;
+      border-radius: 8px;
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      margin-bottom: 20px;
+      font-size: 14px;
+      color: var(--text-secondary);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .global-results-list {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+
+    .global-book-group {
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      padding: 20px;
+      box-shadow: var(--card-shadow);
+    }
+
+    .global-book-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 12px;
+      border-bottom: 1px solid var(--border-color);
+      padding-bottom: 10px;
+    }
+
+    .global-book-title {
+      font-size: 1.15rem;
+      font-weight: 800;
+      color: var(--text-primary);
+      text-decoration: none;
+    }
+    .global-book-title:hover { color: var(--accent-color); }
+
+    .global-snippet-list {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .global-snippet-item {
+      background: var(--bg-primary);
+      border: 1px solid var(--border-color);
+      border-radius: 8px;
+      padding: 10px 14px;
+      font-size: 13.5px;
+      text-decoration: none;
+      color: inherit;
+      display: block;
+      transition: all 0.15s;
+    }
+    .global-snippet-item:hover {
+      border-color: var(--accent-color);
+      background: var(--accent-light);
+    }
+    .global-snippet-time {
+      font-size: 12px;
+      font-weight: 700;
+      color: var(--accent-color);
+      font-family: monospace;
+      margin-bottom: 4px;
+    }
+    .global-snippet-text {
+      line-height: 1.55;
+    }
+
+    mark.global-highlight {
+      background-color: #fef08a;
+      color: #1f2937;
+      padding: 1px 3px;
+      border-radius: 3px;
+      font-weight: 600;
+    }
   </style>
 </head>
 <body>
@@ -182,769 +493,1279 @@
         <button class="theme-toggle" id="theme-btn">🌓 切換深色</button>
       </div>
       <div class="stats-bar">
-        <span class="stat-badge">📖 書籍總數：<strong id="book-count">83</strong> 本</span>
+        <span class="stat-badge">📖 書籍總數：<strong>83</strong> 本</span>
         <span class="stat-badge">⏱️ 總章節小節數：<strong>4625</strong> 節</span>
-        <span class="stat-badge">✨ 獨立離線閱讀器 (Single-file HTML)</span>
+        <span class="stat-badge">🏷️ 7 大主題分類</span>
+        <span class="stat-badge">🕸️ 知識網絡關聯圖譜</span>
+        <span class="stat-badge">🔍 單書 / 全庫全文搜尋</span>
       </div>
     </header>
 
-    <div class="controls">
-      <input type="text" id="search-input" class="search-input" placeholder="🔍 搜尋書名、作者或關鍵字...">
-    </div>
+    <!-- Tab Navigation -->
+    <nav class="tab-nav">
+      <button class="tab-btn active" data-tab="catalog">📚 書庫目錄 (Catalog)</button>
+      <button class="tab-btn" data-tab="graph">🕸️ 知識關聯圖譜 (Connection Graph)</button>
+      <button class="tab-btn" data-tab="search">🔍 全庫全文檢索 (Global Search)</button>
+    </nav>
 
-    <div class="books-grid" id="books-grid">
-      
-        <a href="12 Rules for Life Full Audiobook _ Jordan B. Peterson.html" class="book-card" data-title="12 Rules for Life Full Audiobook _ Jordan B. Peterson">
+    <!-- TAB 1: CATALOG -->
+    <section class="tab-pane active" id="pane-catalog">
+      <!-- Category Filter Pills -->
+      <div class="category-pills">
+        <button class="cat-pill active" data-cat="all">🌟 全部 (83)</button>
+        <button class="cat-pill" data-cat="wealth">💰 財富與投資 (15)</button>
+<button class="cat-pill" data-cat="habits">⚡ 習慣與生產力 (12)</button>
+<button class="cat-pill" data-cat="grit">🔥 意志與心態 (10)</button>
+<button class="cat-pill" data-cat="philosophy">🧠 哲學與思辨 (23)</button>
+<button class="cat-pill" data-cat="leadership">🎯 領導與策略 (15)</button>
+<button class="cat-pill" data-cat="classics">📖 文學與經典 (4)</button>
+<button class="cat-pill" data-cat="taiwan">🇹🇼 台灣念歌與本土 (4)</button>
+      </div>
+
+      <div class="controls">
+        <input type="text" id="search-input" class="search-input" placeholder="🔍 即時搜尋書名、作者或關鍵字...">
+      </div>
+
+      <div class="books-grid" id="books-grid">
+        
+        <a href="12 Rules for Life Full Audiobook _ Jordan B. Peterson.html" class="book-card" data-title="12 Rules for Life Full Audiobook _ Jordan B. Peterson" data-cat="philosophy">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #8b5cf622; color: #8b5cf6;">
+              🧠 哲學與思辨
+            </span>
+            <span class="card-chip">📑 133 節</span>
+          </div>
           <div class="book-card-title">12 Rules for Life Full Audiobook _ Jordan B. Peterson</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 133 節</span>
             <span class="card-chip">時長：11:08:46</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="21 Lesson For The 21st Century By Yuval Noah Harari _ Full Audiobook.html" class="book-card" data-title="21 Lesson For The 21st Century By Yuval Noah Harari _ Full Audiobook">
+        <a href="21 Lesson For The 21st Century By Yuval Noah Harari _ Full Audiobook.html" class="book-card" data-title="21 Lesson For The 21st Century By Yuval Noah Harari _ Full Audiobook" data-cat="leadership">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #06b6d422; color: #06b6d4;">
+              🎯 領導與策略
+            </span>
+            <span class="card-chip">📑 118 節</span>
+          </div>
           <div class="book-card-title">21 Lesson For The 21st Century By Yuval Noah Harari _ Full Audiobook</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 118 節</span>
             <span class="card-chip">時長：09:54:26</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="3 Hours for the NEXT 30 Years of Your LIFE _ Best Motivational Speeches.html" class="book-card" data-title="3 Hours for the NEXT 30 Years of Your LIFE _ Best Motivational Speeches">
+        <a href="3 Hours for the NEXT 30 Years of Your LIFE _ Best Motivational Speeches.html" class="book-card" data-title="3 Hours for the NEXT 30 Years of Your LIFE _ Best Motivational Speeches" data-cat="grit">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #f9731622; color: #f97316;">
+              🔥 意志與心態
+            </span>
+            <span class="card-chip">📑 42 節</span>
+          </div>
           <div class="book-card-title">3 Hours for the NEXT 30 Years of Your LIFE _ Best Motivational Speeches</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 42 節</span>
             <span class="card-chip">時長：03:29:49</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="_Don_t Believe Everything You Think_ Full-Length Audiobook (From The Author).html" class="book-card" data-title="&#x27;Don&#x27;t Believe Everything You Think&#x27; Full-Length Audiobook (From The Author)">
+        <a href="_Don_t Believe Everything You Think_ Full-Length Audiobook (From The Author).html" class="book-card" data-title="&#x27;Don&#x27;t Believe Everything You Think&#x27; Full-Length Audiobook (From The Author)" data-cat="philosophy">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #8b5cf622; color: #8b5cf6;">
+              🧠 哲學與思辨
+            </span>
+            <span class="card-chip">📑 28 節</span>
+          </div>
           <div class="book-card-title">&#x27;Don&#x27;t Believe Everything You Think&#x27; Full-Length Audiobook (From The Author)</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 28 節</span>
             <span class="card-chip">時長：02:16:51</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Antifragile Audiobook (Part 1) by Nassim Nicholas Taleb.html" class="book-card" data-title="Antifragile Audiobook (Part 1) by Nassim Nicholas Taleb">
+        <a href="Antifragile Audiobook (Part 1) by Nassim Nicholas Taleb.html" class="book-card" data-title="Antifragile Audiobook (Part 1) by Nassim Nicholas Taleb" data-cat="philosophy">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #8b5cf622; color: #8b5cf6;">
+              🧠 哲學與思辨
+            </span>
+            <span class="card-chip">📑 12 節</span>
+          </div>
           <div class="book-card-title">Antifragile Audiobook (Part 1) by Nassim Nicholas Taleb</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 12 節</span>
             <span class="card-chip">時長：00:57:24</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Antifragile Audiobook (Part 2) by Nassim Nicholas Taleb.html" class="book-card" data-title="Antifragile Audiobook (Part 2) by Nassim Nicholas Taleb">
+        <a href="Antifragile Audiobook (Part 2) by Nassim Nicholas Taleb.html" class="book-card" data-title="Antifragile Audiobook (Part 2) by Nassim Nicholas Taleb" data-cat="philosophy">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #8b5cf622; color: #8b5cf6;">
+              🧠 哲學與思辨
+            </span>
+            <span class="card-chip">📑 12 節</span>
+          </div>
           <div class="book-card-title">Antifragile Audiobook (Part 2) by Nassim Nicholas Taleb</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 12 節</span>
             <span class="card-chip">時長：00:55:59</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Antifragile Audiobook (Part 3) by Nassim Nicholas Taleb.html" class="book-card" data-title="Antifragile Audiobook (Part 3) by Nassim Nicholas Taleb">
+        <a href="Antifragile Audiobook (Part 3) by Nassim Nicholas Taleb.html" class="book-card" data-title="Antifragile Audiobook (Part 3) by Nassim Nicholas Taleb" data-cat="philosophy">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #8b5cf622; color: #8b5cf6;">
+              🧠 哲學與思辨
+            </span>
+            <span class="card-chip">📑 10 節</span>
+          </div>
           <div class="book-card-title">Antifragile Audiobook (Part 3) by Nassim Nicholas Taleb</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 10 節</span>
             <span class="card-chip">時長：00:50:30</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Atomic Habits full audiobook by James Clear.html" class="book-card" data-title="Atomic Habits full audiobook by James Clear">
+        <a href="Atomic Habits full audiobook by James Clear.html" class="book-card" data-title="Atomic Habits full audiobook by James Clear" data-cat="habits">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #3b82f622; color: #3b82f6;">
+              ⚡ 習慣與生產力
+            </span>
+            <span class="card-chip">📑 68 節</span>
+          </div>
           <div class="book-card-title">Atomic Habits full audiobook by James Clear</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 68 節</span>
             <span class="card-chip">時長：05:37:50</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Audiobook _ Freedom From The Known by Jiddu Krishnamurti.html" class="book-card" data-title="Audiobook _ Freedom From The Known by Jiddu Krishnamurti">
+        <a href="Audiobook _ Freedom From The Known by Jiddu Krishnamurti.html" class="book-card" data-title="Audiobook _ Freedom From The Known by Jiddu Krishnamurti" data-cat="philosophy">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #8b5cf622; color: #8b5cf6;">
+              🧠 哲學與思辨
+            </span>
+            <span class="card-chip">📑 50 節</span>
+          </div>
           <div class="book-card-title">Audiobook _ Freedom From The Known by Jiddu Krishnamurti</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 50 節</span>
             <span class="card-chip">時長：04:08:18</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Audiobook_ Deep work by Cal Newport.html" class="book-card" data-title="Audiobook_ Deep work by Cal Newport">
+        <a href="Audiobook_ Deep work by Cal Newport.html" class="book-card" data-title="Audiobook_ Deep work by Cal Newport" data-cat="habits">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #3b82f622; color: #3b82f6;">
+              ⚡ 習慣與生產力
+            </span>
+            <span class="card-chip">📑 92 節</span>
+          </div>
           <div class="book-card-title">Audiobook_ Deep work by Cal Newport</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 92 節</span>
             <span class="card-chip">時長：07:42:32</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Building a Second Brain by Tiago Forte  Audiobook.html" class="book-card" data-title="Building a Second Brain by Tiago Forte  Audiobook">
+        <a href="Building a Second Brain by Tiago Forte  Audiobook.html" class="book-card" data-title="Building a Second Brain by Tiago Forte  Audiobook" data-cat="habits">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #3b82f622; color: #3b82f6;">
+              ⚡ 習慣與生產力
+            </span>
+            <span class="card-chip">📑 66 節</span>
+          </div>
           <div class="book-card-title">Building a Second Brain by Tiago Forte  Audiobook</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 66 節</span>
             <span class="card-chip">時長：05:30:20</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Carmine Gallo Talk Like TED Audiobook.html" class="book-card" data-title="Carmine Gallo Talk Like TED Audiobook">
+        <a href="Carmine Gallo Talk Like TED Audiobook.html" class="book-card" data-title="Carmine Gallo Talk Like TED Audiobook" data-cat="leadership">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #06b6d422; color: #06b6d4;">
+              🎯 領導與策略
+            </span>
+            <span class="card-chip">📑 92 節</span>
+          </div>
           <div class="book-card-title">Carmine Gallo Talk Like TED Audiobook</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 92 節</span>
             <span class="card-chip">時長：07:42:05</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Daniel Kahneman_ Thinking, Fast &amp; Slow (Audiobook Full).html" class="book-card" data-title="Daniel Kahneman_ Thinking, Fast &amp; Slow (Audiobook Full)">
+        <a href="Daniel Kahneman_ Thinking, Fast &amp; Slow (Audiobook Full).html" class="book-card" data-title="Daniel Kahneman_ Thinking, Fast &amp; Slow (Audiobook Full)" data-cat="philosophy">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #8b5cf622; color: #8b5cf6;">
+              🧠 哲學與思辨
+            </span>
+            <span class="card-chip">📑 119 節</span>
+          </div>
           <div class="book-card-title">Daniel Kahneman_ Thinking, Fast &amp; Slow (Audiobook Full)</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 119 節</span>
             <span class="card-chip">時長：09:58:27</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="David Goggins Can_t Hurt Me Audio Book Advanced Analysis ( Top ) ｜ You won_t be Same Again !.html" class="book-card" data-title="David Goggins Can&#x27;t Hurt Me Audio Book Advanced Analysis ( Top ) ｜ You won&#x27;t be Same Again !">
+        <a href="David Goggins Can_t Hurt Me Audio Book Advanced Analysis ( Top ) ｜ You won_t be Same Again !.html" class="book-card" data-title="David Goggins Can&#x27;t Hurt Me Audio Book Advanced Analysis ( Top ) ｜ You won&#x27;t be Same Again !" data-cat="grit">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #f9731622; color: #f97316;">
+              🔥 意志與心態
+            </span>
+            <span class="card-chip">📑 77 節</span>
+          </div>
           <div class="book-card-title">David Goggins Can&#x27;t Hurt Me Audio Book Advanced Analysis ( Top ) ｜ You won&#x27;t be Same Again !</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 77 節</span>
             <span class="card-chip">時長：06:27:07</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Die With Zero - Full Audiobook Sharing.html" class="book-card" data-title="Die With Zero - Full Audiobook Sharing">
+        <a href="Die With Zero - Full Audiobook Sharing.html" class="book-card" data-title="Die With Zero - Full Audiobook Sharing" data-cat="wealth">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #10b98122; color: #10b981;">
+              💰 財富與投資
+            </span>
+            <span class="card-chip">📑 62 節</span>
+          </div>
           <div class="book-card-title">Die With Zero - Full Audiobook Sharing</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 62 節</span>
             <span class="card-chip">時長：05:10:26</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Discipline Equals Freedom Audiobook by Jocko Willink.html" class="book-card" data-title="Discipline Equals Freedom Audiobook by Jocko Willink">
+        <a href="Discipline Equals Freedom Audiobook by Jocko Willink.html" class="book-card" data-title="Discipline Equals Freedom Audiobook by Jocko Willink" data-cat="grit">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #f9731622; color: #f97316;">
+              🔥 意志與心態
+            </span>
+            <span class="card-chip">📑 29 節</span>
+          </div>
           <div class="book-card-title">Discipline Equals Freedom Audiobook by Jocko Willink</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 29 節</span>
             <span class="card-chip">時長：02:26:08</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Do It Today - by Darius Foroux (Full AudioBook) _ Change your life Today!.html" class="book-card" data-title="Do It Today - by Darius Foroux (Full AudioBook) _ Change your life Today!">
+        <a href="Do It Today - by Darius Foroux (Full AudioBook) _ Change your life Today!.html" class="book-card" data-title="Do It Today - by Darius Foroux (Full AudioBook) _ Change your life Today!" data-cat="habits">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #3b82f622; color: #3b82f6;">
+              ⚡ 習慣與生產力
+            </span>
+            <span class="card-chip">📑 38 節</span>
+          </div>
           <div class="book-card-title">Do It Today - by Darius Foroux (Full AudioBook) _ Change your life Today!</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 38 節</span>
             <span class="card-chip">時長：03:08:39</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Eat That Frog! by Brian Tracy   Full Audiobook.html" class="book-card" data-title="Eat That Frog! by Brian Tracy   Full Audiobook">
+        <a href="Eat That Frog! by Brian Tracy   Full Audiobook.html" class="book-card" data-title="Eat That Frog! by Brian Tracy   Full Audiobook" data-cat="habits">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #3b82f622; color: #3b82f6;">
+              ⚡ 習慣與生產力
+            </span>
+            <span class="card-chip">📑 32 節</span>
+          </div>
           <div class="book-card-title">Eat That Frog! by Brian Tracy   Full Audiobook</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 32 節</span>
             <span class="card-chip">時長：02:38:48</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Educate Yourself Every Day &amp; Stay Ahead of 99_ People _ Audiobook.html" class="book-card" data-title="Educate Yourself Every Day &amp; Stay Ahead of 99% People _ Audiobook">
+        <a href="Educate Yourself Every Day &amp; Stay Ahead of 99_ People _ Audiobook.html" class="book-card" data-title="Educate Yourself Every Day &amp; Stay Ahead of 99% People _ Audiobook" data-cat="leadership">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #06b6d422; color: #06b6d4;">
+              🎯 領導與策略
+            </span>
+            <span class="card-chip">📑 17 節</span>
+          </div>
           <div class="book-card-title">Educate Yourself Every Day &amp; Stay Ahead of 99% People _ Audiobook</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 17 節</span>
             <span class="card-chip">時長：01:24:43</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Effortless_ Audiobook Make It Easier to Do What Matters Most by Greg McKeown.html" class="book-card" data-title="Effortless_ Audiobook Make It Easier to Do What Matters Most by Greg McKeown">
+        <a href="Effortless_ Audiobook Make It Easier to Do What Matters Most by Greg McKeown.html" class="book-card" data-title="Effortless_ Audiobook Make It Easier to Do What Matters Most by Greg McKeown" data-cat="habits">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #3b82f622; color: #3b82f6;">
+              ⚡ 習慣與生產力
+            </span>
+            <span class="card-chip">📑 79 節</span>
+          </div>
           <div class="book-card-title">Effortless_ Audiobook Make It Easier to Do What Matters Most by Greg McKeown</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 79 節</span>
             <span class="card-chip">時長：06:35:08</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Essentialism by Greg McKeown (Audiobook) w Read-through.html" class="book-card" data-title="Essentialism by Greg McKeown (Audiobook) w Read-through">
+        <a href="Essentialism by Greg McKeown (Audiobook) w Read-through.html" class="book-card" data-title="Essentialism by Greg McKeown (Audiobook) w Read-through" data-cat="habits">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #3b82f622; color: #3b82f6;">
+              ⚡ 習慣與生產力
+            </span>
+            <span class="card-chip">📑 58 節</span>
+          </div>
           <div class="book-card-title">Essentialism by Greg McKeown (Audiobook) w Read-through</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 58 節</span>
             <span class="card-chip">時長：04:47:38</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Four Thousand Weeks by Oliver Burkeman _ Free Summary Audiobook.html" class="book-card" data-title="Four Thousand Weeks by Oliver Burkeman _ Free Summary Audiobook">
+        <a href="Four Thousand Weeks by Oliver Burkeman _ Free Summary Audiobook.html" class="book-card" data-title="Four Thousand Weeks by Oliver Burkeman _ Free Summary Audiobook" data-cat="philosophy">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #8b5cf622; color: #8b5cf6;">
+              🧠 哲學與思辨
+            </span>
+            <span class="card-chip">📑 5 節</span>
+          </div>
           <div class="book-card-title">Four Thousand Weeks by Oliver Burkeman _ Free Summary Audiobook</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 5 節</span>
             <span class="card-chip">時長：00:23:19</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Full Audiobook Think Again by Adam Grant Audiobook in English _ Think Again  Audiobook for Power.html" class="book-card" data-title="Full Audiobook Think Again by Adam Grant Audiobook in English _ Think Again  Audiobook for Power">
+        <a href="Full Audiobook Think Again by Adam Grant Audiobook in English _ Think Again  Audiobook for Power.html" class="book-card" data-title="Full Audiobook Think Again by Adam Grant Audiobook in English _ Think Again  Audiobook for Power" data-cat="philosophy">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #8b5cf622; color: #8b5cf6;">
+              🧠 哲學與思辨
+            </span>
+            <span class="card-chip">📑 101 節</span>
+          </div>
           <div class="book-card-title">Full Audiobook Think Again by Adam Grant Audiobook in English _ Think Again  Audiobook for Power</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 101 節</span>
             <span class="card-chip">時長：08:26:11</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Full Book Motivational Chapter Summaries of Awaken the Giant Within by Anthony Robbins.html" class="book-card" data-title="Full Book Motivational Chapter Summaries of Awaken the Giant Within by Anthony Robbins">
+        <a href="Full Book Motivational Chapter Summaries of Awaken the Giant Within by Anthony Robbins.html" class="book-card" data-title="Full Book Motivational Chapter Summaries of Awaken the Giant Within by Anthony Robbins" data-cat="grit">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #f9731622; color: #f97316;">
+              🔥 意志與心態
+            </span>
+            <span class="card-chip">📑 51 節</span>
+          </div>
           <div class="book-card-title">Full Book Motivational Chapter Summaries of Awaken the Giant Within by Anthony Robbins</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 51 節</span>
             <span class="card-chip">時長：04:16:18</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Full Length Audiobook➛ Don_t Believe Everything You Think By Joseph Nguyen With Background Music.html" class="book-card" data-title="Full Length Audiobook➛ Don&#x27;t Believe Everything You Think By Joseph Nguyen With Background Music">
+        <a href="Full Length Audiobook➛ Don_t Believe Everything You Think By Joseph Nguyen With Background Music.html" class="book-card" data-title="Full Length Audiobook➛ Don&#x27;t Believe Everything You Think By Joseph Nguyen With Background Music" data-cat="philosophy">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #8b5cf622; color: #8b5cf6;">
+              🧠 哲學與思辨
+            </span>
+            <span class="card-chip">📑 28 節</span>
+          </div>
           <div class="book-card-title">Full Length Audiobook➛ Don&#x27;t Believe Everything You Think By Joseph Nguyen With Background Music</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 28 節</span>
             <span class="card-chip">時長：02:16:52</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="G6.有魂無體 唱.html" class="book-card" data-title="G6.有魂無體 唱">
+        <a href="G6.有魂無體 唱.html" class="book-card" data-title="G6.有魂無體 唱" data-cat="taiwan">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #eab30822; color: #eab308;">
+              🇹🇼 台灣念歌與本土
+            </span>
+            <span class="card-chip">📑 0 節</span>
+          </div>
           <div class="book-card-title">G6.有魂無體 唱</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 0 節</span>
             <span class="card-chip">時長：00:03:44</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Good Vibes, Good Life by Vex King_  Audiobook with subtitle Plus the Best Mozart music..html" class="book-card" data-title="Good Vibes, Good Life by Vex King_  Audiobook with subtitle Plus the Best Mozart music.">
+        <a href="Good Vibes, Good Life by Vex King_  Audiobook with subtitle Plus the Best Mozart music..html" class="book-card" data-title="Good Vibes, Good Life by Vex King_  Audiobook with subtitle Plus the Best Mozart music." data-cat="philosophy">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #8b5cf622; color: #8b5cf6;">
+              🧠 哲學與思辨
+            </span>
+            <span class="card-chip">📑 52 節</span>
+          </div>
           <div class="book-card-title">Good Vibes, Good Life by Vex King_  Audiobook with subtitle Plus the Best Mozart music.</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 52 節</span>
             <span class="card-chip">時長：04:19:06</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Hans Rosling Anna Rosling Ronnlund And Ola Rosling Factfulness Audiobook   YouTube 360p.html" class="book-card" data-title="Hans Rosling Anna Rosling Ronnlund And Ola Rosling Factfulness Audiobook   YouTube 360p">
+        <a href="Hans Rosling Anna Rosling Ronnlund And Ola Rosling Factfulness Audiobook   YouTube 360p.html" class="book-card" data-title="Hans Rosling Anna Rosling Ronnlund And Ola Rosling Factfulness Audiobook   YouTube 360p" data-cat="leadership">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #06b6d422; color: #06b6d4;">
+              🎯 領導與策略
+            </span>
+            <span class="card-chip">📑 106 節</span>
+          </div>
           <div class="book-card-title">Hans Rosling Anna Rosling Ronnlund And Ola Rosling Factfulness Audiobook   YouTube 360p</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 106 節</span>
             <span class="card-chip">時長：08:51:06</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Haruki Murakami - What I Talk About When I Talk About Running (Audiobook).html" class="book-card" data-title="Haruki Murakami - What I Talk About When I Talk About Running (Audiobook)">
+        <a href="Haruki Murakami - What I Talk About When I Talk About Running (Audiobook).html" class="book-card" data-title="Haruki Murakami - What I Talk About When I Talk About Running (Audiobook)" data-cat="classics">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #ec489922; color: #ec4899;">
+              📖 文學與經典
+            </span>
+            <span class="card-chip">📑 42 節</span>
+          </div>
           <div class="book-card-title">Haruki Murakami - What I Talk About When I Talk About Running (Audiobook)</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 42 節</span>
             <span class="card-chip">時長：03:30:24</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="How to Talk to Anyone 92 Little Tricks for Big Success in Relationships Audiobook  (1).html" class="book-card" data-title="How to Talk to Anyone 92 Little Tricks for Big Success in Relationships Audiobook  (1)">
+        <a href="How to Talk to Anyone 92 Little Tricks for Big Success in Relationships Audiobook  (1).html" class="book-card" data-title="How to Talk to Anyone 92 Little Tricks for Big Success in Relationships Audiobook  (1)" data-cat="leadership">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #06b6d422; color: #06b6d4;">
+              🎯 領導與策略
+            </span>
+            <span class="card-chip">📑 104 節</span>
+          </div>
           <div class="book-card-title">How to Talk to Anyone 92 Little Tricks for Big Success in Relationships Audiobook  (1)</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 104 節</span>
             <span class="card-chip">時長：08:41:30</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="How to Talk to Anyone 92 Little Tricks for Big Success in Relationships Audiobook.html" class="book-card" data-title="How to Talk to Anyone 92 Little Tricks for Big Success in Relationships Audiobook">
+        <a href="How to Talk to Anyone 92 Little Tricks for Big Success in Relationships Audiobook.html" class="book-card" data-title="How to Talk to Anyone 92 Little Tricks for Big Success in Relationships Audiobook" data-cat="leadership">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #06b6d422; color: #06b6d4;">
+              🎯 領導與策略
+            </span>
+            <span class="card-chip">📑 104 節</span>
+          </div>
           <div class="book-card-title">How to Talk to Anyone 92 Little Tricks for Big Success in Relationships Audiobook</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 104 節</span>
             <span class="card-chip">時長：08:41:30</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="HOW TO WIN FRIENDS AND INFLUENCE PEOPLE (AUDIOBOOK).html" class="book-card" data-title="HOW TO WIN FRIENDS AND INFLUENCE PEOPLE (AUDIOBOOK)">
+        <a href="HOW TO WIN FRIENDS AND INFLUENCE PEOPLE (AUDIOBOOK).html" class="book-card" data-title="HOW TO WIN FRIENDS AND INFLUENCE PEOPLE (AUDIOBOOK)" data-cat="leadership">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #06b6d422; color: #06b6d4;">
+              🎯 領導與策略
+            </span>
+            <span class="card-chip">📑 89 節</span>
+          </div>
           <div class="book-card-title">HOW TO WIN FRIENDS AND INFLUENCE PEOPLE (AUDIOBOOK)</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 89 節</span>
             <span class="card-chip">時長：07:23:07</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="How Will You Measure Your Life_ Clay Christensen at TEDxBoston.html" class="book-card" data-title="How Will You Measure Your Life_ Clay Christensen at TEDxBoston">
+        <a href="How Will You Measure Your Life_ Clay Christensen at TEDxBoston.html" class="book-card" data-title="How Will You Measure Your Life_ Clay Christensen at TEDxBoston" data-cat="leadership">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #06b6d422; color: #06b6d4;">
+              🎯 領導與策略
+            </span>
+            <span class="card-chip">📑 4 節</span>
+          </div>
           <div class="book-card-title">How Will You Measure Your Life_ Clay Christensen at TEDxBoston</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 4 節</span>
             <span class="card-chip">時長：00:19:30</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Let The Man be Born. - 1 Hour David Goggins Motivation.html" class="book-card" data-title="Let The Man be Born. - 1 Hour David Goggins Motivation">
+        <a href="Let The Man be Born. - 1 Hour David Goggins Motivation.html" class="book-card" data-title="Let The Man be Born. - 1 Hour David Goggins Motivation" data-cat="grit">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #f9731622; color: #f97316;">
+              🔥 意志與心態
+            </span>
+            <span class="card-chip">📑 12 節</span>
+          </div>
           <div class="book-card-title">Let The Man be Born. - 1 Hour David Goggins Motivation</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 12 節</span>
             <span class="card-chip">時長：00:57:25</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="MAKE YOUR BED AUDIOBOOK FULL BOOK _ BY  William H. McRaven.html" class="book-card" data-title="MAKE YOUR BED AUDIOBOOK FULL BOOK _ BY  William H. McRaven">
+        <a href="MAKE YOUR BED AUDIOBOOK FULL BOOK _ BY  William H. McRaven.html" class="book-card" data-title="MAKE YOUR BED AUDIOBOOK FULL BOOK _ BY  William H. McRaven" data-cat="grit">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #f9731622; color: #f97316;">
+              🔥 意志與心態
+            </span>
+            <span class="card-chip">📑 16 節</span>
+          </div>
           <div class="book-card-title">MAKE YOUR BED AUDIOBOOK FULL BOOK _ BY  William H. McRaven</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 16 節</span>
             <span class="card-chip">時長：01:19:34</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Master Your Emotions by Thibaut Meurisse _ Full Audiobook.html" class="book-card" data-title="Master Your Emotions by Thibaut Meurisse _ Full Audiobook">
+        <a href="Master Your Emotions by Thibaut Meurisse _ Full Audiobook.html" class="book-card" data-title="Master Your Emotions by Thibaut Meurisse _ Full Audiobook" data-cat="philosophy">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #8b5cf622; color: #8b5cf6;">
+              🧠 哲學與思辨
+            </span>
+            <span class="card-chip">📑 49 節</span>
+          </div>
           <div class="book-card-title">Master Your Emotions by Thibaut Meurisse _ Full Audiobook</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 49 節</span>
             <span class="card-chip">時長：04:05:14</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Master Your Time, Master Your Life by Brian Tracy   Full Audiobook.html" class="book-card" data-title="Master Your Time, Master Your Life by Brian Tracy   Full Audiobook">
+        <a href="Master Your Time, Master Your Life by Brian Tracy   Full Audiobook.html" class="book-card" data-title="Master Your Time, Master Your Life by Brian Tracy   Full Audiobook" data-cat="habits">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #3b82f622; color: #3b82f6;">
+              ⚡ 習慣與生產力
+            </span>
+            <span class="card-chip">📑 49 節</span>
+          </div>
           <div class="book-card-title">Master Your Time, Master Your Life by Brian Tracy   Full Audiobook</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 49 節</span>
             <span class="card-chip">時長：04:02:48</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Meditations by Marcus Aurelius _ Audiobook with Text.html" class="book-card" data-title="Meditations by Marcus Aurelius _ Audiobook with Text">
+        <a href="Meditations by Marcus Aurelius _ Audiobook with Text.html" class="book-card" data-title="Meditations by Marcus Aurelius _ Audiobook with Text" data-cat="philosophy">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #8b5cf622; color: #8b5cf6;">
+              🧠 哲學與思辨
+            </span>
+            <span class="card-chip">📑 84 節</span>
+          </div>
           <div class="book-card-title">Meditations by Marcus Aurelius _ Audiobook with Text</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 84 節</span>
             <span class="card-chip">時長：07:01:07</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Mindset by Dr. Carol S. dweck full Audio book in English #audiobook #books.html" class="book-card" data-title="Mindset by Dr. Carol S. dweck full Audio book in English #audiobook #books">
+        <a href="Mindset by Dr. Carol S. dweck full Audio book in English #audiobook #books.html" class="book-card" data-title="Mindset by Dr. Carol S. dweck full Audio book in English #audiobook #books" data-cat="grit">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #f9731622; color: #f97316;">
+              🔥 意志與心態
+            </span>
+            <span class="card-chip">📑 102 節</span>
+          </div>
           <div class="book-card-title">Mindset by Dr. Carol S. dweck full Audio book in English #audiobook #books</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 102 節</span>
             <span class="card-chip">時長：08:34:31</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Nassim Taleb - 11 Rules For Life (How To Live a Resilient Life).html" class="book-card" data-title="Nassim Taleb - 11 Rules For Life (How To Live a Resilient Life)">
+        <a href="Nassim Taleb - 11 Rules For Life (How To Live a Resilient Life).html" class="book-card" data-title="Nassim Taleb - 11 Rules For Life (How To Live a Resilient Life)" data-cat="philosophy">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #8b5cf622; color: #8b5cf6;">
+              🧠 哲學與思辨
+            </span>
+            <span class="card-chip">📑 2 節</span>
+          </div>
           <div class="book-card-title">Nassim Taleb - 11 Rules For Life (How To Live a Resilient Life)</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 2 節</span>
             <span class="card-chip">時長：00:09:19</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Nassim Taleb - 4 Rules To Become Antifragile (For A Better Life).html" class="book-card" data-title="Nassim Taleb - 4 Rules To Become Antifragile (For A Better Life)">
+        <a href="Nassim Taleb - 4 Rules To Become Antifragile (For A Better Life).html" class="book-card" data-title="Nassim Taleb - 4 Rules To Become Antifragile (For A Better Life)" data-cat="philosophy">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #8b5cf622; color: #8b5cf6;">
+              🧠 哲學與思辨
+            </span>
+            <span class="card-chip">📑 3 節</span>
+          </div>
           <div class="book-card-title">Nassim Taleb - 4 Rules To Become Antifragile (For A Better Life)</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 3 節</span>
             <span class="card-chip">時長：00:13:17</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Nineteen Eighty-Four by George Orwell _ 1984 _ Full Audiobook.html" class="book-card" data-title="Nineteen Eighty-Four by George Orwell _ 1984 _ Full Audiobook">
+        <a href="Nineteen Eighty-Four by George Orwell _ 1984 _ Full Audiobook.html" class="book-card" data-title="Nineteen Eighty-Four by George Orwell _ 1984 _ Full Audiobook" data-cat="classics">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #ec489922; color: #ec4899;">
+              📖 文學與經典
+            </span>
+            <span class="card-chip">📑 130 節</span>
+          </div>
           <div class="book-card-title">Nineteen Eighty-Four by George Orwell _ 1984 _ Full Audiobook</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 130 節</span>
             <span class="card-chip">時長：10:53:59</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Nobody Cares, Work Harder..html" class="book-card" data-title="Nobody Cares, Work Harder.">
+        <a href="Nobody Cares, Work Harder..html" class="book-card" data-title="Nobody Cares, Work Harder." data-cat="grit">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #f9731622; color: #f97316;">
+              🔥 意志與心態
+            </span>
+            <span class="card-chip">📑 17 節</span>
+          </div>
           <div class="book-card-title">Nobody Cares, Work Harder.</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 17 節</span>
             <span class="card-chip">時長：01:24:22</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Notes From The Underground by Fyodor Dostoyevsky - FULL AudioBook _ Greatest🌟AudioBooks.html" class="book-card" data-title="Notes From The Underground by Fyodor Dostoyevsky - FULL AudioBook _ Greatest🌟AudioBooks">
+        <a href="Notes From The Underground by Fyodor Dostoyevsky - FULL AudioBook _ Greatest🌟AudioBooks.html" class="book-card" data-title="Notes From The Underground by Fyodor Dostoyevsky - FULL AudioBook _ Greatest🌟AudioBooks" data-cat="classics">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #ec489922; color: #ec4899;">
+              📖 文學與經典
+            </span>
+            <span class="card-chip">📑 61 節</span>
+          </div>
           <div class="book-card-title">Notes From The Underground by Fyodor Dostoyevsky - FULL AudioBook _ Greatest🌟AudioBooks</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 61 節</span>
             <span class="card-chip">時長：05:05:10</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="One Small Step Can Change Your Life.html" class="book-card" data-title="One Small Step Can Change Your Life">
+        <a href="One Small Step Can Change Your Life.html" class="book-card" data-title="One Small Step Can Change Your Life" data-cat="habits">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #3b82f622; color: #3b82f6;">
+              ⚡ 習慣與生產力
+            </span>
+            <span class="card-chip">📑 38 節</span>
+          </div>
           <div class="book-card-title">One Small Step Can Change Your Life</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 38 節</span>
             <span class="card-chip">時長：03:11:34</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Poor Charlie’s Almanack_ The Essential Wit and Wisdom of Charles T. Munger (FULL AUDIOBOOK  PT 1).html" class="book-card" data-title="Poor Charlie’s Almanack_ The Essential Wit and Wisdom of Charles T. Munger (FULL AUDIOBOOK  PT 1)">
+        <a href="Poor Charlie’s Almanack_ The Essential Wit and Wisdom of Charles T. Munger (FULL AUDIOBOOK  PT 1).html" class="book-card" data-title="Poor Charlie’s Almanack_ The Essential Wit and Wisdom of Charles T. Munger (FULL AUDIOBOOK  PT 1)" data-cat="wealth">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #10b98122; color: #10b981;">
+              💰 財富與投資
+            </span>
+            <span class="card-chip">📑 143 節</span>
+          </div>
           <div class="book-card-title">Poor Charlie’s Almanack_ The Essential Wit and Wisdom of Charles T. Munger (FULL AUDIOBOOK  PT 1)</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 143 節</span>
             <span class="card-chip">時長：11:58:58</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Poor Charlie’s Almanack_ The Essential Wit and Wisdom of Charles T. Munger (FULL AUDIOBOOK  PT 2)  (1).html" class="book-card" data-title="Poor Charlie’s Almanack_ The Essential Wit and Wisdom of Charles T. Munger (FULL AUDIOBOOK  PT 2)  (1)">
+        <a href="Poor Charlie’s Almanack_ The Essential Wit and Wisdom of Charles T. Munger (FULL AUDIOBOOK  PT 2)  (1).html" class="book-card" data-title="Poor Charlie’s Almanack_ The Essential Wit and Wisdom of Charles T. Munger (FULL AUDIOBOOK  PT 2)  (1)" data-cat="wealth">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #10b98122; color: #10b981;">
+              💰 財富與投資
+            </span>
+            <span class="card-chip">📑 24 節</span>
+          </div>
           <div class="book-card-title">Poor Charlie’s Almanack_ The Essential Wit and Wisdom of Charles T. Munger (FULL AUDIOBOOK  PT 2)  (1)</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 24 節</span>
             <span class="card-chip">時長：01:59:36</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Poor Charlie’s Almanack_ The Essential Wit and Wisdom of Charles T. Munger (FULL AUDIOBOOK  PT 2).html" class="book-card" data-title="Poor Charlie’s Almanack_ The Essential Wit and Wisdom of Charles T. Munger (FULL AUDIOBOOK  PT 2)">
+        <a href="Poor Charlie’s Almanack_ The Essential Wit and Wisdom of Charles T. Munger (FULL AUDIOBOOK  PT 2).html" class="book-card" data-title="Poor Charlie’s Almanack_ The Essential Wit and Wisdom of Charles T. Munger (FULL AUDIOBOOK  PT 2)" data-cat="wealth">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #10b98122; color: #10b981;">
+              💰 財富與投資
+            </span>
+            <span class="card-chip">📑 24 節</span>
+          </div>
           <div class="book-card-title">Poor Charlie’s Almanack_ The Essential Wit and Wisdom of Charles T. Munger (FULL AUDIOBOOK  PT 2)</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 24 節</span>
             <span class="card-chip">時長：01:59:36</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Start with WHY by Simon Sinek _ Full Audiobook _.html" class="book-card" data-title="Start with WHY by Simon Sinek _ Full Audiobook _">
+        <a href="Start with WHY by Simon Sinek _ Full Audiobook _.html" class="book-card" data-title="Start with WHY by Simon Sinek _ Full Audiobook _" data-cat="leadership">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #06b6d422; color: #06b6d4;">
+              🎯 領導與策略
+            </span>
+            <span class="card-chip">📑 88 節</span>
+          </div>
           <div class="book-card-title">Start with WHY by Simon Sinek _ Full Audiobook _</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 88 節</span>
             <span class="card-chip">時長：07:21:23</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="THE 7 HABITS OF HIGHLY EFFECTIVE PEOPLE __ BY STEPHEN R. COVEY __ FREE AUDIOBOOK 🎧 #7habits.html" class="book-card" data-title="THE 7 HABITS OF HIGHLY EFFECTIVE PEOPLE __ BY STEPHEN R. COVEY __ FREE AUDIOBOOK 🎧 #7habits">
+        <a href="THE 7 HABITS OF HIGHLY EFFECTIVE PEOPLE __ BY STEPHEN R. COVEY __ FREE AUDIOBOOK 🎧 #7habits.html" class="book-card" data-title="THE 7 HABITS OF HIGHLY EFFECTIVE PEOPLE __ BY STEPHEN R. COVEY __ FREE AUDIOBOOK 🎧 #7habits" data-cat="leadership">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #06b6d422; color: #06b6d4;">
+              🎯 領導與策略
+            </span>
+            <span class="card-chip">📑 123 節</span>
+          </div>
           <div class="book-card-title">THE 7 HABITS OF HIGHLY EFFECTIVE PEOPLE __ BY STEPHEN R. COVEY __ FREE AUDIOBOOK 🎧 #7habits</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 123 節</span>
             <span class="card-chip">時長：10:18:16</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="The Almanack of Naval Ravikant A Guide to Wealth and Happiness.html" class="book-card" data-title="The Almanack of Naval Ravikant A Guide to Wealth and Happiness">
+        <a href="The Almanack of Naval Ravikant A Guide to Wealth and Happiness.html" class="book-card" data-title="The Almanack of Naval Ravikant A Guide to Wealth and Happiness" data-cat="wealth">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #10b98122; color: #10b981;">
+              💰 財富與投資
+            </span>
+            <span class="card-chip">📑 59 節</span>
+          </div>
           <div class="book-card-title">The Almanack of Naval Ravikant A Guide to Wealth and Happiness</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 59 節</span>
             <span class="card-chip">時長：04:54:49</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="The Art Of Laziness_ Overcome Procrastination by Library Mindset _ Full Audiobook 🎧.html" class="book-card" data-title="The Art Of Laziness_ Overcome Procrastination by Library Mindset _ Full Audiobook 🎧">
+        <a href="The Art Of Laziness_ Overcome Procrastination by Library Mindset _ Full Audiobook 🎧.html" class="book-card" data-title="The Art Of Laziness_ Overcome Procrastination by Library Mindset _ Full Audiobook 🎧" data-cat="habits">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #3b82f622; color: #3b82f6;">
+              ⚡ 習慣與生產力
+            </span>
+            <span class="card-chip">📑 15 節</span>
+          </div>
           <div class="book-card-title">The Art Of Laziness_ Overcome Procrastination by Library Mindset _ Full Audiobook 🎧</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 15 節</span>
             <span class="card-chip">時長：01:15:20</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="The Art of Public Speaking FULL Audiobook by Dale Carnegie AudioBooks Library.html" class="book-card" data-title="The Art of Public Speaking FULL Audiobook by Dale Carnegie AudioBooks Library">
+        <a href="The Art of Public Speaking FULL Audiobook by Dale Carnegie AudioBooks Library.html" class="book-card" data-title="The Art of Public Speaking FULL Audiobook by Dale Carnegie AudioBooks Library" data-cat="leadership">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #06b6d422; color: #06b6d4;">
+              🎯 領導與策略
+            </span>
+            <span class="card-chip">📑 138 節</span>
+          </div>
           <div class="book-card-title">The Art of Public Speaking FULL Audiobook by Dale Carnegie AudioBooks Library</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 138 節</span>
             <span class="card-chip">時長：11:33:02</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="The Art of the Deal by Donald Trump _ Narrated by Himself  Full Audiobook.html" class="book-card" data-title="The Art of the Deal by Donald Trump _ Narrated by Himself  Full Audiobook">
+        <a href="The Art of the Deal by Donald Trump _ Narrated by Himself  Full Audiobook.html" class="book-card" data-title="The Art of the Deal by Donald Trump _ Narrated by Himself  Full Audiobook" data-cat="leadership">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #06b6d422; color: #06b6d4;">
+              🎯 領導與策略
+            </span>
+            <span class="card-chip">📑 113 節</span>
+          </div>
           <div class="book-card-title">The Art of the Deal by Donald Trump _ Narrated by Himself  Full Audiobook</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 113 節</span>
             <span class="card-chip">時長：09:25:37</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="The Art of Thinking Clearly - Rolf Dobelli FULL Audiobook.html" class="book-card" data-title="The Art of Thinking Clearly - Rolf Dobelli FULL Audiobook">
+        <a href="The Art of Thinking Clearly - Rolf Dobelli FULL Audiobook.html" class="book-card" data-title="The Art of Thinking Clearly - Rolf Dobelli FULL Audiobook" data-cat="philosophy">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #8b5cf622; color: #8b5cf6;">
+              🧠 哲學與思辨
+            </span>
+            <span class="card-chip">📑 94 節</span>
+          </div>
           <div class="book-card-title">The Art of Thinking Clearly - Rolf Dobelli FULL Audiobook</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 94 節</span>
             <span class="card-chip">時長：07:51:37</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="The Art of War by Sun Tzu_ Entire Unabridged Audiobook.html" class="book-card" data-title="The Art of War by Sun Tzu_ Entire Unabridged Audiobook">
+        <a href="The Art of War by Sun Tzu_ Entire Unabridged Audiobook.html" class="book-card" data-title="The Art of War by Sun Tzu_ Entire Unabridged Audiobook" data-cat="leadership">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #06b6d422; color: #06b6d4;">
+              🎯 領導與策略
+            </span>
+            <span class="card-chip">📑 15 節</span>
+          </div>
           <div class="book-card-title">The Art of War by Sun Tzu_ Entire Unabridged Audiobook</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 15 節</span>
             <span class="card-chip">時長：01:13:25</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="The Courage to be Disliked by Ichiro Kishimi and Fumitake Toga📔 (Full Audiobook).html" class="book-card" data-title="The Courage to be Disliked by Ichiro Kishimi and Fumitake Toga📔 (Full Audiobook)">
+        <a href="The Courage to be Disliked by Ichiro Kishimi and Fumitake Toga📔 (Full Audiobook).html" class="book-card" data-title="The Courage to be Disliked by Ichiro Kishimi and Fumitake Toga📔 (Full Audiobook)" data-cat="philosophy">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #8b5cf622; color: #8b5cf6;">
+              🧠 哲學與思辨
+            </span>
+            <span class="card-chip">📑 82 節</span>
+          </div>
           <div class="book-card-title">The Courage to be Disliked by Ichiro Kishimi and Fumitake Toga📔 (Full Audiobook)</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 82 節</span>
             <span class="card-chip">時長：06:51:41</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="The Infinite Game By Simon Sink challenges us to think bigger FULL AUDIOBOOK IN ENGLISH.html" class="book-card" data-title="The Infinite Game By Simon Sink challenges us to think bigger FULL AUDIOBOOK IN ENGLISH">
+        <a href="The Infinite Game By Simon Sink challenges us to think bigger FULL AUDIOBOOK IN ENGLISH.html" class="book-card" data-title="The Infinite Game By Simon Sink challenges us to think bigger FULL AUDIOBOOK IN ENGLISH" data-cat="leadership">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #06b6d422; color: #06b6d4;">
+              🎯 領導與策略
+            </span>
+            <span class="card-chip">📑 77 節</span>
+          </div>
           <div class="book-card-title">The Infinite Game By Simon Sink challenges us to think bigger FULL AUDIOBOOK IN ENGLISH</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 77 節</span>
             <span class="card-chip">時長：06:24:50</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="The Insane Race That Will Leave You Speechless_ Uncovering Ultrarunner_s Shocking Experience.html" class="book-card" data-title="The Insane Race That Will Leave You Speechless_ Uncovering Ultrarunner&#x27;s Shocking Experience">
+        <a href="The Insane Race That Will Leave You Speechless_ Uncovering Ultrarunner_s Shocking Experience.html" class="book-card" data-title="The Insane Race That Will Leave You Speechless_ Uncovering Ultrarunner&#x27;s Shocking Experience" data-cat="grit">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #f9731622; color: #f97316;">
+              🔥 意志與心態
+            </span>
+            <span class="card-chip">📑 1 節</span>
+          </div>
           <div class="book-card-title">The Insane Race That Will Leave You Speechless_ Uncovering Ultrarunner&#x27;s Shocking Experience</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 1 節</span>
             <span class="card-chip">時長：00:00:18</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="The Let Them Theory _ Mel Robbins _ A Life-Changing Tool Millions of People Can’t Stop Talking About.html" class="book-card" data-title="The Let Them Theory _ Mel Robbins _ A Life-Changing Tool Millions of People Can’t Stop Talking About">
+        <a href="The Let Them Theory _ Mel Robbins _ A Life-Changing Tool Millions of People Can’t Stop Talking About.html" class="book-card" data-title="The Let Them Theory _ Mel Robbins _ A Life-Changing Tool Millions of People Can’t Stop Talking About" data-cat="philosophy">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #8b5cf622; color: #8b5cf6;">
+              🧠 哲學與思辨
+            </span>
+            <span class="card-chip">📑 87 節</span>
+          </div>
           <div class="book-card-title">The Let Them Theory _ Mel Robbins _ A Life-Changing Tool Millions of People Can’t Stop Talking About</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 87 節</span>
             <span class="card-chip">時長：07:17:29</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="The Most Important Thing_Uncommon Sense for the Thoughtful Investor by Howard Marks _ Full Audiobook.html" class="book-card" data-title="The Most Important Thing_Uncommon Sense for the Thoughtful Investor by Howard Marks _ Full Audiobook">
+        <a href="The Most Important Thing_Uncommon Sense for the Thoughtful Investor by Howard Marks _ Full Audiobook.html" class="book-card" data-title="The Most Important Thing_Uncommon Sense for the Thoughtful Investor by Howard Marks _ Full Audiobook" data-cat="wealth">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #10b98122; color: #10b981;">
+              💰 財富與投資
+            </span>
+            <span class="card-chip">📑 79 節</span>
+          </div>
           <div class="book-card-title">The Most Important Thing_Uncommon Sense for the Thoughtful Investor by Howard Marks _ Full Audiobook</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 79 節</span>
             <span class="card-chip">時長：06:35:10</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="The Power of Consistency  The Compound Effect by Darren Hardy   Full Audiobook.html" class="book-card" data-title="The Power of Consistency  The Compound Effect by Darren Hardy   Full Audiobook">
+        <a href="The Power of Consistency  The Compound Effect by Darren Hardy   Full Audiobook.html" class="book-card" data-title="The Power of Consistency  The Compound Effect by Darren Hardy   Full Audiobook" data-cat="habits">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #3b82f622; color: #3b82f6;">
+              ⚡ 習慣與生產力
+            </span>
+            <span class="card-chip">📑 50 節</span>
+          </div>
           <div class="book-card-title">The Power of Consistency  The Compound Effect by Darren Hardy   Full Audiobook</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 50 節</span>
             <span class="card-chip">時長：04:09:10</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="The Power of Now Audiobook Full - Eckhart Tolle.html" class="book-card" data-title="The Power of Now Audiobook Full - Eckhart Tolle">
+        <a href="The Power of Now Audiobook Full - Eckhart Tolle.html" class="book-card" data-title="The Power of Now Audiobook Full - Eckhart Tolle" data-cat="philosophy">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #8b5cf622; color: #8b5cf6;">
+              🧠 哲學與思辨
+            </span>
+            <span class="card-chip">📑 73 節</span>
+          </div>
           <div class="book-card-title">The Power of Now Audiobook Full - Eckhart Tolle</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 73 節</span>
             <span class="card-chip">時長：06:06:03</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="The Power of Writing it Down Audiobook.html" class="book-card" data-title="The Power of Writing it Down Audiobook">
+        <a href="The Power of Writing it Down Audiobook.html" class="book-card" data-title="The Power of Writing it Down Audiobook" data-cat="habits">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #3b82f622; color: #3b82f6;">
+              ⚡ 習慣與生產力
+            </span>
+            <span class="card-chip">📑 72 節</span>
+          </div>
           <div class="book-card-title">The Power of Writing it Down Audiobook</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 72 節</span>
             <span class="card-chip">時長：05:59:15</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="The Psychology of Money by Morgan Housel - Audiobook (mp3cut.net) 下.html" class="book-card" data-title="The Psychology of Money by Morgan Housel - Audiobook (mp3cut.net) 下">
+        <a href="The Psychology of Money by Morgan Housel - Audiobook (mp3cut.net) 下.html" class="book-card" data-title="The Psychology of Money by Morgan Housel - Audiobook (mp3cut.net) 下" data-cat="wealth">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #10b98122; color: #10b981;">
+              💰 財富與投資
+            </span>
+            <span class="card-chip">📑 36 節</span>
+          </div>
           <div class="book-card-title">The Psychology of Money by Morgan Housel - Audiobook (mp3cut.net) 下</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 36 節</span>
             <span class="card-chip">時長：03:00:32</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="The Psychology of Money by Morgan Housel - Audiobook (mp3cut.net)上.html" class="book-card" data-title="The Psychology of Money by Morgan Housel - Audiobook (mp3cut.net)上">
+        <a href="The Psychology of Money by Morgan Housel - Audiobook (mp3cut.net)上.html" class="book-card" data-title="The Psychology of Money by Morgan Housel - Audiobook (mp3cut.net)上" data-cat="wealth">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #10b98122; color: #10b981;">
+              💰 財富與投資
+            </span>
+            <span class="card-chip">📑 45 節</span>
+          </div>
           <div class="book-card-title">The Psychology of Money by Morgan Housel - Audiobook (mp3cut.net)上</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 45 節</span>
             <span class="card-chip">時長：03:46:32</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="The Psychology of Money by Morgan Housel - Audiobook.html" class="book-card" data-title="The Psychology of Money by Morgan Housel - Audiobook">
+        <a href="The Psychology of Money by Morgan Housel - Audiobook.html" class="book-card" data-title="The Psychology of Money by Morgan Housel - Audiobook" data-cat="wealth">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #10b98122; color: #10b981;">
+              💰 財富與投資
+            </span>
+            <span class="card-chip">📑 81 節</span>
+          </div>
           <div class="book-card-title">The Psychology of Money by Morgan Housel - Audiobook</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 81 節</span>
             <span class="card-chip">時長：06:46:32</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="The Warren Buffett Portfolio_ Mastering the Power of the Focus Investment Strategy _ full audiobook.html" class="book-card" data-title="The Warren Buffett Portfolio_ Mastering the Power of the Focus Investment Strategy _ full audiobook">
+        <a href="The Warren Buffett Portfolio_ Mastering the Power of the Focus Investment Strategy _ full audiobook.html" class="book-card" data-title="The Warren Buffett Portfolio_ Mastering the Power of the Focus Investment Strategy _ full audiobook" data-cat="wealth">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #10b98122; color: #10b981;">
+              💰 財富與投資
+            </span>
+            <span class="card-chip">📑 69 節</span>
+          </div>
           <div class="book-card-title">The Warren Buffett Portfolio_ Mastering the Power of the Focus Investment Strategy _ full audiobook</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 69 節</span>
             <span class="card-chip">時長：05:45:51</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Think And Grow Rich! (1937 - 1st Edition) by Napoleon Hill.html" class="book-card" data-title="Think And Grow Rich! (1937 - 1st Edition) by Napoleon Hill">
+        <a href="Think And Grow Rich! (1937 - 1st Edition) by Napoleon Hill.html" class="book-card" data-title="Think And Grow Rich! (1937 - 1st Edition) by Napoleon Hill" data-cat="wealth">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #10b98122; color: #10b981;">
+              💰 財富與投資
+            </span>
+            <span class="card-chip">📑 121 節</span>
+          </div>
           <div class="book-card-title">Think And Grow Rich! (1937 - 1st Edition) by Napoleon Hill</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 121 節</span>
             <span class="card-chip">時長：10:07:29</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Tuesdays with Morrie by Mitch Albom _ FULL AUDIOBOOK.html" class="book-card" data-title="Tuesdays with Morrie by Mitch Albom _ FULL AUDIOBOOK">
+        <a href="Tuesdays with Morrie by Mitch Albom _ FULL AUDIOBOOK.html" class="book-card" data-title="Tuesdays with Morrie by Mitch Albom _ FULL AUDIOBOOK" data-cat="classics">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #ec489922; color: #ec4899;">
+              📖 文學與經典
+            </span>
+            <span class="card-chip">📑 35 節</span>
+          </div>
           <div class="book-card-title">Tuesdays with Morrie by Mitch Albom _ FULL AUDIOBOOK</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 35 節</span>
             <span class="card-chip">時長：02:55:19</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="WATCH THIS EVERY DAY AND CHANGE YOUR LIFE! _ Denzel Washington Motivational Speech.html" class="book-card" data-title="WATCH THIS EVERY DAY AND CHANGE YOUR LIFE! _ Denzel Washington Motivational Speech">
+        <a href="WATCH THIS EVERY DAY AND CHANGE YOUR LIFE! _ Denzel Washington Motivational Speech.html" class="book-card" data-title="WATCH THIS EVERY DAY AND CHANGE YOUR LIFE! _ Denzel Washington Motivational Speech" data-cat="grit">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #f9731622; color: #f97316;">
+              🔥 意志與心態
+            </span>
+            <span class="card-chip">📑 9 節</span>
+          </div>
           <div class="book-card-title">WATCH THIS EVERY DAY AND CHANGE YOUR LIFE! _ Denzel Washington Motivational Speech</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 9 節</span>
             <span class="card-chip">時長：00:44:03</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Why Has Nobody Told Me This Before_ - Audio-book part 1.html" class="book-card" data-title="Why Has Nobody Told Me This Before_ - Audio-book part 1">
+        <a href="Why Has Nobody Told Me This Before_ - Audio-book part 1.html" class="book-card" data-title="Why Has Nobody Told Me This Before_ - Audio-book part 1" data-cat="philosophy">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #8b5cf622; color: #8b5cf6;">
+              🧠 哲學與思辨
+            </span>
+            <span class="card-chip">📑 13 節</span>
+          </div>
           <div class="book-card-title">Why Has Nobody Told Me This Before_ - Audio-book part 1</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 13 節</span>
             <span class="card-chip">時長：01:00:41</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Why Has Nobody Told Me This Before_ - Audio-book part 2.html" class="book-card" data-title="Why Has Nobody Told Me This Before_ - Audio-book part 2">
+        <a href="Why Has Nobody Told Me This Before_ - Audio-book part 2.html" class="book-card" data-title="Why Has Nobody Told Me This Before_ - Audio-book part 2" data-cat="philosophy">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #8b5cf622; color: #8b5cf6;">
+              🧠 哲學與思辨
+            </span>
+            <span class="card-chip">📑 33 節</span>
+          </div>
           <div class="book-card-title">Why Has Nobody Told Me This Before_ - Audio-book part 2</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 33 節</span>
             <span class="card-chip">時長：02:43:19</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Why Has Nobody Told Me This Before_ - Audio-book part 3.html" class="book-card" data-title="Why Has Nobody Told Me This Before_ - Audio-book part 3">
+        <a href="Why Has Nobody Told Me This Before_ - Audio-book part 3.html" class="book-card" data-title="Why Has Nobody Told Me This Before_ - Audio-book part 3" data-cat="philosophy">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #8b5cf622; color: #8b5cf6;">
+              🧠 哲學與思辨
+            </span>
+            <span class="card-chip">📑 21 節</span>
+          </div>
           <div class="book-card-title">Why Has Nobody Told Me This Before_ - Audio-book part 3</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 21 節</span>
             <span class="card-chip">時長：01:44:01</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Your Money Or Your Life AUDIOBOOK FULL by Vicki Robin and Joe Dominguez.html" class="book-card" data-title="Your Money Or Your Life AUDIOBOOK FULL by Vicki Robin and Joe Dominguez">
+        <a href="Your Money Or Your Life AUDIOBOOK FULL by Vicki Robin and Joe Dominguez.html" class="book-card" data-title="Your Money Or Your Life AUDIOBOOK FULL by Vicki Robin and Joe Dominguez" data-cat="wealth">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #10b98122; color: #10b981;">
+              💰 財富與投資
+            </span>
+            <span class="card-chip">📑 116 節</span>
+          </div>
           <div class="book-card-title">Your Money Or Your Life AUDIOBOOK FULL by Vicki Robin and Joe Dominguez</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 116 節</span>
             <span class="card-chip">時長：09:40:32</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="Zen Mind, Beginner_s Mind by Shunryu Suzuki (Full Audio book) [u59jJhsXnwI].html" class="book-card" data-title="Zen Mind, Beginner&#x27;s Mind by Shunryu Suzuki (Full Audio book) [u59jJhsXnwI]">
+        <a href="Zen Mind, Beginner_s Mind by Shunryu Suzuki (Full Audio book) [u59jJhsXnwI].html" class="book-card" data-title="Zen Mind, Beginner&#x27;s Mind by Shunryu Suzuki (Full Audio book) [u59jJhsXnwI]" data-cat="philosophy">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #8b5cf622; color: #8b5cf6;">
+              🧠 哲學與思辨
+            </span>
+            <span class="card-chip">📑 35 節</span>
+          </div>
           <div class="book-card-title">Zen Mind, Beginner&#x27;s Mind by Shunryu Suzuki (Full Audio book) [u59jJhsXnwI]</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 35 節</span>
             <span class="card-chip">時長：02:56:19</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="《十殿閻君》呂柳仙 自彈自唱 (有字幕).html" class="book-card" data-title="《十殿閻君》呂柳仙 自彈自唱 (有字幕)">
+        <a href="《十殿閻君》呂柳仙 自彈自唱 (有字幕).html" class="book-card" data-title="《十殿閻君》呂柳仙 自彈自唱 (有字幕)" data-cat="taiwan">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #eab30822; color: #eab308;">
+              🇹🇼 台灣念歌與本土
+            </span>
+            <span class="card-chip">📑 2 節</span>
+          </div>
           <div class="book-card-title">《十殿閻君》呂柳仙 自彈自唱 (有字幕)</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 2 節</span>
             <span class="card-chip">時長：00:11:36</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="懷古勸世歌 呂柳仙 自彈自唱 閩南語.html" class="book-card" data-title="懷古勸世歌 呂柳仙 自彈自唱 閩南語">
+        <a href="懷古勸世歌 呂柳仙 自彈自唱 閩南語.html" class="book-card" data-title="懷古勸世歌 呂柳仙 自彈自唱 閩南語" data-cat="taiwan">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #eab30822; color: #eab308;">
+              🇹🇼 台灣念歌與本土
+            </span>
+            <span class="card-chip">📑 2 節</span>
+          </div>
           <div class="book-card-title">懷古勸世歌 呂柳仙 自彈自唱 閩南語</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 2 節</span>
             <span class="card-chip">時長：00:13:00</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="有魂無體.html" class="book-card" data-title="有魂無體">
+        <a href="有魂無體.html" class="book-card" data-title="有魂無體" data-cat="taiwan">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #eab30822; color: #eab308;">
+              🇹🇼 台灣念歌與本土
+            </span>
+            <span class="card-chip">📑 1 節</span>
+          </div>
           <div class="book-card-title">有魂無體</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 1 節</span>
             <span class="card-chip">時長：00:03:09</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="🌟Part- 13 FULL AUDIOBOOK -  Same As Ever by Morgan Housel🌟.html" class="book-card" data-title="🌟Part- 13 FULL AUDIOBOOK -  Same As Ever by Morgan Housel🌟">
+        <a href="🌟Part- 13 FULL AUDIOBOOK -  Same As Ever by Morgan Housel🌟.html" class="book-card" data-title="🌟Part- 13 FULL AUDIOBOOK -  Same As Ever by Morgan Housel🌟" data-cat="wealth">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #10b98122; color: #10b981;">
+              💰 財富與投資
+            </span>
+            <span class="card-chip">📑 19 節</span>
+          </div>
           <div class="book-card-title">🌟Part- 13 FULL AUDIOBOOK -  Same As Ever by Morgan Housel🌟</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 19 節</span>
             <span class="card-chip">時長：01:34:57</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="🌟Part- 23 FULL AUDIOBOOK -  Same As Ever by Morgan Housel🌟.html" class="book-card" data-title="🌟Part- 23 FULL AUDIOBOOK -  Same As Ever by Morgan Housel🌟">
+        <a href="🌟Part- 23 FULL AUDIOBOOK -  Same As Ever by Morgan Housel🌟.html" class="book-card" data-title="🌟Part- 23 FULL AUDIOBOOK -  Same As Ever by Morgan Housel🌟" data-cat="wealth">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #10b98122; color: #10b981;">
+              💰 財富與投資
+            </span>
+            <span class="card-chip">📑 16 節</span>
+          </div>
           <div class="book-card-title">🌟Part- 23 FULL AUDIOBOOK -  Same As Ever by Morgan Housel🌟</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 16 節</span>
             <span class="card-chip">時長：01:17:26</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="🌟Part- 33 FULL AUDIOBOOK -  Same As Ever by Morgan Housel🌟.html" class="book-card" data-title="🌟Part- 33 FULL AUDIOBOOK -  Same As Ever by Morgan Housel🌟">
+        <a href="🌟Part- 33 FULL AUDIOBOOK -  Same As Ever by Morgan Housel🌟.html" class="book-card" data-title="🌟Part- 33 FULL AUDIOBOOK -  Same As Ever by Morgan Housel🌟" data-cat="wealth">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #10b98122; color: #10b981;">
+              💰 財富與投資
+            </span>
+            <span class="card-chip">📑 22 節</span>
+          </div>
           <div class="book-card-title">🌟Part- 33 FULL AUDIOBOOK -  Same As Ever by Morgan Housel🌟</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 22 節</span>
             <span class="card-chip">時長：01:47:25</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
 
-        <a href="📚 Your Next Five Moves_ Master the Art of Business Strategy by Patrick Bet-David - FULL AUDIOBOOK.html" class="book-card" data-title="📚 Your Next Five Moves_ Master the Art of Business Strategy by Patrick Bet-David - FULL AUDIOBOOK">
+        <a href="📚 Your Next Five Moves_ Master the Art of Business Strategy by Patrick Bet-David - FULL AUDIOBOOK.html" class="book-card" data-title="📚 Your Next Five Moves_ Master the Art of Business Strategy by Patrick Bet-David - FULL AUDIOBOOK" data-cat="leadership">
+          <div class="book-card-header">
+            <span class="card-cat-badge" style="background: #06b6d422; color: #06b6d4;">
+              🎯 領導與策略
+            </span>
+            <span class="card-chip">📑 109 節</span>
+          </div>
           <div class="book-card-title">📚 Your Next Five Moves_ Master the Art of Business Strategy by Patrick Bet-David - FULL AUDIOBOOK</div>
           <div class="book-card-meta">
-            <span class="card-chip">📑 109 節</span>
             <span class="card-chip">時長：09:07:27</span><span class="card-chip">模型：small.en</span>
           </div>
         </a>
         
-      <div class="no-results" id="no-results">無符合搜尋條件之書籍</div>
-    </div>
+        <div class="no-results" id="no-results">無符合搜尋條件之書籍</div>
+      </div>
+    </section>
+
+    <!-- TAB 2: CONNECTION GRAPH -->
+    <section class="tab-pane" id="pane-graph">
+      <div class="graph-container">
+        <div class="graph-toolbar">
+          <div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
+            <input type="text" id="graph-search" class="graph-search-input" placeholder="🔍 搜尋節點書名...">
+            <select id="graph-cat-filter" class="graph-btn">
+              <option value="all">🌐 顯示全部分類</option>
+              <option value="wealth">💰 財富與投資</option>
+<option value="habits">⚡ 習慣與生產力</option>
+<option value="grit">🔥 意志與心態</option>
+<option value="philosophy">🧠 哲學與思辨</option>
+<option value="leadership">🎯 領導與策略</option>
+<option value="classics">📖 文學與經典</option>
+<option value="taiwan">🇹🇼 台灣念歌與本土</option>
+            </select>
+          </div>
+          <div class="graph-controls">
+            <button class="graph-btn" id="graph-zoom-in" title="放大">➕</button>
+            <button class="graph-btn" id="graph-zoom-out" title="縮小">➖</button>
+            <button class="graph-btn" id="graph-reset" title="重設視圖">↺ 重設</button>
+          </div>
+        </div>
+
+        <canvas id="graph-canvas"></canvas>
+
+        <!-- Graph Node Detail Card -->
+        <div class="graph-info-card" id="graph-info-card">
+          <div style="display: flex; justify-content: space-between; align-items: center;">
+            <span class="graph-info-cat" id="gic-cat">分類</span>
+            <button class="graph-btn" id="gic-close" style="padding: 2px 8px;">✕</button>
+          </div>
+          <h3 class="graph-info-title" id="gic-title">書籍標題</h3>
+          <div style="font-size: 13px; color: var(--text-muted);" id="gic-meta">時長 / 小節數</div>
+          <div>
+            <div style="font-size: 12px; font-weight: 700; color: var(--text-secondary); margin-bottom: 6px;">關聯主題與書籍：</div>
+            <div class="graph-info-links" id="gic-links"></div>
+          </div>
+          <a href="#" class="graph-open-btn" id="gic-open">📖 開啟電子書 (Open eBook)</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- TAB 3: GLOBAL FULL-TEXT SEARCH -->
+    <section class="tab-pane" id="pane-search">
+      <div class="global-search-box">
+        <input type="text" id="global-search-input" class="global-search-input" placeholder="🔍 輸入關鍵字進行全書庫全文檢索（例：compound interest、習慣、意志力、巴菲特、投資）...">
+        <select id="global-cat-select" class="theme-toggle" style="font-size: 15px;">
+          <option value="all">全部分類 (83 本)</option>
+          <option value="wealth">💰 財富與投資</option>
+<option value="habits">⚡ 習慣與生產力</option>
+<option value="grit">🔥 意志與心態</option>
+<option value="philosophy">🧠 哲學與思辨</option>
+<option value="leadership">🎯 領導與策略</option>
+<option value="classics">📖 文學與經典</option>
+<option value="taiwan">🇹🇼 台灣念歌與本土</option>
+        </select>
+      </div>
+
+      <div class="search-status-bar" id="search-status-bar">
+        <span id="search-status-msg">請輸入關鍵字開始檢索</span>
+        <span id="search-status-count"></span>
+      </div>
+
+      <div class="global-results-list" id="global-results-list"></div>
+    </section>
   </div>
 
   <script>
+    // Embedded Graph Data
+    const GRAPH_DATA = {"nodes": [{"id": "hub_wealth", "title": "💰 財富與投資", "shortTitle": "財富與投資", "cat": "wealth", "catName": "財富與投資", "color": "#10b981", "isHub": true, "file": "#"}, {"id": "hub_habits", "title": "⚡ 習慣與生產力", "shortTitle": "習慣與生產力", "cat": "habits", "catName": "習慣與生產力", "color": "#3b82f6", "isHub": true, "file": "#"}, {"id": "hub_grit", "title": "🔥 意志與心態", "shortTitle": "意志與心態", "cat": "grit", "catName": "意志與心態", "color": "#f97316", "isHub": true, "file": "#"}, {"id": "hub_philosophy", "title": "🧠 哲學與思辨", "shortTitle": "哲學與思辨", "cat": "philosophy", "catName": "哲學與思辨", "color": "#8b5cf6", "isHub": true, "file": "#"}, {"id": "hub_leadership", "title": "🎯 領導與策略", "shortTitle": "領導與策略", "cat": "leadership", "catName": "領導與策略", "color": "#06b6d4", "isHub": true, "file": "#"}, {"id": "hub_classics", "title": "📖 文學與經典", "shortTitle": "文學與經典", "cat": "classics", "catName": "文學與經典", "color": "#ec4899", "isHub": true, "file": "#"}, {"id": "hub_taiwan", "title": "🇹🇼 台灣念歌與本土", "shortTitle": "台灣念歌與本土", "cat": "taiwan", "catName": "台灣念歌與本土", "color": "#eab308", "isHub": true, "file": "#"}, {"id": "book_0", "title": "12 Rules for Life Full Audiobook _ Jordan B. Peterson", "shortTitle": "12 Rules for Lif...", "cat": "philosophy", "catName": "哲學與思辨", "color": "#8b5cf6", "isHub": false, "file": "12 Rules for Life Full Audiobook _ Jordan B. Peterson.html", "sections": 133}, {"id": "book_1", "title": "21 Lesson For The 21st Century By Yuval Noah Harari _ Full Audiobook", "shortTitle": "21 Lesson For Th...", "cat": "leadership", "catName": "領導與策略", "color": "#06b6d4", "isHub": false, "file": "21 Lesson For The 21st Century By Yuval Noah Harari _ Full Audiobook.html", "sections": 118}, {"id": "book_2", "title": "3 Hours for the NEXT 30 Years of Your LIFE _ Best Motivational Speeches", "shortTitle": "3 Hours for the ...", "cat": "grit", "catName": "意志與心態", "color": "#f97316", "isHub": false, "file": "3 Hours for the NEXT 30 Years of Your LIFE _ Best Motivational Speeches.html", "sections": 42}, {"id": "book_3", "title": "'Don't Believe Everything You Think' Full-Length Audiobook (From The Author)", "shortTitle": "'Don't Believe E...", "cat": "philosophy", "catName": "哲學與思辨", "color": "#8b5cf6", "isHub": false, "file": "_Don_t Believe Everything You Think_ Full-Length Audiobook (From The Author).html", "sections": 28}, {"id": "book_4", "title": "Antifragile Audiobook (Part 1) by Nassim Nicholas Taleb", "shortTitle": "Antifragile Audi...", "cat": "philosophy", "catName": "哲學與思辨", "color": "#8b5cf6", "isHub": false, "file": "Antifragile Audiobook (Part 1) by Nassim Nicholas Taleb.html", "sections": 12}, {"id": "book_5", "title": "Antifragile Audiobook (Part 2) by Nassim Nicholas Taleb", "shortTitle": "Antifragile Audi...", "cat": "philosophy", "catName": "哲學與思辨", "color": "#8b5cf6", "isHub": false, "file": "Antifragile Audiobook (Part 2) by Nassim Nicholas Taleb.html", "sections": 12}, {"id": "book_6", "title": "Antifragile Audiobook (Part 3) by Nassim Nicholas Taleb", "shortTitle": "Antifragile Audi...", "cat": "philosophy", "catName": "哲學與思辨", "color": "#8b5cf6", "isHub": false, "file": "Antifragile Audiobook (Part 3) by Nassim Nicholas Taleb.html", "sections": 10}, {"id": "book_7", "title": "Atomic Habits full audiobook by James Clear", "shortTitle": "Atomic Habits fu...", "cat": "habits", "catName": "習慣與生產力", "color": "#3b82f6", "isHub": false, "file": "Atomic Habits full audiobook by James Clear.html", "sections": 68}, {"id": "book_8", "title": "Audiobook _ Freedom From The Known by Jiddu Krishnamurti", "shortTitle": "Audiobook _ Free...", "cat": "philosophy", "catName": "哲學與思辨", "color": "#8b5cf6", "isHub": false, "file": "Audiobook _ Freedom From The Known by Jiddu Krishnamurti.html", "sections": 50}, {"id": "book_9", "title": "Audiobook_ Deep work by Cal Newport", "shortTitle": "Audiobook_ Deep ...", "cat": "habits", "catName": "習慣與生產力", "color": "#3b82f6", "isHub": false, "file": "Audiobook_ Deep work by Cal Newport.html", "sections": 92}, {"id": "book_10", "title": "Building a Second Brain by Tiago Forte  Audiobook", "shortTitle": "Building a Secon...", "cat": "habits", "catName": "習慣與生產力", "color": "#3b82f6", "isHub": false, "file": "Building a Second Brain by Tiago Forte  Audiobook.html", "sections": 66}, {"id": "book_11", "title": "Carmine Gallo Talk Like TED Audiobook", "shortTitle": "Carmine Gallo Ta...", "cat": "leadership", "catName": "領導與策略", "color": "#06b6d4", "isHub": false, "file": "Carmine Gallo Talk Like TED Audiobook.html", "sections": 92}, {"id": "book_12", "title": "Daniel Kahneman_ Thinking, Fast & Slow (Audiobook Full)", "shortTitle": "Daniel Kahneman_...", "cat": "philosophy", "catName": "哲學與思辨", "color": "#8b5cf6", "isHub": false, "file": "Daniel Kahneman_ Thinking, Fast & Slow (Audiobook Full).html", "sections": 119}, {"id": "book_13", "title": "David Goggins Can't Hurt Me Audio Book Advanced Analysis ( Top ) ｜ You won't be Same Again !", "shortTitle": "David Goggins Ca...", "cat": "grit", "catName": "意志與心態", "color": "#f97316", "isHub": false, "file": "David Goggins Can_t Hurt Me Audio Book Advanced Analysis ( Top ) ｜ You won_t be Same Again !.html", "sections": 77}, {"id": "book_14", "title": "Die With Zero - Full Audiobook Sharing", "shortTitle": "Die With Zero - ...", "cat": "wealth", "catName": "財富與投資", "color": "#10b981", "isHub": false, "file": "Die With Zero - Full Audiobook Sharing.html", "sections": 62}, {"id": "book_15", "title": "Discipline Equals Freedom Audiobook by Jocko Willink", "shortTitle": "Discipline Equal...", "cat": "grit", "catName": "意志與心態", "color": "#f97316", "isHub": false, "file": "Discipline Equals Freedom Audiobook by Jocko Willink.html", "sections": 29}, {"id": "book_16", "title": "Do It Today - by Darius Foroux (Full AudioBook) _ Change your life Today!", "shortTitle": "Do It Today - by...", "cat": "habits", "catName": "習慣與生產力", "color": "#3b82f6", "isHub": false, "file": "Do It Today - by Darius Foroux (Full AudioBook) _ Change your life Today!.html", "sections": 38}, {"id": "book_17", "title": "Eat That Frog! by Brian Tracy   Full Audiobook", "shortTitle": "Eat That Frog! b...", "cat": "habits", "catName": "習慣與生產力", "color": "#3b82f6", "isHub": false, "file": "Eat That Frog! by Brian Tracy   Full Audiobook.html", "sections": 32}, {"id": "book_18", "title": "Educate Yourself Every Day & Stay Ahead of 99% People _ Audiobook", "shortTitle": "Educate Yourself...", "cat": "leadership", "catName": "領導與策略", "color": "#06b6d4", "isHub": false, "file": "Educate Yourself Every Day & Stay Ahead of 99_ People _ Audiobook.html", "sections": 17}, {"id": "book_19", "title": "Effortless_ Audiobook Make It Easier to Do What Matters Most by Greg McKeown", "shortTitle": "Effortless_ Audi...", "cat": "habits", "catName": "習慣與生產力", "color": "#3b82f6", "isHub": false, "file": "Effortless_ Audiobook Make It Easier to Do What Matters Most by Greg McKeown.html", "sections": 79}, {"id": "book_20", "title": "Essentialism by Greg McKeown (Audiobook) w Read-through", "shortTitle": "Essentialism by ...", "cat": "habits", "catName": "習慣與生產力", "color": "#3b82f6", "isHub": false, "file": "Essentialism by Greg McKeown (Audiobook) w Read-through.html", "sections": 58}, {"id": "book_21", "title": "Four Thousand Weeks by Oliver Burkeman _ Free Summary Audiobook", "shortTitle": "Four Thousand We...", "cat": "philosophy", "catName": "哲學與思辨", "color": "#8b5cf6", "isHub": false, "file": "Four Thousand Weeks by Oliver Burkeman _ Free Summary Audiobook.html", "sections": 5}, {"id": "book_22", "title": "Full Audiobook Think Again by Adam Grant Audiobook in English _ Think Again  Audiobook for Power", "shortTitle": "Full Audiobook T...", "cat": "philosophy", "catName": "哲學與思辨", "color": "#8b5cf6", "isHub": false, "file": "Full Audiobook Think Again by Adam Grant Audiobook in English _ Think Again  Audiobook for Power.html", "sections": 101}, {"id": "book_23", "title": "Full Book Motivational Chapter Summaries of Awaken the Giant Within by Anthony Robbins", "shortTitle": "Full Book Motiva...", "cat": "grit", "catName": "意志與心態", "color": "#f97316", "isHub": false, "file": "Full Book Motivational Chapter Summaries of Awaken the Giant Within by Anthony Robbins.html", "sections": 51}, {"id": "book_24", "title": "Full Length Audiobook➛ Don't Believe Everything You Think By Joseph Nguyen With Background Music", "shortTitle": "Full Length Audi...", "cat": "philosophy", "catName": "哲學與思辨", "color": "#8b5cf6", "isHub": false, "file": "Full Length Audiobook➛ Don_t Believe Everything You Think By Joseph Nguyen With Background Music.html", "sections": 28}, {"id": "book_25", "title": "G6.有魂無體 唱", "shortTitle": "G6.有魂無體 唱", "cat": "taiwan", "catName": "台灣念歌與本土", "color": "#eab308", "isHub": false, "file": "G6.有魂無體 唱.html", "sections": 0}, {"id": "book_26", "title": "Good Vibes, Good Life by Vex King_  Audiobook with subtitle Plus the Best Mozart music.", "shortTitle": "Good Vibes, Good...", "cat": "philosophy", "catName": "哲學與思辨", "color": "#8b5cf6", "isHub": false, "file": "Good Vibes, Good Life by Vex King_  Audiobook with subtitle Plus the Best Mozart music..html", "sections": 52}, {"id": "book_27", "title": "Hans Rosling Anna Rosling Ronnlund And Ola Rosling Factfulness Audiobook   YouTube 360p", "shortTitle": "Hans Rosling Ann...", "cat": "leadership", "catName": "領導與策略", "color": "#06b6d4", "isHub": false, "file": "Hans Rosling Anna Rosling Ronnlund And Ola Rosling Factfulness Audiobook   YouTube 360p.html", "sections": 106}, {"id": "book_28", "title": "Haruki Murakami - What I Talk About When I Talk About Running (Audiobook)", "shortTitle": "Haruki Murakami ...", "cat": "classics", "catName": "文學與經典", "color": "#ec4899", "isHub": false, "file": "Haruki Murakami - What I Talk About When I Talk About Running (Audiobook).html", "sections": 42}, {"id": "book_29", "title": "How to Talk to Anyone 92 Little Tricks for Big Success in Relationships Audiobook  (1)", "shortTitle": "How to Talk to A...", "cat": "leadership", "catName": "領導與策略", "color": "#06b6d4", "isHub": false, "file": "How to Talk to Anyone 92 Little Tricks for Big Success in Relationships Audiobook  (1).html", "sections": 104}, {"id": "book_30", "title": "How to Talk to Anyone 92 Little Tricks for Big Success in Relationships Audiobook", "shortTitle": "How to Talk to A...", "cat": "leadership", "catName": "領導與策略", "color": "#06b6d4", "isHub": false, "file": "How to Talk to Anyone 92 Little Tricks for Big Success in Relationships Audiobook.html", "sections": 104}, {"id": "book_31", "title": "HOW TO WIN FRIENDS AND INFLUENCE PEOPLE (AUDIOBOOK)", "shortTitle": "HOW TO WIN FRIEN...", "cat": "leadership", "catName": "領導與策略", "color": "#06b6d4", "isHub": false, "file": "HOW TO WIN FRIENDS AND INFLUENCE PEOPLE (AUDIOBOOK).html", "sections": 89}, {"id": "book_32", "title": "How Will You Measure Your Life_ Clay Christensen at TEDxBoston", "shortTitle": "How Will You Mea...", "cat": "leadership", "catName": "領導與策略", "color": "#06b6d4", "isHub": false, "file": "How Will You Measure Your Life_ Clay Christensen at TEDxBoston.html", "sections": 4}, {"id": "book_33", "title": "Let The Man be Born. - 1 Hour David Goggins Motivation", "shortTitle": "Let The Man be B...", "cat": "grit", "catName": "意志與心態", "color": "#f97316", "isHub": false, "file": "Let The Man be Born. - 1 Hour David Goggins Motivation.html", "sections": 12}, {"id": "book_34", "title": "MAKE YOUR BED AUDIOBOOK FULL BOOK _ BY  William H. McRaven", "shortTitle": "MAKE YOUR BED AU...", "cat": "grit", "catName": "意志與心態", "color": "#f97316", "isHub": false, "file": "MAKE YOUR BED AUDIOBOOK FULL BOOK _ BY  William H. McRaven.html", "sections": 16}, {"id": "book_35", "title": "Master Your Emotions by Thibaut Meurisse _ Full Audiobook", "shortTitle": "Master Your Emot...", "cat": "philosophy", "catName": "哲學與思辨", "color": "#8b5cf6", "isHub": false, "file": "Master Your Emotions by Thibaut Meurisse _ Full Audiobook.html", "sections": 49}, {"id": "book_36", "title": "Master Your Time, Master Your Life by Brian Tracy   Full Audiobook", "shortTitle": "Master Your Time...", "cat": "habits", "catName": "習慣與生產力", "color": "#3b82f6", "isHub": false, "file": "Master Your Time, Master Your Life by Brian Tracy   Full Audiobook.html", "sections": 49}, {"id": "book_37", "title": "Meditations by Marcus Aurelius _ Audiobook with Text", "shortTitle": "Meditations by M...", "cat": "philosophy", "catName": "哲學與思辨", "color": "#8b5cf6", "isHub": false, "file": "Meditations by Marcus Aurelius _ Audiobook with Text.html", "sections": 84}, {"id": "book_38", "title": "Mindset by Dr. Carol S. dweck full Audio book in English #audiobook #books", "shortTitle": "Mindset by Dr. C...", "cat": "grit", "catName": "意志與心態", "color": "#f97316", "isHub": false, "file": "Mindset by Dr. Carol S. dweck full Audio book in English #audiobook #books.html", "sections": 102}, {"id": "book_39", "title": "Nassim Taleb - 11 Rules For Life (How To Live a Resilient Life)", "shortTitle": "Nassim Taleb - 1...", "cat": "philosophy", "catName": "哲學與思辨", "color": "#8b5cf6", "isHub": false, "file": "Nassim Taleb - 11 Rules For Life (How To Live a Resilient Life).html", "sections": 2}, {"id": "book_40", "title": "Nassim Taleb - 4 Rules To Become Antifragile (For A Better Life)", "shortTitle": "Nassim Taleb - 4...", "cat": "philosophy", "catName": "哲學與思辨", "color": "#8b5cf6", "isHub": false, "file": "Nassim Taleb - 4 Rules To Become Antifragile (For A Better Life).html", "sections": 3}, {"id": "book_41", "title": "Nineteen Eighty-Four by George Orwell _ 1984 _ Full Audiobook", "shortTitle": "Nineteen Eighty-...", "cat": "classics", "catName": "文學與經典", "color": "#ec4899", "isHub": false, "file": "Nineteen Eighty-Four by George Orwell _ 1984 _ Full Audiobook.html", "sections": 130}, {"id": "book_42", "title": "Nobody Cares, Work Harder.", "shortTitle": "Nobody Cares, Wo...", "cat": "grit", "catName": "意志與心態", "color": "#f97316", "isHub": false, "file": "Nobody Cares, Work Harder..html", "sections": 17}, {"id": "book_43", "title": "Notes From The Underground by Fyodor Dostoyevsky - FULL AudioBook _ Greatest🌟AudioBooks", "shortTitle": "Notes From The U...", "cat": "classics", "catName": "文學與經典", "color": "#ec4899", "isHub": false, "file": "Notes From The Underground by Fyodor Dostoyevsky - FULL AudioBook _ Greatest🌟AudioBooks.html", "sections": 61}, {"id": "book_44", "title": "One Small Step Can Change Your Life", "shortTitle": "One Small Step C...", "cat": "habits", "catName": "習慣與生產力", "color": "#3b82f6", "isHub": false, "file": "One Small Step Can Change Your Life.html", "sections": 38}, {"id": "book_45", "title": "Poor Charlie’s Almanack_ The Essential Wit and Wisdom of Charles T. Munger (FULL AUDIOBOOK  PT 1)", "shortTitle": "Poor Charlie’s A...", "cat": "wealth", "catName": "財富與投資", "color": "#10b981", "isHub": false, "file": "Poor Charlie’s Almanack_ The Essential Wit and Wisdom of Charles T. Munger (FULL AUDIOBOOK  PT 1).html", "sections": 143}, {"id": "book_46", "title": "Poor Charlie’s Almanack_ The Essential Wit and Wisdom of Charles T. Munger (FULL AUDIOBOOK  PT 2)  (1)", "shortTitle": "Poor Charlie’s A...", "cat": "wealth", "catName": "財富與投資", "color": "#10b981", "isHub": false, "file": "Poor Charlie’s Almanack_ The Essential Wit and Wisdom of Charles T. Munger (FULL AUDIOBOOK  PT 2)  (1).html", "sections": 24}, {"id": "book_47", "title": "Poor Charlie’s Almanack_ The Essential Wit and Wisdom of Charles T. Munger (FULL AUDIOBOOK  PT 2)", "shortTitle": "Poor Charlie’s A...", "cat": "wealth", "catName": "財富與投資", "color": "#10b981", "isHub": false, "file": "Poor Charlie’s Almanack_ The Essential Wit and Wisdom of Charles T. Munger (FULL AUDIOBOOK  PT 2).html", "sections": 24}, {"id": "book_48", "title": "Start with WHY by Simon Sinek _ Full Audiobook _", "shortTitle": "Start with WHY b...", "cat": "leadership", "catName": "領導與策略", "color": "#06b6d4", "isHub": false, "file": "Start with WHY by Simon Sinek _ Full Audiobook _.html", "sections": 88}, {"id": "book_49", "title": "THE 7 HABITS OF HIGHLY EFFECTIVE PEOPLE __ BY STEPHEN R. COVEY __ FREE AUDIOBOOK 🎧 #7habits", "shortTitle": "THE 7 HABITS OF ...", "cat": "leadership", "catName": "領導與策略", "color": "#06b6d4", "isHub": false, "file": "THE 7 HABITS OF HIGHLY EFFECTIVE PEOPLE __ BY STEPHEN R. COVEY __ FREE AUDIOBOOK 🎧 #7habits.html", "sections": 123}, {"id": "book_50", "title": "The Almanack of Naval Ravikant A Guide to Wealth and Happiness", "shortTitle": "The Almanack of ...", "cat": "wealth", "catName": "財富與投資", "color": "#10b981", "isHub": false, "file": "The Almanack of Naval Ravikant A Guide to Wealth and Happiness.html", "sections": 59}, {"id": "book_51", "title": "The Art Of Laziness_ Overcome Procrastination by Library Mindset _ Full Audiobook 🎧", "shortTitle": "The Art Of Lazin...", "cat": "habits", "catName": "習慣與生產力", "color": "#3b82f6", "isHub": false, "file": "The Art Of Laziness_ Overcome Procrastination by Library Mindset _ Full Audiobook 🎧.html", "sections": 15}, {"id": "book_52", "title": "The Art of Public Speaking FULL Audiobook by Dale Carnegie AudioBooks Library", "shortTitle": "The Art of Publi...", "cat": "leadership", "catName": "領導與策略", "color": "#06b6d4", "isHub": false, "file": "The Art of Public Speaking FULL Audiobook by Dale Carnegie AudioBooks Library.html", "sections": 138}, {"id": "book_53", "title": "The Art of the Deal by Donald Trump _ Narrated by Himself  Full Audiobook", "shortTitle": "The Art of the D...", "cat": "leadership", "catName": "領導與策略", "color": "#06b6d4", "isHub": false, "file": "The Art of the Deal by Donald Trump _ Narrated by Himself  Full Audiobook.html", "sections": 113}, {"id": "book_54", "title": "The Art of Thinking Clearly - Rolf Dobelli FULL Audiobook", "shortTitle": "The Art of Think...", "cat": "philosophy", "catName": "哲學與思辨", "color": "#8b5cf6", "isHub": false, "file": "The Art of Thinking Clearly - Rolf Dobelli FULL Audiobook.html", "sections": 94}, {"id": "book_55", "title": "The Art of War by Sun Tzu_ Entire Unabridged Audiobook", "shortTitle": "The Art of War b...", "cat": "leadership", "catName": "領導與策略", "color": "#06b6d4", "isHub": false, "file": "The Art of War by Sun Tzu_ Entire Unabridged Audiobook.html", "sections": 15}, {"id": "book_56", "title": "The Courage to be Disliked by Ichiro Kishimi and Fumitake Toga📔 (Full Audiobook)", "shortTitle": "The Courage to b...", "cat": "philosophy", "catName": "哲學與思辨", "color": "#8b5cf6", "isHub": false, "file": "The Courage to be Disliked by Ichiro Kishimi and Fumitake Toga📔 (Full Audiobook).html", "sections": 82}, {"id": "book_57", "title": "The Infinite Game By Simon Sink challenges us to think bigger FULL AUDIOBOOK IN ENGLISH", "shortTitle": "The Infinite Gam...", "cat": "leadership", "catName": "領導與策略", "color": "#06b6d4", "isHub": false, "file": "The Infinite Game By Simon Sink challenges us to think bigger FULL AUDIOBOOK IN ENGLISH.html", "sections": 77}, {"id": "book_58", "title": "The Insane Race That Will Leave You Speechless_ Uncovering Ultrarunner's Shocking Experience", "shortTitle": "The Insane Race ...", "cat": "grit", "catName": "意志與心態", "color": "#f97316", "isHub": false, "file": "The Insane Race That Will Leave You Speechless_ Uncovering Ultrarunner_s Shocking Experience.html", "sections": 1}, {"id": "book_59", "title": "The Let Them Theory _ Mel Robbins _ A Life-Changing Tool Millions of People Can’t Stop Talking About", "shortTitle": "The Let Them The...", "cat": "philosophy", "catName": "哲學與思辨", "color": "#8b5cf6", "isHub": false, "file": "The Let Them Theory _ Mel Robbins _ A Life-Changing Tool Millions of People Can’t Stop Talking About.html", "sections": 87}, {"id": "book_60", "title": "The Most Important Thing_Uncommon Sense for the Thoughtful Investor by Howard Marks _ Full Audiobook", "shortTitle": "The Most Importa...", "cat": "wealth", "catName": "財富與投資", "color": "#10b981", "isHub": false, "file": "The Most Important Thing_Uncommon Sense for the Thoughtful Investor by Howard Marks _ Full Audiobook.html", "sections": 79}, {"id": "book_61", "title": "The Power of Consistency  The Compound Effect by Darren Hardy   Full Audiobook", "shortTitle": "The Power of Con...", "cat": "habits", "catName": "習慣與生產力", "color": "#3b82f6", "isHub": false, "file": "The Power of Consistency  The Compound Effect by Darren Hardy   Full Audiobook.html", "sections": 50}, {"id": "book_62", "title": "The Power of Now Audiobook Full - Eckhart Tolle", "shortTitle": "The Power of Now...", "cat": "philosophy", "catName": "哲學與思辨", "color": "#8b5cf6", "isHub": false, "file": "The Power of Now Audiobook Full - Eckhart Tolle.html", "sections": 73}, {"id": "book_63", "title": "The Power of Writing it Down Audiobook", "shortTitle": "The Power of Wri...", "cat": "habits", "catName": "習慣與生產力", "color": "#3b82f6", "isHub": false, "file": "The Power of Writing it Down Audiobook.html", "sections": 72}, {"id": "book_64", "title": "The Psychology of Money by Morgan Housel - Audiobook (mp3cut.net) 下", "shortTitle": "The Psychology o...", "cat": "wealth", "catName": "財富與投資", "color": "#10b981", "isHub": false, "file": "The Psychology of Money by Morgan Housel - Audiobook (mp3cut.net) 下.html", "sections": 36}, {"id": "book_65", "title": "The Psychology of Money by Morgan Housel - Audiobook (mp3cut.net)上", "shortTitle": "The Psychology o...", "cat": "wealth", "catName": "財富與投資", "color": "#10b981", "isHub": false, "file": "The Psychology of Money by Morgan Housel - Audiobook (mp3cut.net)上.html", "sections": 45}, {"id": "book_66", "title": "The Psychology of Money by Morgan Housel - Audiobook", "shortTitle": "The Psychology o...", "cat": "wealth", "catName": "財富與投資", "color": "#10b981", "isHub": false, "file": "The Psychology of Money by Morgan Housel - Audiobook.html", "sections": 81}, {"id": "book_67", "title": "The Warren Buffett Portfolio_ Mastering the Power of the Focus Investment Strategy _ full audiobook", "shortTitle": "The Warren Buffe...", "cat": "wealth", "catName": "財富與投資", "color": "#10b981", "isHub": false, "file": "The Warren Buffett Portfolio_ Mastering the Power of the Focus Investment Strategy _ full audiobook.html", "sections": 69}, {"id": "book_68", "title": "Think And Grow Rich! (1937 - 1st Edition) by Napoleon Hill", "shortTitle": "Think And Grow R...", "cat": "wealth", "catName": "財富與投資", "color": "#10b981", "isHub": false, "file": "Think And Grow Rich! (1937 - 1st Edition) by Napoleon Hill.html", "sections": 121}, {"id": "book_69", "title": "Tuesdays with Morrie by Mitch Albom _ FULL AUDIOBOOK", "shortTitle": "Tuesdays with Mo...", "cat": "classics", "catName": "文學與經典", "color": "#ec4899", "isHub": false, "file": "Tuesdays with Morrie by Mitch Albom _ FULL AUDIOBOOK.html", "sections": 35}, {"id": "book_70", "title": "WATCH THIS EVERY DAY AND CHANGE YOUR LIFE! _ Denzel Washington Motivational Speech", "shortTitle": "WATCH THIS EVERY...", "cat": "grit", "catName": "意志與心態", "color": "#f97316", "isHub": false, "file": "WATCH THIS EVERY DAY AND CHANGE YOUR LIFE! _ Denzel Washington Motivational Speech.html", "sections": 9}, {"id": "book_71", "title": "Why Has Nobody Told Me This Before_ - Audio-book part 1", "shortTitle": "Why Has Nobody T...", "cat": "philosophy", "catName": "哲學與思辨", "color": "#8b5cf6", "isHub": false, "file": "Why Has Nobody Told Me This Before_ - Audio-book part 1.html", "sections": 13}, {"id": "book_72", "title": "Why Has Nobody Told Me This Before_ - Audio-book part 2", "shortTitle": "Why Has Nobody T...", "cat": "philosophy", "catName": "哲學與思辨", "color": "#8b5cf6", "isHub": false, "file": "Why Has Nobody Told Me This Before_ - Audio-book part 2.html", "sections": 33}, {"id": "book_73", "title": "Why Has Nobody Told Me This Before_ - Audio-book part 3", "shortTitle": "Why Has Nobody T...", "cat": "philosophy", "catName": "哲學與思辨", "color": "#8b5cf6", "isHub": false, "file": "Why Has Nobody Told Me This Before_ - Audio-book part 3.html", "sections": 21}, {"id": "book_74", "title": "Your Money Or Your Life AUDIOBOOK FULL by Vicki Robin and Joe Dominguez", "shortTitle": "Your Money Or Yo...", "cat": "wealth", "catName": "財富與投資", "color": "#10b981", "isHub": false, "file": "Your Money Or Your Life AUDIOBOOK FULL by Vicki Robin and Joe Dominguez.html", "sections": 116}, {"id": "book_75", "title": "Zen Mind, Beginner's Mind by Shunryu Suzuki (Full Audio book) [u59jJhsXnwI]", "shortTitle": "Zen Mind, Beginn...", "cat": "philosophy", "catName": "哲學與思辨", "color": "#8b5cf6", "isHub": false, "file": "Zen Mind, Beginner_s Mind by Shunryu Suzuki (Full Audio book) [u59jJhsXnwI].html", "sections": 35}, {"id": "book_76", "title": "《十殿閻君》呂柳仙 自彈自唱 (有字幕)", "shortTitle": "《十殿閻君》呂柳仙 自彈自唱 (...", "cat": "taiwan", "catName": "台灣念歌與本土", "color": "#eab308", "isHub": false, "file": "《十殿閻君》呂柳仙 自彈自唱 (有字幕).html", "sections": 2}, {"id": "book_77", "title": "懷古勸世歌 呂柳仙 自彈自唱 閩南語", "shortTitle": "懷古勸世歌 呂柳仙 自彈自唱 閩...", "cat": "taiwan", "catName": "台灣念歌與本土", "color": "#eab308", "isHub": false, "file": "懷古勸世歌 呂柳仙 自彈自唱 閩南語.html", "sections": 2}, {"id": "book_78", "title": "有魂無體", "shortTitle": "有魂無體", "cat": "taiwan", "catName": "台灣念歌與本土", "color": "#eab308", "isHub": false, "file": "有魂無體.html", "sections": 1}, {"id": "book_79", "title": "🌟Part- 13 FULL AUDIOBOOK -  Same As Ever by Morgan Housel🌟", "shortTitle": "🌟Part- 13 FULL A...", "cat": "wealth", "catName": "財富與投資", "color": "#10b981", "isHub": false, "file": "🌟Part- 13 FULL AUDIOBOOK -  Same As Ever by Morgan Housel🌟.html", "sections": 19}, {"id": "book_80", "title": "🌟Part- 23 FULL AUDIOBOOK -  Same As Ever by Morgan Housel🌟", "shortTitle": "🌟Part- 23 FULL A...", "cat": "wealth", "catName": "財富與投資", "color": "#10b981", "isHub": false, "file": "🌟Part- 23 FULL AUDIOBOOK -  Same As Ever by Morgan Housel🌟.html", "sections": 16}, {"id": "book_81", "title": "🌟Part- 33 FULL AUDIOBOOK -  Same As Ever by Morgan Housel🌟", "shortTitle": "🌟Part- 33 FULL A...", "cat": "wealth", "catName": "財富與投資", "color": "#10b981", "isHub": false, "file": "🌟Part- 33 FULL AUDIOBOOK -  Same As Ever by Morgan Housel🌟.html", "sections": 22}, {"id": "book_82", "title": "📚 Your Next Five Moves_ Master the Art of Business Strategy by Patrick Bet-David - FULL AUDIOBOOK", "shortTitle": "📚 Your Next Five...", "cat": "leadership", "catName": "領導與策略", "color": "#06b6d4", "isHub": false, "file": "📚 Your Next Five Moves_ Master the Art of Business Strategy by Patrick Bet-David - FULL AUDIOBOOK.html", "sections": 109}], "edges": [{"source": "hub_philosophy", "target": "book_0", "isThematic": false}, {"source": "hub_leadership", "target": "book_1", "isThematic": false}, {"source": "hub_grit", "target": "book_2", "isThematic": false}, {"source": "hub_philosophy", "target": "book_3", "isThematic": false}, {"source": "hub_philosophy", "target": "book_4", "isThematic": false}, {"source": "hub_philosophy", "target": "book_5", "isThematic": false}, {"source": "hub_philosophy", "target": "book_6", "isThematic": false}, {"source": "hub_habits", "target": "book_7", "isThematic": false}, {"source": "hub_philosophy", "target": "book_8", "isThematic": false}, {"source": "hub_habits", "target": "book_9", "isThematic": false}, {"source": "hub_habits", "target": "book_10", "isThematic": false}, {"source": "hub_leadership", "target": "book_11", "isThematic": false}, {"source": "hub_philosophy", "target": "book_12", "isThematic": false}, {"source": "hub_grit", "target": "book_13", "isThematic": false}, {"source": "hub_wealth", "target": "book_14", "isThematic": false}, {"source": "hub_grit", "target": "book_15", "isThematic": false}, {"source": "hub_habits", "target": "book_16", "isThematic": false}, {"source": "hub_habits", "target": "book_17", "isThematic": false}, {"source": "hub_leadership", "target": "book_18", "isThematic": false}, {"source": "hub_habits", "target": "book_19", "isThematic": false}, {"source": "hub_habits", "target": "book_20", "isThematic": false}, {"source": "hub_philosophy", "target": "book_21", "isThematic": false}, {"source": "hub_philosophy", "target": "book_22", "isThematic": false}, {"source": "hub_grit", "target": "book_23", "isThematic": false}, {"source": "hub_philosophy", "target": "book_24", "isThematic": false}, {"source": "hub_taiwan", "target": "book_25", "isThematic": false}, {"source": "hub_philosophy", "target": "book_26", "isThematic": false}, {"source": "hub_leadership", "target": "book_27", "isThematic": false}, {"source": "hub_classics", "target": "book_28", "isThematic": false}, {"source": "hub_leadership", "target": "book_29", "isThematic": false}, {"source": "hub_leadership", "target": "book_30", "isThematic": false}, {"source": "hub_leadership", "target": "book_31", "isThematic": false}, {"source": "hub_leadership", "target": "book_32", "isThematic": false}, {"source": "hub_grit", "target": "book_33", "isThematic": false}, {"source": "hub_grit", "target": "book_34", "isThematic": false}, {"source": "hub_philosophy", "target": "book_35", "isThematic": false}, {"source": "hub_habits", "target": "book_36", "isThematic": false}, {"source": "hub_philosophy", "target": "book_37", "isThematic": false}, {"source": "hub_grit", "target": "book_38", "isThematic": false}, {"source": "hub_philosophy", "target": "book_39", "isThematic": false}, {"source": "hub_philosophy", "target": "book_40", "isThematic": false}, {"source": "hub_classics", "target": "book_41", "isThematic": false}, {"source": "hub_grit", "target": "book_42", "isThematic": false}, {"source": "hub_classics", "target": "book_43", "isThematic": false}, {"source": "hub_habits", "target": "book_44", "isThematic": false}, {"source": "hub_wealth", "target": "book_45", "isThematic": false}, {"source": "hub_wealth", "target": "book_46", "isThematic": false}, {"source": "hub_wealth", "target": "book_47", "isThematic": false}, {"source": "hub_leadership", "target": "book_48", "isThematic": false}, {"source": "hub_leadership", "target": "book_49", "isThematic": false}, {"source": "hub_wealth", "target": "book_50", "isThematic": false}, {"source": "hub_habits", "target": "book_51", "isThematic": false}, {"source": "hub_leadership", "target": "book_52", "isThematic": false}, {"source": "hub_leadership", "target": "book_53", "isThematic": false}, {"source": "hub_philosophy", "target": "book_54", "isThematic": false}, {"source": "hub_leadership", "target": "book_55", "isThematic": false}, {"source": "hub_philosophy", "target": "book_56", "isThematic": false}, {"source": "hub_leadership", "target": "book_57", "isThematic": false}, {"source": "hub_grit", "target": "book_58", "isThematic": false}, {"source": "hub_philosophy", "target": "book_59", "isThematic": false}, {"source": "hub_wealth", "target": "book_60", "isThematic": false}, {"source": "hub_habits", "target": "book_61", "isThematic": false}, {"source": "hub_philosophy", "target": "book_62", "isThematic": false}, {"source": "hub_habits", "target": "book_63", "isThematic": false}, {"source": "hub_wealth", "target": "book_64", "isThematic": false}, {"source": "hub_wealth", "target": "book_65", "isThematic": false}, {"source": "hub_wealth", "target": "book_66", "isThematic": false}, {"source": "hub_wealth", "target": "book_67", "isThematic": false}, {"source": "hub_wealth", "target": "book_68", "isThematic": false}, {"source": "hub_classics", "target": "book_69", "isThematic": false}, {"source": "hub_grit", "target": "book_70", "isThematic": false}, {"source": "hub_philosophy", "target": "book_71", "isThematic": false}, {"source": "hub_philosophy", "target": "book_72", "isThematic": false}, {"source": "hub_philosophy", "target": "book_73", "isThematic": false}, {"source": "hub_wealth", "target": "book_74", "isThematic": false}, {"source": "hub_philosophy", "target": "book_75", "isThematic": false}, {"source": "hub_taiwan", "target": "book_76", "isThematic": false}, {"source": "hub_taiwan", "target": "book_77", "isThematic": false}, {"source": "hub_taiwan", "target": "book_78", "isThematic": false}, {"source": "hub_wealth", "target": "book_79", "isThematic": false}, {"source": "hub_wealth", "target": "book_80", "isThematic": false}, {"source": "hub_wealth", "target": "book_81", "isThematic": false}, {"source": "hub_leadership", "target": "book_82", "isThematic": false}, {"source": "book_7", "target": "book_61", "label": "複利成長與微習慣", "isThematic": true}, {"source": "book_7", "target": "book_9", "label": "專注深度與減法工作", "isThematic": true}, {"source": "book_20", "target": "book_19", "label": "精準本質主義", "isThematic": true}, {"source": "book_9", "target": "book_10", "label": "個人知識與第二大腦", "isThematic": true}, {"source": "book_17", "target": "book_16", "label": "克服拖延與行動力", "isThematic": true}, {"source": "book_16", "target": "book_51", "label": "克服拖延與行動力", "isThematic": true}, {"source": "book_64", "target": "book_45", "label": "人性行為與金錢心理", "isThematic": true}, {"source": "book_64", "target": "book_46", "label": "人性行為與金錢心理", "isThematic": true}, {"source": "book_64", "target": "book_47", "label": "人性行為與金錢心理", "isThematic": true}, {"source": "book_65", "target": "book_45", "label": "人性行為與金錢心理", "isThematic": true}, {"source": "book_65", "target": "book_46", "label": "人性行為與金錢心理", "isThematic": true}, {"source": "book_65", "target": "book_47", "label": "人性行為與金錢心理", "isThematic": true}, {"source": "book_66", "target": "book_45", "label": "人性行為與金錢心理", "isThematic": true}, {"source": "book_66", "target": "book_46", "label": "人性行為與金錢心理", "isThematic": true}, {"source": "book_66", "target": "book_47", "label": "人性行為與金錢心理", "isThematic": true}, {"source": "book_45", "target": "book_67", "label": "價值投資核心哲學", "isThematic": true}, {"source": "book_46", "target": "book_67", "label": "價值投資核心哲學", "isThematic": true}, {"source": "book_47", "target": "book_67", "label": "價值投資核心哲學", "isThematic": true}, {"source": "book_64", "target": "book_79", "label": "長期主義與不變真理", "isThematic": true}, {"source": "book_64", "target": "book_80", "label": "長期主義與不變真理", "isThematic": true}, {"source": "book_64", "target": "book_81", "label": "長期主義與不變真理", "isThematic": true}, {"source": "book_65", "target": "book_79", "label": "長期主義與不變真理", "isThematic": true}, {"source": "book_65", "target": "book_80", "label": "長期主義與不變真理", "isThematic": true}, {"source": "book_65", "target": "book_81", "label": "長期主義與不變真理", "isThematic": true}, {"source": "book_66", "target": "book_79", "label": "長期主義與不變真理", "isThematic": true}, {"source": "book_66", "target": "book_80", "label": "長期主義與不變真理", "isThematic": true}, {"source": "book_66", "target": "book_81", "label": "長期主義與不變真理", "isThematic": true}, {"source": "book_60", "target": "book_64", "label": "投資決策與風險意識", "isThematic": true}, {"source": "book_60", "target": "book_65", "label": "投資決策與風險意識", "isThematic": true}, {"source": "book_60", "target": "book_66", "label": "投資決策與風險意識", "isThematic": true}, {"source": "book_74", "target": "book_14", "label": "金錢與生命能量", "isThematic": true}, {"source": "book_68", "target": "book_50", "label": "創富與思考致富", "isThematic": true}, {"source": "book_42", "target": "book_15", "label": "堅毅不拔與硬核行動", "isThematic": true}, {"source": "book_34", "target": "book_15", "label": "軍事自律與生活整潔", "isThematic": true}, {"source": "book_23", "target": "book_38", "label": "激發潛能與內在巨人", "isThematic": true}, {"source": "book_23", "target": "book_51", "label": "激發潛能與內在巨人", "isThematic": true}, {"source": "book_4", "target": "book_37", "label": "反脆弱與斯多葛哲學", "isThematic": true}, {"source": "book_5", "target": "book_37", "label": "反脆弱與斯多葛哲學", "isThematic": true}, {"source": "book_6", "target": "book_37", "label": "反脆弱與斯多葛哲學", "isThematic": true}, {"source": "book_40", "target": "book_37", "label": "反脆弱與斯多葛哲學", "isThematic": true}, {"source": "book_4", "target": "book_39", "label": "抗挫力與人生韌性", "isThematic": true}, {"source": "book_5", "target": "book_39", "label": "抗挫力與人生韌性", "isThematic": true}, {"source": "book_6", "target": "book_39", "label": "抗挫力與人生韌性", "isThematic": true}, {"source": "book_40", "target": "book_39", "label": "抗挫力與人生韌性", "isThematic": true}, {"source": "book_12", "target": "book_54", "label": "認知偏誤與雙系統思維", "isThematic": true}, {"source": "book_12", "target": "book_22", "label": "重新思考與認知重塑", "isThematic": true}, {"source": "book_62", "target": "book_75", "label": "活在當下與心靈覺知", "isThematic": true}, {"source": "book_8", "target": "book_62", "label": "超越已知與內在自由", "isThematic": true}, {"source": "book_56", "target": "book_0", "label": "阿德勒心理學與自主人生", "isThematic": true}, {"source": "book_59", "target": "book_56", "label": "放手哲學與關係界線", "isThematic": true}, {"source": "book_48", "target": "book_57", "label": "黃金圈法則與無限賽局", "isThematic": true}, {"source": "book_49", "target": "book_48", "label": "以終為始與高效能習慣", "isThematic": true}, {"source": "book_82", "target": "book_55", "label": "商業戰略與五步推演", "isThematic": true}, {"source": "book_31", "target": "book_29", "label": "人際影響力與深度溝通", "isThematic": true}, {"source": "book_31", "target": "book_30", "label": "人際影響力與深度溝通", "isThematic": true}, {"source": "book_11", "target": "book_52", "label": "公眾演說與TED魅力", "isThematic": true}, {"source": "book_32", "target": "book_69", "label": "生命意義與人生衡量", "isThematic": true}, {"source": "book_41", "target": "book_1", "label": "反烏托邦與未來省思", "isThematic": true}, {"source": "book_76", "target": "book_77", "label": "台灣說唱與念歌藝術", "isThematic": true}, {"source": "book_77", "target": "book_25", "label": "念歌曲藝與民間諷喻", "isThematic": true}, {"source": "book_77", "target": "book_78", "label": "念歌曲藝與民間諷喻", "isThematic": true}]};
+
+    // --- Preferences & Theme ---
     const themeBtn = document.getElementById('theme-btn');
     let isDark = localStorage.getItem('shelf-theme') === 'dark';
     function applyTheme() {
@@ -958,17 +1779,59 @@
       applyTheme();
     });
 
+    // --- Tab Switcher ---
+    const tabBtns = document.querySelectorAll('.tab-btn');
+    const tabPanes = document.querySelectorAll('.tab-pane');
+
+    function switchTab(tabId) {
+      tabBtns.forEach(btn => btn.classList.toggle('active', btn.getAttribute('data-tab') === tabId));
+      tabPanes.forEach(pane => pane.classList.toggle('active', pane.id === 'pane-' + tabId));
+      if (tabId === 'graph') {
+        initOrResizeGraph();
+      } else if (tabId === 'search') {
+        loadSearchIndexOnce();
+        document.getElementById('global-search-input').focus();
+      }
+    }
+
+    tabBtns.forEach(btn => {
+      btn.addEventListener('click', () => {
+        const tab = btn.getAttribute('data-tab');
+        switchTab(tab);
+      });
+    });
+
+    // Check URL params for direct search or tab: ?tab=search&q=keyword
+    const urlParams = new URLSearchParams(window.location.search);
+    if (urlParams.get('tab') === 'search') {
+      switchTab('search');
+      const q = urlParams.get('q');
+      if (q) {
+        document.getElementById('global-search-input').value = q;
+        loadSearchIndexOnce().then(() => runGlobalSearch(q));
+      }
+    } else if (urlParams.get('tab') === 'graph') {
+      switchTab('graph');
+    }
+
+    // ==========================================
+    // TAB 1: CATALOG SEARCH & CATEGORY FILTER
+    // ==========================================
     const searchInput = document.getElementById('search-input');
     const cards = document.querySelectorAll('.book-card');
     const noResults = document.getElementById('no-results');
-    const countBadge = document.getElementById('book-count');
+    const catPills = document.querySelectorAll('.cat-pill');
+    let currentCategory = 'all';
 
-    searchInput.addEventListener('input', (e) => {
-      const q = e.target.value.toLowerCase().trim();
+    function filterCatalog() {
+      const q = searchInput.value.toLowerCase().trim();
       let matchCount = 0;
       cards.forEach(card => {
         const title = card.getAttribute('data-title').toLowerCase();
-        if (title.includes(q)) {
+        const cat = card.getAttribute('data-cat');
+        const matchesCat = currentCategory === 'all' || cat === currentCategory;
+        const matchesSearch = !q || title.includes(q);
+        if (matchesCat && matchesSearch) {
           card.style.display = '';
           matchCount++;
         } else {
@@ -976,8 +1839,449 @@
         }
       });
       noResults.style.display = matchCount === 0 ? 'block' : 'none';
-      countBadge.textContent = matchCount;
+    }
+
+    searchInput.addEventListener('input', filterCatalog);
+
+    catPills.forEach(pill => {
+      pill.addEventListener('click', () => {
+        catPills.forEach(p => p.classList.remove('active'));
+        pill.classList.add('active');
+        currentCategory = pill.getAttribute('data-cat');
+        filterCatalog();
+      });
     });
+
+    // ==========================================
+    // TAB 2: INTERACTIVE KNOWLEDGE CONNECTION GRAPH
+    // ==========================================
+    const canvas = document.getElementById('graph-canvas');
+    const ctx = canvas.getContext('2d');
+    const gic = document.getElementById('graph-info-card');
+    let graphInitialized = false;
+    let nodes = [];
+    let edges = [];
+    let transform = { x: 0, y: 0, scale: 1 };
+    let isDragging = false;
+    let dragStart = { x: 0, y: 0 };
+    let draggedNode = null;
+    let hoveredNode = null;
+    let activeFilterCat = 'all';
+
+    function initOrResizeGraph() {
+      const rect = canvas.parentElement.getBoundingClientRect();
+      const dpr = window.devicePixelRatio || 1;
+      canvas.width = rect.width * dpr;
+      canvas.height = 680 * dpr;
+      canvas.style.width = rect.width + 'px';
+      canvas.style.height = '680px';
+      ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+
+      if (!graphInitialized) {
+        buildGraphNodes();
+        transform.x = rect.width / 2;
+        transform.y = 340;
+        graphInitialized = true;
+        animateGraph();
+      }
+    }
+
+    function buildGraphNodes() {
+      nodes = GRAPH_DATA.nodes.map(n => ({
+        ...n,
+        x: (Math.random() - 0.5) * 600,
+        y: (Math.random() - 0.5) * 450,
+        vx: 0,
+        vy: 0,
+        radius: n.isHub ? 26 : 14
+      }));
+
+      edges = GRAPH_DATA.edges.map(e => {
+        const source = nodes.find(n => n.id === e.source);
+        const target = nodes.find(n => n.id === e.target);
+        return { source, target, label: e.label || '', isThematic: e.isThematic || false };
+      }).filter(e => e.source && e.target);
+    }
+
+    function animateGraph() {
+      // Simple force simulation
+      for (let i = 0; i < nodes.length; i++) {
+        const n1 = nodes[i];
+        if (n1 === draggedNode) continue;
+
+        // Center gravity
+        n1.vx -= n1.x * 0.0004;
+        n1.vy -= n1.y * 0.0004;
+
+        // Node repulsion
+        for (let j = i + 1; j < nodes.length; j++) {
+          const n2 = nodes[j];
+          const dx = n2.x - n1.x;
+          const dy = n2.y - n1.y;
+          const dist = Math.hypot(dx, dy) || 1;
+          const minDist = n1.radius + n2.radius + 35;
+          if (dist < minDist * 3) {
+            const force = (minDist * 3 - dist) / (dist * 20);
+            const fx = dx * force;
+            const fy = dy * force;
+            n1.vx -= fx;
+            n1.vy -= fy;
+            n2.vx += fx;
+            n2.vy += fy;
+          }
+        }
+      }
+
+      // Edge spring attraction
+      edges.forEach(e => {
+        const dx = e.target.x - e.source.x;
+        const dy = e.target.y - e.source.y;
+        const dist = Math.hypot(dx, dy) || 1;
+        const targetDist = e.isThematic ? 110 : 80;
+        const force = (dist - targetDist) * 0.002;
+        const fx = dx * force;
+        const fy = dy * force;
+        if (e.source !== draggedNode) { e.source.vx += fx; e.source.vy += fy; }
+        if (e.target !== draggedNode) { e.target.vx -= fx; e.target.vy -= fy; }
+      });
+
+      // Update positions with friction
+      nodes.forEach(n => {
+        if (n !== draggedNode) {
+          n.vx *= 0.85;
+          n.vy *= 0.85;
+          n.x += n.vx;
+          n.y += n.vy;
+        }
+      });
+
+      drawGraph();
+      requestAnimationFrame(animateGraph);
+    }
+
+    function drawGraph() {
+      const width = canvas.width / (window.devicePixelRatio || 1);
+      const height = canvas.height / (window.devicePixelRatio || 1);
+      ctx.clearRect(0, 0, width, height);
+
+      ctx.save();
+      ctx.translate(transform.x, transform.y);
+      ctx.scale(transform.scale, transform.scale);
+
+      // Draw Edges
+      edges.forEach(e => {
+        const isCatMatch = activeFilterCat === 'all' || e.source.cat === activeFilterCat || e.target.cat === activeFilterCat;
+        if (!isCatMatch) return;
+
+        const isConnectedToHover = hoveredNode && (e.source === hoveredNode || e.target === hoveredNode);
+        ctx.beginPath();
+        ctx.moveTo(e.source.x, e.source.y);
+        ctx.lineTo(e.target.x, e.target.y);
+        if (e.isThematic) {
+          ctx.setLineDash([4, 4]);
+          ctx.strokeStyle = isConnectedToHover ? '#f97316' : (isDark ? 'rgba(255,255,255,0.18)' : 'rgba(0,0,0,0.14)');
+          ctx.lineWidth = isConnectedToHover ? 2.5 : 1.2;
+        } else {
+          ctx.setLineDash([]);
+          ctx.strokeStyle = isConnectedToHover ? e.source.color : (isDark ? 'rgba(255,255,255,0.1)' : 'rgba(0,0,0,0.08)');
+          ctx.lineWidth = isConnectedToHover ? 2 : 1;
+        }
+        ctx.stroke();
+        ctx.setLineDash([]);
+      });
+
+      // Draw Nodes
+      nodes.forEach(n => {
+        const isCatMatch = activeFilterCat === 'all' || n.cat === activeFilterCat;
+        if (!isCatMatch) return;
+
+        const isHovered = n === hoveredNode;
+        const isConnected = hoveredNode && edges.some(e => (e.source === hoveredNode && e.target === n) || (e.target === hoveredNode && e.source === n));
+
+        ctx.beginPath();
+        ctx.arc(n.x, n.y, n.radius + (isHovered ? 4 : 0), 0, Math.PI * 2);
+        ctx.fillStyle = n.color;
+        ctx.fill();
+
+        if (n.isHub || isHovered || isConnected) {
+          ctx.strokeStyle = isDark ? '#ffffff' : '#0f172a';
+          ctx.lineWidth = isHovered ? 3 : (n.isHub ? 2.5 : 1.5);
+          ctx.stroke();
+        }
+
+        // Text label
+        if (n.isHub || isHovered || transform.scale > 0.85) {
+          ctx.fillStyle = isDark ? '#f8fafc' : '#0f172a';
+          ctx.font = n.isHub ? 'bold 13px sans-serif' : (isHovered ? 'bold 12px sans-serif' : '11px sans-serif');
+          ctx.textAlign = 'center';
+          ctx.fillText(n.shortTitle || n.title, n.x, n.y + n.radius + 14);
+        }
+      });
+
+      ctx.restore();
+    }
+
+    function getMousePos(e) {
+      const rect = canvas.getBoundingClientRect();
+      const clientX = e.clientX || (e.touches && e.touches[0].clientX);
+      const clientY = e.clientY || (e.touches && e.touches[0].clientY);
+      return {
+        x: (clientX - rect.left - transform.x) / transform.scale,
+        y: (clientY - rect.top - transform.y) / transform.scale
+      };
+    }
+
+    function findNodeAt(pos) {
+      for (let i = nodes.length - 1; i >= 0; i--) {
+        const n = nodes[i];
+        if (activeFilterCat !== 'all' && n.cat !== activeFilterCat) continue;
+        const dist = Math.hypot(n.x - pos.x, n.y - pos.y);
+        if (dist <= n.radius + 5) return n;
+      }
+      return null;
+    }
+
+    canvas.addEventListener('mousedown', (e) => {
+      const pos = getMousePos(e);
+      const node = findNodeAt(pos);
+      if (node) {
+        draggedNode = node;
+      } else {
+        isDragging = true;
+        dragStart = { x: e.clientX - transform.x, y: e.clientY - transform.y };
+      }
+    });
+
+    canvas.addEventListener('mousemove', (e) => {
+      const pos = getMousePos(e);
+      if (draggedNode) {
+        draggedNode.x = pos.x;
+        draggedNode.y = pos.y;
+      } else if (isDragging) {
+        transform.x = e.clientX - dragStart.x;
+        transform.y = e.clientY - dragStart.y;
+      } else {
+        hoveredNode = findNodeAt(pos);
+      }
+    });
+
+    window.addEventListener('mouseup', () => {
+      isDragging = false;
+      draggedNode = null;
+    });
+
+    canvas.addEventListener('wheel', (e) => {
+      e.preventDefault();
+      const zoomFactor = e.deltaY < 0 ? 1.15 : 0.88;
+      const rect = canvas.getBoundingClientRect();
+      const mouseX = e.clientX - rect.left;
+      const mouseY = e.clientY - rect.top;
+
+      transform.x = mouseX - (mouseX - transform.x) * zoomFactor;
+      transform.y = mouseY - (mouseY - transform.y) * zoomFactor;
+      transform.scale *= zoomFactor;
+      transform.scale = Math.max(0.3, Math.min(3.5, transform.scale));
+    }, { passive: false });
+
+    // Node click info card
+    canvas.addEventListener('click', (e) => {
+      const pos = getMousePos(e);
+      const node = findNodeAt(pos);
+      if (node && !node.isHub) {
+        showGraphInfoCard(node);
+      }
+    });
+
+    function showGraphInfoCard(node) {
+      document.getElementById('gic-title').textContent = node.title;
+      const catBadge = document.getElementById('gic-cat');
+      catBadge.textContent = node.catName;
+      catBadge.style.backgroundColor = node.color + '22';
+      catBadge.style.color = node.color;
+      document.getElementById('gic-meta').textContent = `📑 共 ${node.sections} 節時間軸`;
+      document.getElementById('gic-open').href = node.file;
+
+      // Find connected books
+      const connectedEdges = edges.filter(e => (e.source === node || e.target === node) && e.isThematic);
+      const linksContainer = document.getElementById('gic-links');
+      linksContainer.innerHTML = '';
+      if (connectedEdges.length === 0) {
+        linksContainer.innerHTML = '<div>無特定跨書主題鏈結</div>';
+      } else {
+        connectedEdges.forEach(e => {
+          const other = e.source === node ? e.target : e.source;
+          const a = document.createElement('a');
+          a.href = other.file;
+          a.style.color = 'var(--accent-color)';
+          a.style.textDecoration = 'none';
+          a.innerHTML = `🔗 <strong>${e.label}</strong>：${other.title}`;
+          linksContainer.appendChild(a);
+        });
+      }
+
+      gic.classList.add('active');
+    }
+
+    document.getElementById('gic-close').addEventListener('click', () => gic.classList.remove('active'));
+
+    // Graph toolbar
+    document.getElementById('graph-zoom-in').addEventListener('click', () => {
+      transform.scale *= 1.25;
+    });
+    document.getElementById('graph-zoom-out').addEventListener('click', () => {
+      transform.scale *= 0.8;
+    });
+    document.getElementById('graph-reset').addEventListener('click', () => {
+      const rect = canvas.getBoundingClientRect();
+      transform.x = rect.width / 2;
+      transform.y = 340;
+      transform.scale = 1;
+      activeFilterCat = 'all';
+      document.getElementById('graph-cat-filter').value = 'all';
+    });
+
+    document.getElementById('graph-cat-filter').addEventListener('change', (e) => {
+      activeFilterCat = e.target.value;
+    });
+
+    document.getElementById('graph-search').addEventListener('input', (e) => {
+      const q = e.target.value.toLowerCase().trim();
+      if (!q) return;
+      const match = nodes.find(n => !n.isHub && n.title.toLowerCase().includes(q));
+      if (match) {
+        const rect = canvas.getBoundingClientRect();
+        transform.x = rect.width / 2 - match.x * transform.scale;
+        transform.y = 340 - match.y * transform.scale;
+        hoveredNode = match;
+        showGraphInfoCard(match);
+      }
+    });
+
+    // ==========================================
+    // TAB 3: GLOBAL FULL-TEXT SEARCH (全庫搜尋)
+    // ==========================================
+    let searchIndexData = null;
+    let isSearchIndexLoading = false;
+
+    async function loadSearchIndexOnce() {
+      if (searchIndexData) return;
+      if (isSearchIndexLoading) return;
+      isSearchIndexLoading = true;
+      const statusMsg = document.getElementById('search-status-msg');
+      statusMsg.textContent = '⏳ 正在載入全書庫全文檢索索引 (83 本有聲書)...';
+
+      try {
+        const res = await fetch('search_index.json');
+        searchIndexData = await res.json();
+        statusMsg.textContent = '✅ 全書庫索引載入完成！請輸入關鍵字檢索。';
+      } catch (err) {
+        statusMsg.textContent = '❌ 載入全文索引失敗：' + err;
+      } finally {
+        isSearchIndexLoading = false;
+      }
+    }
+
+    const globalSearchInput = document.getElementById('global-search-input');
+    const globalCatSelect = document.getElementById('global-cat-select');
+    const globalResultsList = document.getElementById('global-results-list');
+    const searchStatusMsg = document.getElementById('search-status-msg');
+    const searchStatusCount = document.getElementById('search-status-count');
+
+    let globalSearchDebounce;
+    globalSearchInput.addEventListener('input', (e) => {
+      clearTimeout(globalSearchDebounce);
+      globalSearchDebounce = setTimeout(() => {
+        runGlobalSearch(e.target.value);
+      }, 300);
+    });
+    globalCatSelect.addEventListener('change', () => runGlobalSearch(globalSearchInput.value));
+
+    function runGlobalSearch(query) {
+      if (!searchIndexData) {
+        loadSearchIndexOnce().then(() => runGlobalSearch(query));
+        return;
+      }
+
+      query = query.trim();
+      globalResultsList.innerHTML = '';
+      if (!query) {
+        searchStatusMsg.textContent = '請輸入關鍵字開始檢索';
+        searchStatusCount.textContent = '';
+        return;
+      }
+
+      const selectedCat = globalCatSelect.value;
+      const qLower = query.toLowerCase();
+      const regex = new RegExp(`(${escapeRegex(query)})`, 'gi');
+
+      let totalBookMatches = 0;
+      let totalSnippetMatches = 0;
+
+      searchIndexData.forEach(book => {
+        if (selectedCat !== 'all' && book.category !== selectedCat) return;
+
+        const matchingSections = [];
+        book.sections.forEach(sec => {
+          if (sec.text.toLowerCase().includes(qLower)) {
+            matchingSections.push(sec);
+          }
+        });
+
+        if (matchingSections.length > 0) {
+          totalBookMatches++;
+          totalSnippetMatches += matchingSections.length;
+
+          const group = document.createElement('div');
+          group.className = 'global-book-group';
+
+          const bookHeader = document.createElement('div');
+          bookHeader.className = 'global-book-header';
+          bookHeader.innerHTML = `
+            <a href="${book.file}" class="global-book-title">${book.title}</a>
+            <span class="card-cat-badge" style="background: var(--accent-light); color: var(--accent-color);">
+              ${matchingSections.length} 處相符
+            </span>
+          `;
+          group.appendChild(bookHeader);
+
+          const snippetList = document.createElement('div');
+          snippetList.className = 'global-snippet-list';
+
+          // Show top 5 matches per book for performance
+          matchingSections.slice(0, 5).forEach(sec => {
+            const matchPos = sec.text.toLowerCase().indexOf(qLower);
+            const start = Math.max(0, matchPos - 40);
+            const end = Math.min(sec.text.length, matchPos + query.length + 80);
+            const snippetText = sec.text.slice(start, end);
+            const snippetHtml = escapeHtml(snippetText).replace(regex, '<mark class="global-highlight">$1</mark>');
+
+            const item = document.createElement('a');
+            item.href = `${book.file}#${sec.id}`;
+            item.className = 'global-snippet-item';
+            item.innerHTML = `
+              <div class="global-snippet-time">⏱️ ${sec.time}</div>
+              <div class="global-snippet-text">...${snippetHtml}...</div>
+            `;
+            snippetList.appendChild(item);
+          });
+
+          if (matchingSections.length > 5) {
+            const more = document.createElement('div');
+            more.style.fontSize = '12px';
+            more.style.color = 'var(--text-muted)';
+            more.style.padding = '4px 0';
+            more.textContent = `還有 ${matchingSections.length - 5} 處相符，點擊書名進入閱讀完整內文...`;
+            snippetList.appendChild(more);
+          }
+
+          group.appendChild(snippetList);
+          globalResultsList.appendChild(group);
+        }
+      });
+
+      searchStatusMsg.textContent = `檢索「${query}」結果：共涵蓋 ${totalBookMatches} 本書`;
+      searchStatusCount.textContent = `共找到 ${totalSnippetMatches} 處段落`;
+    }
   </script>
 </body>
 </html>

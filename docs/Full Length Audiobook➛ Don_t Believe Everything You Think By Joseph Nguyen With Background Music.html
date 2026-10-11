@@ -66,26 +66,12 @@
       --card-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
     }
 
-    [data-line-height="compact"] {
-      --line-height: 1.68;
-    }
-    [data-line-height="normal"] {
-      --line-height: 1.88;
-    }
-    [data-line-height="loose"] {
-      --line-height: 2.12;
-    }
+    [data-line-height="compact"] { --line-height: 1.68; }
+    [data-line-height="normal"] { --line-height: 1.88; }
+    [data-line-height="loose"] { --line-height: 2.12; }
 
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
-    html {
-      scroll-behavior: smooth;
-    }
-
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
     body {
       font-family: var(--font-family);
       font-size: var(--font-size);
@@ -119,7 +105,7 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 0 20px;
+      padding: 0 18px;
       background-color: var(--bg-header);
       backdrop-filter: blur(8px);
       -webkit-backdrop-filter: blur(8px);
@@ -129,7 +115,7 @@
     .header-left, .header-right {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 8px;
       flex-wrap: nowrap;
     }
 
@@ -138,7 +124,7 @@
       border: 1px solid var(--border-color);
       color: var(--text-primary);
       cursor: pointer;
-      font-size: 14px;
+      font-size: 13.5px;
       padding: 6px 10px;
       border-radius: 8px;
       display: inline-flex;
@@ -147,6 +133,7 @@
       transition: all 0.2s;
       white-space: nowrap;
       user-select: none;
+      text-decoration: none;
     }
     .btn-icon:hover {
       background-color: var(--accent-light);
@@ -161,11 +148,132 @@
       font-size: 14px;
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
+    }
+    .home-link:hover { color: var(--accent-color); }
+
+    /* In-Page Search Bar Dropdown */
+    .inpage-search-bar {
+      position: sticky;
+      top: 60px;
+      z-index: 890;
+      background-color: var(--bg-surface);
+      border-bottom: 1px solid var(--border-color);
+      padding: 10px 18px;
+      display: none;
+      align-items: center;
+      gap: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    }
+    .inpage-search-bar.active { display: flex; }
+
+    .inpage-search-input-wrapper {
+      flex: 1;
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    .inpage-search-input {
+      width: 100%;
+      padding: 8px 36px 8px 12px;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      font-size: 14px;
+    }
+    .inpage-search-input:focus { outline: 2px solid var(--accent-color); }
+
+    .inpage-search-clear {
+      position: absolute;
+      right: 10px;
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 16px;
     }
 
-    .home-link:hover {
+    .inpage-search-count {
+      font-size: 13px;
+      color: var(--text-secondary);
+      font-family: monospace;
+      white-space: nowrap;
+    }
+    .search-nav-btns { display: flex; gap: 6px; }
+
+    /* In-Page Search Results Drawer */
+    .inpage-search-drawer {
+      position: fixed;
+      right: 20px;
+      top: 120px;
+      width: 360px;
+      max-height: calc(100vh - 160px);
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+      z-index: 895;
+      display: none;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .inpage-search-drawer.active { display: flex; }
+    .inpage-search-drawer-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-weight: 600;
+      font-size: 14px;
+    }
+    .inpage-search-drawer-list {
+      overflow-y: auto;
+      padding: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .search-result-item {
+      padding: 10px 12px;
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+      background: var(--bg-primary);
+      cursor: pointer;
+      font-size: 13px;
+      transition: all 0.15s;
+    }
+    .search-result-item:hover, .search-result-item.active {
+      border-color: var(--accent-color);
+      background: var(--accent-light);
+    }
+    .search-result-time {
+      font-weight: 700;
       color: var(--accent-color);
+      font-family: monospace;
+      margin-bottom: 4px;
+    }
+    .search-result-snippet {
+      color: var(--text-primary);
+      line-height: 1.5;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    /* Highlight mark */
+    mark.search-highlight {
+      background-color: #fef08a;
+      color: #1f2937;
+      padding: 1px 3px;
+      border-radius: 3px;
+    }
+    mark.search-highlight.active-match {
+      background-color: #f97316;
+      color: #ffffff;
+      outline: 2px solid #ea580c;
     }
 
     /* Layout Wrapper */
@@ -212,9 +320,7 @@
       font-size: 13px;
       margin-bottom: 14px;
     }
-    .toc-search:focus {
-      outline: 2px solid var(--accent-color);
-    }
+    .toc-search:focus { outline: 2px solid var(--accent-color); }
 
     .toc-list {
       list-style: none;
@@ -237,12 +343,10 @@
       overflow: hidden;
       text-overflow: ellipsis;
     }
-
     .toc-item a:hover {
       background-color: var(--accent-light);
       color: var(--accent-color);
     }
-
     .toc-item.active a {
       background-color: var(--accent-color);
       color: #ffffff;
@@ -257,19 +361,17 @@
       display: flex;
       justify-content: center;
     }
-
     .reader-container {
       width: 100%;
       max-width: var(--content-max-width);
     }
 
-    /* Book Hero / Header */
+    /* Book Hero */
     .book-hero {
       margin-bottom: 40px;
       padding-bottom: 24px;
       border-bottom: 2px solid var(--border-color);
     }
-
     .book-hero h1 {
       font-size: 2.1em;
       line-height: 1.35;
@@ -285,7 +387,6 @@
       gap: 10px;
       margin-top: 14px;
     }
-
     .meta-chip {
       display: inline-flex;
       align-items: center;
@@ -297,8 +398,13 @@
       font-size: 13px;
       font-weight: 500;
     }
+    .meta-chip.cat-badge {
+      background-color: #8b5cf622;
+      color: #8b5cf6;
+      font-weight: 600;
+    }
 
-    /* Content Typography & Enhanced Paragraphs */
+    /* Content Typography */
     .transcript-section {
       margin-bottom: 50px;
       scroll-margin-top: 80px;
@@ -349,25 +455,22 @@
       letter-spacing: 0.015em;
     }
 
-    /* Indented paragraph style (Traditional) */
+    /* Indented paragraph style */
     [data-p-style="indent"] .section-body p {
       text-indent: 2em;
       margin-bottom: 1.15em;
       line-height: var(--line-height);
     }
 
-    /* Block paragraph style (Modern with whitespace) */
+    /* Block paragraph style */
     [data-p-style="block"] .section-body p {
       text-indent: 0;
       margin-bottom: 1.55em;
       line-height: var(--line-height);
     }
+    .section-body p:last-child { margin-bottom: 0; }
 
-    .section-body p:last-child {
-      margin-bottom: 0;
-    }
-
-    /* Floating Navigation Controls */
+    /* Floating Tools */
     .floating-tools {
       position: fixed;
       bottom: 24px;
@@ -377,7 +480,6 @@
       gap: 10px;
       z-index: 800;
     }
-
     .float-btn {
       width: 44px;
       height: 44px;
@@ -399,7 +501,6 @@
       color: var(--accent-color);
     }
 
-    /* Overlay for mobile drawer */
     .backdrop {
       display: none;
       position: fixed;
@@ -419,36 +520,22 @@
         transform: translateX(-100%);
         box-shadow: 4px 0 16px rgba(0,0,0,0.15);
       }
-
-      .sidebar.open {
-        transform: translateX(0);
-      }
-
-      .backdrop.open {
-        display: block;
+      .sidebar.open { transform: translateX(0); }
+      .backdrop.open { display: block; }
+      .inpage-search-drawer {
+        left: 20px;
+        right: 20px;
+        width: auto;
       }
     }
 
     @media (max-width: 640px) {
-      :root {
-        --font-size: 17px;
-      }
-      .main-content {
-        padding: 24px 16px 60px 16px;
-      }
-      .book-hero h1 {
-        font-size: 1.55em;
-      }
-      .top-header {
-        padding: 0 10px;
-      }
-      .btn-icon {
-        padding: 5px 8px;
-        font-size: 13px;
-      }
-      [data-p-style="indent"] .section-body p {
-        text-indent: 1.5em;
-      }
+      :root { --font-size: 17px; }
+      .main-content { padding: 24px 16px 60px 16px; }
+      .book-hero h1 { font-size: 1.55em; }
+      .top-header { padding: 0 10px; }
+      .btn-icon { padding: 5px 7px; font-size: 12.5px; }
+      [data-p-style="indent"] .section-body p { text-indent: 1.5em; }
     }
   </style>
 </head>
@@ -464,6 +551,14 @@
       <a href="index.html" class="home-link" title="返回書架">
         🏠 書架
       </a>
+      <!-- Search Inside Book Button -->
+      <button class="btn-icon" id="search-toggle-btn" title="搜尋本書內文 (Ctrl+F)">
+        🔍 <span>搜尋內文</span>
+      </button>
+      <!-- Global Search Link -->
+      <a href="index.html?tab=search" class="btn-icon" title="前往全書庫全文檢索">
+        🌐 <span>全庫搜尋</span>
+      </a>
     </div>
 
     <div class="header-right">
@@ -473,7 +568,7 @@
       </button>
 
       <!-- Line Height Toggle -->
-      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 精簡)">
+      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 緊湊)">
         ↕ <span id="line-height-label">行距</span>
       </button>
 
@@ -492,6 +587,29 @@
       <button class="btn-icon" id="font-inc-btn" title="放大字級">A+</button>
     </div>
   </header>
+
+  <!-- In-Page Search Bar Dropdown -->
+  <div class="inpage-search-bar" id="inpage-search-bar">
+    <div class="inpage-search-input-wrapper">
+      <input type="text" id="inpage-search-input" class="inpage-search-input" placeholder="🔍 搜尋本書內文關鍵字 (按 Enter 尋找下一處，Esc 關閉)...">
+      <button class="inpage-search-clear" id="inpage-search-clear" title="清空">✕</button>
+    </div>
+    <span class="inpage-search-count" id="inpage-search-count">0 / 0</span>
+    <div class="search-nav-btns">
+      <button class="btn-icon" id="inpage-search-prev" title="上一處 (Shift+Enter)">▲</button>
+      <button class="btn-icon" id="inpage-search-next" title="下一處 (Enter)">▼</button>
+      <button class="btn-icon" id="inpage-search-close" title="關閉搜尋 (Esc)">✕</button>
+    </div>
+  </div>
+
+  <!-- In-Page Search Results Drawer -->
+  <div class="inpage-search-drawer" id="inpage-search-drawer">
+    <div class="inpage-search-drawer-header">
+      <span>搜尋結果清單</span>
+      <button class="btn-icon" id="inpage-drawer-close" style="padding: 2px 6px;">✕</button>
+    </div>
+    <div class="inpage-search-drawer-list" id="inpage-search-drawer-list"></div>
+  </div>
 
   <div class="backdrop" id="backdrop"></div>
 
@@ -541,6 +659,7 @@
         <header class="book-hero">
           <h1>Full Length Audiobook➛ Don&#x27;t Believe Everything You Think By Joseph Nguyen With Background Music</h1>
           <div class="book-meta-chips">
+            <span class="meta-chip cat-badge">🧠 哲學與思辨</span>
             <span class="meta-chip">🏷️ 時長：02:16:52</span>
 <span class="meta-chip">🏷️ 模型：small.en</span>
 <span class="meta-chip">🏷️ 日期：2026-09-22</span>
@@ -548,7 +667,7 @@
         </header>
 
         <!-- Transcript Content -->
-        <div class="book-body">
+        <div class="book-body" id="book-body">
           
         <section class="transcript-section" id="sec-000000">
           <div class="section-header">
@@ -634,10 +753,10 @@
 <p class="prose-p">Our mind’s job is to alert us of potential dangers in our environment that may threaten our lives. It does its job so well that not only will it scan our immediate surroundings for threats, but it will even reference our backlog of past experiences to create hypothetical scenarios and predict what it thinks could be future potential dangers based on our memories. None of this is wrong by any means. The mind is simply doing what it was designed to do.</p>
 <p class="prose-p">When we don’t understand that its only duty is to help us survive, then we will get angry and frustrated with it. All conflict is derived from an innocent misunderstanding. Our mind’s duty is to keep us alive. Our consciousness&#x27; duty is to help us feel fulfilled.</p>
 <p class="prose-p">Your soul is the reason why you’re even on this journey in the first place, to find peace, love, and joy for yourself. Your mind has done an amazing job at what it was made to do, but now you may relieve it of its job because we no longer live in the wild where death could be right around the corner in a bush. If we keep using our minds, we will constantly stay in a state of fight or flight. Anxiety, fear, frustration, depression, anger, resentment, and all negative emotions because the mind thinks everything is a threat to our very existence.</p>
-<p class="prose-p">If you want to be free, happy, peaceful, and full of love, then you will need to let go of listening only to your mind and go beyond it by tuning into something much greater that will help you not just to survive, but to thrive.</p>
-<h4 class="section-subhead">Chapter 4 Thoughts vs Thinking Stop thinking and end your problems. Lao Tzu Thoughts are the energetic, mental, raw materials from which we use to create everything in the world.</h4>
-<p class="prose-p">We can’t experience anything without thought. It’s important to know that thoughts are a noun and aren’t something that we do, but something that we have. A thought takes no effort or force on our end and it is something that just happens. We also cannot control what thoughts pop into our minds.</p>
-<p class="prose-p">The source of thoughts comes from something that is beyond our minds, the universe if</p>
+<p class="prose-p">If you want to be free, happy, peaceful, and full of love, then you will need to let go of listening only to your mind and go beyond it by tuning into something much greater that will help you not just to survive, but to thrive.
+
+#### Chapter 4 Thoughts vs Thinking Stop thinking and end your problems. Lao Tzu Thoughts are the energetic, mental, raw materials from which we use to create everything in the world. We can’t experience anything without thought. It’s important to know that thoughts are a noun and aren’t something that we do, but something that we have.</p>
+<p class="prose-p">A thought takes no effort or force on our end and it is something that just happens. We also cannot control what thoughts pop into our minds. The source of thoughts comes from something that is beyond our minds, the universe if</p>
           </div>
         </section>
         
@@ -703,8 +822,9 @@
 <p class="prose-p">The more thinking we have going on, the higher the thoughtometer goes. And if we have enough thinking going on, it will go to the red zone. This is when we feel extremely stressed, burned out, frustrated, and angry. It is not the content of our thinking that causes us stress, but that we are thinking, period.</p>
 <p class="prose-p">The amount of thinking we have going on is directly correlated to the magnitude of stress and negative emotions we are experiencing at any given moment. When you are experiencing a lot of frustration, stress, anxiety, or any negative emotions, just know that it is because you are thinking and the intensity of those emotions is directly correlated to how much thinking is going on.</p>
 <p class="prose-p">Therefore, it is not what we are thinking about that is causing us suffering, but that we are thinking. To summarize, we do not have to try to think positive to experience love, joy, bliss, and any positive emotions we want, because it is our natural state to feel those emotions. The only times we don’t naturally feel these emotions is when we begin to think about the thoughts we are having, thus blocking the direct connection to infinite intelligence and we feel stressed, anxious, depressed, and fearful.</p>
-<p class="prose-p">It is not about the content of our thinking, but that we are thinking, which is the root cause of our suffering. The intensity of the negative emotions is directly correlated to the amount of thinking we have going on in the present. The less thinking we have, the more space we create for positive emotions to naturally surface.</p>
-<h4 class="section-subhead">Chapter 6 How the Human Experience is Created The Three Principles If the only thing people learned was not to be afraid of their experience, that alone would change the world.</h4>
+<p class="prose-p">It is not about the content of our thinking, but that we are thinking, which is the root cause of our suffering. The intensity of the negative emotions is directly correlated to the amount of thinking we have going on in the present. The less thinking we have, the more space we create for positive emotions to naturally surface.
+
+#### Chapter 6 How the Human Experience is Created The Three Principles If the only thing people learned was not to be afraid of their experience, that alone would change the world.</p>
 <p class="prose-p">Sydney Banks At its fundamental level, the human experience is created by these three principles, universal mind, consciousness, and thought. These three principles work together to allow us to experience everything we do in life, and if one of these three is missing, we wouldn’t be able to experience anything. These three principles were first discovered by Sydney Banks, and now I have the humbling privilege to share them with you. Understanding these three principles enables us to know how we can alleviate ourselves from our suffering, but also allows us to create from source.</p>
 <p class="prose-p">Universal Mind Universal mind is the intelligence behind all living things. It is the life force and energy that is in all things. It is how an acorn knows how to grow into a tree, how the planets know how to stay in orbit, and how our bodies know how to heal itself when we get a cut. It is how our bodies know how to self-regulate and keep us alive without us having to manually do everything, like breathing and beating our heart.</p>
 <p class="prose-p">The intelligence that knows how to do all of this and is in all things is called universal mind. Many people call this God, infinite intelligence, the quantum field, source, and other names. This is where thoughts come from as well as everything else in the universe. All things are connected by universal mind.</p>
@@ -723,19 +843,19 @@
             <p class="prose-p">and aware of our thoughts. Without universal consciousness, we wouldn’t be able to experience anything. Our five senses would have no use because there’s nothing to be aware of. This is what brings things to life and makes them perceivable to us.</p>
 <p class="prose-p">Universal Thought. Universal thought is the raw material of the universe from which we can create from. It is our ability to think and create form from the energy of universal mind. It is the object we can perceive through consciousness.</p>
 <p class="prose-p">Without thought, we would have nothing to be aware of. Thought is like the DVD that contains all the information for us to be able to watch the movie on the TV. The TV and DVD player is like consciousness. It allows us to have a mechanism to bring the information on the DVD to life for us to be able to watch and experience the movie.</p>
-<p class="prose-p">The electricity that’s needed to power the DVD player and TV is like universal mind in the sense that it is the invisible energy slash force that connects and powers all things. It is the source from which everything can work and function.</p>
-<h4 class="section-subhead">Chapter 7.</h4>
-<p class="prose-p">If thinking is the root cause of suffering, how do we stop thinking? A crowded mind leaves no space for a peaceful heart. Christine Evangelou. Heaven and Hell.</p>
-<p class="prose-p">A Zen Parable. A tough, brawny samurai once approached Zen Master who was in deep meditation. Impatient and discourteous, the samurai demanded in his husky voice so accustomed to forceful yelling, tell me the nature of heaven and hell. The Zen Master opened his eyes, looked the samurai in the face, and replied with a certain scorn, why should I answer to a shabby, disgusting, despondent slob like you?</p>
-<p class="prose-p">A worm like you, do you think I should tell you anything? I can’t stand you. Get out of my sight. I have no time for silly questions.</p>
-<p class="prose-p">The samurai could not bear these insults. Consumed by rage, he drew his sword and raised it to sever the master’s head at once. Looking straight into the samurai’s eyes, the Zen Master tenderly declared, that’s hell. The samurai froze.</p>
-<p class="prose-p">He immediately understood that anger had him in its grip. His mind had just created his own hell. One filled with resentment, hatred, self-defense, and fury. He realized that he was so deep in his torment that he was ready to kill somebody.</p>
-<p class="prose-p">The samurai’s eyes filled with tears. Setting his sword aside, he put his palms together and obsequiously bowed in gratitude for this insight. The Zen Master gently acknowledged with a delicate smile, and that’s heaven. It’s not possible to just entirely stop thinking, but what we can do is reduce the time we spend thinking so that it gets smaller and smaller each day that passes.</p>
-<p class="prose-p">Eventually, we can get to the point where we spend most of our day not caught up in our thinking and live in a blissful state most of the time. When we say that we want to stop thinking, many people assume that we are trying to stop all thoughts in general. This isn’t what we’re trying to do. Now that you know the difference between thoughts and thinking, we are working on allowing thoughts to come and flow through us while minimizing the thinking about those thoughts that emerge.</p>
-<p class="prose-p">The most interesting and almost paradoxical thing about stopping our thinking is that we don’t have to do anything to minimize it other than be aware of it. By us becoming aware that we are thinking and that it is the root cause of all our suffering, it automatically makes us conscious to that fact and we become detached to it, allowing it to settle and pass. This takes almost no effort and is done through pure presence in the moment. Here’s an analogy from one of my mentors that illustrates this concept.</p>
-<p class="prose-p">Imagine I give you a bowl of cloudy, dirty, murky water. If I asked you, how would you make the water clear? How would you do it? Take 15 seconds to see what answers you come up with before moving on.</p>
-<p class="prose-p">Most people say something along the lines of filtering the water or even boiling it. What most people don’t realize is that if we let the bowl of dirty water sit for a period of time, we can see that the dirt begins to settle on its own in the water and after a while the water becomes clear on its own. This is how our minds also work. If we let our thinking sit without disturbing it by trying to filter or boil it, the thinking will settle down on its own and our minds will become free from thinking.</p>
-<p class="prose-p">The natural state of water is clear, and the natural state of our minds is also clear if we do not disturb it. If life begins to feel unclear, disorganized, stressful, and you’re not sure what to do next, you now know that it’s only because your thinking is stirring up the dirt, making your mind cloudy and difficult to see ahead.</p>
+<p class="prose-p">The electricity that’s needed to power the DVD player and TV is like universal mind in the sense that it is the invisible energy slash force that connects and powers all things. It is the source from which everything can work and function.
+
+#### Chapter 7. If thinking is the root cause of suffering, how do we stop thinking? A crowded mind leaves no space for a peaceful heart.</p>
+<p class="prose-p">Christine Evangelou. Heaven and Hell. A Zen Parable. A tough, brawny samurai once approached Zen Master who was in deep meditation.</p>
+<p class="prose-p">Impatient and discourteous, the samurai demanded in his husky voice so accustomed to forceful yelling, tell me the nature of heaven and hell. The Zen Master opened his eyes, looked the samurai in the face, and replied with a certain scorn, why should I answer to a shabby, disgusting, despondent slob like you? A worm like you, do you think I should tell you anything? I can’t stand you.</p>
+<p class="prose-p">Get out of my sight. I have no time for silly questions. The samurai could not bear these insults. Consumed by rage, he drew his sword and raised it to sever the master’s head at once.</p>
+<p class="prose-p">Looking straight into the samurai’s eyes, the Zen Master tenderly declared, that’s hell. The samurai froze. He immediately understood that anger had him in its grip. His mind had just created his own hell.</p>
+<p class="prose-p">One filled with resentment, hatred, self-defense, and fury. He realized that he was so deep in his torment that he was ready to kill somebody. The samurai’s eyes filled with tears. Setting his sword aside, he put his palms together and obsequiously bowed in gratitude for this insight.</p>
+<p class="prose-p">The Zen Master gently acknowledged with a delicate smile, and that’s heaven. It’s not possible to just entirely stop thinking, but what we can do is reduce the time we spend thinking so that it gets smaller and smaller each day that passes. Eventually, we can get to the point where we spend most of our day not caught up in our thinking and live in a blissful state most of the time. When we say that we want to stop thinking, many people assume that we are trying to stop all thoughts in general.</p>
+<p class="prose-p">This isn’t what we’re trying to do. Now that you know the difference between thoughts and thinking, we are working on allowing thoughts to come and flow through us while minimizing the thinking about those thoughts that emerge. The most interesting and almost paradoxical thing about stopping our thinking is that we don’t have to do anything to minimize it other than be aware of it. By us becoming aware that we are thinking and that it is the root cause of all our suffering, it automatically makes us conscious to that fact and we become detached to it, allowing it to settle and pass.</p>
+<p class="prose-p">This takes almost no effort and is done through pure presence in the moment. Here’s an analogy from one of my mentors that illustrates this concept. Imagine I give you a bowl of cloudy, dirty, murky water. If I asked you, how would you make the water clear?</p>
+<p class="prose-p">How would you do it? Take 15 seconds to see what answers you come up with before moving on. Most people say something along the lines of filtering the water or even boiling it. What most people don’t realize is that if we let the bowl of dirty water sit for a period of time, we can see that the dirt begins to settle on its own in the water and after a while the water becomes clear on its own.</p>
+<p class="prose-p">This is how our minds also work. If we let our thinking sit without disturbing it by trying to filter or boil it, the thinking will settle down on its own and our minds will become free from thinking. The natural state of water is clear, and the natural state of our minds is also clear if we do not disturb it. If life begins to feel unclear, disorganized, stressful, and you’re not sure what to do next, you now know that it’s only because your thinking is stirring up the dirt, making your mind cloudy and difficult to see ahead.</p>
           </div>
         </section>
         
@@ -752,8 +872,9 @@
 <p class="prose-p">We are spiritual, infinite beings having a physical, finite experience. Because of this, we are literally a living gateway between the human and the divine, so we will naturally oscillate between the two states of feeling anxious and stressed and joyful and peaceful. We cannot control or prevent the oscillation between thinking and non-thinking, but we can minimize the time spent in thinking and thus creating more moments where we do feel joyful, peaceful, passionate, and full of love. Though not being able to control when we begin to think can seem like we are cursed with an inevitable fate, it is not something to worry about because we can always return to the state of non-thinking, it is just a part of our beautiful human experience.</p>
 <p class="prose-p">What can give us true peace is knowing that we always have this state of pure peace, love, and fulfillment underneath any thinking that we may ever have at any given moment. That beautiful state we always want is something we can never lose, but only forget. But just because we forget it doesn’t mean it’s not there. Just like when it becomes night and the sun sets, we know that the sun is always there, we just can’t see it.</p>
 <p class="prose-p">If we thought when the sun sets that it may never come back, then understandably we will have a lot of anxious and fearful thoughts. The same is true for our state of being. We are ever really one moment away from remembering that we always have that infinite well of clarity, love, joy, peace, and fulfillment. We will forget sometimes, but when we do remember and realize that we are caught up in our thinking when we experience negative emotions, that alone will allow us to return back home to our natural beautiful state.</p>
-<p class="prose-p">All we have to do is remember it. Know that this is just our thinking and have peace knowing that the sun is not gone forever and that it will rise again soon enough. Knowing that understanding will allow us to appreciate the night time for its existence and role in the universe. From that, we can see how it is meant to be a part of our human experience and begin to cherish its beauty as much as the sun.</p>
-<h4 class="section-subhead">Chapter 8.</h4>
+<p class="prose-p">All we have to do is remember it. Know that this is just our thinking and have peace knowing that the sun is not gone forever and that it will rise again soon enough. Knowing that understanding will allow us to appreciate the night time for its existence and role in the universe. From that, we can see how it is meant to be a part of our human experience and begin to cherish its beauty as much as the sun.
+
+#### Chapter 8.</p>
 <p class="prose-p">How can we possibly thrive in the world without thinking? Anxiety is thought without control. Flow is control without thought. James Clear.</p>
 <p class="prose-p">Here’s a question that will guide you to an insight about this question. What thoughts are going through your head when you’re doing your absolute best work when you’re fully captivated and entranced by what you’re doing in the moment? Take about 15 seconds to wait for an answer to pop up before moving on. If you still haven’t had the insight or epiphany from the answer, here’s another question that may point you in the right direction.</p>
 <p class="prose-p">When you are loving what you do so much and are completely engrossed in it that you lose all sense of time and space, also known as when you’re in the state of complete flow, what thoughts are going through your mind as you’re in the state of flow in the moment? Pause here and wait for an answer to arise. Give it about 30 to 60 seconds for the insight to come in. When you are doing your best work and are in a total state of flow, where there is no separation between you or the work that you are doing, you are having no thoughts in the moment.</p>
@@ -772,16 +893,16 @@
 <p class="prose-p">This zone is the state of flow or the state of non-thinking. In Japanese culture, they have a beautiful word to describe this phenomenon, mushin. Here is the definition from Shatakan Times. Mushin is achieved when the mind is free from random thoughts, free of anger, free of fear, and particularly free of ego.</p>
 <p class="prose-p">It applies during combat and or other facets of life. When mushin is achieved during combat, there is an absence of loose or rambling thoughts. It leaves the practitioner free to act and react without hesitation. He reacts according to all of the study and training that has brought the karateka to this point, relying on not what you think should be your next move, but what on your trained instinctive subconscious reaction directs you to do.</p>
 <p class="prose-p">After practice, thinking hinders the performance of athletes and the same is true for everyone. We only hesitate, are reluctant, have doubts, insecurities, and fears only when we begin thinking and over-analyzing. We function and perform our best and embody our full potential the moment we enter the state of non-thinking. Without thinking, we are free from limitations of the ego and are able to create the most incredible things in the world.</p>
-<p class="prose-p">I am not asking you to adopt this belief, but to try and experience it for yourself so that you gain the insight to make it your own.</p>
-<h4 class="section-subhead">Chapter 9 If we stop thinking, what do we do about our goals, dreams, and ambitions?</h4>
-<p class="prose-p">There are no limitations to the mind except those we acknowledge. Napoleon Hill I think, therefore, I suffer. When I finally understood that thinking was the root cause of all my suffering, I was jumping up and down, exhilarated, relieved, and grateful for discovering the true reason for everything negative I’ve experienced in my life. This ecstasy was short-lived though because soon after the exuberance settled, the next thoughts popped into my mind.</p>
-<p class="prose-p">If thinking is the root cause of all my suffering and I just stop thinking, how do I live my life now? What about all of my goals, dreams, and ambitions? Do I stop wanting things in life? Will I just devolve into a couch potato and not do anything with my life anymore?</p>
-<p class="prose-p">In case you were wondering, yes, I am telepathic and yes, I can read your mind. Just kidding. But if you are wondering how I wrote the exact or very similar questions and know what thoughts you most likely have right now, it’s because I am human also, contrary to popular belief. All of us are going through similar journeys of awakening to our true selves, so rest assured that many people are having the exact same thoughts you are having right now as you come to see your true magnificence.</p>
-<p class="prose-p">Now back to the question of what we do about our goals, dreams, and ambitions if we stop thinking. As I pondered on these questions, an incredible amount of fear and anxiety began to surface because I thought that I would have to give it all up and become a monk in the middle of the mountains. I was definitely not ready to do that. As much as I wish I were that enlightened and detached from my life, I genuinely enjoyed being in the world, experienced the fullness of life with other people, even if a large portion of my life was filled with suffering.</p>
-<p class="prose-p">Here’s what I’ve discovered about what to do with our goals and dreams with this new understanding. As we’ve mentioned in previous chapters, there’s a difference between thoughts versus thinking. The source of thoughts and the source of thinking are different, and the source is what will dictate whether it causes suffering or not. Similarly, where our goals and dreams come from will determine whether we feel great about pursuing them or not.</p>
-<p class="prose-p">Like everything in this world, there is nothing inherently good or bad, only our making thinks it so. Goals, dreams, and ambitions are not good or bad, so it’s not really an either or situation, but more about where those goals are coming from. There are two sources of goals. Goals created out of inspiration, and goals created out of desperation.</p>
-<p class="prose-p">When goals are created out of desperation, we feel a large sense of scarcity and urgency. It feels heavy, like a burden, we may even feel daunted by the colossal task we’ve just committed ourselves to, imposter syndrome and self-doubt begin to manifest, and we always feel like we never have enough time for anything. We go about our life frantically, desperately searching for answers and ways that we can accomplish our goal faster, always looking externally, never feeling enough or that we can never get enough.</p>
-<p class="prose-p">Worst of all, if we happen to accomplish our goal within a few hours or days afterwards,</p>
+<p class="prose-p">I am not asking you to adopt this belief, but to try and experience it for yourself so that you gain the insight to make it your own.
+
+#### Chapter 9 If we stop thinking, what do we do about our goals, dreams, and ambitions? There are no limitations to the mind except those we acknowledge. Napoleon Hill I think, therefore, I suffer. When I finally understood that thinking was the root cause of all my suffering, I was jumping up and down, exhilarated, relieved, and grateful for discovering the true reason for everything negative I’ve experienced in my life.</p>
+<p class="prose-p">This ecstasy was short-lived though because soon after the exuberance settled, the next thoughts popped into my mind. If thinking is the root cause of all my suffering and I just stop thinking, how do I live my life now? What about all of my goals, dreams, and ambitions? Do I stop wanting things in life?</p>
+<p class="prose-p">Will I just devolve into a couch potato and not do anything with my life anymore? In case you were wondering, yes, I am telepathic and yes, I can read your mind. Just kidding. But if you are wondering how I wrote the exact or very similar questions and know what thoughts you most likely have right now, it’s because I am human also, contrary to popular belief.</p>
+<p class="prose-p">All of us are going through similar journeys of awakening to our true selves, so rest assured that many people are having the exact same thoughts you are having right now as you come to see your true magnificence. Now back to the question of what we do about our goals, dreams, and ambitions if we stop thinking. As I pondered on these questions, an incredible amount of fear and anxiety began to surface because I thought that I would have to give it all up and become a monk in the middle of the mountains.</p>
+<p class="prose-p">I was definitely not ready to do that. As much as I wish I were that enlightened and detached from my life, I genuinely enjoyed being in the world, experienced the fullness of life with other people, even if a large portion of my life was filled with suffering. Here’s what I’ve discovered about what to do with our goals and dreams with this new understanding. As we’ve mentioned in previous chapters, there’s a difference between thoughts versus thinking.</p>
+<p class="prose-p">The source of thoughts and the source of thinking are different, and the source is what will dictate whether it causes suffering or not. Similarly, where our goals and dreams come from will determine whether we feel great about pursuing them or not. Like everything in this world, there is nothing inherently good or bad, only our making thinks it so. Goals, dreams, and ambitions are not good or bad, so it’s not really an either or situation, but more about where those goals are coming from.</p>
+<p class="prose-p">There are two sources of goals. Goals created out of inspiration, and goals created out of desperation. When goals are created out of desperation, we feel a large sense of scarcity and urgency. It feels heavy, like a burden, we may even feel daunted by the colossal task we’ve just committed ourselves to, imposter syndrome and self-doubt begin to manifest, and we always feel like we never have enough time for anything.</p>
+<p class="prose-p">We go about our life frantically, desperately searching for answers and ways that we can accomplish our goal faster, always looking externally, never feeling enough or that we can never get enough. Worst of all, if we happen to accomplish our goal within a few hours or days afterwards,</p>
           </div>
         </section>
         
@@ -843,8 +964,9 @@
 <p class="prose-p">Think of the flow of inspiration to create like a river. The river always flows until man puts something there to block it like a dam. Then when the dam is there, we ask why there are so many fish dying, animals disappearing, and forests dwindling, when all we need to do is return the river back to its natural state and everything will be working perfectly fine the way nature intended it to. The same is true for our minds and our goals.</p>
 <p class="prose-p">We always dream, have big goals, and know what to do at all times when we’re tapped into our inner wisdom and inner intelligence, free from thinking. If we simply do not think about our thoughts, any sort of thoughts about dreams, goals, and desires that naturally arise are all from the divine, and that is how you create goals out of inspiration versus desperation. A question that greatly helps me to settle the thinking and tap into the limitless well of possibilities of what I can create is, if I had infinite money, already traveled the world, had no fear, and didn’t receive any recognition for what I do, what would I do, or what would I create.</p>
 <p class="prose-p">Whenever we ask questions, answers always arise. It is impossible for our brains to hear a question and not come up with a response. So when you ask yourself this question, whatever begins to come up for you without any manual thinking will be from the divine and from inspiration versus desperation. The way the question is worded is extremely important because it removes most of the thinking, fear, criticism, and external reasons of why you would want to do something, so it focuses your answer on what you truly want to create.</p>
-<p class="prose-p">Usually it’s for no other reason than you just wanting to create it because it’s fun, without any influences from the material world. Try asking the question and seeing what comes up for you. You’ll be surprised at what surface is, but don’t get caught up with your thinking when those true dreams of yours begin to be revealed to you. To a mind without the limits of thinking, anything is possible.</p>
-<h4 class="section-subhead">Chapter 10.</h4>
+<p class="prose-p">Usually it’s for no other reason than you just wanting to create it because it’s fun, without any influences from the material world. Try asking the question and seeing what comes up for you. You’ll be surprised at what surface is, but don’t get caught up with your thinking when those true dreams of yours begin to be revealed to you. To a mind without the limits of thinking, anything is possible.
+
+#### Chapter 10.</p>
 <p class="prose-p">Unconditional love and creation. The greatest power that mankind could ever achieve is the power of unconditional love. This is when people love with no limitations, conditions, or boundaries. Tony Green.</p>
 <p class="prose-p">Unconditional love. I learned about unconditional love from my extraordinary girlfriend McKenna. For most of my life, I always questioned everything. I had to know the reason behind why things were the way they were, otherwise I would go crazy.</p>
 <p class="prose-p">I couldn’t just experience life without knowing the meaning and reasoning behind everything. Naturally, as anyone would in a relationship, after dating her for about a year at the time, I asked McKenna why she loved me. She innocently replied that she didn’t know why she just did. Then she asked me why I loved her and I listed off dozens of different reasons why I loved her.</p>
@@ -883,8 +1005,9 @@
           </div>
           <div class="section-body">
             <p class="prose-p">or anything else. We create it simply because we want to create it. This is creation from abundance. When we create from this state, we already feel whole inside, and all of the love we want to feel is what we’re feeling in the moment.</p>
-<p class="prose-p">We can only pursue unconditional creation if we are in a state of non-thinking. Our brains will make us think that it is pointless to do something simply because we want to, but that is the secret. As soon as we do things for no other reason, we step into the realm of living our life unconditionally. This is when we experience flow, oneness, and a direct connection to the universe and God.</p>
-<h4 class="section-subhead">Chapter 11.</h4>
+<p class="prose-p">We can only pursue unconditional creation if we are in a state of non-thinking. Our brains will make us think that it is pointless to do something simply because we want to, but that is the secret. As soon as we do things for no other reason, we step into the realm of living our life unconditionally. This is when we experience flow, oneness, and a direct connection to the universe and God.
+
+#### Chapter 11.</p>
 <p class="prose-p">What do you do next after experiencing peace, joy, love, and fulfillment in the present? Don’t think. It complicates things. Just feel, and if it feels like home, then follow its path.</p>
 <p class="prose-p">R. M. Drake. If you’ve been applying the principles in the book, you’ve most likely been able to find peace through non-thinking.</p>
 <p class="prose-p">If not, I highly encourage you to remember that all of our negative feelings come from our thinking. All you have to do is become aware of that fact, which will settle the thinking just like the debris settling in dirty water. Once you see that it is just your thinking and that there’s nothing to be afraid of, then you will experience true peace in your life in the present. Once you have been able to experience peace, you might be unsure as to what to do next.</p>
@@ -906,22 +1029,23 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">your new life full of peace, joy, and love.</p>
-<h4 class="section-subhead">Chapter 12.</h4>
-<p class="prose-p">Nothing is either good or bad. There is nothing either good or bad, but thinking makes it so. William Shakespeare. Here’s an analogy that helps put this into perspective.</p>
-<p class="prose-p">On a piano, there are 88 keys. When we look at a piano, we don’t point out specific keys for no reason and say that that key is wrong. We only think a specific key is wrong if we think someone is playing a specific song and hits a key that isn’t in the song. Inherently, the piano has no wrong keys though.</p>
-<p class="prose-p">There are only keys and notes that sound more or less pleasant when played consecutively. Just like how there are no wrong keys on the piano, there are no wrong decisions in life. There’s only thinking that gives us pleasant or not so pleasant feelings. When we put things into a bucket of right or wrong, good or bad, this creates duality and conditions in our lives which determines how we feel.</p>
-<p class="prose-p">For instance, if we believe that opposing political parties are wrong or bad, this can cause animosity between us and make us feel a concoction of negative emotions. If, on the other hand, we see different political parties in the same way as there are different keys on a piano, and how there are no inherently wrong parties, then we open ourselves up to experience love, joy, and peace in the moment. We begin to see alternative perspectives that we haven’t seen before and have an opportunity to deepen our understanding of the nature of life.</p>
-<p class="prose-p">It’s like if we are hiking on a mountain and stop at specific points to look at the beautiful view. There are no wrong spots that we can stop at, stand in, and take in the magnificence of nature, but by being open to all possible spots we can stand in, we can see the view from different vantage points we haven’t seen before. Instead of looking for right or wrong, good or bad in the world, look for truth. Instead of trying to prove we are right and they are wrong, or how they’re better and we’re worse, look for the truth in what’s in front of you.</p>
-<p class="prose-p">I would only caution this by saying that many people believe what they think is the truth. For the most part, without this deeper understanding of life, most of what we think is not truth, even though it may seem like it. True truth is not subjective. If it is true for one person, but not for another, then it is not universal truth.</p>
-<p class="prose-p">Look for what is universally true for every single conscious human being on the planet, no matter who they are, where they’re from, and what their background is. That is the true truth, and that is where you’ll find everything you’ve been searching for. Remember that the only place you can find this is deep within your being, so don’t try to go looking for it outside of you. If you’re confronted with something that may stir up negative emotions, go within yourself to find the source of universal truth deep within your soul.</p>
-<p class="prose-p">If you try to look for the answers outside or try to dig into external reasons for the root of why you feel this way, you’ll be looking for the rest of eternity and will never find it. Negative emotions are an indication of misunderstanding. When we are gripped by negative emotions, it means that we believe what we are thinking. It is in this moment that we simply forgot where our experience comes from, and that our thinking is the cause of our negative emotions.</p>
-<p class="prose-p">All you have to do is remember that thinking is the root cause of how we’re feeling. Once this is brought to your awareness, don’t fight the thinking. Just become aware that it is your thinking that’s causing the ill feelings, welcome it with love, and it will slowly dissipate before your eyes. Not too long after, you’ll return to your natural state of peace, love, and joy.</p>
-<h4 class="section-subhead">Chapter 13.</h4>
-<p class="prose-p">How do you know what to do without thinking? The intuitive mind is a sacred gift, and the rational mind is a faithful servant. We have created a society that honors the servant and has forgotten the gift. Albert Einstein.</p>
-<p class="prose-p">In the previous chapter, we discussed how there is no right or wrong in this world. This chapter will build on the last to deepen our understanding and illuminate how to know what to do without thinking. Although there are no right or wrong decisions we can make, just like how there are no wrong keys on a piano, there are decisions or keys that are more pleasant than others depending on the context. Knowing that there is no right or wrong relieves us from quite a bit of pressure to choose the right one.</p>
-<p class="prose-p">When we make decisions, we want to rely on nonthinking. When we try to think, analyze, create pros and cons lists, and ask everyone, including our pets, for advice, it causes anxiety and frustration until we make that decision. Most of the time, we already know deep down what to do in any specific situation. This is often referred to as your gut feeling, intuition, or inner wisdom.</p>
-<p class="prose-p">What we do is try to confirm our intuition with the external world,</p>
+            <p class="prose-p">your new life full of peace, joy, and love.
+
+#### Chapter 12. Nothing is either good or bad. There is nothing either good or bad, but thinking makes it so. William Shakespeare.</p>
+<p class="prose-p">Here’s an analogy that helps put this into perspective. On a piano, there are 88 keys. When we look at a piano, we don’t point out specific keys for no reason and say that that key is wrong. We only think a specific key is wrong if we think someone is playing a specific song and hits a key that isn’t in the song.</p>
+<p class="prose-p">Inherently, the piano has no wrong keys though. There are only keys and notes that sound more or less pleasant when played consecutively. Just like how there are no wrong keys on the piano, there are no wrong decisions in life. There’s only thinking that gives us pleasant or not so pleasant feelings.</p>
+<p class="prose-p">When we put things into a bucket of right or wrong, good or bad, this creates duality and conditions in our lives which determines how we feel. For instance, if we believe that opposing political parties are wrong or bad, this can cause animosity between us and make us feel a concoction of negative emotions. If, on the other hand, we see different political parties in the same way as there are different keys on a piano, and how there are no inherently wrong parties, then we open ourselves up to experience love, joy, and peace in the moment.</p>
+<p class="prose-p">We begin to see alternative perspectives that we haven’t seen before and have an opportunity to deepen our understanding of the nature of life. It’s like if we are hiking on a mountain and stop at specific points to look at the beautiful view. There are no wrong spots that we can stop at, stand in, and take in the magnificence of nature, but by being open to all possible spots we can stand in, we can see the view from different vantage points we haven’t seen before.</p>
+<p class="prose-p">Instead of looking for right or wrong, good or bad in the world, look for truth. Instead of trying to prove we are right and they are wrong, or how they’re better and we’re worse, look for the truth in what’s in front of you. I would only caution this by saying that many people believe what they think is the truth. For the most part, without this deeper understanding of life, most of what we think is not truth, even though it may seem like it.</p>
+<p class="prose-p">True truth is not subjective. If it is true for one person, but not for another, then it is not universal truth. Look for what is universally true for every single conscious human being on the planet, no matter who they are, where they’re from, and what their background is. That is the true truth, and that is where you’ll find everything you’ve been searching for.</p>
+<p class="prose-p">Remember that the only place you can find this is deep within your being, so don’t try to go looking for it outside of you. If you’re confronted with something that may stir up negative emotions, go within yourself to find the source of universal truth deep within your soul. If you try to look for the answers outside or try to dig into external reasons for the root of why you feel this way, you’ll be looking for the rest of eternity and will never find it.</p>
+<p class="prose-p">Negative emotions are an indication of misunderstanding. When we are gripped by negative emotions, it means that we believe what we are thinking. It is in this moment that we simply forgot where our experience comes from, and that our thinking is the cause of our negative emotions. All you have to do is remember that thinking is the root cause of how we’re feeling.</p>
+<p class="prose-p">Once this is brought to your awareness, don’t fight the thinking. Just become aware that it is your thinking that’s causing the ill feelings, welcome it with love, and it will slowly dissipate before your eyes. Not too long after, you’ll return to your natural state of peace, love, and joy.
+
+#### Chapter 13. How do you know what to do without thinking?</p>
+<p class="prose-p">The intuitive mind is a sacred gift, and the rational mind is a faithful servant. We have created a society that honors the servant and has forgotten the gift. Albert Einstein. In the previous chapter, we discussed how there is no right or wrong in this world.</p>
+<p class="prose-p">This chapter will build on the last to deepen our understanding and illuminate how to know what to do without thinking. Although there are no right or wrong decisions we can make, just like how there are no wrong keys on a piano, there are decisions or keys that are more pleasant than others depending on the context. Knowing that there is no right or wrong relieves us from quite a bit of pressure to choose the right one. When we make decisions, we want to rely on nonthinking.</p>
+<p class="prose-p">When we try to think, analyze, create pros and cons lists, and ask everyone, including our pets, for advice, it causes anxiety and frustration until we make that decision. Most of the time, we already know deep down what to do in any specific situation. This is often referred to as your gut feeling, intuition, or inner wisdom. What we do is try to confirm our intuition with the external world,</p>
           </div>
         </section>
         
@@ -941,11 +1065,12 @@
 <p class="prose-p">For anything in life, you most likely already know deep down what to do, but are afraid of doing it or don’t believe that you are good enough to do it. The first step is realizing that you already know what to do, you just think you don’t because of fear or self-doubt. If you don’t have any fear or self-doubt about the situation and still see that you don’t know what to do, the next step is to trust your inner wisdom, infinite intelligence, that it will give you the answers you need.</p>
 <p class="prose-p">We have the ability to access an infinite number of thoughts, so there’s definitely no shortage of ideas on what you can do in any given moment. The only thing that is stopping us from accessing this abundance of knowledge is our own thinking. Henry Ford once said, whether you think you can or can’t, you’re right. If we walk around our lives thinking we can’t, we immediately block ourselves from the limitless possibilities of what we can do in any given moment in time.</p>
 <p class="prose-p">But if we release the break in our mind and realize that it’s just our thinking holding us back, we automatically return to our natural state of abundance and unlimited possibilities and in that moment we can receive any answer we need on what to do. In short, know that you already know and if you don’t know, know that you can know what you need to know. If you know that you can always know, then what you need to know will always come to you.</p>
-<p class="prose-p">Trust in your own intuition and inner wisdom. It has always and will always be there for you when you need it as long as you trust that it will.</p>
-<h4 class="section-subhead">Chapter 14.</h4>
-<p class="prose-p">How to follow your intuition. Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.</p>
-<p class="prose-p">Steve Jobs. In a previous chapter we talked about how we don’t need to think in order to thrive in the world and that the way that we do thrive is to remove the thinking that we have going on. The state of flow is a state of pure oneness and a direct connection to everything around us. there is no separation when we are in that state, we can also say that it is a state where we are in direct connection and alignment with God, the universe, and infinite intelligence.</p>
-<p class="prose-p">What thinking does is sever this connection we have with the divine, causing us to feel stress, frustration, anger, resentment, depression, and all of these negative emotions many of us feel on a daily basis. This is why some religions describe hell as the complete separation from God. From now on, for simplicity’s sake, I’ll be using the term non-thinking instead of flow, but they really are synonymous when I use them in this book. This state of non-thinking also means a direct connection to infinite intelligence.</p>
+<p class="prose-p">Trust in your own intuition and inner wisdom. It has always and will always be there for you when you need it as long as you trust that it will.
+
+#### Chapter 14. How to follow your intuition. Have the courage to follow your heart and intuition.</p>
+<p class="prose-p">They somehow already know what you truly want to become. Everything else is secondary. Steve Jobs. In a previous chapter we talked about how we don’t need to think in order to thrive in the world and that the way that we do thrive is to remove the thinking that we have going on.</p>
+<p class="prose-p">The state of flow is a state of pure oneness and a direct connection to everything around us. there is no separation when we are in that state, we can also say that it is a state where we are in direct connection and alignment with God, the universe, and infinite intelligence. What thinking does is sever this connection we have with the divine, causing us to feel stress, frustration, anger, resentment, depression, and all of these negative emotions many of us feel on a daily basis.</p>
+<p class="prose-p">This is why some religions describe hell as the complete separation from God. From now on, for simplicity’s sake, I’ll be using the term non-thinking instead of flow, but they really are synonymous when I use them in this book. This state of non-thinking also means a direct connection to infinite intelligence.</p>
           </div>
         </section>
         
@@ -1005,14 +1130,15 @@
 <p class="prose-p">If we think, we immediately get ejected out of the space and enter a state of anxiety, worry, and suffering. Our thinking will try to predict what might happen based on the past. This is why most people get more of the same of what they’ve always gotten. They try to use their limited personal mind to create something they have never experienced before, innocently not realizing that they must step into the unknown by entering a state of non-thinking and listening to their intuition.</p>
 <p class="prose-p">We can only ever create something we have never experienced in the realm of infinite possibilities, but the only way to make that happen is to go where we haven’t gone before, which is the unknown. In summary, your intuition will always know what you need to do in the present moment, but the only way to access it is by getting into a state of non-thinking. Your personal mind will freak out because you’re stepping into this space of infinite possibilities, the unknown, but if you remember that it is just thinking that is making you feel fear, the fearful thinking will fall away and the courage you need to act on your intuition will naturally surface.</p>
 <p class="prose-p">It is in this moment that you must have faith in your inner wisdom, God, to guide you through life even when you don’t know what will happen next, but that’s the adventure and joy in it. The unknown is also the only way to manifest what you want in life if you don’t already have it. You have to do what you haven’t done in order to get what you don’t have. When you’re operating from intuition, it’s not like you’re going to feel fear all of the time.</p>
-<p class="prose-p">The fear is only present as long as your thinking is revolving around fear. Once you acknowledge the fear and understand that it’s only your thinking that’s causing those feelings, the illusion will fall apart and you’ll fall back into peace, joy, and pure love. This is the space you want to stay in, which will allow you to create the positive feelings that are the prerequisite to manifesting all you could possibly imagine for yourself.</p>
-<h4 class="section-subhead">Chapter 15, creating space for miracles.</h4>
-<p class="prose-p">Today I make space for miracles. I recognize that it’s not how big a miracle it is that’s important, but how much room I create for it. Kyle Gray. The story of the Zen master and a scholar.</p>
-<p class="prose-p">Empty your cup. Once upon a time, there was a wise Zen master. People traveled from far away to seek his help. In return, he would teach them and show them the way to enlightenment.</p>
-<p class="prose-p">On this particular day, a scholar came to visit the master for advice. I have come to ask you to teach me about Zen, the scholar said. Soon it became obvious that the scholar was full of his own opinions and knowledge. He interrupted the master repeatedly with his own stories and failed to listen to what the master had to say.</p>
-<p class="prose-p">The master calmly suggested that they should have tea. So the master gently poured his guest a cup. The cup was filled, yet he kept pouring until the cup overflowed onto the table, onto the floor, and finally onto the scholars&#x27; robes. The scholar cried, stop, the cup is full already.</p>
-<p class="prose-p">Can’t you see? Exactly, the Zen master applied with a smile. You are like this cup, so full of ideas that nothing more will fit in. Come back to me with an empty cup.</p>
-<p class="prose-p">It is ironic how much can be written about nothing. That’s what space is. Nothing. When we study the universe in quantum physics, we realize that everything comes from nothing.</p>
+<p class="prose-p">The fear is only present as long as your thinking is revolving around fear. Once you acknowledge the fear and understand that it’s only your thinking that’s causing those feelings, the illusion will fall apart and you’ll fall back into peace, joy, and pure love. This is the space you want to stay in, which will allow you to create the positive feelings that are the prerequisite to manifesting all you could possibly imagine for yourself.
+
+#### Chapter 15, creating space for miracles. Today I make space for miracles.</p>
+<p class="prose-p">I recognize that it’s not how big a miracle it is that’s important, but how much room I create for it. Kyle Gray. The story of the Zen master and a scholar. Empty your cup.</p>
+<p class="prose-p">Once upon a time, there was a wise Zen master. People traveled from far away to seek his help. In return, he would teach them and show them the way to enlightenment. On this particular day, a scholar came to visit the master for advice.</p>
+<p class="prose-p">I have come to ask you to teach me about Zen, the scholar said. Soon it became obvious that the scholar was full of his own opinions and knowledge. He interrupted the master repeatedly with his own stories and failed to listen to what the master had to say. The master calmly suggested that they should have tea.</p>
+<p class="prose-p">So the master gently poured his guest a cup. The cup was filled, yet he kept pouring until the cup overflowed onto the table, onto the floor, and finally onto the scholars&#x27; robes. The scholar cried, stop, the cup is full already. Can’t you see?</p>
+<p class="prose-p">Exactly, the Zen master applied with a smile. You are like this cup, so full of ideas that nothing more will fit in. Come back to me with an empty cup. It is ironic how much can be written about nothing.</p>
+<p class="prose-p">That’s what space is. Nothing. When we study the universe in quantum physics, we realize that everything comes from nothing.</p>
 <p class="prose-p">Therefore, the great spiritual masters call this the great nothingness. For there to be creation, there must first be space. The same is true for our own minds. If you want something new to be created, such as new thoughts, then you must first create space so that you can receive new ideas that can change your life.</p>
 <p class="prose-p">Just like the tea cup, if your mind is completely full of old thinking, it is impossible to have any new thoughts come into your mind to create the change you seek. The way you can create this space is through non-thinking. As soon as we stop our strenuous efforts to think, we immediately create space where new thoughts and ideas can enter our minds. Questions that challenge our current way of thinking are also a great way to create space in our minds.</p>
 <p class="prose-p">All the magic happens in this space of nothingness. For instance, great athletes go through intense periods of training, but the best athletes know that they need an equally intense period of rest afterwards to stay in peak performance. It is during this rest period that they recover, build muscle, and become stronger. This space they create for themselves through rest is where everything they wanted from the workout manifests.</p>
@@ -1053,12 +1179,12 @@
           <div class="section-body">
             <p class="prose-p">Your mind is the greatest salesman and knows exactly what to say to you to bring you back into its vicious cycle of destructive thinking. It is in this moment that you have the choice to have faith in the unknown and to stay in the feeling of happiness, peace, and love, or to go back to the old patterns of familiar pain in psychological suffering. We can either choose to be free and happy in the unknown, or to be confined and suffer in the familiar.</p>
 <p class="prose-p">If you do fall back into thinking, it is completely okay. Do not beat yourself up about it. Don’t feel guilty that it happened. There’s no need to punish yourself, because that will only perpetuate the thinking.</p>
-<p class="prose-p">Know that it is absolutely human to think. Once you catch yourself and see that it is your thinking that’s causing your suffering, that’s all you need to do in order to bring yourself to a state of peace, happiness, and love again. The transition can happen painlessly and effortlessly if you let it.</p>
-<h4 class="section-subhead">Chapter 17 Now what?</h4>
-<p class="prose-p">There will come a time when you believe everything is finished, and that will be the beginning. Louis Lamour Although this is the end of the book, it is just the beginning of a new life for you. You are only ever one thought away from peace, love, and joy, which come from a state of non-thinking. Remember this and keep it close to your heart, because it is all the hope you need when life gets inevitably tough.</p>
-<p class="prose-p">In the beginning, I promised you that you will not be the same person as you were before you read this book. If you begin reading this book with the intention of having an open and willing mind, then you have already received numerous insights that have completely changed the way you look at life and thus you are not the same person as you were before. Once you see something new from an insight, you cannot unsee it. Once your consciousness expands, it cannot contract again.</p>
-<p class="prose-p">We may forget from time to time and cause ourselves to suffer when we begin thinking again, but as soon as we remember that, we immediately realize that we are the ever-expanding awareness of life itself and find love, peace, and joy in the present. If this seems like it is too simple and that it can’t be all there is, that is just your mind causing you to think again.</p>
-<p class="prose-p">The truth is simple and will always be. Anything that makes something complex and intricate is only taking you further away from the truth.</p>
+<p class="prose-p">Know that it is absolutely human to think. Once you catch yourself and see that it is your thinking that’s causing your suffering, that’s all you need to do in order to bring yourself to a state of peace, happiness, and love again. The transition can happen painlessly and effortlessly if you let it.
+
+#### Chapter 17 Now what? There will come a time when you believe everything is finished, and that will be the beginning.</p>
+<p class="prose-p">Louis Lamour Although this is the end of the book, it is just the beginning of a new life for you. You are only ever one thought away from peace, love, and joy, which come from a state of non-thinking. Remember this and keep it close to your heart, because it is all the hope you need when life gets inevitably tough. In the beginning, I promised you that you will not be the same person as you were before you read this book.</p>
+<p class="prose-p">If you begin reading this book with the intention of having an open and willing mind, then you have already received numerous insights that have completely changed the way you look at life and thus you are not the same person as you were before. Once you see something new from an insight, you cannot unsee it. Once your consciousness expands, it cannot contract again. We may forget from time to time and cause ourselves to suffer when we begin thinking again, but as soon as we remember that, we immediately realize that we are the ever-expanding awareness of life itself and find love, peace, and joy in the present.</p>
+<p class="prose-p">If this seems like it is too simple and that it can’t be all there is, that is just your mind causing you to think again. The truth is simple and will always be. Anything that makes something complex and intricate is only taking you further away from the truth.</p>
 <p class="prose-p">The truth is not something you think, but something that you know and feel deep within your soul. Listen to that inner wisdom inside of you that knows all of this. Let it guide you through your life. We are the most fulfilled when we listen to our soul.</p>
 <p class="prose-p">The world will continuously advertise to us that we are not enough, that we are missing something or don’t have everything we want. People will constantly bombard you with their own opinions, judgments, and advice. Know that they are innocently caught up in their thinking and thank them for caring, but do not fall into the illusion that you need any of that. Everything you could possibly ever want and need is already inside of you.</p>
 <p class="prose-p">You are already all the love, joy, peace, and fulfillment you have ever wanted. It is only when we forget that fact and get caught up in our thinking that we do not see it. Continue to live in this state of pure peace and let go of any thinking that may pop up in your mind. The longer you can stay in this space, the more miracles will show up in your life.</p>
@@ -1345,6 +1471,204 @@
 
     document.getElementById('scroll-top-btn').addEventListener('click', () => {
       window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    // ==========================================
+    // IN-PAGE CONTENT SEARCH (單書全文搜尋)
+    // ==========================================
+    const searchBar = document.getElementById('inpage-search-bar');
+    const searchInput = document.getElementById('inpage-search-input');
+    const searchCount = document.getElementById('inpage-search-count');
+    const searchDrawer = document.getElementById('inpage-search-drawer');
+    const searchDrawerList = document.getElementById('inpage-search-drawer-list');
+    const searchToggleBtn = document.getElementById('search-toggle-btn');
+    const searchClearBtn = document.getElementById('inpage-search-clear');
+    const searchPrevBtn = document.getElementById('inpage-search-prev');
+    const searchNextBtn = document.getElementById('inpage-search-next');
+    const searchCloseBtn = document.getElementById('inpage-search-close');
+    const drawerCloseBtn = document.getElementById('inpage-drawer-close');
+
+    let searchMatches = [];
+    let currentMatchIdx = -1;
+
+    // Cache original innerHTML for clean resets
+    const rawParagraphs = Array.from(document.querySelectorAll('.section-body p')).map(p => ({
+      el: p,
+      rawHtml: p.innerHTML,
+      rawText: p.textContent
+    }));
+
+    function openSearch() {
+      searchBar.classList.add('active');
+      searchInput.focus();
+      searchInput.select();
+      if (searchInput.value.trim()) {
+        performSearch(searchInput.value.trim());
+      }
+    }
+
+    function closeSearch() {
+      searchBar.classList.remove('active');
+      searchDrawer.classList.remove('active');
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchCount.textContent = '0 / 0';
+    }
+
+    function clearHighlights() {
+      rawParagraphs.forEach(item => {
+        item.el.innerHTML = item.rawHtml;
+      });
+    }
+
+    function escapeRegex(str) {
+      return str.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+    }
+
+    function escapeHtml(str) {
+      return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+
+    function performSearch(query) {
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchDrawerList.innerHTML = '';
+
+      if (!query || query.trim().length === 0) {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+        return;
+      }
+
+      query = query.trim();
+      const qLower = query.toLowerCase();
+      const regex = new RegExp(`(${escapeRegex(query)})`, 'gi');
+
+      rawParagraphs.forEach((item, pIdx) => {
+        if (item.rawText.toLowerCase().includes(qLower)) {
+          const sec = item.el.closest('.transcript-section');
+          const secTime = sec ? (sec.querySelector('.section-time')?.textContent || '') : '';
+          const secId = sec ? sec.id : '';
+
+          // Apply highlight
+          item.el.innerHTML = item.rawHtml.replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const marks = Array.from(item.el.querySelectorAll('mark.search-highlight'));
+          marks.forEach(mark => {
+            searchMatches.push({
+              mark,
+              el: item.el,
+              secTime,
+              secId
+            });
+          });
+
+          // Snippet creation
+          const matchPos = item.rawText.toLowerCase().indexOf(qLower);
+          const start = Math.max(0, matchPos - 30);
+          const end = Math.min(item.rawText.length, matchPos + query.length + 50);
+          const snippetText = item.rawText.slice(start, end);
+          const snippetHtml = escapeHtml(snippetText).replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const card = document.createElement('div');
+          card.className = 'search-result-item';
+          card.innerHTML = `
+            <div class="search-result-time">${secTime}</div>
+            <div class="search-result-snippet">...${snippetHtml}...</div>
+          `;
+          card.addEventListener('click', () => {
+            const targetIdx = searchMatches.findIndex(m => m.mark === marks[0]);
+            if (targetIdx >= 0) goToMatch(targetIdx);
+          });
+          searchDrawerList.appendChild(card);
+        }
+      });
+
+      if (searchMatches.length > 0) {
+        searchDrawer.classList.add('active');
+        goToMatch(0);
+      } else {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+      }
+    }
+
+    function goToMatch(idx) {
+      if (idx < 0 || idx >= searchMatches.length) return;
+      if (currentMatchIdx >= 0 && searchMatches[currentMatchIdx]) {
+        searchMatches[currentMatchIdx].mark.classList.remove('active-match');
+      }
+      currentMatchIdx = idx;
+      const target = searchMatches[currentMatchIdx];
+      target.mark.classList.add('active-match');
+      searchCount.textContent = `${currentMatchIdx + 1} / ${searchMatches.length}`;
+
+      // Highlight active drawer item
+      const drawerItems = searchDrawerList.querySelectorAll('.search-result-item');
+      drawerItems.forEach(di => di.classList.remove('active'));
+
+      target.mark.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+
+    searchToggleBtn.addEventListener('click', () => {
+      if (searchBar.classList.contains('active')) {
+        closeSearch();
+      } else {
+        openSearch();
+      }
+    });
+
+    let debounceTimer;
+    searchInput.addEventListener('input', (e) => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => {
+        performSearch(e.target.value);
+      }, 200);
+    });
+
+    searchClearBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      performSearch('');
+      searchInput.focus();
+    });
+
+    searchNextBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const nextIdx = (currentMatchIdx + 1) % searchMatches.length;
+      goToMatch(nextIdx);
+    });
+
+    searchPrevBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const prevIdx = (currentMatchIdx - 1 + searchMatches.length) % searchMatches.length;
+      goToMatch(prevIdx);
+    });
+
+    searchInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        if (e.shiftKey) {
+          searchPrevBtn.click();
+        } else {
+          searchNextBtn.click();
+        }
+      } else if (e.key === 'Escape') {
+        closeSearch();
+      }
+    });
+
+    searchCloseBtn.addEventListener('click', closeSearch);
+    drawerCloseBtn.addEventListener('click', () => searchDrawer.classList.remove('active'));
+
+    window.addEventListener('keydown', (e) => {
+      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'f') {
+        e.preventDefault();
+        openSearch();
+      } else if (e.key === 'Escape') {
+        if (searchBar.classList.contains('active')) closeSearch();
+      }
     });
   </script>
 </body>

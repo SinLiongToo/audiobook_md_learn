@@ -103,31 +103,29 @@
 
 Hi. Welcome to my channel, please like and subscribe to my channel for more videos like this audiobook. Let’s get started, how to win friends and influence.
 
-#### Part 1.
+#### Part 1. Fundamental techniques in handling people.
 
-Fundamental techniques in handling people. If you want to gather honey, don’t kick over the beehive. On May 7, 1931, the most sensational manhunt New York City had ever known had come to its climax. After weeks of search, two-gun Crowley, the killer, the gunman who didn’t smoke or drink, was at bay, trapped in his sweetheart’s apartment on West End Avenue.
+If you want to gather honey, don’t kick over the beehive. On May 7, 1931, the most sensational manhunt New York City had ever known had come to its climax. After weeks of search, two-gun Crowley, the killer, the gunman who didn’t smoke or drink, was at bay, trapped in his sweetheart’s apartment on West End Avenue. One hundred and fifty policemen and detectives laid siege to his top floor hideaway.
 
-One hundred and fifty policemen and detectives laid siege to his top floor hideaway. They chopped holes in the roof, they tried to smoke out Crowley, the cop killer, with tear gas. Then they mounted their machine guns on surrounding buildings, and for more than an hour one of New York’s fine residential areas reverberated with the crack of pistol fire and the rut tat tat of machine guns. Crowley, crouching behind an overstuffed chair, fired incessantly at the police.
+They chopped holes in the roof, they tried to smoke out Crowley, the cop killer, with tear gas. Then they mounted their machine guns on surrounding buildings, and for more than an hour one of New York’s fine residential areas reverberated with the crack of pistol fire and the rut tat tat of machine guns. Crowley, crouching behind an overstuffed chair, fired incessantly at the police. Ten thousand excited people watched the battle.
 
-Ten thousand excited people watched the battle. Nothing like it ever been seen before on the sidewalks of New York. When Crowley was captured, Police Commissioner E. P.
+Nothing like it ever been seen before on the sidewalks of New York. When Crowley was captured, Police Commissioner E. P. Mulroney declared that the two-gun Desperado was one of the most dangerous criminals ever encountered in the history of New York.
 
-Mulroney declared that the two-gun Desperado was one of the most dangerous criminals ever encountered in the history of New York. He will kill, said the commissioner, at the drop of a feather. But how did two-gun Crowley regard himself? We know, because while the police were firing into his apartment, he wrote a letter addressed, to whom it may concern, and, as he wrote, the blood flowing from his wounds left a crimson trail on the paper.
+He will kill, said the commissioner, at the drop of a feather. But how did two-gun Crowley regard himself? We know, because while the police were firing into his apartment, he wrote a letter addressed, to whom it may concern, and, as he wrote, the blood flowing from his wounds left a crimson trail on the paper. In this letter Crowley said, under my coat is a weary heart, but a kind one, one that would do nobody any harm.
 
-In this letter Crowley said, under my coat is a weary heart, but a kind one, one that would do nobody any harm. A short time before this, Crowley had been having a necking party with his girlfriend on a country road out on Long Island.
+A short time before this, Crowley had been having a necking party with his girlfriend on a country road out on Long Island. Suddenly a policeman walked up to the car and said, let me see your license. Without saying a word, Crowley drew his gun and cut the policeman down with a shower of lead. As the dying officer fell, Crowley leaped out of the car, grabbed the officer’s revolver, and fired another bullet into the prostrate body.
 
-Suddenly a policeman walked up to the car and said, let me see your license. Without saying a word, Crowley drew his gun and cut the policeman down with a shower of lead. As the dying officer fell, Crowley leaped out of the car, grabbed the officer’s revolver, and fired another bullet into the prostrate body. And that was the killer who said, under my coat is a weary heart, but a kind one, one that would do nobody any harm.
+And that was the killer who said, under my coat is a weary heart, but a kind one, one that would do nobody any harm. Crowley was sentenced to the electric chair. When he arrived at the death house in Sing Sing, did he say, this is what I get for killing people? No, he said, this is what I get for defending myself.
 
-Crowley was sentenced to the electric chair. When he arrived at the death house in Sing Sing, did he say, this is what I get for killing people? No, he said, this is what I get for defending myself. The point of the story is this, two-gun, Crowley didn’t blame himself for anything.
+The point of the story is this, two-gun, Crowley didn’t blame himself for anything. Is that an unusual attitude among criminals? If you think so, listen to this. I have spent the best years of my life giving people the lighter pleasures, helping them have a good time, and all I get is abuse, the existence of a hunted man.
 
-Is that an unusual attitude among criminals? If you think so, listen to this. I have spent the best years of my life giving people the lighter pleasures, helping them have a good time, and all I get is abuse, the existence of a hunted man. That’s Al Capone speaking.
+That’s Al Capone speaking. Yes, America’s most notorious public enemy, the most sinister gang leader who ever shot up Chicago. Capone didn’t condemn himself. He actually regarded himself as a public benefactor, an unappreciated and misunderstood public benefactor.
 
-Yes, America’s most notorious public enemy, the most sinister gang leader who ever shot up Chicago. Capone didn’t condemn himself. He actually regarded himself as a public benefactor, an unappreciated and misunderstood public benefactor. And so did Dutch Schultz before he crumpled up under gangster bullets in Newark.
+And so did Dutch Schultz before he crumpled up under gangster bullets in Newark. Dutch Schultz, one of New York’s most notorious rats, said in a newspaper interview that he was a public benefactor. And he believed it. I have had some interesting correspondence with Lewis Laws, who was warden of New York’s infamous Sing Sing prison for many years, on this subject, and he declared that few of the criminals in Sing Sing regard themselves as bad men.
 
-Dutch Schultz, one of New York’s most notorious rats, said in a newspaper interview that he was a public benefactor. And he believed it. I have had some interesting correspondence with Lewis Laws, who was warden of New York’s infamous Sing Sing prison for many years, on this subject, and he declared that few of the criminals in Sing Sing regard themselves as bad men. They are just as human as you and I.
+They are just as human as you and I. So they rationalize, they explain. They can tell you why they had to crack a safe or be quick on the trigger finger. Most of them attempt by a form of reasoning, fallacious or logical, to justify their anti-social acts even to themselves, consequently stoutly maintaining that they should never have been imprisoned at all.
 
-So they rationalize, they explain. They can tell you why they had to crack a safe or be quick on the trigger finger. Most of them attempt by a form of reasoning, fallacious or logical, to justify their anti-social acts even to themselves, consequently stoutly maintaining that they should never have been imprisoned at all. If Al Capone, Two Gun, Crowley, Dutch Schultz, and the desperate men and women behind prison walls don’t blame themselves for anything, what about the people with whom you and I come in contact?
-
-John Wanamaker, founder of the stores that bear his name, once confessed, I learned thirty years ago that it is foolish to scold. I have enough trouble overcoming my own limitations without fretting over the fact that God has not seen fit to distribute evenly the gift of intelligence. Wanamaker learned this lesson early, but I personally had to blunder through this old world for a third of a century before it even began to dawn upon me that ninety-nine times out of a hundred, people don’t criticize themselves for anything, no matter how wrong
+If Al Capone, Two Gun, Crowley, Dutch Schultz, and the desperate men and women behind prison walls don’t blame themselves for anything, what about the people with whom you and I come in contact? John Wanamaker, founder of the stores that bear his name, once confessed, I learned thirty years ago that it is foolish to scold. I have enough trouble overcoming my own limitations without fretting over the fact that God has not seen fit to distribute evenly the gift of intelligence. Wanamaker learned this lesson early, but I personally had to blunder through this old world for a third of a century before it even began to dawn upon me that ninety-nine times out of a hundred, people don’t criticize themselves for anything, no matter how wrong
 
 
 <a id="sec-000501"></a>
@@ -671,15 +669,13 @@ Don’t criticize, condemn or complain. Principle 2. Have honest and sincere app
 
 Arouse in the other person an eager want.
 
-#### Part 2.
+#### Part 2. Six ways to make people like you. Do this and you’ll be welcome anywhere. Why read this book to find out how to win friends?
 
-Six ways to make people like you. Do this and you’ll be welcome anywhere. Why read this book to find out how to win friends? Why not study the technique of the greatest winner of friends the world has ever known?
+Why not study the technique of the greatest winner of friends the world has ever known? Who is he? You may meet him tomorrow coming down the street. When you get within ten feet of him, he will begin to wag his tail.
 
-Who is he? You may meet him tomorrow coming down the street. When you get within ten feet of him, he will begin to wag his tail. If you stop and pat him, he will almost jump out of his skin to show you how much he likes you.
+If you stop and pat him, he will almost jump out of his skin to show you how much he likes you. And you know that behind this show of affection on his part, there are no ulterior motives, he doesn’t want to sell you any real estate, and he doesn’t want to marry you. Did you ever stop to think that a dog is the only animal that doesn’t have to work for a living? A hen has to lay eggs, a cow has to give milk, and a canary has to sing.
 
-And you know that behind this show of affection on his part, there are no ulterior motives, he doesn’t want to sell you any real estate, and he doesn’t want to marry you. Did you ever stop to think that a dog is the only animal that doesn’t have to work for a living? A hen has to lay eggs, a cow has to give milk, and a canary has to sing. But a dog makes his living by giving you nothing but love.
-
-When I was five years old, my father bought a little yellow-haired pup for fifty cents. He was the light and joy of my childhood. Every afternoon about four-thirty, he would sit in the front yard with his beautiful eyes staring steadfastly at the path, and as soon as he heard my voice or saw me swinging my dinner pail through the buck brush, he was off like a shot, racing breathlessly up the hill to greet me with leaps of joy and barks of sheer ecstasy.
+But a dog makes his living by giving you nothing but love. When I was five years old, my father bought a little yellow-haired pup for fifty cents. He was the light and joy of my childhood. Every afternoon about four-thirty, he would sit in the front yard with his beautiful eyes staring steadfastly at the path, and as soon as he heard my voice or saw me swinging my dinner pail through the buck brush, he was off like a shot, racing breathlessly up the hill to greet me with leaps of joy and barks of sheer ecstasy.
 
 Tippie was my constant companion for five years. Then one tragic night, I shall never forget it, he was killed within ten feet of my head, killed by lightning. Tippie’s death was the tragedy of my boyhood. You never read a book on psychology, Tippie.
 
@@ -1357,11 +1353,9 @@ Be a good listener. Encourage others to talk about themselves. Principle 5. Talk
 
 Principle 6. Make the other person feel important, and do it sincerely.
 
-#### Part 3.
+#### Part 3. How to win people to your way of thinking. You can’t win an argument.
 
-How to win people to your way of thinking. You can’t win an argument. Shortly after the close of World War I, I learned an invaluable lesson one night in London. I was manager at the time for Sir Ross Smith.
-
-During the war, Sir Ross had been the Australian ace out in Palestine, and shortly after peace was declared, he astonished the world by flying halfway around it in 30 days.
+Shortly after the close of World War I, I learned an invaluable lesson one night in London. I was manager at the time for Sir Ross Smith. During the war, Sir Ross had been the Australian ace out in Palestine, and shortly after peace was declared, he astonished the world by flying halfway around it in 30 days.
 
 
 <a id="sec-031612"></a>
@@ -2337,15 +2331,15 @@ Principle 7 Let the other person feel that the idea is his or hers. Principle 8 
 
 Principle 11 Dramatize your ideas. Principle 12 Throw down a challenge.
 
-#### Part 4 Be a leader, how to change people without giving offense or arousing resentment.
+#### Part 4 Be a leader, how to change people without giving offense or arousing resentment. If you must find fault, this is the way to begin. A friend of mine was a guest at the White House for a weekend during the administration of Calvin Coolidge.
 
-If you must find fault, this is the way to begin. A friend of mine was a guest at the White House for a weekend during the administration of Calvin Coolidge. Listening into the president’s private office, he heard Coolidge say to one of his secretaries, That’s a pretty dress you are wearing this morning, and you are a very attractive young woman. That was probably the most effusive praise Silent Cal had ever bestowed upon a secretary in his life.
+Listening into the president’s private office, he heard Coolidge say to one of his secretaries, That’s a pretty dress you are wearing this morning, and you are a very attractive young woman. That was probably the most effusive praise Silent Cal had ever bestowed upon a secretary in his life. It was so unusual, so unexpected, that the secretary blushed in confusion.
 
-It was so unusual, so unexpected, that the secretary blushed in confusion. Then Coolidge said, “Now, don’t get stuck up.” I just said that to make you feel good. From now on, I wish you would be a little bit more careful with your punctuation. His method was probably a bit obvious, but the psychology was superb.
+Then Coolidge said, “Now, don’t get stuck up.” I just said that to make you feel good. From now on, I wish you would be a little bit more careful with your punctuation. His method was probably a bit obvious, but the psychology was superb. It is always easier to listen to unpleasant things after we have heard some praise of our good points.
 
-It is always easier to listen to unpleasant things after we have heard some praise of our good points. A barber lathers a man before he shaves him, and that is precisely what McKinley did back in 1896, when he was running for president. One of the prominent Republicans of that day had written a campaign speech that he felt was just a trifle better than Cicero and Patrick Henry and Daniel Webster all rolled into one. With great glee, this chap read his immortal speech aloud to McKinley.
+A barber lathers a man before he shaves him, and that is precisely what McKinley did back in 1896, when he was running for president. One of the prominent Republicans of that day had written a campaign speech that he felt was just a trifle better than Cicero and Patrick Henry and Daniel Webster all rolled into one. With great glee, this chap read his immortal speech aloud to McKinley. The speech had its fine points, but it just wouldn’t do.
 
-The speech had its fine points, but it just wouldn’t do. It would have raised a tornado of criticism. McKinley didn’t want to hurt the man’s feelings.
+It would have raised a tornado of criticism. McKinley didn’t want to hurt the man’s feelings.
 
 
 <a id="sec-054719"></a>

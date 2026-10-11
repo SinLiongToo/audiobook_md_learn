@@ -943,11 +943,11 @@ There are no limits to what you can accomplish when you unlock your full creativ
 
 Gather information that can help you achieve this goal. The more new ideas you come up with, the more likely it is that you will discover the exact idea you need at exactly the right time. 3. Set aside times of silence and reflection during which your super-conscious mind can work to bring you exactly the answer you need.
 
-#### Chapter 7.
+#### Chapter 7. Problem Solving and Decision Making Time Booker T.
 
-Problem Solving and Decision Making Time Booker T. Washington wrote, I have learned that success is to be measured not so much by the position that one has reached in life, as by the obstacles which he has overcome while trying to succeed. All of life is a series of problems and difficulties, setbacks and failures. Every hour, every day, you make decisions that affect your life in major and minor ways.
+Washington wrote, I have learned that success is to be measured not so much by the position that one has reached in life, as by the obstacles which he has overcome while trying to succeed. All of life is a series of problems and difficulties, setbacks and failures. Every hour, every day, you make decisions that affect your life in major and minor ways. Solving problems and making decisions requires a particular type of thinking and approach.
 
-Solving problems and making decisions requires a particular type of thinking and approach. It requires a special way of using your time and your intelligence. Your ability to solve problems and make decisions is one of the most critical determinants of your success at work or in life.
+It requires a special way of using your time and your intelligence. Your ability to solve problems and make decisions is one of the most critical determinants of your success at work or in life.
 
 In fact, you will rise to the height of your abilities to solve the problems that you meet at your current level every hour of every day. A goal unachieved is merely a problem unsolved. The only thing that stands between you and anything you want in life is an obstacle or a difficulty of some kind. Your ability to remove this obstacle or overcome this difficulty determines how much you are paid and how fast you will be promoted.
 
@@ -1369,9 +1369,9 @@ Rest and recreation time is some of the most important time of your life. Many o
 
 One, resolve today that you’re going to build a rest and relaxation schedule into your life to ensure you will perform at your best in your work. Number two, plan your vacation schedule at the beginning of the year, and then plan your work responsibilities around it. Number three, book and pay for your vacations early in the year to ensure you never delay or procrastinate on the rest and relaxation that you need.
 
-#### Chapter 10, quiet time.
+#### Chapter 10, quiet time. James Allen wrote, dream lofty dreams, and as you dream so shall you become.
 
-James Allen wrote, dream lofty dreams, and as you dream so shall you become. Your vision is the promise of what you shall one day be. Your ideal is the prophecy of what you shall at last
+Your vision is the promise of what you shall one day be. Your ideal is the prophecy of what you shall at last
 
 
 <a id="sec-034714"></a>

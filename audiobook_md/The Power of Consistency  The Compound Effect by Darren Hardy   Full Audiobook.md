@@ -62,43 +62,41 @@
 <a id="sec-000000"></a>
 ### ⏱️ [00:00:00 - 00:05:02]
 
-#### Chapter 1.
+#### Chapter 1. The compound effect in action. Do you know that expression, slow and steady wins the race? Ever heard the story of the tortoise in the hair?
 
-The compound effect in action. Do you know that expression, slow and steady wins the race? Ever heard the story of the tortoise in the hair? Ladies and gentlemen, I’m the tortoise.
+Ladies and gentlemen, I’m the tortoise. Give me enough time, and I will beat virtually anybody, anytime, in any competition. Why? Not because I’m the best or the smartest or the fastest.
 
-Give me enough time, and I will beat virtually anybody, anytime, in any competition. Why? Not because I’m the best or the smartest or the fastest. I’ll win because of the positive habits I’ve developed, and because of the consistency I use in applying those habits.
+I’ll win because of the positive habits I’ve developed, and because of the consistency I use in applying those habits. I’m the world’s biggest believer in consistency. I’m living proof that it’s the ultimate key to success, yet it’s one of the biggest pitfalls for people struggling to achieve. Most people don’t know how to sustain it.
 
-I’m the world’s biggest believer in consistency. I’m living proof that it’s the ultimate key to success, yet it’s one of the biggest pitfalls for people struggling to achieve. Most people don’t know how to sustain it. I do.
+I do. I have my father to thank for that. In essence, he was my first coach for igniting the power of the compound effect. My parents divorced when I was 18 months old, and my dad raised me as a single father.
 
-I have my father to thank for that. In essence, he was my first coach for igniting the power of the compound effect. My parents divorced when I was 18 months old, and my dad raised me as a single father. He wasn’t exactly the soft, nurturing type.
+He wasn’t exactly the soft, nurturing type. He was a former university football coach, and he hard-wired me for achievement. Thanks to dad, wake-up calls were at six o’clock every morning. Not by a loving tap on the shoulder or even the sound of a radio alarm.
 
-He was a former university football coach, and he hard-wired me for achievement. Thanks to dad, wake-up calls were at six o’clock every morning. Not by a loving tap on the shoulder or even the sound of a radio alarm. No, I was awakened each morning by the repetitious pile driving sound of iron pounding on the concrete floor of our garage, situated next to my bedroom.
+No, I was awakened each morning by the repetitious pile driving sound of iron pounding on the concrete floor of our garage, situated next to my bedroom. It was like waking up twelve feet from a construction zone. He’d painted a huge, no-pain, no-gain, sign on the wall of the garage, which he stared at while he did countless old-school strongman dead lifts, power cleans, lunges, and squats. Rain, sleet, or shine.
 
-It was like waking up twelve feet from a construction zone. He’d painted a huge, no-pain, no-gain, sign on the wall of the garage, which he stared at while he did countless old-school strongman dead lifts, power cleans, lunges, and squats. Rain, sleet, or shine. Dad was out there in his shorts and tattered sweatshirt.
+Dad was out there in his shorts and tattered sweatshirt. He never missed a day. You could set your watch by his routine. I had more chores than a housekeeper and gardener put together.
 
-He never missed a day. You could set your watch by his routine. I had more chores than a housekeeper and gardener put together. Upon returning from school, there was always a list of instructions to greet me.
+Upon returning from school, there was always a list of instructions to greet me. Pull weeds, rake leaves, sweep the garage, dust, vacuum, do the dishes, you name it. And getting behind in school wasn’t tolerated. That’s just the way it was.
 
-Pull weeds, rake leaves, sweep the garage, dust, vacuum, do the dishes, you name it. And getting behind in school wasn’t tolerated. That’s just the way it was. Dad was the original, no excuses, guy.
+Dad was the original, no excuses, guy. We weren’t ever allowed to stay home from school sick, unless we were actually puking, bleeding, or, showing bone. The term, showing bone, came from his coaching days. His players knew they weren’t allowed to come out of the game unless they were seriously injured.
 
-We weren’t ever allowed to stay home from school sick, unless we were actually puking, bleeding, or, showing bone. The term, showing bone, came from his coaching days. His players knew they weren’t allowed to come out of the game unless they were seriously injured. One time his quarterback asked to be pulled out of the game.
+One time his quarterback asked to be pulled out of the game. Dad said, not unless you’re showing bone. The quarterback pulled back his shoulder pads, and sure enough, his collarbone was showing. Only then was he allowed to come off the field.
 
-Dad said, not unless you’re showing bone. The quarterback pulled back his shoulder pads, and sure enough, his collarbone was showing. Only then was he allowed to come off the field. One of Dad’s core philosophies was, it doesn’t matter how smart you are or aren’t.
+One of Dad’s core philosophies was, it doesn’t matter how smart you are or aren’t. You need to make up in hard work what you lack in experience, skill, intelligence, or innate ability. If your competitor is smarter, more talented, or experienced, you just need to work three or four times as hard. You can still beat them.
 
-You need to make up in hard work what you lack in experience, skill, intelligence, or innate ability. If your competitor is smarter, more talented, or experienced, you just need to work three or four times as hard. You can still beat them. No matter what the challenge, he taught me to make up in hard work for wherever I might be disadvantaged.
+No matter what the challenge, he taught me to make up in hard work for wherever I might be disadvantaged. Miss free throws at the game? Do 1,000 free throws every day for a month. Not good at dribbling with your left hand?
 
-Miss free throws at the game? Do 1,000 free throws every day for a month. Not good at dribbling with your left hand? Tie your right hand behind your back and dribble three hours a day.
+Tie your right hand behind your back and dribble three hours a day. Behind in your math? Hunker down, hire a tutor, and work like hell all summer until you get it. No excuses.
 
-Behind in your math? Hunker down, hire a tutor, and work like hell all summer until you get it. No excuses. If you aren’t good at something, work harder, work smarter.
+If you aren’t good at something, work harder, work smarter. He walked his talk, too. Dad went from being a football coach to a top salesperson. From there he became the boss, and ultimately, went on to own his own company.
 
-He walked his talk, too. Dad went from being a football coach to a top salesperson. From there he became the boss, and ultimately, went on to own his own company. But I wasn’t given loads of instruction.
+But I wasn’t given loads of instruction. From the beginning, Dad let us figure it out. He was all about taking personal responsibility. He didn’t hammer on us every night about homework, we just had to show up with the results.
 
-From the beginning, Dad let us figure it out. He was all about taking personal responsibility. He didn’t hammer on us every night about homework, we just had to show up with the results. And, when you did, you were celebrated.
+And, when you did, you were celebrated. If we got good grades, Dad took us to Prings, an ice cream parlor where you could get these king banana splits, six scoops of ice cream and all the fixings. Many times my siblings didn’t fare as well in school, so they didn’t get to go. Getting to go was a big deal, so you worked your butt off to win the trip.
 
-If we got good grades, Dad took us to Prings, an ice cream parlor where you could get these king banana splits, six scoops of ice cream and all the fixings. Many times my siblings didn’t fare as well in school, so they didn’t get to go. Getting to go was a big deal, so you worked your butt off to win the trip. Dad’s discipline served as an example for me.
+Dad’s discipline served as an example for me. Dad was my idol, and I wanted him to be proud of me. I also lived in fear of disappointing him. One of his philosophies as, be the guy who says, no. It’s no great achievement to go along with the crowd.
 
-Dad was my idol, and I wanted him to be proud of me. I also lived in fear of disappointing him. One of his philosophies as, be the guy who says, no. It’s no great achievement to go along with the crowd. Be the unusual guy, the extraordinary guy.
-
-That’s why I never did drugs, he never harped on me about it, but I didn’t want to be that guy who just went along because everyone else was doing it. And I didn’t want to let
+Be the unusual guy, the extraordinary guy. That’s why I never did drugs, he never harped on me about it, but I didn’t want to be that guy who just went along because everyone else was doing it. And I didn’t want to let
 
 
 <a id="sec-000502"></a>
@@ -596,15 +594,13 @@ Write down three things you have done in the past that have messed things up. Li
 
 Start tracking at least one behavior in one area of your life you’d like to change and improve, e.g., money, nutrition, fitness, recognizing others, parenting, any area.
 
-#### Chapter 3.
+#### Chapter 3. Habits. A wise teacher was taking a stroll through the forest with a young pupil and stopped before a tiny tree. Pull up that sapling.
 
-Habits. A wise teacher was taking a stroll through the forest with a young pupil and stopped before a tiny tree. Pull up that sapling. The teacher instructed his pupil, pointing to a sprout just coming up from the earth.
+The teacher instructed his pupil, pointing to a sprout just coming up from the earth. The youngster pulled it up easily with his fingers. Now pull up that one, said the teacher, indicating a more established sapling that had grown to about knee-high to the boy. With little effort, the lad yanked and the tree came up, roots and all.
 
-The youngster pulled it up easily with his fingers. Now pull up that one, said the teacher, indicating a more established sapling that had grown to about knee-high to the boy. With little effort, the lad yanked and the tree came up, roots and all. And now, this one, said the teacher, nodding toward a more well-developed evergreen that was as tall as the young pupil.
+And now, this one, said the teacher, nodding toward a more well-developed evergreen that was as tall as the young pupil. With great effort, throwing all his weight and strength into the task, using sticks and stone he found to pry up the stubborn roots, the boy finally got the tree loose.
 
-With great effort, throwing all his weight and strength into the task, using sticks and stone he found to pry up the stubborn roots, the boy finally got the tree loose. Now, the wise one said, “I’d like you to pull this one up.” The young boy followed the teacher’s gaze, which fell upon a mighty oak so tall the boy could scarcely see the top. Knowing the great struggle he just had pulling up the much smaller tree, he simply told his teacher, I am sorry, but I can’t.
-
-My son, you have just demonstrated the power that habits will have over your life. The teacher exclaimed, the older they are, the bigger they get, the deeper the roots grow, and the harder they are to uproot.
+Now, the wise one said, “I’d like you to pull this one up.” The young boy followed the teacher’s gaze, which fell upon a mighty oak so tall the boy could scarcely see the top. Knowing the great struggle he just had pulling up the much smaller tree, he simply told his teacher, I am sorry, but I can’t. My son, you have just demonstrated the power that habits will have over your life. The teacher exclaimed, the older they are, the bigger they get, the deeper the roots grow, and the harder they are to uproot.
 
 
 <a id="sec-012039"></a>
@@ -988,17 +984,15 @@ Download the habits sheet at www.thecompoundeffect.com slash free identify your 
 
 Download the goal sheet at www.thecompoundeffect.com slash free order your copy of living your best year ever a proven system for achieving big goals from www.success.com slash bestierever to guide you through the designing process as well as the achieving process all year long.
 
-#### Chapter 4.
+#### Chapter 4. Momentum. I’d like to introduce you to a very good friend of mine. This friend, also close to Bill Gates, Steve Jobs, Richard Branson, Michael Jordan, Lance Armstrong, Michael Phelps, and every other superachiever, will impact your life like no other.
 
-Momentum. I’d like to introduce you to a very good friend of mine. This friend, also close to Bill Gates, Steve Jobs, Richard Branson, Michael Jordan, Lance Armstrong, Michael Phelps, and every other superachiever, will impact your life like no other. I’d like to introduce you to Mo, or, Big Mo, as I like to call it.
+I’d like to introduce you to Mo, or, Big Mo, as I like to call it. Big Mo is, without doubt, one of the most powerful and enigmatic forces of success. You can’t see or feel Mo, but you know when you’ve got it. You can’t count on Mo showing up to every occasion, but when it does, wow.
 
-Big Mo is, without doubt, one of the most powerful and enigmatic forces of success. You can’t see or feel Mo, but you know when you’ve got it. You can’t count on Mo showing up to every occasion, but when it does, wow. Big Mo can catapult you into the stratosphere of success.
+Big Mo can catapult you into the stratosphere of success. And once you’ve got Mo on your side, there’s almost no way anyone can catch you. I’m excited about this chapter. When you implement the ideas outlined ahead, your payoff will be a thousand times, or more, what you paid for this book.
 
-And once you’ve got Mo on your side, there’s almost no way anyone can catch you. I’m excited about this chapter. When you implement the ideas outlined ahead, your payoff will be a thousand times, or more, what you paid for this book. Seriously, these ideas are big.
+Seriously, these ideas are big. Harnessing the power of Big Mo. If you remember your high school physics class, you do, don’t you? You’ll recall Newton’s First Law, also known as the Law of Inertia.
 
-Harnessing the power of Big Mo. If you remember your high school physics class, you do, don’t you? You’ll recall Newton’s First Law, also known as the Law of Inertia. Objects at rest tend to stay at rest unless acted on by an outside force.
-
-Objects in motion tend to stay in motion, unless something stops their momentum. Put another way, couch potatoes tend to stay couch potatoes. Achievers, people who get into a successful rhythm, continue busting their butts and end
+Objects at rest tend to stay at rest unless acted on by an outside force. Objects in motion tend to stay in motion, unless something stops their momentum. Put another way, couch potatoes tend to stay couch potatoes. Achievers, people who get into a successful rhythm, continue busting their butts and end
 
 
 <a id="sec-022108"></a>
@@ -1244,35 +1238,33 @@ Make a declaration to stay steadfast in your new commitment to consistency. On y
 
 M., including the rhythm register. Obtain the Living Your Best Year Ever program at www.success.com slash bestyearever.
 
-#### Chapter 5.
+#### Chapter 5. Influences. Hopefully by now you understand exactly how important your choices are.
 
-Influences. Hopefully by now you understand exactly how important your choices are. Even those that seem insignificant, when compounded, can make an extreme impact on your life. We’ve also discussed the fact that you are 100% responsible for your life.
+Even those that seem insignificant, when compounded, can make an extreme impact on your life. We’ve also discussed the fact that you are 100% responsible for your life. You alone are responsible for the choices you make and the actions you take. That said, you must also realize your choices, behaviors, and habits are influenced by very powerful external forces.
 
-You alone are responsible for the choices you make and the actions you take. That said, you must also realize your choices, behaviors, and habits are influenced by very powerful external forces. Most of us aren’t aware of the subtle control these forces have on our lives. For you to sustain your positive trajectory toward your goals, you’ll need to understand and govern these influences so they will support rather than derail your journey toward success.
+Most of us aren’t aware of the subtle control these forces have on our lives. For you to sustain your positive trajectory toward your goals, you’ll need to understand and govern these influences so they will support rather than derail your journey toward success. Everyone is affected by three kinds of influences, input, what you feed your mind, associations, the people with whom you spend time, an environment, your surroundings. I.
 
-Everyone is affected by three kinds of influences, input, what you feed your mind, associations, the people with whom you spend time, an environment, your surroundings. I. Input. Garbage in, garbage out.
+Input. Garbage in, garbage out. If you want your body to run at peak performance, you’ve got to be vigilant about consuming the highest quality nutrients and avoiding tempting junk food. If you want your brain to perform at its peak, you’ve got to be even more vigilant about what you feed it.
 
-If you want your body to run at peak performance, you’ve got to be vigilant about consuming the highest quality nutrients and avoiding tempting junk food. If you want your brain to perform at its peak, you’ve got to be even more vigilant about what you feed it. Are you feeding it new summaries or mind-numbing sitcoms? Are you reading the tabloids, or success?
+Are you feeding it new summaries or mind-numbing sitcoms? Are you reading the tabloids, or success? Controlling the input has a direct and measurable impact on your productivity and outcomes. Controlling what our brains consume is especially difficult because so much of what we take in is unconscious.
 
-Controlling the input has a direct and measurable impact on your productivity and outcomes. Controlling what our brains consume is especially difficult because so much of what we take in is unconscious. Although it’s true that we can eat without thinking, it’s easier to pay attention to what we put in our bodies because food doesn’t leap into our mouths. We need an extra level of vigilance to prevent our brains from absorbing irrelevant, counterproductive or downright destructive input.
+Although it’s true that we can eat without thinking, it’s easier to pay attention to what we put in our bodies because food doesn’t leap into our mouths. We need an extra level of vigilance to prevent our brains from absorbing irrelevant, counterproductive or downright destructive input. It’s a never-ending battle to be selective and to stand guard against any information that can derail your creative potential. Your brain is not designed to make you happy.
 
-It’s a never-ending battle to be selective and to stand guard against any information that can derail your creative potential. Your brain is not designed to make you happy. Your brain has only one agenda in mind. Survival.
+Your brain has only one agenda in mind. Survival. It is always watching for signs of, lack and attack. Your brain is programmed to seek out the negative, dwindling resources, destructive weather, whatever’s out to hurt you.
 
-It is always watching for signs of, lack and attack. Your brain is programmed to seek out the negative, dwindling resources, destructive weather, whatever’s out to hurt you. So when you switch on that radio on the way to work and get bombarded with all those reports about robberies, fires, attacks, and other things, it’s a matter of time. tax, the tanking economy, your brain lights up. It now will spend all day chewing over that feast of fear, worry, negativity.
+So when you switch on that radio on the way to work and get bombarded with all those reports about robberies, fires, attacks, and other things, it’s a matter of time. tax, the tanking economy, your brain lights up. It now will spend all day chewing over that feast of fear, worry, negativity. Same deal when you tune into the evening news after work. More bad news?
 
-Same deal when you tune into the evening news after work. More bad news? Perfect. Your mind will stew on that all night long.
+Perfect. Your mind will stew on that all night long. Left to its own devices, your mind will traffic in the negative, worrisome, and fearful all day and night. We can’t change our DNA, but we can change our behavior.
 
-Left to its own devices, your mind will traffic in the negative, worrisome, and fearful all day and night. We can’t change our DNA, but we can change our behavior. We can teach our minds to look beyond, lack and attack. How?
+We can teach our minds to look beyond, lack and attack. How? We can protect and feed our mind. We can be disciplined and proactive about what we allow in.
 
-We can protect and feed our mind. We can be disciplined and proactive about what we allow in. Don’t drink dirty water. You get in life what you create.
+Don’t drink dirty water. You get in life what you create. Expectation drives the creative process. What do you expect?
 
-Expectation drives the creative process. What do you expect? Do you expect whatever it is you’re thinking about? Your thought process, the conversation in your head, is at the base of the results you create in life.
+Do you expect whatever it is you’re thinking about? Your thought process, the conversation in your head, is at the base of the results you create in life. To the question is, what are you thinking about? What is influencing and directing your thoughts?
 
-To the question is, what are you thinking about? What is influencing and directing your thoughts? The answer. Whatever you’re allowing yourself to hear and see, this is the input you are feeding your brain.
+The answer. Whatever you’re allowing yourself to hear and see, this is the input you are feeding your brain. Period. See Figure 12.
 
-Period. See Figure 12. Your mind is like an empty glass, it’ll hold anything you put into it. You put in sensational news, salacious headlines, talk show rants, and you’re pouring dirty water into your glass.
-
-If you’ve got dark, dismal, worrisome water in your glass, everything you create will be filtered through that muddy mess, because that’s what you’ll be thinking about.
+Your mind is like an empty glass, it’ll hold anything you put into it. You put in sensational news, salacious headlines, talk show rants, and you’re pouring dirty water into your glass. If you’ve got dark, dismal, worrisome water in your glass, everything you create will be filtered through that muddy mess, because that’s what you’ll be thinking about.
 
 
 <a id="sec-030136"></a>

@@ -1217,25 +1217,25 @@ much time and energy to the 34th street site is that I never considered it anyth
 
 The first one, fittingly, was with Palmeri and the Penn Central for the purchase of the Commodore Hotel.
 
-#### Chapter 6, Grand Hotel Reviving 42nd Street.
+#### Chapter 6, Grand Hotel Reviving 42nd Street. During the period when I was trying to make something happen with the two west side yards, I got more and more friendly with Victor Palmeri and his people.
 
-During the period when I was trying to make something happen with the two west side yards, I got more and more friendly with Victor Palmeri and his people. One day late in 1974, I was in Victor’s office and I said to him half jokingly, listen, now that I’ve got the options on the two yards, what other properties does the Penn Central own that I can buy for nothing? As a matter of fact, said Victor, we have some hotels you might be interested in.
+One day late in 1974, I was in Victor’s office and I said to him half jokingly, listen, now that I’ve got the options on the two yards, what other properties does the Penn Central own that I can buy for nothing? As a matter of fact, said Victor, we have some hotels you might be interested in. It so happened that the Penn Central owned several old hotels within a few blocks of each other in Midtown, the Biltmore, the Barkley, the Roosevelt, and the Commodore.
 
-It so happened that the Penn Central owned several old hotels within a few blocks of each other in Midtown, the Biltmore, the Barkley, the Roosevelt, and the Commodore. The first three were at least moderately successful, which meant buying them was likely to cost more money than I wanted to spend. The only one in real trouble was the Commodore, which had been losing money and defaulting on its property taxes for years. As it turned out, that was the best news Victor could have given me.
+The first three were at least moderately successful, which meant buying them was likely to cost more money than I wanted to spend. The only one in real trouble was the Commodore, which had been losing money and defaulting on its property taxes for years. As it turned out, that was the best news Victor could have given me. I decided very quickly that the Commodore in the heart of New York at 42nd Street and Park Avenue next to Grand Central Station had potentially the best location of any of the four hotels.
 
-I decided very quickly that the Commodore in the heart of New York at 42nd Street and Park Avenue next to Grand Central Station had potentially the best location of any of the four hotels. I still remember walking over to look at the Commodore the day Victor first mentioned it to me. The hotel and the surrounding neighborhood were unbelievably rundown. Half the buildings were already in foreclosure.
+I still remember walking over to look at the Commodore the day Victor first mentioned it to me. The hotel and the surrounding neighborhood were unbelievably rundown. Half the buildings were already in foreclosure. The brick facade of the Commodore was absolutely filthy and the lobby was so dingy, it looked like a welfare hotel.
 
-The brick facade of the Commodore was absolutely filthy and the lobby was so dingy, it looked like a welfare hotel. There was one of those sleazy flea markets operating on the ground floor with a bunch of boarded up storefronts on either side and derelicts lying in the doorways. To most people, it would have been a very depressing scene, but as I approached the hotel, something completely different caught my eye. It was about nine in the morning and there were thousands of well-dressed Connecticut and Westchester commuters flooding onto the streets from Grand Central Terminal and the subway stations below.
+There was one of those sleazy flea markets operating on the ground floor with a bunch of boarded up storefronts on either side and derelicts lying in the doorways. To most people, it would have been a very depressing scene, but as I approached the hotel, something completely different caught my eye. It was about nine in the morning and there were thousands of well-dressed Connecticut and Westchester commuters flooding onto the streets from Grand Central Terminal and the subway stations below. The city was on the verge of bankruptcy, but what I saw was a superb location.
 
-The city was on the verge of bankruptcy, but what I saw was a superb location. Unless the city literally died, millions of affluent people were going to keep passing by this location every day. The problem was the hotel, not the neighborhood. If I could transform the Commodore, I was sure it could be a hit.
+Unless the city literally died, millions of affluent people were going to keep passing by this location every day. The problem was the hotel, not the neighborhood. If I could transform the Commodore, I was sure it could be a hit. Convenience alone would assure that.
 
-Convenience alone would assure that. I went back and told Victor I was interested in making a deal for the Commodore. He was pleased because everyone else considered it a loser. I also went to my father and told him I had a chance to make a deal for this huge Midtown hotel.
+I went back and told Victor I was interested in making a deal for the Commodore. He was pleased because everyone else considered it a loser. I also went to my father and told him I had a chance to make a deal for this huge Midtown hotel. At first, he refused to believe I was serious.
 
-At first, he refused to believe I was serious. Later, he told a reporter that his initial reaction to my idea was that buying the Commodore at a time when even the Chrysler building is in receivership is like fighting for a seat on the Titanic. I wasn’t naive. I saw potential, but I also recognized a downside.
+Later, he told a reporter that his initial reaction to my idea was that buying the Commodore at a time when even the Chrysler building is in receivership is like fighting for a seat on the Titanic. I wasn’t naive. I saw potential, but I also recognized a downside. I could envision a huge home run, but I also knew that failing could bury me.
 
-I could envision a huge home run, but I also knew that failing could bury me. From the very first day I went to work on the deal, I tried to keep my risk to an absolute minimum and financially I succeeded. But as the months went by, the deal became more and more complicated and difficult. I kept investing more time and more energy, and the stakes rose for reasons unrelated to money.
+From the very first day I went to work on the deal, I tried to keep my risk to an absolute minimum and financially I succeeded. But as the months went by, the deal became more and more complicated and difficult. I kept investing more time and more energy, and the stakes rose for reasons unrelated to money. I could talk big for only so long.
 
-I could talk big for only so long. Eventually, I had to prove to the real estate community, to the press, to my father, that I could deliver the goods. The Commodore deal was basically a juggling act, but a much trickier one than I originally imagined.
+Eventually, I had to prove to the real estate community, to the press, to my father, that I could deliver the goods. The Commodore deal was basically a juggling act, but a much trickier one than I originally imagined.
 
 First, I had to keep Palmieri’s people believing I was their best bet to buy the hotel while trying to avoid for as long as I could putting down any cash. At the same time, I had to convince an experienced hotel operator to come in with me before I actually had a deal, knowing that such a partner would give me more credibility with the banks when I went to seek financing. And even a great partner wasn’t
 
@@ -2377,17 +2377,17 @@ No detail escapes her. She has systematically hired the best people in Atlantic 
 
 In 1986, we grossed $226 million, a record for first year operations. We are projecting revenues of $310 million and a gross operating profit, well in excess of $70 million. It pays to trust your instincts.
 
-#### Chapter 10, low rent, high stakes, the showdown on Central Park South.
+#### Chapter 10, low rent, high stakes, the showdown on Central Park South. Sometimes by losing a battle, you find a new way to win the war.
 
-Sometimes by losing a battle, you find a new way to win the war. What you need generally is enough time and a little luck. I had both at 100 Central Park South. This is a story about a group of tenants who fought very hard to keep me from tearing down the building they lived in and constructing a new one in its place.
+What you need generally is enough time and a little luck. I had both at 100 Central Park South. This is a story about a group of tenants who fought very hard to keep me from tearing down the building they lived in and constructing a new one in its place. They succeeded.
 
-They succeeded. But by delaying me for several years, during which real estate values soared, and by forcing me to totally change my original plans, they inadvertently helped me come up with a less expensive and more profitable project. Ironically, the easiest part of the whole deal was buying the property. Early in 1981, Louise Sunshine, my executive vice president at the time, came in to say she’d heard there might be an opportunity to buy two adjoining buildings in a great location.
+But by delaying me for several years, during which real estate values soared, and by forcing me to totally change my original plans, they inadvertently helped me come up with a less expensive and more profitable project. Ironically, the easiest part of the whole deal was buying the property. Early in 1981, Louise Sunshine, my executive vice president at the time, came in to say she’d heard there might be an opportunity to buy two adjoining buildings in a great location. And the first was 100 Central Park South, a 14-story residential building on the corner of Central Park South, an avenue of the Americas.
 
-And the first was 100 Central Park South, a 14-story residential building on the corner of Central Park South, an avenue of the Americas. The other was the Barbizon Plaza, a 39-story hotel. hotel, which fronted on Central Park and wrapped around behind 100 Central Park South so that the east side of the hotel faced Avenue of the Americas. The buildings were owned by a syndicate that included Marshall Loeb of the Loeb banking family, the Lambert-Brussels Corporation, and Henry Greenberg. By virtue of their location, the buildings represented one of the best pieces of real estate anywhere in the world.
+The other was the Barbizon Plaza, a 39-story hotel. hotel, which fronted on Central Park and wrapped around behind 100 Central Park South so that the east side of the hotel faced Avenue of the Americas. The buildings were owned by a syndicate that included Marshall Loeb of the Loeb banking family, the Lambert-Brussels Corporation, and Henry Greenberg. By virtue of their location, the buildings represented one of the best pieces of real estate anywhere in the world. In addition to being on one of the city’s widest and most elegant streets, the buildings looked out over Central Park.
 
-In addition to being on one of the city’s widest and most elegant streets, the buildings looked out over Central Park. The Barbizon Plaza was a somewhat rundown middle-price hotel earning a modest profit at best. One hundred Central Park South was a building filled with rent-controlled and rent-stabilized apartments, meaning that the rent roll was barely sufficient to cover the operating costs of the building. Precisely because of these disadvantages, I was able to negotiate a very favorable purchase price.
+The Barbizon Plaza was a somewhat rundown middle-price hotel earning a modest profit at best. One hundred Central Park South was a building filled with rent-controlled and rent-stabilized apartments, meaning that the rent roll was barely sufficient to cover the operating costs of the building. Precisely because of these disadvantages, I was able to negotiate a very favorable purchase price. It helped that the properties hadn’t yet been put up for sale on the open market.
 
-It helped that the properties hadn’t yet been put up for sale on the open market. As long as there were no other bidders, it was much easier for me to make a case that the building’s problems decreased their value. It probably also helped that the owners were a group of very wealthy men who had decided to sell, not because they needed the money, but because one of them was getting older and wanted to put his estate in order. I’m not permitted to say what I paid, but the sum wouldn’t be enough today to buy a vacant lot one-third the size and a far less desirable part of Manhattan.
+As long as there were no other bidders, it was much easier for me to make a case that the building’s problems decreased their value. It probably also helped that the owners were a group of very wealthy men who had decided to sell, not because they needed the money, but because one of them was getting older and wanted to put his estate in order. I’m not permitted to say what I paid, but the sum wouldn’t be enough today to buy a vacant lot one-third the size and a far less desirable part of Manhattan.
 
 I barely looked at what the two buildings were earning. I was drawn to the real estate value, not the income. I was buying a great location at a modest price, and the way I looked at the deal, there was virtually no downside. Almost immediately, I was able to get a mortgage for the buildings which covered my purchase price.
 
@@ -2837,17 +2837,17 @@ Even Doug Flutie, who everyone said was too small for the NFL, was signed by the
 
 I’m a big believer in comebacks and the USFL is appealing this ridiculous verdict. In recent months, I’ve received numerous calls from a very smart, very persistent guy who is trying to put together an entirely new fall league. He wants me to take the New York franchise and I’m seriously considering it.
 
-#### Chapter 12, Icecapade’s Rebuilding Wulman Rink.
+#### Chapter 12, Icecapade’s Rebuilding Wulman Rink. Never had a master plan.
 
-Never had a master plan. I just got fed up one day and decided to do something about it. On the morning of May 22nd, 1986, there was a story on the front page of the New York Times saying that New York City officials had decided to start all over in their effort to rebuild the Wulman skating rink in Central Park. If everything went well, said the city, the rink would be ready to reopen in approximately two years.
+I just got fed up one day and decided to do something about it. On the morning of May 22nd, 1986, there was a story on the front page of the New York Times saying that New York City officials had decided to start all over in their effort to rebuild the Wulman skating rink in Central Park. If everything went well, said the city, the rink would be ready to reopen in approximately two years. I couldn’t believe it.
 
-I couldn’t believe it. First of all, there was no reason to believe anything would go well, much less everything. The Wulman rink, built in 1950, had first closed for renovations in June 1980. The work was scheduled to take two and a half years.
+First of all, there was no reason to believe anything would go well, much less everything. The Wulman rink, built in 1950, had first closed for renovations in June 1980. The work was scheduled to take two and a half years. Even that seemed like a long time to rebuild an ice skating rink.
 
-Even that seemed like a long time to rebuild an ice skating rink. Coincidentally in June 1980, I broke ground for Trump Tower, a 68 story skyscraper with six floors of shopping, thousands of square feet of office space, and 263 residential apartments. Two and a half years later, we completed Trump Tower on time and on budget. From my new apartment, I had a view of Wulman rink.
+Coincidentally in June 1980, I broke ground for Trump Tower, a 68 story skyscraper with six floors of shopping, thousands of square feet of office space, and 263 residential apartments. Two and a half years later, we completed Trump Tower on time and on budget. From my new apartment, I had a view of Wulman rink. It was not a pretty sight, although millions of dollars had already been spent on its renovation.
 
-It was not a pretty sight, although millions of dollars had already been spent on its renovation. It was obvious, even from a distance, that the rink was nowhere near finished. Three more years passed, millions more dollars were spent, and things just got worse. So bad, in fact, that on this May morning in 1986, the city felt compelled to announce it was starting the whole process over from scratch.
+It was obvious, even from a distance, that the rink was nowhere near finished. Three more years passed, millions more dollars were spent, and things just got worse. So bad, in fact, that on this May morning in 1986, the city felt compelled to announce it was starting the whole process over from scratch. I knew absolutely nothing about building ice skating rinks, but I did know something about construction.
 
-I knew absolutely nothing about building ice skating rinks, but I did know something about construction. If it took me two and a half years to put up a major skyscraper, surely it was possible to build a $2 million ice skating rink in a matter of months.
+If it took me two and a half years to put up a major skyscraper, surely it was possible to build a $2 million ice skating rink in a matter of months.
 
 
 <a id="sec-073830"></a>
@@ -3087,9 +3087,9 @@ Although we charge prices below those of any private city rink, $4.50, a session
 
 However, I won’t be one of them. People have been waiting for years to watch me fall, but I’m not about to help the cause. Skating isn’t my strong suit.
 
-#### Chapter 13, comeback, a west side story.
+#### Chapter 13, comeback, a west side story. The toughest business decision I ever made was giving up my option on the west side yards, 78 riverfront acres between 59th street and 72nd street in the summer of 1979.
 
-The toughest business decision I ever made was giving up my option on the west side yards, 78 riverfront acres between 59th street and 72nd street in the summer of 1979. The easiest business decision I ever made was buying back those same hundred acres in January, 1985. I have a tendency to get very enthusiastic about any deal I make, but I suspect few people would argue that those hundred acres
+The easiest business decision I ever made was buying back those same hundred acres in January, 1985. I have a tendency to get very enthusiastic about any deal I make, but I suspect few people would argue that those hundred acres
 
 
 <a id="sec-081846"></a>

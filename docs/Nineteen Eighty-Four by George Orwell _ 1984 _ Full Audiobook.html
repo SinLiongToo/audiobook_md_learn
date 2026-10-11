@@ -66,26 +66,12 @@
       --card-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
     }
 
-    [data-line-height="compact"] {
-      --line-height: 1.68;
-    }
-    [data-line-height="normal"] {
-      --line-height: 1.88;
-    }
-    [data-line-height="loose"] {
-      --line-height: 2.12;
-    }
+    [data-line-height="compact"] { --line-height: 1.68; }
+    [data-line-height="normal"] { --line-height: 1.88; }
+    [data-line-height="loose"] { --line-height: 2.12; }
 
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
-    html {
-      scroll-behavior: smooth;
-    }
-
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
     body {
       font-family: var(--font-family);
       font-size: var(--font-size);
@@ -119,7 +105,7 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 0 20px;
+      padding: 0 18px;
       background-color: var(--bg-header);
       backdrop-filter: blur(8px);
       -webkit-backdrop-filter: blur(8px);
@@ -129,7 +115,7 @@
     .header-left, .header-right {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 8px;
       flex-wrap: nowrap;
     }
 
@@ -138,7 +124,7 @@
       border: 1px solid var(--border-color);
       color: var(--text-primary);
       cursor: pointer;
-      font-size: 14px;
+      font-size: 13.5px;
       padding: 6px 10px;
       border-radius: 8px;
       display: inline-flex;
@@ -147,6 +133,7 @@
       transition: all 0.2s;
       white-space: nowrap;
       user-select: none;
+      text-decoration: none;
     }
     .btn-icon:hover {
       background-color: var(--accent-light);
@@ -161,11 +148,132 @@
       font-size: 14px;
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
+    }
+    .home-link:hover { color: var(--accent-color); }
+
+    /* In-Page Search Bar Dropdown */
+    .inpage-search-bar {
+      position: sticky;
+      top: 60px;
+      z-index: 890;
+      background-color: var(--bg-surface);
+      border-bottom: 1px solid var(--border-color);
+      padding: 10px 18px;
+      display: none;
+      align-items: center;
+      gap: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    }
+    .inpage-search-bar.active { display: flex; }
+
+    .inpage-search-input-wrapper {
+      flex: 1;
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    .inpage-search-input {
+      width: 100%;
+      padding: 8px 36px 8px 12px;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      font-size: 14px;
+    }
+    .inpage-search-input:focus { outline: 2px solid var(--accent-color); }
+
+    .inpage-search-clear {
+      position: absolute;
+      right: 10px;
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 16px;
     }
 
-    .home-link:hover {
+    .inpage-search-count {
+      font-size: 13px;
+      color: var(--text-secondary);
+      font-family: monospace;
+      white-space: nowrap;
+    }
+    .search-nav-btns { display: flex; gap: 6px; }
+
+    /* In-Page Search Results Drawer */
+    .inpage-search-drawer {
+      position: fixed;
+      right: 20px;
+      top: 120px;
+      width: 360px;
+      max-height: calc(100vh - 160px);
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+      z-index: 895;
+      display: none;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .inpage-search-drawer.active { display: flex; }
+    .inpage-search-drawer-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-weight: 600;
+      font-size: 14px;
+    }
+    .inpage-search-drawer-list {
+      overflow-y: auto;
+      padding: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .search-result-item {
+      padding: 10px 12px;
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+      background: var(--bg-primary);
+      cursor: pointer;
+      font-size: 13px;
+      transition: all 0.15s;
+    }
+    .search-result-item:hover, .search-result-item.active {
+      border-color: var(--accent-color);
+      background: var(--accent-light);
+    }
+    .search-result-time {
+      font-weight: 700;
       color: var(--accent-color);
+      font-family: monospace;
+      margin-bottom: 4px;
+    }
+    .search-result-snippet {
+      color: var(--text-primary);
+      line-height: 1.5;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    /* Highlight mark */
+    mark.search-highlight {
+      background-color: #fef08a;
+      color: #1f2937;
+      padding: 1px 3px;
+      border-radius: 3px;
+    }
+    mark.search-highlight.active-match {
+      background-color: #f97316;
+      color: #ffffff;
+      outline: 2px solid #ea580c;
     }
 
     /* Layout Wrapper */
@@ -212,9 +320,7 @@
       font-size: 13px;
       margin-bottom: 14px;
     }
-    .toc-search:focus {
-      outline: 2px solid var(--accent-color);
-    }
+    .toc-search:focus { outline: 2px solid var(--accent-color); }
 
     .toc-list {
       list-style: none;
@@ -237,12 +343,10 @@
       overflow: hidden;
       text-overflow: ellipsis;
     }
-
     .toc-item a:hover {
       background-color: var(--accent-light);
       color: var(--accent-color);
     }
-
     .toc-item.active a {
       background-color: var(--accent-color);
       color: #ffffff;
@@ -257,19 +361,17 @@
       display: flex;
       justify-content: center;
     }
-
     .reader-container {
       width: 100%;
       max-width: var(--content-max-width);
     }
 
-    /* Book Hero / Header */
+    /* Book Hero */
     .book-hero {
       margin-bottom: 40px;
       padding-bottom: 24px;
       border-bottom: 2px solid var(--border-color);
     }
-
     .book-hero h1 {
       font-size: 2.1em;
       line-height: 1.35;
@@ -285,7 +387,6 @@
       gap: 10px;
       margin-top: 14px;
     }
-
     .meta-chip {
       display: inline-flex;
       align-items: center;
@@ -297,8 +398,13 @@
       font-size: 13px;
       font-weight: 500;
     }
+    .meta-chip.cat-badge {
+      background-color: #ec489922;
+      color: #ec4899;
+      font-weight: 600;
+    }
 
-    /* Content Typography & Enhanced Paragraphs */
+    /* Content Typography */
     .transcript-section {
       margin-bottom: 50px;
       scroll-margin-top: 80px;
@@ -349,25 +455,22 @@
       letter-spacing: 0.015em;
     }
 
-    /* Indented paragraph style (Traditional) */
+    /* Indented paragraph style */
     [data-p-style="indent"] .section-body p {
       text-indent: 2em;
       margin-bottom: 1.15em;
       line-height: var(--line-height);
     }
 
-    /* Block paragraph style (Modern with whitespace) */
+    /* Block paragraph style */
     [data-p-style="block"] .section-body p {
       text-indent: 0;
       margin-bottom: 1.55em;
       line-height: var(--line-height);
     }
+    .section-body p:last-child { margin-bottom: 0; }
 
-    .section-body p:last-child {
-      margin-bottom: 0;
-    }
-
-    /* Floating Navigation Controls */
+    /* Floating Tools */
     .floating-tools {
       position: fixed;
       bottom: 24px;
@@ -377,7 +480,6 @@
       gap: 10px;
       z-index: 800;
     }
-
     .float-btn {
       width: 44px;
       height: 44px;
@@ -399,7 +501,6 @@
       color: var(--accent-color);
     }
 
-    /* Overlay for mobile drawer */
     .backdrop {
       display: none;
       position: fixed;
@@ -419,36 +520,22 @@
         transform: translateX(-100%);
         box-shadow: 4px 0 16px rgba(0,0,0,0.15);
       }
-
-      .sidebar.open {
-        transform: translateX(0);
-      }
-
-      .backdrop.open {
-        display: block;
+      .sidebar.open { transform: translateX(0); }
+      .backdrop.open { display: block; }
+      .inpage-search-drawer {
+        left: 20px;
+        right: 20px;
+        width: auto;
       }
     }
 
     @media (max-width: 640px) {
-      :root {
-        --font-size: 17px;
-      }
-      .main-content {
-        padding: 24px 16px 60px 16px;
-      }
-      .book-hero h1 {
-        font-size: 1.55em;
-      }
-      .top-header {
-        padding: 0 10px;
-      }
-      .btn-icon {
-        padding: 5px 8px;
-        font-size: 13px;
-      }
-      [data-p-style="indent"] .section-body p {
-        text-indent: 1.5em;
-      }
+      :root { --font-size: 17px; }
+      .main-content { padding: 24px 16px 60px 16px; }
+      .book-hero h1 { font-size: 1.55em; }
+      .top-header { padding: 0 10px; }
+      .btn-icon { padding: 5px 7px; font-size: 12.5px; }
+      [data-p-style="indent"] .section-body p { text-indent: 1.5em; }
     }
   </style>
 </head>
@@ -464,6 +551,14 @@
       <a href="index.html" class="home-link" title="返回書架">
         🏠 書架
       </a>
+      <!-- Search Inside Book Button -->
+      <button class="btn-icon" id="search-toggle-btn" title="搜尋本書內文 (Ctrl+F)">
+        🔍 <span>搜尋內文</span>
+      </button>
+      <!-- Global Search Link -->
+      <a href="index.html?tab=search" class="btn-icon" title="前往全書庫全文檢索">
+        🌐 <span>全庫搜尋</span>
+      </a>
     </div>
 
     <div class="header-right">
@@ -473,7 +568,7 @@
       </button>
 
       <!-- Line Height Toggle -->
-      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 精簡)">
+      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 緊湊)">
         ↕ <span id="line-height-label">行距</span>
       </button>
 
@@ -492,6 +587,29 @@
       <button class="btn-icon" id="font-inc-btn" title="放大字級">A+</button>
     </div>
   </header>
+
+  <!-- In-Page Search Bar Dropdown -->
+  <div class="inpage-search-bar" id="inpage-search-bar">
+    <div class="inpage-search-input-wrapper">
+      <input type="text" id="inpage-search-input" class="inpage-search-input" placeholder="🔍 搜尋本書內文關鍵字 (按 Enter 尋找下一處，Esc 關閉)...">
+      <button class="inpage-search-clear" id="inpage-search-clear" title="清空">✕</button>
+    </div>
+    <span class="inpage-search-count" id="inpage-search-count">0 / 0</span>
+    <div class="search-nav-btns">
+      <button class="btn-icon" id="inpage-search-prev" title="上一處 (Shift+Enter)">▲</button>
+      <button class="btn-icon" id="inpage-search-next" title="下一處 (Enter)">▼</button>
+      <button class="btn-icon" id="inpage-search-close" title="關閉搜尋 (Esc)">✕</button>
+    </div>
+  </div>
+
+  <!-- In-Page Search Results Drawer -->
+  <div class="inpage-search-drawer" id="inpage-search-drawer">
+    <div class="inpage-search-drawer-header">
+      <span>搜尋結果清單</span>
+      <button class="btn-icon" id="inpage-drawer-close" style="padding: 2px 6px;">✕</button>
+    </div>
+    <div class="inpage-search-drawer-list" id="inpage-search-drawer-list"></div>
+  </div>
 
   <div class="backdrop" id="backdrop"></div>
 
@@ -643,6 +761,7 @@
         <header class="book-hero">
           <h1>Nineteen Eighty-Four by George Orwell _ 1984 _ Full Audiobook</h1>
           <div class="book-meta-chips">
+            <span class="meta-chip cat-badge">📖 文學與經典</span>
             <span class="meta-chip">🏷️ 時長：10:53:59</span>
 <span class="meta-chip">🏷️ 模型：small.en</span>
 <span class="meta-chip">🏷️ 日期：2026-09-22</span>
@@ -650,7 +769,7 @@
         </header>
 
         <!-- Transcript Content -->
-        <div class="book-body">
+        <div class="book-body" id="book-body">
           
         <section class="transcript-section" id="sec-000000">
           <div class="section-header">
@@ -815,10 +934,10 @@
 <p class="prose-p">They’ll shoot me, I don’t care. They’ll shoot me in the back of the neck, I don’t care. Down with Big Brother. They always shoot you in the back of the neck, I don’t care.</p>
 <p class="prose-p">Down with Big Brother. He sat back in his chair, slightly ashamed of himself, and laid down the pen. The next moment he started violently. There was a knocking at the door, already.</p>
 <p class="prose-p">He sat as still as a mouse, in the futile hope that whoever it was might go away after a single attempt. But no, the knocking was repeated. The worst thing of all would be to delay. His heart was thumping like a drum, but his face, from long habit, was probably expressionless.</p>
-<p class="prose-p">He got up and moved heavily towards the door.</p>
-<h4 class="section-subhead">Chapter 2 As he put his hand to the doorknob, Winston saw that he had left the diary open on the table.</h4>
-<p class="prose-p">Down with Big Brother was written all over it, in letters almost big enough to be legible across the room. It was an inconceivably stupid thing to have done. But he realised, even in his panic, he had not wanted to smudge the creamy paper by shutting the book while the ink was wet. He drew in his breath and opened the door.</p>
-<p class="prose-p">Instantly a warm wave of relief flowed through him. A colourless, crushed looking woman, with wispy hair and a lined face, was standing outside. Oh, Comrade, she began in a dreary, whining sort of voice, I thought I heard you come</p>
+<p class="prose-p">He got up and moved heavily towards the door.
+
+#### Chapter 2 As he put his hand to the doorknob, Winston saw that he had left the diary open on the table. Down with Big Brother was written all over it, in letters almost big enough to be legible across the room. It was an inconceivably stupid thing to have done. But he realised, even in his panic, he had not wanted to smudge the creamy paper by shutting the book while the ink was wet.</p>
+<p class="prose-p">He drew in his breath and opened the door. Instantly a warm wave of relief flowed through him. A colourless, crushed looking woman, with wispy hair and a lined face, was standing outside. Oh, Comrade, she began in a dreary, whining sort of voice, I thought I heard you come</p>
           </div>
         </section>
         
@@ -909,13 +1028,14 @@
 <p class="prose-p">Thought crime is death. Now he had recognized himself as a dead man. It became important to stay alive as long as possible. Two fingers of his right hand were ink-stained.</p>
 <p class="prose-p">It was exactly the kind of detail that might betray you. Some nosing zealot in the ministry. A woman, probably. Someone like the little sandy-haired woman or the dark-haired girl from the fiction department might start wondering why he had been writing during the lunch interval, why he had used an old-fashioned pen, what he had been writing, and then drop a hint in the appropriate quarter.</p>
 <p class="prose-p">He went to the bathroom and carefully scrubbed the ink away with the gritty dark brown soap which rasped your skin like sandpaper and was therefore well adapted for this purpose. He put the diary away in the drawer. It was quite useless to think of hiding it, but he could at least make sure whether or not its existence had been discovered. A hair laid across the page ends was too obvious.</p>
-<p class="prose-p">With the tip of his finger, he picked up an identifiable grain of whitish dust and deposited it on the corner of the cover, where it was bound to be shaken off if the book was moved.</p>
-<h4 class="section-subhead">Chapter 3 Winston was dreaming of his mother.</h4>
-<p class="prose-p">He must, he thought, have been ten or eleven years old when his mother had disappeared. She was a tall, statuesque, rather silent woman, with slow movements and magnificent fair hair. His father, he remembered more vaguely as dark and thin, dressed always in neat, dark clothes. Winston remembered especially the very thin soles of his father’s shoes and wearing spectacles.</p>
-<p class="prose-p">The two of them must evidently have been swallowed up in one of the first great purges of the fifties. At this moment, his mother was sitting in some place deep down beneath him, with his young sister in her arms. He did not remember his sister at all, except as a tiny, feeble baby, always silent, with large watchful eyes. Both of them were looking up at him. They were down in some subterranean place, the bottom of a well, for instance, or a very deep grave.</p>
-<p class="prose-p">But it was a place which, already far below him, was itself moving downwards. They were in the saloon of a sinking ship, looking up at him through the darkening water. There was still air in the saloon, they could still see him and he them, but all the while they were sinking down, down into the green waters which in another moment must hide them from sight forever. He was out in the light and air, while they were being sucked down to death, and they were down there because he was up here.</p>
-<p class="prose-p">He knew it, and they knew it, and he could see the knowledge in their faces. There was no reproach either in their faces or in their hearts, only the knowledge that they must die in order that he might remain alive, and that this was part of the unavoidable order of things. He could not remember what had happened, but he knew in his dream that in some way the lives of his mother and his sister had been sacrificed to his own. It was one of those dreams which, while retaining the characteristic dream scenery, are a continuation of one’s intellectual life, and in which one becomes aware of facts and ideas which still seem new and valuable after one is awake.</p>
-<p class="prose-p">The thing that now suddenly struck Winston was that his mother’s death nearly 30 years ago had been tragic and sorrowful in a way that was no longer possible. Tragedy he perceived belonged to the ancient time, to a time when there was still privacy, love and friendship, and when the members of a family stood by one another without needing to know the reason. His mother’s memory tore at his heart because she had died loving him, when he was too young</p>
+<p class="prose-p">With the tip of his finger, he picked up an identifiable grain of whitish dust and deposited it on the corner of the cover, where it was bound to be shaken off if the book was moved.
+
+#### Chapter 3 Winston was dreaming of his mother. He must, he thought, have been ten or eleven years old when his mother had disappeared. She was a tall, statuesque, rather silent woman, with slow movements and magnificent fair hair. His father, he remembered more vaguely as dark and thin, dressed always in neat, dark clothes.</p>
+<p class="prose-p">Winston remembered especially the very thin soles of his father’s shoes and wearing spectacles. The two of them must evidently have been swallowed up in one of the first great purges of the fifties. At this moment, his mother was sitting in some place deep down beneath him, with his young sister in her arms. He did not remember his sister at all, except as a tiny, feeble baby, always silent, with large watchful eyes. Both of them were looking up at him.</p>
+<p class="prose-p">They were down in some subterranean place, the bottom of a well, for instance, or a very deep grave. But it was a place which, already far below him, was itself moving downwards. They were in the saloon of a sinking ship, looking up at him through the darkening water. There was still air in the saloon, they could still see him and he them, but all the while they were sinking down, down into the green waters which in another moment must hide them from sight forever.</p>
+<p class="prose-p">He was out in the light and air, while they were being sucked down to death, and they were down there because he was up here. He knew it, and they knew it, and he could see the knowledge in their faces. There was no reproach either in their faces or in their hearts, only the knowledge that they must die in order that he might remain alive, and that this was part of the unavoidable order of things. He could not remember what had happened, but he knew in his dream that in some way the lives of his mother and his sister had been sacrificed to his own.</p>
+<p class="prose-p">It was one of those dreams which, while retaining the characteristic dream scenery, are a continuation of one’s intellectual life, and in which one becomes aware of facts and ideas which still seem new and valuable after one is awake. The thing that now suddenly struck Winston was that his mother’s death nearly 30 years ago had been tragic and sorrowful in a way that was no longer possible. Tragedy he perceived belonged to the ancient time, to a time when there was still privacy, love and friendship, and when the members of a family stood by one another without needing to know the reason.</p>
+<p class="prose-p">His mother’s memory tore at his heart because she had died loving him, when he was too young</p>
           </div>
         </section>
         
@@ -998,15 +1118,14 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <h4 class="section-subhead">Chapter 4 With the deep, unconscious sigh which not even the nearness of the telescreen could prevent him from uttering when his day’s work started, Winston pulled the speak right towards him, blew the dust from its mouthpiece, and put on his spectacles.</h4>
-<p class="prose-p">Then he unrolled and clipped together four small cylinders of paper which had already flopped out of the pneumatic tube on the right hand side of his desk. In the walls of the cubicle there were three orifices. To the right of the speak right, a small pneumatic tube for written messages. To the left, a larger one for newspapers.</p>
-<p class="prose-p">And in the side wall, within easy reach of Winston’s arm, a large oblong slit protected by a wire grating. This last was for the disposal of waste paper. Similar slits existed in thousands or tens of thousands throughout the building, not only in every room, but at short intervals in every corridor. For some reason, they were nicknamed memory holes.</p>
-<p class="prose-p">When one knew that any document was due for destruction, or even when one saw a scrap of waste paper lying about, it was an automatic action to lift the flap of the nearest memory hole and drop it in, whereupon it would be whirled away on a current of warm air to the enormous furnaces which were hidden somewhere in the recesses of the building. Winston examined the four slips of paper which he had unrolled. Each contained a message of only one or two lines, in the abbreviated jargon, not actually newspeak, but consisting largely of newspeak words which was used in the Ministry for internal purposes.</p>
-<p class="prose-p">They ran. Times 17th of March, 84. B. B.</p>
-<p class="prose-p">Speech, Mal-reported Africa Rectify. Times 19th of December, 83. Forecast 3YP. 4th Quarter, 83. Misprints verify current issue.</p>
-<p class="prose-p">Times 14th of February, 84. Mini-plenty Mal-quoted Chocolate Rectify. Times 3rd of December, 83. Reporting B.</p>
-<p class="prose-p">B. Day order double-plus-and-good refs on persons rewrite full-wise upsub anti-filing. With a faint feeling of satisfaction, Winston laid the fourth message aside. It was an intricate and responsible job and had better be dealt with last.</p>
-<p class="prose-p">The other three were routine matters, though the second one would probably mean some tedious wading through lists of figures. Winston dialled back numbers on the tele-screen and called for the appropriate issues of The Times, which slid out of the pneumatic tube after only a few minutes delay. The messages he had received referred to articles or news items, which for one reason or another it was thought necessary to alter, or, as the official phrase had it, to rectify.</p>
+            <p class="prose-p">#### Chapter 4 With the deep, unconscious sigh which not even the nearness of the telescreen could prevent him from uttering when his day’s work started, Winston pulled the speak right towards him, blew the dust from its mouthpiece, and put on his spectacles. Then he unrolled and clipped together four small cylinders of paper which had already flopped out of the pneumatic tube on the right hand side of his desk. In the walls of the cubicle there were three orifices. To the right of the speak right, a small pneumatic tube for written messages.</p>
+<p class="prose-p">To the left, a larger one for newspapers. And in the side wall, within easy reach of Winston’s arm, a large oblong slit protected by a wire grating. This last was for the disposal of waste paper. Similar slits existed in thousands or tens of thousands throughout the building, not only in every room, but at short intervals in every corridor.</p>
+<p class="prose-p">For some reason, they were nicknamed memory holes. When one knew that any document was due for destruction, or even when one saw a scrap of waste paper lying about, it was an automatic action to lift the flap of the nearest memory hole and drop it in, whereupon it would be whirled away on a current of warm air to the enormous furnaces which were hidden somewhere in the recesses of the building. Winston examined the four slips of paper which he had unrolled.</p>
+<p class="prose-p">Each contained a message of only one or two lines, in the abbreviated jargon, not actually newspeak, but consisting largely of newspeak words which was used in the Ministry for internal purposes. They ran. Times 17th of March, 84. B.</p>
+<p class="prose-p">B. Speech, Mal-reported Africa Rectify. Times 19th of December, 83. Forecast 3YP. 4th Quarter, 83.</p>
+<p class="prose-p">Misprints verify current issue. Times 14th of February, 84. Mini-plenty Mal-quoted Chocolate Rectify. Times 3rd of December, 83.</p>
+<p class="prose-p">Reporting B. B. Day order double-plus-and-good refs on persons rewrite full-wise upsub anti-filing. With a faint feeling of satisfaction, Winston laid the fourth message aside.</p>
+<p class="prose-p">It was an intricate and responsible job and had better be dealt with last. The other three were routine matters, though the second one would probably mean some tedious wading through lists of figures. Winston dialled back numbers on the tele-screen and called for the appropriate issues of The Times, which slid out of the pneumatic tube after only a few minutes delay. The messages he had received referred to articles or news items, which for one reason or another it was thought necessary to alter, or, as the official phrase had it, to rectify.</p>
 <p class="prose-p">For example, it appeared from The Times of the 17th of March that Big Brother, in his speech of the previous day, had predicted that the South Indian front would remain quiet, but that a Eurasian offensive would shortly be launched in North Africa. As it happened, the Eurasian higher command had launched its offensive in South India and left North Africa alone. It was therefore necessary to rewrite a paragraph of Big Brother’s speech in such a way as to make him predict the thing that had actually happened, or again, The Times of the 19th of December had published the official forecasts of the output of various classes of consumption goods in the fourth quarter of 1983, which was also the sixth quarter of the ninth three-year plan.</p>
 <p class="prose-p">Today’s issue contained a statement of the actual output, from which it appeared that the forecasts were in every instance grossly wrong. Winston’s job was to rectify the original figures by making them agree with the later ones. As for the third message, it referred to a very simple error which could be set right in a couple of minutes. A shorter time ago as February, the Ministry of Plenty had issued a promise, a categorical pledge, were the official words, that there would be no reduction of the chocolate ration during 1984.</p>
 <p class="prose-p">Actually, as Winston was aware, the chocolate ration was to be reduced from thirty grams to twenty at the end of the present week. All that was needed was to substitute for the original promise, a warning that it would probably be necessary to reduce the ration at some time in April. As soon as Winston had dealt with each of the messages, he clipped his speak-written corrections to the appropriate copy of The Times and pushed them into the pneumatic tube. Then, with a movement which was as nearly as possible unconscious, he crumpled up the original message, and any notes that he himself had made, and dropped</p>
@@ -1085,8 +1204,9 @@
 <p class="prose-p">At nineteen, he had designed a hand grenade which had been adopted by the Ministry of Peace, and which, at its first trial, had killed thirty-one Eurasian prisoners in one burst. At twenty-three, he had perished in action, pursued by enemy jet planes while flying over the Indian Ocean with important dispatches. He had waited his body with his machine gun and leapt out of the helicopter into deep water, dispatches and all, an end, said Big Brother, which it was impossible to contemplate without feelings of envy.</p>
 <p class="prose-p">Big Brother added a few remarks on the purity and single-mindedness of Comrade Ogilvy’s life. He was a total abstainer and a non-smoker, had no recreations except a daily hour in the gymnasium, and had taken a vow of celibacy, believing marriage and the care of a family to be incompatible with a twenty-four hour a day devotion to duty. He had no subjects of conversation except the principles of Ingsoc, and no aim in life except the defeat of the Eurasian enemy and the hunting down of spies, saboteurs, thought criminals and traitors generally.</p>
 <p class="prose-p">Winston debated with himself whether to award Comrade Ogilvy the order of conspicuous merit. In the end, he decided against it because of the unnecessary cross-referencing that it would entail. Once again, he glanced at his rival in the opposite cubicle. Something seemed to tell him with certainty that Tillotson was busy on the same job as himself.</p>
-<p class="prose-p">There was no way of knowing whose job would finally be adopted, but he felt a profound conviction that it would be his own. Comrade Ogilvy, unimagined an hour ago, was now a fact. It struck him as curious that you could create dead men, but not living ones. Comrade Ogilvy, who had never existed in the present, now existed in the past, and when once the act of forgery was forgotten, he would exist just as authentically, and upon the same evidence as Charlemagne or Julius Caesar.</p>
-<h4 class="section-subhead">Chapter 5.</h4>
+<p class="prose-p">There was no way of knowing whose job would finally be adopted, but he felt a profound conviction that it would be his own. Comrade Ogilvy, unimagined an hour ago, was now a fact. It struck him as curious that you could create dead men, but not living ones. Comrade Ogilvy, who had never existed in the present, now existed in the past, and when once the act of forgery was forgotten, he would exist just as authentically, and upon the same evidence as Charlemagne or Julius Caesar.
+
+#### Chapter 5.</p>
 <p class="prose-p">In the low-ceilinged canteen, deep underground, the lunch cue jerked slowly forward. The room was already very full and deafeningly noisy. From the grill at the counter the steam of stew came pouring forth, with a sour metallic smell which did not quite overcome the fumes of victory gin. On the far side of the room there was a small bar, a mere hole in the wall, where gin could be bought at ten cents, the large nip.</p>
 <p class="prose-p">“&#x27;Just the man I was looking for,&#x27; said a voice at Winston’s back. He turned round. It was his friend Syme, who worked in the research department. Perhaps friend was not exactly the right word.</p>
 <p class="prose-p">You did not have friends nowadays, you had comrades. But there were some comrades whose society was pleasanter than that of others. Syme was a philologist, a specialist in newspeak. Indeed, he was one of the enormous team of experts now engaged in compiling the eleventh edition of the Newspeak dictionary.</p>
@@ -1240,8 +1360,9 @@
 <p class="prose-p">Syme had folded up his strip of paper and stowed it away in his pocket. Parsons had begun talking again. Did I ever tell you, old boy, he said, chuckling round the stem of his pipe, about the time when those two nippers of mine set fire to the old market woman’s skirt because they saw her wrapping up sausages in a poster of Beebe, sneaked up behind her and set fire to it with a box of matches. Burned her quite badly, I believe.</p>
 <p class="prose-p">Little beggars, eh? But keen as mustard. That’s a first-rate training they give them in the spies nowadays. Better than in my day, even.</p>
 <p class="prose-p">What do you think’s the latest thing they’ve served them out with? Ear trumpets for listening through keyholes. My little girl brought one home the other night, tried it out on our sitting-room door, and reckoned she could hear twice as much as with her ear to the hole. Of course it’s only a toy, mind you.</p>
-<p class="prose-p">Still, gives them the right idea, eh? At this moment the telescreen let out a piercing whistle. It was the signal to return to work. All three men sprang to their feet to join in the struggle round the lifts, and the remaining tobacco fell out of Winston’s cigarette.</p>
-<h4 class="section-subhead">Chapter 6 Winston was writing in his diary.</h4>
+<p class="prose-p">Still, gives them the right idea, eh? At this moment the telescreen let out a piercing whistle. It was the signal to return to work. All three men sprang to their feet to join in the struggle round the lifts, and the remaining tobacco fell out of Winston’s cigarette.
+
+#### Chapter 6 Winston was writing in his diary.</p>
           </div>
         </section>
         
@@ -1304,14 +1425,15 @@
 <p class="prose-p">If he went away, without even doing what he had come here to do. It had got to be written down. It had got to be confessed. What he had suddenly seen in the lamplight was that the woman was old.</p>
 <p class="prose-p">The paint was plastered so thick on her face that it looked as though it might crack like a cardboard mask. There were streaks of white in her hair, but the truly dreadful detail was that her mouth had fallen a little open, revealing nothing except a cavernous blackness. She had no teeth at all. He wrote hurriedly in scrabbling handwriting.</p>
 <p class="prose-p">When I saw her in the light she was quite an old woman, fifty years old at least. But I went ahead and did it just the same. He pressed his fingers against his eyelids again. He had written it down at last, but it made no difference.</p>
-<p class="prose-p">The therapy had not worked. The urge to shout filthy words at the top of his voice was as strong as ever.</p>
-<h4 class="section-subhead">Chapter 7.</h4>
-<p class="prose-p">If there is hope, wrote Winston, it lies in the proles. If there was hope, it must lie in the proles, because only there, in those swarming, disregarded masses, eighty-five percent of the population of Oceania, could the force to destroy the party ever be generated. The party could not be overthrown from within, its enemies, if it had any enemies, had no way of coming together or even of identifying one another. Even if the legendary brotherhood existed as just possibly it might, it was inconceivable that its members could ever assemble in larger numbers than twos and threes.</p>
-<p class="prose-p">Rebellion meant a look in the eyes, an inflection of the voice, at the most an occasional whispered word. But the proles, if only they could somehow become conscious of their own strength, would have no need to conspire. They needed only to rise up and shake themselves like a horse shaking off flies. If they chose, they could blow the party to pieces tomorrow morning.</p>
-<p class="prose-p">Surely, sooner or later it must occur to them to do it. And yet, he remembered how once he had been walking down a crowded street when a tremendous shout of hundreds of voices, women’s voices, had burst from a side street a little way ahead. It was a great formidable cry of anger and despair, a deep loud, oh, oh, oh, oh, oh, that went humming on like the reverberation of a bell. His heart had leapt.</p>
-<p class="prose-p">It started, he had thought, a riot, the proles are breaking loose at last. When he had reached the spot, it was to see a mob of two or three hundred women crowding round the stalls of a street market, with faces as tragic as though they had been the doomed passengers on a sinking ship. But at this moment, the general despair broke down into a multitude of individual quarrels. It appeared that one of the stalls had been selling tin saucepans.</p>
-<p class="prose-p">They were wretched, flimsy things, but cooking pots of any kind were always difficult to get. Now the supply had unexpectedly given out. The successful women, bumped and jostled by the rest, were trying to make off with their saucepans while dozens of others clamoured round the stall, accusing the stallkeeper of favouritism and of having more saucepans somewhere in reserve. There was a fresh outburst of yells.</p>
-<p class="prose-p">Two bloated women, one of them with her hair coming down, had got hold of the same saucepan and were trying to tear it out of one another’s hands. For a moment, they were both tugging, and then the handle came off. Winston watched them disgustedly. And yet, just for a moment, what almost frightening power had sounded in that cry from only a few hundred throats, why was it that they could never shout like that about anything that mattered?</p>
+<p class="prose-p">The therapy had not worked. The urge to shout filthy words at the top of his voice was as strong as ever.
+
+#### Chapter 7. If there is hope, wrote Winston, it lies in the proles. If there was hope, it must lie in the proles, because only there, in those swarming, disregarded masses, eighty-five percent of the population of Oceania, could the force to destroy the party ever be generated.</p>
+<p class="prose-p">The party could not be overthrown from within, its enemies, if it had any enemies, had no way of coming together or even of identifying one another. Even if the legendary brotherhood existed as just possibly it might, it was inconceivable that its members could ever assemble in larger numbers than twos and threes. Rebellion meant a look in the eyes, an inflection of the voice, at the most an occasional whispered word. But the proles, if only they could somehow become conscious of their own strength, would have no need to conspire.</p>
+<p class="prose-p">They needed only to rise up and shake themselves like a horse shaking off flies. If they chose, they could blow the party to pieces tomorrow morning. Surely, sooner or later it must occur to them to do it. And yet, he remembered how once he had been walking down a crowded street when a tremendous shout of hundreds of voices, women’s voices, had burst from a side street a little way ahead.</p>
+<p class="prose-p">It was a great formidable cry of anger and despair, a deep loud, oh, oh, oh, oh, oh, that went humming on like the reverberation of a bell. His heart had leapt. It started, he had thought, a riot, the proles are breaking loose at last. When he had reached the spot, it was to see a mob of two or three hundred women crowding round the stalls of a street market, with faces as tragic as though they had been the doomed passengers on a sinking ship.</p>
+<p class="prose-p">But at this moment, the general despair broke down into a multitude of individual quarrels. It appeared that one of the stalls had been selling tin saucepans. They were wretched, flimsy things, but cooking pots of any kind were always difficult to get. Now the supply had unexpectedly given out.</p>
+<p class="prose-p">The successful women, bumped and jostled by the rest, were trying to make off with their saucepans while dozens of others clamoured round the stall, accusing the stallkeeper of favouritism and of having more saucepans somewhere in reserve. There was a fresh outburst of yells. Two bloated women, one of them with her hair coming down, had got hold of the same saucepan and were trying to tear it out of one another’s hands. For a moment, they were both tugging, and then the handle came off.</p>
+<p class="prose-p">Winston watched them disgustedly. And yet, just for a moment, what almost frightening power had sounded in that cry from only a few hundred throats, why was it that they could never shout like that about anything that mattered?</p>
 <p class="prose-p">He wrote, “&#x27;Until they become conscious, they will never rebel. And until after they have rebelled, they cannot become conscious.&#x27;” That, he reflected, might almost have been a transcription from one of the party textbooks. The party claimed, of course, to have liberated the proles from bondage. Before the revolution, they had been hideously oppressed by the capitalists.</p>
           </div>
         </section>
@@ -1416,8 +1538,9 @@
 <p class="prose-p">He was writing the diary for O’Brien. To O’Brien. It was like an interminable letter which no one would ever read, but which was addressed to a particular person and took its colour from that fact. The party told you to reject the evidence of your eyes and ears.</p>
 <p class="prose-p">It was their final, most essential command. His heart sank as he thought of the enormous power arrayed against him. The ease with which any party intellectual would overthrow him in debate. The subtle arguments which he would not be able to understand, much less answer.</p>
 <p class="prose-p">And yet he was in the right. They were wrong, and he was right. The obvious, the silly, and the true had got to be defended. Truisms are true, hold on to that.</p>
-<p class="prose-p">The solid world exists, its laws do not change. Truisms are hard, water is wet, objects unsupported fall towards the earth’s centre. With the feeling that he was speaking to O’Brien, and also that he was setting forth an important axiom, he wrote, freedom is the freedom to say that two plus two make four. If that is granted, all else follows.</p>
-<h4 class="section-subhead">Chapter 8 From somewhere at the bottom of a passage the smell of roasting coffee, real coffee, not victory coffee, came floating out into the street.</h4>
+<p class="prose-p">The solid world exists, its laws do not change. Truisms are hard, water is wet, objects unsupported fall towards the earth’s centre. With the feeling that he was speaking to O’Brien, and also that he was setting forth an important axiom, he wrote, freedom is the freedom to say that two plus two make four. If that is granted, all else follows.
+
+#### Chapter 8 From somewhere at the bottom of a passage the smell of roasting coffee, real coffee, not victory coffee, came floating out into the street.</p>
 <p class="prose-p">Winston paused involuntarily, for perhaps two seconds he was back in the half forgotten world of his childhood. Then a door banged, seeming to cut off the smell as abruptly as though it had been a sound. He had walked several kilometres over pavements, and his varicose ulcer was throbbing. This was the second time in three weeks that he had missed an evening at the community centre.</p>
 <p class="prose-p">A rash act, since you could be certain that the number of your attendances at the centre was carefully checked. In principle a party member had no spare time, and was never alone except in bed. It was assumed that when he was not working, eating, or sleeping, he would be taking part in some kind of communal recreation, to do anything that suggested a taste for solitude, and to go for a walk by yourself, was always slightly dangerous. There was a word for it in Newspeak, own life, it was called, meaning individualism and eccentricity.</p>
 <p class="prose-p">But this evening, as he came out of the ministry, the balmyness of the April air had tempted him. The sky was a warmer blue than he had seen it that year, and suddenly the long noisy evening at the centre, the boring, exhausting games, the lectures, the creaking camaraderie oiled by gin, had seemed intolerable. On impulse he had turned away from the bus stop, and wandered off into the labyrinth of London, first south, then east, then north again, losing himself among unknown streets, and hardly bothering in which direction he was going.</p>
@@ -1654,13 +1777,15 @@
 <p class="prose-p">When once you had succumbed to thought crime, it was certain that by a given date you would be dead. Why then did that horror, which altered nothing, have to lie embedded in future time? He tried with a little more success than before to summon up the image of O’Brien. We shall meet in the place where there is no darkness, O’Brien had said to him.</p>
 <p class="prose-p">He knew what it meant, or thought he knew. The place where there is no darkness was the imagined future, which one would never see, but which, by foreknowledge, one could mystically share in. But with the voice from the telescreen nagging at his ears, he could not follow the train of thought further. He put a cigarette in his mouth.</p>
 <p class="prose-p">Half the tobacco promptly fell out onto his tongue, a bitter dust which was difficult to spit out again. The face of Big Brother swam into his mind, displacing that of O’Brien. Just as he had done a few days earlier, he slid a coin out of his pocket and looked at it. The face gazed up at him, heavy, calm, protecting.</p>
-<p class="prose-p">But what kind of smile was hidden beneath the dark moustache? Like a leaden knell the words came back at him. War is peace, freedom is slavery, ignorance is strength.</p>
-<h4 class="section-subhead">Part 2.</h4>
-<h4 class="section-subhead">Chapter 1.</h4>
-<p class="prose-p">It was the middle of the morning, and Winston had left the cubicle to go to the lavatory. A solitary figure was coming towards him from the other end of the long, brightly lit corridor. It was the girl with dark hair. Four days had gone past since the evening when he had run into her outside the junk shop.</p>
-<p class="prose-p">As she came nearer, he saw that her right arm was in a sling, not noticeable at a distance because it was of the same color as her overalls. Probably she had crushed her hand while swinging round one of the big kaleidoscopes on which the plots of novels were roughed in. It was a common accident in the fiction department. They were perhaps four meters apart when the girl stumbled and fell almost flat on her face.</p>
-<p class="prose-p">A sharp cry of pain was wrung out of her. She must have fallen right on the injured arm. Winston stopped short. The girl had risen to her knees.</p>
-<p class="prose-p">Her face had turned a milky yellow color against which her mouth stood out redder than ever. Her eyes were fixed on his with an appealing expression that looked more like fear than pain. A curious emotion</p>
+<p class="prose-p">But what kind of smile was hidden beneath the dark moustache? Like a leaden knell the words came back at him. War is peace, freedom is slavery, ignorance is strength.
+
+#### Part 2.
+
+#### Chapter 1. It was the middle of the morning, and Winston had left the cubicle to go to the lavatory.</p>
+<p class="prose-p">A solitary figure was coming towards him from the other end of the long, brightly lit corridor. It was the girl with dark hair. Four days had gone past since the evening when he had run into her outside the junk shop. As she came nearer, he saw that her right arm was in a sling, not noticeable at a distance because it was of the same color as her overalls.</p>
+<p class="prose-p">Probably she had crushed her hand while swinging round one of the big kaleidoscopes on which the plots of novels were roughed in. It was a common accident in the fiction department. They were perhaps four meters apart when the girl stumbled and fell almost flat on her face. A sharp cry of pain was wrung out of her.</p>
+<p class="prose-p">She must have fallen right on the injured arm. Winston stopped short. The girl had risen to her knees. Her face had turned a milky yellow color against which her mouth stood out redder than ever.</p>
+<p class="prose-p">Her eyes were fixed on his with an appealing expression that looked more like fear than pain. A curious emotion</p>
           </div>
         </section>
         
@@ -1779,8 +1904,9 @@
 <p class="prose-p">Nor did one know what became of them, apart from the few who were hanged as war criminals. The others simply vanished, presumably into forced labor camps. The round mogul faces had given way to faces of a more European type, dirty, bearded, and exhausted. From over scrubby cheekbones eyes looked into winstons, sometimes with strange intensity, and flashed away again.</p>
 <p class="prose-p">The convoy was drawing to an end. In the last truck he could see an aged man, his face a mass of grizzled hair, standing upright with wrists crossed in front of him, as though he were used to having them bound together. It was almost time for Winston and the girl to part. But at the last moment, while the crowd still hemmed them in, her hand felt for his, and gave it a fleeting squeeze.</p>
 <p class="prose-p">It could not have been ten seconds, and yet it seemed a long time that their hands were clasped together. He had time to learn every detail of her hand. He explored the long fingers, the shapely nails, the work-hardened palm with its row of calluses, the smooth flesh under the wrist. Merely from feeling it, he would have known it by sight.</p>
-<p class="prose-p">In the same instant it occurred to him that he did not know what color the girl’s eyes were. They were probably brown, but people with dark hair sometimes had blue eyes. To turn his head and look at her would have been inconceivable folly. With hands locked together, Invisible among the press of bodies, they stared steadily in front of them, and instead of the eyes of the girl, the eyes of the aged prisoner gazed mournfully at Winston out of nests of hair.</p>
-<h4 class="section-subhead">Chapter 2.</h4>
+<p class="prose-p">In the same instant it occurred to him that he did not know what color the girl’s eyes were. They were probably brown, but people with dark hair sometimes had blue eyes. To turn his head and look at her would have been inconceivable folly. With hands locked together, Invisible among the press of bodies, they stared steadily in front of them, and instead of the eyes of the girl, the eyes of the aged prisoner gazed mournfully at Winston out of nests of hair.
+
+#### Chapter 2.</p>
 <p class="prose-p">Winston picked his way up the lane through dappled light and shade, stepping out into pools of gold wherever the boughs parted. Under the trees to the left of him, the ground was misty with bluebells. The air seemed to kiss one’s skin. It was the 2nd of May.</p>
 <p class="prose-p">From somewhere deeper in the heart of the wood came the droning of ring-doves. He was a bit early. There had been no difficulties about the journey, and the girl was so evidently experienced that he was less frightened than he would normally have been. Presumably, she could be trusted to find a safe place.</p>
 <p class="prose-p">In general, you could not assume that you were much safer in the country than in London. There were no telescreens, of course, but there was always the danger of concealed microphones by which your voice might be picked up and recognised. Besides, it was not easy to make a journey by yourself without attracting attention. For distances of less than 100 kilometres, it was not necessary to get your passport endorsed, but sometimes there were patrols hanging about the railway stations, who examined the papers of any party member they found there and asked awkward questions.</p>
@@ -1892,8 +2018,9 @@
 <p class="prose-p">Almost immediately, they fell asleep and slept for about half an hour. Winston woke first. He sat up and watched the freckled face, still peacefully asleep, pillowed on the palm of her hand. Except for her mouth, you could not call her beautiful.</p>
 <p class="prose-p">There was a line or two round the eyes if you looked closely. The short dark hair was extraordinarily thick and soft. It occurred to him that he still did not know her surname or where she lived. The young, strong body, now helpless in sleep, awoke in him a pitying, protecting feeling.</p>
 <p class="prose-p">But the mindless tenderness that he had felt under the hazel tree, while the thrush was singing, had not quite come back. He pulled the overalls aside and studied her smooth, white flank. In the old days, he thought, a man looked at a girl’s body and saw that it was desirable, and that was the end of the story. But you could not have pure love or pure lust nowadays.</p>
-<p class="prose-p">No emotion was pure because everything was mixed up with fear and hatred. Their embrace had been a battle, the climax, a victory. It was a blow struck against the party. It was a political act.</p>
-<h4 class="section-subhead">Chapter 3.</h4>
+<p class="prose-p">No emotion was pure because everything was mixed up with fear and hatred. Their embrace had been a battle, the climax, a victory. It was a blow struck against the party. It was a political act.
+
+#### Chapter 3.</p>
 <p class="prose-p">We can come here once again, said Julia. It’s generally safe to use any hideout twice, but not for another month or two, of course. As soon as she woke up, her demeanor had changed. She became alert and business-like, put her clothes on, knotted the scarlet sash about her waist, and began arranging the details of the journey home.</p>
 <p class="prose-p">It seemed natural to leave this to her. She obviously had a practical cunning which Winston lacked, and she seemed also to have an exhaustive knowledge of the countryside round London, stored away from innumerable community hikes. The route she gave him was quite different from the one by which he had come and brought him out at a different railway station. Never go home the same way as you went out, she said, as though enunciating an important general principle.</p>
 <p class="prose-p">She would leave first, and Winston was to wait half an hour before following her. She had named a place where they could meet after work. Four evenings hence. It was a street in one of the poorer quarters where there was an open market which was generally crowded and noisy.</p>
@@ -1995,15 +2122,15 @@
 <p class="prose-p">Don’t you like this? She twisted herself round and pressed her bosom against him. He could feel her breasts, ripe yet firm through her overalls. Her body seemed to be pouring some of its youth and vigor into his.</p>
 <p class="prose-p">Yes, I like that, he said, and stop talking about dying. And now listen, dear, we’ve got to fix up about the next time we meet. We may as well go back to the place in the wood. We’ve given it a good long rest.</p>
 <p class="prose-p">But you must get there by a different way this time. I’ve got it all planned out. You take the train, but look, I’ll draw it out for you. And in her practical way, she scraped together a small square of dust.</p>
-<p class="prose-p">And with a twig from a pigeon’s nest, began drawing a map on the floor.</p>
-<h4 class="section-subhead">Chapter 4.</h4>
-<p class="prose-p">Winston looked round the shabby little room above Mr. Charrington’s shop. Beside the window, the enormous bed was made up with ragged blankets and a coverless bolster. The old fashioned clock with the 12 hour face was ticking away on the mantelpiece. In the corner, on the gate leg table, the glass paper weight which he had bought on his last visit gleamed softly out of the half darkness.</p>
-<p class="prose-p">In the fender was a battered tin oil stove, a saucepan, and two cups provided by Mr. Charrington. Winston lit the burner and set a pan of water to boil. He had brought an envelope full of victory coffee and some saccharine tablets. The clock’s hands said 1720.</p>
-<p class="prose-p">It was 1920, really. She was coming at 1930. Folly, folly, his heart kept saying. Conscious, gratuitous, suicidal folly.</p>
-<p class="prose-p">Of all the crimes that a party member could commit, this one was the least possible to conceal. Actually, the idea had first floated into his head in the form of a vision, of the glass paper weight mirrored by the surface of the gate leg table. As he had foreseen, Mr. Charrington had made no difficulty about letting the room. He was obviously glad of the few dollars that it would bring him.</p>
-<p class="prose-p">Nor did he seem shocked or become offensively knowing when it was made clear that Winston wanted the room for the purpose of a love affair. Instead, he looked into the middle distance and spoke in generalities, with so delicate an air as to give the impression that he had become partly invisible. Privacy, he said, was a very valuable thing. Everyone wanted a place where they could be alone occasionally.</p>
-<p class="prose-p">And when they had such a place, it was only common courtesy in anyone else who knew of it to keep his knowledge to himself. He even, seeming almost to fade out of existence as he did so, added that there were two entries to the house, one of them through the backyard, which gave on an alley. Under the window, somebody was singing. Winston peeped out, secure in the protection of the muslin curtain.</p>
-<p class="prose-p">The dune sun was still high in the sky, and in the sun filled court below, a monstrous woman, solid as a Norman pillar, with brawny red forearms and</p>
+<p class="prose-p">And with a twig from a pigeon’s nest, began drawing a map on the floor.
+
+#### Chapter 4. Winston looked round the shabby little room above Mr. Charrington’s shop. Beside the window, the enormous bed was made up with ragged blankets and a coverless bolster. The old fashioned clock with the 12 hour face was ticking away on the mantelpiece.</p>
+<p class="prose-p">In the corner, on the gate leg table, the glass paper weight which he had bought on his last visit gleamed softly out of the half darkness. In the fender was a battered tin oil stove, a saucepan, and two cups provided by Mr. Charrington. Winston lit the burner and set a pan of water to boil. He had brought an envelope full of victory coffee and some saccharine tablets.</p>
+<p class="prose-p">The clock’s hands said 1720. It was 1920, really. She was coming at 1930. Folly, folly, his heart kept saying.</p>
+<p class="prose-p">Conscious, gratuitous, suicidal folly. Of all the crimes that a party member could commit, this one was the least possible to conceal. Actually, the idea had first floated into his head in the form of a vision, of the glass paper weight mirrored by the surface of the gate leg table. As he had foreseen, Mr. Charrington had made no difficulty about letting the room.</p>
+<p class="prose-p">He was obviously glad of the few dollars that it would bring him. Nor did he seem shocked or become offensively knowing when it was made clear that Winston wanted the room for the purpose of a love affair. Instead, he looked into the middle distance and spoke in generalities, with so delicate an air as to give the impression that he had become partly invisible. Privacy, he said, was a very valuable thing.</p>
+<p class="prose-p">Everyone wanted a place where they could be alone occasionally. And when they had such a place, it was only common courtesy in anyone else who knew of it to keep his knowledge to himself. He even, seeming almost to fade out of existence as he did so, added that there were two entries to the house, one of them through the backyard, which gave on an alley. Under the window, somebody was singing.</p>
+<p class="prose-p">Winston peeped out, secure in the protection of the muslin curtain. The dune sun was still high in the sky, and in the sun filled court below, a monstrous woman, solid as a Norman pillar, with brawny red forearms and</p>
           </div>
         </section>
         
@@ -2107,12 +2234,13 @@
 <p class="prose-p">I’ll take it down and give it a good clean someday. I suppose it’s almost time we were leaving. I must start washing this paint off. What a bore.</p>
 <p class="prose-p">I’ll get the lipstick off your face afterwards. Winston did not get up for a few minutes more. The room was darkening. He turned over towards the light and lay gazing into the glass paperweight.</p>
 <p class="prose-p">The inexhaustibly interesting thing was not the fragment of coral, but the interior of the glass itself. There was such a depth of it, and yet it was almost as transparent as air. It was as though the surface of the glass had been the arch of the sky, enclosing a tiny world with its atmosphere complete. He had the feeling that he could get inside it, and that in fact he was inside it, along with the mahogany bed and the gate leg table and the clock and the steel engraving and the paperweight itself.</p>
-<p class="prose-p">The paperweight was the room he was in, and the coral was Julia’s life and his own, fixed in a sort of eternity at the heart of the crystal.</p>
-<h4 class="section-subhead">Chapter 5.</h4>
-<p class="prose-p">Sime had vanished. A morning came, and he was missing from work. A few thoughtless people commented on his absence. On the next day, nobody mentioned him.</p>
-<p class="prose-p">On the third day, Winston went into the vestibule of the records department to look at the notice board. One of the notices carried a printed list of the members of the chess committee, of whom Sime had been won. It looked almost exactly as it had looked before. Nothing had been crossed out.</p>
-<p class="prose-p">But it was one name shorter. It was enough. Sime had ceased to exist. He had never existed.</p>
-<p class="prose-p">The weather was baking hot. In the labyrinthine ministry, the windowless, air-conditioned rooms kept their normal temperature. But outside the pavement scorched one’s feet, and the stench of the tubes at the rush hours was a horror. The preparations for hate week were in full swing, and</p>
+<p class="prose-p">The paperweight was the room he was in, and the coral was Julia’s life and his own, fixed in a sort of eternity at the heart of the crystal.
+
+#### Chapter 5. Sime had vanished. A morning came, and he was missing from work. A few thoughtless people commented on his absence.</p>
+<p class="prose-p">On the next day, nobody mentioned him. On the third day, Winston went into the vestibule of the records department to look at the notice board. One of the notices carried a printed list of the members of the chess committee, of whom Sime had been won. It looked almost exactly as it had looked before.</p>
+<p class="prose-p">Nothing had been crossed out. But it was one name shorter. It was enough. Sime had ceased to exist.</p>
+<p class="prose-p">He had never existed. The weather was baking hot. In the labyrinthine ministry, the windowless, air-conditioned rooms kept their normal temperature. But outside the pavement scorched one’s feet, and the stench of the tubes at the rush hours was a horror.</p>
+<p class="prose-p">The preparations for hate week were in full swing, and</p>
           </div>
         </section>
         
@@ -2198,11 +2326,12 @@
 <p class="prose-p">I’m interested in us. You’re only a rebel from the waist downwards, he told her. She thought this brilliantly witty and flung her arms round him in delight. In the ramifications of party doctrine, she had not the faintest interest.</p>
 <p class="prose-p">After he began to talk of the principles of Ingsoc, doublethink, the mutability of the past, and the denial of objective reality, and to use new-speak words, she became bored and confused and said that she never paid any attention to that kind of thing. One knew that it was all rubbish, so why let oneself be worried by it? She knew when to cheer and when to boo, and that was all one needed. If he persisted in talking of such subjects, she had a disconcerting habit of falling asleep.</p>
 <p class="prose-p">She was one of those people who can go to sleep at any hour and in any position. Talking to her, he realized how easy it was to present an appearance of orthodoxy, while having no grasp whatever of what orthodoxy meant. In a way, the worldview of the party imposed itself most successfully on people incapable of understanding it. They could be made to accept the most flagrant violations of reality, because they never fully grasped the enormity of what was demanded of them, and were not sufficiently interested in public events to notice what was happening.</p>
-<p class="prose-p">By lack of understanding, they remained sane. They simply swallowed everything, and what they swallowed did them no harm, because it left no residue behind, just as a grain of corn will pass undigested through the body of a bird.</p>
-<h4 class="section-subhead">Chapter 6 It had happened at last.</h4>
-<p class="prose-p">The expected message had come. All his life, it seemed to him, he had been waiting for this to happen. He was walking down the long corridor at the ministry, and he was almost at the spot where Julia had slipped the note into his hand when he became aware that someone larger than himself was walking just behind him. The person, whoever it was, gave a small cough, evidently as a prelude to speaking.</p>
-<p class="prose-p">Winston stopped abruptly and turned. It was O’Brien. At last they were face to face, and it seemed that his only impulse was to run away. His heart bounded violently.</p>
-<p class="prose-p">He would have been incapable of speaking. O’Brien, however, had continued forward in the same movement, laying a friendly hand for a moment on Winston’s arm, so that the two of them were walking side by side. He began speaking with the peculiar grave courtesy that differentiated him from the majority of inner party members.</p>
+<p class="prose-p">By lack of understanding, they remained sane. They simply swallowed everything, and what they swallowed did them no harm, because it left no residue behind, just as a grain of corn will pass undigested through the body of a bird.
+
+#### Chapter 6 It had happened at last. The expected message had come. All his life, it seemed to him, he had been waiting for this to happen.</p>
+<p class="prose-p">He was walking down the long corridor at the ministry, and he was almost at the spot where Julia had slipped the note into his hand when he became aware that someone larger than himself was walking just behind him. The person, whoever it was, gave a small cough, evidently as a prelude to speaking. Winston stopped abruptly and turned. It was O’Brien.</p>
+<p class="prose-p">At last they were face to face, and it seemed that his only impulse was to run away. His heart bounded violently. He would have been incapable of speaking. O’Brien, however, had continued forward in the same movement, laying a friendly hand for a moment on Winston’s arm, so that the two of them were walking side by side.</p>
+<p class="prose-p">He began speaking with the peculiar grave courtesy that differentiated him from the majority of inner party members.</p>
           </div>
         </section>
         
@@ -2228,8 +2357,9 @@
 <p class="prose-p">If you ever want to see me, this is where I can be found, was what O’Brien had been saying to him. Perhaps there would even be a message concealed somewhere in the dictionary. But at any rate, one thing was certain. The conspiracy that he had dreamed of did exist, and he had reached the outer edges of it.</p>
 <p class="prose-p">He knew that sooner or later he would obey O’Brien’s summons. Perhaps tomorrow, perhaps after a long delay, he was not certain. What was happening was only the working out of a process that had started years ago. The first step had been a secret, involuntary thought.</p>
 <p class="prose-p">The second had been the opening of the diary. He had moved from thoughts to words, and now from words to actions. The last step was something that would happen in the Ministry of Love. He had accepted it.</p>
-<p class="prose-p">The end was contained in the beginning, but it was frightening. Or more exactly, it was like a foretaste of death, like being a little less alive. Even while he was speaking to O’Brien, when the meaning of the words had sunk in, a chilly, shuddering feeling had taken possession of his body. He had the sensation of stepping into the dampness of a grave, and it was not much better because he had always known that the grave was there and waiting for him.</p>
-<h4 class="section-subhead">Chapter 7.</h4>
+<p class="prose-p">The end was contained in the beginning, but it was frightening. Or more exactly, it was like a foretaste of death, like being a little less alive. Even while he was speaking to O’Brien, when the meaning of the words had sunk in, a chilly, shuddering feeling had taken possession of his body. He had the sensation of stepping into the dampness of a grave, and it was not much better because he had always known that the grave was there and waiting for him.
+
+#### Chapter 7.</p>
 <p class="prose-p">Winston had woken up with his eyes full of tears.</p>
           </div>
         </section>
@@ -2317,8 +2447,9 @@
           </div>
           <div class="section-body">
             <p class="prose-p">Tortures, drugs, delicate instruments that registered your nervous reactions, gradual wearing down by sleeplessness and solitude and persistent questioning, facts, at any rate, could not be kept hidden. They could be tracked down by inquiry. They could be squeezed out of you by torture. But if the object was not to stay alive, but to stay human, what difference did it ultimately make?</p>
-<p class="prose-p">They could not alter your feelings. For that matter, you could not alter them yourself, even if you wanted to. They could lay bare in the utmost detail everything that you had done or said or thought. But the inner heart, whose workings were mysterious even to yourself, remained impregnable.</p>
-<h4 class="section-subhead">Chapter 8.</h4>
+<p class="prose-p">They could not alter your feelings. For that matter, you could not alter them yourself, even if you wanted to. They could lay bare in the utmost detail everything that you had done or said or thought. But the inner heart, whose workings were mysterious even to yourself, remained impregnable.
+
+#### Chapter 8.</p>
 <p class="prose-p">They had done it. They had done it at last. The room they were standing in was long-shaped and softly lit. The telescreen was dimmed to a low murmur.</p>
 <p class="prose-p">The richness of the dark blue carpet gave one the impression of treading on velvet. At the far end of the room, O’Brien was sitting at a table under a green shaded lamp with a mass of papers on either side of him. He had not bothered to look up when the servant showed Julia and Winston in. Winston’s heart was thumping so hard that he doubted whether he would be able to speak.</p>
 <p class="prose-p">They had done it. They had done it at last. Was all he could think. It had been a rash act to come here at all and sheer folly to arrive together.</p>
@@ -2441,9 +2572,10 @@
 <p class="prose-p">Clement S, you owe me three farthings. Say the bells of St. Martin S, when will you pay me? Say the bells of old Bailey, when I grow rich.</p>
 <p class="prose-p">Say the bells of shore ditch. You knew the last line, said Winston. Yes I knew the last line, and now, I’m afraid, it is time for you to go, but wait. You had better let me give you one of these tablets.</p>
 <p class="prose-p">As Winston stood up, O’Brien held out a hand. His powerful grip crushed the bones of Winston’s palm. At the door, Winston looked back, but O’Brien seemed already to be in process of putting him out of mind. He was waiting with his hand on the switch that controlled the telly screen.</p>
-<p class="prose-p">Beyond him, Winston could see the writing table with its green shaded lamp and the speak right and the wire baskets deep laden with papers. The incident was closed. Within thirty seconds it occurred to him, O’Brien would be back at his interrupted and important work on behalf of the party.</p>
-<h4 class="section-subhead">Chapter 9 Winston Was Gelatinous with Fatigue This was the right word.</h4>
-<p class="prose-p">It had come into his head spontaneously. His body seemed to have not only the weakness of a jelly, but its translucency. He felt that if he held up his hand he would be able to see the light through it. All the blood and lymph had been drained out of him by an enormous debauch of work, leaving</p>
+<p class="prose-p">Beyond him, Winston could see the writing table with its green shaded lamp and the speak right and the wire baskets deep laden with papers. The incident was closed. Within thirty seconds it occurred to him, O’Brien would be back at his interrupted and important work on behalf of the party.
+
+#### Chapter 9 Winston Was Gelatinous with Fatigue This was the right word. It had come into his head spontaneously.</p>
+<p class="prose-p">His body seemed to have not only the weakness of a jelly, but its translucency. He felt that if he held up his hand he would be able to see the light through it. All the blood and lymph had been drained out of him by an enormous debauch of work, leaving</p>
           </div>
         </section>
         
@@ -2486,8 +2618,9 @@
 <p class="prose-p">A deep and, as it were, secret sigh went through the department. A mighty deed, which could never be mentioned, had been achieved. It was now impossible for any human being to prove by documentary evidence that the war with Eurasia had ever happened. At twelve hundred, it was unexpectedly announced that all workers in the ministry were free till tomorrow morning.</p>
 <p class="prose-p">Winston, still carrying the briefcase containing the book, which had remained between his feet while he worked and under his body while he slept, went home, shaved himself, and almost fell asleep in his bath, although the water was barely more than tepid. With a sort of voluptuous creaking in his joints, he climbed the stair above Mr. Charrington’s shop. He was tired, but not sleepy any longer. He opened the window, lit the dirty little oil stove, and put on a pan of water for coffee.</p>
 <p class="prose-p">Julia would arrive presently. Meanwhile, there was the book. He sat down in the sluttish armchair and undid the straps of the briefcase. A heavy, black volume, amateurishly bound, with no name or title on the cover.</p>
-<p class="prose-p">The print also looked slightly irregular. The pages were worn at the edges and fell apart easily, as though the book had passed through many hands. The inscription on the title page ran, The Theory and Practice of Oligarchical Collectivism, by Immanuel Goldstein. Winston began reading.</p>
-<h4 class="section-subhead">Chapter 1.</h4>
+<p class="prose-p">The print also looked slightly irregular. The pages were worn at the edges and fell apart easily, as though the book had passed through many hands. The inscription on the title page ran, The Theory and Practice of Oligarchical Collectivism, by Immanuel Goldstein. Winston began reading.
+
+#### Chapter 1.</p>
 <p class="prose-p">Ignorance is Strength</p>
           </div>
         </section>
@@ -2503,14 +2636,14 @@
 <p class="prose-p">But the essential structure of society has never altered. Even after enormous upheavals and seemingly irrevocable changes, the same pattern has always reasserted itself, just as a gyroscope will always return to equilibrium, however far it is pushed one way or the other. The aims of these groups are entirely irreconcilable. Winston stopped reading, chiefly in order to appreciate the fact that he was reading, in comfort and safety.</p>
 <p class="prose-p">He was alone, no telescreen, no ear at the keyhole, no nervous impulse to glance over his shoulder or cover the page with his hand, the sweet summer air played against his cheek. From somewhere far away there floated the faint shouts of children. In the room itself there was no sound, except the insect voice of the clock. He settled deeper into the armchair and put his feet up on the fender.</p>
 <p class="prose-p">It was bliss. It was eternity.</p>
-<p class="prose-p">Suddenly, as one sometimes does with a book of which one knows that one will ultimately read and reread every word, he opened it at a different place and found himself at chapter 3. He went on reading.</p>
-<h4 class="section-subhead">Chapter 3.</h4>
-<p class="prose-p">War is Peace. The splitting up of the world into three great super-states was an event which could be and indeed was foreseen, before the middle of the 20th century. With the absorption of Europe by Russia and of the British Empire by the United States, two of the three existing powers, Eurasia and Oceania, were already effectively in being. The third, Istasia, only emerged as a distinct unit after another decade of confused fighting.</p>
-<p class="prose-p">The frontiers between the three super-states are in some places arbitrary, and in others they fluctuate according to the fortunes of war, but in general they follow geographical lines. Eurasia comprises the whole of the northern part of the European and Asiatic landmass, from Portugal to the Bering Strait. Oceania comprises the Americas, the Atlantic Islands including the British Isles, Australasia, and the southern portion of Africa. East Asia, smaller than the others and with a less definite western frontier, comprises China and the countries to the south of it, the Japanese islands and a large but fluctuating portion of Manchuria, Mongolia and Tibet.</p>
-<p class="prose-p">In one combination or another, these three super-states are permanently at war and have been so for the past 25 years. War, however, is no longer the desperate, annihilating struggle that it was in the early decades of the 20th century. It is a warfare of limited aims between combatants who are unable to destroy one another, have no material cause for fighting and are not divided by any genuine ideological difference. This is not to say that either the conduct of war or the prevailing attitude towards it has become less bloodthirsty or more chivalrous.</p>
-<p class="prose-p">On the contrary, war hysteria is continuous and universal in all countries and such acts as raping, looting, the slaughter of children, the reduction of whole populations to slavery and reprisals against prisoners which extend even to boiling and burying alive are looked upon as normal and, when they are committed by one’s own side and not by the enemy, meritorious. But in a physical sense, war involves very small numbers of people, mostly highly trained specialists, and causes comparatively few casualties. The fighting, when there is any, takes place on the vague frontiers whose whereabouts the average man can only guess at or round the floating fortresses which guard strategic spots on the sea lanes.</p>
-<p class="prose-p">In the centres of civilisation, war means no more than a continuous shortage of consumption goods and the occasional crash of a rocket bomb which may cause a few scores of deaths. War has in fact changed its character. More exactly, the reasons for which war is waged have changed in their order of importance. Motives which were already present, to some small extent, in the great wars of the early 20th century have now become dominant and are consciously recognised and acted upon.</p>
-<p class="prose-p">To understand the nature of the present war, for in spite of the regrouping which occurs every few years, it is always the same war.</p>
+<p class="prose-p">Suddenly, as one sometimes does with a book of which one knows that one will ultimately read and reread every word, he opened it at a different place and found himself at chapter 3. He went on reading.
+
+#### Chapter 3. War is Peace. The splitting up of the world into three great super-states was an event which could be and indeed was foreseen, before the middle of the 20th century.</p>
+<p class="prose-p">With the absorption of Europe by Russia and of the British Empire by the United States, two of the three existing powers, Eurasia and Oceania, were already effectively in being. The third, Istasia, only emerged as a distinct unit after another decade of confused fighting. The frontiers between the three super-states are in some places arbitrary, and in others they fluctuate according to the fortunes of war, but in general they follow geographical lines. Eurasia comprises the whole of the northern part of the European and Asiatic landmass, from Portugal to the Bering Strait.</p>
+<p class="prose-p">Oceania comprises the Americas, the Atlantic Islands including the British Isles, Australasia, and the southern portion of Africa. East Asia, smaller than the others and with a less definite western frontier, comprises China and the countries to the south of it, the Japanese islands and a large but fluctuating portion of Manchuria, Mongolia and Tibet. In one combination or another, these three super-states are permanently at war and have been so for the past 25 years. War, however, is no longer the desperate, annihilating struggle that it was in the early decades of the 20th century.</p>
+<p class="prose-p">It is a warfare of limited aims between combatants who are unable to destroy one another, have no material cause for fighting and are not divided by any genuine ideological difference. This is not to say that either the conduct of war or the prevailing attitude towards it has become less bloodthirsty or more chivalrous. On the contrary, war hysteria is continuous and universal in all countries and such acts as raping, looting, the slaughter of children, the reduction of whole populations to slavery and reprisals against prisoners which extend even to boiling and burying alive are looked upon as normal and, when they are committed by one’s own side and not by the enemy, meritorious.</p>
+<p class="prose-p">But in a physical sense, war involves very small numbers of people, mostly highly trained specialists, and causes comparatively few casualties. The fighting, when there is any, takes place on the vague frontiers whose whereabouts the average man can only guess at or round the floating fortresses which guard strategic spots on the sea lanes. In the centres of civilisation, war means no more than a continuous shortage of consumption goods and the occasional crash of a rocket bomb which may cause a few scores of deaths.</p>
+<p class="prose-p">War has in fact changed its character. More exactly, the reasons for which war is waged have changed in their order of importance. Motives which were already present, to some small extent, in the great wars of the early 20th century have now become dominant and are consciously recognised and acted upon. To understand the nature of the present war, for in spite of the regrouping which occurs every few years, it is always the same war.</p>
           </div>
         </section>
         
@@ -2646,11 +2779,11 @@
 <p class="prose-p">There seemed to be no hour of daylight when she was not marching to and fro between the washtub and the line, alternately gagging herself with clothes pegs and breaking forth into lusty song. Martha had settled down on her side and seemed to be already on the point of falling asleep. He reached out for the book, which was lying on the floor, and sat up against the bedhead. We must read it, he said.</p>
 <p class="prose-p">You too. All members of the Brotherhood have to read it. You read it, she said, with her eyes shut. Read it aloud.</p>
 <p class="prose-p">That’s the best way. Then you can explain it to me as you go. The clock’s hand said six, meaning eighteen. They had three or four hours ahead of them.</p>
-<p class="prose-p">He propped the book against his knees and began reading.</p>
-<h4 class="section-subhead">Chapter 1 Ignorance is Strength Throughout recorded time, and probably since the end of the Neolithic age, there have been three kinds of people in the world, the high, the middle, and the low.</h4>
-<p class="prose-p">They have been subdivided in many ways, they have borne countless different names, and their relative numbers, as well as their attitude towards one another, have varied from age to age. But the essential structure of society has never altered. Even after enormous upheavals and seemingly irrevocable changes, the same pattern has always reasserted itself, just as a gyroscope will always return to equilibrium, however far it is pushed one way or the other. Julia, are you awake? said Winston.</p>
-<p class="prose-p">Yes, my love, I’m listening. Go on. It’s marvelous. He continued reading.</p>
-<p class="prose-p">The aims of these three groups are entirely irreconcilable. The aim of the high is to remain where they are, the aim of the middle is to change places with the high, the aim of the low when they have an aim, for it is an abiding characteristic of the low that they are too much crushed by drudgery to be more than intermittently conscious of anything outside their daily lives, is to abolish all distinctions and create a society in which all men shall be equal.</p>
+<p class="prose-p">He propped the book against his knees and began reading.
+
+#### Chapter 1 Ignorance is Strength Throughout recorded time, and probably since the end of the Neolithic age, there have been three kinds of people in the world, the high, the middle, and the low. They have been subdivided in many ways, they have borne countless different names, and their relative numbers, as well as their attitude towards one another, have varied from age to age. But the essential structure of society has never altered.</p>
+<p class="prose-p">Even after enormous upheavals and seemingly irrevocable changes, the same pattern has always reasserted itself, just as a gyroscope will always return to equilibrium, however far it is pushed one way or the other. Julia, are you awake? said Winston. Yes, my love, I’m listening. Go on.</p>
+<p class="prose-p">It’s marvelous. He continued reading. The aims of these three groups are entirely irreconcilable. The aim of the high is to remain where they are, the aim of the middle is to change places with the high, the aim of the low when they have an aim, for it is an abiding characteristic of the low that they are too much crushed by drudgery to be more than intermittently conscious of anything outside their daily lives, is to abolish all distinctions and create a society in which all men shall be equal.</p>
 <p class="prose-p">Thus throughout history a struggle which is the same in its main outlines recurs over and over again. For long periods the high seem to be securely in power, but sooner or later there always comes a moment when they lose either their belief in themselves or their capacity to govern efficiently, or both. They are then overthrown by the middle, who enlist the low on their side by pretending to them that they are fighting for liberty and justice. As soon as they have reached their objective, the middle thrust the low back into their old position of servitude and themselves become the high.</p>
 <p class="prose-p">Presently, a new middle group splits off from one of the other groups, or from both of them, and the struggle begins over again. Of the three groups, only the low are never even temporarily successful in achieving their aims. It would be an exaggeration to say that throughout history there has been no progress of a material kind. Even today, in a period of decline, the average human being is physically better off than he was a few centuries ago. But no advance in wealth, no softening of manners, no reform or revolution has ever</p>
           </div>
@@ -3418,15 +3551,15 @@
 <p class="prose-p">Never did O’Brien fail to understand what was said to him. Anyone else on Earth would have answered promptly that he had betrayed Julia, for what was there that they had not screwed out of him under the torture. He had told them everything he knew about her, her habits, her character, her past life. He had confessed in the most trivial detail everything that had happened at their meetings.</p>
 <p class="prose-p">All that he had said to her and she to him, their black market meals, their adulteries, their vague plottings against the party, everything. And yet, in the sense in which he intended the word, he had not betrayed her. He had not stopped loving her. His feelings towards her had remained the same.</p>
 <p class="prose-p">O’Brien had seen what he meant without the need for explanation. Tell me, he said, how soon will they shoot me? It might be a long time, said O’Brien. You’re a difficult case, but don’t give up hope.</p>
-<p class="prose-p">Everyone is cured sooner or later. In the end, we shall shoot you.</p>
-<h4 class="section-subhead">Chapter 4.</h4>
-<p class="prose-p">He was much better. He was growing fatter and stronger every day if it was proper to speak of days. The white light and the humming sound were the same as ever, but the cell was a little more comfortable than the others he had been in. There was a pillow and a mattress on the plank bed and a stool to sit on.</p>
-<p class="prose-p">They had given him a bath and they allowed him to wash himself fairly frequently in a tin basin. They even gave him warm water to wash with. They had given him new underclothes and a clean suit of overalls. They had dressed his varicose ulcer with soothing ointment.</p>
-<p class="prose-p">They had pulled out the remnants of his teeth and given him a new set of dentures. Weeks or months must have passed. It would have been possible now to keep count of the passage of time if he had felt any interest in doing so, since he was being fed at what appeared to be regular intervals. He was getting, he judged, three meals in the twenty-four hours.</p>
-<p class="prose-p">Sometimes he wondered dimly whether he was getting them by night or by day. The food was surprisingly good, with meat at every third meal. Once there was even a packet of cigarettes. He had no matches, but the never-speaking guard who brought his food would give him a light.</p>
-<p class="prose-p">The first time he tried to smoke, it made him sick. But he persevered and spun the packet out for a long time, smoking half a cigarette after each meal. They had given him a white slate with a stump of pencil tied to the corner. At first he made no use of it.</p>
-<p class="prose-p">Even when he was awake, he was completely torpid. Often he would lie from one meal to the next almost without stirring, sometimes asleep, sometimes waking into vague reveries in which it was too much trouble to open his eyes. He had long grown used to sleeping with a strong light on his face. It seemed to make no difference, except that one’s dreams were more coherent.</p>
-<p class="prose-p">He dreamed a great deal all through this time, and they were always happy dreams. He was in the Golden Country, or he was sitting among enormous glorious sunlit ruins,</p>
+<p class="prose-p">Everyone is cured sooner or later. In the end, we shall shoot you.
+
+#### Chapter 4. He was much better. He was growing fatter and stronger every day if it was proper to speak of days.</p>
+<p class="prose-p">The white light and the humming sound were the same as ever, but the cell was a little more comfortable than the others he had been in. There was a pillow and a mattress on the plank bed and a stool to sit on. They had given him a bath and they allowed him to wash himself fairly frequently in a tin basin. They even gave him warm water to wash with.</p>
+<p class="prose-p">They had given him new underclothes and a clean suit of overalls. They had dressed his varicose ulcer with soothing ointment. They had pulled out the remnants of his teeth and given him a new set of dentures. Weeks or months must have passed.</p>
+<p class="prose-p">It would have been possible now to keep count of the passage of time if he had felt any interest in doing so, since he was being fed at what appeared to be regular intervals. He was getting, he judged, three meals in the twenty-four hours. Sometimes he wondered dimly whether he was getting them by night or by day. The food was surprisingly good, with meat at every third meal.</p>
+<p class="prose-p">Once there was even a packet of cigarettes. He had no matches, but the never-speaking guard who brought his food would give him a light. The first time he tried to smoke, it made him sick. But he persevered and spun the packet out for a long time, smoking half a cigarette after each meal.</p>
+<p class="prose-p">They had given him a white slate with a stump of pencil tied to the corner. At first he made no use of it. Even when he was awake, he was completely torpid. Often he would lie from one meal to the next almost without stirring, sometimes asleep, sometimes waking into vague reveries in which it was too much trouble to open his eyes.</p>
+<p class="prose-p">He had long grown used to sleeping with a strong light on his face. It seemed to make no difference, except that one’s dreams were more coherent. He dreamed a great deal all through this time, and they were always happy dreams. He was in the Golden Country, or he was sitting among enormous glorious sunlit ruins,</p>
           </div>
         </section>
         
@@ -3519,24 +3652,24 @@
           </div>
           <div class="section-body">
             <p class="prose-p">Big Brother. It is not enough to obey him. You must love him. He released Winston with a little push towards the guards.</p>
-<p class="prose-p">Room 101, he said.</p>
-<h4 class="section-subhead">Chapter 5 At each stage of his imprisonment he had known, or seemed to know, whereabouts he was in the windowless building.</h4>
-<p class="prose-p">Possibly there were slight differences in the air pressure. The cells where the guards had beaten him were below ground level. The room where he had been interrogated by O’Brien was high up near the roof. This place was many metres underground, as deep down as it was possible to go.</p>
-<p class="prose-p">It was bigger than most of the cells he had been in, but he hardly noticed his surroundings. All he noticed was that there were two small tables straight in front of him, each covered with green bays. One was only a metre or two from him. The other was further away, near the door.</p>
-<p class="prose-p">He was strapped upright in a chair, so tightly that he could move nothing, not even his head. A sort of pad gripped his head from behind, forcing him to look straight in front of him. For a moment he was alone. Then the door opened, and O’Brien came in.</p>
-<p class="prose-p">You asked me once, said O’Brien. What was in Room 101? I told you that you knew the answer already. Everyone knows it.</p>
-<p class="prose-p">The thing that is in Room 101 is the worst thing in the world. The door opened again. A guard came in carrying something made of wire, a box or basket of some kind. He set it down on the further table.</p>
-<p class="prose-p">Because of the position in which O’Brien was standing, Winston could not see what the thing was. The worst thing in the world, said O’Brien, varies from individual to individual. It may be burial alive, or death by fire, or by drowning, or by impalement, or fifty other deaths. There are cases where it is some quite trivial thing, not even fatal.</p>
-<p class="prose-p">He had moved a little to one side, so that Winston had a better view of the thing on the table. It was an oblong wire cage with a handle on top for carrying it by. Fixed to the front of it was something that looked like a fencing mask, with the concave side outwards. Though it was three or four metres away from him, he could see that the cage was divided lengthways into two compartments, and that there was some kind of creature in each.</p>
-<p class="prose-p">They were rats. In your case, said O’Brien, the worst thing in the world happens to be rats. A sort of premonitory tremor, a fear of he was not certain what, had passed through Winston as soon as he caught his first glimpse of the cage. But at this moment the meaning of the mask-like attachment in front of it suddenly sank into him.</p>
-<p class="prose-p">His bowels seemed to turn to water. You can’t do that, he cried out in a high-cracked voice. You couldn’t, you couldn’t, it’s impossible. Do you remember, said O’Brien, the moment of panic that used to occur in your dreams?</p>
-<p class="prose-p">There was a wall of blackness in front of you, and a roaring sound in your ears. There was something terrible on the other side of the wall. You knew that you knew what it was, but you dared not drag it into the open. It was the rats that were on the other side of the wall.</p>
-<p class="prose-p">O’Brien, said Winston, making an effort to control his voice, you know this is not necessary, what is it that you want me to do? O’Brien made no direct answer. When he spoke it was in the school masterish manner that he sometimes affected. He looked thoughtfully into the distance, as though he were addressing an audience somewhere behind Winston’s back.</p>
-<p class="prose-p">By itself, he said, pain is not always enough. There are occasions when a human being will stand out against pain, even to the point of death. But for everyone there is something unendurable, something that cannot be contemplated. Courage and cowardice are not involved.</p>
-<p class="prose-p">If you are falling from a height, it is not cowardly to clutch at a rope. If you have come up from deep water, it is not cowardly to fill your lungs with air. It is merely an instinct which cannot be destroyed. It is the same with the rats.</p>
-<p class="prose-p">For you, they are unendurable. They are a form of pressure that you cannot withstand, even if you wish to. You will do what is required of you. But what is it?</p>
-<p class="prose-p">What is it? How can I do it if I don’t know what it is? O’Brien picked up the cage and brought it across to the nearer table. He set it down carefully on the bay’s cloth.</p>
-<p class="prose-p">Winston could hear the blood singing in his ears. He had the feeling of sitting in utter loneliness. He was in the middle of a great empty plain, a flat desert drenched with sunlight, across which all sounds came to him out of</p>
+<p class="prose-p">Room 101, he said.
+
+#### Chapter 5 At each stage of his imprisonment he had known, or seemed to know, whereabouts he was in the windowless building. Possibly there were slight differences in the air pressure. The cells where the guards had beaten him were below ground level. The room where he had been interrogated by O’Brien was high up near the roof.</p>
+<p class="prose-p">This place was many metres underground, as deep down as it was possible to go. It was bigger than most of the cells he had been in, but he hardly noticed his surroundings. All he noticed was that there were two small tables straight in front of him, each covered with green bays. One was only a metre or two from him.</p>
+<p class="prose-p">The other was further away, near the door. He was strapped upright in a chair, so tightly that he could move nothing, not even his head. A sort of pad gripped his head from behind, forcing him to look straight in front of him. For a moment he was alone.</p>
+<p class="prose-p">Then the door opened, and O’Brien came in. You asked me once, said O’Brien. What was in Room 101? I told you that you knew the answer already.</p>
+<p class="prose-p">Everyone knows it. The thing that is in Room 101 is the worst thing in the world. The door opened again. A guard came in carrying something made of wire, a box or basket of some kind.</p>
+<p class="prose-p">He set it down on the further table. Because of the position in which O’Brien was standing, Winston could not see what the thing was. The worst thing in the world, said O’Brien, varies from individual to individual. It may be burial alive, or death by fire, or by drowning, or by impalement, or fifty other deaths.</p>
+<p class="prose-p">There are cases where it is some quite trivial thing, not even fatal. He had moved a little to one side, so that Winston had a better view of the thing on the table. It was an oblong wire cage with a handle on top for carrying it by. Fixed to the front of it was something that looked like a fencing mask, with the concave side outwards.</p>
+<p class="prose-p">Though it was three or four metres away from him, he could see that the cage was divided lengthways into two compartments, and that there was some kind of creature in each. They were rats. In your case, said O’Brien, the worst thing in the world happens to be rats. A sort of premonitory tremor, a fear of he was not certain what, had passed through Winston as soon as he caught his first glimpse of the cage.</p>
+<p class="prose-p">But at this moment the meaning of the mask-like attachment in front of it suddenly sank into him. His bowels seemed to turn to water. You can’t do that, he cried out in a high-cracked voice. You couldn’t, you couldn’t, it’s impossible.</p>
+<p class="prose-p">Do you remember, said O’Brien, the moment of panic that used to occur in your dreams? There was a wall of blackness in front of you, and a roaring sound in your ears. There was something terrible on the other side of the wall. You knew that you knew what it was, but you dared not drag it into the open.</p>
+<p class="prose-p">It was the rats that were on the other side of the wall. O’Brien, said Winston, making an effort to control his voice, you know this is not necessary, what is it that you want me to do? O’Brien made no direct answer. When he spoke it was in the school masterish manner that he sometimes affected.</p>
+<p class="prose-p">He looked thoughtfully into the distance, as though he were addressing an audience somewhere behind Winston’s back. By itself, he said, pain is not always enough. There are occasions when a human being will stand out against pain, even to the point of death. But for everyone there is something unendurable, something that cannot be contemplated.</p>
+<p class="prose-p">Courage and cowardice are not involved. If you are falling from a height, it is not cowardly to clutch at a rope. If you have come up from deep water, it is not cowardly to fill your lungs with air. It is merely an instinct which cannot be destroyed.</p>
+<p class="prose-p">It is the same with the rats. For you, they are unendurable. They are a form of pressure that you cannot withstand, even if you wish to. You will do what is required of you.</p>
+<p class="prose-p">But what is it? What is it? How can I do it if I don’t know what it is? O’Brien picked up the cage and brought it across to the nearer table.</p>
+<p class="prose-p">He set it down carefully on the bay’s cloth. Winston could hear the blood singing in his ears. He had the feeling of sitting in utter loneliness. He was in the middle of a great empty plain, a flat desert drenched with sunlight, across which all sounds came to him out of</p>
           </div>
         </section>
         
@@ -3565,9 +3698,9 @@
 <p class="prose-p">Too late. Perhaps too late. But he had suddenly understood that in the whole world there was just one person to whom he could transfer his punishment. One body that he could thrust between himself and the rats, and he was shouting frantically, over and over.</p>
 <p class="prose-p">Do it to Julia, do it to Julia, not me. Julia, I don’t care what you do to her, tear her face off, strip her to the bones. Not me, Julia, not me. He was falling backwards, into enormous depths, away from the rats.</p>
 <p class="prose-p">He was still strapped in the chair, but he had fallen through the floor, through the walls of the building, through the earth, through the oceans, through the atmosphere, into outer space, into the gulfs between the stars. Always away, away, away from the rats. He was light years distant, but O’Brien was still standing at his side. There was still the cold touch of wire against his cheek.</p>
-<p class="prose-p">But through the darkness that enveloped him, he heard another metallic click and knew that the cage door had clicked shut and not open.</p>
-<h4 class="section-subhead">Chapter 6 The chestnut tree was almost empty, a ray of sunlight slanting through a window fell on dusty tabletops.</h4>
-<p class="prose-p">It was the lonely hour of fifteen. A tinny music trickled from the</p>
+<p class="prose-p">But through the darkness that enveloped him, he heard another metallic click and knew that the cage door had clicked shut and not open.
+
+#### Chapter 6 The chestnut tree was almost empty, a ray of sunlight slanting through a window fell on dusty tabletops. It was the lonely hour of fifteen. A tinny music trickled from the</p>
           </div>
         </section>
         
@@ -3981,6 +4114,204 @@
 
     document.getElementById('scroll-top-btn').addEventListener('click', () => {
       window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    // ==========================================
+    // IN-PAGE CONTENT SEARCH (單書全文搜尋)
+    // ==========================================
+    const searchBar = document.getElementById('inpage-search-bar');
+    const searchInput = document.getElementById('inpage-search-input');
+    const searchCount = document.getElementById('inpage-search-count');
+    const searchDrawer = document.getElementById('inpage-search-drawer');
+    const searchDrawerList = document.getElementById('inpage-search-drawer-list');
+    const searchToggleBtn = document.getElementById('search-toggle-btn');
+    const searchClearBtn = document.getElementById('inpage-search-clear');
+    const searchPrevBtn = document.getElementById('inpage-search-prev');
+    const searchNextBtn = document.getElementById('inpage-search-next');
+    const searchCloseBtn = document.getElementById('inpage-search-close');
+    const drawerCloseBtn = document.getElementById('inpage-drawer-close');
+
+    let searchMatches = [];
+    let currentMatchIdx = -1;
+
+    // Cache original innerHTML for clean resets
+    const rawParagraphs = Array.from(document.querySelectorAll('.section-body p')).map(p => ({
+      el: p,
+      rawHtml: p.innerHTML,
+      rawText: p.textContent
+    }));
+
+    function openSearch() {
+      searchBar.classList.add('active');
+      searchInput.focus();
+      searchInput.select();
+      if (searchInput.value.trim()) {
+        performSearch(searchInput.value.trim());
+      }
+    }
+
+    function closeSearch() {
+      searchBar.classList.remove('active');
+      searchDrawer.classList.remove('active');
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchCount.textContent = '0 / 0';
+    }
+
+    function clearHighlights() {
+      rawParagraphs.forEach(item => {
+        item.el.innerHTML = item.rawHtml;
+      });
+    }
+
+    function escapeRegex(str) {
+      return str.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+    }
+
+    function escapeHtml(str) {
+      return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+
+    function performSearch(query) {
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchDrawerList.innerHTML = '';
+
+      if (!query || query.trim().length === 0) {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+        return;
+      }
+
+      query = query.trim();
+      const qLower = query.toLowerCase();
+      const regex = new RegExp(`(${escapeRegex(query)})`, 'gi');
+
+      rawParagraphs.forEach((item, pIdx) => {
+        if (item.rawText.toLowerCase().includes(qLower)) {
+          const sec = item.el.closest('.transcript-section');
+          const secTime = sec ? (sec.querySelector('.section-time')?.textContent || '') : '';
+          const secId = sec ? sec.id : '';
+
+          // Apply highlight
+          item.el.innerHTML = item.rawHtml.replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const marks = Array.from(item.el.querySelectorAll('mark.search-highlight'));
+          marks.forEach(mark => {
+            searchMatches.push({
+              mark,
+              el: item.el,
+              secTime,
+              secId
+            });
+          });
+
+          // Snippet creation
+          const matchPos = item.rawText.toLowerCase().indexOf(qLower);
+          const start = Math.max(0, matchPos - 30);
+          const end = Math.min(item.rawText.length, matchPos + query.length + 50);
+          const snippetText = item.rawText.slice(start, end);
+          const snippetHtml = escapeHtml(snippetText).replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const card = document.createElement('div');
+          card.className = 'search-result-item';
+          card.innerHTML = `
+            <div class="search-result-time">${secTime}</div>
+            <div class="search-result-snippet">...${snippetHtml}...</div>
+          `;
+          card.addEventListener('click', () => {
+            const targetIdx = searchMatches.findIndex(m => m.mark === marks[0]);
+            if (targetIdx >= 0) goToMatch(targetIdx);
+          });
+          searchDrawerList.appendChild(card);
+        }
+      });
+
+      if (searchMatches.length > 0) {
+        searchDrawer.classList.add('active');
+        goToMatch(0);
+      } else {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+      }
+    }
+
+    function goToMatch(idx) {
+      if (idx < 0 || idx >= searchMatches.length) return;
+      if (currentMatchIdx >= 0 && searchMatches[currentMatchIdx]) {
+        searchMatches[currentMatchIdx].mark.classList.remove('active-match');
+      }
+      currentMatchIdx = idx;
+      const target = searchMatches[currentMatchIdx];
+      target.mark.classList.add('active-match');
+      searchCount.textContent = `${currentMatchIdx + 1} / ${searchMatches.length}`;
+
+      // Highlight active drawer item
+      const drawerItems = searchDrawerList.querySelectorAll('.search-result-item');
+      drawerItems.forEach(di => di.classList.remove('active'));
+
+      target.mark.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+
+    searchToggleBtn.addEventListener('click', () => {
+      if (searchBar.classList.contains('active')) {
+        closeSearch();
+      } else {
+        openSearch();
+      }
+    });
+
+    let debounceTimer;
+    searchInput.addEventListener('input', (e) => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => {
+        performSearch(e.target.value);
+      }, 200);
+    });
+
+    searchClearBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      performSearch('');
+      searchInput.focus();
+    });
+
+    searchNextBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const nextIdx = (currentMatchIdx + 1) % searchMatches.length;
+      goToMatch(nextIdx);
+    });
+
+    searchPrevBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const prevIdx = (currentMatchIdx - 1 + searchMatches.length) % searchMatches.length;
+      goToMatch(prevIdx);
+    });
+
+    searchInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        if (e.shiftKey) {
+          searchPrevBtn.click();
+        } else {
+          searchNextBtn.click();
+        }
+      } else if (e.key === 'Escape') {
+        closeSearch();
+      }
+    });
+
+    searchCloseBtn.addEventListener('click', closeSearch);
+    drawerCloseBtn.addEventListener('click', () => searchDrawer.classList.remove('active'));
+
+    window.addEventListener('keydown', (e) => {
+      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'f') {
+        e.preventDefault();
+        openSearch();
+      } else if (e.key === 'Escape') {
+        if (searchBar.classList.contains('active')) closeSearch();
+      }
     });
   </script>
 </body>

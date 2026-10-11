@@ -66,26 +66,12 @@
       --card-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
     }
 
-    [data-line-height="compact"] {
-      --line-height: 1.68;
-    }
-    [data-line-height="normal"] {
-      --line-height: 1.88;
-    }
-    [data-line-height="loose"] {
-      --line-height: 2.12;
-    }
+    [data-line-height="compact"] { --line-height: 1.68; }
+    [data-line-height="normal"] { --line-height: 1.88; }
+    [data-line-height="loose"] { --line-height: 2.12; }
 
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
-    html {
-      scroll-behavior: smooth;
-    }
-
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
     body {
       font-family: var(--font-family);
       font-size: var(--font-size);
@@ -119,7 +105,7 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 0 20px;
+      padding: 0 18px;
       background-color: var(--bg-header);
       backdrop-filter: blur(8px);
       -webkit-backdrop-filter: blur(8px);
@@ -129,7 +115,7 @@
     .header-left, .header-right {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 8px;
       flex-wrap: nowrap;
     }
 
@@ -138,7 +124,7 @@
       border: 1px solid var(--border-color);
       color: var(--text-primary);
       cursor: pointer;
-      font-size: 14px;
+      font-size: 13.5px;
       padding: 6px 10px;
       border-radius: 8px;
       display: inline-flex;
@@ -147,6 +133,7 @@
       transition: all 0.2s;
       white-space: nowrap;
       user-select: none;
+      text-decoration: none;
     }
     .btn-icon:hover {
       background-color: var(--accent-light);
@@ -161,11 +148,132 @@
       font-size: 14px;
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
+    }
+    .home-link:hover { color: var(--accent-color); }
+
+    /* In-Page Search Bar Dropdown */
+    .inpage-search-bar {
+      position: sticky;
+      top: 60px;
+      z-index: 890;
+      background-color: var(--bg-surface);
+      border-bottom: 1px solid var(--border-color);
+      padding: 10px 18px;
+      display: none;
+      align-items: center;
+      gap: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    }
+    .inpage-search-bar.active { display: flex; }
+
+    .inpage-search-input-wrapper {
+      flex: 1;
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    .inpage-search-input {
+      width: 100%;
+      padding: 8px 36px 8px 12px;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      font-size: 14px;
+    }
+    .inpage-search-input:focus { outline: 2px solid var(--accent-color); }
+
+    .inpage-search-clear {
+      position: absolute;
+      right: 10px;
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 16px;
     }
 
-    .home-link:hover {
+    .inpage-search-count {
+      font-size: 13px;
+      color: var(--text-secondary);
+      font-family: monospace;
+      white-space: nowrap;
+    }
+    .search-nav-btns { display: flex; gap: 6px; }
+
+    /* In-Page Search Results Drawer */
+    .inpage-search-drawer {
+      position: fixed;
+      right: 20px;
+      top: 120px;
+      width: 360px;
+      max-height: calc(100vh - 160px);
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+      z-index: 895;
+      display: none;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .inpage-search-drawer.active { display: flex; }
+    .inpage-search-drawer-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-weight: 600;
+      font-size: 14px;
+    }
+    .inpage-search-drawer-list {
+      overflow-y: auto;
+      padding: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .search-result-item {
+      padding: 10px 12px;
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+      background: var(--bg-primary);
+      cursor: pointer;
+      font-size: 13px;
+      transition: all 0.15s;
+    }
+    .search-result-item:hover, .search-result-item.active {
+      border-color: var(--accent-color);
+      background: var(--accent-light);
+    }
+    .search-result-time {
+      font-weight: 700;
       color: var(--accent-color);
+      font-family: monospace;
+      margin-bottom: 4px;
+    }
+    .search-result-snippet {
+      color: var(--text-primary);
+      line-height: 1.5;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    /* Highlight mark */
+    mark.search-highlight {
+      background-color: #fef08a;
+      color: #1f2937;
+      padding: 1px 3px;
+      border-radius: 3px;
+    }
+    mark.search-highlight.active-match {
+      background-color: #f97316;
+      color: #ffffff;
+      outline: 2px solid #ea580c;
     }
 
     /* Layout Wrapper */
@@ -212,9 +320,7 @@
       font-size: 13px;
       margin-bottom: 14px;
     }
-    .toc-search:focus {
-      outline: 2px solid var(--accent-color);
-    }
+    .toc-search:focus { outline: 2px solid var(--accent-color); }
 
     .toc-list {
       list-style: none;
@@ -237,12 +343,10 @@
       overflow: hidden;
       text-overflow: ellipsis;
     }
-
     .toc-item a:hover {
       background-color: var(--accent-light);
       color: var(--accent-color);
     }
-
     .toc-item.active a {
       background-color: var(--accent-color);
       color: #ffffff;
@@ -257,19 +361,17 @@
       display: flex;
       justify-content: center;
     }
-
     .reader-container {
       width: 100%;
       max-width: var(--content-max-width);
     }
 
-    /* Book Hero / Header */
+    /* Book Hero */
     .book-hero {
       margin-bottom: 40px;
       padding-bottom: 24px;
       border-bottom: 2px solid var(--border-color);
     }
-
     .book-hero h1 {
       font-size: 2.1em;
       line-height: 1.35;
@@ -285,7 +387,6 @@
       gap: 10px;
       margin-top: 14px;
     }
-
     .meta-chip {
       display: inline-flex;
       align-items: center;
@@ -297,8 +398,13 @@
       font-size: 13px;
       font-weight: 500;
     }
+    .meta-chip.cat-badge {
+      background-color: #8b5cf622;
+      color: #8b5cf6;
+      font-weight: 600;
+    }
 
-    /* Content Typography & Enhanced Paragraphs */
+    /* Content Typography */
     .transcript-section {
       margin-bottom: 50px;
       scroll-margin-top: 80px;
@@ -349,25 +455,22 @@
       letter-spacing: 0.015em;
     }
 
-    /* Indented paragraph style (Traditional) */
+    /* Indented paragraph style */
     [data-p-style="indent"] .section-body p {
       text-indent: 2em;
       margin-bottom: 1.15em;
       line-height: var(--line-height);
     }
 
-    /* Block paragraph style (Modern with whitespace) */
+    /* Block paragraph style */
     [data-p-style="block"] .section-body p {
       text-indent: 0;
       margin-bottom: 1.55em;
       line-height: var(--line-height);
     }
+    .section-body p:last-child { margin-bottom: 0; }
 
-    .section-body p:last-child {
-      margin-bottom: 0;
-    }
-
-    /* Floating Navigation Controls */
+    /* Floating Tools */
     .floating-tools {
       position: fixed;
       bottom: 24px;
@@ -377,7 +480,6 @@
       gap: 10px;
       z-index: 800;
     }
-
     .float-btn {
       width: 44px;
       height: 44px;
@@ -399,7 +501,6 @@
       color: var(--accent-color);
     }
 
-    /* Overlay for mobile drawer */
     .backdrop {
       display: none;
       position: fixed;
@@ -419,36 +520,22 @@
         transform: translateX(-100%);
         box-shadow: 4px 0 16px rgba(0,0,0,0.15);
       }
-
-      .sidebar.open {
-        transform: translateX(0);
-      }
-
-      .backdrop.open {
-        display: block;
+      .sidebar.open { transform: translateX(0); }
+      .backdrop.open { display: block; }
+      .inpage-search-drawer {
+        left: 20px;
+        right: 20px;
+        width: auto;
       }
     }
 
     @media (max-width: 640px) {
-      :root {
-        --font-size: 17px;
-      }
-      .main-content {
-        padding: 24px 16px 60px 16px;
-      }
-      .book-hero h1 {
-        font-size: 1.55em;
-      }
-      .top-header {
-        padding: 0 10px;
-      }
-      .btn-icon {
-        padding: 5px 8px;
-        font-size: 13px;
-      }
-      [data-p-style="indent"] .section-body p {
-        text-indent: 1.5em;
-      }
+      :root { --font-size: 17px; }
+      .main-content { padding: 24px 16px 60px 16px; }
+      .book-hero h1 { font-size: 1.55em; }
+      .top-header { padding: 0 10px; }
+      .btn-icon { padding: 5px 7px; font-size: 12.5px; }
+      [data-p-style="indent"] .section-body p { text-indent: 1.5em; }
     }
   </style>
 </head>
@@ -464,6 +551,14 @@
       <a href="index.html" class="home-link" title="返回書架">
         🏠 書架
       </a>
+      <!-- Search Inside Book Button -->
+      <button class="btn-icon" id="search-toggle-btn" title="搜尋本書內文 (Ctrl+F)">
+        🔍 <span>搜尋內文</span>
+      </button>
+      <!-- Global Search Link -->
+      <a href="index.html?tab=search" class="btn-icon" title="前往全書庫全文檢索">
+        🌐 <span>全庫搜尋</span>
+      </a>
     </div>
 
     <div class="header-right">
@@ -473,7 +568,7 @@
       </button>
 
       <!-- Line Height Toggle -->
-      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 精簡)">
+      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 緊湊)">
         ↕ <span id="line-height-label">行距</span>
       </button>
 
@@ -492,6 +587,29 @@
       <button class="btn-icon" id="font-inc-btn" title="放大字級">A+</button>
     </div>
   </header>
+
+  <!-- In-Page Search Bar Dropdown -->
+  <div class="inpage-search-bar" id="inpage-search-bar">
+    <div class="inpage-search-input-wrapper">
+      <input type="text" id="inpage-search-input" class="inpage-search-input" placeholder="🔍 搜尋本書內文關鍵字 (按 Enter 尋找下一處，Esc 關閉)...">
+      <button class="inpage-search-clear" id="inpage-search-clear" title="清空">✕</button>
+    </div>
+    <span class="inpage-search-count" id="inpage-search-count">0 / 0</span>
+    <div class="search-nav-btns">
+      <button class="btn-icon" id="inpage-search-prev" title="上一處 (Shift+Enter)">▲</button>
+      <button class="btn-icon" id="inpage-search-next" title="下一處 (Enter)">▼</button>
+      <button class="btn-icon" id="inpage-search-close" title="關閉搜尋 (Esc)">✕</button>
+    </div>
+  </div>
+
+  <!-- In-Page Search Results Drawer -->
+  <div class="inpage-search-drawer" id="inpage-search-drawer">
+    <div class="inpage-search-drawer-header">
+      <span>搜尋結果清單</span>
+      <button class="btn-icon" id="inpage-drawer-close" style="padding: 2px 6px;">✕</button>
+    </div>
+    <div class="inpage-search-drawer-list" id="inpage-search-drawer-list"></div>
+  </div>
 
   <div class="backdrop" id="backdrop"></div>
 
@@ -546,6 +664,7 @@
         <header class="book-hero">
           <h1>Why Has Nobody Told Me This Before_ - Audio-book part 2</h1>
           <div class="book-meta-chips">
+            <span class="meta-chip cat-badge">🧠 哲學與思辨</span>
             <span class="meta-chip">🏷️ 時長：02:43:19</span>
 <span class="meta-chip">🏷️ 模型：small.en</span>
 <span class="meta-chip">🏷️ 日期：2026-09-22</span>
@@ -553,7 +672,7 @@
         </header>
 
         <!-- Transcript Content -->
-        <div class="book-body">
+        <div class="book-body" id="book-body">
           
         <section class="transcript-section" id="sec-000000">
           <div class="section-header">
@@ -561,8 +680,7 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <h4 class="section-subhead">Chapter 5.</h4>
-<p class="prose-p">How to get the basics right. Imagine taking the best football team in the world and PU-ing them on. The pitch without any defense players on their side.</p>
+            <p class="prose-p">#### Chapter 5. How to get the basics right. Imagine taking the best football team in the world and PU-ing them on. The pitch without any defense players on their side.</p>
 <p class="prose-p">Suddenly. Opponents that never previously posed any threat would stand a much. Be a chance at winning. While the defense players may not be as.</p>
 <p class="prose-p">Exciting as the strikers, we all underestimate their power to change the. Game. We all have the tendency to neglect the basics. Your mother tells you.</p>
 <p class="prose-p">To get to bed early and eat your greens and you can’t help but roll your. Eyes. Thanks, mum. But when it comes to defense players, you don’t.</p>
@@ -702,10 +820,11 @@
 <p class="prose-p">If you do one thing today, make it exercise. Choose something. You enjoy and you increase your chances of keeping it going. The relationship between sleep and mental health works both.</p>
 <p class="prose-p">Ways. Prioritizing sleep will help your mental health. And. Making changes to your day will at ECT your sleep.</p>
 <p class="prose-p">How you feed your brain influences how you feel. Traditional. Mediterranean. Japanese and Norwegian diets show benefits.</p>
-<p class="prose-p">For mental health. Human connection is a powerful tool for stress resilience. Your relationships change your biology and psychology.</p>
-<h4 class="section-subhead">Chapter 6.</h4>
-<p class="prose-p">Understanding motivation. As we build up the psychological toolkit with skills that help us manage. Through life, it’s easy to imagine that motivation is one of those tools. But motivation is not a skill.</p>
-<p class="prose-p">Neither is it a fixed personality trait that… We are either born with or without.</p>
+<p class="prose-p">For mental health. Human connection is a powerful tool for stress resilience. Your relationships change your biology and psychology.
+
+#### Chapter 6. Understanding motivation.</p>
+<p class="prose-p">As we build up the psychological toolkit with skills that help us manage. Through life, it’s easy to imagine that motivation is one of those tools. But motivation is not a skill. Neither is it a fixed personality trait that…</p>
+<p class="prose-p">We are either born with or without.</p>
           </div>
         </section>
         
@@ -755,31 +874,32 @@
             <p class="prose-p">Chapter summary. Motivation is not something you are born with. The feeling that you are energized and want to do something. Cannot be relied upon to always be there.</p>
 <p class="prose-p">Mastering motivation is building the capacity to do what. Maers most to you, even when a part of you does not feel. Like it. Procrastination is OEN avoidance of stress or discomfort.</p>
 <p class="prose-p">And hedonia is when we no longer get a sense of pleasure from. The activities that we use to enjoy. This is OEN associated. With low mood and depression.</p>
-<p class="prose-p">If something Maers to you and could benefit your health. Don’t wait until you feel like it. Do it anyway.</p>
-<h4 class="section-subhead">Chapter 7.</h4>
-<p class="prose-p">How to nurture that. Motivation feeling. Motivation is more than just a reason for doing something. When we.</p>
-<p class="prose-p">Use that word in conversation, we OEN mean a feeling of enthusiasm. Or drive that fluctuates just like any other. Some things nurture that. Feeling, others FLA EN it.</p>
-<p class="prose-p">What things do you do that are OEN followed? By a feeling of motivation and energy. Science tells us about the things that work for most people. But the.</p>
-<p class="prose-p">Detail you can establish from looking at your own life with curiosity. Adds significant value. You cannot change something you are not aware. Of.</p>
-<p class="prose-p">So spending time observing and documenting the thing you are. Trying to tackle is hugely important and gives you the best chance of. Generating that feeling of motivation more of the time. Here are some things that invite that feeling to be present.</p>
-<p class="prose-p">Move your body. Motivation does not come from a specific location in your brain. It is. Not a fixed part of your personality.</p>
-<p class="prose-p">It’s also not an essential tool that. We use to make us move. It is most OEN a consequence of that. Movement.</p>
-<p class="prose-p">But what if you have no motivation to exercise? Perhaps the key to. Making exercise a sustainable part of everyday life is to find a form of. Movement that you can begin even when your motivation is low.</p>
-<p class="prose-p">Research shows that doing even small amounts of exercise is be a. The nothing and anything more than your usual amount of movement. Will help boost your willpower. Barton and pre-y. 2010.</p>
-<p class="prose-p">Find something. That feels easy. Something that brings you joy. Something that feels like.</p>
-<p class="prose-p">Precious time out rather than another boring job that has to get done. Add in friends, good music, and anything that helps you to look forward. To it each day, rather than dread it. Adding in some form of exercise, however moderate, will pay you.</p>
-<p class="prose-p">Back in feelings of motivation. You may have to use the strategy of. Acting opposite to the urges, because you won’t feel like working out. But the impact this simple action will have on that can’t be bothered.</p>
-<p class="prose-p">Feeling for the rest of the day is unmatched. Make this one thing. Happen and you are setting yourself up to win. Staying connected with the goal.</p>
-<p class="prose-p">In therapy we OEN set goals with people and help them to work out. How they are going to achieve them. But the real work happens when. Things slip o&#x27; track.</p>
-<p class="prose-p">This is the point at which those without support. Might be vulnerable to giving up. But we need to get to work using the. Set back to strengthen the future.</p>
-<p class="prose-p">If we can be or understand what. Cause the failure and that geeing back on track is just part of the. Process, then we are in a good position to predict when it could happen. Again and steer around those challenges in the future.</p>
-<p class="prose-p">I think one of the reasons that some of my clients say they feel so. Much more motivated or earn appointment is because they have spent. Time reconnecting with their goals. If that thing we are working on is.</p>
-<p class="prose-p">Not fresh in our minds we can quickly lose momentum. Whether you are working on improving mood or any other aspect of. Your well being it is paramount that you stay connected with your goals. Because they will demand constant nurturing.</p>
-<p class="prose-p">Return to them on a daily. Basis. You can do this through journaling. It doesn’t have to be a hugely.</p>
-<p class="prose-p">Time consuming task. It can be one minute at the beginning of your. Day listing the one or two things you will be doing that day towards. Your goal.</p>
-<p class="prose-p">Then at the end of the day writing a few lines to reflect on. Your experience. This kind of task is easy to maintain because it doesn’t. Require. too much time, maybe a couple of minutes at most.</p>
-<p class="prose-p">But it. Ensures that you are accountable to yourself every day and keeps you. Focused on your goals. Keep it small.</p>
-<p class="prose-p">Any big task will invite that can’t-be-bothered feeling, so keep it small. And keep it focused.</p>
+<p class="prose-p">If something Maers to you and could benefit your health. Don’t wait until you feel like it. Do it anyway.
+
+#### Chapter 7. How to nurture that.</p>
+<p class="prose-p">Motivation feeling. Motivation is more than just a reason for doing something. When we. Use that word in conversation, we OEN mean a feeling of enthusiasm.</p>
+<p class="prose-p">Or drive that fluctuates just like any other. Some things nurture that. Feeling, others FLA EN it. What things do you do that are OEN followed?</p>
+<p class="prose-p">By a feeling of motivation and energy. Science tells us about the things that work for most people. But the. Detail you can establish from looking at your own life with curiosity.</p>
+<p class="prose-p">Adds significant value. You cannot change something you are not aware. Of. So spending time observing and documenting the thing you are.</p>
+<p class="prose-p">Trying to tackle is hugely important and gives you the best chance of. Generating that feeling of motivation more of the time. Here are some things that invite that feeling to be present. Move your body.</p>
+<p class="prose-p">Motivation does not come from a specific location in your brain. It is. Not a fixed part of your personality. It’s also not an essential tool that.</p>
+<p class="prose-p">We use to make us move. It is most OEN a consequence of that. Movement. But what if you have no motivation to exercise?</p>
+<p class="prose-p">Perhaps the key to. Making exercise a sustainable part of everyday life is to find a form of. Movement that you can begin even when your motivation is low. Research shows that doing even small amounts of exercise is be a.</p>
+<p class="prose-p">The nothing and anything more than your usual amount of movement. Will help boost your willpower. Barton and pre-y. 2010. Find something.</p>
+<p class="prose-p">That feels easy. Something that brings you joy. Something that feels like. Precious time out rather than another boring job that has to get done.</p>
+<p class="prose-p">Add in friends, good music, and anything that helps you to look forward. To it each day, rather than dread it. Adding in some form of exercise, however moderate, will pay you. Back in feelings of motivation.</p>
+<p class="prose-p">You may have to use the strategy of. Acting opposite to the urges, because you won’t feel like working out. But the impact this simple action will have on that can’t be bothered. Feeling for the rest of the day is unmatched.</p>
+<p class="prose-p">Make this one thing. Happen and you are setting yourself up to win. Staying connected with the goal. In therapy we OEN set goals with people and help them to work out.</p>
+<p class="prose-p">How they are going to achieve them. But the real work happens when. Things slip o&#x27; track. This is the point at which those without support.</p>
+<p class="prose-p">Might be vulnerable to giving up. But we need to get to work using the. Set back to strengthen the future. If we can be or understand what.</p>
+<p class="prose-p">Cause the failure and that geeing back on track is just part of the. Process, then we are in a good position to predict when it could happen. Again and steer around those challenges in the future. I think one of the reasons that some of my clients say they feel so.</p>
+<p class="prose-p">Much more motivated or earn appointment is because they have spent. Time reconnecting with their goals. If that thing we are working on is. Not fresh in our minds we can quickly lose momentum.</p>
+<p class="prose-p">Whether you are working on improving mood or any other aspect of. Your well being it is paramount that you stay connected with your goals. Because they will demand constant nurturing. Return to them on a daily.</p>
+<p class="prose-p">Basis. You can do this through journaling. It doesn’t have to be a hugely. Time consuming task.</p>
+<p class="prose-p">It can be one minute at the beginning of your. Day listing the one or two things you will be doing that day towards. Your goal. Then at the end of the day writing a few lines to reflect on.</p>
+<p class="prose-p">Your experience. This kind of task is easy to maintain because it doesn’t. Require. too much time, maybe a couple of minutes at most. But it.</p>
+<p class="prose-p">Ensures that you are accountable to yourself every day and keeps you. Focused on your goals. Keep it small. Any big task will invite that can’t-be-bothered feeling, so keep it small.</p>
+<p class="prose-p">And keep it focused.</p>
           </div>
         </section>
         
@@ -857,24 +977,25 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">Changing your relationship with failure will help your. Motivation.</p>
-<h4 class="section-subhead">Chapter 8.</h4>
-<p class="prose-p">How do you make yourself do? Something when you don’t feel. Like it. No more are how much we reduce our stress and cultivate motivation, it.</p>
-<p class="prose-p">Can be fleeting. It comes and goes. So we cannot rely on it to always be. There.</p>
-<p class="prose-p">And there will always be things that we will never feel like doing. Tax returns. Insurance renewals. Taking the bins out.</p>
-<p class="prose-p">How do we make? Those happen, even when a part of us would prefer not to. Feelings are OEN accompanied by urges. Those urges are.</p>
-<p class="prose-p">Suggestions. Nudges. Persuasions telling us to try this or that to relieve. The discomfort that we feel or to seek the reward that we anticipate.</p>
-<p class="prose-p">While those urges can be powerful, we don’t have to do what they say. Opposite action. When we were children, my sisters, and I would share a packet of polo. Mince and compete for who could go the longest without crunching the.</p>
-<p class="prose-p">Mint, a challenge that is much more DI cult than it sounds. The urge. To crunch the mints felt almost undeniable at the time. It demanded.</p>
-<p class="prose-p">Since concentration and focus. As soon as you got distracted and let. Your guard down, your brain would take over on autopilot for you and. The mint was history.</p>
-<p class="prose-p">If you try that game, what you notice is that your awareness focuses. On your experience. You get to observe the sensation of an urge. And.</p>
-<p class="prose-p">You get to create a gap between urge and action. Simply by paying. For Ention, you get to choose whether you go with the urge or against it. When the task is as simple as holding back from crunching a mint, all.</p>
-<p class="prose-p">You need is a bit of competitive sibling rivalry to keep you on task. When we are trying to tackle much stronger urges toward ingrained. Par earns of behavior that come along with intense emotional states. The challenge is much harder.</p>
-<p class="prose-p">The skill of acting opposite to an urge, to instead choose a behavior. That is more in line with where you want to go, is a key skill that people. Learn in therapy, Linnehan, 1993. The opposite action skill is the.</p>
-<p class="prose-p">Deliberate attempt to take an action that is the opposite of what the. Emotion is telling you to do. This is especially helpful when you’re coping. Strategies tend to cause you harm.</p>
-<p class="prose-p">Mindfulness is a key component of this skill. Paying a Ention to our. Experience, and the thoughts, emotions, and urges that come with it. Allows us to pause for just long enough to make an informed.</p>
-<p class="prose-p">Sometimes pre-planned decision about what to do next. This means we. Can act based on our values rather than our emotions. The pain barrier.</p>
-<p class="prose-p">The best strategy for motivation is to take motivation out of the. Equation. Things we do every day, whether we feel like it or. Not.</p>
+            <p class="prose-p">Changing your relationship with failure will help your. Motivation.
+
+#### Chapter 8. How do you make yourself do? Something when you don’t feel.</p>
+<p class="prose-p">Like it. No more are how much we reduce our stress and cultivate motivation, it. Can be fleeting. It comes and goes.</p>
+<p class="prose-p">So we cannot rely on it to always be. There. And there will always be things that we will never feel like doing. Tax returns.</p>
+<p class="prose-p">Insurance renewals. Taking the bins out. How do we make? Those happen, even when a part of us would prefer not to.</p>
+<p class="prose-p">Feelings are OEN accompanied by urges. Those urges are. Suggestions. Nudges.</p>
+<p class="prose-p">Persuasions telling us to try this or that to relieve. The discomfort that we feel or to seek the reward that we anticipate. While those urges can be powerful, we don’t have to do what they say. Opposite action.</p>
+<p class="prose-p">When we were children, my sisters, and I would share a packet of polo. Mince and compete for who could go the longest without crunching the. Mint, a challenge that is much more DI cult than it sounds. The urge.</p>
+<p class="prose-p">To crunch the mints felt almost undeniable at the time. It demanded. Since concentration and focus. As soon as you got distracted and let.</p>
+<p class="prose-p">Your guard down, your brain would take over on autopilot for you and. The mint was history. If you try that game, what you notice is that your awareness focuses. On your experience.</p>
+<p class="prose-p">You get to observe the sensation of an urge. And. You get to create a gap between urge and action. Simply by paying.</p>
+<p class="prose-p">For Ention, you get to choose whether you go with the urge or against it. When the task is as simple as holding back from crunching a mint, all. You need is a bit of competitive sibling rivalry to keep you on task. When we are trying to tackle much stronger urges toward ingrained.</p>
+<p class="prose-p">Par earns of behavior that come along with intense emotional states. The challenge is much harder. The skill of acting opposite to an urge, to instead choose a behavior. That is more in line with where you want to go, is a key skill that people.</p>
+<p class="prose-p">Learn in therapy, Linnehan, 1993. The opposite action skill is the. Deliberate attempt to take an action that is the opposite of what the. Emotion is telling you to do.</p>
+<p class="prose-p">This is especially helpful when you’re coping. Strategies tend to cause you harm. Mindfulness is a key component of this skill. Paying a Ention to our.</p>
+<p class="prose-p">Experience, and the thoughts, emotions, and urges that come with it. Allows us to pause for just long enough to make an informed. Sometimes pre-planned decision about what to do next. This means we.</p>
+<p class="prose-p">Can act based on our values rather than our emotions. The pain barrier. The best strategy for motivation is to take motivation out of the. Equation.</p>
+<p class="prose-p">Things we do every day, whether we feel like it or. Not.</p>
 <p class="prose-p">For example, in the morning, you don’t ask yourself whether you. Have the motivation to clean your teeth, it’s just something you do. It is. A habit so well practiced that you don’t need to think about it any.</p>
 <p class="prose-p">More. You just do it. The reason for that is because it has been a non-negotiable part of your daily routine for most of your life. Imagine your brain is like a jungle.</p>
 <p class="prose-p">For every action that you take, the. Brain has to make connections or pathways between DI errant areas. When you repeat an action on a regular basis over a long period of. Time, like cleaning your teeth, those pathways become well trodden.</p>
@@ -955,32 +1076,33 @@
           <div class="section-body">
             <p class="prose-p">easier to. Identify which way to go next. Start by reflecting on situations uh-uh they have happened. Be ready to get honest with yourself about ways you may.</p>
 <p class="prose-p">Contribute to the problem or keep yourself stuck. Therapy supports you through this process. But if you don’t. Have access to therapy.</p>
-<p class="prose-p">Journaling can be a good place to. Start.</p>
-<h4 class="section-subhead">Chapter 10.</h4>
-<p class="prose-p">Make it all go away. If you ever go to therapy, very early on the therapist will ask you what. You want from the process. Most people will include emotions in there.</p>
-<p class="prose-p">Answer. They have some painful or unpleasant emotions that they want. To get rid of. And are missing out on some of the more enjoyable or.</p>
-<p class="prose-p">Calm ones that they would like to feel again. And why wouldn’t they? We all just want to be happy. They feel at the mercy of those painful.</p>
-<p class="prose-p">Emotions and want them gone. Far from making emotions go away in therapy, you learn to change. Your relationship with them. To welcome them all.</p>
-<p class="prose-p">To pay a end tie on to. Them. To see them for what they are. And to act in ways that will.</p>
-<p class="prose-p">Influence them and change the intensity of them. Emotions are neither your enemy nor your friend. They do not occur. Because your brain has a few cogs misaligned or because you are a.</p>
-<p class="prose-p">Sensitive soul, as you were told in the past. Emotions are your brains. Are amped to explain and are act meaning to what is going on in your. World and your body.</p>
-<p class="prose-p">Your brain receives information from your. Physical senses about the outside world and from your bodily functions. Like your heart rate, lungs, hormones and immune function. It then uses.</p>
-<p class="prose-p">Memory of these sensations that occurred in the past to make some. Sense of them now. This is why the heart palpitations brought on by. Too many cups of co ee can culminate in a panic or ac.</p>
-<p class="prose-p">The pounding. Heart, faster breathing and sweaty palms all feel a bit familiar to that. Time you had a panic or ac in the supermarket. The physical sensations.</p>
-<p class="prose-p">Feel just like fear and your brain gets the message that all is not well. Which ramps up your threat response. Wouldn’t it be great if we could wake up in the morning and just. Decide what to feel that day.</p>
-<p class="prose-p">Enter love, excitement and joy, please. Unfortunately, it is not so simple. The opposite of this idea is that. Emotions just pop up with no trigger and we have no control over.</p>
-<p class="prose-p">What happens or when it happens? All we can do is try to resist them. Block them out and be rational. But this is also not the case.</p>
-<p class="prose-p">While we cannot directly trigger all emotions, we have much more influence over. Our emotional state than we were ever taught to believe. This does not. Mean that you are to blame for feeling emotional discomfort.</p>
-<p class="prose-p">It means that we get to learn about the many ways we can take responsibility for our own well-being and construct new emotional experiences. What not to do with emotions. Push them away. Imagine you are at the beach.</p>
-<p class="prose-p">You walk into the sea up to your chest. The waves need to pass over you to get to the shore. If you try to hold the waves back and prevent them reaching the shore, you learn how. Powerful those waves are.</p>
-<p class="prose-p">They push you back and you quickly get. Engulfed and overwhelmed. But you don’t have to tumble and struggle. Against the waves.</p>
-<p class="prose-p">Those waves are coming no more or what. When you. Accept that, you can focus on keeping your head above the water as it. Passes.</p>
-<p class="prose-p">You still feel the E X. Might even get Lied oh your feet for a. Moment. But you move with the water and brace yourself ready to land.</p>
-<p class="prose-p">Back on your feet. Dealing with emotion is much the same as standing in the waves. When we try to stop feelings in their tracks, we easily get knocked. Oh, our feet and find ourselves in trouble, struggling to catch a breath and.</p>
-<p class="prose-p">Work out which way is up. When we allow the emotion to wash over us. It rises, peaks and descends, taking its natural course. Believe they are facts.</p>
-<p class="prose-p">Emotions are real and valid, but they are not facts. They are a guess. A. Perspective that we try on for size.</p>
-<p class="prose-p">An emotion is the brains are emped. To make sense of the world so that you can meet your needs and. Survive. Given that what you feel is not a factual statement, neither are.</p>
-<p class="prose-p">Thoughts. That is partly why therapies like CBT, cognitive behavioral therapy can be so helpful to many people. It gives us practice at being able to step back from thoughts and feelings and see them for what they are. Just one possible perspective.</p>
+<p class="prose-p">Journaling can be a good place to. Start.
+
+#### Chapter 10. Make it all go away. If you ever go to therapy, very early on the therapist will ask you what.</p>
+<p class="prose-p">You want from the process. Most people will include emotions in there. Answer. They have some painful or unpleasant emotions that they want.</p>
+<p class="prose-p">To get rid of. And are missing out on some of the more enjoyable or. Calm ones that they would like to feel again. And why wouldn’t they?</p>
+<p class="prose-p">We all just want to be happy. They feel at the mercy of those painful. Emotions and want them gone. Far from making emotions go away in therapy, you learn to change.</p>
+<p class="prose-p">Your relationship with them. To welcome them all. To pay a end tie on to. Them.</p>
+<p class="prose-p">To see them for what they are. And to act in ways that will. Influence them and change the intensity of them. Emotions are neither your enemy nor your friend.</p>
+<p class="prose-p">They do not occur. Because your brain has a few cogs misaligned or because you are a. Sensitive soul, as you were told in the past. Emotions are your brains.</p>
+<p class="prose-p">Are amped to explain and are act meaning to what is going on in your. World and your body. Your brain receives information from your. Physical senses about the outside world and from your bodily functions.</p>
+<p class="prose-p">Like your heart rate, lungs, hormones and immune function. It then uses. Memory of these sensations that occurred in the past to make some. Sense of them now.</p>
+<p class="prose-p">This is why the heart palpitations brought on by. Too many cups of co ee can culminate in a panic or ac. The pounding. Heart, faster breathing and sweaty palms all feel a bit familiar to that.</p>
+<p class="prose-p">Time you had a panic or ac in the supermarket. The physical sensations. Feel just like fear and your brain gets the message that all is not well. Which ramps up your threat response.</p>
+<p class="prose-p">Wouldn’t it be great if we could wake up in the morning and just. Decide what to feel that day. Enter love, excitement and joy, please. Unfortunately, it is not so simple.</p>
+<p class="prose-p">The opposite of this idea is that. Emotions just pop up with no trigger and we have no control over. What happens or when it happens? All we can do is try to resist them.</p>
+<p class="prose-p">Block them out and be rational. But this is also not the case. While we cannot directly trigger all emotions, we have much more influence over. Our emotional state than we were ever taught to believe.</p>
+<p class="prose-p">This does not. Mean that you are to blame for feeling emotional discomfort. It means that we get to learn about the many ways we can take responsibility for our own well-being and construct new emotional experiences. What not to do with emotions.</p>
+<p class="prose-p">Push them away. Imagine you are at the beach. You walk into the sea up to your chest. The waves need to pass over you to get to the shore.</p>
+<p class="prose-p">If you try to hold the waves back and prevent them reaching the shore, you learn how. Powerful those waves are. They push you back and you quickly get. Engulfed and overwhelmed.</p>
+<p class="prose-p">But you don’t have to tumble and struggle. Against the waves. Those waves are coming no more or what. When you.</p>
+<p class="prose-p">Accept that, you can focus on keeping your head above the water as it. Passes. You still feel the E X. Might even get Lied oh your feet for a.</p>
+<p class="prose-p">Moment. But you move with the water and brace yourself ready to land. Back on your feet. Dealing with emotion is much the same as standing in the waves.</p>
+<p class="prose-p">When we try to stop feelings in their tracks, we easily get knocked. Oh, our feet and find ourselves in trouble, struggling to catch a breath and. Work out which way is up. When we allow the emotion to wash over us.</p>
+<p class="prose-p">It rises, peaks and descends, taking its natural course. Believe they are facts. Emotions are real and valid, but they are not facts. They are a guess.</p>
+<p class="prose-p">A. Perspective that we try on for size. An emotion is the brains are emped. To make sense of the world so that you can meet your needs and.</p>
+<p class="prose-p">Survive. Given that what you feel is not a factual statement, neither are. Thoughts. That is partly why therapies like CBT, cognitive behavioral therapy can be so helpful to many people.</p>
+<p class="prose-p">It gives us practice at being able to step back from thoughts and feelings and see them for what they are. Just one possible perspective.</p>
           </div>
         </section>
         
@@ -1005,20 +1127,21 @@
 <p class="prose-p">Ask a trusted friend to go over the story with you and help. You identify any biases or misunderstandings. Explore with. Them the DI errant perspectives you might have.</p>
 <p class="prose-p">Chapter Summary. Emotions are neither your enemy, not your friend. We have more influence over our emotional state than we. Were ever taught to believe.</p>
 <p class="prose-p">Pushing emotion away can cause more problems than. Allowing it to wash over us and take its natural course. Emotions are not facts but are one possible perspective. If there is painful emotion, get curious, ask questions.</p>
-<p class="prose-p">What? Can they tell you?</p>
-<h4 class="section-subhead">Chapter 11.</h4>
-<p class="prose-p">What to do with emotions? If you have skipped straight to this chapter, you may be looking for the. Answer to emotional pain. What is that thing to make it all go away?</p>
-<p class="prose-p">Well, if that is you, bear with me. Please don’t close the book just yet. But I am about to tell you the opposite of what you’re probably hoping. To here.</p>
-<p class="prose-p">Somewhere in the middle of clinical training, we had an introduction. To mindfulness. You might think that a bunch of trainee clinical. Psychologists would be open-minded enough to sit and learn patiently.</p>
-<p class="prose-p">But the room was full of giggles as we all tried to sit in silence and. Notice what we felt. Clinical training is all about doing, GE-ing things. Done.</p>
-<p class="prose-p">We were all firmly in doing mode. To sure into just being was. Proving a challenge for everyone in the room, much to the teachers. Annoyance.</p>
-<p class="prose-p">At the time, I admit I was full of judgments about how I. Couldn’t see myself using this or teaching it to anyone. But it was part of the program, so I had to try it out. As training.</p>
-<p class="prose-p">Progressed and became more stressful, I found myself in the midst of. Assessment season with a thesis to write and exams looming. Tension. Was high.</p>
-<p class="prose-p">One of my favored tools for stress management at the time. Was running. I took a break from the desk and went out for a run. Through the local countryside.</p>
-<p class="prose-p">My head was buzzing with to-do lists. And fears about GE-ing everything done and GE-ing it right. I had. Another go at using mindfulness, this time while I was moving.</p>
-<p class="prose-p">I followed a long gravel track through the woods and listened to the. Sound of my feet highing the stones. I allowed the feelings of anxiety. And stress to be with me.</p>
-<p class="prose-p">I didn’t try to push them away. I didn’t try to. Plan or problem solve. Every few seconds my mind would be oh, telling.</p>
-<p class="prose-p">Me about the things I should be doing instead of this. Oh airing up worst case scenarios of missing deadlines, failing assignments and an email I. Needed to send when I got back</p>
+<p class="prose-p">What? Can they tell you?
+
+#### Chapter 11. What to do with emotions? If you have skipped straight to this chapter, you may be looking for the.</p>
+<p class="prose-p">Answer to emotional pain. What is that thing to make it all go away? Well, if that is you, bear with me. Please don’t close the book just yet.</p>
+<p class="prose-p">But I am about to tell you the opposite of what you’re probably hoping. To here. Somewhere in the middle of clinical training, we had an introduction. To mindfulness.</p>
+<p class="prose-p">You might think that a bunch of trainee clinical. Psychologists would be open-minded enough to sit and learn patiently. But the room was full of giggles as we all tried to sit in silence and. Notice what we felt.</p>
+<p class="prose-p">Clinical training is all about doing, GE-ing things. Done. We were all firmly in doing mode. To sure into just being was.</p>
+<p class="prose-p">Proving a challenge for everyone in the room, much to the teachers. Annoyance. At the time, I admit I was full of judgments about how I. Couldn’t see myself using this or teaching it to anyone.</p>
+<p class="prose-p">But it was part of the program, so I had to try it out. As training. Progressed and became more stressful, I found myself in the midst of. Assessment season with a thesis to write and exams looming.</p>
+<p class="prose-p">Tension. Was high. One of my favored tools for stress management at the time. Was running.</p>
+<p class="prose-p">I took a break from the desk and went out for a run. Through the local countryside. My head was buzzing with to-do lists. And fears about GE-ing everything done and GE-ing it right.</p>
+<p class="prose-p">I had. Another go at using mindfulness, this time while I was moving. I followed a long gravel track through the woods and listened to the. Sound of my feet highing the stones.</p>
+<p class="prose-p">I allowed the feelings of anxiety. And stress to be with me. I didn’t try to push them away. I didn’t try to.</p>
+<p class="prose-p">Plan or problem solve. Every few seconds my mind would be oh, telling. Me about the things I should be doing instead of this. Oh airing up worst case scenarios of missing deadlines, failing assignments and an email I.</p>
+<p class="prose-p">Needed to send when I got back</p>
           </div>
         </section>
         
@@ -1098,8 +1221,9 @@
 <p class="prose-p">Stay away from the less than healthy habits when you are vulnerable to. Using them. Chapter summary. You are not your feelings and your feelings are not who you.</p>
 <p class="prose-p">Are. The sensation of emotion is an experience that moves. Through you. Each emotion can owe you information but not necessarily.</p>
 <p class="prose-p">The whole story. If there is something emotions are useful for, it’s telling us. What we need. When you feel something, give it a name.</p>
-<p class="prose-p">Try to label. Emotions with more detail than just happy or sad. Allow emotions to be present and soothe your way through. Rather than blocking them out.</p>
-<h4 class="section-subhead">Chapter 12.</h4>
+<p class="prose-p">Try to label. Emotions with more detail than just happy or sad. Allow emotions to be present and soothe your way through. Rather than blocking them out.
+
+#### Chapter 12.</p>
 <p class="prose-p">How to harness the power of. Your words. The language we use can have powerful EX on our experience of. The world.</p>
 <p class="prose-p">It is our tool for making sense of things, helping us to. Categorize sensations, learn from past experiences, share that. Knowledge and predict and plan for future experiences. Some words for emotions have gradually been used more and more.</p>
 <p class="prose-p">To mean DI errant things, until they have taken on broad and vague. Meanings. Happy has become an umbrella term for anything positive. To the extent that nobody really knows if what they are feeling.</p>
@@ -1171,34 +1295,33 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <h4 class="section-subhead">Chapter 14.</h4>
-<p class="prose-p">Understanding grief. We owe En associate grief with the death of a loved one. But we can. Grieve at other times too.</p>
-<p class="prose-p">Endings that feel significant to us can trigger. A grief reaction, even if the ending was not caused by death. We have fought our way through a pandemic that changed our lives. Along the way we lost friends, family, livelihoods, jobs, family.</p>
-<p class="prose-p">Businesses built over generations. We lost financial security, final. Friends with loved ones, and precious time to hold and be close to. Them.</p>
-<p class="prose-p">We lost a sense of certainty about what the future holds, and. Access to the social support that would help us cope with that. There. Profound losses experienced by so many have changed the world and.</p>
-<p class="prose-p">Le a psychological fallout that is heavy with grief. For anyone feeling the EX of a loss, these are some things too. Remember. Grief is normal.</p>
-<p class="prose-p">I have met so many people who tell themselves that they are failing at. Life because they are struggling to cope with grief. They make broad. Judgments about their strength of character, as if grief is a disorder or.</p>
-<p class="prose-p">A problem they should have fixed. Grief is a normal part of human. Experience. It is a necessary process to go through when we.</p>
-<p class="prose-p">Experience the loss of someone or something that we loved, needed. Felt connected to and that held meaning in our life. Sadness can be a part of grief. But there is much more to grief than.</p>
-<p class="prose-p">Sadness. It can be a deep yearning for the person who is gone. Relationships are at the core of what it means to be human. Among the.</p>
-<p class="prose-p">People I have met in my career so far, their human connections have. Been the most meaningful aspects of their lives. When the relationship. Ends, the need for that connection doesn’t stop.</p>
-<p class="prose-p">Your body grieves too. As explained in previous chapters, everything. We think and feel happens within the body. Grief is no DI errant.</p>
-<p class="prose-p">There. Loss of a loved one is a huge psychological and physical threat. The pain. Can feel both emotional and physical.</p>
-<p class="prose-p">The stress response is repeatedly. Triggered. In talking about things that help us through grief, let’s be clear on. What help means.</p>
-<p class="prose-p">Things that help do not make the pain disappear or. Make us forget or force us to let go. Help might be as simple as finding. Out that the rollercoaster of emotions you feel is normal.</p>
-<p class="prose-p">It might be. Finding new ways to sit with and process the pain in a safe and healthy. Way. Grief can feel intolerable.</p>
-<p class="prose-p">It makes absolute sense that our most. Natural human response to that might be to block it out. The pain is so. Less and vast that it is terrifying.</p>
-<p class="prose-p">So we push it away if we can. But. When we block one emotion, we tend to block them all. We can be low.</p>
-<p class="prose-p">Feeling hollow, numb and struggling to find meaning and to engage with. Life in the way we once did. If we find a way to push it all down under the surface, maybe by. Keeping really busy, numbing ourselves with alcohol or with denial of.</p>
-<p class="prose-p">What has happened, we may feel like we’re doing okay. In something. Small that seems insignificant blows the lid o and this world of pain. Explodes, leaving us in shock and questioning whether we can cope.</p>
-<p class="prose-p">Unresolved grief is associated with depression, suicidality and alcohol. Abuse, Zisook and Lyons, 1990. So denying our grief and pushing it away. Feels like self-protection but in the longer term can be the opposite.</p>
-<p class="prose-p">How easy it is to say all this. How hard it is in reality to experience it. When we block out pain, it is for good reason. An ocean of grief as.</p>
-<p class="prose-p">Deep as it is wide, it feels too big, too much, never ending. How do we. Possibly face something like that. We can start by understanding what.</p>
-<p class="prose-p">To expect. We can also make sure we get to know what helps us. Navigate the experience. Then we take things one experience at a time.</p>
-<p class="prose-p">We take a few strides into that ocean of grief. We feel it. We breathe. We step back and rest for a moment.</p>
-<p class="prose-p">Over time we learn to take more. Steps, go deeper, immerse ourselves, knowing that we can safely return. To the shore. Feeling the grief does not make it disappear.</p>
-<p class="prose-p">But we build. Up our strength to know that we can be reminded and yet still return to. Engage with life as it is today. Another summary.</p>
-<p class="prose-p">Endings that feel significant can trigger a grief reaction, even. If the end was not caused by death.</p>
+            <p class="prose-p">#### Chapter 14. Understanding grief. We owe En associate grief with the death of a loved one. But we can.</p>
+<p class="prose-p">Grieve at other times too. Endings that feel significant to us can trigger. A grief reaction, even if the ending was not caused by death. We have fought our way through a pandemic that changed our lives.</p>
+<p class="prose-p">Along the way we lost friends, family, livelihoods, jobs, family. Businesses built over generations. We lost financial security, final. Friends with loved ones, and precious time to hold and be close to.</p>
+<p class="prose-p">Them. We lost a sense of certainty about what the future holds, and. Access to the social support that would help us cope with that. There.</p>
+<p class="prose-p">Profound losses experienced by so many have changed the world and. Le a psychological fallout that is heavy with grief. For anyone feeling the EX of a loss, these are some things too. Remember.</p>
+<p class="prose-p">Grief is normal. I have met so many people who tell themselves that they are failing at. Life because they are struggling to cope with grief. They make broad.</p>
+<p class="prose-p">Judgments about their strength of character, as if grief is a disorder or. A problem they should have fixed. Grief is a normal part of human. Experience.</p>
+<p class="prose-p">It is a necessary process to go through when we. Experience the loss of someone or something that we loved, needed. Felt connected to and that held meaning in our life. Sadness can be a part of grief.</p>
+<p class="prose-p">But there is much more to grief than. Sadness. It can be a deep yearning for the person who is gone. Relationships are at the core of what it means to be human.</p>
+<p class="prose-p">Among the. People I have met in my career so far, their human connections have. Been the most meaningful aspects of their lives. When the relationship.</p>
+<p class="prose-p">Ends, the need for that connection doesn’t stop. Your body grieves too. As explained in previous chapters, everything. We think and feel happens within the body.</p>
+<p class="prose-p">Grief is no DI errant. There. Loss of a loved one is a huge psychological and physical threat. The pain.</p>
+<p class="prose-p">Can feel both emotional and physical. The stress response is repeatedly. Triggered. In talking about things that help us through grief, let’s be clear on.</p>
+<p class="prose-p">What help means. Things that help do not make the pain disappear or. Make us forget or force us to let go. Help might be as simple as finding.</p>
+<p class="prose-p">Out that the rollercoaster of emotions you feel is normal. It might be. Finding new ways to sit with and process the pain in a safe and healthy. Way.</p>
+<p class="prose-p">Grief can feel intolerable. It makes absolute sense that our most. Natural human response to that might be to block it out. The pain is so.</p>
+<p class="prose-p">Less and vast that it is terrifying. So we push it away if we can. But. When we block one emotion, we tend to block them all.</p>
+<p class="prose-p">We can be low. Feeling hollow, numb and struggling to find meaning and to engage with. Life in the way we once did. If we find a way to push it all down under the surface, maybe by.</p>
+<p class="prose-p">Keeping really busy, numbing ourselves with alcohol or with denial of. What has happened, we may feel like we’re doing okay. In something. Small that seems insignificant blows the lid o and this world of pain.</p>
+<p class="prose-p">Explodes, leaving us in shock and questioning whether we can cope. Unresolved grief is associated with depression, suicidality and alcohol. Abuse, Zisook and Lyons, 1990. So denying our grief and pushing it away.</p>
+<p class="prose-p">Feels like self-protection but in the longer term can be the opposite. How easy it is to say all this. How hard it is in reality to experience it. When we block out pain, it is for good reason.</p>
+<p class="prose-p">An ocean of grief as. Deep as it is wide, it feels too big, too much, never ending. How do we. Possibly face something like that.</p>
+<p class="prose-p">We can start by understanding what. To expect. We can also make sure we get to know what helps us. Navigate the experience.</p>
+<p class="prose-p">Then we take things one experience at a time. We take a few strides into that ocean of grief. We feel it. We breathe.</p>
+<p class="prose-p">We step back and rest for a moment. Over time we learn to take more. Steps, go deeper, immerse ourselves, knowing that we can safely return. To the shore.</p>
+<p class="prose-p">Feeling the grief does not make it disappear. But we build. Up our strength to know that we can be reminded and yet still return to. Engage with life as it is today.</p>
+<p class="prose-p">Another summary. Endings that feel significant can trigger a grief reaction, even. If the end was not caused by death.</p>
           </div>
         </section>
         
@@ -1210,30 +1333,30 @@
           </div>
           <div class="section-body">
             <p class="prose-p">Grief is a normal and natural part of being human. The pain can feel both emotional and physical. Things that help do not make the pain disappear or force you. To let go.</p>
-<p class="prose-p">Trying to completely block out grief can lead to problems. Further down the line.</p>
-<h4 class="section-subhead">Chapter 15.</h4>
-<p class="prose-p">The Stages of Grief. You might have heard about the stages of grief as originally described. By Elizabeth Kubleros, 1969. Since then, it has been established that.</p>
-<p class="prose-p">They are not experienced in stages and they do not happen in any. Particular order or time frame. But they do describe some of the most. Common experiences that can be a part of normal, healthy grief.</p>
-<p class="prose-p">It is. Important to remember that these are not a prescription for how you. Could be grieving. They are not a rule book for the best type of.</p>
-<p class="prose-p">Grieving. They are descriptions of experiences you might notice along. The way. So if you recognize any of them in your own experience, or in.</p>
-<p class="prose-p">A loved one, you know these are a part of normal, healthy grief. Denial. Denial and shock can help us survive the overwhelming pain of grief. It does not mean that we deny any of it is happening.</p>
-<p class="prose-p">But there may. Be a gradual pacing of how you take on board the situation you are. Facing and the new reality that awaits you, whether you chose it or. Not.</p>
-<p class="prose-p">Over time, denial begins to fade and this allows new waves of. Emotion to surface. Anger. Underneath anger is OEM intense pain or fear.</p>
-<p class="prose-p">When we allow. Ourselves to truly feel that anger and express it, we can bring those. Other emotions to the surface and work on them. But many people.</p>
-<p class="prose-p">Have been taught to fear anger and to feel ashamed of expressing it. So we hold it under the surface, but like holding air underwater, it. Soon bubbles up in another time or place. An outburst at a friend or.</p>
-<p class="prose-p">Doctor or family member that appears out of character. Anger is there to agitate us to move and make something happen. When we experience anger about something that we cannot control. Facing physical movement helps us to use that physiological arousal in.</p>
-<p class="prose-p">The way it was designed to be used. Venting in that way can be. Helpful to use up that energy generated by anger and bring ourselves. Back down to baseline, at least for a while.</p>
-<p class="prose-p">Once the body is calm. You are then more able to access the cognitive function necessary to. Get clarity on your thoughts and feelings or any problem solving to. Be done.</p>
-<p class="prose-p">It can be helpful to do that with a trusted friend or loved. One who can support you, or by writing things down. We know from. The research that ruminating alone on angry feelings can make the.</p>
-<p class="prose-p">Anger and aggression more intense rather than less, Bushman, 2002. Trying to do any sort of deep relaxation exercise before you have. Used physical action to move through the anger and bring your level. The arousal back down may be too DI cult.</p>
-<p class="prose-p">But once you have. Expressed it in any way that best suits you, using guided relaxations. Can be helpful to replenish the body and mind until the next wave of. Anger arrives.</p>
-<p class="prose-p">Bargaining. Maybe this occurs in fleeting moments. Maybe it’s hours or days. Spent ruminating over the what if, and if only, thoughts.</p>
-<p class="prose-p">This. Can easily lead down a path towards self blame. We start to wonder. What could have been DI errant if we had made DI errant choices at.</p>
-<p class="prose-p">DI errant times. We may start bargaining with a god, if we have one. Or the universe. Or maybe we promise to do things DI errantly from.</p>
-<p class="prose-p">Now on and devote our life to making things be er in some way. Trying desperately in our mind to make it all okay again. We just want. Things back the way they were.</p>
-<p class="prose-p">Depression. The word depression here is used to describe that deep loss, an intense sadness and emptiness that follows a bereavement. This is a normal reaction to loss and does not necessarily indicate a mental illness. Depression is a normal response to a depressing situation.</p>
-<p class="prose-p">Sometimes people around us can feel frightened by it and naturally want to fix it or cure it, or worse, want you to snap out of it. But recognizing depression as a normal part of healthy grief means that we can try to soothe ourselves through that pain and work hard. To re-engage with normal life and look at our well-being as much as we can. The ideas and tools covered in section 1 still apply here.</p>
-<p class="prose-p">But. We also don’t have to deny pain or push it down and hide it, as I will.</p>
+<p class="prose-p">Trying to completely block out grief can lead to problems. Further down the line.
+
+#### Chapter 15. The Stages of Grief. You might have heard about the stages of grief as originally described. By Elizabeth Kubleros, 1969.</p>
+<p class="prose-p">Since then, it has been established that. They are not experienced in stages and they do not happen in any. Particular order or time frame. But they do describe some of the most.</p>
+<p class="prose-p">Common experiences that can be a part of normal, healthy grief. It is. Important to remember that these are not a prescription for how you. Could be grieving.</p>
+<p class="prose-p">They are not a rule book for the best type of. Grieving. They are descriptions of experiences you might notice along. The way.</p>
+<p class="prose-p">So if you recognize any of them in your own experience, or in. A loved one, you know these are a part of normal, healthy grief. Denial. Denial and shock can help us survive the overwhelming pain of grief.</p>
+<p class="prose-p">It does not mean that we deny any of it is happening. But there may. Be a gradual pacing of how you take on board the situation you are. Facing and the new reality that awaits you, whether you chose it or.</p>
+<p class="prose-p">Not. Over time, denial begins to fade and this allows new waves of. Emotion to surface. Anger.</p>
+<p class="prose-p">Underneath anger is OEM intense pain or fear. When we allow. Ourselves to truly feel that anger and express it, we can bring those. Other emotions to the surface and work on them.</p>
+<p class="prose-p">But many people. Have been taught to fear anger and to feel ashamed of expressing it. So we hold it under the surface, but like holding air underwater, it. Soon bubbles up in another time or place.</p>
+<p class="prose-p">An outburst at a friend or. Doctor or family member that appears out of character. Anger is there to agitate us to move and make something happen. When we experience anger about something that we cannot control.</p>
+<p class="prose-p">Facing physical movement helps us to use that physiological arousal in. The way it was designed to be used. Venting in that way can be. Helpful to use up that energy generated by anger and bring ourselves.</p>
+<p class="prose-p">Back down to baseline, at least for a while. Once the body is calm. You are then more able to access the cognitive function necessary to. Get clarity on your thoughts and feelings or any problem solving to.</p>
+<p class="prose-p">Be done. It can be helpful to do that with a trusted friend or loved. One who can support you, or by writing things down. We know from.</p>
+<p class="prose-p">The research that ruminating alone on angry feelings can make the. Anger and aggression more intense rather than less, Bushman, 2002. Trying to do any sort of deep relaxation exercise before you have. Used physical action to move through the anger and bring your level.</p>
+<p class="prose-p">The arousal back down may be too DI cult. But once you have. Expressed it in any way that best suits you, using guided relaxations. Can be helpful to replenish the body and mind until the next wave of.</p>
+<p class="prose-p">Anger arrives. Bargaining. Maybe this occurs in fleeting moments. Maybe it’s hours or days.</p>
+<p class="prose-p">Spent ruminating over the what if, and if only, thoughts. This. Can easily lead down a path towards self blame. We start to wonder.</p>
+<p class="prose-p">What could have been DI errant if we had made DI errant choices at. DI errant times. We may start bargaining with a god, if we have one. Or the universe.</p>
+<p class="prose-p">Or maybe we promise to do things DI errantly from. Now on and devote our life to making things be er in some way. Trying desperately in our mind to make it all okay again. We just want.</p>
+<p class="prose-p">Things back the way they were. Depression. The word depression here is used to describe that deep loss, an intense sadness and emptiness that follows a bereavement. This is a normal reaction to loss and does not necessarily indicate a mental illness.</p>
+<p class="prose-p">Depression is a normal response to a depressing situation. Sometimes people around us can feel frightened by it and naturally want to fix it or cure it, or worse, want you to snap out of it. But recognizing depression as a normal part of healthy grief means that we can try to soothe ourselves through that pain and work hard. To re-engage with normal life and look at our well-being as much as we can.</p>
+<p class="prose-p">The ideas and tools covered in section 1 still apply here. But. We also don’t have to deny pain or push it down and hide it, as I will.</p>
           </div>
         </section>
         
@@ -1254,8 +1377,9 @@
 <p class="prose-p">You are not geeing. Grief wrong. Grief comes in waves that we can’t always predict. Chapter summary.</p>
 <p class="prose-p">Denial can help us survive the overwhelming pain of grief. As. Denial fades. This allows new waves of emotion to surface.</p>
 <p class="prose-p">When we experience anger about something we can’t control. Using physical movement helps us to use the physiological. Arousal and bring the body back down to calm for a while. Ruminating over the what IFS can easily lead down a path of.</p>
-<p class="prose-p">Self-blame. Depression is a normal reaction or a bereavement. Acceptance is not the same as liking or agreeing with the. Situation.</p>
-<h4 class="section-subhead">Chapter 16.</h4>
+<p class="prose-p">Self-blame. Depression is a normal reaction or a bereavement. Acceptance is not the same as liking or agreeing with the. Situation.
+
+#### Chapter 16.</p>
 <p class="prose-p">The Tasks of Mourning. So how do we begin to get through this intense, confusing, and OEM? Chaotic experience that we call grief. William Worden, 2011, described what he thought were the four.</p>
 <p class="prose-p">Tasks of Mourning. One. To find some acceptance in the new reality or the loss. Two.</p>
 <p class="prose-p">To work through the pain of grief. Three. To adjust to an environment in which that loved one is missing. Four.</p>
@@ -1331,22 +1455,22 @@
 <p class="prose-p">A therapist. Knows that the work of grief is through the pain and their work is to. Walk through it with you and owe her a guide when you need it. Chapter Summary Grief demands that we work through the pain.</p>
 <p class="prose-p">It takes time to adjust to a life in which the loved one is. Missing. We need to find a way to keep that connection going with the. Loved one without their physical presence.</p>
 <p class="prose-p">Acceptance of the new reality means we can continue to. Engage with the things that marr to us. Whatever you feel. It’s okay to feel that.</p>
-<p class="prose-p">Do not underestimate small steps and steady progress.</p>
-<h4 class="section-subhead">Chapter 17 The Pillars of Strength The grief psychotherapist Julia Samuel set out the key structures that.</h4>
-<p class="prose-p">Support us to rebuild our lives through grief, 2017. She calls them. Pillars of strength because they take work and persistence to build. By.</p>
-<p class="prose-p">Nurturing each of them, we gain a stable structure to help us through. The pillars of strength are listed below. One. Relationship with the person who has died.</p>
-<p class="prose-p">When we lose a loved one, our relationship and love for that person. Does not end. Adapting to the loss involves finding new ways to feel. Close to the loved one.</p>
-<p class="prose-p">For example, visiting a special place that you. Shared or spending time at a grave or memorial. Two. Relationship with the self.</p>
-<p class="prose-p">Every other section in this book touches on self-awareness and. Working through grief demands the same. In understanding our own. Coping mechanisms, finding ways to get support and look at our.</p>
-<p class="prose-p">Health and well-being throughout, we must listen to our own needs as. Best we can along the way. Three. Expressing grief.</p>
-<p class="prose-p">There is no correct way to express grief. If you prefer to do that. Through quiet reflection, memorials or sharing with friends, the act of. Allowing yourself to feel whatever comes up and expressing that.</p>
-<p class="prose-p">Helps the natural process. When emotions are especially. Overwhelming you can make use of the skills. in section 3 too. Help.</p>
-<p class="prose-p">See page 99. 4. Time. P. U.ing an expectation on how much time you should need for grief.</p>
-<p class="prose-p">Is searing yourself up for struggle. When everything is overwhelming. It helps to focus only on each day as it comes until you feel strong. Enough to take a broader view of the future.</p>
-<p class="prose-p">Adding pressure to feel. A certain way in a particular time frame only adds pain and distress. 5. Mind and body. As I covered in section 1, our physical state, emotions, thoughts and.</p>
-<p class="prose-p">Actions are like weaves in a basket. See page 53. We cannot change. One without influencing the other.</p>
-<p class="prose-p">This makes taking care of all of. Those aspects of our experience even more important. Regular. Exercise, eating well and ensuring we maintain some social contact.</p>
-<p class="prose-p">Will all help us to strengthen our mental health when we most need.</p>
+<p class="prose-p">Do not underestimate small steps and steady progress.
+
+#### Chapter 17 The Pillars of Strength The grief psychotherapist Julia Samuel set out the key structures that. Support us to rebuild our lives through grief, 2017. She calls them. Pillars of strength because they take work and persistence to build.</p>
+<p class="prose-p">By. Nurturing each of them, we gain a stable structure to help us through. The pillars of strength are listed below. One.</p>
+<p class="prose-p">Relationship with the person who has died. When we lose a loved one, our relationship and love for that person. Does not end. Adapting to the loss involves finding new ways to feel.</p>
+<p class="prose-p">Close to the loved one. For example, visiting a special place that you. Shared or spending time at a grave or memorial. Two.</p>
+<p class="prose-p">Relationship with the self. Every other section in this book touches on self-awareness and. Working through grief demands the same. In understanding our own.</p>
+<p class="prose-p">Coping mechanisms, finding ways to get support and look at our. Health and well-being throughout, we must listen to our own needs as. Best we can along the way. Three.</p>
+<p class="prose-p">Expressing grief. There is no correct way to express grief. If you prefer to do that. Through quiet reflection, memorials or sharing with friends, the act of.</p>
+<p class="prose-p">Allowing yourself to feel whatever comes up and expressing that. Helps the natural process. When emotions are especially. Overwhelming you can make use of the skills. in section 3 too.</p>
+<p class="prose-p">Help. See page 99. 4. Time. P.</p>
+<p class="prose-p">U.ing an expectation on how much time you should need for grief. Is searing yourself up for struggle. When everything is overwhelming. It helps to focus only on each day as it comes until you feel strong.</p>
+<p class="prose-p">Enough to take a broader view of the future. Adding pressure to feel. A certain way in a particular time frame only adds pain and distress. 5. Mind and body.</p>
+<p class="prose-p">As I covered in section 1, our physical state, emotions, thoughts and. Actions are like weaves in a basket. See page 53. We cannot change.</p>
+<p class="prose-p">One without influencing the other. This makes taking care of all of. Those aspects of our experience even more important. Regular.</p>
+<p class="prose-p">Exercise, eating well and ensuring we maintain some social contact. Will all help us to strengthen our mental health when we most need.</p>
           </div>
         </section>
         
@@ -1366,13 +1490,13 @@
 <p class="prose-p">When there are not enough words to describe the sensations that we. Feel. Focusing our entire on on simply observing our internal world. And visualizing those sensations in the body can help to build.</p>
 <p class="prose-p">Awareness of our own should s in emotional and physical state. Chapter summary. We can rebuild a life or a bereavement with time, work and. Persistence.</p>
 <p class="prose-p">Create new ways you can feel close to your loved one with a. Special place or memorial. Listen to your needs as much as you can along the way. There is no correct way to express grief.</p>
-<p class="prose-p">Drop any expectations about how much time you should. Spend grieving.</p>
-<h4 class="section-subhead">Chapter 18.</h4>
-<p class="prose-p">Dealing with criticism and. Disapproval. Criticism and disapproval is something we all have to face at some. Point.</p>
-<p class="prose-p">But nobody ever really teaches us how to deal with it in a way. That allows that feedback to enhance our life instead of destroying our. Self-esteem. Even the anticipation of criticism or disapproval can be enough to.</p>
-<p class="prose-p">Cause a paralysis in our ability to strive for things that Mara most to. Us. So not having the skills to deal with criticism or disapproval in a. Healthy way can cost you now this chapter is not about to tell you to just stop caring what.</p>
-<p class="prose-p">Anyone else thinks of you in fact we are built to care about how we are being perceived by those around us criticism can be a sign that we haven’t lived up to expectation in some way and sometimes. But not always can signal a risk of rejection or abandonment so receiving. Criticism will naturally trigger your stress response. That response gears us up ready to do something about it historically rejection from our.</p>
-<p class="prose-p">Community was a serious threat to our survival these days things are di errant in some ways but similar in others rejection and loneliness continue to be a big threat to our health and the brain continues doing its job of trying to keep us safe in a group beyond simply keeping us safe our capacity to imagine what others might think of us is a key skill that helps us to function in the social groups that we live in we develop our sense of self and identity not only from our own experience and how we interact with others but also through what we imagine those other people really think of us the ideas and perceptions they might have of us this is called the looking glass self coolly 1902 so it makes sense that what i believe you think of me is going to influence what i do next so when we try to tell ourselves to just stop caring what anyone else thinks even if we feel a momentary boost the impact of that is oen short lived at best people pleasing people pleasing is more than just being nice to people anyone would recommend being nice to people but people pleasing is a par urn of behavior in which you consistently put all others before yourself even to the detriment of your own health and well-being it can leave us feeling unable to express our needs likes and dislikes and unable to hold boundaries or even keep ourselves safe we say yes when actually we want to need to say no we feel resentful of being taken advantage of but unable to change it by asking for anything d.i. errant and the fear of disapproval never disappears because there is always the possibility of p.u.ing a foot wrong making a wrong choice and displeasing someone even if that person is someone we don’t like or spend time with while it is in us all to care about the</p>
+<p class="prose-p">Drop any expectations about how much time you should. Spend grieving.
+
+#### Chapter 18. Dealing with criticism and. Disapproval.</p>
+<p class="prose-p">Criticism and disapproval is something we all have to face at some. Point. But nobody ever really teaches us how to deal with it in a way. That allows that feedback to enhance our life instead of destroying our.</p>
+<p class="prose-p">Self-esteem. Even the anticipation of criticism or disapproval can be enough to. Cause a paralysis in our ability to strive for things that Mara most to. Us.</p>
+<p class="prose-p">So not having the skills to deal with criticism or disapproval in a. Healthy way can cost you now this chapter is not about to tell you to just stop caring what. Anyone else thinks of you in fact we are built to care about how we are being perceived by those around us criticism can be a sign that we haven’t lived up to expectation in some way and sometimes. But not always can signal a risk of rejection or abandonment so receiving.</p>
+<p class="prose-p">Criticism will naturally trigger your stress response. That response gears us up ready to do something about it historically rejection from our. Community was a serious threat to our survival these days things are di errant in some ways but similar in others rejection and loneliness continue to be a big threat to our health and the brain continues doing its job of trying to keep us safe in a group beyond simply keeping us safe our capacity to imagine what others might think of us is a key skill that helps us to function in the social groups that we live in we develop our sense of self and identity not only from our own experience and how we interact with others but also through what we imagine those other people really think of us the ideas and perceptions they might have of us this is called the looking glass self coolly 1902 so it makes sense that what i believe you think of me is going to influence what i do next so when we try to tell ourselves to just stop caring what anyone else thinks even if we feel a momentary boost the impact of that is oen short lived at best people pleasing people pleasing is more than just being nice to people anyone would recommend being nice to people but people pleasing is a par urn of behavior in which you consistently put all others before yourself even to the detriment of your own health and well-being it can leave us feeling unable to express our needs likes and dislikes and unable to hold boundaries or even keep ourselves safe we say yes when actually we want to need to say no we feel resentful of being taken advantage of but unable to change it by asking for anything d.i. errant and the fear of disapproval never disappears because there is always the possibility of p.u.ing a foot wrong making a wrong choice and displeasing someone even if that person is someone we don’t like or spend time with while it is in us all to care about the</p>
           </div>
         </section>
         
@@ -1428,8 +1552,9 @@
 <p class="prose-p">Because we have learned to be. Recognizing that we learned that. Way of speaking to ourselves helps us to acknowledge that we can. Re-learn a new internal dialogue that serves us be a.</p>
 <p class="prose-p">Chapter summary. Learning the skills to deal with criticism and disapproval in a. Healthy way is a crucial life skill. We are built to care what others think of us, so telling.</p>
 <p class="prose-p">Ourselves that we don’t care is not the answer. People pleasing is more than just being nice to people. It is. The persistent placing of others wants or needs above your.</p>
-<p class="prose-p">Own, even to the detriment of your own health and well being. Understanding why some people are highly critical helps. Nurturing your own self worth and resilience to shame is both. Possible and potentially life altering.</p>
-<h4 class="section-subhead">Chapter 19.</h4>
+<p class="prose-p">Own, even to the detriment of your own health and well being. Understanding why some people are highly critical helps. Nurturing your own self worth and resilience to shame is both. Possible and potentially life altering.
+
+#### Chapter 19.</p>
 <p class="prose-p">The key to building confidence. As a teenager growing up in a small town, I thought of myself as a. Confident person. Then I lay that small town and went ode to university.</p>
 <p class="prose-p">Over 100 miles away. But much of my confidence, which I thought was. Part of me stayed at home. I was vulnerable, unsure of myself, not.</p>
 <p class="prose-p">Clear on who I needed to be to fit in. Over time, university life became. The new normal and I built up my confidence, brick by brick, once again. A.</p>
@@ -1538,18 +1663,18 @@
 <p class="prose-p">Facing, how you feel about it and what you want to work on. Take some time to imagine in detail how that perfect. Nurturer or coach might respond and write it down. This sets the tone for the words you can start using to respond to yourself as you work on building your own confidence and inevitably face vulnerability along the way.</p>
 <p class="prose-p">Chapter summary. Confidence cannot grow if we are never willing to be without it. To build confidence, go where you have none. Repeat every day and watch your confidence develop.</p>
 <p class="prose-p">Confidence is situation specific, but what you keep as you. Move around is the belief that you can tolerate the fear as confidence grows. You do not need to overwhelm yourself with your worst case scenario. Start with small changes along the way.</p>
-<p class="prose-p">Be your own coach, not your worst critic. Challenge comes before confidence.</p>
-<h4 class="section-subhead">Chapter 20.</h4>
-<p class="prose-p">You are not your mistakes. Most self doubt is linked to the relationship we have with failure. I am. Not about to sit here and tell you to just be okay with failure, then.</p>
-<p class="prose-p">Everything will be easy. That is not true. Failure is never easy. It stings.</p>
-<p class="prose-p">Every time. We all want to be enough. We all want to be acceptable. The failure is a sign that maybe we weren’t enough this time.</p>
-<p class="prose-p">It is not only our relationship with our own failure that needs to change, but also how we respond to the failure of others. You don’t. Have to spend too long on chia to develop an overwhelming fear of. Failure.</p>
-<p class="prose-p">Say the wrong thing in a tweet and a collective army of. Tweeters invade and hound you with verbal abuse, demanding you be pulled down from whatever heights you may have climbed in your. Lifetime. I have seen this happen to people who make simple mistakes.</p>
-<p class="prose-p">In their use of language and immediately apologize for it. Given that. Social media is a magnified reflection of who we are as a society. This.</p>
-<p class="prose-p">Speaks to me about the intense shame we associate with any form of. Failure. Those who are highly self critical are more likely to be critical of. Others.</p>
-<p class="prose-p">People believe that mistakes and shortcomings should be met. With humiliation and shame no ma er what the intention, how do we. Ever begin to be okay with taking risks and making mistakes ourselves. Something that has helped me a lot is understanding that how other.</p>
-<p class="prose-p">People respond to my failures does not provide an accurate assessment. Of my personality and worthiness as a human, but instead indicates. How that person relates to failure. Understanding failure is hard in.</p>
-<p class="prose-p">Environments where people attack each other for mistakes.</p>
+<p class="prose-p">Be your own coach, not your worst critic. Challenge comes before confidence.
+
+#### Chapter 20. You are not your mistakes. Most self doubt is linked to the relationship we have with failure.</p>
+<p class="prose-p">I am. Not about to sit here and tell you to just be okay with failure, then. Everything will be easy. That is not true.</p>
+<p class="prose-p">Failure is never easy. It stings. Every time. We all want to be enough.</p>
+<p class="prose-p">We all want to be acceptable. The failure is a sign that maybe we weren’t enough this time. It is not only our relationship with our own failure that needs to change, but also how we respond to the failure of others. You don’t.</p>
+<p class="prose-p">Have to spend too long on chia to develop an overwhelming fear of. Failure. Say the wrong thing in a tweet and a collective army of. Tweeters invade and hound you with verbal abuse, demanding you be pulled down from whatever heights you may have climbed in your.</p>
+<p class="prose-p">Lifetime. I have seen this happen to people who make simple mistakes. In their use of language and immediately apologize for it. Given that.</p>
+<p class="prose-p">Social media is a magnified reflection of who we are as a society. This. Speaks to me about the intense shame we associate with any form of. Failure.</p>
+<p class="prose-p">Those who are highly self critical are more likely to be critical of. Others. People believe that mistakes and shortcomings should be met. With humiliation and shame no ma er what the intention, how do we.</p>
+<p class="prose-p">Ever begin to be okay with taking risks and making mistakes ourselves. Something that has helped me a lot is understanding that how other. People respond to my failures does not provide an accurate assessment. Of my personality and worthiness as a human, but instead indicates.</p>
+<p class="prose-p">How that person relates to failure. Understanding failure is hard in. Environments where people attack each other for mistakes.</p>
           </div>
         </section>
         
@@ -1761,6 +1886,204 @@
 
     document.getElementById('scroll-top-btn').addEventListener('click', () => {
       window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    // ==========================================
+    // IN-PAGE CONTENT SEARCH (單書全文搜尋)
+    // ==========================================
+    const searchBar = document.getElementById('inpage-search-bar');
+    const searchInput = document.getElementById('inpage-search-input');
+    const searchCount = document.getElementById('inpage-search-count');
+    const searchDrawer = document.getElementById('inpage-search-drawer');
+    const searchDrawerList = document.getElementById('inpage-search-drawer-list');
+    const searchToggleBtn = document.getElementById('search-toggle-btn');
+    const searchClearBtn = document.getElementById('inpage-search-clear');
+    const searchPrevBtn = document.getElementById('inpage-search-prev');
+    const searchNextBtn = document.getElementById('inpage-search-next');
+    const searchCloseBtn = document.getElementById('inpage-search-close');
+    const drawerCloseBtn = document.getElementById('inpage-drawer-close');
+
+    let searchMatches = [];
+    let currentMatchIdx = -1;
+
+    // Cache original innerHTML for clean resets
+    const rawParagraphs = Array.from(document.querySelectorAll('.section-body p')).map(p => ({
+      el: p,
+      rawHtml: p.innerHTML,
+      rawText: p.textContent
+    }));
+
+    function openSearch() {
+      searchBar.classList.add('active');
+      searchInput.focus();
+      searchInput.select();
+      if (searchInput.value.trim()) {
+        performSearch(searchInput.value.trim());
+      }
+    }
+
+    function closeSearch() {
+      searchBar.classList.remove('active');
+      searchDrawer.classList.remove('active');
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchCount.textContent = '0 / 0';
+    }
+
+    function clearHighlights() {
+      rawParagraphs.forEach(item => {
+        item.el.innerHTML = item.rawHtml;
+      });
+    }
+
+    function escapeRegex(str) {
+      return str.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+    }
+
+    function escapeHtml(str) {
+      return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+
+    function performSearch(query) {
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchDrawerList.innerHTML = '';
+
+      if (!query || query.trim().length === 0) {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+        return;
+      }
+
+      query = query.trim();
+      const qLower = query.toLowerCase();
+      const regex = new RegExp(`(${escapeRegex(query)})`, 'gi');
+
+      rawParagraphs.forEach((item, pIdx) => {
+        if (item.rawText.toLowerCase().includes(qLower)) {
+          const sec = item.el.closest('.transcript-section');
+          const secTime = sec ? (sec.querySelector('.section-time')?.textContent || '') : '';
+          const secId = sec ? sec.id : '';
+
+          // Apply highlight
+          item.el.innerHTML = item.rawHtml.replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const marks = Array.from(item.el.querySelectorAll('mark.search-highlight'));
+          marks.forEach(mark => {
+            searchMatches.push({
+              mark,
+              el: item.el,
+              secTime,
+              secId
+            });
+          });
+
+          // Snippet creation
+          const matchPos = item.rawText.toLowerCase().indexOf(qLower);
+          const start = Math.max(0, matchPos - 30);
+          const end = Math.min(item.rawText.length, matchPos + query.length + 50);
+          const snippetText = item.rawText.slice(start, end);
+          const snippetHtml = escapeHtml(snippetText).replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const card = document.createElement('div');
+          card.className = 'search-result-item';
+          card.innerHTML = `
+            <div class="search-result-time">${secTime}</div>
+            <div class="search-result-snippet">...${snippetHtml}...</div>
+          `;
+          card.addEventListener('click', () => {
+            const targetIdx = searchMatches.findIndex(m => m.mark === marks[0]);
+            if (targetIdx >= 0) goToMatch(targetIdx);
+          });
+          searchDrawerList.appendChild(card);
+        }
+      });
+
+      if (searchMatches.length > 0) {
+        searchDrawer.classList.add('active');
+        goToMatch(0);
+      } else {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+      }
+    }
+
+    function goToMatch(idx) {
+      if (idx < 0 || idx >= searchMatches.length) return;
+      if (currentMatchIdx >= 0 && searchMatches[currentMatchIdx]) {
+        searchMatches[currentMatchIdx].mark.classList.remove('active-match');
+      }
+      currentMatchIdx = idx;
+      const target = searchMatches[currentMatchIdx];
+      target.mark.classList.add('active-match');
+      searchCount.textContent = `${currentMatchIdx + 1} / ${searchMatches.length}`;
+
+      // Highlight active drawer item
+      const drawerItems = searchDrawerList.querySelectorAll('.search-result-item');
+      drawerItems.forEach(di => di.classList.remove('active'));
+
+      target.mark.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+
+    searchToggleBtn.addEventListener('click', () => {
+      if (searchBar.classList.contains('active')) {
+        closeSearch();
+      } else {
+        openSearch();
+      }
+    });
+
+    let debounceTimer;
+    searchInput.addEventListener('input', (e) => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => {
+        performSearch(e.target.value);
+      }, 200);
+    });
+
+    searchClearBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      performSearch('');
+      searchInput.focus();
+    });
+
+    searchNextBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const nextIdx = (currentMatchIdx + 1) % searchMatches.length;
+      goToMatch(nextIdx);
+    });
+
+    searchPrevBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const prevIdx = (currentMatchIdx - 1 + searchMatches.length) % searchMatches.length;
+      goToMatch(prevIdx);
+    });
+
+    searchInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        if (e.shiftKey) {
+          searchPrevBtn.click();
+        } else {
+          searchNextBtn.click();
+        }
+      } else if (e.key === 'Escape') {
+        closeSearch();
+      }
+    });
+
+    searchCloseBtn.addEventListener('click', closeSearch);
+    drawerCloseBtn.addEventListener('click', () => searchDrawer.classList.remove('active'));
+
+    window.addEventListener('keydown', (e) => {
+      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'f') {
+        e.preventDefault();
+        openSearch();
+      } else if (e.key === 'Escape') {
+        if (searchBar.classList.contains('active')) closeSearch();
+      }
     });
   </script>
 </body>

@@ -52,29 +52,29 @@
 
 Do it today. Overcome procrastination, improve productivity, and achieve more meaningful things. By Darius Forrest.
 
-#### Part 1, Overcoming Procrastination.
+#### Part 1, Overcoming Procrastination. You cannot escape the responsibility of tomorrow by evading it today.
 
-You cannot escape the responsibility of tomorrow by evading it today. Abraham Lincoln. Do it today, not tomorrow. Every time I put off a decision, hit the snooze button, skipped the gym, or didn’t complete my tasks because I didn’t feel like it, I always had an explanation for my continual procrastination.
+Abraham Lincoln. Do it today, not tomorrow. Every time I put off a decision, hit the snooze button, skipped the gym, or didn’t complete my tasks because I didn’t feel like it, I always had an explanation for my continual procrastination. I told myself I was tired.
 
-I told myself I was tired. Or that it could wait until tomorrow. Who cares if you put off something, right? Well, you should care.
+Or that it could wait until tomorrow. Who cares if you put off something, right? Well, you should care. Because you’re the one who’s responsible for your life.
 
-Because you’re the one who’s responsible for your life. Too often, we look at productivity tips, apps, or tools as the magic answer to our problems. But that also means we allow ourselves to blame external things for our lack of productivity. No, it’s not me, it’s my old laptop. It sucks, and I can’t work this way.
+Too often, we look at productivity tips, apps, or tools as the magic answer to our problems. But that also means we allow ourselves to blame external things for our lack of productivity. No, it’s not me, it’s my old laptop. It sucks, and I can’t work this way. The office is too loud.
 
-The office is too loud. People keep calling and emailing me. I never have time. Battling procrastination is an inner battle.
+People keep calling and emailing me. I never have time. Battling procrastination is an inner battle. I have many examples of that in my personal life.
 
-I have many examples of that in my personal life. In 2013, I felt my career was stuck. Two years before that, I started a company with my dad. But after two years, I became restless because I wanted to do more and learn more.
+In 2013, I felt my career was stuck. Two years before that, I started a company with my dad. But after two years, I became restless because I wanted to do more and learn more. So I did some freelancing.
 
-So I did some freelancing. I built websites, did copywriting, content marketing, and some design work. But it didn’t take off. Why?
+I built websites, did copywriting, content marketing, and some design work. But it didn’t take off. Why? I never did the uncomfortable work.
 
-I never did the uncomfortable work. Instead, I found a job to escape those hard tasks. We all escape at times. Building a business or career is hard.
+Instead, I found a job to escape those hard tasks. We all escape at times. Building a business or career is hard. It requires you to do difficult, tedious, and unsatisfying tasks.
 
-It requires you to do difficult, tedious, and unsatisfying tasks. If you want more clients or work, no one is going to hand it to you. You have to hustle. Do content marketing, one-on-one sales, network, or whatever method you use to grow your business.
+If you want more clients or work, no one is going to hand it to you. You have to hustle. Do content marketing, one-on-one sales, network, or whatever method you use to grow your business. And if you want to climb the corporate ladder, you have to form alliances, be strategic, outperform your targets, and be great at what you do.
 
-And if you want to climb the corporate ladder, you have to form alliances, be strategic, outperform your targets, and be great at what you do. That’s what you should do, right? Most of us already know these things. Or, you will find out about it.
+That’s what you should do, right? Most of us already know these things. Or, you will find out about it. There’s no such thing as a secret to succeeding at work.
 
-There’s no such thing as a secret to succeeding at work. However, we prefer to escape work. And that’s at the core of procrastination to me. You know what you have to do, but you don’t do it.
+However, we prefer to escape work. And that’s at the core of procrastination to me. You know what you have to do, but you don’t do it. Instead, you open a news site and start reading useless news items. Or you browse your Instagram feed without liking one picture because you hate your life.
 
-Instead, you open a news site and start reading useless news items. Or you browse your Instagram feed without liking one picture because you hate your life. Maybe you browse Zara, H&M, Net-A-Porter, Mr. Porter, or whatever online shop you like. That was, and to a degree still is, the story of my life.
+Maybe you browse Zara, H&M, Net-A-Porter, Mr. Porter, or whatever online shop you like. That was, and to a degree still is, the story of my life.
 
 For example, I’m now working on a new book. I know what it’s about and I also have a title. But writing is also very difficult work to me. So I look for relief.
 
@@ -592,9 +592,9 @@ And remember, focus determines the quality of your life. No focus means no contr
 
 Start managing your attention. Not your time.
 
-#### Part 2, improving productivity.
+#### Part 2, improving productivity. It’s like a lot of things, said the Smith. Do the least part of it wrong and ye just as well to do it all wrong.
 
-It’s like a lot of things, said the Smith. Do the least part of it wrong and ye just as well to do it all wrong. Cormac McCarthy.
+Cormac McCarthy.
 
 
 <a id="sec-010527"></a>
@@ -1112,17 +1112,17 @@ For example, doing 10x 30-minute intervals results in 300 minutes of productive 
 
 Sometimes we get lost in the lists and productivity hacks. The truth is that no matter what you do to improve your productivity, you still have to do the work. So you might as well get those 5-minute breaks to recharge.
 
-#### Part 3.
+#### Part 3. Achieving more.
 
-Achieving more. A man who chases two rabbits catches neither. Chinese proverb. Don’t know what you want.
+A man who chases two rabbits catches neither. Chinese proverb. Don’t know what you want. Improve these 7 universal skills.
 
-Improve these 7 universal skills. What does success look like? What do you want from life? What career do you want?
+What does success look like? What do you want from life? What career do you want? Most of us answer, I don’t know.
 
-Most of us answer, I don’t know. And you know what? There’s nothing wrong with that. And yet, we think it’s the worst thing in the world if you don’t know what you want to do in life.
+And you know what? There’s nothing wrong with that. And yet, we think it’s the worst thing in the world if you don’t know what you want to do in life. We say, omg.
 
-We say, omg. I don’t know what I want. And then we have a full-on panic attack. Be honest, it happens to all of us.
+I don’t know what I want. And then we have a full-on panic attack. Be honest, it happens to all of us. Especially when you see that your old college friend just got married.
 
-Especially when you see that your old college friend just got married. Or that your coworker, who started at the same time as you, just got promoted. It’s at those moments of weakness when we shine a spotlight on our own uncertainty about life. One of the biggest thinking errors that I’ve made was that I thought I needed to know what I exactly wanted to do with my life.
+Or that your coworker, who started at the same time as you, just got promoted. It’s at those moments of weakness when we shine a spotlight on our own uncertainty about life. One of the biggest thinking errors that I’ve made was that I thought I needed to know what I exactly wanted to do with my life.
 
 The truth is that no one knows what they truly want. Accept the uncertainty. You could get killed by a cow tomorrow, really happened. You could lose half of your money on the stock market.
 

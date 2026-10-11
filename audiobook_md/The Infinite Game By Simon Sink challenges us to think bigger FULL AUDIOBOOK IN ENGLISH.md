@@ -717,11 +717,11 @@ Our management team is talented and experienced, and our strategy gives me confi
 
 It is exciting to see how he is re-equipping Walmart to once again play in the infinite game.
 
-#### Chapter 5 – The Responsibility of Business, Revised Business today is subject to a dizzying rate of change.
+#### Chapter 5 – The Responsibility of Business, Revised Business today is subject to a dizzying rate of change. And all that change seems to be taking its toll. The time it takes before a company is forced out of the game is getting shorter and shorter. The average life of a company in the 1950s, if you recall, was just over 60 years.
 
-And all that change seems to be taking its toll. The time it takes before a company is forced out of the game is getting shorter and shorter. The average life of a company in the 1950s, if you recall, was just over 60 years. Today it is less than 20 years.
+Today it is less than 20 years. According to a 2017 study by Credit Suisse, disruptive technology is the reason for the steep decline in company lifespan.
 
-According to a 2017 study by Credit Suisse, disruptive technology is the reason for the steep decline in company lifespan. However, disruptive technologies are not a new phenomenon. The credit card, the microwave oven, bubble wrap, Velcro, transistor radio, television, computer hard disks, solar cells,
+However, disruptive technologies are not a new phenomenon. The credit card, the microwave oven, bubble wrap, Velcro, transistor radio, television, computer hard disks, solar cells,
 
 
 <a id="sec-020121"></a>
@@ -919,13 +919,13 @@ Where Friedman believed the results of our hard work should be for the primary b
 
 Disruption is not going away anytime soon, that’s not going to change. How leaders respond to it, however, can. Where Friedman’s finite definition of the responsibility focuses on maximizing resources, a revised infinite definition also considers the will of the people.
 
-#### Chapter 6, Will and Resources.
+#### Chapter 6, Will and Resources. The Four Seasons in Las Vegas is a Wonderful Hotel.
 
-The Four Seasons in Las Vegas is a Wonderful Hotel. The reason it’s a wonderful hotel is not because of the fancy beds. Any hotel can buy fancy beds. The reason the Four Seasons is a wonderful hotel is because of the people who work there.
+The reason it’s a wonderful hotel is not because of the fancy beds. Any hotel can buy fancy beds. The reason the Four Seasons is a wonderful hotel is because of the people who work there. If you find yourself walking through the halls and an employee says hello, for example, you get the distinct feeling that they wanted to say hello, not that they were told to say hello.
 
-If you find yourself walking through the halls and an employee says hello, for example, you get the distinct feeling that they wanted to say hello, not that they were told to say hello. Human beings are highly attuned social animals, we can tell the difference. There happens to be a coffee bar in the lobby of the hotel. One afternoon while on a business trip in Las Vegas, I went to buy myself a cup of coffee.
+Human beings are highly attuned social animals, we can tell the difference. There happens to be a coffee bar in the lobby of the hotel. One afternoon while on a business trip in Las Vegas, I went to buy myself a cup of coffee. The barista working that day was a young man named Noah.
 
-The barista working that day was a young man named Noah. Noah was funny and engaging. It was because of Noah that I enjoyed buying that cup of coffee more than I generally enjoy buying a cup of coffee.
+Noah was funny and engaging. It was because of Noah that I enjoyed buying that cup of coffee more than I generally enjoy buying a cup of coffee.
 
 After standing and chatting for a while, I finally asked him, do you like your job, without skipping a beat Noah immediately replied, “I love my job.” Now, for someone in my line of business, that’s a significant response. He didn’t say, I like my job, he said, “I love my job, that’s a big difference.” Like is rational, we like the people we work with, we like the challenge, we like the work, but love, love is emotional. Love is something harder to quantify.
 
@@ -1047,15 +1047,13 @@ When hard times strike, and hard times always strike, in companies with a bias f
 
 Our intention was to build a business where everyone associated with it thrives, says Tyndall.
 
-#### Chapter 7, Trusting Teens What is this for? asked George.
+#### Chapter 7, Trusting Teens What is this for? asked George. This has nothing to do with the oil field. This was the general consensus from the rest of the people in the room too. They were to be the crew for the Shell Ursa, the biggest offshore deepwater drilling platform the Shell Oil Company had ever built and they had no time for this workshop.
 
-This has nothing to do with the oil field. This was the general consensus from the rest of the people in the room too. They were to be the crew for the Shell Ursa, the biggest offshore deepwater drilling platform the Shell Oil Company had ever built and they had no time for this workshop. The Shell Ursa would stand 48 stories tall and would be capable of drilling deeper than any other platform in the world, more than 3,000 feet below the surface of the ocean.
+The Shell Ursa would stand 48 stories tall and would be capable of drilling deeper than any other platform in the world, more than 3,000 feet below the surface of the ocean. At the time, 1997, it cost $1.45 billion to build about $5.35 billion in today’s dollars. Given how massive and expensive an operation it was, it presented all kinds of new challenges and dangers, so Shell wanted things done right. Which is why they handpicked Rick Fox as the man to lead the job.
 
-At the time, 1997, it cost $1.45 billion to build about $5.35 billion in today’s dollars. Given how massive and expensive an operation it was, it presented all kinds of new challenges and dangers, so Shell wanted things done right. Which is why they handpicked Rick Fox as the man to lead the job. Fox was a tough guy’s tough guy, hard and confident.
+Fox was a tough guy’s tough guy, hard and confident. He was intolerant of weakness. He felt he had every right to be. This was one of the most dangerous jobs in the world.
 
-He was intolerant of weakness. He felt he had every right to be. This was one of the most dangerous jobs in the world. One false step, a glance in the wrong direction and in an instant a man could be ripped in two and killed by one of the heavy moving parts.
-
-He knew so, he’d seen it happen. Safety was Fox’s number one concern, that, and making sure that the
+One false step, a glance in the wrong direction and in an instant a man could be ripped in two and killed by one of the heavy moving parts. He knew so, he’d seen it happen. Safety was Fox’s number one concern, that, and making sure that the
 
 
 <a id="sec-030203"></a>
@@ -1333,15 +1331,15 @@ They build high performing teams by prioritizing an individual’s trustworthine
 
 When leaders are willing to prioritize trust over performance, performance almost always follows. However, when leaders have laser focus on performance above all else, the culture inevitably suffers.
 
-#### Chapter 8, Ethical Fading.
+#### Chapter 8, Ethical Fading. It’s hard to imagine that this actually happened. It is so far from ethical in any way.
 
-It’s hard to imagine that this actually happened. It is so far from ethical in any way. It’s hard to imagine that a group of people who I’m sure consider themselves good and honest were able to behave in ways that, by any standard, are just plain wrong. From mid-2011 to about mid-2016, employees at Wells Fargo Bank opened over three and a half million fake bank accounts.
+It’s hard to imagine that a group of people who I’m sure consider themselves good and honest were able to behave in ways that, by any standard, are just plain wrong. From mid-2011 to about mid-2016, employees at Wells Fargo Bank opened over three and a half million fake bank accounts. As The New York Times reported in 2016, some customers noticed the deception when they were charged unexpected fees, received credit or debit cards in the mail that they did not request or started hearing from debt collectors about accounts they did not recognize.
 
-As The New York Times reported in 2016, some customers noticed the deception when they were charged unexpected fees, received credit or debit cards in the mail that they did not request or started hearing from debt collectors about accounts they did not recognize. But most of the sham accounts went unnoticed, as employees would routinely close them shortly after opening them. Ultimately, 5,300 Wells Fargo employees were fired as a result of their involvement in these deceptive practices. Practices that then CEO John Stumpf told Congress go against everything regarding our core principles, our ethics and our culture.
+But most of the sham accounts went unnoticed, as employees would routinely close them shortly after opening them. Ultimately, 5,300 Wells Fargo employees were fired as a result of their involvement in these deceptive practices. Practices that then CEO John Stumpf told Congress go against everything regarding our core principles, our ethics and our culture. In a statement made to the press, the company echoed Stumpf, saying that the vast majority of our team members do the right thing every day on behalf of our customers.
 
-In a statement made to the press, the company echoed Stumpf, saying that the vast majority of our team members do the right thing every day on behalf of our customers. And if any of these things transpired, it’s distressing and it’s not who Wells Fargo is.
+And if any of these things transpired, it’s distressing and it’s not who Wells Fargo is. In other words, Wells Fargo executives would like us to believe that the offenders were just a few bad apples.
 
-In other words, Wells Fargo executives would like us to believe that the offenders were just a few bad apples. However, this was not an isolated act of a small group of people, this was the result of thousands of people acting over the course of years. The more likely scenario was that Wells Fargo’s culture suffered from a severe case of ethical fading. Ethical fading is a condition in a culture that allows people to act in unethical ways in order to advance their own interests, often at the expense of others, while falsely believing that they have not compromised their own moral principles.
+However, this was not an isolated act of a small group of people, this was the result of thousands of people acting over the course of years. The more likely scenario was that Wells Fargo’s culture suffered from a severe case of ethical fading. Ethical fading is a condition in a culture that allows people to act in unethical ways in order to advance their own interests, often at the expense of others, while falsely believing that they have not compromised their own moral principles.
 
 Ethical fading often starts with small, seemingly innocuous transgressions that, when left unchecked, continue to grow and compound. While ethical lapses can happen anywhere, organizations run with a finite mindset are especially susceptible to ethical fading. As discussed in the previous chapters, cultures that place excessive focus on quarterly or annual financial performance can put intense pressure on people to cut corners, bend rules and make other questionable decisions in order to hit the targets set for them. Unfortunately, those who behave jubiously but hit the targets are rewarded, which sends a clear message about the organization’s priorities.
 
@@ -1589,17 +1587,15 @@ As a result of leading with an infinite mindset, Patagonia has not only created 
 
 Other companies now follow their lead.
 
-#### Chapter 9.
+#### Chapter 9. Worthy Rival. Whenever I heard his name, it made me uncomfortable. If I heard someone sing his praises, a wave of envy washed over me.
 
-Worthy Rival. Whenever I heard his name, it made me uncomfortable. If I heard someone sing his praises, a wave of envy washed over me. I know him to be a good person and a nice guy.
+I know him to be a good person and a nice guy. I respect his work a great deal and he has always been nice to me when we’ve met in professional settings. We do the same kind of work, write books and give talks about our views of the world. Though there are many others who do work similar to his and mine, for some reason I was obsessed with him.
 
-I respect his work a great deal and he has always been nice to me when we’ve met in professional settings. We do the same kind of work, write books and give talks about our views of the world. Though there are many others who do work similar to his and mine, for some reason I was obsessed with him. I wanted to outdo him.
+I wanted to outdo him. I would regularly check the online rankings to see how my books were selling and compare them to his. Not anyone else’s, just his. If mine were ranked higher, I would smile a gloatee smile and feel superior.
 
-I would regularly check the online rankings to see how my books were selling and compare them to his. Not anyone else’s, just his. If mine were ranked higher, I would smile a gloatee smile and feel superior. If his were ranked higher, I would scowl and feel annoyed.
+If his were ranked higher, I would scowl and feel annoyed. He was my main competitor and I wanted to win. Then something happened, we were invited to share a stage at the same event. Though we had spoken at the same events before, this was the first time we would actually be on the stage at the same time.
 
-He was my main competitor and I wanted to win. Then something happened, we were invited to share a stage at the same event. Though we had spoken at the same events before, this was the first time we would actually be on the stage at the same time. In the past I would speak on day 1 of a conference, for example, and he on day 2.
-
-This time, however, we would be on stage at the same time.
+In the past I would speak on day 1 of a conference, for example, and he on day 2. This time, however, we would be on stage at the same time.
 
 
 <a id="sec-043753"></a>
@@ -1815,25 +1811,25 @@ What got us here won’t get us there and knowing who our worthy rivals are is t
 
 And when that happens, when the hubris sets in, the organization will quickly find its weaknesses exposed and too rigid for the kind of flexibility they need to stay in the game.
 
-#### Chapter 10 Existential Flexibility Some thought him mad.
+#### Chapter 10 Existential Flexibility Some thought him mad. He began liquidating his assets and selling off property. He borrowed against his life insurance policy and even licensed the rights to his own name. With the company doing so well, why would he leave now to do something different, something so risky?
 
-He began liquidating his assets and selling off property. He borrowed against his life insurance policy and even licensed the rights to his own name. With the company doing so well, why would he leave now to do something different, something so risky? But in 1952, that’s exactly what Walt Disney did.
+But in 1952, that’s exactly what Walt Disney did. He hadn’t gone mad. What he had done was make an existential flex. Walt Disney was accustomed to taking risks and doing new things.
 
-He hadn’t gone mad. What he had done was make an existential flex. Walt Disney was accustomed to taking risks and doing new things. As a young artist working in the emerging field of animation, Disney was constantly innovating.
+As a young artist working in the emerging field of animation, Disney was constantly innovating. He was one of the first to make short films in which real actors would interact with cartoon characters. In 1928, he was the first to make a cartoon with synchronized sound in the animation classic Steamboat Willie. Dissatisfied with just making entertaining shorts designed to make an audience smile, however, Disney set out to make an animated film that was a believable substitute for reality.
 
-He was one of the first to make short films in which real actors would interact with cartoon characters. In 1928, he was the first to make a cartoon with synchronized sound in the animation classic Steamboat Willie. Dissatisfied with just making entertaining shorts designed to make an audience smile, however, Disney set out to make an animated film that was a believable substitute for reality. One that could elicit the full range of human emotions.
+One that could elicit the full range of human emotions. And in 1937, he released the first ever feature-length animated film, Snow White and the Seven Dwarfs. Snow White was like nothing the world had ever seen before. This evolution of Disney’s work wasn’t the result of experimentation for the sake of experimentation.
 
-And in 1937, he released the first ever feature-length animated film, Snow White and the Seven Dwarfs. Snow White was like nothing the world had ever seen before. This evolution of Disney’s work wasn’t the result of experimentation for the sake of experimentation. More was it driven by a desire to get rich or become famous.
+More was it driven by a desire to get rich or become famous. With each step, Disney was advancing his just cause, inviting audiences to leave the stresses and strains of life behind and enter into a more idyllic world of his creation. The seeds of Disney’s just cause were planted when he was just a boy. When he was four years old, his father, Elias, moved the family from Chicago to live on a farmstead in rural Marsline, Missouri.
 
-With each step, Disney was advancing his just cause, inviting audiences to leave the stresses and strains of life behind and enter into a more idyllic world of his creation. The seeds of Disney’s just cause were planted when he was just a boy. When he was four years old, his father, Elias, moved the family from Chicago to live on a farmstead in rural Marsline, Missouri. The young Walt played outdoors, where there were often animals roaming around, where he was surrounded by extended family and a supportive community.
+The young Walt played outdoors, where there were often animals roaming around, where he was surrounded by extended family and a supportive community. It was, as his older brother Roy later recounted, just heaven for city kids. But that idyllic childhood didn’t last long. Elias Disney’s attempt at being a farmer ended in failure, and five years after they arrived in Marsline, the family was forced to move again.
 
-It was, as his older brother Roy later recounted, just heaven for city kids. But that idyllic childhood didn’t last long. Elias Disney’s attempt at being a farmer ended in failure, and five years after they arrived in Marsline, the family was forced to move again. Landing in Kansas City, Elias bought a paper route and the young Walt was put to work to help the family make ends meet.
+Landing in Kansas City, Elias bought a paper route and the young Walt was put to work to help the family make ends meet. But it didn’t help, and as the financial struggles compounded, so did Elias’s stress and temper. It reached a point. Walt Disney recalled that to tell the truth with my father got me a licking.
 
-But it didn’t help, and as the financial struggles compounded, so did Elias’s stress and temper. It reached a point. Walt Disney recalled that to tell the truth with my father got me a licking. Fortunately, back on the farm, Disney had discovered drawing a hobby that gave him a perfect escape from what he perceived as the hardships of real life.
+Fortunately, back on the farm, Disney had discovered drawing a hobby that gave him a perfect escape from what he perceived as the hardships of real life. For the rest of his days, Disney would use his art and imagination to offer others a chance to escape their present circumstances too, to take them to a place where they could experience the kind of joy he remembered from his childhood in the little town of Marsline. To infinity and beyond, Walt Disney’s ability to transport people to another world turned out to be quite profitable.
 
-For the rest of his days, Disney would use his art and imagination to offer others a chance to escape their present circumstances too, to take them to a place where they could experience the kind of joy he remembered from his childhood in the little town of Marsline. To infinity and beyond, Walt Disney’s ability to transport people to another world turned out to be quite profitable. In addition to the critical and popular acclaim, when Snow White came out it grossed over $8 million in its first year alone, an equivalent of over $140 million in today’s dollars.
+In addition to the critical and popular acclaim, when Snow White came out it grossed over $8 million in its first year alone, an equivalent of over $140 million in today’s dollars. With the money and success generated from the film, Walt built a studio in Burbank, California, and a corporate culture that was, as former employee Don Lust described, just heaven. To repay the debt accumulated from building the studio and fueled the growth, Roy Disney, CEO of Walt Disney Productions, wanted to take the company public.
 
-With the money and success generated from the film, Walt built a studio in Burbank, California, and a corporate culture that was, as former employee Don Lust described, just heaven. To repay the debt accumulated from building the studio and fueled the growth, Roy Disney, CEO of Walt Disney Productions, wanted to take the company public. Walt opposed the idea for fear that shareholders would meddle in the business.
+Walt opposed the idea for fear that shareholders would meddle in the business.
 
 
 <a id="sec-051820"></a>

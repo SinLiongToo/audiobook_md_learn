@@ -66,26 +66,12 @@
       --card-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
     }
 
-    [data-line-height="compact"] {
-      --line-height: 1.68;
-    }
-    [data-line-height="normal"] {
-      --line-height: 1.88;
-    }
-    [data-line-height="loose"] {
-      --line-height: 2.12;
-    }
+    [data-line-height="compact"] { --line-height: 1.68; }
+    [data-line-height="normal"] { --line-height: 1.88; }
+    [data-line-height="loose"] { --line-height: 2.12; }
 
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
-    html {
-      scroll-behavior: smooth;
-    }
-
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
     body {
       font-family: var(--font-family);
       font-size: var(--font-size);
@@ -119,7 +105,7 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 0 20px;
+      padding: 0 18px;
       background-color: var(--bg-header);
       backdrop-filter: blur(8px);
       -webkit-backdrop-filter: blur(8px);
@@ -129,7 +115,7 @@
     .header-left, .header-right {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 8px;
       flex-wrap: nowrap;
     }
 
@@ -138,7 +124,7 @@
       border: 1px solid var(--border-color);
       color: var(--text-primary);
       cursor: pointer;
-      font-size: 14px;
+      font-size: 13.5px;
       padding: 6px 10px;
       border-radius: 8px;
       display: inline-flex;
@@ -147,6 +133,7 @@
       transition: all 0.2s;
       white-space: nowrap;
       user-select: none;
+      text-decoration: none;
     }
     .btn-icon:hover {
       background-color: var(--accent-light);
@@ -161,11 +148,132 @@
       font-size: 14px;
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
+    }
+    .home-link:hover { color: var(--accent-color); }
+
+    /* In-Page Search Bar Dropdown */
+    .inpage-search-bar {
+      position: sticky;
+      top: 60px;
+      z-index: 890;
+      background-color: var(--bg-surface);
+      border-bottom: 1px solid var(--border-color);
+      padding: 10px 18px;
+      display: none;
+      align-items: center;
+      gap: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    }
+    .inpage-search-bar.active { display: flex; }
+
+    .inpage-search-input-wrapper {
+      flex: 1;
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    .inpage-search-input {
+      width: 100%;
+      padding: 8px 36px 8px 12px;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      font-size: 14px;
+    }
+    .inpage-search-input:focus { outline: 2px solid var(--accent-color); }
+
+    .inpage-search-clear {
+      position: absolute;
+      right: 10px;
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 16px;
     }
 
-    .home-link:hover {
+    .inpage-search-count {
+      font-size: 13px;
+      color: var(--text-secondary);
+      font-family: monospace;
+      white-space: nowrap;
+    }
+    .search-nav-btns { display: flex; gap: 6px; }
+
+    /* In-Page Search Results Drawer */
+    .inpage-search-drawer {
+      position: fixed;
+      right: 20px;
+      top: 120px;
+      width: 360px;
+      max-height: calc(100vh - 160px);
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+      z-index: 895;
+      display: none;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .inpage-search-drawer.active { display: flex; }
+    .inpage-search-drawer-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-weight: 600;
+      font-size: 14px;
+    }
+    .inpage-search-drawer-list {
+      overflow-y: auto;
+      padding: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .search-result-item {
+      padding: 10px 12px;
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+      background: var(--bg-primary);
+      cursor: pointer;
+      font-size: 13px;
+      transition: all 0.15s;
+    }
+    .search-result-item:hover, .search-result-item.active {
+      border-color: var(--accent-color);
+      background: var(--accent-light);
+    }
+    .search-result-time {
+      font-weight: 700;
       color: var(--accent-color);
+      font-family: monospace;
+      margin-bottom: 4px;
+    }
+    .search-result-snippet {
+      color: var(--text-primary);
+      line-height: 1.5;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    /* Highlight mark */
+    mark.search-highlight {
+      background-color: #fef08a;
+      color: #1f2937;
+      padding: 1px 3px;
+      border-radius: 3px;
+    }
+    mark.search-highlight.active-match {
+      background-color: #f97316;
+      color: #ffffff;
+      outline: 2px solid #ea580c;
     }
 
     /* Layout Wrapper */
@@ -212,9 +320,7 @@
       font-size: 13px;
       margin-bottom: 14px;
     }
-    .toc-search:focus {
-      outline: 2px solid var(--accent-color);
-    }
+    .toc-search:focus { outline: 2px solid var(--accent-color); }
 
     .toc-list {
       list-style: none;
@@ -237,12 +343,10 @@
       overflow: hidden;
       text-overflow: ellipsis;
     }
-
     .toc-item a:hover {
       background-color: var(--accent-light);
       color: var(--accent-color);
     }
-
     .toc-item.active a {
       background-color: var(--accent-color);
       color: #ffffff;
@@ -257,19 +361,17 @@
       display: flex;
       justify-content: center;
     }
-
     .reader-container {
       width: 100%;
       max-width: var(--content-max-width);
     }
 
-    /* Book Hero / Header */
+    /* Book Hero */
     .book-hero {
       margin-bottom: 40px;
       padding-bottom: 24px;
       border-bottom: 2px solid var(--border-color);
     }
-
     .book-hero h1 {
       font-size: 2.1em;
       line-height: 1.35;
@@ -285,7 +387,6 @@
       gap: 10px;
       margin-top: 14px;
     }
-
     .meta-chip {
       display: inline-flex;
       align-items: center;
@@ -297,8 +398,13 @@
       font-size: 13px;
       font-weight: 500;
     }
+    .meta-chip.cat-badge {
+      background-color: #3b82f622;
+      color: #3b82f6;
+      font-weight: 600;
+    }
 
-    /* Content Typography & Enhanced Paragraphs */
+    /* Content Typography */
     .transcript-section {
       margin-bottom: 50px;
       scroll-margin-top: 80px;
@@ -349,25 +455,22 @@
       letter-spacing: 0.015em;
     }
 
-    /* Indented paragraph style (Traditional) */
+    /* Indented paragraph style */
     [data-p-style="indent"] .section-body p {
       text-indent: 2em;
       margin-bottom: 1.15em;
       line-height: var(--line-height);
     }
 
-    /* Block paragraph style (Modern with whitespace) */
+    /* Block paragraph style */
     [data-p-style="block"] .section-body p {
       text-indent: 0;
       margin-bottom: 1.55em;
       line-height: var(--line-height);
     }
+    .section-body p:last-child { margin-bottom: 0; }
 
-    .section-body p:last-child {
-      margin-bottom: 0;
-    }
-
-    /* Floating Navigation Controls */
+    /* Floating Tools */
     .floating-tools {
       position: fixed;
       bottom: 24px;
@@ -377,7 +480,6 @@
       gap: 10px;
       z-index: 800;
     }
-
     .float-btn {
       width: 44px;
       height: 44px;
@@ -399,7 +501,6 @@
       color: var(--accent-color);
     }
 
-    /* Overlay for mobile drawer */
     .backdrop {
       display: none;
       position: fixed;
@@ -419,36 +520,22 @@
         transform: translateX(-100%);
         box-shadow: 4px 0 16px rgba(0,0,0,0.15);
       }
-
-      .sidebar.open {
-        transform: translateX(0);
-      }
-
-      .backdrop.open {
-        display: block;
+      .sidebar.open { transform: translateX(0); }
+      .backdrop.open { display: block; }
+      .inpage-search-drawer {
+        left: 20px;
+        right: 20px;
+        width: auto;
       }
     }
 
     @media (max-width: 640px) {
-      :root {
-        --font-size: 17px;
-      }
-      .main-content {
-        padding: 24px 16px 60px 16px;
-      }
-      .book-hero h1 {
-        font-size: 1.55em;
-      }
-      .top-header {
-        padding: 0 10px;
-      }
-      .btn-icon {
-        padding: 5px 8px;
-        font-size: 13px;
-      }
-      [data-p-style="indent"] .section-body p {
-        text-indent: 1.5em;
-      }
+      :root { --font-size: 17px; }
+      .main-content { padding: 24px 16px 60px 16px; }
+      .book-hero h1 { font-size: 1.55em; }
+      .top-header { padding: 0 10px; }
+      .btn-icon { padding: 5px 7px; font-size: 12.5px; }
+      [data-p-style="indent"] .section-body p { text-indent: 1.5em; }
     }
   </style>
 </head>
@@ -464,6 +551,14 @@
       <a href="index.html" class="home-link" title="返回書架">
         🏠 書架
       </a>
+      <!-- Search Inside Book Button -->
+      <button class="btn-icon" id="search-toggle-btn" title="搜尋本書內文 (Ctrl+F)">
+        🔍 <span>搜尋內文</span>
+      </button>
+      <!-- Global Search Link -->
+      <a href="index.html?tab=search" class="btn-icon" title="前往全書庫全文檢索">
+        🌐 <span>全庫搜尋</span>
+      </a>
     </div>
 
     <div class="header-right">
@@ -473,7 +568,7 @@
       </button>
 
       <!-- Line Height Toggle -->
-      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 精簡)">
+      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 緊湊)">
         ↕ <span id="line-height-label">行距</span>
       </button>
 
@@ -492,6 +587,29 @@
       <button class="btn-icon" id="font-inc-btn" title="放大字級">A+</button>
     </div>
   </header>
+
+  <!-- In-Page Search Bar Dropdown -->
+  <div class="inpage-search-bar" id="inpage-search-bar">
+    <div class="inpage-search-input-wrapper">
+      <input type="text" id="inpage-search-input" class="inpage-search-input" placeholder="🔍 搜尋本書內文關鍵字 (按 Enter 尋找下一處，Esc 關閉)...">
+      <button class="inpage-search-clear" id="inpage-search-clear" title="清空">✕</button>
+    </div>
+    <span class="inpage-search-count" id="inpage-search-count">0 / 0</span>
+    <div class="search-nav-btns">
+      <button class="btn-icon" id="inpage-search-prev" title="上一處 (Shift+Enter)">▲</button>
+      <button class="btn-icon" id="inpage-search-next" title="下一處 (Enter)">▼</button>
+      <button class="btn-icon" id="inpage-search-close" title="關閉搜尋 (Esc)">✕</button>
+    </div>
+  </div>
+
+  <!-- In-Page Search Results Drawer -->
+  <div class="inpage-search-drawer" id="inpage-search-drawer">
+    <div class="inpage-search-drawer-header">
+      <span>搜尋結果清單</span>
+      <button class="btn-icon" id="inpage-drawer-close" style="padding: 2px 6px;">✕</button>
+    </div>
+    <div class="inpage-search-drawer-list" id="inpage-search-drawer-list"></div>
+  </div>
 
   <div class="backdrop" id="backdrop"></div>
 
@@ -571,6 +689,7 @@
         <header class="book-hero">
           <h1>Essentialism by Greg McKeown (Audiobook) w Read-through</h1>
           <div class="book-meta-chips">
+            <span class="meta-chip cat-badge">⚡ 習慣與生產力</span>
             <span class="meta-chip">🏷️ 時長：04:47:38</span>
 <span class="meta-chip">🏷️ 模型：small.en</span>
 <span class="meta-chip">🏷️ 日期：2026-09-22</span>
@@ -578,7 +697,7 @@
         </header>
 
         <!-- Transcript Content -->
-        <div class="book-body">
+        <div class="book-body" id="book-body">
           
         <section class="transcript-section" id="sec-000000">
           <div class="section-header">
@@ -586,27 +705,27 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <h4 class="section-subhead">Chapter 1, The Essentialist.</h4>
-<p class="prose-p">The wisdom of life consists in the elimination of non-essentials. Lin Yutong Sam Elliott is a capable executive in Silicon Valley who found himself stretched too thin after his company was acquired by a larger, bureaucratic business. He was in earnest about being a good citizen in his new role so he said yes to many requests without really thinking about it. But as a result, he would spend the whole day rushing from one meeting and conference call to another, trying to please everyone and get it all done.</p>
-<p class="prose-p">His stress went up as the quality of his work went down. It was like he was majoring in minor activities and as a result, his work became unsatisfying for him and frustrating for the people he was trying so hard to please. In the midst of his frustration, the company came to him and offered him an early retirement package. But he was in his early 50s and had no interest in completely retiring.</p>
-<p class="prose-p">He thought briefly about starting a consulting company doing what he was already doing. He even thought of selling his services back to his employer as a consultant. But none of these options seemed that appealing. So he went to speak with a mentor who gave him surprising advice, stay, but do what you would as a consultant and nothing else.</p>
-<p class="prose-p">And don’t tell anyone. In other words, his mentor was advising him to do only those things that he deemed essential and ignore everything else that was asked of him. The executive followed the advice. He made a daily commitment towards cutting out the red tape.</p>
-<p class="prose-p">He began saying no. He was tentative at first. He would evaluate requests based on the timid criteria, can I actually fulfill this request given the time and resources I… If the answer was no, then he would refuse the request. He was pleasantly surprised to find that while people would at first look a little disappointed, they seemed to respect his honesty.</p>
-<p class="prose-p">Encouraged by his small wins, he pushed back a bit more. Now when a request would come in, he would pause and evaluate the request against the tougher criteria. Is this the very most important thing I should be doing with my time and resources right now? If he couldn’t answer a definitive yes, then he would refuse the request.</p>
-<p class="prose-p">And once again to his delight, while his colleagues might initially seem disappointed, they soon began to respect him more for his refusal, not less. Emboldened, he began to apply this selective criteria to everything, not just direct requests. In his past life, he would always volunteer for presentations or assignments that came up last minute. Now he found a way to not sign up for them.</p>
-<p class="prose-p">He used to be one of the first to jump in on an email trail, but now he just stepped back and let others jump in. He stopped attending conference calls that he only had a couple of minutes of interest in. He stopped sitting in on the weekly update call because he didn’t need the information. He stopped attending meetings on his calendar if he didn’t have a direct contribution to make.</p>
-<p class="prose-p">He explained to me, just because I was invited, didn’t seem a good enough reason to attend. It felt self-indulgent at first, but by being selective he bought himself space, and in that space he found creative freedom. He could concentrate his efforts on one project at a time. He could plan thoroughly.</p>
-<p class="prose-p">He could anticipate roadblocks and start to remove obstacles. Instead of spinning his wheels trying to get everything done, he could get the right things done. His newfound commitment to doing only the things that were truly important and eliminating everything else restored the quality of his work. Instead of making just a millimeter of progress, in a million directions he began to generate tremendous momentum towards accomplishing the things that were truly vital.</p>
-<p class="prose-p">He continued this for several months. He immediately found that he not only got more of his day back at work, in the evenings he got even more time back at home.</p>
-<p class="prose-p">He said, “I got back my family life.” I can go home at a decent time. Now instead of being a slave to his phone, he shuts it down. He goes to the gym. He goes out to eat with his wife.</p>
-<p class="prose-p">To his great surprise, there were no negative repercussions to his experiment. His manager didn’t chastise him. His colleagues didn’t resent him. Quite the opposite.</p>
-<p class="prose-p">Because he was left only with projects that were meaningful to him and actually valuable to the company, they began to respect and value his work more than ever. His work became fulfilling again. His performance ratings went up. He ended up with one of the largest bonuses of his career.</p>
-<p class="prose-p">In this example is the basic value proposition of essentialism. Only once you give yourself permission to stop trying to do it all, to stop saying yes to everyone. Can you make your highest contribution towards the things that really matter? What about you?</p>
-<p class="prose-p">How many times have you reacted to a request by saying yes without really thinking about it? How many times have you resented committing to do something and wondered, why did I sign up for this? How often do you say yes simply to please? Or to avoid trouble?</p>
-<p class="prose-p">Or because yes had just become your default response? Now let me ask you this. Have you ever found yourself stretched too thin? Have you ever felt both overworked and underutilized?</p>
-<p class="prose-p">Have you ever found yourself majoring in minor activities? Do you ever feel busy but not productive? Like you’re always in motion, but never getting anywhere? If you answered yes to any of these, the way out is the way of the essentialist.</p>
-<p class="prose-p">Oceanaupdf.com. The way of the essentialist Dieter Rams was the lead designer at Braun for many years. He’s driven by the idea that almost everything is noise. He believes very few things are essential.</p>
-<p class="prose-p">His job is to filter through that noise until he gets to the essence. For example, as a young 24-year-old at the company he was asked to collaborate on a record player, the norm at the time was to cover the turntable in a solid wooden lid or even to incorporate the player into a piece of living room furniture. Instead, he and his team removed the clutter and designed a player with a clear plastic</p>
+            <p class="prose-p">#### Chapter 1, The Essentialist. The wisdom of life consists in the elimination of non-essentials. Lin Yutong Sam Elliott is a capable executive in Silicon Valley who found himself stretched too thin after his company was acquired by a larger, bureaucratic business. He was in earnest about being a good citizen in his new role so he said yes to many requests without really thinking about it.</p>
+<p class="prose-p">But as a result, he would spend the whole day rushing from one meeting and conference call to another, trying to please everyone and get it all done. His stress went up as the quality of his work went down. It was like he was majoring in minor activities and as a result, his work became unsatisfying for him and frustrating for the people he was trying so hard to please. In the midst of his frustration, the company came to him and offered him an early retirement package.</p>
+<p class="prose-p">But he was in his early 50s and had no interest in completely retiring. He thought briefly about starting a consulting company doing what he was already doing. He even thought of selling his services back to his employer as a consultant. But none of these options seemed that appealing.</p>
+<p class="prose-p">So he went to speak with a mentor who gave him surprising advice, stay, but do what you would as a consultant and nothing else. And don’t tell anyone.</p>
+<p class="prose-p">In other words, his mentor was advising him to do only those things that he deemed essential and ignore everything else that was asked of him. The executive followed the advice. He made a daily commitment towards cutting out the red tape. He began saying no. He was tentative at first.</p>
+<p class="prose-p">He would evaluate requests based on the timid criteria, can I actually fulfill this request given the time and resources I… If the answer was no, then he would refuse the request. He was pleasantly surprised to find that while people would at first look a little disappointed, they seemed to respect his honesty. Encouraged by his small wins, he pushed back a bit more.</p>
+<p class="prose-p">Now when a request would come in, he would pause and evaluate the request against the tougher criteria. Is this the very most important thing I should be doing with my time and resources right now? If he couldn’t answer a definitive yes, then he would refuse the request. And once again to his delight, while his colleagues might initially seem disappointed, they soon began to respect him more for his refusal, not less.</p>
+<p class="prose-p">Emboldened, he began to apply this selective criteria to everything, not just direct requests. In his past life, he would always volunteer for presentations or assignments that came up last minute. Now he found a way to not sign up for them. He used to be one of the first to jump in on an email trail, but now he just stepped back and let others jump in.</p>
+<p class="prose-p">He stopped attending conference calls that he only had a couple of minutes of interest in. He stopped sitting in on the weekly update call because he didn’t need the information. He stopped attending meetings on his calendar if he didn’t have a direct contribution to make. He explained to me, just because I was invited, didn’t seem a good enough reason to attend.</p>
+<p class="prose-p">It felt self-indulgent at first, but by being selective he bought himself space, and in that space he found creative freedom. He could concentrate his efforts on one project at a time. He could plan thoroughly. He could anticipate roadblocks and start to remove obstacles.</p>
+<p class="prose-p">Instead of spinning his wheels trying to get everything done, he could get the right things done. His newfound commitment to doing only the things that were truly important and eliminating everything else restored the quality of his work. Instead of making just a millimeter of progress, in a million directions he began to generate tremendous momentum towards accomplishing the things that were truly vital. He continued this for several months.</p>
+<p class="prose-p">He immediately found that he not only got more of his day back at work, in the evenings he got even more time back at home. He said, “I got back my family life.” I can go home at a decent time. Now instead of being a slave to his phone, he shuts it down. He goes to the gym.</p>
+<p class="prose-p">He goes out to eat with his wife. To his great surprise, there were no negative repercussions to his experiment. His manager didn’t chastise him. His colleagues didn’t resent him.</p>
+<p class="prose-p">Quite the opposite. Because he was left only with projects that were meaningful to him and actually valuable to the company, they began to respect and value his work more than ever. His work became fulfilling again. His performance ratings went up.</p>
+<p class="prose-p">He ended up with one of the largest bonuses of his career. In this example is the basic value proposition of essentialism. Only once you give yourself permission to stop trying to do it all, to stop saying yes to everyone. Can you make your highest contribution towards the things that really matter?</p>
+<p class="prose-p">What about you? How many times have you reacted to a request by saying yes without really thinking about it? How many times have you resented committing to do something and wondered, why did I sign up for this? How often do you say yes simply to please?</p>
+<p class="prose-p">Or to avoid trouble? Or because yes had just become your default response? Now let me ask you this. Have you ever found yourself stretched too thin?</p>
+<p class="prose-p">Have you ever felt both overworked and underutilized? Have you ever found yourself majoring in minor activities? Do you ever feel busy but not productive? Like you’re always in motion, but never getting anywhere?</p>
+<p class="prose-p">If you answered yes to any of these, the way out is the way of the essentialist. Oceanaupdf.com. The way of the essentialist Dieter Rams was the lead designer at Braun for many years. He’s driven by the idea that almost everything is noise.</p>
+<p class="prose-p">He believes very few things are essential. His job is to filter through that noise until he gets to the essence.</p>
+<p class="prose-p">For example, as a young 24-year-old at the company he was asked to collaborate on a record player, the norm at the time was to cover the turntable in a solid wooden lid or even to incorporate the player into a piece of living room furniture. Instead, he and his team removed the clutter and designed a player with a clear plastic</p>
           </div>
         </section>
         
@@ -849,20 +968,21 @@
 <p class="prose-p">We discover how even the many good opportunities we pursue are often far less valuable than the few truly great ones. Once we understand this, we start scanning our environment for those vital few and eagerly eliminate the trivial many. Only then can we say no to good opportunities and say yes to truly great ones. This is why an essentialist takes the time to explore all his options.</p>
 <p class="prose-p">The extra investment is justified because some things are so much more important that they repay the effort invested in finding those things tenfold. An essentialist, in other words, discerns more so he can do less. Non-essentialist essentialist thinks almost everything is thinks almost everything is non-essential essential distinguishes the vital few from the views opportunities as basically trivial, many equal. Many capable people are kept from getting to the next level of contribution because they can’t let go of the belief that everything is important.</p>
 <p class="prose-p">But an essentialist has learned to tell the difference between what is truly important and everything else. To practice this essentialist skill, we can start at a simple level and once it becomes second nature for everyday decisions, we can begin to apply it to bigger and broader areas of our personal and professional lives. To master it fully will require a massive shift in thinking. But it can be done.</p>
-<p class="prose-p">Oceanopdf.com.</p>
-<h4 class="section-subhead">Chapter 4.</h4>
-<p class="prose-p">Tradeoff. Which problem do I want? Strategy is about making choices. Tradeoffs.</p>
-<p class="prose-p">It’s about deliberately choosing to be different. Michael Porter. Imagine you could go back to 1972 and invest a dollar in each company in the SAMP 500. Which company would provide the largest return on your investment by 2002?</p>
-<p class="prose-p">Would it be G? IBM Intel. According to Money Magazine and the analysis they initiated from Ned Davis Research, the answer is none of the above. The correct answer is Southwest Airlines.</p>
-<p class="prose-p">This is startling because the airline industry is notoriously bad at generating profits. Yet Southwest, led by Herb Kelleher, has consistently, year after year, produced amazing financial results. Herb’s essentialist approach to business is central to why. I once attended an event where Herb was interviewed about his business strategy.</p>
-<p class="prose-p">Two, it was a great talk in many ways. But when he began to talk about how deliberate he was about the tradeoffs he had made at Southwest, my ears perked up. Rather than try to fly to every destination, they had deliberately chosen to offer only point-to-point flights. Instead of jacking up prices to cover the cost of meals, he decided they would serve none.</p>
-<p class="prose-p">Instead of assigning seats in advance, they would let people choose them as they got on the plane. Instead of upselling their passengers on glitzy first-class service, they offered only coach. These tradeoffs weren’t made by default but by design. Each and every one was made as part of a deliberate strategy to keep costs down.</p>
-<p class="prose-p">Did he run the risk of alienating customers who wanted the broader range of destinations, the choice to purchase overpriced meals, and so forth? Yes. But Kelleher was totally clear about what the company was, a low-cost airline, and what they were not. And his tradeoffs reflected as much.</p>
-<p class="prose-p">It was an example of his essentialist thinking at work when he said, you have to look at every opportunity and say, well, no, I’m sorry. We’re not going to go a thousand different things that really won’t contribute much to the end result we are trying to achieve. At first, Southwest was lambasted by critics, naysayers, and other non-essentialists who couldn’t believe that this approach could possibly be successful. Who in their right mind would want to fly an airline that traveled only to certain places and didn’t serve meals, no matter how cheap tickets were.</p>
-<p class="prose-p">Yet after a few years, it became clear Southwest was on to something. Competitors in the industry took notice of Southwest’s soaring profits and started trying to imitate their approach. But instead of adopting Kelleher’s essentialist approach, carte blanche, they did what Harvard Business School professor Michelle Porter terms straddling their strategy. In the simplest terms, straddling means keeping your existing strategy intact while simultaneously also trying to adopt the strategy of a competitor.</p>
-<p class="prose-p">One of the most visible attempts at the time was made by Continental Airlines. They called their new point-to-point service Continental Light. Continental Light adopted some of Southwest’s practices. They lowered their fares.</p>
-<p class="prose-p">They got rid of meals. They stopped their first-class service. They increased the frequency of departures. The problem was that because they were still hanging on to their existing business model, Continental Light accounted for only a small percentage of flights offered by the airline, they didn’t have the operational efficiencies that would allow them to compete on price.</p>
-<p class="prose-p">So they were forced to skimp in other ways that ended up compromising the quality of their service. While Southwest had made conscious, deliberate trade-offs in key strategic areas, Continental was forced to sacrifice things around the margins that weren’t part of a coherent strategy. According to Porter, a strategic position is not sustainable, unless there are trade-offs with other positions. By trying to operate by two incompatible strategies,</p>
+<p class="prose-p">Oceanopdf.com.
+
+#### Chapter 4. Tradeoff. Which problem do I want? Strategy is about making choices.</p>
+<p class="prose-p">Tradeoffs. It’s about deliberately choosing to be different. Michael Porter. Imagine you could go back to 1972 and invest a dollar in each company in the SAMP 500.</p>
+<p class="prose-p">Which company would provide the largest return on your investment by 2002? Would it be G? IBM Intel. According to Money Magazine and the analysis they initiated from Ned Davis Research, the answer is none of the above.</p>
+<p class="prose-p">The correct answer is Southwest Airlines. This is startling because the airline industry is notoriously bad at generating profits. Yet Southwest, led by Herb Kelleher, has consistently, year after year, produced amazing financial results. Herb’s essentialist approach to business is central to why.</p>
+<p class="prose-p">I once attended an event where Herb was interviewed about his business strategy. Two, it was a great talk in many ways. But when he began to talk about how deliberate he was about the tradeoffs he had made at Southwest, my ears perked up. Rather than try to fly to every destination, they had deliberately chosen to offer only point-to-point flights.</p>
+<p class="prose-p">Instead of jacking up prices to cover the cost of meals, he decided they would serve none. Instead of assigning seats in advance, they would let people choose them as they got on the plane. Instead of upselling their passengers on glitzy first-class service, they offered only coach. These tradeoffs weren’t made by default but by design.</p>
+<p class="prose-p">Each and every one was made as part of a deliberate strategy to keep costs down. Did he run the risk of alienating customers who wanted the broader range of destinations, the choice to purchase overpriced meals, and so forth? Yes. But Kelleher was totally clear about what the company was, a low-cost airline, and what they were not.</p>
+<p class="prose-p">And his tradeoffs reflected as much. It was an example of his essentialist thinking at work when he said, you have to look at every opportunity and say, well, no, I’m sorry. We’re not going to go a thousand different things that really won’t contribute much to the end result we are trying to achieve. At first, Southwest was lambasted by critics, naysayers, and other non-essentialists who couldn’t believe that this approach could possibly be successful.</p>
+<p class="prose-p">Who in their right mind would want to fly an airline that traveled only to certain places and didn’t serve meals, no matter how cheap tickets were. Yet after a few years, it became clear Southwest was on to something. Competitors in the industry took notice of Southwest’s soaring profits and started trying to imitate their approach. But instead of adopting Kelleher’s essentialist approach, carte blanche, they did what Harvard Business School professor Michelle Porter terms straddling their strategy.</p>
+<p class="prose-p">In the simplest terms, straddling means keeping your existing strategy intact while simultaneously also trying to adopt the strategy of a competitor. One of the most visible attempts at the time was made by Continental Airlines. They called their new point-to-point service Continental Light. Continental Light adopted some of Southwest’s practices.</p>
+<p class="prose-p">They lowered their fares. They got rid of meals. They stopped their first-class service. They increased the frequency of departures.</p>
+<p class="prose-p">The problem was that because they were still hanging on to their existing business model, Continental Light accounted for only a small percentage of flights offered by the airline, they didn’t have the operational efficiencies that would allow them to compete on price. So they were forced to skimp in other ways that ended up compromising the quality of their service. While Southwest had made conscious, deliberate trade-offs in key strategic areas, Continental was forced to sacrifice things around the margins that weren’t part of a coherent strategy.</p>
+<p class="prose-p">According to Porter, a strategic position is not sustainable, unless there are trade-offs with other positions. By trying to operate by two incompatible strategies,</p>
           </div>
         </section>
         
@@ -1281,21 +1401,22 @@
           <div class="section-body">
             <p class="prose-p">often very good opportunities that come your way in work and life is infinitely harder than throwing out old clothes in your closet. But find it, you must, because remember that any time you fail to say no to a non-essential, you are really saying yes by default. So once you have sufficiently explored your options, the question you should be asking yourself is not, what of my list of competing priorities should I say yes to instead? Ask the essential question.</p>
 <p class="prose-p">What will I say no to? This is the question that will uncover your true priorities. It is the question that will reveal the best path forward for your team. It is the question that will uncover your true purpose and help you make the highest level of contribution, not only to your own goals, but to the mission of your organization.</p>
-<p class="prose-p">It is that question that can deliver the rare and precious clarity necessary to achieve game-changing breakthroughs in your career and in your life. Oceanopdf.com.</p>
-<h4 class="section-subhead">Chapter 10, clarify.</h4>
-<p class="prose-p">One decision that makes a thousand. To follow without halt, one aim. There is the secret to success. Anna Pavlova, Russian ballet dancer.</p>
-<p class="prose-p">Let’s start with the game. On the next page are mission statements from three companies. Try to match each company with its mission statement. One, company mission statement.</p>
-<p class="prose-p">One echo, a profitable growth through superior a chief manufacturer and customer service, innovation, quality, and distributor of agricultural commitment. Equipment such as replacement parts, tractors, hay tools, and implements. Two Dover B to be the leader in every market we serve corporations. To the benefit of our customers and our manufacturer shareholders.</p>
-<p class="prose-p">Equipment such as garbage trucks and electronic equipment such as inkjet printers and circuit board assemblies. Three Dean Foods C, the company’s primary objective is to corporation. Maximize long-term stockholder value. Wow.</p>
-<p class="prose-p">A food and beverage adhering to the laws of the jurisdictions and company. In particular, which it operates and at all times observing milk, dairy, and soy products the highest ethical standards. Manufacturer, how did you do? If you had absolutely no idea how to solve this puzzle, you are not alone.</p>
-<p class="prose-p">The largely indistinguishable statements make the task almost impossible. Such vague inflated mission statements may still be considered best practice in some quarters, but in many cases they do not achieve what they were intended to achieve. To inspire their employees with a clear sense of purpose. This section of the book is all about how to eliminate non-essentials in order to ensure that we can pour our energies into the activities that are most meaningful to us.</p>
-<p class="prose-p">The first type of non-essential you’re going to learn how to eliminate is simply any activity that is misaligned with what you are intending to achieve. It sounds straightforward enough, but to be able to do that you need to be really clear about what your purpose is in the first place, which is where this chapter comes in. Answer code 1A2B and 3C, oceanopdf.com. From pretty clear to really clear.</p>
-<p class="prose-p">Executives I work with often suggest their company purpose or strategy is pretty clear. As if to say that is sufficient. But anyone who wears glasses knows there is a big difference between pretty clear and really clear. The same seems true with individuals professional strategy.</p>
-<p class="prose-p">When I ask people, what do you really want out of your career over the next five years? I’m still taken aback by how few people can answer the question. This would matter less if it were not for the fact that clarity of purpose so consistently predicts how people do their jobs. In working with executive teams I have been amazed to see what happens when teams are only sort of clear about what they are trying to achieve rather than really clear.</p>
-<p class="prose-p">For one, there is a heavy price just in terms of human dynamics. The fact is motivation and cooperation deteriorate when there is a lack of purpose. You can train leaders on communication and teamwork and conduct 360 feedback reports until you are blue in the face. But if a team does not have clarity of goals and roles, problems will fester and multiply.</p>
-<p class="prose-p">This is not just my theory or something I read in another business book. In gathering data from more than 500 people about their experience on more than 1,000 teams, I have found a consistent reality when there is a serious lack of clarity about what the team stands for and what their goals and roles are, people experience confusion, stress, and frustration. When there is a high level of clarity, on the other hand, people thrive. When there is a lack of clarity, people waste time and energy on the trivial many.</p>
-<p class="prose-p">When they have sufficient levels of clarity, they are capable of greater breakthroughs and innovations, greater than people even realize they ought to have in those areas that are truly vital. In my work, I’ve noticed two common patterns that typically emerge when teams lack clarity of purpose. Pattern one, playing politics in the first pattern, the team becomes overly focused on winning the attention of the manager. The problem is when people don’t know what the end game is, they are unclear about how to win, and as a result, they make up their own game and their own rules as they vie for the manager’s favor.</p>
-<p class="prose-p">Instead of focusing their time and energies on making a high level of contribution, they put all their effort into games like attempting to look better than their peers, demonstrating their self-importance and echoing their manager’s every idea or sentiment. These kinds of activities are not only non-essential, but damaging and counterproductive. We do a similar thing in our personal lives as well. When we are unclear about our real purpose in life, in other words, when we don’t have a clear sense of our goals, our aspirations, and our values, we make up our own social games.</p>
+<p class="prose-p">It is that question that can deliver the rare and precious clarity necessary to achieve game-changing breakthroughs in your career and in your life. Oceanopdf.com.
+
+#### Chapter 10, clarify. One decision that makes a thousand. To follow without halt, one aim.</p>
+<p class="prose-p">There is the secret to success. Anna Pavlova, Russian ballet dancer. Let’s start with the game. On the next page are mission statements from three companies.</p>
+<p class="prose-p">Try to match each company with its mission statement. One, company mission statement. One echo, a profitable growth through superior a chief manufacturer and customer service, innovation, quality, and distributor of agricultural commitment. Equipment such as replacement parts, tractors, hay tools, and implements.</p>
+<p class="prose-p">Two Dover B to be the leader in every market we serve corporations. To the benefit of our customers and our manufacturer shareholders. Equipment such as garbage trucks and electronic equipment such as inkjet printers and circuit board assemblies. Three Dean Foods C, the company’s primary objective is to corporation.</p>
+<p class="prose-p">Maximize long-term stockholder value. Wow. A food and beverage adhering to the laws of the jurisdictions and company. In particular, which it operates and at all times observing milk, dairy, and soy products the highest ethical standards.</p>
+<p class="prose-p">Manufacturer, how did you do? If you had absolutely no idea how to solve this puzzle, you are not alone. The largely indistinguishable statements make the task almost impossible. Such vague inflated mission statements may still be considered best practice in some quarters, but in many cases they do not achieve what they were intended to achieve.</p>
+<p class="prose-p">To inspire their employees with a clear sense of purpose. This section of the book is all about how to eliminate non-essentials in order to ensure that we can pour our energies into the activities that are most meaningful to us. The first type of non-essential you’re going to learn how to eliminate is simply any activity that is misaligned with what you are intending to achieve. It sounds straightforward enough, but to be able to do that you need to be really clear about what your purpose is in the first place, which is where this chapter comes in.</p>
+<p class="prose-p">Answer code 1A2B and 3C, oceanopdf.com. From pretty clear to really clear. Executives I work with often suggest their company purpose or strategy is pretty clear. As if to say that is sufficient.</p>
+<p class="prose-p">But anyone who wears glasses knows there is a big difference between pretty clear and really clear. The same seems true with individuals professional strategy. When I ask people, what do you really want out of your career over the next five years? I’m still taken aback by how few people can answer the question.</p>
+<p class="prose-p">This would matter less if it were not for the fact that clarity of purpose so consistently predicts how people do their jobs. In working with executive teams I have been amazed to see what happens when teams are only sort of clear about what they are trying to achieve rather than really clear. For one, there is a heavy price just in terms of human dynamics. The fact is motivation and cooperation deteriorate when there is a lack of purpose.</p>
+<p class="prose-p">You can train leaders on communication and teamwork and conduct 360 feedback reports until you are blue in the face. But if a team does not have clarity of goals and roles, problems will fester and multiply. This is not just my theory or something I read in another business book. In gathering data from more than 500 people about their experience on more than 1,000 teams, I have found a consistent reality when there is a serious lack of clarity about what the team stands for and what their goals and roles are, people experience confusion, stress, and frustration.</p>
+<p class="prose-p">When there is a high level of clarity, on the other hand, people thrive. When there is a lack of clarity, people waste time and energy on the trivial many. When they have sufficient levels of clarity, they are capable of greater breakthroughs and innovations, greater than people even realize they ought to have in those areas that are truly vital. In my work, I’ve noticed two common patterns that typically emerge when teams lack clarity of purpose.</p>
+<p class="prose-p">Pattern one, playing politics in the first pattern, the team becomes overly focused on winning the attention of the manager. The problem is when people don’t know what the end game is, they are unclear about how to win, and as a result, they make up their own game and their own rules as they vie for the manager’s favor. Instead of focusing their time and energies on making a high level of contribution, they put all their effort into games like attempting to look better than their peers, demonstrating their self-importance and echoing their manager’s every idea or sentiment.</p>
+<p class="prose-p">These kinds of activities are not only non-essential, but damaging and counterproductive. We do a similar thing in our personal lives as well. When we are unclear about our real purpose in life, in other words, when we don’t have a clear sense of our goals, our aspirations, and our values, we make up our own social games.</p>
           </div>
         </section>
         
@@ -1440,22 +1561,23 @@
           </div>
           <div class="section-body">
             <p class="prose-p">We learn from them. We develop more skills. We keep practicing. After a while, we have a whole repertoire available at our disposal.</p>
-<p class="prose-p">And in time, we have gained mastery of a type of social art form. We can handle almost any requests from almost anybody with grace and dignity, Tom Friel. The former CEO of Hydragamp, struggles, once said to me, we need to learn the slow yes and the quick no, oceanopdf.com.</p>
-<h4 class="section-subhead">Chapter 12, Uncommit.</h4>
-<p class="prose-p">Win big by cutting your losses. Half of the troubles of this life can be traced to saying yes to. Quickly and not saying no soon enough. Josh Billings.</p>
-<p class="prose-p">By any estimation, the Concorde jet was a striking achievement in aeronautical engineering. To board this passenger plane, you could fly from London to New York in as little as 2 hours, 52 minutes, and 59 seconds. That’s less than half the time of a traditional plane, making the Concorde the fastest passenger plane in the world. Unfortunately, it was also an extraordinary financial failure.</p>
-<p class="prose-p">Of course, many great ideas, innovations, and products are. But what made this one different was that it consistently lost money for more than four decades. Yet each time it went over budget, the French and British governments poured more and more money in. They did this even knowing that the chance of recouping their continued investments, let alone the original expenditures, were minuscule, with the plane’s limited seating, few orders coming in, and the high cost of production.</p>
-<p class="prose-p">It was clear that even with exaggerated estimates, the project would never be profitable. Indeed, when the British cabinet papers were released under the 30-year rule, they revealed that government ministers at the time knew the investment could not stand on normal economic grounds. Why would intelligent, capable British and French government officials continue to invest in what was clearly a losing proposition for so long? One reason is a very common psychological phenomenon called sunk cost bias.</p>
-<p class="prose-p">Sunk cost bias is the tendency to continue to invest time, money, or energy into something we know is a losing proposition simply because we have already incurred, or sunk, a cost that cannot be recouped. But of course, this can easily become a vicious cycle. The more we invest, the more determined we become to see it through and see our investment pay off. The more we invest in something, the harder it is to let go.</p>
-<p class="prose-p">The sunk costs for developing and building the concord were around $1 billion. Yet the more money the British and French governments poured into it, the harder it was to walk away. Three individuals are equally vulnerable to sunk cost bias. It explains why we’ll continue to sit through a terrible movie because we’ve already paid the price of a ticket.</p>
-<p class="prose-p">It explains why we continue to pour money into a home renovation that never seems to near completion. It explains why we’ll continue to wait for a bus or a subway train that never comes instead of hailing a cab. And it explains why we invest in toxic relationships, even when our efforts only make things worse. Examples like this abound.</p>
-<p class="prose-p">Consider the somewhat bizarre story of a man named Henry Gribham, who recently spent his entire life savings, $2,600 in total, at a carnival game trying to win an Xbox Kinect. The more he spent, the more determined he became to win, Henry said. You just get caught up in the hole, I’ve got to win my money back, but it didn’t turn out that way. The more he invested in trying to win this non-essential item, the harder it was for him to walk away.</p>
-<p class="prose-p">Have you ever continued to invest time or effort in non-essential project instead of cutting your losses? Have you ever continued to pour money into an investment that wasn’t panning out instead of walking away? Have you ever kept plodding down a dead end because you could not admit, I shouldn’t have pursued this direction in the first place? Ever been stuck in a cycle of throwing good money after bad?</p>
-<p class="prose-p">A non-essentialist can’t break free of traps like these. An essentialist has the courage and confidence to admit his or her mistakes and uncommit, no matter the sunk costs. Non-essentialist essentialist asks, why stop now when I’ve asked? If I weren’t already invested and already invested so much in this project, how much would I invest in project?</p>
-<p class="prose-p">It now, thinks if I just keep trying. I thinks, what else could I do with this time or money if I pulled the plug? Can make this work, hates admitting to mistakes. Now comfortable with cutting losses, sunk costs bias while all too common isn’t the only non-essentialist trap to watch out for.</p>
-<p class="prose-p">Below are several other common traps and tips for how to extricate yourself politely, gracefully, and with minimal cost. Oceanawpdf.com.avoidingcommitmenttraps. Beware of the endowment effect a sense of ownership is a powerful thing. As the saying goes, nobody in the history of the world has watched their rental car.</p>
-<p class="prose-p">This is because of something called the endowment effect, our tendency to undervalue things that aren’t ours and to overvalue things because we already own them. In one study demonstrating the power of the endowment effect, the Nobel Prize, winning researcher Daniel Kahneman and colleagues randomly gave coffee mugs to only half the subjects in an experiment. The first group was asked how much they would be willing to sell their mug for, while the second group was asked what they would be willing to pay for it.</p>
-<p class="prose-p">It turned out the students who owned the mugs refused to sell for less than $5.25, while those without the cups were willing to pay only $2.25 to $2.75. The mere fact of ownership, in other words, caused the mug owners to value the objects more highly and made them less willing to part with them. In your own life, I’m sure you can think of items that seem to be more valuable the moment you think about giving them away. Think of a book on your shelf you haven’t read in years, or a kitchen appliance still sitting in the box, or the sweater you got from Aunt Mildred but never wore.</p>
+<p class="prose-p">And in time, we have gained mastery of a type of social art form. We can handle almost any requests from almost anybody with grace and dignity, Tom Friel. The former CEO of Hydragamp, struggles, once said to me, we need to learn the slow yes and the quick no, oceanopdf.com.
+
+#### Chapter 12, Uncommit. Win big by cutting your losses.</p>
+<p class="prose-p">Half of the troubles of this life can be traced to saying yes to. Quickly and not saying no soon enough. Josh Billings. By any estimation, the Concorde jet was a striking achievement in aeronautical engineering.</p>
+<p class="prose-p">To board this passenger plane, you could fly from London to New York in as little as 2 hours, 52 minutes, and 59 seconds. That’s less than half the time of a traditional plane, making the Concorde the fastest passenger plane in the world. Unfortunately, it was also an extraordinary financial failure. Of course, many great ideas, innovations, and products are.</p>
+<p class="prose-p">But what made this one different was that it consistently lost money for more than four decades. Yet each time it went over budget, the French and British governments poured more and more money in. They did this even knowing that the chance of recouping their continued investments, let alone the original expenditures, were minuscule, with the plane’s limited seating, few orders coming in, and the high cost of production. It was clear that even with exaggerated estimates, the project would never be profitable.</p>
+<p class="prose-p">Indeed, when the British cabinet papers were released under the 30-year rule, they revealed that government ministers at the time knew the investment could not stand on normal economic grounds. Why would intelligent, capable British and French government officials continue to invest in what was clearly a losing proposition for so long? One reason is a very common psychological phenomenon called sunk cost bias. Sunk cost bias is the tendency to continue to invest time, money, or energy into something we know is a losing proposition simply because we have already incurred, or sunk, a cost that cannot be recouped.</p>
+<p class="prose-p">But of course, this can easily become a vicious cycle. The more we invest, the more determined we become to see it through and see our investment pay off. The more we invest in something, the harder it is to let go. The sunk costs for developing and building the concord were around $1 billion.</p>
+<p class="prose-p">Yet the more money the British and French governments poured into it, the harder it was to walk away. Three individuals are equally vulnerable to sunk cost bias. It explains why we’ll continue to sit through a terrible movie because we’ve already paid the price of a ticket. It explains why we continue to pour money into a home renovation that never seems to near completion.</p>
+<p class="prose-p">It explains why we’ll continue to wait for a bus or a subway train that never comes instead of hailing a cab. And it explains why we invest in toxic relationships, even when our efforts only make things worse. Examples like this abound. Consider the somewhat bizarre story of a man named Henry Gribham, who recently spent his entire life savings, $2,600 in total, at a carnival game trying to win an Xbox Kinect.</p>
+<p class="prose-p">The more he spent, the more determined he became to win, Henry said. You just get caught up in the hole, I’ve got to win my money back, but it didn’t turn out that way. The more he invested in trying to win this non-essential item, the harder it was for him to walk away. Have you ever continued to invest time or effort in non-essential project instead of cutting your losses?</p>
+<p class="prose-p">Have you ever continued to pour money into an investment that wasn’t panning out instead of walking away? Have you ever kept plodding down a dead end because you could not admit, I shouldn’t have pursued this direction in the first place? Ever been stuck in a cycle of throwing good money after bad? A non-essentialist can’t break free of traps like these.</p>
+<p class="prose-p">An essentialist has the courage and confidence to admit his or her mistakes and uncommit, no matter the sunk costs. Non-essentialist essentialist asks, why stop now when I’ve asked? If I weren’t already invested and already invested so much in this project, how much would I invest in project? It now, thinks if I just keep trying.</p>
+<p class="prose-p">I thinks, what else could I do with this time or money if I pulled the plug? Can make this work, hates admitting to mistakes. Now comfortable with cutting losses, sunk costs bias while all too common isn’t the only non-essentialist trap to watch out for. Below are several other common traps and tips for how to extricate yourself politely, gracefully, and with minimal cost.</p>
+<p class="prose-p">Oceanawpdf.com.avoidingcommitmenttraps. Beware of the endowment effect a sense of ownership is a powerful thing. As the saying goes, nobody in the history of the world has watched their rental car. This is because of something called the endowment effect, our tendency to undervalue things that aren’t ours and to overvalue things because we already own them.</p>
+<p class="prose-p">In one study demonstrating the power of the endowment effect, the Nobel Prize, winning researcher Daniel Kahneman and colleagues randomly gave coffee mugs to only half the subjects in an experiment. The first group was asked how much they would be willing to sell their mug for, while the second group was asked what they would be willing to pay for it. It turned out the students who owned the mugs refused to sell for less than $5.25, while those without the cups were willing to pay only $2.25 to $2.75.</p>
+<p class="prose-p">The mere fact of ownership, in other words, caused the mug owners to value the objects more highly and made them less willing to part with them. In your own life, I’m sure you can think of items that seem to be more valuable the moment you think about giving them away. Think of a book on your shelf you haven’t read in years, or a kitchen appliance still sitting in the box, or the sweater you got from Aunt Mildred but never wore.</p>
           </div>
         </section>
         
@@ -1555,9 +1677,10 @@
 <p class="prose-p">They know that sometimes having the discipline to leave certain things exactly as they are is the best use of their editorial judgment. It is just one more way in which being an editor is an invisible craft. The best surgeon is not the one who makes the most incisions. Similarly, the best editors can sometimes be the least intrusive, the most restrained.</p>
 <p class="prose-p">Becoming an editor in our lives also includes knowing when to show restraint. One way we can do this is by editing our tendency to step in. When we are added onto an email thread, for example, we can resist our usual temptation to be the first to reply all. When sitting in a meeting, we can resist the urge to add our two cents.</p>
 <p class="prose-p">We can wait, we can observe, we can see how things develop. Doing less is not just a powerful essentialist strategy, it’s a powerful editorial one as well. A non-essentialist views editing as a discrete task to be performed only when things become overwhelming. But waiting too long to edit will force us to make major cuts, not always of our choosing.</p>
-<p class="prose-p">Editing our time and activities continuously allows us to make more minor, but deliberate adjustments along the way. Becoming an essentialist means making cutting, condensing, and correcting a natural part of our daily routine, making editing a natural cadence in our lives. Oceanopdf.com.</p>
-<h4 class="section-subhead">Chapter 14, limit, the freedom of setting boundaries.</h4>
-<p class="prose-p">Noah’s a complete sentence. Anne Lamott. Jin Young was an employee at a technology company in Korea who found herself planning her wedding while simultaneously preparing for a board meeting that was to take place three weeks prior to her big day. When her manager, Hyori, asked Jin Young to create the script and all the slides for their joint presentation at the board meeting, Jin Young put in several 15-hour days and completed the work quickly so she could devote the days leading up to the board meeting to planning her wedding.</p>
+<p class="prose-p">Editing our time and activities continuously allows us to make more minor, but deliberate adjustments along the way. Becoming an essentialist means making cutting, condensing, and correcting a natural part of our daily routine, making editing a natural cadence in our lives. Oceanopdf.com.
+
+#### Chapter 14, limit, the freedom of setting boundaries. Noah’s a complete sentence.</p>
+<p class="prose-p">Anne Lamott. Jin Young was an employee at a technology company in Korea who found herself planning her wedding while simultaneously preparing for a board meeting that was to take place three weeks prior to her big day. When her manager, Hyori, asked Jin Young to create the script and all the slides for their joint presentation at the board meeting, Jin Young put in several 15-hour days and completed the work quickly so she could devote the days leading up to the board meeting to planning her wedding.</p>
 <p class="prose-p">Her manager was surprised and delighted that the work was done ahead of schedule, and Jin Young was now free to immerse herself in five uninterrupted days of wedding planning. Then Jin Young received an urgent request from her manager, asking her to complete an additional project prior to the board meeting. In their several years of working together, Jin Young had never told Hyori no, even when saying… Yes, threw her life into temporary turmoil, as it often did.</p>
 <p class="prose-p">Up to this point, Jin Yong had given unknowable hours to executing every request and task, and delivering them in neat and complete packages, no matter the sacrifice. This time, however, she did not hesitate, and she told her manager no. She chose not to apologize or over-justify her answer.</p>
 <p class="prose-p">She simply said, “I have planned for this time, I’ve worked hard for it, and I deserve to have it.” Guilt free. Then something shocking happened. Everyone else on the team said no, and Hyori, the manager, was left to complete the task on her own. First Hyori was fuming.</p>
@@ -1694,12 +1817,13 @@
 <p class="prose-p">Three, how vulnerable are they? Four, what financial burden do these risks place on individuals, businesses and the government budget? And how best can we invest to reduce risks and strengthen economic and social resilience? We can apply these five questions to our own attempts at building buffers.</p>
 <p class="prose-p">Think of the most important project you’re trying to get done at work or at home, then ask the following five questions. What risks do you face on this project? Two, what is the worst case scenario? Three, what would the social effects of this be?</p>
 <p class="prose-p">Four, what would the financial impact of this be? And how can you invest to reduce risks or strengthen financial or social resilience? Your answer to that fifth and crucial question will point you to buffers, perhaps adding another 20% to the project’s budget or getting a PR person on board to handle any potential negative press or calling a board meeting to manage shareholder expectations that you can create to safeguard you against unknowable events. Essentialists accept the reality that we can never fully anticipate or prepare for every scenario or eventuality.</p>
-<p class="prose-p">The future is simply too unpredictable. Instead, they build in buffers to reduce the friction caused by the unexpected. Oshinapdf.com.</p>
-<h4 class="section-subhead">Chapter 16.</h4>
-<p class="prose-p">Subtract. Bring forth more by removing obstacles. To attain knowledge, add things every day. To attain wisdom, subtract.</p>
-<p class="prose-p">Things every day. Lao Tzu. In the business parable the goal, Alex Rogo is a fictional character who is overwhelmed with the responsibility of turning around a failing production plant within three months. At first, he does not see how this is possible.</p>
-<p class="prose-p">Then he is mentored by a professor who tells him he can make incredible progress in a short time if only he can find the plant’s constraints. Constraints, he is told, are the obstacles holding the whole system back. Even if he improves everything else in the plant, his mentor tells him if he doesn’t address the constraints, the plant will not materially improve. As Alex is trying to make sense of what he is being taught, he goes on a hike with his son and some other friends.</p>
-<p class="prose-p">As the scout leader, it’s his responsibility to get all of the boys to the campsite before the sunset. But as anyone who has been on such a hike knows, getting a group of young boys to keep up a pace</p>
+<p class="prose-p">The future is simply too unpredictable. Instead, they build in buffers to reduce the friction caused by the unexpected. Oshinapdf.com.
+
+#### Chapter 16. Subtract.</p>
+<p class="prose-p">Bring forth more by removing obstacles. To attain knowledge, add things every day. To attain wisdom, subtract. Things every day.</p>
+<p class="prose-p">Lao Tzu. In the business parable the goal, Alex Rogo is a fictional character who is overwhelmed with the responsibility of turning around a failing production plant within three months. At first, he does not see how this is possible. Then he is mentored by a professor who tells him he can make incredible progress in a short time if only he can find the plant’s constraints.</p>
+<p class="prose-p">Constraints, he is told, are the obstacles holding the whole system back. Even if he improves everything else in the plant, his mentor tells him if he doesn’t address the constraints, the plant will not materially improve. As Alex is trying to make sense of what he is being taught, he goes on a hike with his son and some other friends. As the scout leader, it’s his responsibility to get all of the boys to the campsite before the sunset.</p>
+<p class="prose-p">But as anyone who has been on such a hike knows, getting a group of young boys to keep up a pace</p>
           </div>
         </section>
         
@@ -1746,11 +1870,12 @@
 <p class="prose-p">I was reading about the theory of constraints at the time, so it was particularly on my mind. As we applied the steps above, we realized the primary obstacle keeping her from making her highest point of contribution in our children’s lives was a lack of time to plan, think, and prepare, after all. With three little children, it was nearly impossible to have uninterrupted time. So we worked to remove this obstacle.</p>
 <p class="prose-p">I opted out of many of the extracurricular activities to be home in the evenings, and we found someone who would look after the children for a few hours during the week. As a result, we were able to be more fully engaged and present during the time we spent with our children.</p>
 <p class="prose-p">In other words, we both actually ended up doing less, but better. Removing obstacles does not have to be hard or take a superhuman effort. Instead, we can start small. It’s kind of like dislodging a boulder at the top of a hill.</p>
-<p class="prose-p">All it takes is a small shove. Then momentum will naturally build. Oceanallpdf.com.</p>
-<h4 class="section-subhead">Chapter 17.</h4>
-<p class="prose-p">Progress. The power of small wins. Every day do something that will inch you closer to a better. Tomorrow.</p>
-<p class="prose-p">Doug Firebaugh. Think of the last time you were pulled over by the police while driving. Did you wonder to yourself, is this going to be a good ticket or a bad one? Not likely.</p>
-<p class="prose-p">Everyone knows tickets are all bad. Right. Yet at least one innovative police precinct in Richmond, Canada, thinks this is an assumption that ought to be challenged. There is a well-established approach to cracking down on crime, pass new and harsher laws, set stronger sentencing, or initiate zero-tolerance initiatives.</p>
+<p class="prose-p">All it takes is a small shove. Then momentum will naturally build. Oceanallpdf.com.
+
+#### Chapter 17. Progress.</p>
+<p class="prose-p">The power of small wins. Every day do something that will inch you closer to a better. Tomorrow. Doug Firebaugh.</p>
+<p class="prose-p">Think of the last time you were pulled over by the police while driving. Did you wonder to yourself, is this going to be a good ticket or a bad one? Not likely. Everyone knows tickets are all bad.</p>
+<p class="prose-p">Right. Yet at least one innovative police precinct in Richmond, Canada, thinks this is an assumption that ought to be challenged. There is a well-established approach to cracking down on crime, pass new and harsher laws, set stronger sentencing, or initiate zero-tolerance initiatives.</p>
 <p class="prose-p">In other words, do more of what we already do, only more forcefully. For years, the Richmond Police Department followed these core and long-held practices of policing systems everywhere and experienced the typical results. Recidivism rates at 65% and spiraling youth crime. That is, until a young, forward-thinking new superintendent, War Clapham, came in and challenged them.</p>
 <p class="prose-p">He asked, do all of our policing efforts have to be so reactive, so negative, and so after the fact? What if, instead of just focusing on catching criminals and serving up ever harsher punishments, after they committed the crime, the police devoted significant resources and effort to eliminating criminal behavior before it happened. To quote Tony Blair, what if they could be tough on crime, but also tough on the causes of crime? Out of these questions came the novel idea for Positive Tickets, a program whereby police, instead of focusing on catching young people.</p>
 <p class="prose-p">Perpetrating crimes would focus on catching youth doing something good, something as simple as throwing litter away in a bin rather than on the ground, wearing a helmet while riding their bike, skateboarding in the designated area, or getting to school on time, and would give them a ticket for positive behavior. The ticket, of course, wouldn’t carry a fine like a parking ticket, but instead would be redeemable for some kind of small reward, like free entry to the movies or to an event at a local youth center, wholesome activities that also had the bonus of keeping the young people off the streets and out of trouble.</p>
@@ -1804,10 +1929,10 @@
 <p class="prose-p">A colleague in New York uses a simple hack. Whenever she schedules a meeting or phone call, she takes exactly 15 seconds to type up the main objectives for that meeting. So on the morning of the meeting, when she sits down to prepare talking points, she can refer to them. She doesn’t need to plan the whole meeting agenda.</p>
 <p class="prose-p">Just a few seconds of early preparation pay a valuable dividend. Visually reward progress, do you remember when you were five years old and your school held a fundraiser? Remember the big thermometer that visually showed the progress the school was making toward the goal? Can you remember how exciting and motivating it was to watch the level of the thermometer go up each day?</p>
 <p class="prose-p">Or perhaps your parents had a star chart for you. Every time you ate your spinach, or went to bed on time, or cleaned your room, you got a star. And pretty soon you were doing those things virtually without any prodding. There is something powerful about visibly seeing progress toward a goal.</p>
-<p class="prose-p">Don’t be above applying the same technique to your own essential goals, at home or at work. When we start small and reward progress, we end up achieving more than when we set big, lofty, and often impossible goals. And as a bonus, the act of positively reinforcing our successes allows us to reap more enjoyment and satisfaction out of the process.</p>
-<h4 class="section-subhead">Chapter 18.</h4>
-<p class="prose-p">Flow, the genius of routine. Routine, in an intelligent man, is a sign of ambition. H. Auden.</p>
-<p class="prose-p">For years before the Olympic swimmer</p>
+<p class="prose-p">Don’t be above applying the same technique to your own essential goals, at home or at work. When we start small and reward progress, we end up achieving more than when we set big, lofty, and often impossible goals. And as a bonus, the act of positively reinforcing our successes allows us to reap more enjoyment and satisfaction out of the process.
+
+#### Chapter 18. Flow, the genius of routine.</p>
+<p class="prose-p">Routine, in an intelligent man, is a sign of ambition. H. Auden. For years before the Olympic swimmer</p>
           </div>
         </section>
         
@@ -2299,6 +2424,204 @@
 
     document.getElementById('scroll-top-btn').addEventListener('click', () => {
       window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    // ==========================================
+    // IN-PAGE CONTENT SEARCH (單書全文搜尋)
+    // ==========================================
+    const searchBar = document.getElementById('inpage-search-bar');
+    const searchInput = document.getElementById('inpage-search-input');
+    const searchCount = document.getElementById('inpage-search-count');
+    const searchDrawer = document.getElementById('inpage-search-drawer');
+    const searchDrawerList = document.getElementById('inpage-search-drawer-list');
+    const searchToggleBtn = document.getElementById('search-toggle-btn');
+    const searchClearBtn = document.getElementById('inpage-search-clear');
+    const searchPrevBtn = document.getElementById('inpage-search-prev');
+    const searchNextBtn = document.getElementById('inpage-search-next');
+    const searchCloseBtn = document.getElementById('inpage-search-close');
+    const drawerCloseBtn = document.getElementById('inpage-drawer-close');
+
+    let searchMatches = [];
+    let currentMatchIdx = -1;
+
+    // Cache original innerHTML for clean resets
+    const rawParagraphs = Array.from(document.querySelectorAll('.section-body p')).map(p => ({
+      el: p,
+      rawHtml: p.innerHTML,
+      rawText: p.textContent
+    }));
+
+    function openSearch() {
+      searchBar.classList.add('active');
+      searchInput.focus();
+      searchInput.select();
+      if (searchInput.value.trim()) {
+        performSearch(searchInput.value.trim());
+      }
+    }
+
+    function closeSearch() {
+      searchBar.classList.remove('active');
+      searchDrawer.classList.remove('active');
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchCount.textContent = '0 / 0';
+    }
+
+    function clearHighlights() {
+      rawParagraphs.forEach(item => {
+        item.el.innerHTML = item.rawHtml;
+      });
+    }
+
+    function escapeRegex(str) {
+      return str.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+    }
+
+    function escapeHtml(str) {
+      return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+
+    function performSearch(query) {
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchDrawerList.innerHTML = '';
+
+      if (!query || query.trim().length === 0) {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+        return;
+      }
+
+      query = query.trim();
+      const qLower = query.toLowerCase();
+      const regex = new RegExp(`(${escapeRegex(query)})`, 'gi');
+
+      rawParagraphs.forEach((item, pIdx) => {
+        if (item.rawText.toLowerCase().includes(qLower)) {
+          const sec = item.el.closest('.transcript-section');
+          const secTime = sec ? (sec.querySelector('.section-time')?.textContent || '') : '';
+          const secId = sec ? sec.id : '';
+
+          // Apply highlight
+          item.el.innerHTML = item.rawHtml.replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const marks = Array.from(item.el.querySelectorAll('mark.search-highlight'));
+          marks.forEach(mark => {
+            searchMatches.push({
+              mark,
+              el: item.el,
+              secTime,
+              secId
+            });
+          });
+
+          // Snippet creation
+          const matchPos = item.rawText.toLowerCase().indexOf(qLower);
+          const start = Math.max(0, matchPos - 30);
+          const end = Math.min(item.rawText.length, matchPos + query.length + 50);
+          const snippetText = item.rawText.slice(start, end);
+          const snippetHtml = escapeHtml(snippetText).replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const card = document.createElement('div');
+          card.className = 'search-result-item';
+          card.innerHTML = `
+            <div class="search-result-time">${secTime}</div>
+            <div class="search-result-snippet">...${snippetHtml}...</div>
+          `;
+          card.addEventListener('click', () => {
+            const targetIdx = searchMatches.findIndex(m => m.mark === marks[0]);
+            if (targetIdx >= 0) goToMatch(targetIdx);
+          });
+          searchDrawerList.appendChild(card);
+        }
+      });
+
+      if (searchMatches.length > 0) {
+        searchDrawer.classList.add('active');
+        goToMatch(0);
+      } else {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+      }
+    }
+
+    function goToMatch(idx) {
+      if (idx < 0 || idx >= searchMatches.length) return;
+      if (currentMatchIdx >= 0 && searchMatches[currentMatchIdx]) {
+        searchMatches[currentMatchIdx].mark.classList.remove('active-match');
+      }
+      currentMatchIdx = idx;
+      const target = searchMatches[currentMatchIdx];
+      target.mark.classList.add('active-match');
+      searchCount.textContent = `${currentMatchIdx + 1} / ${searchMatches.length}`;
+
+      // Highlight active drawer item
+      const drawerItems = searchDrawerList.querySelectorAll('.search-result-item');
+      drawerItems.forEach(di => di.classList.remove('active'));
+
+      target.mark.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+
+    searchToggleBtn.addEventListener('click', () => {
+      if (searchBar.classList.contains('active')) {
+        closeSearch();
+      } else {
+        openSearch();
+      }
+    });
+
+    let debounceTimer;
+    searchInput.addEventListener('input', (e) => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => {
+        performSearch(e.target.value);
+      }, 200);
+    });
+
+    searchClearBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      performSearch('');
+      searchInput.focus();
+    });
+
+    searchNextBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const nextIdx = (currentMatchIdx + 1) % searchMatches.length;
+      goToMatch(nextIdx);
+    });
+
+    searchPrevBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const prevIdx = (currentMatchIdx - 1 + searchMatches.length) % searchMatches.length;
+      goToMatch(prevIdx);
+    });
+
+    searchInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        if (e.shiftKey) {
+          searchPrevBtn.click();
+        } else {
+          searchNextBtn.click();
+        }
+      } else if (e.key === 'Escape') {
+        closeSearch();
+      }
+    });
+
+    searchCloseBtn.addEventListener('click', closeSearch);
+    drawerCloseBtn.addEventListener('click', () => searchDrawer.classList.remove('active'));
+
+    window.addEventListener('keydown', (e) => {
+      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'f') {
+        e.preventDefault();
+        openSearch();
+      } else if (e.key === 'Escape') {
+        if (searchBar.classList.contains('active')) closeSearch();
+      }
     });
   </script>
 </body>

@@ -66,26 +66,12 @@
       --card-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
     }
 
-    [data-line-height="compact"] {
-      --line-height: 1.68;
-    }
-    [data-line-height="normal"] {
-      --line-height: 1.88;
-    }
-    [data-line-height="loose"] {
-      --line-height: 2.12;
-    }
+    [data-line-height="compact"] { --line-height: 1.68; }
+    [data-line-height="normal"] { --line-height: 1.88; }
+    [data-line-height="loose"] { --line-height: 2.12; }
 
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
-    html {
-      scroll-behavior: smooth;
-    }
-
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
     body {
       font-family: var(--font-family);
       font-size: var(--font-size);
@@ -119,7 +105,7 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 0 20px;
+      padding: 0 18px;
       background-color: var(--bg-header);
       backdrop-filter: blur(8px);
       -webkit-backdrop-filter: blur(8px);
@@ -129,7 +115,7 @@
     .header-left, .header-right {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 8px;
       flex-wrap: nowrap;
     }
 
@@ -138,7 +124,7 @@
       border: 1px solid var(--border-color);
       color: var(--text-primary);
       cursor: pointer;
-      font-size: 14px;
+      font-size: 13.5px;
       padding: 6px 10px;
       border-radius: 8px;
       display: inline-flex;
@@ -147,6 +133,7 @@
       transition: all 0.2s;
       white-space: nowrap;
       user-select: none;
+      text-decoration: none;
     }
     .btn-icon:hover {
       background-color: var(--accent-light);
@@ -161,11 +148,132 @@
       font-size: 14px;
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
+    }
+    .home-link:hover { color: var(--accent-color); }
+
+    /* In-Page Search Bar Dropdown */
+    .inpage-search-bar {
+      position: sticky;
+      top: 60px;
+      z-index: 890;
+      background-color: var(--bg-surface);
+      border-bottom: 1px solid var(--border-color);
+      padding: 10px 18px;
+      display: none;
+      align-items: center;
+      gap: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    }
+    .inpage-search-bar.active { display: flex; }
+
+    .inpage-search-input-wrapper {
+      flex: 1;
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    .inpage-search-input {
+      width: 100%;
+      padding: 8px 36px 8px 12px;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      font-size: 14px;
+    }
+    .inpage-search-input:focus { outline: 2px solid var(--accent-color); }
+
+    .inpage-search-clear {
+      position: absolute;
+      right: 10px;
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 16px;
     }
 
-    .home-link:hover {
+    .inpage-search-count {
+      font-size: 13px;
+      color: var(--text-secondary);
+      font-family: monospace;
+      white-space: nowrap;
+    }
+    .search-nav-btns { display: flex; gap: 6px; }
+
+    /* In-Page Search Results Drawer */
+    .inpage-search-drawer {
+      position: fixed;
+      right: 20px;
+      top: 120px;
+      width: 360px;
+      max-height: calc(100vh - 160px);
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+      z-index: 895;
+      display: none;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .inpage-search-drawer.active { display: flex; }
+    .inpage-search-drawer-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-weight: 600;
+      font-size: 14px;
+    }
+    .inpage-search-drawer-list {
+      overflow-y: auto;
+      padding: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .search-result-item {
+      padding: 10px 12px;
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+      background: var(--bg-primary);
+      cursor: pointer;
+      font-size: 13px;
+      transition: all 0.15s;
+    }
+    .search-result-item:hover, .search-result-item.active {
+      border-color: var(--accent-color);
+      background: var(--accent-light);
+    }
+    .search-result-time {
+      font-weight: 700;
       color: var(--accent-color);
+      font-family: monospace;
+      margin-bottom: 4px;
+    }
+    .search-result-snippet {
+      color: var(--text-primary);
+      line-height: 1.5;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    /* Highlight mark */
+    mark.search-highlight {
+      background-color: #fef08a;
+      color: #1f2937;
+      padding: 1px 3px;
+      border-radius: 3px;
+    }
+    mark.search-highlight.active-match {
+      background-color: #f97316;
+      color: #ffffff;
+      outline: 2px solid #ea580c;
     }
 
     /* Layout Wrapper */
@@ -212,9 +320,7 @@
       font-size: 13px;
       margin-bottom: 14px;
     }
-    .toc-search:focus {
-      outline: 2px solid var(--accent-color);
-    }
+    .toc-search:focus { outline: 2px solid var(--accent-color); }
 
     .toc-list {
       list-style: none;
@@ -237,12 +343,10 @@
       overflow: hidden;
       text-overflow: ellipsis;
     }
-
     .toc-item a:hover {
       background-color: var(--accent-light);
       color: var(--accent-color);
     }
-
     .toc-item.active a {
       background-color: var(--accent-color);
       color: #ffffff;
@@ -257,19 +361,17 @@
       display: flex;
       justify-content: center;
     }
-
     .reader-container {
       width: 100%;
       max-width: var(--content-max-width);
     }
 
-    /* Book Hero / Header */
+    /* Book Hero */
     .book-hero {
       margin-bottom: 40px;
       padding-bottom: 24px;
       border-bottom: 2px solid var(--border-color);
     }
-
     .book-hero h1 {
       font-size: 2.1em;
       line-height: 1.35;
@@ -285,7 +387,6 @@
       gap: 10px;
       margin-top: 14px;
     }
-
     .meta-chip {
       display: inline-flex;
       align-items: center;
@@ -297,8 +398,13 @@
       font-size: 13px;
       font-weight: 500;
     }
+    .meta-chip.cat-badge {
+      background-color: #06b6d422;
+      color: #06b6d4;
+      font-weight: 600;
+    }
 
-    /* Content Typography & Enhanced Paragraphs */
+    /* Content Typography */
     .transcript-section {
       margin-bottom: 50px;
       scroll-margin-top: 80px;
@@ -349,25 +455,22 @@
       letter-spacing: 0.015em;
     }
 
-    /* Indented paragraph style (Traditional) */
+    /* Indented paragraph style */
     [data-p-style="indent"] .section-body p {
       text-indent: 2em;
       margin-bottom: 1.15em;
       line-height: var(--line-height);
     }
 
-    /* Block paragraph style (Modern with whitespace) */
+    /* Block paragraph style */
     [data-p-style="block"] .section-body p {
       text-indent: 0;
       margin-bottom: 1.55em;
       line-height: var(--line-height);
     }
+    .section-body p:last-child { margin-bottom: 0; }
 
-    .section-body p:last-child {
-      margin-bottom: 0;
-    }
-
-    /* Floating Navigation Controls */
+    /* Floating Tools */
     .floating-tools {
       position: fixed;
       bottom: 24px;
@@ -377,7 +480,6 @@
       gap: 10px;
       z-index: 800;
     }
-
     .float-btn {
       width: 44px;
       height: 44px;
@@ -399,7 +501,6 @@
       color: var(--accent-color);
     }
 
-    /* Overlay for mobile drawer */
     .backdrop {
       display: none;
       position: fixed;
@@ -419,36 +520,22 @@
         transform: translateX(-100%);
         box-shadow: 4px 0 16px rgba(0,0,0,0.15);
       }
-
-      .sidebar.open {
-        transform: translateX(0);
-      }
-
-      .backdrop.open {
-        display: block;
+      .sidebar.open { transform: translateX(0); }
+      .backdrop.open { display: block; }
+      .inpage-search-drawer {
+        left: 20px;
+        right: 20px;
+        width: auto;
       }
     }
 
     @media (max-width: 640px) {
-      :root {
-        --font-size: 17px;
-      }
-      .main-content {
-        padding: 24px 16px 60px 16px;
-      }
-      .book-hero h1 {
-        font-size: 1.55em;
-      }
-      .top-header {
-        padding: 0 10px;
-      }
-      .btn-icon {
-        padding: 5px 8px;
-        font-size: 13px;
-      }
-      [data-p-style="indent"] .section-body p {
-        text-indent: 1.5em;
-      }
+      :root { --font-size: 17px; }
+      .main-content { padding: 24px 16px 60px 16px; }
+      .book-hero h1 { font-size: 1.55em; }
+      .top-header { padding: 0 10px; }
+      .btn-icon { padding: 5px 7px; font-size: 12.5px; }
+      [data-p-style="indent"] .section-body p { text-indent: 1.5em; }
     }
   </style>
 </head>
@@ -464,6 +551,14 @@
       <a href="index.html" class="home-link" title="返回書架">
         🏠 書架
       </a>
+      <!-- Search Inside Book Button -->
+      <button class="btn-icon" id="search-toggle-btn" title="搜尋本書內文 (Ctrl+F)">
+        🔍 <span>搜尋內文</span>
+      </button>
+      <!-- Global Search Link -->
+      <a href="index.html?tab=search" class="btn-icon" title="前往全書庫全文檢索">
+        🌐 <span>全庫搜尋</span>
+      </a>
     </div>
 
     <div class="header-right">
@@ -473,7 +568,7 @@
       </button>
 
       <!-- Line Height Toggle -->
-      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 精簡)">
+      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 緊湊)">
         ↕ <span id="line-height-label">行距</span>
       </button>
 
@@ -492,6 +587,29 @@
       <button class="btn-icon" id="font-inc-btn" title="放大字級">A+</button>
     </div>
   </header>
+
+  <!-- In-Page Search Bar Dropdown -->
+  <div class="inpage-search-bar" id="inpage-search-bar">
+    <div class="inpage-search-input-wrapper">
+      <input type="text" id="inpage-search-input" class="inpage-search-input" placeholder="🔍 搜尋本書內文關鍵字 (按 Enter 尋找下一處，Esc 關閉)...">
+      <button class="inpage-search-clear" id="inpage-search-clear" title="清空">✕</button>
+    </div>
+    <span class="inpage-search-count" id="inpage-search-count">0 / 0</span>
+    <div class="search-nav-btns">
+      <button class="btn-icon" id="inpage-search-prev" title="上一處 (Shift+Enter)">▲</button>
+      <button class="btn-icon" id="inpage-search-next" title="下一處 (Enter)">▼</button>
+      <button class="btn-icon" id="inpage-search-close" title="關閉搜尋 (Esc)">✕</button>
+    </div>
+  </div>
+
+  <!-- In-Page Search Results Drawer -->
+  <div class="inpage-search-drawer" id="inpage-search-drawer">
+    <div class="inpage-search-drawer-header">
+      <span>搜尋結果清單</span>
+      <button class="btn-icon" id="inpage-drawer-close" style="padding: 2px 6px;">✕</button>
+    </div>
+    <div class="inpage-search-drawer-list" id="inpage-search-drawer-list"></div>
+  </div>
 
   <div class="backdrop" id="backdrop"></div>
 
@@ -626,6 +744,7 @@
         <header class="book-hero">
           <h1>The Art of the Deal by Donald Trump _ Narrated by Himself  Full Audiobook</h1>
           <div class="book-meta-chips">
+            <span class="meta-chip cat-badge">🎯 領導與策略</span>
             <span class="meta-chip">🏷️ 時長：09:25:37</span>
 <span class="meta-chip">🏷️ 模型：small.en</span>
 <span class="meta-chip">🏷️ 日期：2026-09-22</span>
@@ -633,7 +752,7 @@
         </header>
 
         <!-- Transcript Content -->
-        <div class="book-body">
+        <div class="book-body" id="book-body">
           
         <section class="transcript-section" id="sec-000000">
           <div class="section-header">
@@ -1458,17 +1577,18 @@
           </div>
           <div class="section-body">
             <p class="prose-p">much time and energy to the 34th street site is that I never considered it anything to compare with the 60th street yards. The problem was that developing 60th street proved even more difficult than promoting 34th street. The community opposition was stronger, the zoning was more complicated, and the banks were highly reluctant to finance a huge residential housing project in a city still teetering on the verge of bankruptcy. In 1979, I reluctantly let my option on the 60th street yards expire so that I could concentrate on other deals that seemed more immediately promising.</p>
-<p class="prose-p">The first one, fittingly, was with Palmeri and the Penn Central for the purchase of the Commodore Hotel.</p>
-<h4 class="section-subhead">Chapter 6, Grand Hotel Reviving 42nd Street.</h4>
-<p class="prose-p">During the period when I was trying to make something happen with the two west side yards, I got more and more friendly with Victor Palmeri and his people. One day late in 1974, I was in Victor’s office and I said to him half jokingly, listen, now that I’ve got the options on the two yards, what other properties does the Penn Central own that I can buy for nothing? As a matter of fact, said Victor, we have some hotels you might be interested in.</p>
-<p class="prose-p">It so happened that the Penn Central owned several old hotels within a few blocks of each other in Midtown, the Biltmore, the Barkley, the Roosevelt, and the Commodore. The first three were at least moderately successful, which meant buying them was likely to cost more money than I wanted to spend. The only one in real trouble was the Commodore, which had been losing money and defaulting on its property taxes for years. As it turned out, that was the best news Victor could have given me.</p>
-<p class="prose-p">I decided very quickly that the Commodore in the heart of New York at 42nd Street and Park Avenue next to Grand Central Station had potentially the best location of any of the four hotels. I still remember walking over to look at the Commodore the day Victor first mentioned it to me. The hotel and the surrounding neighborhood were unbelievably rundown. Half the buildings were already in foreclosure.</p>
-<p class="prose-p">The brick facade of the Commodore was absolutely filthy and the lobby was so dingy, it looked like a welfare hotel. There was one of those sleazy flea markets operating on the ground floor with a bunch of boarded up storefronts on either side and derelicts lying in the doorways. To most people, it would have been a very depressing scene, but as I approached the hotel, something completely different caught my eye. It was about nine in the morning and there were thousands of well-dressed Connecticut and Westchester commuters flooding onto the streets from Grand Central Terminal and the subway stations below.</p>
-<p class="prose-p">The city was on the verge of bankruptcy, but what I saw was a superb location. Unless the city literally died, millions of affluent people were going to keep passing by this location every day. The problem was the hotel, not the neighborhood. If I could transform the Commodore, I was sure it could be a hit.</p>
-<p class="prose-p">Convenience alone would assure that. I went back and told Victor I was interested in making a deal for the Commodore. He was pleased because everyone else considered it a loser. I also went to my father and told him I had a chance to make a deal for this huge Midtown hotel.</p>
-<p class="prose-p">At first, he refused to believe I was serious. Later, he told a reporter that his initial reaction to my idea was that buying the Commodore at a time when even the Chrysler building is in receivership is like fighting for a seat on the Titanic. I wasn’t naive. I saw potential, but I also recognized a downside.</p>
-<p class="prose-p">I could envision a huge home run, but I also knew that failing could bury me. From the very first day I went to work on the deal, I tried to keep my risk to an absolute minimum and financially I succeeded. But as the months went by, the deal became more and more complicated and difficult. I kept investing more time and more energy, and the stakes rose for reasons unrelated to money.</p>
-<p class="prose-p">I could talk big for only so long. Eventually, I had to prove to the real estate community, to the press, to my father, that I could deliver the goods. The Commodore deal was basically a juggling act, but a much trickier one than I originally imagined.</p>
+<p class="prose-p">The first one, fittingly, was with Palmeri and the Penn Central for the purchase of the Commodore Hotel.
+
+#### Chapter 6, Grand Hotel Reviving 42nd Street. During the period when I was trying to make something happen with the two west side yards, I got more and more friendly with Victor Palmeri and his people.</p>
+<p class="prose-p">One day late in 1974, I was in Victor’s office and I said to him half jokingly, listen, now that I’ve got the options on the two yards, what other properties does the Penn Central own that I can buy for nothing? As a matter of fact, said Victor, we have some hotels you might be interested in. It so happened that the Penn Central owned several old hotels within a few blocks of each other in Midtown, the Biltmore, the Barkley, the Roosevelt, and the Commodore.</p>
+<p class="prose-p">The first three were at least moderately successful, which meant buying them was likely to cost more money than I wanted to spend. The only one in real trouble was the Commodore, which had been losing money and defaulting on its property taxes for years. As it turned out, that was the best news Victor could have given me. I decided very quickly that the Commodore in the heart of New York at 42nd Street and Park Avenue next to Grand Central Station had potentially the best location of any of the four hotels.</p>
+<p class="prose-p">I still remember walking over to look at the Commodore the day Victor first mentioned it to me. The hotel and the surrounding neighborhood were unbelievably rundown. Half the buildings were already in foreclosure. The brick facade of the Commodore was absolutely filthy and the lobby was so dingy, it looked like a welfare hotel.</p>
+<p class="prose-p">There was one of those sleazy flea markets operating on the ground floor with a bunch of boarded up storefronts on either side and derelicts lying in the doorways. To most people, it would have been a very depressing scene, but as I approached the hotel, something completely different caught my eye. It was about nine in the morning and there were thousands of well-dressed Connecticut and Westchester commuters flooding onto the streets from Grand Central Terminal and the subway stations below. The city was on the verge of bankruptcy, but what I saw was a superb location.</p>
+<p class="prose-p">Unless the city literally died, millions of affluent people were going to keep passing by this location every day. The problem was the hotel, not the neighborhood. If I could transform the Commodore, I was sure it could be a hit. Convenience alone would assure that.</p>
+<p class="prose-p">I went back and told Victor I was interested in making a deal for the Commodore. He was pleased because everyone else considered it a loser. I also went to my father and told him I had a chance to make a deal for this huge Midtown hotel. At first, he refused to believe I was serious.</p>
+<p class="prose-p">Later, he told a reporter that his initial reaction to my idea was that buying the Commodore at a time when even the Chrysler building is in receivership is like fighting for a seat on the Titanic. I wasn’t naive. I saw potential, but I also recognized a downside. I could envision a huge home run, but I also knew that failing could bury me.</p>
+<p class="prose-p">From the very first day I went to work on the deal, I tried to keep my risk to an absolute minimum and financially I succeeded. But as the months went by, the deal became more and more complicated and difficult. I kept investing more time and more energy, and the stakes rose for reasons unrelated to money. I could talk big for only so long.</p>
+<p class="prose-p">Eventually, I had to prove to the real estate community, to the press, to my father, that I could deliver the goods. The Commodore deal was basically a juggling act, but a much trickier one than I originally imagined.</p>
 <p class="prose-p">First, I had to keep Palmieri’s people believing I was their best bet to buy the hotel while trying to avoid for as long as I could putting down any cash. At the same time, I had to convince an experienced hotel operator to come in with me before I actually had a deal, knowing that such a partner would give me more credibility with the banks when I went to seek financing. And even a great partner wasn’t</p>
           </div>
         </section>
@@ -2358,13 +2478,14 @@
           <div class="section-body">
             <p class="prose-p">we’d been authorized to hold back. Both suits are still pending and I believe that will ultimately be upheld. But for that one sour note, the story of Trump’s castle has been almost entirely a positive one. Much of the credit has to go to Ivana.</p>
 <p class="prose-p">No detail escapes her. She has systematically hired the best people in Atlantic City at all levels, from croopiers to hosts to her top executives. She oversaw the decoration of the hotel’s public spaces, which are now quite spectacular. The facility is always spotless because she’s meticulous even about that, and great management pays off.</p>
-<p class="prose-p">In 1986, we grossed $226 million, a record for first year operations. We are projecting revenues of $310 million and a gross operating profit, well in excess of $70 million. It pays to trust your instincts.</p>
-<h4 class="section-subhead">Chapter 10, low rent, high stakes, the showdown on Central Park South.</h4>
-<p class="prose-p">Sometimes by losing a battle, you find a new way to win the war. What you need generally is enough time and a little luck. I had both at 100 Central Park South. This is a story about a group of tenants who fought very hard to keep me from tearing down the building they lived in and constructing a new one in its place.</p>
-<p class="prose-p">They succeeded. But by delaying me for several years, during which real estate values soared, and by forcing me to totally change my original plans, they inadvertently helped me come up with a less expensive and more profitable project. Ironically, the easiest part of the whole deal was buying the property. Early in 1981, Louise Sunshine, my executive vice president at the time, came in to say she’d heard there might be an opportunity to buy two adjoining buildings in a great location.</p>
-<p class="prose-p">And the first was 100 Central Park South, a 14-story residential building on the corner of Central Park South, an avenue of the Americas. The other was the Barbizon Plaza, a 39-story hotel. hotel, which fronted on Central Park and wrapped around behind 100 Central Park South so that the east side of the hotel faced Avenue of the Americas. The buildings were owned by a syndicate that included Marshall Loeb of the Loeb banking family, the Lambert-Brussels Corporation, and Henry Greenberg. By virtue of their location, the buildings represented one of the best pieces of real estate anywhere in the world.</p>
-<p class="prose-p">In addition to being on one of the city’s widest and most elegant streets, the buildings looked out over Central Park. The Barbizon Plaza was a somewhat rundown middle-price hotel earning a modest profit at best. One hundred Central Park South was a building filled with rent-controlled and rent-stabilized apartments, meaning that the rent roll was barely sufficient to cover the operating costs of the building. Precisely because of these disadvantages, I was able to negotiate a very favorable purchase price.</p>
-<p class="prose-p">It helped that the properties hadn’t yet been put up for sale on the open market. As long as there were no other bidders, it was much easier for me to make a case that the building’s problems decreased their value. It probably also helped that the owners were a group of very wealthy men who had decided to sell, not because they needed the money, but because one of them was getting older and wanted to put his estate in order. I’m not permitted to say what I paid, but the sum wouldn’t be enough today to buy a vacant lot one-third the size and a far less desirable part of Manhattan.</p>
+<p class="prose-p">In 1986, we grossed $226 million, a record for first year operations. We are projecting revenues of $310 million and a gross operating profit, well in excess of $70 million. It pays to trust your instincts.
+
+#### Chapter 10, low rent, high stakes, the showdown on Central Park South. Sometimes by losing a battle, you find a new way to win the war.</p>
+<p class="prose-p">What you need generally is enough time and a little luck. I had both at 100 Central Park South. This is a story about a group of tenants who fought very hard to keep me from tearing down the building they lived in and constructing a new one in its place. They succeeded.</p>
+<p class="prose-p">But by delaying me for several years, during which real estate values soared, and by forcing me to totally change my original plans, they inadvertently helped me come up with a less expensive and more profitable project. Ironically, the easiest part of the whole deal was buying the property. Early in 1981, Louise Sunshine, my executive vice president at the time, came in to say she’d heard there might be an opportunity to buy two adjoining buildings in a great location. And the first was 100 Central Park South, a 14-story residential building on the corner of Central Park South, an avenue of the Americas.</p>
+<p class="prose-p">The other was the Barbizon Plaza, a 39-story hotel. hotel, which fronted on Central Park and wrapped around behind 100 Central Park South so that the east side of the hotel faced Avenue of the Americas. The buildings were owned by a syndicate that included Marshall Loeb of the Loeb banking family, the Lambert-Brussels Corporation, and Henry Greenberg. By virtue of their location, the buildings represented one of the best pieces of real estate anywhere in the world. In addition to being on one of the city’s widest and most elegant streets, the buildings looked out over Central Park.</p>
+<p class="prose-p">The Barbizon Plaza was a somewhat rundown middle-price hotel earning a modest profit at best. One hundred Central Park South was a building filled with rent-controlled and rent-stabilized apartments, meaning that the rent roll was barely sufficient to cover the operating costs of the building. Precisely because of these disadvantages, I was able to negotiate a very favorable purchase price. It helped that the properties hadn’t yet been put up for sale on the open market.</p>
+<p class="prose-p">As long as there were no other bidders, it was much easier for me to make a case that the building’s problems decreased their value. It probably also helped that the owners were a group of very wealthy men who had decided to sell, not because they needed the money, but because one of them was getting older and wanted to put his estate in order. I’m not permitted to say what I paid, but the sum wouldn’t be enough today to buy a vacant lot one-third the size and a far less desirable part of Manhattan.</p>
 <p class="prose-p">I barely looked at what the two buildings were earning. I was drawn to the real estate value, not the income. I was buying a great location at a modest price, and the way I looked at the deal, there was virtually no downside. Almost immediately, I was able to get a mortgage for the buildings which covered my purchase price.</p>
 <p class="prose-p">In the worst case I felt, I could always turn around and sell at a profit. Even in bad times, there are buyers for first-class locations. Another option was to do a modest renovation of the hotel and raise the rents on the ground floor stores to market levels as their leases came up. In addition, as tenants in rent-controlled and rent-stabilized apartments passed away or moved out of 100 Central Park South, I could raise the rents on those apartments.</p>
 <p class="prose-p">Even by doing these relatively minor things, I could earn at least a modest return on my investment. But then, modest isn’t my favorite word. The way to derive the most value from the site, I believed, was to knock down both buildings and to construct in their place one huge, beautiful, modern luxury condominium tower. That posed two problems. The first, which I recognized from the start, is that it’s neither easy nor cheap to demolish</p>
@@ -2716,13 +2837,14 @@
 <p class="prose-p">Meanwhile, the best USFL players have been picked up by NFL teams. Herschel Walker was signed by the Dallas Cowboys because I’d personally guaranteed Walker’s contract. He could have collected $1.2 million from me for each of the next six years and never played football, but Herschel’s a competitor and the money was secondary. As it turned out, I made a very good deal with Dallas. They could have refused to pay for his big contract, but figuring that Dallas was under intense fan pressure to sign Herschel, I told them I was interested in letting Herschel go only if they picked up the full cost of his contract.</p>
 <p class="prose-p">Sure enough, they agreed it was good for me, it was good for Herschel and it’s even turned out to be good for Dallas. Herschel joined the team in August and although he had virtually no time to practice, he finished the season as the Cowboys leading combined rushing and receiving yardage gainer. Jim Kelly also immediately became a star as quarterback for the Buffalo Bills. Freddie Gilbert, one of our defensive linemen, went to Atlanta and established himself as one of the team’s best players.</p>
 <p class="prose-p">Even Doug Flutie, who everyone said was too small for the NFL, was signed by the Chicago Bears. Dozens of USFL players were signed to NFL contracts and many have become stars on their new teams. Playing players like Herschel Walker and Jim Kelly play in the NFL does sometimes make me wish our league could have survived. I’m convinced that if the USFL had played last season, the Generals would have fielded one of the best teams in professional football. Not that I’ve ever given up entirely.</p>
-<p class="prose-p">I’m a big believer in comebacks and the USFL is appealing this ridiculous verdict. In recent months, I’ve received numerous calls from a very smart, very persistent guy who is trying to put together an entirely new fall league. He wants me to take the New York franchise and I’m seriously considering it.</p>
-<h4 class="section-subhead">Chapter 12, Icecapade’s Rebuilding Wulman Rink.</h4>
-<p class="prose-p">Never had a master plan. I just got fed up one day and decided to do something about it. On the morning of May 22nd, 1986, there was a story on the front page of the New York Times saying that New York City officials had decided to start all over in their effort to rebuild the Wulman skating rink in Central Park. If everything went well, said the city, the rink would be ready to reopen in approximately two years.</p>
-<p class="prose-p">I couldn’t believe it. First of all, there was no reason to believe anything would go well, much less everything. The Wulman rink, built in 1950, had first closed for renovations in June 1980. The work was scheduled to take two and a half years.</p>
-<p class="prose-p">Even that seemed like a long time to rebuild an ice skating rink. Coincidentally in June 1980, I broke ground for Trump Tower, a 68 story skyscraper with six floors of shopping, thousands of square feet of office space, and 263 residential apartments. Two and a half years later, we completed Trump Tower on time and on budget. From my new apartment, I had a view of Wulman rink.</p>
-<p class="prose-p">It was not a pretty sight, although millions of dollars had already been spent on its renovation. It was obvious, even from a distance, that the rink was nowhere near finished. Three more years passed, millions more dollars were spent, and things just got worse. So bad, in fact, that on this May morning in 1986, the city felt compelled to announce it was starting the whole process over from scratch.</p>
-<p class="prose-p">I knew absolutely nothing about building ice skating rinks, but I did know something about construction. If it took me two and a half years to put up a major skyscraper, surely it was possible to build a $2 million ice skating rink in a matter of months.</p>
+<p class="prose-p">I’m a big believer in comebacks and the USFL is appealing this ridiculous verdict. In recent months, I’ve received numerous calls from a very smart, very persistent guy who is trying to put together an entirely new fall league. He wants me to take the New York franchise and I’m seriously considering it.
+
+#### Chapter 12, Icecapade’s Rebuilding Wulman Rink. Never had a master plan.</p>
+<p class="prose-p">I just got fed up one day and decided to do something about it. On the morning of May 22nd, 1986, there was a story on the front page of the New York Times saying that New York City officials had decided to start all over in their effort to rebuild the Wulman skating rink in Central Park. If everything went well, said the city, the rink would be ready to reopen in approximately two years. I couldn’t believe it.</p>
+<p class="prose-p">First of all, there was no reason to believe anything would go well, much less everything. The Wulman rink, built in 1950, had first closed for renovations in June 1980. The work was scheduled to take two and a half years. Even that seemed like a long time to rebuild an ice skating rink.</p>
+<p class="prose-p">Coincidentally in June 1980, I broke ground for Trump Tower, a 68 story skyscraper with six floors of shopping, thousands of square feet of office space, and 263 residential apartments. Two and a half years later, we completed Trump Tower on time and on budget. From my new apartment, I had a view of Wulman rink. It was not a pretty sight, although millions of dollars had already been spent on its renovation.</p>
+<p class="prose-p">It was obvious, even from a distance, that the rink was nowhere near finished. Three more years passed, millions more dollars were spent, and things just got worse. So bad, in fact, that on this May morning in 1986, the city felt compelled to announce it was starting the whole process over from scratch. I knew absolutely nothing about building ice skating rinks, but I did know something about construction.</p>
+<p class="prose-p">If it took me two and a half years to put up a major skyscraper, surely it was possible to build a $2 million ice skating rink in a matter of months.</p>
           </div>
         </section>
         
@@ -2905,9 +3027,10 @@
 <p class="prose-p">It was a great occasion. Had the city then turned over the finished rink to a second rate operator, this story might still have a bad ending, but because normal competitive bidding would have led to a new delay in opening the rink, the city asked me to operate the rink on a temporary basis for the first season. Again, I just looked for the best rink managers available. The answer I came up with was ice capades.</p>
 <p class="prose-p">Besides doing great ice shows, ice capades operate some of the best rinks in the country. They’ve done an impeccable job with Woolman rink. It’s not only beautifully run, it’s been highly successful. During the 1970s, when the rink was still open and run by the city, it earned an average gross of approximately $100,000 a year and never took in more than $150,000.</p>
 <p class="prose-p">Although we charge prices below those of any private city rink, $4.50, a session for adults, $2.50 for children, we earned $1.2 million in revenues during our first season. Profits exceeded $500,000 after expenses and all of it went to charity and the parks department. But equally important, more than a half million skaters enjoyed the Woolman rink. Even now, as I write this in the spring of 1987, I get a real kick every time I look out the window of my living room in Trump tower and see hundreds of skaters on the Woolman rink.</p>
-<p class="prose-p">However, I won’t be one of them. People have been waiting for years to watch me fall, but I’m not about to help the cause. Skating isn’t my strong suit.</p>
-<h4 class="section-subhead">Chapter 13, comeback, a west side story.</h4>
-<p class="prose-p">The toughest business decision I ever made was giving up my option on the west side yards, 78 riverfront acres between 59th street and 72nd street in the summer of 1979. The easiest business decision I ever made was buying back those same hundred acres in January, 1985. I have a tendency to get very enthusiastic about any deal I make, but I suspect few people would argue that those hundred acres</p>
+<p class="prose-p">However, I won’t be one of them. People have been waiting for years to watch me fall, but I’m not about to help the cause. Skating isn’t my strong suit.
+
+#### Chapter 13, comeback, a west side story. The toughest business decision I ever made was giving up my option on the west side yards, 78 riverfront acres between 59th street and 72nd street in the summer of 1979.</p>
+<p class="prose-p">The easiest business decision I ever made was buying back those same hundred acres in January, 1985. I have a tendency to get very enthusiastic about any deal I make, but I suspect few people would argue that those hundred acres</p>
           </div>
         </section>
         
@@ -3374,6 +3497,204 @@
 
     document.getElementById('scroll-top-btn').addEventListener('click', () => {
       window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    // ==========================================
+    // IN-PAGE CONTENT SEARCH (單書全文搜尋)
+    // ==========================================
+    const searchBar = document.getElementById('inpage-search-bar');
+    const searchInput = document.getElementById('inpage-search-input');
+    const searchCount = document.getElementById('inpage-search-count');
+    const searchDrawer = document.getElementById('inpage-search-drawer');
+    const searchDrawerList = document.getElementById('inpage-search-drawer-list');
+    const searchToggleBtn = document.getElementById('search-toggle-btn');
+    const searchClearBtn = document.getElementById('inpage-search-clear');
+    const searchPrevBtn = document.getElementById('inpage-search-prev');
+    const searchNextBtn = document.getElementById('inpage-search-next');
+    const searchCloseBtn = document.getElementById('inpage-search-close');
+    const drawerCloseBtn = document.getElementById('inpage-drawer-close');
+
+    let searchMatches = [];
+    let currentMatchIdx = -1;
+
+    // Cache original innerHTML for clean resets
+    const rawParagraphs = Array.from(document.querySelectorAll('.section-body p')).map(p => ({
+      el: p,
+      rawHtml: p.innerHTML,
+      rawText: p.textContent
+    }));
+
+    function openSearch() {
+      searchBar.classList.add('active');
+      searchInput.focus();
+      searchInput.select();
+      if (searchInput.value.trim()) {
+        performSearch(searchInput.value.trim());
+      }
+    }
+
+    function closeSearch() {
+      searchBar.classList.remove('active');
+      searchDrawer.classList.remove('active');
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchCount.textContent = '0 / 0';
+    }
+
+    function clearHighlights() {
+      rawParagraphs.forEach(item => {
+        item.el.innerHTML = item.rawHtml;
+      });
+    }
+
+    function escapeRegex(str) {
+      return str.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+    }
+
+    function escapeHtml(str) {
+      return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+
+    function performSearch(query) {
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchDrawerList.innerHTML = '';
+
+      if (!query || query.trim().length === 0) {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+        return;
+      }
+
+      query = query.trim();
+      const qLower = query.toLowerCase();
+      const regex = new RegExp(`(${escapeRegex(query)})`, 'gi');
+
+      rawParagraphs.forEach((item, pIdx) => {
+        if (item.rawText.toLowerCase().includes(qLower)) {
+          const sec = item.el.closest('.transcript-section');
+          const secTime = sec ? (sec.querySelector('.section-time')?.textContent || '') : '';
+          const secId = sec ? sec.id : '';
+
+          // Apply highlight
+          item.el.innerHTML = item.rawHtml.replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const marks = Array.from(item.el.querySelectorAll('mark.search-highlight'));
+          marks.forEach(mark => {
+            searchMatches.push({
+              mark,
+              el: item.el,
+              secTime,
+              secId
+            });
+          });
+
+          // Snippet creation
+          const matchPos = item.rawText.toLowerCase().indexOf(qLower);
+          const start = Math.max(0, matchPos - 30);
+          const end = Math.min(item.rawText.length, matchPos + query.length + 50);
+          const snippetText = item.rawText.slice(start, end);
+          const snippetHtml = escapeHtml(snippetText).replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const card = document.createElement('div');
+          card.className = 'search-result-item';
+          card.innerHTML = `
+            <div class="search-result-time">${secTime}</div>
+            <div class="search-result-snippet">...${snippetHtml}...</div>
+          `;
+          card.addEventListener('click', () => {
+            const targetIdx = searchMatches.findIndex(m => m.mark === marks[0]);
+            if (targetIdx >= 0) goToMatch(targetIdx);
+          });
+          searchDrawerList.appendChild(card);
+        }
+      });
+
+      if (searchMatches.length > 0) {
+        searchDrawer.classList.add('active');
+        goToMatch(0);
+      } else {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+      }
+    }
+
+    function goToMatch(idx) {
+      if (idx < 0 || idx >= searchMatches.length) return;
+      if (currentMatchIdx >= 0 && searchMatches[currentMatchIdx]) {
+        searchMatches[currentMatchIdx].mark.classList.remove('active-match');
+      }
+      currentMatchIdx = idx;
+      const target = searchMatches[currentMatchIdx];
+      target.mark.classList.add('active-match');
+      searchCount.textContent = `${currentMatchIdx + 1} / ${searchMatches.length}`;
+
+      // Highlight active drawer item
+      const drawerItems = searchDrawerList.querySelectorAll('.search-result-item');
+      drawerItems.forEach(di => di.classList.remove('active'));
+
+      target.mark.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+
+    searchToggleBtn.addEventListener('click', () => {
+      if (searchBar.classList.contains('active')) {
+        closeSearch();
+      } else {
+        openSearch();
+      }
+    });
+
+    let debounceTimer;
+    searchInput.addEventListener('input', (e) => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => {
+        performSearch(e.target.value);
+      }, 200);
+    });
+
+    searchClearBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      performSearch('');
+      searchInput.focus();
+    });
+
+    searchNextBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const nextIdx = (currentMatchIdx + 1) % searchMatches.length;
+      goToMatch(nextIdx);
+    });
+
+    searchPrevBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const prevIdx = (currentMatchIdx - 1 + searchMatches.length) % searchMatches.length;
+      goToMatch(prevIdx);
+    });
+
+    searchInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        if (e.shiftKey) {
+          searchPrevBtn.click();
+        } else {
+          searchNextBtn.click();
+        }
+      } else if (e.key === 'Escape') {
+        closeSearch();
+      }
+    });
+
+    searchCloseBtn.addEventListener('click', closeSearch);
+    drawerCloseBtn.addEventListener('click', () => searchDrawer.classList.remove('active'));
+
+    window.addEventListener('keydown', (e) => {
+      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'f') {
+        e.preventDefault();
+        openSearch();
+      } else if (e.key === 'Escape') {
+        if (searchBar.classList.contains('active')) closeSearch();
+      }
     });
   </script>
 </body>

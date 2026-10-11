@@ -1085,15 +1085,13 @@ All thoughts work that way. Careful what you read. A calm mind, a fit body, and 
 
 They must be earned.
 
-#### Part 2.
+#### Part 2. Happiness. The three big ones in life are wealth, health, and happiness. We pursue them in that order, but their importance is reverse.
 
-Happiness. The three big ones in life are wealth, health, and happiness. We pursue them in that order, but their importance is reverse. Learning Happiness.
+Learning Happiness. Don’t take yourself so seriously. You’re just a monkey with a plan. Happiness is learned.
 
-Don’t take yourself so seriously. You’re just a monkey with a plan. Happiness is learned. Ten years ago, if you would have asked me how happy I was, I would have dismissed the question.
+Ten years ago, if you would have asked me how happy I was, I would have dismissed the question. I didn’t want to talk about it. On a scale of one to ten, I would have said two out of ten or three out of ten. Maybe four out of ten on my best days.
 
-I didn’t want to talk about it. On a scale of one to ten, I would have said two out of ten or three out of ten. Maybe four out of ten on my best days. But I did not value being happy.
-
-Today, I am a nine out of ten. And yes, having money helps, but it’s actually a very small
+But I did not value being happy. Today, I am a nine out of ten. And yes, having money helps, but it’s actually a very small
 
 
 <a id="sec-023115"></a>

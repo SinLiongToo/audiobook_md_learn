@@ -133,55 +133,53 @@ Those things all influence each other. It shows us how we get stuck in a downwar
 
 Using the cross-sectional formulation, see Figure 2, page 16, helps to increase awareness of what is impacting on our mood. And keeping us stuck.
 
-#### Chapter 2.
+#### Chapter 2. Mood Pitfalls to Watch Out For. The problem with instant relief.
 
-Mood Pitfalls to Watch Out For. The problem with instant relief. Low mood gives us the urge to do things that can make our mood even worse. When we feel discomfort and the threat of low mood, we want.
+Low mood gives us the urge to do things that can make our mood even worse. When we feel discomfort and the threat of low mood, we want. To get back to feeling lighter. Our brain already knows from experience.
 
-To get back to feeling lighter. Our brain already knows from experience. What tends to help the quickest. So we feel urges to do whatever will.
+What tends to help the quickest. So we feel urges to do whatever will. Make it all go away as soon as possible. We numb or distract ourselves.
 
-Make it all go away as soon as possible. We numb or distract ourselves. And push the feelings away. For some that is via alcohol, drugs, or food.
+And push the feelings away. For some that is via alcohol, drugs, or food. For others it is watching hours of TV or scrolling through social media. Each of those things are so inviting because they work, in the short.
 
-For others it is watching hours of TV or scrolling through social media. Each of those things are so inviting because they work, in the short. Term. They give us that instant distraction and numbing that we crave.
+Term. They give us that instant distraction and numbing that we crave. That is, until we switch-o the TV, close down the app, or sober up, and. Then the feelings come back.
 
-That is, until we switch-o the TV, close down the app, or sober up, and. Then the feelings come back. Each time we go round that cycle the. Feelings come back even more intense.
+Each time we go round that cycle the. Feelings come back even more intense. Figure 3. The Vicious Cycle of Instant Relief.
 
-Figure 3. The Vicious Cycle of Instant Relief. Need from the work of Isabel Clark, 2017. Finding ways to manage low mood involves reflecting on the ways in.
+Need from the work of Isabel Clark, 2017. Finding ways to manage low mood involves reflecting on the ways in. Which we respond to those feelings, having compassion for our human. Need for relief, while also being honest with ourselves about which of.
 
-Which we respond to those feelings, having compassion for our human. Need for relief, while also being honest with ourselves about which of. Those attempts to cope are making things worse in the longer term. OEN the things that work best in the long term are not fast acting.
+Those attempts to cope are making things worse in the longer term. OEN the things that work best in the long term are not fast acting. Try this, use these questions as journal prompts to help you. Test on your current coping strategies for low mood.
 
-Try this, use these questions as journal prompts to help you. Test on your current coping strategies for low mood. When feeling low, what are your go-to responses? Do those responses provide instant relief from the pain and.
+When feeling low, what are your go-to responses? Do those responses provide instant relief from the pain and. Discomfort. What E-ECT do they have in the long term?
 
-Discomfort. What E-ECT do they have in the long term? What do they cost you? Not in money, but in time, eort.
+What do they cost you? Not in money, but in time, eort. Health. Progress.
 
-Health. Progress. Thought patterns that make you feel worse. As we discussed in the previous chapter, the relationship between.
+Thought patterns that make you feel worse. As we discussed in the previous chapter, the relationship between. Thoughts and feelings goes both ways. The thoughts we spend time.
 
-Thoughts and feelings goes both ways. The thoughts we spend time. With a E-C-T how we feel, but how we feel also has an E-ECT on the. Thought par earns that come up.
+With a E-C-T how we feel, but how we feel also has an E-ECT on the. Thought par earns that come up. Listed below are some of the thought. Biases that we commonly experience when mood is low.
 
-Listed below are some of the thought. Biases that we commonly experience when mood is low. They might. Sound familiar and that’s because thought biases are normal.
+They might. Sound familiar and that’s because thought biases are normal. They. Happen to everyone to varying degrees.
 
-They. Happen to everyone to varying degrees. But they are more likely to. Even when we experience fluctuations in mood and emotional.
+But they are more likely to. Even when we experience fluctuations in mood and emotional. States. Understanding what they are and starting to notice them when.
 
-States. Understanding what they are and starting to notice them when. They appear is a big step towards taking some of the power out of. Them.
+They appear is a big step towards taking some of the power out of. Them. Mind reading. Having a grasp on what the people around us are thinking and feeling is.
 
-Mind reading. Having a grasp on what the people around us are thinking and feeling is. Crucial for humans. We live in groups and depend on each other, so we.
+Crucial for humans. We live in groups and depend on each other, so we. All spend much of our lives making guesses about what other people. Are thinking and feeling.
 
-All spend much of our lives making guesses about what other people. Are thinking and feeling. But when we’re feeling down, we are more. Likely to assume that those guesses are true.
+But when we’re feeling down, we are more. Likely to assume that those guesses are true. When my friend looked at. Me funny I just knew she hated me.
 
-When my friend looked at. Me funny I just knew she hated me. But on a D. I. errant day, when I’m.
+But on a D. I. errant day, when I’m. Not struggling with low mood, I might be more inclined to be a bit more. Curious about what was going on and possibly even ask her.
 
-Not struggling with low mood, I might be more inclined to be a bit more. Curious about what was going on and possibly even ask her. You might notice that you feel the need for more reassurance from. Others when your mood is low.
+You might notice that you feel the need for more reassurance from. Others when your mood is low. If you don’t get that extra reassurance. You might automatically assume that they are thinking negatively about.
 
-If you don’t get that extra reassurance. You might automatically assume that they are thinking negatively about. You. But that is a bias, and it is quite possible that you are your worst.
+You. But that is a bias, and it is quite possible that you are your worst. Critic. Overgeneralization.
 
-Critic. Overgeneralization. When we are struggling with low mood it only takes one thing to go. Wrong, and we have that tendency to right-o the whole day.
+When we are struggling with low mood it only takes one thing to go. Wrong, and we have that tendency to right-o the whole day. You spill. Some milk in the morning.
 
-You spill. Some milk in the morning. It goes everywhere. You feel stressed and.
+It goes everywhere. You feel stressed and. Frustrated as you don’t want to be late. Overgeneralization is when we.
 
-Frustrated as you don’t want to be late. Overgeneralization is when we. See this one event as a sign that today will be one of those days. Nothing is going your way, it never does.
+See this one event as a sign that today will be one of those days. Nothing is going your way, it never does. You start asking the universe. To give you a break because it sure as hell feels like it’s against you.
 
-You start asking the universe. To give you a break because it sure as hell feels like it’s against you. Today. When this happens we start to expect more things to go wrong and.
-
-It’s a slippery slope towards hopelessness.
+Today. When this happens we start to expect more things to go wrong and. It’s a slippery slope towards hopelessness.
 
 
 <a id="sec-002010"></a>
@@ -339,9 +337,7 @@ This bias towards the negative can then feed back to intensify… the low mood i
 
 With the common biases, noticing when they appear and… labeling them as biases, not facts.
 
-#### Chapter 3 Things That Help Getting some distance.
-
-In the 1994 movie The Mask, Jim Carrey plays a banker called Stanley. IPCIS. He finds a wooden mask that was created by Loki, the Norse god… of mischief.
+#### Chapter 3 Things That Help Getting some distance. In the 1994 movie The Mask, Jim Carrey plays a banker called Stanley. IPCIS. He finds a wooden mask that was created by Loki, the Norse god… of mischief.
 
 
 <a id="sec-003515"></a>
@@ -461,25 +457,25 @@ The only truth. Taking power out of those thoughts starts with stepping back.
 
 GEing some distance, metacognition, and seeing them for. What they are.
 
-#### Chapter 4.
+#### Chapter 4. How to turn bad days into. Better days.
 
-How to turn bad days into. Better days. When we feel low in mood it can start to feel DI cult to make decisions. That, on be a days, we make in an instant.
+When we feel low in mood it can start to feel DI cult to make decisions. That, on be a days, we make in an instant. Shall I call in sick or shall I. Push through and see how it goes.
 
-Shall I call in sick or shall I. Push through and see how it goes. Shall I call my friend or shall I wait. Until I feel more up to it.
+Shall I call my friend or shall I wait. Until I feel more up to it. Shall I try to eat something healthy or shall I. Eat something more comforting.
 
-Shall I try to eat something healthy or shall I. Eat something more comforting. The problem with decision making when you feel down is that low. It gives us the urge to do things that we know will keep us stuck.
+The problem with decision making when you feel down is that low. It gives us the urge to do things that we know will keep us stuck. But the things that we know could help feel overwhelming. We start to.
 
-But the things that we know could help feel overwhelming. We start to. Focus on what is the best decision to make and berate ourselves for not. Doing it already.
+Focus on what is the best decision to make and berate ourselves for not. Doing it already. This is perfectionism rearing its head. Perfectionism.
 
-This is perfectionism rearing its head. Perfectionism. Paralyzes the decision making process because every decision has some. Inherent uncertainty.
+Paralyzes the decision making process because every decision has some. Inherent uncertainty. And every choice includes some negative side E X to be tolerated. When it comes to tackling low mood, we have to focus on making.
 
-And every choice includes some negative side E X to be tolerated. When it comes to tackling low mood, we have to focus on making. Good decisions, not perfect decisions. A good decision is one that.
+Good decisions, not perfect decisions. A good decision is one that. Moves you in the direction you want to go. It doesn’t have to catapult.
 
-Moves you in the direction you want to go. It doesn’t have to catapult. You there. But something we must do is keep making decisions, however small.
+You there. But something we must do is keep making decisions, however small. In any survival situation, making decisions and moving is essential. With.
 
-In any survival situation, making decisions and moving is essential. With. You find yourself in deep water in the dark, with no way of telling which. Direction leads to safety.
+You find yourself in deep water in the dark, with no way of telling which. Direction leads to safety. What you do know is that if you don’t choose. A direction and start moving, you won’t be able to keep your head.
 
-What you do know is that if you don’t choose. A direction and start moving, you won’t be able to keep your head. Above the surface for long. Low mood wants you to do nothing.
+Above the surface for long. Low mood wants you to do nothing.
 
 Therefore, doing anything positive, however small, is a healthy step in. The direction you want to go. O E N what makes decisions more DI cult in periods of low mood is. Our tendency to make decisions based on how we feel and how we.
 

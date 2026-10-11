@@ -66,26 +66,12 @@
       --card-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
     }
 
-    [data-line-height="compact"] {
-      --line-height: 1.68;
-    }
-    [data-line-height="normal"] {
-      --line-height: 1.88;
-    }
-    [data-line-height="loose"] {
-      --line-height: 2.12;
-    }
+    [data-line-height="compact"] { --line-height: 1.68; }
+    [data-line-height="normal"] { --line-height: 1.88; }
+    [data-line-height="loose"] { --line-height: 2.12; }
 
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
-    html {
-      scroll-behavior: smooth;
-    }
-
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
     body {
       font-family: var(--font-family);
       font-size: var(--font-size);
@@ -119,7 +105,7 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 0 20px;
+      padding: 0 18px;
       background-color: var(--bg-header);
       backdrop-filter: blur(8px);
       -webkit-backdrop-filter: blur(8px);
@@ -129,7 +115,7 @@
     .header-left, .header-right {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 8px;
       flex-wrap: nowrap;
     }
 
@@ -138,7 +124,7 @@
       border: 1px solid var(--border-color);
       color: var(--text-primary);
       cursor: pointer;
-      font-size: 14px;
+      font-size: 13.5px;
       padding: 6px 10px;
       border-radius: 8px;
       display: inline-flex;
@@ -147,6 +133,7 @@
       transition: all 0.2s;
       white-space: nowrap;
       user-select: none;
+      text-decoration: none;
     }
     .btn-icon:hover {
       background-color: var(--accent-light);
@@ -161,11 +148,132 @@
       font-size: 14px;
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
+    }
+    .home-link:hover { color: var(--accent-color); }
+
+    /* In-Page Search Bar Dropdown */
+    .inpage-search-bar {
+      position: sticky;
+      top: 60px;
+      z-index: 890;
+      background-color: var(--bg-surface);
+      border-bottom: 1px solid var(--border-color);
+      padding: 10px 18px;
+      display: none;
+      align-items: center;
+      gap: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    }
+    .inpage-search-bar.active { display: flex; }
+
+    .inpage-search-input-wrapper {
+      flex: 1;
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    .inpage-search-input {
+      width: 100%;
+      padding: 8px 36px 8px 12px;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      font-size: 14px;
+    }
+    .inpage-search-input:focus { outline: 2px solid var(--accent-color); }
+
+    .inpage-search-clear {
+      position: absolute;
+      right: 10px;
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 16px;
     }
 
-    .home-link:hover {
+    .inpage-search-count {
+      font-size: 13px;
+      color: var(--text-secondary);
+      font-family: monospace;
+      white-space: nowrap;
+    }
+    .search-nav-btns { display: flex; gap: 6px; }
+
+    /* In-Page Search Results Drawer */
+    .inpage-search-drawer {
+      position: fixed;
+      right: 20px;
+      top: 120px;
+      width: 360px;
+      max-height: calc(100vh - 160px);
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+      z-index: 895;
+      display: none;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .inpage-search-drawer.active { display: flex; }
+    .inpage-search-drawer-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-weight: 600;
+      font-size: 14px;
+    }
+    .inpage-search-drawer-list {
+      overflow-y: auto;
+      padding: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .search-result-item {
+      padding: 10px 12px;
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+      background: var(--bg-primary);
+      cursor: pointer;
+      font-size: 13px;
+      transition: all 0.15s;
+    }
+    .search-result-item:hover, .search-result-item.active {
+      border-color: var(--accent-color);
+      background: var(--accent-light);
+    }
+    .search-result-time {
+      font-weight: 700;
       color: var(--accent-color);
+      font-family: monospace;
+      margin-bottom: 4px;
+    }
+    .search-result-snippet {
+      color: var(--text-primary);
+      line-height: 1.5;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    /* Highlight mark */
+    mark.search-highlight {
+      background-color: #fef08a;
+      color: #1f2937;
+      padding: 1px 3px;
+      border-radius: 3px;
+    }
+    mark.search-highlight.active-match {
+      background-color: #f97316;
+      color: #ffffff;
+      outline: 2px solid #ea580c;
     }
 
     /* Layout Wrapper */
@@ -212,9 +320,7 @@
       font-size: 13px;
       margin-bottom: 14px;
     }
-    .toc-search:focus {
-      outline: 2px solid var(--accent-color);
-    }
+    .toc-search:focus { outline: 2px solid var(--accent-color); }
 
     .toc-list {
       list-style: none;
@@ -237,12 +343,10 @@
       overflow: hidden;
       text-overflow: ellipsis;
     }
-
     .toc-item a:hover {
       background-color: var(--accent-light);
       color: var(--accent-color);
     }
-
     .toc-item.active a {
       background-color: var(--accent-color);
       color: #ffffff;
@@ -257,19 +361,17 @@
       display: flex;
       justify-content: center;
     }
-
     .reader-container {
       width: 100%;
       max-width: var(--content-max-width);
     }
 
-    /* Book Hero / Header */
+    /* Book Hero */
     .book-hero {
       margin-bottom: 40px;
       padding-bottom: 24px;
       border-bottom: 2px solid var(--border-color);
     }
-
     .book-hero h1 {
       font-size: 2.1em;
       line-height: 1.35;
@@ -285,7 +387,6 @@
       gap: 10px;
       margin-top: 14px;
     }
-
     .meta-chip {
       display: inline-flex;
       align-items: center;
@@ -297,8 +398,13 @@
       font-size: 13px;
       font-weight: 500;
     }
+    .meta-chip.cat-badge {
+      background-color: #3b82f622;
+      color: #3b82f6;
+      font-weight: 600;
+    }
 
-    /* Content Typography & Enhanced Paragraphs */
+    /* Content Typography */
     .transcript-section {
       margin-bottom: 50px;
       scroll-margin-top: 80px;
@@ -349,25 +455,22 @@
       letter-spacing: 0.015em;
     }
 
-    /* Indented paragraph style (Traditional) */
+    /* Indented paragraph style */
     [data-p-style="indent"] .section-body p {
       text-indent: 2em;
       margin-bottom: 1.15em;
       line-height: var(--line-height);
     }
 
-    /* Block paragraph style (Modern with whitespace) */
+    /* Block paragraph style */
     [data-p-style="block"] .section-body p {
       text-indent: 0;
       margin-bottom: 1.55em;
       line-height: var(--line-height);
     }
+    .section-body p:last-child { margin-bottom: 0; }
 
-    .section-body p:last-child {
-      margin-bottom: 0;
-    }
-
-    /* Floating Navigation Controls */
+    /* Floating Tools */
     .floating-tools {
       position: fixed;
       bottom: 24px;
@@ -377,7 +480,6 @@
       gap: 10px;
       z-index: 800;
     }
-
     .float-btn {
       width: 44px;
       height: 44px;
@@ -399,7 +501,6 @@
       color: var(--accent-color);
     }
 
-    /* Overlay for mobile drawer */
     .backdrop {
       display: none;
       position: fixed;
@@ -419,36 +520,22 @@
         transform: translateX(-100%);
         box-shadow: 4px 0 16px rgba(0,0,0,0.15);
       }
-
-      .sidebar.open {
-        transform: translateX(0);
-      }
-
-      .backdrop.open {
-        display: block;
+      .sidebar.open { transform: translateX(0); }
+      .backdrop.open { display: block; }
+      .inpage-search-drawer {
+        left: 20px;
+        right: 20px;
+        width: auto;
       }
     }
 
     @media (max-width: 640px) {
-      :root {
-        --font-size: 17px;
-      }
-      .main-content {
-        padding: 24px 16px 60px 16px;
-      }
-      .book-hero h1 {
-        font-size: 1.55em;
-      }
-      .top-header {
-        padding: 0 10px;
-      }
-      .btn-icon {
-        padding: 5px 8px;
-        font-size: 13px;
-      }
-      [data-p-style="indent"] .section-body p {
-        text-indent: 1.5em;
-      }
+      :root { --font-size: 17px; }
+      .main-content { padding: 24px 16px 60px 16px; }
+      .book-hero h1 { font-size: 1.55em; }
+      .top-header { padding: 0 10px; }
+      .btn-icon { padding: 5px 7px; font-size: 12.5px; }
+      [data-p-style="indent"] .section-body p { text-indent: 1.5em; }
     }
   </style>
 </head>
@@ -464,6 +551,14 @@
       <a href="index.html" class="home-link" title="返回書架">
         🏠 書架
       </a>
+      <!-- Search Inside Book Button -->
+      <button class="btn-icon" id="search-toggle-btn" title="搜尋本書內文 (Ctrl+F)">
+        🔍 <span>搜尋內文</span>
+      </button>
+      <!-- Global Search Link -->
+      <a href="index.html?tab=search" class="btn-icon" title="前往全書庫全文檢索">
+        🌐 <span>全庫搜尋</span>
+      </a>
     </div>
 
     <div class="header-right">
@@ -473,7 +568,7 @@
       </button>
 
       <!-- Line Height Toggle -->
-      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 精簡)">
+      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 緊湊)">
         ↕ <span id="line-height-label">行距</span>
       </button>
 
@@ -492,6 +587,29 @@
       <button class="btn-icon" id="font-inc-btn" title="放大字級">A+</button>
     </div>
   </header>
+
+  <!-- In-Page Search Bar Dropdown -->
+  <div class="inpage-search-bar" id="inpage-search-bar">
+    <div class="inpage-search-input-wrapper">
+      <input type="text" id="inpage-search-input" class="inpage-search-input" placeholder="🔍 搜尋本書內文關鍵字 (按 Enter 尋找下一處，Esc 關閉)...">
+      <button class="inpage-search-clear" id="inpage-search-clear" title="清空">✕</button>
+    </div>
+    <span class="inpage-search-count" id="inpage-search-count">0 / 0</span>
+    <div class="search-nav-btns">
+      <button class="btn-icon" id="inpage-search-prev" title="上一處 (Shift+Enter)">▲</button>
+      <button class="btn-icon" id="inpage-search-next" title="下一處 (Enter)">▼</button>
+      <button class="btn-icon" id="inpage-search-close" title="關閉搜尋 (Esc)">✕</button>
+    </div>
+  </div>
+
+  <!-- In-Page Search Results Drawer -->
+  <div class="inpage-search-drawer" id="inpage-search-drawer">
+    <div class="inpage-search-drawer-header">
+      <span>搜尋結果清單</span>
+      <button class="btn-icon" id="inpage-drawer-close" style="padding: 2px 6px;">✕</button>
+    </div>
+    <div class="inpage-search-drawer-list" id="inpage-search-drawer-list"></div>
+  </div>
 
   <div class="backdrop" id="backdrop"></div>
 
@@ -579,6 +697,7 @@
         <header class="book-hero">
           <h1>Building a Second Brain by Tiago Forte  Audiobook</h1>
           <div class="book-meta-chips">
+            <span class="meta-chip cat-badge">⚡ 習慣與生產力</span>
             <span class="meta-chip">🏷️ 時長：05:30:20</span>
 <span class="meta-chip">🏷️ 模型：small.en</span>
 <span class="meta-chip">🏷️ 日期：2026-09-22</span>
@@ -586,7 +705,7 @@
         </header>
 
         <!-- Transcript Content -->
-        <div class="book-body">
+        <div class="book-body" id="book-body">
           
         <section class="transcript-section" id="sec-000000">
           <div class="section-header">
@@ -650,14 +769,15 @@
 <p class="prose-p">Or goal, instead of only for one-off tasks. And more than that, I discovered that once I had that information at hand, I could easily and generously share it. In all kinds of ways to serve the people around me. The origins of the second brain system.</p>
 <p class="prose-p">I began to call the system I had developed my second brain and started a blog to share my ideas about how it worked. These ideas resonated with a much wider audience than I ever expected, and my work was eventually featured in publications such as the Harvard Business Review, the Atlantic, Fast Company, and Inc., among others. An article I wrote about how to use digital note-taking to enhance creativity went viral in the productivity community, and I was invited to speak and teach workshops at influential companies like Genetech, Toyota, and the Inter-American Development Bank.</p>
 <p class="prose-p">In early 2017, I decided to create an online course called, Building a Second Brain, to teach my system on a wider scale. Asterisk in the years since, that program has produced thousands of graduates from more than 100 countries and every walk of life, creating an engaged and inquisitive community where the lessons in this book have been honed and refined. In the next couple of chapters, I’ll show you how the practice of creating A. A second brain is part of a long legacy of thinkers and creators who came before us, writers, scientists, philosophers, leaders, and everyday people who strive to remember and achieve more.</p>
-<p class="prose-p">Then I’ll introduce you to a few basic principles and tools you’ll need to set yourself up to succeed.</p>
-<h4 class="section-subhead">Part 2.</h4>
-<p class="prose-p">The method introduces each of the four steps you’ll follow to build a second brain so you can immediately begin to capture and share ideas with more intention. And Part 3. Making Things Happen offers a set of powerful ways to use your second brain to enhance your productivity, accomplish your goals, and thrive in your work and life. I’ve shared my story with you because I want you to know that this book isn’t about perfectly optimizing some kind of idealized life.</p>
-<p class="prose-p">Everyone experiences pain, makes mistakes, and struggles at some point in their lives. I’ve had my fair share of challenges, but at each stage of my journey, treating. My thoughts as treasure is worth keeping has been the pivotal element in everything I’ve overcome and achieved. You may find this book in the self-improvement category, but in a deeper sense it is the opposite of self-improvement.</p>
-<p class="prose-p">It is about optimizing a system outside yourself. A system not subject to your limitations and constraints, leaving you happily unoptimized and free to roam, to wonder, to wander toward whatever makes you feel alive here and now in each moment. Asterisk I was aided in this effort by my involvement with the Quantified Self Community, a network of local meetup groups in which people share their stories about how they track their health, productivity, mood, or behavior to learn more about themselves. Asterisk interested readers can find out more at buildingthesecondbrain.com slash course.</p>
-<h4 class="section-subhead">Chapter 2 What is a Second Brain?</h4>
-<p class="prose-p">We extend beyond our limits, not by revving our brains like a machine or bulking them up like a muscle, but by strewing our world with rich materials and by weaving them into our thoughts. Annie Murphy-Paul, author of The Extended Mind. Information is the fundamental building block of everything you do. Everything you might want to accomplish, executing a project at work, getting a new job, learning a new skill, starting a business, requires finding and putting to use the right information.</p>
-<p class="prose-p">Your professional success and quality of life depend directly on your ability to manage information effectively. According to the New York Times, the average person’s daily consumption of information now adds up to a remarkable 34 gigabytes. One A separate study cited by the Times estimates that we consume the equivalent of 174 full newspapers worth of content each and every day, five times higher than in 1986.</p>
+<p class="prose-p">Then I’ll introduce you to a few basic principles and tools you’ll need to set yourself up to succeed.
+
+#### Part 2. The method introduces each of the four steps you’ll follow to build a second brain so you can immediately begin to capture and share ideas with more intention. And Part 3. Making Things Happen offers a set of powerful ways to use your second brain to enhance your productivity, accomplish your goals, and thrive in your work and life.</p>
+<p class="prose-p">I’ve shared my story with you because I want you to know that this book isn’t about perfectly optimizing some kind of idealized life. Everyone experiences pain, makes mistakes, and struggles at some point in their lives. I’ve had my fair share of challenges, but at each stage of my journey, treating. My thoughts as treasure is worth keeping has been the pivotal element in everything I’ve overcome and achieved.</p>
+<p class="prose-p">You may find this book in the self-improvement category, but in a deeper sense it is the opposite of self-improvement. It is about optimizing a system outside yourself. A system not subject to your limitations and constraints, leaving you happily unoptimized and free to roam, to wonder, to wander toward whatever makes you feel alive here and now in each moment. Asterisk I was aided in this effort by my involvement with the Quantified Self Community, a network of local meetup groups in which people share their stories about how they track their health, productivity, mood, or behavior to learn more about themselves.</p>
+<p class="prose-p">Asterisk interested readers can find out more at buildingthesecondbrain.com slash course.
+
+#### Chapter 2 What is a Second Brain? We extend beyond our limits, not by revving our brains like a machine or bulking them up like a muscle, but by strewing our world with rich materials and by weaving them into our thoughts. Annie Murphy-Paul, author of The Extended Mind. Information is the fundamental building block of everything you do.</p>
+<p class="prose-p">Everything you might want to accomplish, executing a project at work, getting a new job, learning a new skill, starting a business, requires finding and putting to use the right information. Your professional success and quality of life depend directly on your ability to manage information effectively. According to the New York Times, the average person’s daily consumption of information now adds up to a remarkable 34 gigabytes. One A separate study cited by the Times estimates that we consume the equivalent of 174 full newspapers worth of content each and every day, five times higher than in 1986.</p>
           </div>
         </section>
         
@@ -768,8 +888,9 @@
           </div>
           <div class="section-body">
             <p class="prose-p">That’s a sign that an external tool has become an extension of your mind. In a 2004 study, Angelo Maravita and Atsushi Iriki discovered that when monkeys and humans consistently use a tool to extend their reach, such as using a rake to reach an object, certain neural networks in the brain change their map of the body to include the new tool. This fascinating finding reinforces the idea that external tools can and often do become a natural extension of our minds. Asterisk recent advancements and discoveries in the field of extended cognition have shed new light on how practical and powerful it can be to think outside the brain.</p>
-<p class="prose-p">This book isn’t focused on the science, but for an excellent introduction to extended cognition I recommend The Extended Mind by Annie Murphy-Paul, Vannevar Bush-Rodova, Scholar’s Workstation, Calder, Memex, Witchwuss, a device in which an individual stores all his books, records, and communications, and which is mechanized so that it may be consulted with exceeding speed and flexibility. It is an enlarged intimate supplement to his memory.</p>
-<h4 class="section-subhead">Chapter 3 How a Second Brain Works It is in the power of remembering that the self’s ultimate freedom consists.</h4>
+<p class="prose-p">This book isn’t focused on the science, but for an excellent introduction to extended cognition I recommend The Extended Mind by Annie Murphy-Paul, Vannevar Bush-Rodova, Scholar’s Workstation, Calder, Memex, Witchwuss, a device in which an individual stores all his books, records, and communications, and which is mechanized so that it may be consulted with exceeding speed and flexibility. It is an enlarged intimate supplement to his memory.
+
+#### Chapter 3 How a Second Brain Works It is in the power of remembering that the self’s ultimate freedom consists.</p>
 <p class="prose-p">I am free because I remember. Abhinavigapta, 10th century Kashmiri philosopher and mystic. Think of your second brain as the world’s best personal assistant. It is perfectly reliable and totally consistent.</p>
 <p class="prose-p">It is always ready and waiting to capture any bit of information that might be of value to you. It follows directions, makes helpful suggestions, and reminds you of what’s important to you. What would the job description for such a personal assistant look like? What jobs?</p>
 <p class="prose-p">Would you hire them to do for you? The same way you would hold your assistant accountable to a certain standard of performance. The same is true for your second brain. You need to know what it should be doing for you so you know if it’s worth keeping around.</p>
@@ -1494,10 +1615,10 @@
 <p class="prose-p">Print it out and file it. Thought of some great questions to ask your first interview subject? Jot them down on a scrap of paper and file that too. Asterisk this principle is called Stingergy to leave marks on the environment that make your future.</p>
 <p class="prose-p">Efforts easier. It is a strategy used by ant colonies to find food. If an ant finds a food source, it will bring a piece of it back to the colony while leaving a special pheromone along the trail. Other ants can follow.</p>
 <p class="prose-p">This trail to find the food for themselves, enabling a multitude of ants to quickly find and collect new sources of food. Asterisk as Sank Erens observes in his book how to take smart notes. This is the fundamental paradox at the heart of writing. You have to do the research before you know what you will write about.</p>
-<p class="prose-p">In his words, we have to read with a pen in hand, develop ideas on paper and build up an ever growing pool of externalized thoughts. We will not be guided by a blindly made up plan picked from our unreliable brains, but by our interest, curiosity and intuition, which is formed and informed by the actual work of reading, thinking, discussing, writing and developing ideas. And it’s something that continuously grows and reflects our knowledge and understanding externally.</p>
-<h4 class="section-subhead">Chapter 7.</h4>
-<p class="prose-p">Express, show your work. Vermivsome Factum. We only know what we make. Giambattista Vico, Italian philosopher.</p>
-<p class="prose-p">In June 1947, a baby girl named Octavia Estelle Butler was born in Pasadena, California, known in</p>
+<p class="prose-p">In his words, we have to read with a pen in hand, develop ideas on paper and build up an ever growing pool of externalized thoughts. We will not be guided by a blindly made up plan picked from our unreliable brains, but by our interest, curiosity and intuition, which is formed and informed by the actual work of reading, thinking, discussing, writing and developing ideas. And it’s something that continuously grows and reflects our knowledge and understanding externally.
+
+#### Chapter 7. Express, show your work.</p>
+<p class="prose-p">Vermivsome Factum. We only know what we make. Giambattista Vico, Italian philosopher. In June 1947, a baby girl named Octavia Estelle Butler was born in Pasadena, California, known in</p>
           </div>
         </section>
         
@@ -2032,8 +2153,9 @@
 <p class="prose-p">We’re not trying to memorize their contents or keep them top of mind. When organizing notes or files within Para, it’s a very forgiving decision of where to put something, since search is so effective as a backup option.</p>
 <p class="prose-p">The truth is, any system that must be perfect to be reliable is deeply flawed. A perfect system you don’t use because it’s too complicated and error-prone isn’t a perfect system. It’s a fragile system that will fall apart as soon as you turn your attention elsewhere. We have to remember that we are not building an encyclopedia of immaculately organized knowledge.</p>
 <p class="prose-p">We are building a working system. Both in the sense that it must work, and in the sense that it is a regular part of our everyday lives. For that reason, you should prefer a system that isn’t perfect, but that continues to be useful in the real conditions of your life. Asteriska primatum is a useful practice, similar to a post-mortem used to analyze how a project went wrong, except performed before the project starts.</p>
-<p class="prose-p">By asking what is likely to go wrong, you can take action to prevent it from happening in the first place. Asterisk, although outside the scope of this book, I’ve included my recommendations for task managers on multiple operating systems in the Second Brain Resource Guide at buildingasecondbrain.com slash resources. Asterisk the book Getting Things Done, known as GTD, is a helpful counterpart to personal knowledge management, applying the same lens of getting things off your mind, that we are using for notes to actionable information such as to-dos.</p>
-<h4 class="section-subhead">Chapter 10 The Path of Self-Expression An idea wants to be shared, and in the sharing, it becomes more complex, more interesting, and more likely to work for more people.</h4>
+<p class="prose-p">By asking what is likely to go wrong, you can take action to prevent it from happening in the first place. Asterisk, although outside the scope of this book, I’ve included my recommendations for task managers on multiple operating systems in the Second Brain Resource Guide at buildingasecondbrain.com slash resources. Asterisk the book Getting Things Done, known as GTD, is a helpful counterpart to personal knowledge management, applying the same lens of getting things off your mind, that we are using for notes to actionable information such as to-dos.
+
+#### Chapter 10 The Path of Self-Expression An idea wants to be shared, and in the sharing, it becomes more complex, more interesting, and more likely to work for more people.</p>
 <p class="prose-p">Adrienne Marie Brown, writer and activist For most of history, humanity’s challenge was how to acquire scarce information. There was hardly any good information to be found anywhere. It was locked up and difficult to reproduce manuscripts or stuck in the heads of scholars. Access to information was limited, but that wasn’t a problem for most people.</p>
 <p class="prose-p">Their lives and livelihoods didn’t require much information. Their main contribution was their physical labor, not their ideas. That has all changed in just the last few decades, historically in the blink of an eye.</p>
 <p class="prose-p">Suddenly, we are all plugged into an infinite stream of data, updated continuously and delivered at light speed via a network of intelligent devices embedded in every corner of our lives. Not only that, but the very nature of labor has changed. Value has shifted from the output of our muscles to the output of our brains. Our knowledge is now our most important asset and the ability to deploy our attention our most.</p>
@@ -2371,6 +2493,204 @@
 
     document.getElementById('scroll-top-btn').addEventListener('click', () => {
       window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    // ==========================================
+    // IN-PAGE CONTENT SEARCH (單書全文搜尋)
+    // ==========================================
+    const searchBar = document.getElementById('inpage-search-bar');
+    const searchInput = document.getElementById('inpage-search-input');
+    const searchCount = document.getElementById('inpage-search-count');
+    const searchDrawer = document.getElementById('inpage-search-drawer');
+    const searchDrawerList = document.getElementById('inpage-search-drawer-list');
+    const searchToggleBtn = document.getElementById('search-toggle-btn');
+    const searchClearBtn = document.getElementById('inpage-search-clear');
+    const searchPrevBtn = document.getElementById('inpage-search-prev');
+    const searchNextBtn = document.getElementById('inpage-search-next');
+    const searchCloseBtn = document.getElementById('inpage-search-close');
+    const drawerCloseBtn = document.getElementById('inpage-drawer-close');
+
+    let searchMatches = [];
+    let currentMatchIdx = -1;
+
+    // Cache original innerHTML for clean resets
+    const rawParagraphs = Array.from(document.querySelectorAll('.section-body p')).map(p => ({
+      el: p,
+      rawHtml: p.innerHTML,
+      rawText: p.textContent
+    }));
+
+    function openSearch() {
+      searchBar.classList.add('active');
+      searchInput.focus();
+      searchInput.select();
+      if (searchInput.value.trim()) {
+        performSearch(searchInput.value.trim());
+      }
+    }
+
+    function closeSearch() {
+      searchBar.classList.remove('active');
+      searchDrawer.classList.remove('active');
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchCount.textContent = '0 / 0';
+    }
+
+    function clearHighlights() {
+      rawParagraphs.forEach(item => {
+        item.el.innerHTML = item.rawHtml;
+      });
+    }
+
+    function escapeRegex(str) {
+      return str.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+    }
+
+    function escapeHtml(str) {
+      return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+
+    function performSearch(query) {
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchDrawerList.innerHTML = '';
+
+      if (!query || query.trim().length === 0) {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+        return;
+      }
+
+      query = query.trim();
+      const qLower = query.toLowerCase();
+      const regex = new RegExp(`(${escapeRegex(query)})`, 'gi');
+
+      rawParagraphs.forEach((item, pIdx) => {
+        if (item.rawText.toLowerCase().includes(qLower)) {
+          const sec = item.el.closest('.transcript-section');
+          const secTime = sec ? (sec.querySelector('.section-time')?.textContent || '') : '';
+          const secId = sec ? sec.id : '';
+
+          // Apply highlight
+          item.el.innerHTML = item.rawHtml.replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const marks = Array.from(item.el.querySelectorAll('mark.search-highlight'));
+          marks.forEach(mark => {
+            searchMatches.push({
+              mark,
+              el: item.el,
+              secTime,
+              secId
+            });
+          });
+
+          // Snippet creation
+          const matchPos = item.rawText.toLowerCase().indexOf(qLower);
+          const start = Math.max(0, matchPos - 30);
+          const end = Math.min(item.rawText.length, matchPos + query.length + 50);
+          const snippetText = item.rawText.slice(start, end);
+          const snippetHtml = escapeHtml(snippetText).replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const card = document.createElement('div');
+          card.className = 'search-result-item';
+          card.innerHTML = `
+            <div class="search-result-time">${secTime}</div>
+            <div class="search-result-snippet">...${snippetHtml}...</div>
+          `;
+          card.addEventListener('click', () => {
+            const targetIdx = searchMatches.findIndex(m => m.mark === marks[0]);
+            if (targetIdx >= 0) goToMatch(targetIdx);
+          });
+          searchDrawerList.appendChild(card);
+        }
+      });
+
+      if (searchMatches.length > 0) {
+        searchDrawer.classList.add('active');
+        goToMatch(0);
+      } else {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+      }
+    }
+
+    function goToMatch(idx) {
+      if (idx < 0 || idx >= searchMatches.length) return;
+      if (currentMatchIdx >= 0 && searchMatches[currentMatchIdx]) {
+        searchMatches[currentMatchIdx].mark.classList.remove('active-match');
+      }
+      currentMatchIdx = idx;
+      const target = searchMatches[currentMatchIdx];
+      target.mark.classList.add('active-match');
+      searchCount.textContent = `${currentMatchIdx + 1} / ${searchMatches.length}`;
+
+      // Highlight active drawer item
+      const drawerItems = searchDrawerList.querySelectorAll('.search-result-item');
+      drawerItems.forEach(di => di.classList.remove('active'));
+
+      target.mark.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+
+    searchToggleBtn.addEventListener('click', () => {
+      if (searchBar.classList.contains('active')) {
+        closeSearch();
+      } else {
+        openSearch();
+      }
+    });
+
+    let debounceTimer;
+    searchInput.addEventListener('input', (e) => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => {
+        performSearch(e.target.value);
+      }, 200);
+    });
+
+    searchClearBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      performSearch('');
+      searchInput.focus();
+    });
+
+    searchNextBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const nextIdx = (currentMatchIdx + 1) % searchMatches.length;
+      goToMatch(nextIdx);
+    });
+
+    searchPrevBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const prevIdx = (currentMatchIdx - 1 + searchMatches.length) % searchMatches.length;
+      goToMatch(prevIdx);
+    });
+
+    searchInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        if (e.shiftKey) {
+          searchPrevBtn.click();
+        } else {
+          searchNextBtn.click();
+        }
+      } else if (e.key === 'Escape') {
+        closeSearch();
+      }
+    });
+
+    searchCloseBtn.addEventListener('click', closeSearch);
+    drawerCloseBtn.addEventListener('click', () => searchDrawer.classList.remove('active'));
+
+    window.addEventListener('keydown', (e) => {
+      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'f') {
+        e.preventDefault();
+        openSearch();
+      } else if (e.key === 'Escape') {
+        if (searchBar.classList.contains('active')) closeSearch();
+      }
     });
   </script>
 </body>

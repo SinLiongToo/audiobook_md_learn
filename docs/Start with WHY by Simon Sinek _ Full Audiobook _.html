@@ -66,26 +66,12 @@
       --card-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
     }
 
-    [data-line-height="compact"] {
-      --line-height: 1.68;
-    }
-    [data-line-height="normal"] {
-      --line-height: 1.88;
-    }
-    [data-line-height="loose"] {
-      --line-height: 2.12;
-    }
+    [data-line-height="compact"] { --line-height: 1.68; }
+    [data-line-height="normal"] { --line-height: 1.88; }
+    [data-line-height="loose"] { --line-height: 2.12; }
 
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
-    html {
-      scroll-behavior: smooth;
-    }
-
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
     body {
       font-family: var(--font-family);
       font-size: var(--font-size);
@@ -119,7 +105,7 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 0 20px;
+      padding: 0 18px;
       background-color: var(--bg-header);
       backdrop-filter: blur(8px);
       -webkit-backdrop-filter: blur(8px);
@@ -129,7 +115,7 @@
     .header-left, .header-right {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 8px;
       flex-wrap: nowrap;
     }
 
@@ -138,7 +124,7 @@
       border: 1px solid var(--border-color);
       color: var(--text-primary);
       cursor: pointer;
-      font-size: 14px;
+      font-size: 13.5px;
       padding: 6px 10px;
       border-radius: 8px;
       display: inline-flex;
@@ -147,6 +133,7 @@
       transition: all 0.2s;
       white-space: nowrap;
       user-select: none;
+      text-decoration: none;
     }
     .btn-icon:hover {
       background-color: var(--accent-light);
@@ -161,11 +148,132 @@
       font-size: 14px;
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
+    }
+    .home-link:hover { color: var(--accent-color); }
+
+    /* In-Page Search Bar Dropdown */
+    .inpage-search-bar {
+      position: sticky;
+      top: 60px;
+      z-index: 890;
+      background-color: var(--bg-surface);
+      border-bottom: 1px solid var(--border-color);
+      padding: 10px 18px;
+      display: none;
+      align-items: center;
+      gap: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    }
+    .inpage-search-bar.active { display: flex; }
+
+    .inpage-search-input-wrapper {
+      flex: 1;
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    .inpage-search-input {
+      width: 100%;
+      padding: 8px 36px 8px 12px;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      font-size: 14px;
+    }
+    .inpage-search-input:focus { outline: 2px solid var(--accent-color); }
+
+    .inpage-search-clear {
+      position: absolute;
+      right: 10px;
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 16px;
     }
 
-    .home-link:hover {
+    .inpage-search-count {
+      font-size: 13px;
+      color: var(--text-secondary);
+      font-family: monospace;
+      white-space: nowrap;
+    }
+    .search-nav-btns { display: flex; gap: 6px; }
+
+    /* In-Page Search Results Drawer */
+    .inpage-search-drawer {
+      position: fixed;
+      right: 20px;
+      top: 120px;
+      width: 360px;
+      max-height: calc(100vh - 160px);
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+      z-index: 895;
+      display: none;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .inpage-search-drawer.active { display: flex; }
+    .inpage-search-drawer-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-weight: 600;
+      font-size: 14px;
+    }
+    .inpage-search-drawer-list {
+      overflow-y: auto;
+      padding: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .search-result-item {
+      padding: 10px 12px;
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+      background: var(--bg-primary);
+      cursor: pointer;
+      font-size: 13px;
+      transition: all 0.15s;
+    }
+    .search-result-item:hover, .search-result-item.active {
+      border-color: var(--accent-color);
+      background: var(--accent-light);
+    }
+    .search-result-time {
+      font-weight: 700;
       color: var(--accent-color);
+      font-family: monospace;
+      margin-bottom: 4px;
+    }
+    .search-result-snippet {
+      color: var(--text-primary);
+      line-height: 1.5;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    /* Highlight mark */
+    mark.search-highlight {
+      background-color: #fef08a;
+      color: #1f2937;
+      padding: 1px 3px;
+      border-radius: 3px;
+    }
+    mark.search-highlight.active-match {
+      background-color: #f97316;
+      color: #ffffff;
+      outline: 2px solid #ea580c;
     }
 
     /* Layout Wrapper */
@@ -212,9 +320,7 @@
       font-size: 13px;
       margin-bottom: 14px;
     }
-    .toc-search:focus {
-      outline: 2px solid var(--accent-color);
-    }
+    .toc-search:focus { outline: 2px solid var(--accent-color); }
 
     .toc-list {
       list-style: none;
@@ -237,12 +343,10 @@
       overflow: hidden;
       text-overflow: ellipsis;
     }
-
     .toc-item a:hover {
       background-color: var(--accent-light);
       color: var(--accent-color);
     }
-
     .toc-item.active a {
       background-color: var(--accent-color);
       color: #ffffff;
@@ -257,19 +361,17 @@
       display: flex;
       justify-content: center;
     }
-
     .reader-container {
       width: 100%;
       max-width: var(--content-max-width);
     }
 
-    /* Book Hero / Header */
+    /* Book Hero */
     .book-hero {
       margin-bottom: 40px;
       padding-bottom: 24px;
       border-bottom: 2px solid var(--border-color);
     }
-
     .book-hero h1 {
       font-size: 2.1em;
       line-height: 1.35;
@@ -285,7 +387,6 @@
       gap: 10px;
       margin-top: 14px;
     }
-
     .meta-chip {
       display: inline-flex;
       align-items: center;
@@ -297,8 +398,13 @@
       font-size: 13px;
       font-weight: 500;
     }
+    .meta-chip.cat-badge {
+      background-color: #06b6d422;
+      color: #06b6d4;
+      font-weight: 600;
+    }
 
-    /* Content Typography & Enhanced Paragraphs */
+    /* Content Typography */
     .transcript-section {
       margin-bottom: 50px;
       scroll-margin-top: 80px;
@@ -349,25 +455,22 @@
       letter-spacing: 0.015em;
     }
 
-    /* Indented paragraph style (Traditional) */
+    /* Indented paragraph style */
     [data-p-style="indent"] .section-body p {
       text-indent: 2em;
       margin-bottom: 1.15em;
       line-height: var(--line-height);
     }
 
-    /* Block paragraph style (Modern with whitespace) */
+    /* Block paragraph style */
     [data-p-style="block"] .section-body p {
       text-indent: 0;
       margin-bottom: 1.55em;
       line-height: var(--line-height);
     }
+    .section-body p:last-child { margin-bottom: 0; }
 
-    .section-body p:last-child {
-      margin-bottom: 0;
-    }
-
-    /* Floating Navigation Controls */
+    /* Floating Tools */
     .floating-tools {
       position: fixed;
       bottom: 24px;
@@ -377,7 +480,6 @@
       gap: 10px;
       z-index: 800;
     }
-
     .float-btn {
       width: 44px;
       height: 44px;
@@ -399,7 +501,6 @@
       color: var(--accent-color);
     }
 
-    /* Overlay for mobile drawer */
     .backdrop {
       display: none;
       position: fixed;
@@ -419,36 +520,22 @@
         transform: translateX(-100%);
         box-shadow: 4px 0 16px rgba(0,0,0,0.15);
       }
-
-      .sidebar.open {
-        transform: translateX(0);
-      }
-
-      .backdrop.open {
-        display: block;
+      .sidebar.open { transform: translateX(0); }
+      .backdrop.open { display: block; }
+      .inpage-search-drawer {
+        left: 20px;
+        right: 20px;
+        width: auto;
       }
     }
 
     @media (max-width: 640px) {
-      :root {
-        --font-size: 17px;
-      }
-      .main-content {
-        padding: 24px 16px 60px 16px;
-      }
-      .book-hero h1 {
-        font-size: 1.55em;
-      }
-      .top-header {
-        padding: 0 10px;
-      }
-      .btn-icon {
-        padding: 5px 8px;
-        font-size: 13px;
-      }
-      [data-p-style="indent"] .section-body p {
-        text-indent: 1.5em;
-      }
+      :root { --font-size: 17px; }
+      .main-content { padding: 24px 16px 60px 16px; }
+      .book-hero h1 { font-size: 1.55em; }
+      .top-header { padding: 0 10px; }
+      .btn-icon { padding: 5px 7px; font-size: 12.5px; }
+      [data-p-style="indent"] .section-body p { text-indent: 1.5em; }
     }
   </style>
 </head>
@@ -464,6 +551,14 @@
       <a href="index.html" class="home-link" title="返回書架">
         🏠 書架
       </a>
+      <!-- Search Inside Book Button -->
+      <button class="btn-icon" id="search-toggle-btn" title="搜尋本書內文 (Ctrl+F)">
+        🔍 <span>搜尋內文</span>
+      </button>
+      <!-- Global Search Link -->
+      <a href="index.html?tab=search" class="btn-icon" title="前往全書庫全文檢索">
+        🌐 <span>全庫搜尋</span>
+      </a>
     </div>
 
     <div class="header-right">
@@ -473,7 +568,7 @@
       </button>
 
       <!-- Line Height Toggle -->
-      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 精簡)">
+      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 緊湊)">
         ↕ <span id="line-height-label">行距</span>
       </button>
 
@@ -492,6 +587,29 @@
       <button class="btn-icon" id="font-inc-btn" title="放大字級">A+</button>
     </div>
   </header>
+
+  <!-- In-Page Search Bar Dropdown -->
+  <div class="inpage-search-bar" id="inpage-search-bar">
+    <div class="inpage-search-input-wrapper">
+      <input type="text" id="inpage-search-input" class="inpage-search-input" placeholder="🔍 搜尋本書內文關鍵字 (按 Enter 尋找下一處，Esc 關閉)...">
+      <button class="inpage-search-clear" id="inpage-search-clear" title="清空">✕</button>
+    </div>
+    <span class="inpage-search-count" id="inpage-search-count">0 / 0</span>
+    <div class="search-nav-btns">
+      <button class="btn-icon" id="inpage-search-prev" title="上一處 (Shift+Enter)">▲</button>
+      <button class="btn-icon" id="inpage-search-next" title="下一處 (Enter)">▼</button>
+      <button class="btn-icon" id="inpage-search-close" title="關閉搜尋 (Esc)">✕</button>
+    </div>
+  </div>
+
+  <!-- In-Page Search Results Drawer -->
+  <div class="inpage-search-drawer" id="inpage-search-drawer">
+    <div class="inpage-search-drawer-header">
+      <span>搜尋結果清單</span>
+      <button class="btn-icon" id="inpage-drawer-close" style="padding: 2px 6px;">✕</button>
+    </div>
+    <div class="inpage-search-drawer-list" id="inpage-search-drawer-list"></div>
+  </div>
 
   <div class="backdrop" id="backdrop"></div>
 
@@ -601,6 +719,7 @@
         <header class="book-hero">
           <h1>Start with WHY by Simon Sinek _ Full Audiobook _</h1>
           <div class="book-meta-chips">
+            <span class="meta-chip cat-badge">🎯 領導與策略</span>
             <span class="meta-chip">🏷️ 時長：07:21:23</span>
 <span class="meta-chip">🏷️ 模型：small.en</span>
 <span class="meta-chip">🏷️ 日期：2026-09-22</span>
@@ -608,7 +727,7 @@
         </header>
 
         <!-- Transcript Content -->
-        <div class="book-body">
+        <div class="book-body" id="book-body">
           
         <section class="transcript-section" id="sec-000000">
           <div class="section-header">
@@ -616,15 +735,16 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">Start with why. How great leaders inspire everyone to take action. By Simon Sinek.</p>
-<h4 class="section-subhead">Part 1.</h4>
-<p class="prose-p">Assume you know, on a cold January day, a 43-year-old man was sworn in as the chief executive of his country. By his side stood his predecessor, a famous general who, 15 years earlier, had commanded his nation’s armed forces in a war that resulted in the defeat of Germany. The young leader was raised in the Roman Catholic faith. He spent the next five hours watching parades in his honor and stayed up celebrating until three o’clock in the morning.</p>
-<p class="prose-p">You know who I’m describing, right? It’s January 30, 1933, and I’m describing Adolf Hitler and not, as most people would assume, John F. Kennedy. The point is, we make assumptions.</p>
-<p class="prose-p">We make assumptions about the world around us based on sometimes incomplete or false information. In this case, the information I offered was incomplete. Many of you were convinced that I was describing John F. Kennedy until I added one minor little detail, the date.</p>
-<p class="prose-p">This is important because our behavior is affected by our assumptions or our perceived truths. We make decisions based on what we think we know. It wasn’t too long ago that the majority of believed the world was flat. This perceived truth-impacted behavior.</p>
-<p class="prose-p">During this period, there was very little exploration. People feared that if they traveled too far they might fall off the edge of the earth. So for the most part they stayed put. It wasn’t until that minor detail was revealed, the world is round, that behaviors changed on a massive scale.</p>
-<p class="prose-p">From this discovery, societies began to traverse the planet. Trade routes were established, spices were traded. New ideas, like mathematics, were shared between societies which unleashed all kinds of innovations and advancements. The correction of a simple false assumption moved the human race forward.</p>
-<p class="prose-p">Now consider how organizations are formed and how decisions are made. Do we really know why some organizations succeed and why others don’t, or do we just assume? No matter your definition of success, hitting a target stock price, making a certain amount of money, meeting a revenue or profit goal, getting a big promotion, starting your own company, feeding the poor, winning public office, how we go about achieving our goals is very similar. Some of us just wing it, but most of us try to at least gather some data so we can make educated decisions.</p>
+            <p class="prose-p">Start with why. How great leaders inspire everyone to take action. By Simon Sinek.
+
+#### Part 1. Assume you know, on a cold January day, a 43-year-old man was sworn in as the chief executive of his country.</p>
+<p class="prose-p">By his side stood his predecessor, a famous general who, 15 years earlier, had commanded his nation’s armed forces in a war that resulted in the defeat of Germany. The young leader was raised in the Roman Catholic faith. He spent the next five hours watching parades in his honor and stayed up celebrating until three o’clock in the morning. You know who I’m describing, right?</p>
+<p class="prose-p">It’s January 30, 1933, and I’m describing Adolf Hitler and not, as most people would assume, John F. Kennedy. The point is, we make assumptions. We make assumptions about the world around us based on sometimes incomplete or false information.</p>
+<p class="prose-p">In this case, the information I offered was incomplete. Many of you were convinced that I was describing John F. Kennedy until I added one minor little detail, the date. This is important because our behavior is affected by our assumptions or our perceived truths.</p>
+<p class="prose-p">We make decisions based on what we think we know. It wasn’t too long ago that the majority of believed the world was flat. This perceived truth-impacted behavior. During this period, there was very little exploration.</p>
+<p class="prose-p">People feared that if they traveled too far they might fall off the edge of the earth. So for the most part they stayed put. It wasn’t until that minor detail was revealed, the world is round, that behaviors changed on a massive scale. From this discovery, societies began to traverse the planet.</p>
+<p class="prose-p">Trade routes were established, spices were traded. New ideas, like mathematics, were shared between societies which unleashed all kinds of innovations and advancements. The correction of a simple false assumption moved the human race forward. Now consider how organizations are formed and how decisions are made.</p>
+<p class="prose-p">Do we really know why some organizations succeed and why others don’t, or do we just assume? No matter your definition of success, hitting a target stock price, making a certain amount of money, meeting a revenue or profit goal, getting a big promotion, starting your own company, feeding the poor, winning public office, how we go about achieving our goals is very similar. Some of us just wing it, but most of us try to at least gather some data so we can make educated decisions.</p>
 <p class="prose-p">Sometimes this gathering process is formal, like conducting polls or market research. And sometimes it’s informal, like asking our friends and colleagues for advice or looking back on our own personal experience to provide some perspective. Regardless of the process or the goals, we all want to make educated decisions. More importantly, we all want to make the right decisions.</p>
 <p class="prose-p">As we all know, however, not all decisions work out to be the right ones, regardless of the amount of data we collect. Sometimes the impact of those wrong decisions is minor, and sometimes it can be catastrophic. Whatever the result, we make decisions based on a perception of the world that may not, in fact, be completely accurate. Just as so many were certain that I was describing John F.</p>
 <p class="prose-p">Kennedy at the beginning of this section. You were certain you were right. You might even have bet money on it, a behavior based on an assumption. Certain, that is, until I offered that little detail of the date.</p>
@@ -842,15 +962,15 @@
 <p class="prose-p">Unshaming of anyone who spoke out discouraged responsible dissent. A free flow of loans encouraged aspiring home buyers to buy more than they could afford at all price levels. There was very little loyalty. It was all a series of transactional decisions, effective, but at a high cost.</p>
 <p class="prose-p">Few were working for the good of the whole. Why would they? There was no reason given to do so. There was no cause or belief beyond instant gratification.</p>
 <p class="prose-p">Bankers weren’t the first to be swept up by their own success. American car manufacturers have conducted themselves the same way for decades, manipulation after manipulation, short-term decision built upon short-term decision. Buckling or even collapse is the only logical conclusion when manipulations are the main course of action. The reality is, in today’s world, manipulations are the norm.</p>
-<p class="prose-p">But there is an alternative.</p>
-<h4 class="section-subhead">Part 2 An Alternative Perspective The golden circle there are a few leaders who choose to inspire other than manipulate in order to motivate people.</h4>
-<p class="prose-p">Whether individuals or organizations, every single one of these inspiring leaders thinks, acts and communicates exactly the same way. And it’s the complete opposite of the rest of us. Consciously or not, how they do it is by following a naturally occurring pattern that I call the golden circle. The concept of the golden circle was inspired by the golden ratio, a simple mathematical relationship that has fascinated mathematicians, biologists, architects, artists, musicians and naturists since the beginning of history.</p>
-<p class="prose-p">From the Egyptians to Pythagoras to Leonardo da Vinci, many have looked to the golden ratio to provide a mathematical formula for proportion and even beauty. It also supports the notion that there is more order in nature than we think, as in the symmetry of leaves and the geometric perfection of snowflakes. What I found so attractive about the golden ratio, however, was that it had so many applications in so many fields. And even more significantly, it offered a formula that could produce repeatable and predictable results in places where such results might have been assumed to be a random occurrence or luck.</p>
-<p class="prose-p">Even mother nature, for most people a symbol of unpredictability, exhibited more order than we previously acknowledged. Like the golden ratio, which offers evidence of order in the seeming disorder of nature, the golden circle finds order and predictability in a human behavior. Put simply, it helps us understand why we do what we do. The golden circle provides compelling evidence of how much more we can achieve if we remind ourselves to start everything we do by first asking why.</p>
-<p class="prose-p">The golden circle is an alternative perspective to existing assumptions about why some leaders and organizations have achieved such a disproportionate degree of influence. It offers clear insight as to how Apple is able to innovate in so many diverse industries and never lose its ability to do so. It explains why people tattoo Harley-Davidson logos on their bodies. It provides a clearer understanding not just of how Southwest Airlines created the most profitable airline in history, but why the things it did worked.</p>
-<p class="prose-p">It even gives some clarity as to why people follow Dr. Martin Luther King Jr. in a movement that changed a nation and why we took up John F. Kennedy’s challenge to put a man on the moon even after he died. The golden circle shows how these leaders were able to inspire action instead of manipulating people to act. This alternative perspective is not just useful for changing the world, there are practical applications for the ability to inspire, too.</p>
-<p class="prose-p">It can be used as a guide to vastly improving leadership, corporate culture, hiring, product development, sales, and marketing. It even explains loyalty and how to create enough momentum to turn an idea into a social movement. And it all starts from the inside out. It all starts with why.</p>
-<p class="prose-p">Before we can explore its applications, let me first define the terms, starting from the outside of the circle and moving inward. What, every single company and organization on the planet knows what they do.</p>
+<p class="prose-p">But there is an alternative.
+
+#### Part 2 An Alternative Perspective The golden circle there are a few leaders who choose to inspire other than manipulate in order to motivate people. Whether individuals or organizations, every single one of these inspiring leaders thinks, acts and communicates exactly the same way. And it’s the complete opposite of the rest of us. Consciously or not, how they do it is by following a naturally occurring pattern that I call the golden circle.</p>
+<p class="prose-p">The concept of the golden circle was inspired by the golden ratio, a simple mathematical relationship that has fascinated mathematicians, biologists, architects, artists, musicians and naturists since the beginning of history. From the Egyptians to Pythagoras to Leonardo da Vinci, many have looked to the golden ratio to provide a mathematical formula for proportion and even beauty. It also supports the notion that there is more order in nature than we think, as in the symmetry of leaves and the geometric perfection of snowflakes. What I found so attractive about the golden ratio, however, was that it had so many applications in so many fields.</p>
+<p class="prose-p">And even more significantly, it offered a formula that could produce repeatable and predictable results in places where such results might have been assumed to be a random occurrence or luck. Even mother nature, for most people a symbol of unpredictability, exhibited more order than we previously acknowledged. Like the golden ratio, which offers evidence of order in the seeming disorder of nature, the golden circle finds order and predictability in a human behavior. Put simply, it helps us understand why we do what we do.</p>
+<p class="prose-p">The golden circle provides compelling evidence of how much more we can achieve if we remind ourselves to start everything we do by first asking why. The golden circle is an alternative perspective to existing assumptions about why some leaders and organizations have achieved such a disproportionate degree of influence. It offers clear insight as to how Apple is able to innovate in so many diverse industries and never lose its ability to do so. It explains why people tattoo Harley-Davidson logos on their bodies.</p>
+<p class="prose-p">It provides a clearer understanding not just of how Southwest Airlines created the most profitable airline in history, but why the things it did worked. It even gives some clarity as to why people follow Dr. Martin Luther King Jr. in a movement that changed a nation and why we took up John F. Kennedy’s challenge to put a man on the moon even after he died. The golden circle shows how these leaders were able to inspire action instead of manipulating people to act.</p>
+<p class="prose-p">This alternative perspective is not just useful for changing the world, there are practical applications for the ability to inspire, too. It can be used as a guide to vastly improving leadership, corporate culture, hiring, product development, sales, and marketing. It even explains loyalty and how to create enough momentum to turn an idea into a social movement. And it all starts from the inside out.</p>
+<p class="prose-p">It all starts with why. Before we can explore its applications, let me first define the terms, starting from the outside of the circle and moving inward. What, every single company and organization on the planet knows what they do.</p>
           </div>
         </section>
         
@@ -1260,19 +1380,19 @@
           </div>
           <div class="section-body">
             <p class="prose-p">With a clear sense of why, a debate to take on a bad-fit client turns into 86. Clarity, discipline and consistency discussion of whether the imbalance is worth the short-term gain they may give us. The goal of business should not be to do business with anyone who simply wants what you have. It should be to focus on the people who believe what you believe.</p>
-<p class="prose-p">When we are selective about doing business only with those who believe in our why, trust emerges.</p>
-<h4 class="section-subhead">Part 3, Leaders Need a Following The emergence of trust to say that most of the company’s employees were embarrassed to work there was an understatement.</h4>
-<p class="prose-p">It was no secret that the employees felt mistreated. And if a company mistreats their people, just watch how the employees treat their customers. Mud rolls down a hill, and if you’re the one standing at the bottom, you get hit with the full brunt. In a company, that’s usually the customer.</p>
-<p class="prose-p">Throughout the 1980s, this was life at Continental Airlines, the worst airline in the industry. I could see Continental’s biggest problem the second I walked in the door in February of 1994, Gordon Bethune wrote in From Worst to First, the chief executive’s first-hand account of Continental’s turnaround. It was a crummy place to work. Employees were surly to customers, surly to each other, and ashamed of their company.</p>
-<p class="prose-p">And you can’t have a good product without people who like coming to work. It just can’t be done, he recounts. It just can’t. Herb Kelleher, the head of Southwest for 20 years, was considered a heretic for positing the notion that it is a company’s responsibility to look after the employees first.</p>
-<p class="prose-p">Happy employees ensure happy customers, he said. And happy customers ensure happy shareholders, in that order. Fortunately, Bethune shared this heretical belief. Some would argue that the reason Continental’s culture was so poisonous was that the company was struggling.</p>
-<p class="prose-p">They would tell you that it’s hard for executives to focus on anything other than survival when a company is facing hard times. Once we get profitable again, the logic went, then we will take a look at everything else. And without a doubt, throughout the 1980s and early 1990s, Continental struggled. The company filed for Chapter 11 bankruptcy protection twice in 8 years, once in 1983 and again in 1991, and managed to go through 10 course in a decade.</p>
-<p class="prose-p">In 1994, the year Bethune took over as the newest CEO, the company had lost $600 million and ranked last in every measurable performance category. But all that didn’t last long once Bethune arrived. The very next year Continental made $250 million and was soon ranked as one of the best companies to work for in America. And while Bethune made significant changes to improve the operations, the greatest gains were in a performance category that is nearly impossible to measure – trust.</p>
-<p class="prose-p">Trust does not emerge simply because a seller makes a rational case why the customer should buy a product or service, or because an executive promises change. Trust is not a checklist. Fulfilling all your responsibilities does not create trust. Trust is a feeling, not a rational experience.</p>
-<p class="prose-p">We trust some people and companies even when things go wrong, and we don’t trust others even though everything might have gone exactly as it should have. A completed checklist does not guarantee trust. Trust begins to emerge when we have a sense that another person or organization is driven by things other than their own self-gain. With trust comes a sense of value, real value, not just value equated with money.</p>
-<p class="prose-p">Value, by definition, is the transference of trust. You can’t convince someone you have value, just as you can’t convince someone to trust you. You have to earn trust by communicating and demonstrating that you share the same values and beliefs. You have to talk about your why and prove it with what you do.</p>
-<p class="prose-p">Again, a why is just a belief, how’s are the actions we take to realize that belief, and what’s are the results of those actions? When all three are in balance, trust is built and value is perceived. This is what Bethune was able to do. There are many talented executives with the ability to manage operations, but great leadership is not based solely on great operational ability.</p>
-<p class="prose-p">Leading is not the same as being the leader. Being the leader means you hold the highest rank, either by earning it, good fortune or navigating internal politics. Leading, however, means that others willingly follow you, not because they have to, not because they are paid to, but because they want to.</p>
+<p class="prose-p">When we are selective about doing business only with those who believe in our why, trust emerges.
+
+#### Part 3, Leaders Need a Following The emergence of trust to say that most of the company’s employees were embarrassed to work there was an understatement. It was no secret that the employees felt mistreated. And if a company mistreats their people, just watch how the employees treat their customers. Mud rolls down a hill, and if you’re the one standing at the bottom, you get hit with the full brunt.</p>
+<p class="prose-p">In a company, that’s usually the customer. Throughout the 1980s, this was life at Continental Airlines, the worst airline in the industry. I could see Continental’s biggest problem the second I walked in the door in February of 1994, Gordon Bethune wrote in From Worst to First, the chief executive’s first-hand account of Continental’s turnaround. It was a crummy place to work.</p>
+<p class="prose-p">Employees were surly to customers, surly to each other, and ashamed of their company. And you can’t have a good product without people who like coming to work. It just can’t be done, he recounts. It just can’t.</p>
+<p class="prose-p">Herb Kelleher, the head of Southwest for 20 years, was considered a heretic for positing the notion that it is a company’s responsibility to look after the employees first. Happy employees ensure happy customers, he said. And happy customers ensure happy shareholders, in that order. Fortunately, Bethune shared this heretical belief.</p>
+<p class="prose-p">Some would argue that the reason Continental’s culture was so poisonous was that the company was struggling. They would tell you that it’s hard for executives to focus on anything other than survival when a company is facing hard times. Once we get profitable again, the logic went, then we will take a look at everything else. And without a doubt, throughout the 1980s and early 1990s, Continental struggled.</p>
+<p class="prose-p">The company filed for Chapter 11 bankruptcy protection twice in 8 years, once in 1983 and again in 1991, and managed to go through 10 course in a decade. In 1994, the year Bethune took over as the newest CEO, the company had lost $600 million and ranked last in every measurable performance category. But all that didn’t last long once Bethune arrived. The very next year Continental made $250 million and was soon ranked as one of the best companies to work for in America.</p>
+<p class="prose-p">And while Bethune made significant changes to improve the operations, the greatest gains were in a performance category that is nearly impossible to measure – trust. Trust does not emerge simply because a seller makes a rational case why the customer should buy a product or service, or because an executive promises change. Trust is not a checklist. Fulfilling all your responsibilities does not create trust.</p>
+<p class="prose-p">Trust is a feeling, not a rational experience. We trust some people and companies even when things go wrong, and we don’t trust others even though everything might have gone exactly as it should have. A completed checklist does not guarantee trust. Trust begins to emerge when we have a sense that another person or organization is driven by things other than their own self-gain.</p>
+<p class="prose-p">With trust comes a sense of value, real value, not just value equated with money. Value, by definition, is the transference of trust. You can’t convince someone you have value, just as you can’t convince someone to trust you. You have to earn trust by communicating and demonstrating that you share the same values and beliefs.</p>
+<p class="prose-p">You have to talk about your why and prove it with what you do. Again, a why is just a belief, how’s are the actions we take to realize that belief, and what’s are the results of those actions? When all three are in balance, trust is built and value is perceived. This is what Bethune was able to do.</p>
+<p class="prose-p">There are many talented executives with the ability to manage operations, but great leadership is not based solely on great operational ability. Leading is not the same as being the leader. Being the leader means you hold the highest rank, either by earning it, good fortune or navigating internal politics. Leading, however, means that others willingly follow you, not because they have to, not because they are paid to, but because they want to.</p>
           </div>
         </section>
         
@@ -1747,21 +1867,22 @@
           <div class="section-body">
             <p class="prose-p">how we felt. He gave us the words that inspired us. He gave us something to believe in, something we could easily share with our friends. Everyone at the mall that day shared a set of values and beliefs.</p>
 <p class="prose-p">And everyone there that day, regardless of skin color or race or sex, trusted each other. It was that trust, that common bond, that shared belief that fueled a movement that would change a nation. We believed. We believed.</p>
-<p class="prose-p">We believed.</p>
-<h4 class="section-subhead">Part 4 – How to rally those who believe but know how energy excites.</h4>
-<p class="prose-p">Charisma inspires. Rah. With the roar, Steve Ballmer, the man who replaced Bill Gates as CEO of Microsoft, bursts onto the stage of the company’s annual global summit meeting. Ballmer loves Microsoft, he says so in no uncertain words.</p>
-<p class="prose-p">He also knows how to pump up a crowd. His energy is almost folkloric. He pumps his fists and runs from one end of the stage to the other, he screams and he sweats. He is remarkable to watch and the crowd loves it.</p>
-<p class="prose-p">As Ballmer proves, without a doubt, energy can motivate a crowd. But can it inspire a population? What happens the next day or the next week when Ballmer’s energy is not there to motivate his employees? Is energy enough to keep a company of about 80,000 people focused?</p>
-<p class="prose-p">In contrast, Bill Gates is shy and awkward, a social misfit. He does not fit the stereotype of the leader of a multi-billion dollar corporation. He is not the most energetic public speaker. When Bill Gates speaks, however, people listen with bated breath.</p>
-<p class="prose-p">They hang on his every word. When Gates speaks, he doesn’t rally a room, he inspires it. Those who hear him take what he says and carry his words with them for weeks, months or years. Gates doesn’t have energy, but Bill Gates inspires.</p>
-<p class="prose-p">Energy motivates but charisma inspires. Energy is easy to see, easy to measure and easy to copy. Charisma is hard to define, nearly impossible to measure and too elusive to copy. All great leaders have charisma because all great leaders have clarity of why, and an undying belief in a purpose or cause bigger than themselves.</p>
-<p class="prose-p">It’s not Bill Gates’s passion for computers that inspires us, it’s his undying optimism that even the most complicated problems can being solved. He believes we can find ways to remove obstacles to ensure that everyone can live and work to their greatest potential. It is his five optimism to which we are drawn. Going through the computer revolution, he saw the computer as a perfect technology to help us all become more productive and achieve our greatest potential.</p>
-<p class="prose-p">That belief inspired his vision of a, PC on every desk to come to life. Ironic considering Microsoft never even made pieces. It wasn’t just what computers did that, Gates saw the impact for the new technology, it was why we needed them. Today, the work he does with the Bill and Melinda Gates Foundation has nothing to do with software, but it is another way he has found to bring his why to life.</p>
-<p class="prose-p">He is looking for ways to solve problems. He still has an undying belief. And he still, believes that if we can help people, this time those with less privilege, remove some seemingly simple obstacles, then they too will have an opportunity to be more productive and lift themselves up to achieve their great. Status but why, but know how potential. For Gates, all that has changed is what he is doing to bring his cause to life.</p>
-<p class="prose-p">Charisma has nothing to do with energy, it comes from a clarity of why. It comes from absolute conviction in an ideal bigger than oneself. Energy, in contrast, comes from a good night’s sleep or lots of caffeine. Energy can excite.</p>
-<p class="prose-p">But only charisma can inspire. The commands loyalty. Energy does not. Energy can always be injected into an organization to motivate people to do things.</p>
-<p class="prose-p">Bonuses, promotions, other carrots and even a few sticks can get people to work harder, for sure, but the gains are, like all manipulations, short term. Over time, such tactics cost more money and increase stress for employee and employer alike, and eventually will become the main reason people show up for work every day. That’s not loyalty. That’s the employee version of repeat business.</p>
-<p class="prose-p">Loyalty among employees is when they turn down more money or benefits to continue working at the same company. Loyalty to a company trumps pay and benefits. And unless you’re an astronaut, it’s not the work we do that inspires us either.</p>
+<p class="prose-p">We believed.
+
+#### Part 4 – How to rally those who believe but know how energy excites. Charisma inspires. Rah. With the roar, Steve Ballmer, the man who replaced Bill Gates as CEO of Microsoft, bursts onto the stage of the company’s annual global summit meeting.</p>
+<p class="prose-p">Ballmer loves Microsoft, he says so in no uncertain words. He also knows how to pump up a crowd. His energy is almost folkloric. He pumps his fists and runs from one end of the stage to the other, he screams and he sweats.</p>
+<p class="prose-p">He is remarkable to watch and the crowd loves it. As Ballmer proves, without a doubt, energy can motivate a crowd. But can it inspire a population? What happens the next day or the next week when Ballmer’s energy is not there to motivate his employees?</p>
+<p class="prose-p">Is energy enough to keep a company of about 80,000 people focused? In contrast, Bill Gates is shy and awkward, a social misfit. He does not fit the stereotype of the leader of a multi-billion dollar corporation. He is not the most energetic public speaker.</p>
+<p class="prose-p">When Bill Gates speaks, however, people listen with bated breath. They hang on his every word. When Gates speaks, he doesn’t rally a room, he inspires it. Those who hear him take what he says and carry his words with them for weeks, months or years.</p>
+<p class="prose-p">Gates doesn’t have energy, but Bill Gates inspires. Energy motivates but charisma inspires. Energy is easy to see, easy to measure and easy to copy. Charisma is hard to define, nearly impossible to measure and too elusive to copy.</p>
+<p class="prose-p">All great leaders have charisma because all great leaders have clarity of why, and an undying belief in a purpose or cause bigger than themselves. It’s not Bill Gates’s passion for computers that inspires us, it’s his undying optimism that even the most complicated problems can being solved. He believes we can find ways to remove obstacles to ensure that everyone can live and work to their greatest potential. It is his five optimism to which we are drawn.</p>
+<p class="prose-p">Going through the computer revolution, he saw the computer as a perfect technology to help us all become more productive and achieve our greatest potential. That belief inspired his vision of a, PC on every desk to come to life. Ironic considering Microsoft never even made pieces. It wasn’t just what computers did that, Gates saw the impact for the new technology, it was why we needed them.</p>
+<p class="prose-p">Today, the work he does with the Bill and Melinda Gates Foundation has nothing to do with software, but it is another way he has found to bring his why to life. He is looking for ways to solve problems. He still has an undying belief. And he still, believes that if we can help people, this time those with less privilege, remove some seemingly simple obstacles, then they too will have an opportunity to be more productive and lift themselves up to achieve their great.</p>
+<p class="prose-p">Status but why, but know how potential. For Gates, all that has changed is what he is doing to bring his cause to life. Charisma has nothing to do with energy, it comes from a clarity of why. It comes from absolute conviction in an ideal bigger than oneself.</p>
+<p class="prose-p">Energy, in contrast, comes from a good night’s sleep or lots of caffeine. Energy can excite. But only charisma can inspire. The commands loyalty.</p>
+<p class="prose-p">Energy does not. Energy can always be injected into an organization to motivate people to do things. Bonuses, promotions, other carrots and even a few sticks can get people to work harder, for sure, but the gains are, like all manipulations, short term. Over time, such tactics cost more money and increase stress for employee and employer alike, and eventually will become the main reason people show up for work every day.</p>
+<p class="prose-p">That’s not loyalty. That’s the employee version of repeat business. Loyalty among employees is when they turn down more money or benefits to continue working at the same company. Loyalty to a company trumps pay and benefits.</p>
+<p class="prose-p">And unless you’re an astronaut, it’s not the work we do that inspires us either.</p>
           </div>
         </section>
         
@@ -2121,10 +2242,11 @@
 <p class="prose-p">They failed the celery test. Toyota and Honda knew this better than Volkswagen. When they decided to add luxury models to their lineups, they created new brands, Lexus and Acura respectively, to do it. Toyota had become a symbol of efficiency and affordability to the general population.</p>
 <p class="prose-p">They had built their business on a suite of low-cost cars. They knew that the market would not pay a premium for a luxury car with the same name or with the same logo on the hood. Although a luxury car, Lexus is still another what to Toyota’s why. It still embodies the same cause as the Toyota branded cars, and the values of the company are the same.</p>
 <p class="prose-p">The only difference is what they are doing to bring that cause to life. The good news is, VW hasn’t made the same mistake again, and their why remains clear. But if a company tries too many times to seize market opportunities inconsistent with their why over time, their why will go fuzzy and their ability to inspire and command loyalty will deteriorate. What companies say and do matters.</p>
-<p class="prose-p">A lot. It is at the what level that a cause is brought to life. It is at this level that a company speaks to the outside world and it is then that we can learn what the company believes.</p>
-<h4 class="section-subhead">Part 5, The Biggest Challenge is Success.</h4>
-<p class="prose-p">When why goes fuzzy Goliath flinched a lot of what goes on these days with high flying companies and these overpaid cars? who are really just looting from the top and aren’t watching out for anybody but themselves, really upsets me. It’s one of the main things wrong with American business today. This is the sentiment passed down from the founder of one of the most vilified companies in recent history. Raised on a farm in America’s heartland, he came of age during the Great Depression.</p>
-<p class="prose-p">This probably explained his predisposition for frugality. Working 5 feet 9 inches and weighing only 130 pounds when he played football in high school, Sam Walton, the founder of Walmart, learned early the value of working hard. Working hard leads to winning. And as the quarterback on his high school football team, he won the lot.</p>
+<p class="prose-p">A lot. It is at the what level that a cause is brought to life. It is at this level that a company speaks to the outside world and it is then that we can learn what the company believes.
+
+#### Part 5, The Biggest Challenge is Success. When why goes fuzzy Goliath flinched a lot of what goes on these days with high flying companies and these overpaid cars? who are really just looting from the top and aren’t watching out for anybody but themselves, really upsets me.</p>
+<p class="prose-p">It’s one of the main things wrong with American business today. This is the sentiment passed down from the founder of one of the most vilified companies in recent history. Raised on a farm in America’s heartland, he came of age during the Great Depression. This probably explained his predisposition for frugality.</p>
+<p class="prose-p">Working 5 feet 9 inches and weighing only 130 pounds when he played football in high school, Sam Walton, the founder of Walmart, learned early the value of working hard. Working hard leads to winning. And as the quarterback on his high school football team, he won the lot.</p>
 <p class="prose-p">In fact, they went on to become state champs. Whether through hard work, luck or just an unflappable optimism, Walton got so used to winning all the time that he couldn’t fully visualize what losing looked like. He simply couldn’t imagine it. Walton even philosophized that always thinking about winning probably became a self-fulfilling prophecy for him.</p>
 <p class="prose-p">Even during the Depression, he had a highly successful paper route that earned him a decent wage for the Times. By the time Sam Walton died, he had taken Walmart from a, single store in Bentonville, Arkansas, and turned it into a retail colossus with $44 billion in annual sales with 40 million people shopping in the stores per week. But it takes more than a competitive nature, a strong work ethic and a sense of optimism to build a company big enough to equal the 23rd largest economy in the world.</p>
 <p class="prose-p">Walton wasn’t the first person with big dreams to start a small business. Many small business owners dream of making it big. I meet a lot of entrepreneurs and it is amazing how many of them tell me their goal is to build a billion-dollar company. The odds, however, are significantly stacked against them.</p>
@@ -2438,11 +2560,12 @@
 <p class="prose-p">But as Walmart continued to run its business in a post-Sam, post-split manner while Costco maintained clarity of why, the difference in value changed dramatically. An investment in Walmart on the day Sam Walton died would have earned a shareholder a 300% gain by the time this book was written. An investment made in Costco on the same day would have netted an 800% gain. Costco’s advantage is that the embodiment of their why, Jim Sinegal, is still there.</p>
 <p class="prose-p">The things he says and does help reinforce to all those around him what the company stands for. Staying true to that why, Sinegal draws a $430,000 salary, a relatively small amount given the size and success of the company. At Walmart’s peak, Sam Walton never took a salary of more than $350,000 per year, also consistent with what he believed. David Glass, the first man to take over as CEO after Sam Walton, a man who had spent considerable time around Walton, said, a lot of what goes on these days with high-flying companies and these overpaid course, who are really just looting from the top and aren’t watching out for anybody but themselves, really upsets me.</p>
 <p class="prose-p">It’s one of the main things wrong with American business today. Three more course have attempted to carry the torch that Walton lit. And with each succession that torch, that clear sense of purpose, cause and belief, has grown dimmer and dimmer. The new hope lies in Michael T.</p>
-<p class="prose-p">Duke, who took over as CEO in early 2009. Duke’s goal is to restore the luster and the clarity of Walmart’s why. And to do it, he started by paying himself an annual salary of $5.43 million.</p>
-<h4 class="section-subhead">Part 6, Discover Why.</h4>
-<p class="prose-p">The Origins of a Why. It started in Vietnam War era Northern California, where anti-government ideals and disdain for large centers of power and rampant. Two young men saw the power of government and corporations as the enemy, not because they were big, per se, but because they squashed the spirit of the individual. They imagined a world in which an individual had a voice.</p>
-<p class="prose-p">They imagined a time when an individual could successfully stand up to incumbent power, old assumptions and status quo thoughts and successfully challenge them. Even redirect them. They hung out with hippy types who shared their beliefs, but they saw a different way to change the world that didn’t require protesting or engaging in anything illegal. Steve Wozniak and Steve Jobs came of age in this time.</p>
-<p class="prose-p">Not only was the revolutionary spirit running high in Northern California, but it was also the time and place of the computer revolution. And in this technology they saw the opportunity to start their own revolution. The Apple gave an individual the power to do the same things as any company, Wozniak recounts. For the first time ever, one person could take on a corporation simply because they had the</p>
+<p class="prose-p">Duke, who took over as CEO in early 2009. Duke’s goal is to restore the luster and the clarity of Walmart’s why. And to do it, he started by paying himself an annual salary of $5.43 million.
+
+#### Part 6, Discover Why. The Origins of a Why.</p>
+<p class="prose-p">It started in Vietnam War era Northern California, where anti-government ideals and disdain for large centers of power and rampant. Two young men saw the power of government and corporations as the enemy, not because they were big, per se, but because they squashed the spirit of the individual. They imagined a world in which an individual had a voice. They imagined a time when an individual could successfully stand up to incumbent power, old assumptions and status quo thoughts and successfully challenge them.</p>
+<p class="prose-p">Even redirect them. They hung out with hippy types who shared their beliefs, but they saw a different way to change the world that didn’t require protesting or engaging in anything illegal. Steve Wozniak and Steve Jobs came of age in this time. Not only was the revolutionary spirit running high in Northern California, but it was also the time and place of the computer revolution.</p>
+<p class="prose-p">And in this technology they saw the opportunity to start their own revolution. The Apple gave an individual the power to do the same things as any company, Wozniak recounts. For the first time ever, one person could take on a corporation simply because they had the</p>
           </div>
         </section>
         
@@ -2805,6 +2928,204 @@
 
     document.getElementById('scroll-top-btn').addEventListener('click', () => {
       window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    // ==========================================
+    // IN-PAGE CONTENT SEARCH (單書全文搜尋)
+    // ==========================================
+    const searchBar = document.getElementById('inpage-search-bar');
+    const searchInput = document.getElementById('inpage-search-input');
+    const searchCount = document.getElementById('inpage-search-count');
+    const searchDrawer = document.getElementById('inpage-search-drawer');
+    const searchDrawerList = document.getElementById('inpage-search-drawer-list');
+    const searchToggleBtn = document.getElementById('search-toggle-btn');
+    const searchClearBtn = document.getElementById('inpage-search-clear');
+    const searchPrevBtn = document.getElementById('inpage-search-prev');
+    const searchNextBtn = document.getElementById('inpage-search-next');
+    const searchCloseBtn = document.getElementById('inpage-search-close');
+    const drawerCloseBtn = document.getElementById('inpage-drawer-close');
+
+    let searchMatches = [];
+    let currentMatchIdx = -1;
+
+    // Cache original innerHTML for clean resets
+    const rawParagraphs = Array.from(document.querySelectorAll('.section-body p')).map(p => ({
+      el: p,
+      rawHtml: p.innerHTML,
+      rawText: p.textContent
+    }));
+
+    function openSearch() {
+      searchBar.classList.add('active');
+      searchInput.focus();
+      searchInput.select();
+      if (searchInput.value.trim()) {
+        performSearch(searchInput.value.trim());
+      }
+    }
+
+    function closeSearch() {
+      searchBar.classList.remove('active');
+      searchDrawer.classList.remove('active');
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchCount.textContent = '0 / 0';
+    }
+
+    function clearHighlights() {
+      rawParagraphs.forEach(item => {
+        item.el.innerHTML = item.rawHtml;
+      });
+    }
+
+    function escapeRegex(str) {
+      return str.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+    }
+
+    function escapeHtml(str) {
+      return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+
+    function performSearch(query) {
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchDrawerList.innerHTML = '';
+
+      if (!query || query.trim().length === 0) {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+        return;
+      }
+
+      query = query.trim();
+      const qLower = query.toLowerCase();
+      const regex = new RegExp(`(${escapeRegex(query)})`, 'gi');
+
+      rawParagraphs.forEach((item, pIdx) => {
+        if (item.rawText.toLowerCase().includes(qLower)) {
+          const sec = item.el.closest('.transcript-section');
+          const secTime = sec ? (sec.querySelector('.section-time')?.textContent || '') : '';
+          const secId = sec ? sec.id : '';
+
+          // Apply highlight
+          item.el.innerHTML = item.rawHtml.replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const marks = Array.from(item.el.querySelectorAll('mark.search-highlight'));
+          marks.forEach(mark => {
+            searchMatches.push({
+              mark,
+              el: item.el,
+              secTime,
+              secId
+            });
+          });
+
+          // Snippet creation
+          const matchPos = item.rawText.toLowerCase().indexOf(qLower);
+          const start = Math.max(0, matchPos - 30);
+          const end = Math.min(item.rawText.length, matchPos + query.length + 50);
+          const snippetText = item.rawText.slice(start, end);
+          const snippetHtml = escapeHtml(snippetText).replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const card = document.createElement('div');
+          card.className = 'search-result-item';
+          card.innerHTML = `
+            <div class="search-result-time">${secTime}</div>
+            <div class="search-result-snippet">...${snippetHtml}...</div>
+          `;
+          card.addEventListener('click', () => {
+            const targetIdx = searchMatches.findIndex(m => m.mark === marks[0]);
+            if (targetIdx >= 0) goToMatch(targetIdx);
+          });
+          searchDrawerList.appendChild(card);
+        }
+      });
+
+      if (searchMatches.length > 0) {
+        searchDrawer.classList.add('active');
+        goToMatch(0);
+      } else {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+      }
+    }
+
+    function goToMatch(idx) {
+      if (idx < 0 || idx >= searchMatches.length) return;
+      if (currentMatchIdx >= 0 && searchMatches[currentMatchIdx]) {
+        searchMatches[currentMatchIdx].mark.classList.remove('active-match');
+      }
+      currentMatchIdx = idx;
+      const target = searchMatches[currentMatchIdx];
+      target.mark.classList.add('active-match');
+      searchCount.textContent = `${currentMatchIdx + 1} / ${searchMatches.length}`;
+
+      // Highlight active drawer item
+      const drawerItems = searchDrawerList.querySelectorAll('.search-result-item');
+      drawerItems.forEach(di => di.classList.remove('active'));
+
+      target.mark.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+
+    searchToggleBtn.addEventListener('click', () => {
+      if (searchBar.classList.contains('active')) {
+        closeSearch();
+      } else {
+        openSearch();
+      }
+    });
+
+    let debounceTimer;
+    searchInput.addEventListener('input', (e) => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => {
+        performSearch(e.target.value);
+      }, 200);
+    });
+
+    searchClearBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      performSearch('');
+      searchInput.focus();
+    });
+
+    searchNextBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const nextIdx = (currentMatchIdx + 1) % searchMatches.length;
+      goToMatch(nextIdx);
+    });
+
+    searchPrevBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const prevIdx = (currentMatchIdx - 1 + searchMatches.length) % searchMatches.length;
+      goToMatch(prevIdx);
+    });
+
+    searchInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        if (e.shiftKey) {
+          searchPrevBtn.click();
+        } else {
+          searchNextBtn.click();
+        }
+      } else if (e.key === 'Escape') {
+        closeSearch();
+      }
+    });
+
+    searchCloseBtn.addEventListener('click', closeSearch);
+    drawerCloseBtn.addEventListener('click', () => searchDrawer.classList.remove('active'));
+
+    window.addEventListener('keydown', (e) => {
+      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'f') {
+        e.preventDefault();
+        openSearch();
+      } else if (e.key === 'Escape') {
+        if (searchBar.classList.contains('active')) closeSearch();
+      }
     });
   </script>
 </body>

@@ -66,26 +66,12 @@
       --card-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
     }
 
-    [data-line-height="compact"] {
-      --line-height: 1.68;
-    }
-    [data-line-height="normal"] {
-      --line-height: 1.88;
-    }
-    [data-line-height="loose"] {
-      --line-height: 2.12;
-    }
+    [data-line-height="compact"] { --line-height: 1.68; }
+    [data-line-height="normal"] { --line-height: 1.88; }
+    [data-line-height="loose"] { --line-height: 2.12; }
 
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
-    html {
-      scroll-behavior: smooth;
-    }
-
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
     body {
       font-family: var(--font-family);
       font-size: var(--font-size);
@@ -119,7 +105,7 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 0 20px;
+      padding: 0 18px;
       background-color: var(--bg-header);
       backdrop-filter: blur(8px);
       -webkit-backdrop-filter: blur(8px);
@@ -129,7 +115,7 @@
     .header-left, .header-right {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 8px;
       flex-wrap: nowrap;
     }
 
@@ -138,7 +124,7 @@
       border: 1px solid var(--border-color);
       color: var(--text-primary);
       cursor: pointer;
-      font-size: 14px;
+      font-size: 13.5px;
       padding: 6px 10px;
       border-radius: 8px;
       display: inline-flex;
@@ -147,6 +133,7 @@
       transition: all 0.2s;
       white-space: nowrap;
       user-select: none;
+      text-decoration: none;
     }
     .btn-icon:hover {
       background-color: var(--accent-light);
@@ -161,11 +148,132 @@
       font-size: 14px;
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
+    }
+    .home-link:hover { color: var(--accent-color); }
+
+    /* In-Page Search Bar Dropdown */
+    .inpage-search-bar {
+      position: sticky;
+      top: 60px;
+      z-index: 890;
+      background-color: var(--bg-surface);
+      border-bottom: 1px solid var(--border-color);
+      padding: 10px 18px;
+      display: none;
+      align-items: center;
+      gap: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    }
+    .inpage-search-bar.active { display: flex; }
+
+    .inpage-search-input-wrapper {
+      flex: 1;
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    .inpage-search-input {
+      width: 100%;
+      padding: 8px 36px 8px 12px;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      font-size: 14px;
+    }
+    .inpage-search-input:focus { outline: 2px solid var(--accent-color); }
+
+    .inpage-search-clear {
+      position: absolute;
+      right: 10px;
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 16px;
     }
 
-    .home-link:hover {
+    .inpage-search-count {
+      font-size: 13px;
+      color: var(--text-secondary);
+      font-family: monospace;
+      white-space: nowrap;
+    }
+    .search-nav-btns { display: flex; gap: 6px; }
+
+    /* In-Page Search Results Drawer */
+    .inpage-search-drawer {
+      position: fixed;
+      right: 20px;
+      top: 120px;
+      width: 360px;
+      max-height: calc(100vh - 160px);
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+      z-index: 895;
+      display: none;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .inpage-search-drawer.active { display: flex; }
+    .inpage-search-drawer-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-weight: 600;
+      font-size: 14px;
+    }
+    .inpage-search-drawer-list {
+      overflow-y: auto;
+      padding: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .search-result-item {
+      padding: 10px 12px;
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+      background: var(--bg-primary);
+      cursor: pointer;
+      font-size: 13px;
+      transition: all 0.15s;
+    }
+    .search-result-item:hover, .search-result-item.active {
+      border-color: var(--accent-color);
+      background: var(--accent-light);
+    }
+    .search-result-time {
+      font-weight: 700;
       color: var(--accent-color);
+      font-family: monospace;
+      margin-bottom: 4px;
+    }
+    .search-result-snippet {
+      color: var(--text-primary);
+      line-height: 1.5;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    /* Highlight mark */
+    mark.search-highlight {
+      background-color: #fef08a;
+      color: #1f2937;
+      padding: 1px 3px;
+      border-radius: 3px;
+    }
+    mark.search-highlight.active-match {
+      background-color: #f97316;
+      color: #ffffff;
+      outline: 2px solid #ea580c;
     }
 
     /* Layout Wrapper */
@@ -212,9 +320,7 @@
       font-size: 13px;
       margin-bottom: 14px;
     }
-    .toc-search:focus {
-      outline: 2px solid var(--accent-color);
-    }
+    .toc-search:focus { outline: 2px solid var(--accent-color); }
 
     .toc-list {
       list-style: none;
@@ -237,12 +343,10 @@
       overflow: hidden;
       text-overflow: ellipsis;
     }
-
     .toc-item a:hover {
       background-color: var(--accent-light);
       color: var(--accent-color);
     }
-
     .toc-item.active a {
       background-color: var(--accent-color);
       color: #ffffff;
@@ -257,19 +361,17 @@
       display: flex;
       justify-content: center;
     }
-
     .reader-container {
       width: 100%;
       max-width: var(--content-max-width);
     }
 
-    /* Book Hero / Header */
+    /* Book Hero */
     .book-hero {
       margin-bottom: 40px;
       padding-bottom: 24px;
       border-bottom: 2px solid var(--border-color);
     }
-
     .book-hero h1 {
       font-size: 2.1em;
       line-height: 1.35;
@@ -285,7 +387,6 @@
       gap: 10px;
       margin-top: 14px;
     }
-
     .meta-chip {
       display: inline-flex;
       align-items: center;
@@ -297,8 +398,13 @@
       font-size: 13px;
       font-weight: 500;
     }
+    .meta-chip.cat-badge {
+      background-color: #10b98122;
+      color: #10b981;
+      font-weight: 600;
+    }
 
-    /* Content Typography & Enhanced Paragraphs */
+    /* Content Typography */
     .transcript-section {
       margin-bottom: 50px;
       scroll-margin-top: 80px;
@@ -349,25 +455,22 @@
       letter-spacing: 0.015em;
     }
 
-    /* Indented paragraph style (Traditional) */
+    /* Indented paragraph style */
     [data-p-style="indent"] .section-body p {
       text-indent: 2em;
       margin-bottom: 1.15em;
       line-height: var(--line-height);
     }
 
-    /* Block paragraph style (Modern with whitespace) */
+    /* Block paragraph style */
     [data-p-style="block"] .section-body p {
       text-indent: 0;
       margin-bottom: 1.55em;
       line-height: var(--line-height);
     }
+    .section-body p:last-child { margin-bottom: 0; }
 
-    .section-body p:last-child {
-      margin-bottom: 0;
-    }
-
-    /* Floating Navigation Controls */
+    /* Floating Tools */
     .floating-tools {
       position: fixed;
       bottom: 24px;
@@ -377,7 +480,6 @@
       gap: 10px;
       z-index: 800;
     }
-
     .float-btn {
       width: 44px;
       height: 44px;
@@ -399,7 +501,6 @@
       color: var(--accent-color);
     }
 
-    /* Overlay for mobile drawer */
     .backdrop {
       display: none;
       position: fixed;
@@ -419,36 +520,22 @@
         transform: translateX(-100%);
         box-shadow: 4px 0 16px rgba(0,0,0,0.15);
       }
-
-      .sidebar.open {
-        transform: translateX(0);
-      }
-
-      .backdrop.open {
-        display: block;
+      .sidebar.open { transform: translateX(0); }
+      .backdrop.open { display: block; }
+      .inpage-search-drawer {
+        left: 20px;
+        right: 20px;
+        width: auto;
       }
     }
 
     @media (max-width: 640px) {
-      :root {
-        --font-size: 17px;
-      }
-      .main-content {
-        padding: 24px 16px 60px 16px;
-      }
-      .book-hero h1 {
-        font-size: 1.55em;
-      }
-      .top-header {
-        padding: 0 10px;
-      }
-      .btn-icon {
-        padding: 5px 8px;
-        font-size: 13px;
-      }
-      [data-p-style="indent"] .section-body p {
-        text-indent: 1.5em;
-      }
+      :root { --font-size: 17px; }
+      .main-content { padding: 24px 16px 60px 16px; }
+      .book-hero h1 { font-size: 1.55em; }
+      .top-header { padding: 0 10px; }
+      .btn-icon { padding: 5px 7px; font-size: 12.5px; }
+      [data-p-style="indent"] .section-body p { text-indent: 1.5em; }
     }
   </style>
 </head>
@@ -464,6 +551,14 @@
       <a href="index.html" class="home-link" title="返回書架">
         🏠 書架
       </a>
+      <!-- Search Inside Book Button -->
+      <button class="btn-icon" id="search-toggle-btn" title="搜尋本書內文 (Ctrl+F)">
+        🔍 <span>搜尋內文</span>
+      </button>
+      <!-- Global Search Link -->
+      <a href="index.html?tab=search" class="btn-icon" title="前往全書庫全文檢索">
+        🌐 <span>全庫搜尋</span>
+      </a>
     </div>
 
     <div class="header-right">
@@ -473,7 +568,7 @@
       </button>
 
       <!-- Line Height Toggle -->
-      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 精簡)">
+      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 緊湊)">
         ↕ <span id="line-height-label">行距</span>
       </button>
 
@@ -492,6 +587,29 @@
       <button class="btn-icon" id="font-inc-btn" title="放大字級">A+</button>
     </div>
   </header>
+
+  <!-- In-Page Search Bar Dropdown -->
+  <div class="inpage-search-bar" id="inpage-search-bar">
+    <div class="inpage-search-input-wrapper">
+      <input type="text" id="inpage-search-input" class="inpage-search-input" placeholder="🔍 搜尋本書內文關鍵字 (按 Enter 尋找下一處，Esc 關閉)...">
+      <button class="inpage-search-clear" id="inpage-search-clear" title="清空">✕</button>
+    </div>
+    <span class="inpage-search-count" id="inpage-search-count">0 / 0</span>
+    <div class="search-nav-btns">
+      <button class="btn-icon" id="inpage-search-prev" title="上一處 (Shift+Enter)">▲</button>
+      <button class="btn-icon" id="inpage-search-next" title="下一處 (Enter)">▼</button>
+      <button class="btn-icon" id="inpage-search-close" title="關閉搜尋 (Esc)">✕</button>
+    </div>
+  </div>
+
+  <!-- In-Page Search Results Drawer -->
+  <div class="inpage-search-drawer" id="inpage-search-drawer">
+    <div class="inpage-search-drawer-header">
+      <span>搜尋結果清單</span>
+      <button class="btn-icon" id="inpage-drawer-close" style="padding: 2px 6px;">✕</button>
+    </div>
+    <div class="inpage-search-drawer-list" id="inpage-search-drawer-list"></div>
+  </div>
 
   <div class="backdrop" id="backdrop"></div>
 
@@ -634,6 +752,7 @@
         <header class="book-hero">
           <h1>Think And Grow Rich! (1937 - 1st Edition) by Napoleon Hill</h1>
           <div class="book-meta-chips">
+            <span class="meta-chip cat-badge">💰 財富與投資</span>
             <span class="meta-chip">🏷️ 時長：10:07:29</span>
 <span class="meta-chip">🏷️ 模型：small.en</span>
 <span class="meta-chip">🏷️ 日期：2026-09-22</span>
@@ -641,7 +760,7 @@
         </header>
 
         <!-- Transcript Content -->
-        <div class="book-body">
+        <div class="book-body" id="book-body">
           
         <section class="transcript-section" id="sec-000000">
           <div class="section-header">
@@ -867,8 +986,9 @@
 <p class="prose-p">I made up my mind then, even before you had finished your speech, that I would make a place for myself, no matter how many difficulties I had to surmount. Thousands of young people will finish their schooling this year, and within the next few years. Every one of them will be seeking just such a message of practical encouragement as the one I received from you. They will want to know where to turn, what to do, to get started in life.</p>
 <p class="prose-p">You can tell them, because you have helped to solve the problems of so many, many people. If there is any possible way that you can afford to render so great a service, may I offer this suggestion that you include with every book one of your personal analysis charts, in order that the purchaser of the book may have the benefit of a complete self-inventory, indicating, as you indicated to me years ago, exactly what is standing in the way of success. Such a service as this, providing the readers of your book with a complete, unbiased picture of their faults and their virtues, would mean to them the difference between success and failure.</p>
 <p class="prose-p">The service would be priceless. Millions of people are now facing the problem of staging a comeback, because of the depression, and I speak from personal experience when I say, I know these earnest people would welcome the opportunity to tell you their problems, and to receive your suggestions for the solution. You know the problems of those who face the necessity of beginning all over again. There are thousands of people in America today who would like to know how they can convert ideas into money, people who just started scratch without finances, and recoup their losses.</p>
-<p class="prose-p">If anyone can help them, you can. If you publish the book, I would like to own the first copy that comes from the press, personally autographed by you. The best wishes, believe me. Cordially yours, Jennings Randolph.</p>
-<h4 class="section-subhead">Chapter 2 DESIRE THE STARTING POINT OF ALL ACHIEVEMENT THE FIRST STEP TOWARD RICHES.</h4>
+<p class="prose-p">If anyone can help them, you can. If you publish the book, I would like to own the first copy that comes from the press, personally autographed by you. The best wishes, believe me. Cordially yours, Jennings Randolph.
+
+#### Chapter 2 DESIRE THE STARTING POINT OF ALL ACHIEVEMENT THE FIRST STEP TOWARD RICHES.</p>
 <p class="prose-p">When Edwin C. Barnes climbed down from the freight train in Orange, New Jersey more than</p>
           </div>
         </section>
@@ -1257,10 +1377,11 @@
 <p class="prose-p">What happened to some of the men who took their share of the millions of dollars of profit made by this transaction is a matter with which we are not now concerned. The important feature of the astounding achievement is that it serves as unquestionable evidence of the soundness of the philosophy described in this book, because this philosophy was the warp and the woof of the entire transaction.</p>
 <p class="prose-p">Moreover, the practiceability of the philosophy has been established by the fact that the United States Steel Corporation prospered and became one of the richest and most powerful corporations in America, employing thousands of people, developing new uses for steel, and opening new markets, thus proving that the six hundred million dollars in profit which the Schwab idea produced was earned. Riches begin in the form of thought. The amount is limited only by the person in whose mind the thought is put into motion.</p>
 <p class="prose-p">Faith removes limitations. Remember this when you are ready to bargain with life for whatever it is that you ask as your price for having passed this way. Remember also that the man who created the United States Steel Corporation was practically unknown at the time. He was merely Andrew Carnegie’s Man Friday until he gave birth to his famous idea.</p>
-<p class="prose-p">After that he quickly rose to a position of power, fame, and riches. There are no limitations to the mind, except those we acknowledge. Both poverty and riches are the offspring of thought.</p>
-<h4 class="section-subhead">Chapter 4 Autosuggestion The Medium for Influencing the Subconscious Mind The Third Step Toward Riches Autosuggestion is a term which applies to all suggestions and all self-administered stimuli which reach one’s mind through the five senses.</h4>
-<p class="prose-p">Stated in another way, autosuggestion is self-suggestion. It is the agency of communication between that part of the mind where conscious thought takes place and that which serves as the seat of action for the subconscious mind. Through the dominating thoughts which one permits to remain in the conscious mind, whether these thoughts be negative or positive is immaterial. The principle of auto-suggestion voluntarily reaches the subconscious mind and influences it with these thoughts.</p>
-<p class="prose-p">No thought, whether it be negative or positive, can enter the subconscious mind without the aid of the principle of auto-suggestion, with the exception of thoughts picked up from the ether. Stated differently, all sense impressions which are perceived through the five senses are stopped by the conscious thinking mind and may be either passed on to the subconscious mind or rejected at will. The conscious faculty serves, therefore, as an outer guard to the approach of the subconscious. Nature has so built man that he has absolute control over the material which reaches his subconscious mind through his five senses, although this is not meant to be construed as a statement that man always exercises this control.</p>
+<p class="prose-p">After that he quickly rose to a position of power, fame, and riches. There are no limitations to the mind, except those we acknowledge. Both poverty and riches are the offspring of thought.
+
+#### Chapter 4 Autosuggestion The Medium for Influencing the Subconscious Mind The Third Step Toward Riches Autosuggestion is a term which applies to all suggestions and all self-administered stimuli which reach one’s mind through the five senses. Stated in another way, autosuggestion is self-suggestion.</p>
+<p class="prose-p">It is the agency of communication between that part of the mind where conscious thought takes place and that which serves as the seat of action for the subconscious mind. Through the dominating thoughts which one permits to remain in the conscious mind, whether these thoughts be negative or positive is immaterial. The principle of auto-suggestion voluntarily reaches the subconscious mind and influences it with these thoughts. No thought, whether it be negative or positive, can enter the subconscious mind without the aid of the principle of auto-suggestion, with the exception of thoughts picked up from the ether.</p>
+<p class="prose-p">Stated differently, all sense impressions which are perceived through the five senses are stopped by the conscious thinking mind and may be either passed on to the subconscious mind or rejected at will. The conscious faculty serves, therefore, as an outer guard to the approach of the subconscious. Nature has so built man that he has absolute control over the material which reaches his subconscious mind through his five senses, although this is not meant to be construed as a statement that man always exercises this control.</p>
 <p class="prose-p">In the great majority of instances he does not exercise it, which explains why so many people go through life in poverty. Recall what has been said about the subconscious mind resembling a fertile garden spot in which</p>
           </div>
         </section>
@@ -1319,10 +1440,10 @@
 <p class="prose-p">Man may become the master of himself, and of his environment, because he has the power to influence his own subconscious mind, and through it gain the cooperation of infinite intelligence. You are now reading the chapter, which represents the keystone to the art of this philosophy. The instructions contained in this chapter must be understood and applied with persistence if you succeed in transmuting desire into money. The actual performance of transmuting desire into money involves the use of auto-suggestion as an agency by which one may reach and influence the subconscious mind.</p>
 <p class="prose-p">The other principles are simply tools with which to apply auto-suggestion. Get this thought in mind, and you will at all times be conscious of the important part the principle of auto-suggestion is to play in your efforts to accumulate money through the methods described in this book. Carry out these instructions as though you were a small child. Inject into your effort something of the faith of a child.</p>
 <p class="prose-p">The author has been most careful to see that no impractical instructions were included because of his sincere desire to be helpful. After you have read the entire book, come back to this chapter and follow in spirit and in action this instruction. Read the entire chapter aloud once every night, until you become thoroughly convinced that the principle of auto-suggestion is sound, that it will accomplish for you all that has been claimed for it. As you read, underscore with a pencil every sentence which impresses you favorably.</p>
-<p class="prose-p">Follow the foregoing instruction to the letter, and it will open the way for a complete understanding and mastery of the principles of success.</p>
-<h4 class="section-subhead">Chapter 5 Specialized Knowledge Personal Experiences or Observations The Fourth Step Toward Riches There are two kinds of knowledge.</h4>
-<p class="prose-p">One is general, the other is specialized. General knowledge, no matter how great in quantity or variety it may be, is of but little use in the accumulation of money. The faculties of the great universities possess, in the aggregate, practically every form of general knowledge known to civilization. Most of the professors have but little or no money.</p>
-<p class="prose-p">They specialize on teaching knowledge, but they do not specialize on the organization or the use of knowledge. Knowledge will not attract money unless it is organized and intelligently directed, through practical plans of action, to the definite end of accumulation of money. Lack of understanding of this fact has been the source of confusion to millions of people who falsely believe that knowledge is power.</p>
+<p class="prose-p">Follow the foregoing instruction to the letter, and it will open the way for a complete understanding and mastery of the principles of success.
+
+#### Chapter 5 Specialized Knowledge Personal Experiences or Observations The Fourth Step Toward Riches There are two kinds of knowledge. One is general, the other is specialized. General knowledge, no matter how great in quantity or variety it may be, is of but little use in the accumulation of money. The faculties of the great universities possess, in the aggregate, practically every form of general knowledge known to civilization.</p>
+<p class="prose-p">Most of the professors have but little or no money. They specialize on teaching knowledge, but they do not specialize on the organization or the use of knowledge. Knowledge will not attract money unless it is organized and intelligently directed, through practical plans of action, to the definite end of accumulation of money. Lack of understanding of this fact has been the source of confusion to millions of people who falsely believe that knowledge is power.</p>
           </div>
         </section>
         
@@ -1457,11 +1578,12 @@
 <p class="prose-p">It must not be supposed that her plan merely consists of clever salesmanship by which she helps men and women to demand and receive more money for the same services they formerly sold for less pay. She looks after the interests of the purchaser as well as the seller of personal services, and so prepares her plans that the employer receives full value for the additional money he pays. The method by which she accomplishes this astonishing result is a professional secret which she discloses to no one, excepting her own clients.</p>
 <p class="prose-p">If you have the imagination and seek a more profitable outlet for your personal services, this suggestion may be the stimulus for which you have been searching. The idea is capable of yielding an income far greater than that of the average doctor, lawyer, or engineer whose education required several years in college. The idea is salable to those seeking new positions, in practically all positions calling for managerial or executive ability, and those desiring rearrangement of incomes in their present positions. There is no fixed price for sound ideas.</p>
 <p class="prose-p">Back of all ideas is specialized knowledge, unfortunately. For those who do not find riches in abundance, specialized knowledge is more abundant and more easily acquired than ideas. Because of this very truth, there is a universal demand and an ever-increasing opportunity for the person capable of helping men and women to sell their personal services advantageously. Capability means imagination, the one quality needed to combine specialized knowledge with ideas in the form of organized plans designed to yield riches.</p>
-<p class="prose-p">If you have imagination, this chapter may present you with an idea sufficient to serve as the beginning of the riches you desire. Remember, the idea is the main thing. Specialized knowledge may be found just around the corner, any corner.</p>
-<h4 class="section-subhead">Chapter 6 Imagination The Workshop of the Mind, the Fifth Step Toward Riches The Imagination is literally the workshop wherein are fashioned all plans created by man.</h4>
-<p class="prose-p">The impulse, the desire, is given shape, form, and action through the aid of the imaginative faculty of the mind. It has been said that man can create anything which he can imagine. Of all the ages of civilization, this is the most favorable for the development of the imagination, because it is an age of rapid change. On every hand one may contact stimuli which develops the imagination.</p>
-<p class="prose-p">Through the aid of his imaginative faculty, man has discovered and harnessed more of nature’s forces during the past fifty years than during the entire history of the human race, previous to that time. He has conquered the air so completely that the birds are a poor match for him in flying. He has harnessed the ether and made it serve as a means of instantaneous communication with any part of the world. He has analyzed and weighed the sun at a distance of millions of miles, and has determined, through the aid of imagination, the elements of which it consists.</p>
-<p class="prose-p">He has discovered that his own brain is both a broadcasting and a receiving station for the vibration of thought, and he is beginning now to learn how to make practical use of this discovery. He has increased the speed of locomotion until he may now travel at a speed of more than three hundred miles an hour.</p>
+<p class="prose-p">If you have imagination, this chapter may present you with an idea sufficient to serve as the beginning of the riches you desire. Remember, the idea is the main thing. Specialized knowledge may be found just around the corner, any corner.
+
+#### Chapter 6 Imagination The Workshop of the Mind, the Fifth Step Toward Riches The Imagination is literally the workshop wherein are fashioned all plans created by man. The impulse, the desire, is given shape, form, and action through the aid of the imaginative faculty of the mind.</p>
+<p class="prose-p">It has been said that man can create anything which he can imagine. Of all the ages of civilization, this is the most favorable for the development of the imagination, because it is an age of rapid change. On every hand one may contact stimuli which develops the imagination. Through the aid of his imaginative faculty, man has discovered and harnessed more of nature’s forces during the past fifty years than during the entire history of the human race, previous to that time.</p>
+<p class="prose-p">He has conquered the air so completely that the birds are a poor match for him in flying. He has harnessed the ether and made it serve as a means of instantaneous communication with any part of the world. He has analyzed and weighed the sun at a distance of millions of miles, and has determined, through the aid of imagination, the elements of which it consists. He has discovered that his own brain is both a broadcasting and a receiving station for the vibration of thought, and he is beginning now to learn how to make practical use of this discovery.</p>
+<p class="prose-p">He has increased the speed of locomotion until he may now travel at a speed of more than three hundred miles an hour.</p>
           </div>
         </section>
         
@@ -1602,13 +1724,13 @@
 <p class="prose-p">Ideas are intangible forces, but they have more power than the physical brains that give birth to them. They have the power to live on, after the brain that creates them has returned to dust.</p>
 <p class="prose-p">For example, take the power of Christianity. That began with a simple idea born in the brain of Christ. Its chief tenet was, Do unto others as you would have others do unto you. Christ has gone back to the source from whence He came, but His idea goes marching on.</p>
 <p class="prose-p">Some day it may grow up and come into its own. Then it will have fulfilled Christ’s deepest desire. The idea has been developing only two thousand years. Give it time.</p>
-<p class="prose-p">Success requires no explanations. Failure permits no alibis.</p>
-<h4 class="section-subhead">Chapter 7 Organized Planning The Crystallization of Desire into Action The Sixth Step Toward Riches You have learned that everything man creates or acquires begins in the form of desire.</h4>
-<p class="prose-p">That desire is taken on the first lap of its journey, from the abstract to the concrete, into the workshop of the imagination, where plans for its transition are created and organized. In Chapter 2 you are instructed to take six definite practical steps as your first move in translating the desire for money into its monetary equivalent. One of these steps is the formation of a definite practical plan, or plans, through which this transformation may be made. You will now be instructed how to build plans which will be practical, vis-a.</p>
-<p class="prose-p">Apply yourself with a group of as many people as you may need for the creation and carrying out of your plan or plans for the accumulation of money, making use of the mastermind principle described in a later chapter. Compliance with this instruction is absolutely essential. Do not neglect it. B.</p>
-<p class="prose-p">Before forming your mastermind alliance, decide what advantages and benefits you may offer the individual members of your group in return for their cooperation. No one will work indefinitely without some form of compensation. No intelligent person will either request or expect another to work without adequate compensation, although this may not always be in the form of money. C.</p>
-<p class="prose-p">Arrange to meet with the members of your mastermind group at least twice a week and more often if possible, until you have jointly perfected the necessary plan or plans for the accumulation of money. D. Maintain perfect harmony between yourself and every member of your mastermind group. If you fail to carry out this instruction to the letter, you may expect to meet with failure.</p>
-<p class="prose-p">The mastermind principle cannot obtain where perfect harmony does not prevail. Keep in mind these facts.</p>
+<p class="prose-p">Success requires no explanations. Failure permits no alibis.
+
+#### Chapter 7 Organized Planning The Crystallization of Desire into Action The Sixth Step Toward Riches You have learned that everything man creates or acquires begins in the form of desire. That desire is taken on the first lap of its journey, from the abstract to the concrete, into the workshop of the imagination, where plans for its transition are created and organized. In Chapter 2 you are instructed to take six definite practical steps as your first move in translating the desire for money into its monetary equivalent.</p>
+<p class="prose-p">One of these steps is the formation of a definite practical plan, or plans, through which this transformation may be made. You will now be instructed how to build plans which will be practical, vis-a. Apply yourself with a group of as many people as you may need for the creation and carrying out of your plan or plans for the accumulation of money, making use of the mastermind principle described in a later chapter. Compliance with this instruction is absolutely essential.</p>
+<p class="prose-p">Do not neglect it. B. Before forming your mastermind alliance, decide what advantages and benefits you may offer the individual members of your group in return for their cooperation. No one will work indefinitely without some form of compensation.</p>
+<p class="prose-p">No intelligent person will either request or expect another to work without adequate compensation, although this may not always be in the form of money. C. Arrange to meet with the members of your mastermind group at least twice a week and more often if possible, until you have jointly perfected the necessary plan or plans for the accumulation of money. D.</p>
+<p class="prose-p">Maintain perfect harmony between yourself and every member of your mastermind group. If you fail to carry out this instruction to the letter, you may expect to meet with failure. The mastermind principle cannot obtain where perfect harmony does not prevail. Keep in mind these facts.</p>
 <p class="prose-p">First, you are engaged in an undertaking of major importance to you. To be sure of success, you must have plans which are faultless.</p>
 <p class="prose-p">Second, you must have the advantage of the experience, education, native ability, and imagination of other minds. This is in harmony with the methods followed by every person who has accumulated a great fortune. No individual has sufficient experience, education, native ability, and knowledge to ensure the accumulation of a great fortune without the cooperation of other people. Every plan you adopt in your endeavor to accumulate wealth should be the joint creation of yourself and every other member of your mastermind group.</p>
 <p class="prose-p">You may originate your own plans, either in whole or in part, but see that those plans are checked and approved by the members of your mastermind alliance. If the first plan which you adopt does not work successfully, replace it with a new plan. If this new plan fails to work, replace it, in turn with still another, and so on, until you find a plan which does work. Right here is the point at which the majority of men meet with failure, because of their lack of persistence in creating new plans to take the place of those which fail.</p>
@@ -2004,13 +2126,13 @@
 <p class="prose-p">Doubtless, we shall prefer to continue with our freedom of speech, freedom of deed, and freedom to render useful service in return for riches. The practice, by government officials, of extending to men and women the privilege of raiding the public treasury in return for votes, sometimes results in election. But as night follows day, the final payoff comes. When every penny wrongfully used must be repaid with compound interest on compound interest, if those who make the grab are not forced to repay, the burden falls on their children and their children’s children, even unto the third and fourth generations.</p>
 <p class="prose-p">There is no way to avoid the debt. Men can, and sometimes do, form themselves into groups for the purpose of crowding wages up and working hours down. There is a point beyond which they cannot go. It is the point at which the law of economics steps in, and the sheriff gets both the employer and the employees.</p>
 <p class="prose-p">For six years, from 1929 to 1935, the people of America, both rich and poor, barely missed seeing the old man economics hand over to the sheriff all the businesses and industries and banks. It was not a pretty sight. It did not increase our respect for mob psychology, through which men cast reason to the winds and start trying to get without giving. We who went through those six discouraging years, when fear was in the saddle, and faith was on the ground, cannot forget how ruthlessly the law of economics exacted its toll from both the rich and poor, weak and strong, old and young.</p>
-<p class="prose-p">We shall not wish to go through another such experience. These observations are not founded upon short-time experience. They are the result of twenty-five years of careful analysis of the methods of both the most successful and the most unsuccessful men America has known.</p>
-<h4 class="section-subhead">CHAPTER VIII.</h4>
-<p class="prose-p">DECISION. The Mastery of Procrastination. The Seventh Step Toward Riches. Accurate analysis of over twenty-five thousand men and women who had experienced failure disclosed the fact that lack of decision was near the head of the list of the thirty major causes of failure.</p>
-<p class="prose-p">This is no mere statement of a theory. It is a fact. Procrastination, the opposite of decision, is a common enemy which practically every man must conquer. You will have an opportunity to test your capacity to reach quick and definite decisions when you finish reading this book, and are ready to begin putting into action the principles which it describes.</p>
-<p class="prose-p">Analysis of several hundred people who had accumulated fortunes well beyond the million-dollar mark disclosed the fact that every one of them had the habit of reaching decisions promptly, and of changing these decisions slowly, if, and when they were changed. People who fail to accumulate money, without exception, have the habit of reaching decisions, if at all, very slowly, and of changing these decisions quickly and often. One of Henry Ford’s most outstanding qualities is his habit of reaching decisions quickly and definitely, and changing them slowly.</p>
-<p class="prose-p">This quality is so pronounced in Mr. Ford that it is given him the reputation of being obstinate. It was this quality which prompted Mr. Ford to continue to manufacture his famous Model T, the world’s ugliest car, when all of his advisers and many of the purchasers of the car were urging him to change it. Perhaps Mr. Ford delayed too long in making the change, but the other side of the story is that Mr. Ford’s firmness of decision yielded a huge fortune before the change in model became necessary.</p>
-<p class="prose-p">There is but little doubt</p>
+<p class="prose-p">We shall not wish to go through another such experience. These observations are not founded upon short-time experience. They are the result of twenty-five years of careful analysis of the methods of both the most successful and the most unsuccessful men America has known.
+
+#### CHAPTER VIII. DECISION.</p>
+<p class="prose-p">The Mastery of Procrastination. The Seventh Step Toward Riches. Accurate analysis of over twenty-five thousand men and women who had experienced failure disclosed the fact that lack of decision was near the head of the list of the thirty major causes of failure. This is no mere statement of a theory.</p>
+<p class="prose-p">It is a fact. Procrastination, the opposite of decision, is a common enemy which practically every man must conquer. You will have an opportunity to test your capacity to reach quick and definite decisions when you finish reading this book, and are ready to begin putting into action the principles which it describes. Analysis of several hundred people who had accumulated fortunes well beyond the million-dollar mark disclosed the fact that every one of them had the habit of reaching decisions promptly, and of changing these decisions slowly, if, and when they were changed.</p>
+<p class="prose-p">People who fail to accumulate money, without exception, have the habit of reaching decisions, if at all, very slowly, and of changing these decisions quickly and often. One of Henry Ford’s most outstanding qualities is his habit of reaching decisions quickly and definitely, and changing them slowly. This quality is so pronounced in Mr. Ford that it is given him the reputation of being obstinate. It was this quality which prompted Mr. Ford to continue to manufacture his famous Model T, the world’s ugliest car, when all of his advisers and many of the purchasers of the car were urging him to change it.</p>
+<p class="prose-p">Perhaps Mr. Ford delayed too long in making the change, but the other side of the story is that Mr. Ford’s firmness of decision yielded a huge fortune before the change in model became necessary. There is but little doubt</p>
           </div>
         </section>
         
@@ -2121,16 +2243,16 @@
           <div class="section-body">
             <p class="prose-p">the knowledge of how to choose an employer. Success of decision always requires courage, sometimes very great courage. The fifty-six men who signed the Declaration of Independence stake their lives on the decision to affix their signatures to that document. The person who reaches a definite decision to procure the particular job and make life pay the price he asks does not stake his life on that decision.</p>
 <p class="prose-p">He stakes his economic freedom. All independence, riches, desirable business and professional positions are not within reach of the person who neglects or refuses to expect, plan, and demand these things. The person who desires riches in the same spirit that Samuel Adams desired freedom for the colonies is sure to accumulate wealth. In the chapter on organized planning you will find complete instructions for marketing every type of personal services.</p>
-<p class="prose-p">You will find also detailed information on how to choose the employer you prefer and the particular job you desire. These instructions will be of no value to you unless you definitely decide to organize them into a plan of action.</p>
-<h4 class="section-subhead">Chapter 9 Persistence The Sustained Effort Necessary to Induce Faith The Eighth Step Toward Riches Persistence is an essential factor in the procedure of transmuting desire into its monetary equivalent.</h4>
-<p class="prose-p">The basis of persistence is the power of will. Will power and desire, when properly combined, make an irresistible pair. Men who accumulate great fortunes are generally known as cold-blooded and sometimes ruthless. When they are misunderstood, what they have is will power, which they mix with persistence and place back of their desires to ensure the attainment of their objectives.</p>
-<p class="prose-p">Henry Ford has been generally misunderstood to be ruthless and cold-blooded. This misconception grew out of Ford’s habit of following through in all of his plans with persistence. The majority of people are ready for it. to throw their aims and purposes overboard, and give up at the first sign of opposition or misfortune. A few carry on despite all opposition, until they attain their goal.</p>
-<p class="prose-p">These few are the Fords, Carnegies, Rockefellers, and Edisons. There may be no heroic connotation to the word persistence, but the quality is to the character of man what carbon is to appeal. The building of a fortune, generally, involves the application of the entire thirteen factors of this philosophy. These principles must be understood.</p>
-<p class="prose-p">They must be applied with persistence by all who accumulate money. If you are following this book with the intention of applying the knowledge it conveys, your first test as to your persistence will come when you begin to follow the six steps described in the second chapter. Unless you are one of the two out of every hundred who already have a definite goal at which you are aiming, and a definite plan for its attainment, you may read the instructions, and then pass on with your daily routine, and never comply with those instructions.</p>
-<p class="prose-p">The author is checking you up at this point, because lack of persistence is one of the major causes of failure. Moreover, experience with thousands of people has proved that lack of persistence is a weakness common to the majority of men. It is a weakness which may be overcome by effort. The ease with which lack of persistence may be conquered will depend entirely upon the intensity of one’s desire.</p>
-<p class="prose-p">The starting point of all achievement is desire. Keep this constantly in mind. Weak desires bring weak results, just as a small amount of fire makes a small amount of heat. If you find yourself lacking in persistence, this weakness may be remedied by building a stronger fire under your desires.</p>
-<p class="prose-p">Continue to read through to the end, then go back to chapter two, and start immediately to carry out the instructions given in connection with the six steps. The eagerness with which you follow these instructions will indicate clearly how much or how little you really desire to accumulate money. If you find that you are indifferent, you may be sure that you have not yet acquired the money-consciousness which you must possess before you can be sure of accumulating a fortune. Fortunes gravitate to men whose minds have been prepared to attract them, just as surely as water gravitates to the ocean.</p>
-<p class="prose-p">In this book may be found all the stimuli necessary</p>
+<p class="prose-p">You will find also detailed information on how to choose the employer you prefer and the particular job you desire. These instructions will be of no value to you unless you definitely decide to organize them into a plan of action.
+
+#### Chapter 9 Persistence The Sustained Effort Necessary to Induce Faith The Eighth Step Toward Riches Persistence is an essential factor in the procedure of transmuting desire into its monetary equivalent. The basis of persistence is the power of will. Will power and desire, when properly combined, make an irresistible pair.</p>
+<p class="prose-p">Men who accumulate great fortunes are generally known as cold-blooded and sometimes ruthless. When they are misunderstood, what they have is will power, which they mix with persistence and place back of their desires to ensure the attainment of their objectives. Henry Ford has been generally misunderstood to be ruthless and cold-blooded. This misconception grew out of Ford’s habit of following through in all of his plans with persistence.</p>
+<p class="prose-p">The majority of people are ready for it. to throw their aims and purposes overboard, and give up at the first sign of opposition or misfortune. A few carry on despite all opposition, until they attain their goal. These few are the Fords, Carnegies, Rockefellers, and Edisons. There may be no heroic connotation to the word persistence, but the quality is to the character of man what carbon is to appeal.</p>
+<p class="prose-p">The building of a fortune, generally, involves the application of the entire thirteen factors of this philosophy. These principles must be understood. They must be applied with persistence by all who accumulate money. If you are following this book with the intention of applying the knowledge it conveys, your first test as to your persistence will come when you begin to follow the six steps described in the second chapter.</p>
+<p class="prose-p">Unless you are one of the two out of every hundred who already have a definite goal at which you are aiming, and a definite plan for its attainment, you may read the instructions, and then pass on with your daily routine, and never comply with those instructions. The author is checking you up at this point, because lack of persistence is one of the major causes of failure.</p>
+<p class="prose-p">Moreover, experience with thousands of people has proved that lack of persistence is a weakness common to the majority of men. It is a weakness which may be overcome by effort. The ease with which lack of persistence may be conquered will depend entirely upon the intensity of one’s desire. The starting point of all achievement is desire.</p>
+<p class="prose-p">Keep this constantly in mind. Weak desires bring weak results, just as a small amount of fire makes a small amount of heat. If you find yourself lacking in persistence, this weakness may be remedied by building a stronger fire under your desires. Continue to read through to the end, then go back to chapter two, and start immediately to carry out the instructions given in connection with the six steps.</p>
+<p class="prose-p">The eagerness with which you follow these instructions will indicate clearly how much or how little you really desire to accumulate money. If you find that you are indifferent, you may be sure that you have not yet acquired the money-consciousness which you must possess before you can be sure of accumulating a fortune. Fortunes gravitate to men whose minds have been prepared to attract them, just as surely as water gravitates to the ocean. In this book may be found all the stimuli necessary</p>
           </div>
         </section>
         
@@ -2298,14 +2420,15 @@
 <p class="prose-p">It was this political heresy plus Muhammad’s desire to destroy all the three hundred sixty idols in the courtyard of the Kaaba which brought about his banishment. The idols brought the desert tribes to Mecca, and that meant trade. So the businessmen of Mecca, the capitalists, of which he had been one, set upon Muhammad. Then he retreated to the desert and demanded sovereignty over the world.</p>
 <p class="prose-p">The rise of Islam began. Out of the desert came a flame which would not be extinguished, a democratic army fighting as a unit and prepared to die without wincing. Muhammad had invited the Jews and Christians to join him. For he was not building a new religion.</p>
 <p class="prose-p">He was calling all who believed in one God to join in a single faith. If the Jews and Christians had accepted his invitation, Islam would have conquered the world. They didn’t. They would not even accept Muhammad’s innovation of humane warfare.</p>
-<p class="prose-p">When the armies of the Prophet entered Jerusalem, not a single person was killed because of his faith. When the Crusaders entered the city centuries later, not a Muslim man, woman, or child was spared. But the Christians did accept one Muslim idea, the place of learning, the university.</p>
-<h4 class="section-subhead">Chapter 10 Power of the Mastermind The Driving Force The Ninth Step Toward Riches Power is essential for success in the accumulation of money.</h4>
-<p class="prose-p">Christians are inert and useless, without sufficient power to translate them into action. This chapter will describe the method by which an individual may attain and apply power. Power may be defined as organized and intelligently directed knowledge. Power, as the term is here used, refers to organized effort, sufficient to enable an individual to transmute desire into its monetary equivalent.</p>
-<p class="prose-p">Organized effort is produced through the coordination of effort of two or more people who work toward a definite end in a spirit of harmony. Power is required for the accumulation of money. Power is necessary for the retention of money after it has been accumulated. Let us ascertain how power may be acquired.</p>
-<p class="prose-p">If power is organized knowledge, let us examine the sources of knowledge. Infinite Intelligence This source of knowledge may be contacted through the procedure described in another chapter, with the aid of creative imagination. Accumulated Experience The accumulated experience of man, or that portion of it which has been organized and recorded, may be found in any well-equipped public library. An important part of this accumulated experience is taught in public schools and colleges, where it has been classified and organized.</p>
-<p class="prose-p">See Experiment and Research In the field of science and in practically every other walk of life, men are gathering, classifying, and organizing new facts daily. This is the source to which one must turn when knowledge is not available through accumulated experience. Here, too, the creative imagination must often be used. Knowledge may be acquired from any of the foregoing sources.</p>
-<p class="prose-p">It may be converted into power by organizing it into definite plans, and by expressing those plans in terms of action. Examination of the three major sources of knowledge will readily disclose the difficulty an individual would have if he depended upon his efforts alone in assembling knowledge and expressing it through definite plans in terms of action. If his plans are comprehensive, and if they contemplate large proportions, he must, generally, induce others to cooperate with him before he can inject into them the necessary element of power.</p>
-<p class="prose-p">Gaining Power Through the Mastermind The Mastermind may be defined as coordination of knowledge and effort in a spirit of harmony between two or more people for the attainment of a definite purpose. No individual may have great power without availing himself of the Mastermind. In a preceding chapter, instructions were given for the creation of plans for the purpose of translating desire into its monetary equivalent. If you carry out these instructions with persistence and intelligence and use discrimination in</p>
+<p class="prose-p">When the armies of the Prophet entered Jerusalem, not a single person was killed because of his faith. When the Crusaders entered the city centuries later, not a Muslim man, woman, or child was spared. But the Christians did accept one Muslim idea, the place of learning, the university.
+
+#### Chapter 10 Power of the Mastermind The Driving Force The Ninth Step Toward Riches Power is essential for success in the accumulation of money. Christians are inert and useless, without sufficient power to translate them into action.</p>
+<p class="prose-p">This chapter will describe the method by which an individual may attain and apply power. Power may be defined as organized and intelligently directed knowledge. Power, as the term is here used, refers to organized effort, sufficient to enable an individual to transmute desire into its monetary equivalent. Organized effort is produced through the coordination of effort of two or more people who work toward a definite end in a spirit of harmony.</p>
+<p class="prose-p">Power is required for the accumulation of money. Power is necessary for the retention of money after it has been accumulated. Let us ascertain how power may be acquired. If power is organized knowledge, let us examine the sources of knowledge.</p>
+<p class="prose-p">Infinite Intelligence This source of knowledge may be contacted through the procedure described in another chapter, with the aid of creative imagination. Accumulated Experience The accumulated experience of man, or that portion of it which has been organized and recorded, may be found in any well-equipped public library. An important part of this accumulated experience is taught in public schools and colleges, where it has been classified and organized. See Experiment and Research In the field of science and in practically every other walk of life, men are gathering, classifying, and organizing new facts daily.</p>
+<p class="prose-p">This is the source to which one must turn when knowledge is not available through accumulated experience. Here, too, the creative imagination must often be used. Knowledge may be acquired from any of the foregoing sources. It may be converted into power by organizing it into definite plans, and by expressing those plans in terms of action.</p>
+<p class="prose-p">Examination of the three major sources of knowledge will readily disclose the difficulty an individual would have if he depended upon his efforts alone in assembling knowledge and expressing it through definite plans in terms of action. If his plans are comprehensive, and if they contemplate large proportions, he must, generally, induce others to cooperate with him before he can inject into them the necessary element of power. Gaining Power Through the Mastermind The Mastermind may be defined as coordination of knowledge and effort in a spirit of harmony between two or more people for the attainment of a definite purpose.</p>
+<p class="prose-p">No individual may have great power without availing himself of the Mastermind. In a preceding chapter, instructions were given for the creation of plans for the purpose of translating desire into its monetary equivalent. If you carry out these instructions with persistence and intelligence and use discrimination in</p>
           </div>
         </section>
         
@@ -2362,8 +2485,9 @@
 <p class="prose-p">If you are in the side of the stream of power which leads to poverty, this may serve as an oar by which you may propel yourself over into the other side of the stream. It can serve you only through the application and use. Merely reading and passing judgment on it, either one way or another, will in no way benefit you. Some people undergo the experience of alternating between the positive and negative sides of the stream, being at times on the positive side and at times on the negative side.</p>
 <p class="prose-p">The Wall Street crash of twenty-nine swept millions of people from the positive side to the negative side of the stream. These millions are struggling, some of them in desperation and fear, to get back to the positive side of the stream. This book was written especially for those millions. Poverty and riches often change places.</p>
 <p class="prose-p">The crash taught the world this truth, although the world will not long remember the lesson. Poverty may, and generally does, voluntarily take the place of riches. When riches take the place of poverty, the change is usually brought about through well-conceived and carefully executed plans. Poverty needs no plan.</p>
-<p class="prose-p">It needs no one to aid it because it is bold and ruthless. Riches are shy and timid. They have to be attracted. Anybody can wish for riches, and most people do, but only a few know that a definite plan plus a burning desire for wealth are the only dependable means of accumulating wealth.</p>
-<h4 class="section-subhead">Chapter 11 The Mystery of Sex Transmutation The Tenth Step Toward Riches The meaning of the word transmute is, in simple language, the changing or transferring of one element or form of energy into another.</h4>
+<p class="prose-p">It needs no one to aid it because it is bold and ruthless. Riches are shy and timid. They have to be attracted. Anybody can wish for riches, and most people do, but only a few know that a definite plan plus a burning desire for wealth are the only dependable means of accumulating wealth.
+
+#### Chapter 11 The Mystery of Sex Transmutation The Tenth Step Toward Riches The meaning of the word transmute is, in simple language, the changing or transferring of one element or form of energy into another.</p>
 <p class="prose-p">The emotion of sex brings into being a state of mind. Because of ignorance on the subject, this state of mind is generally associated with the physical, and because of improper influences to which most people have been subjected in acquiring knowledge of sex, things essentially physical have highly biased the mind. The emotion of sex has back of it the possibility of three constructive potentialities. They are, one, the perpetuation of mankind, two, the maintenance of health.</p>
 <p class="prose-p">As a therapeutic agency, it has no equal, three, the transformation of mediocrity into genius through transmutation. Sex transmutation is simple and easily explained. It means the switching of the mind from thoughts of physical expression to thoughts of some other nature. Sex desire is the most powerful of human desires.</p>
 <p class="prose-p">When driven by this desire, men develop keenness of imagination, courage, will-power, persistence, and creative ability unknown to them at other times. So strong and impelling is the desire for sexual contact that men freely run the risk of life and reputation to indulge it. When harnessed and redirected along other lines, this motivating force maintains all of its attributes of keenness of imagination, courage, etc., which may be used as powerful</p>
@@ -2579,8 +2703,9 @@
           <div class="section-body">
             <p class="prose-p">to satisfy their desire to please women. Take women out of their lives, and great wealth would be useless to most men. It is this inherent desire of man to please woman which gives woman the power to make or break a man. The woman who understands man’s nature and tactfully caters to it need have no fear of competition from other women.</p>
 <p class="prose-p">Men may be giants with indomitable will-power when dealing with other men, but they are easily managed by the women of their choice. Most men will not admit that they are easily influenced by the women they prefer, because it is in the nature of the male to want to be recognized as the stronger of the species.</p>
-<p class="prose-p">Moreover, the intelligent woman recognizes this manly trait and very wisely makes no issue of it. Some men know that they are being influenced by the women of their choice, their wives, sweethearts, mothers, or sisters, but they tactfully refrain from rebelling against the influence because they are intelligent enough to know that no man is happy or complete without the modifying influence of the right woman. The man who does not recognize this important truth deprives himself of the power which has done more to help men achieve success than all other forces combined.</p>
-<h4 class="section-subhead">Chapter 12 The Subconscious Mind The Connecting Link The Eleventh Step Toward Riches The subconscious mind consists of a field of consciousness in which every impulse of thought that reaches the objective mind through any of the five senses is classified and recorded and from which thoughts may be recalled or withdrawn as letters may be taken from a filing cabinet.</h4>
+<p class="prose-p">Moreover, the intelligent woman recognizes this manly trait and very wisely makes no issue of it. Some men know that they are being influenced by the women of their choice, their wives, sweethearts, mothers, or sisters, but they tactfully refrain from rebelling against the influence because they are intelligent enough to know that no man is happy or complete without the modifying influence of the right woman. The man who does not recognize this important truth deprives himself of the power which has done more to help men achieve success than all other forces combined.
+
+#### Chapter 12 The Subconscious Mind The Connecting Link The Eleventh Step Toward Riches The subconscious mind consists of a field of consciousness in which every impulse of thought that reaches the objective mind through any of the five senses is classified and recorded and from which thoughts may be recalled or withdrawn as letters may be taken from a filing cabinet.</p>
 <p class="prose-p">It receives and files sense impressions or thoughts, regardless of their nature. You may voluntarily plant in your subconscious mind any plan, thought, or purpose which you desire to translate into its physical or monetary equivalent. The subconscious acts first on the dominating desires which have been mixed with emotional feeling, such as faith. Consider this in connection with the instructions given in the chapter on desire for taking the six steps there outlined and the instructions given in the chapter on the building and execution of plans, and you will understand the importance of the thought conveyed.</p>
 <p class="prose-p">The subconscious mind works day and night. Through a method of procedure unknown to man, the subconscious mind draws upon the forces of infinite intelligence for the power with which it voluntarily transmutes one’s desires into their physical equivalent, making use always of the most practical media by which this end may be accomplished. You cannot entirely control your subconscious mind, but you can voluntarily hand it over to any plan, desire, or purpose which you wish transformed into concrete form. Meet again instructions for using the subconscious mind in the chapter on auto-suggestion.</p>
 <p class="prose-p">There is plenty of evidence to support the belief that the subconscious mind is the connecting link between the finite mind of man and infinite intelligence. It is the intermediary through which one may draw upon the forces of infinite intelligence at will. It, alone, contains the secret process by which mental impulses are modified and changed into their spiritual equivalent. It alone is the medium through which prayer may be transmitted to the source capable of answering prayer.</p>
@@ -2642,10 +2767,10 @@
 <p class="prose-p">You may buy prayer books and repeat them until the day of your doom, without avail. Thoughts which you wish to communicate to infinite intelligence must undergo transformation, such as can be given only through your own subconscious mind. The method by which you may communicate with infinite intelligence is very similar to that through which the vibration of sound is communicated by radio. If you understand the working principle of radio, you, of course, know that sound cannot be communicated through the ether until it has been stepped up or changed into a rate of vibration which the human ear cannot detect.</p>
 <p class="prose-p">The radio-sending station picks up the sound of the human voice and scrambles or modifies it by stepping up the vibration millions of times. Only in this way can the vibration of sound be communicated through the ether. After this transformation has taken place, the ether picks up the energy, which originally was in the form of vibrations of sound, carries that energy to radio-receiving stations, and these receiving sets step that energy back down to its original rate of vibration so it is recognized as sound.</p>
 <p class="prose-p">The subconscious mind is the intermediary, which translates one’s prayers into terms which infinite intelligence can recognize, presents the message, and brings back the answer in the form of a definite plan or idea for procuring the object of the prayer. Understand this principle, and you will know why mere words read from a prayer-book cannot and will never serve as an agency of communication between the mind of man and infinite intelligence. Before your prayer will reach infinite intelligence, a statement of the author’s theory only, it probably is transformed from its original thought vibration into terms of spiritual vibration.</p>
-<p class="prose-p">Faith is the only known agency which will give your thoughts a spiritual nature. Faith and fear make poor bedfellows. Where one is found, the other cannot exist.</p>
-<h4 class="section-subhead">Chapter 13 THE BRAIN A BROADCASTING AND RECEIVING STATION FOR THOUGHT THE TWELTH STEP TOWARD RICHES.</h4>
-<p class="prose-p">More than twenty years ago, the author, working in conjunction with the late Dr. Alexander Graham Bell and Dr. Elmer R. Gates, observed that every human brain is both a broadcasting and receiving station for the vibration of thought. Through the medium of the ether, in a fashion similar to that employed by the radio broadcasting principle, every human brain is capable of picking up vibrations of thought which are being released by other brains. In connection with the statement in the preceding paragraph, compare and consider the description of the creative imagination as outlined in the chapter on imagination.</p>
-<p class="prose-p">The creative imagination is the receiving set of the brain, which receives thoughts</p>
+<p class="prose-p">Faith is the only known agency which will give your thoughts a spiritual nature. Faith and fear make poor bedfellows. Where one is found, the other cannot exist.
+
+#### Chapter 13 THE BRAIN A BROADCASTING AND RECEIVING STATION FOR THOUGHT THE TWELTH STEP TOWARD RICHES. More than twenty years ago, the author, working in conjunction with the late Dr. Alexander Graham Bell and Dr. Elmer R.</p>
+<p class="prose-p">Gates, observed that every human brain is both a broadcasting and receiving station for the vibration of thought. Through the medium of the ether, in a fashion similar to that employed by the radio broadcasting principle, every human brain is capable of picking up vibrations of thought which are being released by other brains. In connection with the statement in the preceding paragraph, compare and consider the description of the creative imagination as outlined in the chapter on imagination. The creative imagination is the receiving set of the brain, which receives thoughts</p>
           </div>
         </section>
         
@@ -2699,8 +2824,9 @@
 <p class="prose-p">Screens, walls, distances, have no effect at all on either. Wright advances from this conclusion to express what he puts forward as no more than the mere hunch that other extrasensory experiences, prophetic dreams, premonitions of disaster and the like may also prove to be part of the same faculty. The reader is not asked to accept any of these conclusions unless he finds it necessary, but the evidence that Ryan has piled up must remain impressive. In view of Dr. Ryan’s announcement in connection with the conditions under which the mind responds to what he terms extrasensory modes of perception, I now feel privileged to add to his testimony by stating that my associates and I have discovered what we believe to be the ideal conditions under which the mind can be stimulated so that the sixth sense described in the next chapter can be made to function in a practical way.</p>
 <p class="prose-p">The conditions to which I refer consist of a close working alliance between myself and two members of my staff. Through experimentation and practice we have discovered how to stimulate our minds by applying the principle used in connection with the invisible counselors described in the next chapter so that we can, by a process of blending our three minds into one, find the solution to a great variety of personal problems which are submitted by my clients. The procedure is very simple. We sit down at a conference table, clearly state the nature of the problem we have under consideration, then begin discussing it.</p>
 <p class="prose-p">Each contributes whatever thoughts that may occur. The strange thing about this method of mind stimulation is that it places each participant in communication with unknown sources of knowledge, definitely outside his own experience. If you understand the principle described in the chapter on the mastermind, you of course recognize the roundtable procedure here described as being a practical application of the mastermind. This method of mind stimulation, through a harmonious discussion of definite subjects between three people, illustrates the simplest and most practical use of the mastermind.</p>
-<p class="prose-p">By adopting and following a similar plan, any student of this philosophy may come into possession of the famous Carnegie formula briefly described in the introduction. If it means nothing to you at this time, mark this page and read it again after you have finished the last chapter. The depression was a blessing in disguise. It reduced the whole world to a new starting point that gives everyone a new opportunity.</p>
-<h4 class="section-subhead">Chapter 14 The Sixth Sense The Door to the Temple of Wisdom The Thirteenth Step Toward Riches The thirteenth principle is known as the sixth sense through which infinite intelligence may and will communicate voluntarily without any effort from or demands by the individual.</h4>
+<p class="prose-p">By adopting and following a similar plan, any student of this philosophy may come into possession of the famous Carnegie formula briefly described in the introduction. If it means nothing to you at this time, mark this page and read it again after you have finished the last chapter. The depression was a blessing in disguise. It reduced the whole world to a new starting point that gives everyone a new opportunity.
+
+#### Chapter 14 The Sixth Sense The Door to the Temple of Wisdom The Thirteenth Step Toward Riches The thirteenth principle is known as the sixth sense through which infinite intelligence may and will communicate voluntarily without any effort from or demands by the individual.</p>
 <p class="prose-p">This principle is the apex of the philosophy. It can be assimilated, understood, and applied only by mastering the other twelve principles. The sixth sense is that portion of the subconscious mind which has been referred to as the creative imagination. It has also been referred to as the receiving set through which ideas, plans, and thoughts flash into the mind.</p>
 <p class="prose-p">The flashes are sometimes called hunches or inspirations. The sixth sense defies description. It cannot be described to a person who has not mastered the other principles of this philosophy because such a person has no knowledge and no experience with which the sixth sense</p>
           </div>
@@ -2797,9 +2923,10 @@
 <p class="prose-p">Come back to this again a month from now, read it once more, and observe that your mind will soar to a still higher level of stimulation. Repeat this experience from time to time, giving no concern as to how much or how little you learn at the time, and eventually you will find yourself in possession of a power that will enable you to throw off discouragement, master fear, overcome procrastination, and draw freely upon your imagination. Then you will have felt the touch of that unknown something which has been the moving spirit of every truly great thinker, leader, artist, musician, writer, statesman.</p>
 <p class="prose-p">Then you will be in position to transmute your desires into their physical or financial counterpart as easily as you may lie down and quit at the first sign of opposition. Faith versus fear. Previous chapters have described how to develop faith through auto-suggestion, desire, and the subconscious. The next chapter presents detailed instructions for the mastery of fear.</p>
 <p class="prose-p">Here will be found a full description of the six fears which are the cause of all discouragement, timidity, procrastination, indifference, indecision, and the lack of ambition, self-reliance, initiative, self-control, and enthusiasm. Search yourself carefully as you study these six enemies, as they may exist only in your subconscious mind, where their presence will be hard to detect. Remember too, as you analyze the six ghosts of fear, that they are nothing but ghosts because they exist only in one’s mind. Remember also that ghosts, creations of uncontrolled imagination, have caused most of the damage people have done to their own minds, therefore ghosts can be as dangerous as if they lived and walked on the earth in physical bodies.</p>
-<p class="prose-p">The ghost of the fear of poverty which seized the minds of millions of people in 1929 was so real that it caused the worst business depression this country has ever known. Moreover this particular ghost still frightens some of us out of our wits.</p>
-<h4 class="section-subhead">Chapter 15 How to Outwit the Six Ghosts of Fear Take inventory of yourself as you read this closing chapter and find out how many of the ghosts are standing in your way.</h4>
-<p class="prose-p">Before you can put any portion of this philosophy into successful use, your mind must be prepared to receive it. The preparation is not difficult. It begins with study, analysis, and understanding of three enemies which you shall have to clear out.</p>
+<p class="prose-p">The ghost of the fear of poverty which seized the minds of millions of people in 1929 was so real that it caused the worst business depression this country has ever known. Moreover this particular ghost still frightens some of us out of our wits.
+
+#### Chapter 15 How to Outwit the Six Ghosts of Fear Take inventory of yourself as you read this closing chapter and find out how many of the ghosts are standing in your way. Before you can put any portion of this philosophy into successful use, your mind must be prepared to receive it.</p>
+<p class="prose-p">The preparation is not difficult. It begins with study, analysis, and understanding of three enemies which you shall have to clear out.</p>
           </div>
         </section>
         
@@ -3300,6 +3427,204 @@
 
     document.getElementById('scroll-top-btn').addEventListener('click', () => {
       window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    // ==========================================
+    // IN-PAGE CONTENT SEARCH (單書全文搜尋)
+    // ==========================================
+    const searchBar = document.getElementById('inpage-search-bar');
+    const searchInput = document.getElementById('inpage-search-input');
+    const searchCount = document.getElementById('inpage-search-count');
+    const searchDrawer = document.getElementById('inpage-search-drawer');
+    const searchDrawerList = document.getElementById('inpage-search-drawer-list');
+    const searchToggleBtn = document.getElementById('search-toggle-btn');
+    const searchClearBtn = document.getElementById('inpage-search-clear');
+    const searchPrevBtn = document.getElementById('inpage-search-prev');
+    const searchNextBtn = document.getElementById('inpage-search-next');
+    const searchCloseBtn = document.getElementById('inpage-search-close');
+    const drawerCloseBtn = document.getElementById('inpage-drawer-close');
+
+    let searchMatches = [];
+    let currentMatchIdx = -1;
+
+    // Cache original innerHTML for clean resets
+    const rawParagraphs = Array.from(document.querySelectorAll('.section-body p')).map(p => ({
+      el: p,
+      rawHtml: p.innerHTML,
+      rawText: p.textContent
+    }));
+
+    function openSearch() {
+      searchBar.classList.add('active');
+      searchInput.focus();
+      searchInput.select();
+      if (searchInput.value.trim()) {
+        performSearch(searchInput.value.trim());
+      }
+    }
+
+    function closeSearch() {
+      searchBar.classList.remove('active');
+      searchDrawer.classList.remove('active');
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchCount.textContent = '0 / 0';
+    }
+
+    function clearHighlights() {
+      rawParagraphs.forEach(item => {
+        item.el.innerHTML = item.rawHtml;
+      });
+    }
+
+    function escapeRegex(str) {
+      return str.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+    }
+
+    function escapeHtml(str) {
+      return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+
+    function performSearch(query) {
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchDrawerList.innerHTML = '';
+
+      if (!query || query.trim().length === 0) {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+        return;
+      }
+
+      query = query.trim();
+      const qLower = query.toLowerCase();
+      const regex = new RegExp(`(${escapeRegex(query)})`, 'gi');
+
+      rawParagraphs.forEach((item, pIdx) => {
+        if (item.rawText.toLowerCase().includes(qLower)) {
+          const sec = item.el.closest('.transcript-section');
+          const secTime = sec ? (sec.querySelector('.section-time')?.textContent || '') : '';
+          const secId = sec ? sec.id : '';
+
+          // Apply highlight
+          item.el.innerHTML = item.rawHtml.replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const marks = Array.from(item.el.querySelectorAll('mark.search-highlight'));
+          marks.forEach(mark => {
+            searchMatches.push({
+              mark,
+              el: item.el,
+              secTime,
+              secId
+            });
+          });
+
+          // Snippet creation
+          const matchPos = item.rawText.toLowerCase().indexOf(qLower);
+          const start = Math.max(0, matchPos - 30);
+          const end = Math.min(item.rawText.length, matchPos + query.length + 50);
+          const snippetText = item.rawText.slice(start, end);
+          const snippetHtml = escapeHtml(snippetText).replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const card = document.createElement('div');
+          card.className = 'search-result-item';
+          card.innerHTML = `
+            <div class="search-result-time">${secTime}</div>
+            <div class="search-result-snippet">...${snippetHtml}...</div>
+          `;
+          card.addEventListener('click', () => {
+            const targetIdx = searchMatches.findIndex(m => m.mark === marks[0]);
+            if (targetIdx >= 0) goToMatch(targetIdx);
+          });
+          searchDrawerList.appendChild(card);
+        }
+      });
+
+      if (searchMatches.length > 0) {
+        searchDrawer.classList.add('active');
+        goToMatch(0);
+      } else {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+      }
+    }
+
+    function goToMatch(idx) {
+      if (idx < 0 || idx >= searchMatches.length) return;
+      if (currentMatchIdx >= 0 && searchMatches[currentMatchIdx]) {
+        searchMatches[currentMatchIdx].mark.classList.remove('active-match');
+      }
+      currentMatchIdx = idx;
+      const target = searchMatches[currentMatchIdx];
+      target.mark.classList.add('active-match');
+      searchCount.textContent = `${currentMatchIdx + 1} / ${searchMatches.length}`;
+
+      // Highlight active drawer item
+      const drawerItems = searchDrawerList.querySelectorAll('.search-result-item');
+      drawerItems.forEach(di => di.classList.remove('active'));
+
+      target.mark.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+
+    searchToggleBtn.addEventListener('click', () => {
+      if (searchBar.classList.contains('active')) {
+        closeSearch();
+      } else {
+        openSearch();
+      }
+    });
+
+    let debounceTimer;
+    searchInput.addEventListener('input', (e) => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => {
+        performSearch(e.target.value);
+      }, 200);
+    });
+
+    searchClearBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      performSearch('');
+      searchInput.focus();
+    });
+
+    searchNextBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const nextIdx = (currentMatchIdx + 1) % searchMatches.length;
+      goToMatch(nextIdx);
+    });
+
+    searchPrevBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const prevIdx = (currentMatchIdx - 1 + searchMatches.length) % searchMatches.length;
+      goToMatch(prevIdx);
+    });
+
+    searchInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        if (e.shiftKey) {
+          searchPrevBtn.click();
+        } else {
+          searchNextBtn.click();
+        }
+      } else if (e.key === 'Escape') {
+        closeSearch();
+      }
+    });
+
+    searchCloseBtn.addEventListener('click', closeSearch);
+    drawerCloseBtn.addEventListener('click', () => searchDrawer.classList.remove('active'));
+
+    window.addEventListener('keydown', (e) => {
+      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'f') {
+        e.preventDefault();
+        openSearch();
+      } else if (e.key === 'Escape') {
+        if (searchBar.classList.contains('active')) closeSearch();
+      }
     });
   </script>
 </body>

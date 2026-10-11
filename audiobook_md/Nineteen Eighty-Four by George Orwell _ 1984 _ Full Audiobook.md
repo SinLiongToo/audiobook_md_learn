@@ -346,11 +346,9 @@ He sat as still as a mouse, in the futile hope that whoever it was might go away
 
 He got up and moved heavily towards the door.
 
-#### Chapter 2 As he put his hand to the doorknob, Winston saw that he had left the diary open on the table.
+#### Chapter 2 As he put his hand to the doorknob, Winston saw that he had left the diary open on the table. Down with Big Brother was written all over it, in letters almost big enough to be legible across the room. It was an inconceivably stupid thing to have done. But he realised, even in his panic, he had not wanted to smudge the creamy paper by shutting the book while the ink was wet.
 
-Down with Big Brother was written all over it, in letters almost big enough to be legible across the room. It was an inconceivably stupid thing to have done. But he realised, even in his panic, he had not wanted to smudge the creamy paper by shutting the book while the ink was wet. He drew in his breath and opened the door.
-
-Instantly a warm wave of relief flowed through him. A colourless, crushed looking woman, with wispy hair and a lined face, was standing outside. Oh, Comrade, she began in a dreary, whining sort of voice, I thought I heard you come
+He drew in his breath and opened the door. Instantly a warm wave of relief flowed through him. A colourless, crushed looking woman, with wispy hair and a lined face, was standing outside. Oh, Comrade, she began in a dreary, whining sort of voice, I thought I heard you come
 
 
 <a id="sec-004018"></a>
@@ -470,17 +468,17 @@ He went to the bathroom and carefully scrubbed the ink away with the gritty dark
 
 With the tip of his finger, he picked up an identifiable grain of whitish dust and deposited it on the corner of the cover, where it was bound to be shaken off if the book was moved.
 
-#### Chapter 3 Winston was dreaming of his mother.
+#### Chapter 3 Winston was dreaming of his mother. He must, he thought, have been ten or eleven years old when his mother had disappeared. She was a tall, statuesque, rather silent woman, with slow movements and magnificent fair hair. His father, he remembered more vaguely as dark and thin, dressed always in neat, dark clothes.
 
-He must, he thought, have been ten or eleven years old when his mother had disappeared. She was a tall, statuesque, rather silent woman, with slow movements and magnificent fair hair. His father, he remembered more vaguely as dark and thin, dressed always in neat, dark clothes. Winston remembered especially the very thin soles of his father’s shoes and wearing spectacles.
+Winston remembered especially the very thin soles of his father’s shoes and wearing spectacles. The two of them must evidently have been swallowed up in one of the first great purges of the fifties. At this moment, his mother was sitting in some place deep down beneath him, with his young sister in her arms. He did not remember his sister at all, except as a tiny, feeble baby, always silent, with large watchful eyes. Both of them were looking up at him.
 
-The two of them must evidently have been swallowed up in one of the first great purges of the fifties. At this moment, his mother was sitting in some place deep down beneath him, with his young sister in her arms. He did not remember his sister at all, except as a tiny, feeble baby, always silent, with large watchful eyes. Both of them were looking up at him. They were down in some subterranean place, the bottom of a well, for instance, or a very deep grave.
+They were down in some subterranean place, the bottom of a well, for instance, or a very deep grave. But it was a place which, already far below him, was itself moving downwards. They were in the saloon of a sinking ship, looking up at him through the darkening water. There was still air in the saloon, they could still see him and he them, but all the while they were sinking down, down into the green waters which in another moment must hide them from sight forever.
 
-But it was a place which, already far below him, was itself moving downwards. They were in the saloon of a sinking ship, looking up at him through the darkening water. There was still air in the saloon, they could still see him and he them, but all the while they were sinking down, down into the green waters which in another moment must hide them from sight forever. He was out in the light and air, while they were being sucked down to death, and they were down there because he was up here.
+He was out in the light and air, while they were being sucked down to death, and they were down there because he was up here. He knew it, and they knew it, and he could see the knowledge in their faces. There was no reproach either in their faces or in their hearts, only the knowledge that they must die in order that he might remain alive, and that this was part of the unavoidable order of things. He could not remember what had happened, but he knew in his dream that in some way the lives of his mother and his sister had been sacrificed to his own.
 
-He knew it, and they knew it, and he could see the knowledge in their faces. There was no reproach either in their faces or in their hearts, only the knowledge that they must die in order that he might remain alive, and that this was part of the unavoidable order of things. He could not remember what had happened, but he knew in his dream that in some way the lives of his mother and his sister had been sacrificed to his own. It was one of those dreams which, while retaining the characteristic dream scenery, are a continuation of one’s intellectual life, and in which one becomes aware of facts and ideas which still seem new and valuable after one is awake.
+It was one of those dreams which, while retaining the characteristic dream scenery, are a continuation of one’s intellectual life, and in which one becomes aware of facts and ideas which still seem new and valuable after one is awake. The thing that now suddenly struck Winston was that his mother’s death nearly 30 years ago had been tragic and sorrowful in a way that was no longer possible. Tragedy he perceived belonged to the ancient time, to a time when there was still privacy, love and friendship, and when the members of a family stood by one another without needing to know the reason.
 
-The thing that now suddenly struck Winston was that his mother’s death nearly 30 years ago had been tragic and sorrowful in a way that was no longer possible. Tragedy he perceived belonged to the ancient time, to a time when there was still privacy, love and friendship, and when the members of a family stood by one another without needing to know the reason. His mother’s memory tore at his heart because she had died loving him, when he was too young
+His mother’s memory tore at his heart because she had died loving him, when he was too young
 
 
 <a id="sec-010023"></a>
@@ -582,23 +580,21 @@ Remember our boys on the Malabar front, and the sailors in the floating fortress
 <a id="sec-011535"></a>
 ### ⏱️ [01:15:35 - 01:20:35]
 
-#### Chapter 4 With the deep, unconscious sigh which not even the nearness of the telescreen could prevent him from uttering when his day’s work started, Winston pulled the speak right towards him, blew the dust from its mouthpiece, and put on his spectacles.
+#### Chapter 4 With the deep, unconscious sigh which not even the nearness of the telescreen could prevent him from uttering when his day’s work started, Winston pulled the speak right towards him, blew the dust from its mouthpiece, and put on his spectacles. Then he unrolled and clipped together four small cylinders of paper which had already flopped out of the pneumatic tube on the right hand side of his desk. In the walls of the cubicle there were three orifices. To the right of the speak right, a small pneumatic tube for written messages.
 
-Then he unrolled and clipped together four small cylinders of paper which had already flopped out of the pneumatic tube on the right hand side of his desk. In the walls of the cubicle there were three orifices. To the right of the speak right, a small pneumatic tube for written messages. To the left, a larger one for newspapers.
+To the left, a larger one for newspapers. And in the side wall, within easy reach of Winston’s arm, a large oblong slit protected by a wire grating. This last was for the disposal of waste paper. Similar slits existed in thousands or tens of thousands throughout the building, not only in every room, but at short intervals in every corridor.
 
-And in the side wall, within easy reach of Winston’s arm, a large oblong slit protected by a wire grating. This last was for the disposal of waste paper. Similar slits existed in thousands or tens of thousands throughout the building, not only in every room, but at short intervals in every corridor. For some reason, they were nicknamed memory holes.
+For some reason, they were nicknamed memory holes. When one knew that any document was due for destruction, or even when one saw a scrap of waste paper lying about, it was an automatic action to lift the flap of the nearest memory hole and drop it in, whereupon it would be whirled away on a current of warm air to the enormous furnaces which were hidden somewhere in the recesses of the building. Winston examined the four slips of paper which he had unrolled.
 
-When one knew that any document was due for destruction, or even when one saw a scrap of waste paper lying about, it was an automatic action to lift the flap of the nearest memory hole and drop it in, whereupon it would be whirled away on a current of warm air to the enormous furnaces which were hidden somewhere in the recesses of the building. Winston examined the four slips of paper which he had unrolled. Each contained a message of only one or two lines, in the abbreviated jargon, not actually newspeak, but consisting largely of newspeak words which was used in the Ministry for internal purposes.
+Each contained a message of only one or two lines, in the abbreviated jargon, not actually newspeak, but consisting largely of newspeak words which was used in the Ministry for internal purposes. They ran. Times 17th of March, 84. B.
 
-They ran. Times 17th of March, 84. B. B.
+B. Speech, Mal-reported Africa Rectify. Times 19th of December, 83. Forecast 3YP. 4th Quarter, 83.
 
-Speech, Mal-reported Africa Rectify. Times 19th of December, 83. Forecast 3YP. 4th Quarter, 83. Misprints verify current issue.
+Misprints verify current issue. Times 14th of February, 84. Mini-plenty Mal-quoted Chocolate Rectify. Times 3rd of December, 83.
 
-Times 14th of February, 84. Mini-plenty Mal-quoted Chocolate Rectify. Times 3rd of December, 83. Reporting B.
+Reporting B. B. Day order double-plus-and-good refs on persons rewrite full-wise upsub anti-filing. With a faint feeling of satisfaction, Winston laid the fourth message aside.
 
-B. Day order double-plus-and-good refs on persons rewrite full-wise upsub anti-filing. With a faint feeling of satisfaction, Winston laid the fourth message aside. It was an intricate and responsible job and had better be dealt with last.
-
-The other three were routine matters, though the second one would probably mean some tedious wading through lists of figures. Winston dialled back numbers on the tele-screen and called for the appropriate issues of The Times, which slid out of the pneumatic tube after only a few minutes delay. The messages he had received referred to articles or news items, which for one reason or another it was thought necessary to alter, or, as the official phrase had it, to rectify.
+It was an intricate and responsible job and had better be dealt with last. The other three were routine matters, though the second one would probably mean some tedious wading through lists of figures. Winston dialled back numbers on the tele-screen and called for the appropriate issues of The Times, which slid out of the pneumatic tube after only a few minutes delay. The messages he had received referred to articles or news items, which for one reason or another it was thought necessary to alter, or, as the official phrase had it, to rectify.
 
 For example, it appeared from The Times of the 17th of March that Big Brother, in his speech of the previous day, had predicted that the South Indian front would remain quiet, but that a Eurasian offensive would shortly be launched in North Africa. As it happened, the Eurasian higher command had launched its offensive in South India and left North Africa alone. It was therefore necessary to rewrite a paragraph of Big Brother’s speech in such a way as to make him predict the thing that had actually happened, or again, The Times of the 19th of December had published the official forecasts of the output of various classes of consumption goods in the fourth quarter of 1983, which was also the sixth quarter of the ninth three-year plan.
 
@@ -988,19 +984,19 @@ When I saw her in the light she was quite an old woman, fifty years old at least
 
 The therapy had not worked. The urge to shout filthy words at the top of his voice was as strong as ever.
 
-#### Chapter 7.
+#### Chapter 7. If there is hope, wrote Winston, it lies in the proles. If there was hope, it must lie in the proles, because only there, in those swarming, disregarded masses, eighty-five percent of the population of Oceania, could the force to destroy the party ever be generated.
 
-If there is hope, wrote Winston, it lies in the proles. If there was hope, it must lie in the proles, because only there, in those swarming, disregarded masses, eighty-five percent of the population of Oceania, could the force to destroy the party ever be generated. The party could not be overthrown from within, its enemies, if it had any enemies, had no way of coming together or even of identifying one another. Even if the legendary brotherhood existed as just possibly it might, it was inconceivable that its members could ever assemble in larger numbers than twos and threes.
+The party could not be overthrown from within, its enemies, if it had any enemies, had no way of coming together or even of identifying one another. Even if the legendary brotherhood existed as just possibly it might, it was inconceivable that its members could ever assemble in larger numbers than twos and threes. Rebellion meant a look in the eyes, an inflection of the voice, at the most an occasional whispered word. But the proles, if only they could somehow become conscious of their own strength, would have no need to conspire.
 
-Rebellion meant a look in the eyes, an inflection of the voice, at the most an occasional whispered word. But the proles, if only they could somehow become conscious of their own strength, would have no need to conspire. They needed only to rise up and shake themselves like a horse shaking off flies. If they chose, they could blow the party to pieces tomorrow morning.
+They needed only to rise up and shake themselves like a horse shaking off flies. If they chose, they could blow the party to pieces tomorrow morning. Surely, sooner or later it must occur to them to do it. And yet, he remembered how once he had been walking down a crowded street when a tremendous shout of hundreds of voices, women’s voices, had burst from a side street a little way ahead.
 
-Surely, sooner or later it must occur to them to do it. And yet, he remembered how once he had been walking down a crowded street when a tremendous shout of hundreds of voices, women’s voices, had burst from a side street a little way ahead. It was a great formidable cry of anger and despair, a deep loud, oh, oh, oh, oh, oh, that went humming on like the reverberation of a bell. His heart had leapt.
+It was a great formidable cry of anger and despair, a deep loud, oh, oh, oh, oh, oh, that went humming on like the reverberation of a bell. His heart had leapt. It started, he had thought, a riot, the proles are breaking loose at last. When he had reached the spot, it was to see a mob of two or three hundred women crowding round the stalls of a street market, with faces as tragic as though they had been the doomed passengers on a sinking ship.
 
-It started, he had thought, a riot, the proles are breaking loose at last. When he had reached the spot, it was to see a mob of two or three hundred women crowding round the stalls of a street market, with faces as tragic as though they had been the doomed passengers on a sinking ship. But at this moment, the general despair broke down into a multitude of individual quarrels. It appeared that one of the stalls had been selling tin saucepans.
+But at this moment, the general despair broke down into a multitude of individual quarrels. It appeared that one of the stalls had been selling tin saucepans. They were wretched, flimsy things, but cooking pots of any kind were always difficult to get. Now the supply had unexpectedly given out.
 
-They were wretched, flimsy things, but cooking pots of any kind were always difficult to get. Now the supply had unexpectedly given out. The successful women, bumped and jostled by the rest, were trying to make off with their saucepans while dozens of others clamoured round the stall, accusing the stallkeeper of favouritism and of having more saucepans somewhere in reserve. There was a fresh outburst of yells.
+The successful women, bumped and jostled by the rest, were trying to make off with their saucepans while dozens of others clamoured round the stall, accusing the stallkeeper of favouritism and of having more saucepans somewhere in reserve. There was a fresh outburst of yells. Two bloated women, one of them with her hair coming down, had got hold of the same saucepan and were trying to tear it out of one another’s hands. For a moment, they were both tugging, and then the handle came off.
 
-Two bloated women, one of them with her hair coming down, had got hold of the same saucepan and were trying to tear it out of one another’s hands. For a moment, they were both tugging, and then the handle came off. Winston watched them disgustedly. And yet, just for a moment, what almost frightening power had sounded in that cry from only a few hundred throats, why was it that they could never shout like that about anything that mattered?
+Winston watched them disgustedly. And yet, just for a moment, what almost frightening power had sounded in that cry from only a few hundred throats, why was it that they could never shout like that about anything that mattered?
 
 He wrote, “'Until they become conscious, they will never rebel. And until after they have rebelled, they cannot become conscious.'” That, he reflected, might almost have been a transcription from one of the party textbooks. The party claimed, of course, to have liberated the proles from bondage. Before the revolution, they had been hideously oppressed by the capitalists.
 
@@ -1466,15 +1462,15 @@ But what kind of smile was hidden beneath the dark moustache? Like a leaden knel
 
 #### Part 2.
 
-#### Chapter 1.
+#### Chapter 1. It was the middle of the morning, and Winston had left the cubicle to go to the lavatory.
 
-It was the middle of the morning, and Winston had left the cubicle to go to the lavatory. A solitary figure was coming towards him from the other end of the long, brightly lit corridor. It was the girl with dark hair. Four days had gone past since the evening when he had run into her outside the junk shop.
+A solitary figure was coming towards him from the other end of the long, brightly lit corridor. It was the girl with dark hair. Four days had gone past since the evening when he had run into her outside the junk shop. As she came nearer, he saw that her right arm was in a sling, not noticeable at a distance because it was of the same color as her overalls.
 
-As she came nearer, he saw that her right arm was in a sling, not noticeable at a distance because it was of the same color as her overalls. Probably she had crushed her hand while swinging round one of the big kaleidoscopes on which the plots of novels were roughed in. It was a common accident in the fiction department. They were perhaps four meters apart when the girl stumbled and fell almost flat on her face.
+Probably she had crushed her hand while swinging round one of the big kaleidoscopes on which the plots of novels were roughed in. It was a common accident in the fiction department. They were perhaps four meters apart when the girl stumbled and fell almost flat on her face. A sharp cry of pain was wrung out of her.
 
-A sharp cry of pain was wrung out of her. She must have fallen right on the injured arm. Winston stopped short. The girl had risen to her knees.
+She must have fallen right on the injured arm. Winston stopped short. The girl had risen to her knees. Her face had turned a milky yellow color against which her mouth stood out redder than ever.
 
-Her face had turned a milky yellow color against which her mouth stood out redder than ever. Her eyes were fixed on his with an appealing expression that looked more like fear than pain. A curious emotion
+Her eyes were fixed on his with an appealing expression that looked more like fear than pain. A curious emotion
 
 
 <a id="sec-033636"></a>
@@ -1938,21 +1934,19 @@ But you must get there by a different way this time. I’ve got it all planned o
 
 And with a twig from a pigeon’s nest, began drawing a map on the floor.
 
-#### Chapter 4.
+#### Chapter 4. Winston looked round the shabby little room above Mr. Charrington’s shop. Beside the window, the enormous bed was made up with ragged blankets and a coverless bolster. The old fashioned clock with the 12 hour face was ticking away on the mantelpiece.
 
-Winston looked round the shabby little room above Mr. Charrington’s shop. Beside the window, the enormous bed was made up with ragged blankets and a coverless bolster. The old fashioned clock with the 12 hour face was ticking away on the mantelpiece. In the corner, on the gate leg table, the glass paper weight which he had bought on his last visit gleamed softly out of the half darkness.
+In the corner, on the gate leg table, the glass paper weight which he had bought on his last visit gleamed softly out of the half darkness. In the fender was a battered tin oil stove, a saucepan, and two cups provided by Mr. Charrington. Winston lit the burner and set a pan of water to boil. He had brought an envelope full of victory coffee and some saccharine tablets.
 
-In the fender was a battered tin oil stove, a saucepan, and two cups provided by Mr. Charrington. Winston lit the burner and set a pan of water to boil. He had brought an envelope full of victory coffee and some saccharine tablets. The clock’s hands said 1720.
+The clock’s hands said 1720. It was 1920, really. She was coming at 1930. Folly, folly, his heart kept saying.
 
-It was 1920, really. She was coming at 1930. Folly, folly, his heart kept saying. Conscious, gratuitous, suicidal folly.
+Conscious, gratuitous, suicidal folly. Of all the crimes that a party member could commit, this one was the least possible to conceal. Actually, the idea had first floated into his head in the form of a vision, of the glass paper weight mirrored by the surface of the gate leg table. As he had foreseen, Mr. Charrington had made no difficulty about letting the room.
 
-Of all the crimes that a party member could commit, this one was the least possible to conceal. Actually, the idea had first floated into his head in the form of a vision, of the glass paper weight mirrored by the surface of the gate leg table. As he had foreseen, Mr. Charrington had made no difficulty about letting the room. He was obviously glad of the few dollars that it would bring him.
+He was obviously glad of the few dollars that it would bring him. Nor did he seem shocked or become offensively knowing when it was made clear that Winston wanted the room for the purpose of a love affair. Instead, he looked into the middle distance and spoke in generalities, with so delicate an air as to give the impression that he had become partly invisible. Privacy, he said, was a very valuable thing.
 
-Nor did he seem shocked or become offensively knowing when it was made clear that Winston wanted the room for the purpose of a love affair. Instead, he looked into the middle distance and spoke in generalities, with so delicate an air as to give the impression that he had become partly invisible. Privacy, he said, was a very valuable thing. Everyone wanted a place where they could be alone occasionally.
+Everyone wanted a place where they could be alone occasionally. And when they had such a place, it was only common courtesy in anyone else who knew of it to keep his knowledge to himself. He even, seeming almost to fade out of existence as he did so, added that there were two entries to the house, one of them through the backyard, which gave on an alley. Under the window, somebody was singing.
 
-And when they had such a place, it was only common courtesy in anyone else who knew of it to keep his knowledge to himself. He even, seeming almost to fade out of existence as he did so, added that there were two entries to the house, one of them through the backyard, which gave on an alley. Under the window, somebody was singing. Winston peeped out, secure in the protection of the muslin curtain.
-
-The dune sun was still high in the sky, and in the sun filled court below, a monstrous woman, solid as a Norman pillar, with brawny red forearms and
+Winston peeped out, secure in the protection of the muslin curtain. The dune sun was still high in the sky, and in the sun filled court below, a monstrous woman, solid as a Norman pillar, with brawny red forearms and
 
 
 <a id="sec-044225"></a>
@@ -2098,15 +2092,15 @@ The inexhaustibly interesting thing was not the fragment of coral, but the inter
 
 The paperweight was the room he was in, and the coral was Julia’s life and his own, fixed in a sort of eternity at the heart of the crystal.
 
-#### Chapter 5.
+#### Chapter 5. Sime had vanished. A morning came, and he was missing from work. A few thoughtless people commented on his absence.
 
-Sime had vanished. A morning came, and he was missing from work. A few thoughtless people commented on his absence. On the next day, nobody mentioned him.
+On the next day, nobody mentioned him. On the third day, Winston went into the vestibule of the records department to look at the notice board. One of the notices carried a printed list of the members of the chess committee, of whom Sime had been won. It looked almost exactly as it had looked before.
 
-On the third day, Winston went into the vestibule of the records department to look at the notice board. One of the notices carried a printed list of the members of the chess committee, of whom Sime had been won. It looked almost exactly as it had looked before. Nothing had been crossed out.
+Nothing had been crossed out. But it was one name shorter. It was enough. Sime had ceased to exist.
 
-But it was one name shorter. It was enough. Sime had ceased to exist. He had never existed.
+He had never existed. The weather was baking hot. In the labyrinthine ministry, the windowless, air-conditioned rooms kept their normal temperature. But outside the pavement scorched one’s feet, and the stench of the tubes at the rush hours was a horror.
 
-The weather was baking hot. In the labyrinthine ministry, the windowless, air-conditioned rooms kept their normal temperature. But outside the pavement scorched one’s feet, and the stench of the tubes at the rush hours was a horror. The preparations for hate week were in full swing, and
+The preparations for hate week were in full swing, and
 
 
 <a id="sec-050235"></a>
@@ -2216,13 +2210,13 @@ She was one of those people who can go to sleep at any hour and in any position.
 
 By lack of understanding, they remained sane. They simply swallowed everything, and what they swallowed did them no harm, because it left no residue behind, just as a grain of corn will pass undigested through the body of a bird.
 
-#### Chapter 6 It had happened at last.
+#### Chapter 6 It had happened at last. The expected message had come. All his life, it seemed to him, he had been waiting for this to happen.
 
-The expected message had come. All his life, it seemed to him, he had been waiting for this to happen. He was walking down the long corridor at the ministry, and he was almost at the spot where Julia had slipped the note into his hand when he became aware that someone larger than himself was walking just behind him. The person, whoever it was, gave a small cough, evidently as a prelude to speaking.
+He was walking down the long corridor at the ministry, and he was almost at the spot where Julia had slipped the note into his hand when he became aware that someone larger than himself was walking just behind him. The person, whoever it was, gave a small cough, evidently as a prelude to speaking. Winston stopped abruptly and turned. It was O’Brien.
 
-Winston stopped abruptly and turned. It was O’Brien. At last they were face to face, and it seemed that his only impulse was to run away. His heart bounded violently.
+At last they were face to face, and it seemed that his only impulse was to run away. His heart bounded violently. He would have been incapable of speaking. O’Brien, however, had continued forward in the same movement, laying a friendly hand for a moment on Winston’s arm, so that the two of them were walking side by side.
 
-He would have been incapable of speaking. O’Brien, however, had continued forward in the same movement, laying a friendly hand for a moment on Winston’s arm, so that the two of them were walking side by side. He began speaking with the peculiar grave courtesy that differentiated him from the majority of inner party members.
+He began speaking with the peculiar grave courtesy that differentiated him from the majority of inner party members.
 
 
 <a id="sec-052242"></a>
@@ -2558,9 +2552,9 @@ As Winston stood up, O’Brien held out a hand. His powerful grip crushed the bo
 
 Beyond him, Winston could see the writing table with its green shaded lamp and the speak right and the wire baskets deep laden with papers. The incident was closed. Within thirty seconds it occurred to him, O’Brien would be back at his interrupted and important work on behalf of the party.
 
-#### Chapter 9 Winston Was Gelatinous with Fatigue This was the right word.
+#### Chapter 9 Winston Was Gelatinous with Fatigue This was the right word. It had come into his head spontaneously.
 
-It had come into his head spontaneously. His body seemed to have not only the weakness of a jelly, but its translucency. He felt that if he held up his hand he would be able to see the light through it. All the blood and lymph had been drained out of him by an enormous debauch of work, leaving
+His body seemed to have not only the weakness of a jelly, but its translucency. He felt that if he held up his hand he would be able to see the light through it. All the blood and lymph had been drained out of him by an enormous debauch of work, leaving
 
 
 <a id="sec-060814"></a>
@@ -2634,19 +2628,17 @@ It was bliss. It was eternity.
 
 Suddenly, as one sometimes does with a book of which one knows that one will ultimately read and reread every word, he opened it at a different place and found himself at chapter 3. He went on reading.
 
-#### Chapter 3.
+#### Chapter 3. War is Peace. The splitting up of the world into three great super-states was an event which could be and indeed was foreseen, before the middle of the 20th century.
 
-War is Peace. The splitting up of the world into three great super-states was an event which could be and indeed was foreseen, before the middle of the 20th century. With the absorption of Europe by Russia and of the British Empire by the United States, two of the three existing powers, Eurasia and Oceania, were already effectively in being. The third, Istasia, only emerged as a distinct unit after another decade of confused fighting.
+With the absorption of Europe by Russia and of the British Empire by the United States, two of the three existing powers, Eurasia and Oceania, were already effectively in being. The third, Istasia, only emerged as a distinct unit after another decade of confused fighting. The frontiers between the three super-states are in some places arbitrary, and in others they fluctuate according to the fortunes of war, but in general they follow geographical lines. Eurasia comprises the whole of the northern part of the European and Asiatic landmass, from Portugal to the Bering Strait.
 
-The frontiers between the three super-states are in some places arbitrary, and in others they fluctuate according to the fortunes of war, but in general they follow geographical lines. Eurasia comprises the whole of the northern part of the European and Asiatic landmass, from Portugal to the Bering Strait. Oceania comprises the Americas, the Atlantic Islands including the British Isles, Australasia, and the southern portion of Africa. East Asia, smaller than the others and with a less definite western frontier, comprises China and the countries to the south of it, the Japanese islands and a large but fluctuating portion of Manchuria, Mongolia and Tibet.
+Oceania comprises the Americas, the Atlantic Islands including the British Isles, Australasia, and the southern portion of Africa. East Asia, smaller than the others and with a less definite western frontier, comprises China and the countries to the south of it, the Japanese islands and a large but fluctuating portion of Manchuria, Mongolia and Tibet. In one combination or another, these three super-states are permanently at war and have been so for the past 25 years. War, however, is no longer the desperate, annihilating struggle that it was in the early decades of the 20th century.
 
-In one combination or another, these three super-states are permanently at war and have been so for the past 25 years. War, however, is no longer the desperate, annihilating struggle that it was in the early decades of the 20th century. It is a warfare of limited aims between combatants who are unable to destroy one another, have no material cause for fighting and are not divided by any genuine ideological difference. This is not to say that either the conduct of war or the prevailing attitude towards it has become less bloodthirsty or more chivalrous.
+It is a warfare of limited aims between combatants who are unable to destroy one another, have no material cause for fighting and are not divided by any genuine ideological difference. This is not to say that either the conduct of war or the prevailing attitude towards it has become less bloodthirsty or more chivalrous. On the contrary, war hysteria is continuous and universal in all countries and such acts as raping, looting, the slaughter of children, the reduction of whole populations to slavery and reprisals against prisoners which extend even to boiling and burying alive are looked upon as normal and, when they are committed by one’s own side and not by the enemy, meritorious.
 
-On the contrary, war hysteria is continuous and universal in all countries and such acts as raping, looting, the slaughter of children, the reduction of whole populations to slavery and reprisals against prisoners which extend even to boiling and burying alive are looked upon as normal and, when they are committed by one’s own side and not by the enemy, meritorious. But in a physical sense, war involves very small numbers of people, mostly highly trained specialists, and causes comparatively few casualties. The fighting, when there is any, takes place on the vague frontiers whose whereabouts the average man can only guess at or round the floating fortresses which guard strategic spots on the sea lanes.
+But in a physical sense, war involves very small numbers of people, mostly highly trained specialists, and causes comparatively few casualties. The fighting, when there is any, takes place on the vague frontiers whose whereabouts the average man can only guess at or round the floating fortresses which guard strategic spots on the sea lanes. In the centres of civilisation, war means no more than a continuous shortage of consumption goods and the occasional crash of a rocket bomb which may cause a few scores of deaths.
 
-In the centres of civilisation, war means no more than a continuous shortage of consumption goods and the occasional crash of a rocket bomb which may cause a few scores of deaths. War has in fact changed its character. More exactly, the reasons for which war is waged have changed in their order of importance. Motives which were already present, to some small extent, in the great wars of the early 20th century have now become dominant and are consciously recognised and acted upon.
-
-To understand the nature of the present war, for in spite of the regrouping which occurs every few years, it is always the same war.
+War has in fact changed its character. More exactly, the reasons for which war is waged have changed in their order of importance. Motives which were already present, to some small extent, in the great wars of the early 20th century have now become dominant and are consciously recognised and acted upon. To understand the nature of the present war, for in spite of the regrouping which occurs every few years, it is always the same war.
 
 
 <a id="sec-062329"></a>
@@ -2808,13 +2800,11 @@ That’s the best way. Then you can explain it to me as you go. The clock’s ha
 
 He propped the book against his knees and began reading.
 
-#### Chapter 1 Ignorance is Strength Throughout recorded time, and probably since the end of the Neolithic age, there have been three kinds of people in the world, the high, the middle, and the low.
+#### Chapter 1 Ignorance is Strength Throughout recorded time, and probably since the end of the Neolithic age, there have been three kinds of people in the world, the high, the middle, and the low. They have been subdivided in many ways, they have borne countless different names, and their relative numbers, as well as their attitude towards one another, have varied from age to age. But the essential structure of society has never altered.
 
-They have been subdivided in many ways, they have borne countless different names, and their relative numbers, as well as their attitude towards one another, have varied from age to age. But the essential structure of society has never altered. Even after enormous upheavals and seemingly irrevocable changes, the same pattern has always reasserted itself, just as a gyroscope will always return to equilibrium, however far it is pushed one way or the other. Julia, are you awake? said Winston.
+Even after enormous upheavals and seemingly irrevocable changes, the same pattern has always reasserted itself, just as a gyroscope will always return to equilibrium, however far it is pushed one way or the other. Julia, are you awake? said Winston. Yes, my love, I’m listening. Go on.
 
-Yes, my love, I’m listening. Go on. It’s marvelous. He continued reading.
-
-The aims of these three groups are entirely irreconcilable. The aim of the high is to remain where they are, the aim of the middle is to change places with the high, the aim of the low when they have an aim, for it is an abiding characteristic of the low that they are too much crushed by drudgery to be more than intermittently conscious of anything outside their daily lives, is to abolish all distinctions and create a society in which all men shall be equal.
+It’s marvelous. He continued reading. The aims of these three groups are entirely irreconcilable. The aim of the high is to remain where they are, the aim of the middle is to change places with the high, the aim of the low when they have an aim, for it is an abiding characteristic of the low that they are too much crushed by drudgery to be more than intermittently conscious of anything outside their daily lives, is to abolish all distinctions and create a society in which all men shall be equal.
 
 Thus throughout history a struggle which is the same in its main outlines recurs over and over again. For long periods the high seem to be securely in power, but sooner or later there always comes a moment when they lose either their belief in themselves or their capacity to govern efficiently, or both. They are then overthrown by the middle, who enlist the low on their side by pretending to them that they are fighting for liberty and justice. As soon as they have reached their objective, the middle thrust the low back into their old position of servitude and themselves become the high.
 
@@ -3856,21 +3846,19 @@ O’Brien had seen what he meant without the need for explanation. Tell me, he s
 
 Everyone is cured sooner or later. In the end, we shall shoot you.
 
-#### Chapter 4.
+#### Chapter 4. He was much better. He was growing fatter and stronger every day if it was proper to speak of days.
 
-He was much better. He was growing fatter and stronger every day if it was proper to speak of days. The white light and the humming sound were the same as ever, but the cell was a little more comfortable than the others he had been in. There was a pillow and a mattress on the plank bed and a stool to sit on.
+The white light and the humming sound were the same as ever, but the cell was a little more comfortable than the others he had been in. There was a pillow and a mattress on the plank bed and a stool to sit on. They had given him a bath and they allowed him to wash himself fairly frequently in a tin basin. They even gave him warm water to wash with.
 
-They had given him a bath and they allowed him to wash himself fairly frequently in a tin basin. They even gave him warm water to wash with. They had given him new underclothes and a clean suit of overalls. They had dressed his varicose ulcer with soothing ointment.
+They had given him new underclothes and a clean suit of overalls. They had dressed his varicose ulcer with soothing ointment. They had pulled out the remnants of his teeth and given him a new set of dentures. Weeks or months must have passed.
 
-They had pulled out the remnants of his teeth and given him a new set of dentures. Weeks or months must have passed. It would have been possible now to keep count of the passage of time if he had felt any interest in doing so, since he was being fed at what appeared to be regular intervals. He was getting, he judged, three meals in the twenty-four hours.
+It would have been possible now to keep count of the passage of time if he had felt any interest in doing so, since he was being fed at what appeared to be regular intervals. He was getting, he judged, three meals in the twenty-four hours. Sometimes he wondered dimly whether he was getting them by night or by day. The food was surprisingly good, with meat at every third meal.
 
-Sometimes he wondered dimly whether he was getting them by night or by day. The food was surprisingly good, with meat at every third meal. Once there was even a packet of cigarettes. He had no matches, but the never-speaking guard who brought his food would give him a light.
+Once there was even a packet of cigarettes. He had no matches, but the never-speaking guard who brought his food would give him a light. The first time he tried to smoke, it made him sick. But he persevered and spun the packet out for a long time, smoking half a cigarette after each meal.
 
-The first time he tried to smoke, it made him sick. But he persevered and spun the packet out for a long time, smoking half a cigarette after each meal. They had given him a white slate with a stump of pencil tied to the corner. At first he made no use of it.
+They had given him a white slate with a stump of pencil tied to the corner. At first he made no use of it. Even when he was awake, he was completely torpid. Often he would lie from one meal to the next almost without stirring, sometimes asleep, sometimes waking into vague reveries in which it was too much trouble to open his eyes.
 
-Even when he was awake, he was completely torpid. Often he would lie from one meal to the next almost without stirring, sometimes asleep, sometimes waking into vague reveries in which it was too much trouble to open his eyes. He had long grown used to sleeping with a strong light on his face. It seemed to make no difference, except that one’s dreams were more coherent.
-
-He dreamed a great deal all through this time, and they were always happy dreams. He was in the Golden Country, or he was sitting among enormous glorious sunlit ruins,
+He had long grown used to sleeping with a strong light on his face. It seemed to make no difference, except that one’s dreams were more coherent. He dreamed a great deal all through this time, and they were always happy dreams. He was in the Golden Country, or he was sitting among enormous glorious sunlit ruins,
 
 
 <a id="sec-093500"></a>
@@ -3994,39 +3982,37 @@ Big Brother. It is not enough to obey him. You must love him. He released Winsto
 
 Room 101, he said.
 
-#### Chapter 5 At each stage of his imprisonment he had known, or seemed to know, whereabouts he was in the windowless building.
+#### Chapter 5 At each stage of his imprisonment he had known, or seemed to know, whereabouts he was in the windowless building. Possibly there were slight differences in the air pressure. The cells where the guards had beaten him were below ground level. The room where he had been interrogated by O’Brien was high up near the roof.
 
-Possibly there were slight differences in the air pressure. The cells where the guards had beaten him were below ground level. The room where he had been interrogated by O’Brien was high up near the roof. This place was many metres underground, as deep down as it was possible to go.
+This place was many metres underground, as deep down as it was possible to go. It was bigger than most of the cells he had been in, but he hardly noticed his surroundings. All he noticed was that there were two small tables straight in front of him, each covered with green bays. One was only a metre or two from him.
 
-It was bigger than most of the cells he had been in, but he hardly noticed his surroundings. All he noticed was that there were two small tables straight in front of him, each covered with green bays. One was only a metre or two from him. The other was further away, near the door.
+The other was further away, near the door. He was strapped upright in a chair, so tightly that he could move nothing, not even his head. A sort of pad gripped his head from behind, forcing him to look straight in front of him. For a moment he was alone.
 
-He was strapped upright in a chair, so tightly that he could move nothing, not even his head. A sort of pad gripped his head from behind, forcing him to look straight in front of him. For a moment he was alone. Then the door opened, and O’Brien came in.
+Then the door opened, and O’Brien came in. You asked me once, said O’Brien. What was in Room 101? I told you that you knew the answer already.
 
-You asked me once, said O’Brien. What was in Room 101? I told you that you knew the answer already. Everyone knows it.
+Everyone knows it. The thing that is in Room 101 is the worst thing in the world. The door opened again. A guard came in carrying something made of wire, a box or basket of some kind.
 
-The thing that is in Room 101 is the worst thing in the world. The door opened again. A guard came in carrying something made of wire, a box or basket of some kind. He set it down on the further table.
+He set it down on the further table. Because of the position in which O’Brien was standing, Winston could not see what the thing was. The worst thing in the world, said O’Brien, varies from individual to individual. It may be burial alive, or death by fire, or by drowning, or by impalement, or fifty other deaths.
 
-Because of the position in which O’Brien was standing, Winston could not see what the thing was. The worst thing in the world, said O’Brien, varies from individual to individual. It may be burial alive, or death by fire, or by drowning, or by impalement, or fifty other deaths. There are cases where it is some quite trivial thing, not even fatal.
+There are cases where it is some quite trivial thing, not even fatal. He had moved a little to one side, so that Winston had a better view of the thing on the table. It was an oblong wire cage with a handle on top for carrying it by. Fixed to the front of it was something that looked like a fencing mask, with the concave side outwards.
 
-He had moved a little to one side, so that Winston had a better view of the thing on the table. It was an oblong wire cage with a handle on top for carrying it by. Fixed to the front of it was something that looked like a fencing mask, with the concave side outwards. Though it was three or four metres away from him, he could see that the cage was divided lengthways into two compartments, and that there was some kind of creature in each.
+Though it was three or four metres away from him, he could see that the cage was divided lengthways into two compartments, and that there was some kind of creature in each. They were rats. In your case, said O’Brien, the worst thing in the world happens to be rats. A sort of premonitory tremor, a fear of he was not certain what, had passed through Winston as soon as he caught his first glimpse of the cage.
 
-They were rats. In your case, said O’Brien, the worst thing in the world happens to be rats. A sort of premonitory tremor, a fear of he was not certain what, had passed through Winston as soon as he caught his first glimpse of the cage. But at this moment the meaning of the mask-like attachment in front of it suddenly sank into him.
+But at this moment the meaning of the mask-like attachment in front of it suddenly sank into him. His bowels seemed to turn to water. You can’t do that, he cried out in a high-cracked voice. You couldn’t, you couldn’t, it’s impossible.
 
-His bowels seemed to turn to water. You can’t do that, he cried out in a high-cracked voice. You couldn’t, you couldn’t, it’s impossible. Do you remember, said O’Brien, the moment of panic that used to occur in your dreams?
+Do you remember, said O’Brien, the moment of panic that used to occur in your dreams? There was a wall of blackness in front of you, and a roaring sound in your ears. There was something terrible on the other side of the wall. You knew that you knew what it was, but you dared not drag it into the open.
 
-There was a wall of blackness in front of you, and a roaring sound in your ears. There was something terrible on the other side of the wall. You knew that you knew what it was, but you dared not drag it into the open. It was the rats that were on the other side of the wall.
+It was the rats that were on the other side of the wall. O’Brien, said Winston, making an effort to control his voice, you know this is not necessary, what is it that you want me to do? O’Brien made no direct answer. When he spoke it was in the school masterish manner that he sometimes affected.
 
-O’Brien, said Winston, making an effort to control his voice, you know this is not necessary, what is it that you want me to do? O’Brien made no direct answer. When he spoke it was in the school masterish manner that he sometimes affected. He looked thoughtfully into the distance, as though he were addressing an audience somewhere behind Winston’s back.
+He looked thoughtfully into the distance, as though he were addressing an audience somewhere behind Winston’s back. By itself, he said, pain is not always enough. There are occasions when a human being will stand out against pain, even to the point of death. But for everyone there is something unendurable, something that cannot be contemplated.
 
-By itself, he said, pain is not always enough. There are occasions when a human being will stand out against pain, even to the point of death. But for everyone there is something unendurable, something that cannot be contemplated. Courage and cowardice are not involved.
+Courage and cowardice are not involved. If you are falling from a height, it is not cowardly to clutch at a rope. If you have come up from deep water, it is not cowardly to fill your lungs with air. It is merely an instinct which cannot be destroyed.
 
-If you are falling from a height, it is not cowardly to clutch at a rope. If you have come up from deep water, it is not cowardly to fill your lungs with air. It is merely an instinct which cannot be destroyed. It is the same with the rats.
+It is the same with the rats. For you, they are unendurable. They are a form of pressure that you cannot withstand, even if you wish to. You will do what is required of you.
 
-For you, they are unendurable. They are a form of pressure that you cannot withstand, even if you wish to. You will do what is required of you. But what is it?
+But what is it? What is it? How can I do it if I don’t know what it is? O’Brien picked up the cage and brought it across to the nearer table.
 
-What is it? How can I do it if I don’t know what it is? O’Brien picked up the cage and brought it across to the nearer table. He set it down carefully on the bay’s cloth.
-
-Winston could hear the blood singing in his ears. He had the feeling of sitting in utter loneliness. He was in the middle of a great empty plain, a flat desert drenched with sunlight, across which all sounds came to him out of
+He set it down carefully on the bay’s cloth. Winston could hear the blood singing in his ears. He had the feeling of sitting in utter loneliness. He was in the middle of a great empty plain, a flat desert drenched with sunlight, across which all sounds came to him out of
 
 
 <a id="sec-095511"></a>
@@ -4070,9 +4056,7 @@ He was still strapped in the chair, but he had fallen through the floor, through
 
 But through the darkness that enveloped him, he heard another metallic click and knew that the cage door had clicked shut and not open.
 
-#### Chapter 6 The chestnut tree was almost empty, a ray of sunlight slanting through a window fell on dusty tabletops.
-
-It was the lonely hour of fifteen. A tinny music trickled from the
+#### Chapter 6 The chestnut tree was almost empty, a ray of sunlight slanting through a window fell on dusty tabletops. It was the lonely hour of fifteen. A tinny music trickled from the
 
 
 <a id="sec-100011"></a>

@@ -291,13 +291,13 @@ Drugs were domesticated 10 years ago, and sale retained some behaviors of their 
 
 But no one’s crazy. We all make decisions based on our own unique experiences that seem to make sense to us in a given moment. Now let me tell you a story about how Bill Gates got rich.
 
-#### THE PSYCHOLOGY OF MONEY CHAPTER 2 LUCK AND RISK.
+#### THE PSYCHOLOGY OF MONEY CHAPTER 2 LUCK AND RISK. Nothing is as good or as bad as it seems. Luck and risk are siblings.
 
-Nothing is as good or as bad as it seems. Luck and risk are siblings. They are both the reality that every outcome in life is guided by forces other than individual effort. NYU professor Scott Galloway has a related idea that is so important to remember when judging success, both your own and others. Nothing is as good or as bad as it seems. Bill Gates went to one of the only high schools in the world that had a computer.
+They are both the reality that every outcome in life is guided by forces other than individual effort. NYU professor Scott Galloway has a related idea that is so important to remember when judging success, both your own and others. Nothing is as good or as bad as it seems. Bill Gates went to one of the only high schools in the world that had a computer. The story of how Lakeside School, just outside Seattle, even got a computer is remarkable.
 
-The story of how Lakeside School, just outside Seattle, even got a computer is remarkable. Bill Dougal was a World War II Navi pilot turned high school math and science teacher. He believed that book study wasn’t enough without real-world experience. He also realized that we’d need to know something about computers when we got to college.
+Bill Dougal was a World War II Navi pilot turned high school math and science teacher. He believed that book study wasn’t enough without real-world experience. He also realized that we’d need to know something about computers when we got to college. We called late Microsoft co-founder Paul Allen.
 
-We called late Microsoft co-founder Paul Allen. In 1968, Dougal petitioned the Lakeside School Mothers Club to use the proceeds from its annual rummage sale, about $3,000, to lease a teletype Model 30 computer hooked up to
+In 1968, Dougal petitioned the Lakeside School Mothers Club to use the proceeds from its annual rummage sale, about $3,000, to lease a teletype Model 30 computer hooked up to
 
 
 <a id="sec-004032"></a>
@@ -503,15 +503,15 @@ Freedom and independence are invaluable. Family and friends are invaluable. Bein
 
 The good news is that the most powerful tool for building enough is remarkably simple and doesn’t require taking risks that could damage any of these things. That’s the next chapter. The Psychology of Money.
 
-#### Chapter 4.
+#### Chapter 4. Confounding Compounding.
 
-Confounding Compounding. Eighty-one point five billion dollars of Warren Buffett’s eighty-four point five billion dollar net worth came after his sixty-fifth birthday. Our minds are not built to handle such absurdities. Lessons from one field can often teach us something important about unrelated fields.
+Eighty-one point five billion dollars of Warren Buffett’s eighty-four point five billion dollar net worth came after his sixty-fifth birthday. Our minds are not built to handle such absurdities. Lessons from one field can often teach us something important about unrelated fields. Take the billion-year history of ice ages and what they teach us about growing your money.
 
-Take the billion-year history of ice ages and what they teach us about growing your money. Our scientific knowledge of Earth is younger than you might think. Understanding how the world works often involves drilling deep below its surface, something we haven’t been able to do until fairly recently. Isaac Newton calculated the movement of the stars hundreds of years before we understood some of the basics of our planet.
+Our scientific knowledge of Earth is younger than you might think. Understanding how the world works often involves drilling deep below its surface, something we haven’t been able to do until fairly recently. Isaac Newton calculated the movement of the stars hundreds of years before we understood some of the basics of our planet. It was not until the nineteenth century the scientists agreed that Earth had, on multiple occasions, been covered in ice.
 
-It was not until the nineteenth century the scientists agreed that Earth had, on multiple occasions, been covered in ice. There was too much evidence to argue otherwise. All over the world sat fingerprints of a previously frozen world, huge boulders strewn in random locations, rock bits scraped down to thin layers. Evidence became clear that there had not been one ice age, but five distinct ones we could measure.
+There was too much evidence to argue otherwise. All over the world sat fingerprints of a previously frozen world, huge boulders strewn in random locations, rock bits scraped down to thin layers. Evidence became clear that there had not been one ice age, but five distinct ones we could measure. The amount of energy needed to freeze the planet, melt it anew, and freeze it over yet again is staggering.
 
-The amount of energy needed to freeze the planet, melt it anew, and freeze it over yet again is staggering. What on Earth, literally, could be causing these cycles? It must be the most powerful force on our planet.
+What on Earth, literally, could be causing these cycles? It must be the most powerful force on our planet.
 
 
 <a id="sec-012052"></a>
@@ -581,13 +581,11 @@ It’s about earning pretty good returns that you can stick with and which can b
 
 Chapter to tell them. The Psychology of Money.
 
-#### Chapter 5.
+#### Chapter 5. Getting wealthy versus staying wealthy. Good investing is not necessarily about making good decisions.
 
-Getting wealthy versus staying wealthy. Good investing is not necessarily about making good decisions. It’s about consistently not screwing up. There are a million ways to get wealthy, and plenty of books on how to do so.
+It’s about consistently not screwing up. There are a million ways to get wealthy, and plenty of books on how to do so. But there is only one way to stay wealthy. Some combination of frugality and paranoia.
 
-But there is only one way to stay wealthy. Some combination of frugality and paranoia. And that’s a topic we don’t discuss enough. Let’s begin with a quick story about two investors, neither of whom knew the other, but whose paths crossed in an interesting way almost a century ago.
-
-Jesse Livermore was the greatest talk market trader of his day. Born in 1877, he became a professional trader before most people knew you could do such a thing.
+And that’s a topic we don’t discuss enough. Let’s begin with a quick story about two investors, neither of whom knew the other, but whose paths crossed in an interesting way almost a century ago. Jesse Livermore was the greatest talk market trader of his day. Born in 1877, he became a professional trader before most people knew you could do such a thing.
 
 
 <a id="sec-013602"></a>
@@ -767,19 +765,17 @@ But the seven percent of components that perform extremely well were more than e
 
 Apple was responsible for almost 7% of the index’s returns in 2018, and it is driven overwhelmingly by the iPhone, which in the world of tech products is a tail-why as tails get. And who’s working at these companies? Google’s hiring acceptance rate is 0.2%, Facebook’s is 0.1%, Apple’s is about 2%, so the people working on these tail projects that drive tail returns have tail careers.
 
-Napoleon’s definition of a military genius was, “… the man who can do the average thing when all those around him are going crazy. It’s the same in investing.” Most financial advice is about today. What should you do right now, and what stocks look like goodbyes today?
+Napoleon’s definition of a military genius was, “… the man who can do the average thing when all those around him are going crazy. It’s the same in investing.” Most financial advice is about today. What should you do right now, and what stocks look like goodbyes today? But most of the time, today is not that important.
 
-But most of the time, today is not that important. Over the course of your lifetime, as an investor, the decisions that you make today, or tomorrow, or next week, will not matter nearly as much as what you do during the small number of days. Only 1% of the time or less, when everyone else around you is going crazy. Consider what would happen if you saved $1 every month from 1900 to 2019.
+Over the course of your lifetime, as an investor, the decisions that you make today, or tomorrow, or next week, will not matter nearly as much as what you do during the small number of days. Only 1% of the time or less, when everyone else around you is going crazy. Consider what would happen if you saved $1 every month from 1900 to 2019. You could invest that $1 into the US stock market every month, rain or shine.
 
-You could invest that $1 into the US stock market every month, rain or shine. It doesn’t matter if economists are screaming about a looming recession or new beer market, you just keep investing. Let’s call an investor who does this sue. But maybe, investing during a recession is too scary.
+It doesn’t matter if economists are screaming about a looming recession or new beer market, you just keep investing. Let’s call an investor who does this sue. But maybe, investing during a recession is too scary. So perhaps you invest your $1 in the stock market when the economy is not in a recession, sell everything when it’s in a recession, and save your monthly dollar in cash.
 
-So perhaps you invest your $1 in the stock market when the economy is not in a recession, sell everything when it’s in a recession, and save your monthly dollar in cash. But invest everything back into the stock market when the recession ends. We’ll call this investor Jim. Or perhaps it takes a few months for a recession to scare you out, and then it takes a while to regain confidence before you get back in the market.
+But invest everything back into the stock market when the recession ends. We’ll call this investor Jim. Or perhaps it takes a few months for a recession to scare you out, and then it takes a while to regain confidence before you get back in the market. You invest $1 in stocks when there is no recession, sell 6 months after a recession begins, and invest back in 6 months after a recession ends.
 
-You invest $1 in stocks when there is no recession, sell 6 months after a recession begins, and invest back in 6 months after a recession ends. We’ll call you Tom. How much money would these 3 investors end up with over time? Sue ends up with $435,551.
+We’ll call you Tom. How much money would these 3 investors end up with over time? Sue ends up with $435,551. Jim has $257,386.
 
-Jim has $257,386. Tom $234,476. Sue wins by a mile. There were 1,428 months between 1900 and 2019.
-
-Just over 300 of them were during a recession.
+Tom $234,476. Sue wins by a mile. There were 1,428 months between 1900 and 2019. Just over 300 of them were during a recession.
 
 
 <a id="sec-021127"></a>
@@ -985,21 +981,19 @@ It’s difficult to learn from what you can’t see, which helps explain why it�
 
 Well, let me convince you to save money.
 
-#### THE PSYCHOLOGY OF MONEY CHAPTER X SAVE MONEY.
+#### THE PSYCHOLOGY OF MONEY CHAPTER X SAVE MONEY. The only factory you can control generates one of the only things that matters. How wonderful! Let me convince you to save money.
 
-The only factory you can control generates one of the only things that matters. How wonderful! Let me convince you to save money. It won’t take long.
+It won’t take long. But it’s an odd task, isn’t it? Do people need to be convinced to save money? My observation is that, yes, many do.
 
-But it’s an odd task, isn’t it? Do people need to be convinced to save money? My observation is that, yes, many do. Past a certain level of income, people fall into three groups.
+Past a certain level of income, people fall into three groups. Those who save, those who don’t think they can save, and those who don’t think they need to save. This is for the latter too. The first idea, simple but easy to overlook, is that building wealth has little to do with your income or investment returns, and lots to do with your savings rate.
 
-Those who save, those who don’t think they can save, and those who don’t think they need to save. This is for the latter too. The first idea, simple but easy to overlook, is that building wealth has little to do with your income or investment returns, and lots to do with your savings rate. A quick story about the power of efficiency.
+A quick story about the power of efficiency. In the 1970s, the world looked like it was running out of oil. The calculation wasn’t hard. The global economy used a lot of oil.
 
-In the 1970s, the world looked like it was running out of oil. The calculation wasn’t hard. The global economy used a lot of oil. The global economy was growing.
+The global economy was growing. And the amount of oil we could drill couldn’t keep up. We didn’t run out of oil, thank goodness. But that wasn’t just because we found more oil or even got better at taking it out of the ground.
 
-And the amount of oil we could drill couldn’t keep up. We didn’t run out of oil, thank goodness. But that wasn’t just because we found more oil or even got better at taking it out of the ground. The biggest reason we overcame the oil crisis is because we started building cars, factories and homes that are more energy efficient than they used to be.
+The biggest reason we overcame the oil crisis is because we started building cars, factories and homes that are more energy efficient than they used to be. The United States uses 60% less energy per dollar of GDP today than it did in 1950. The average miles per gallon of all vehicles on the road has doubled since 1975. A 1989 Ford Taurus 7 averaged 18.0 mpg.
 
-The United States uses 60% less energy per dollar of GDP today than it did in 1950. The average miles per gallon of all vehicles on the road has doubled since 1975. A 1989 Ford Taurus 7 averaged 18.0 mpg. A 2019 Chevy Suburban, absurdly large SUV, averages 18.1 mpg.
-
-The world grew its energy wealth, not by increasing the energy it had, but by decreasing the energy it needed. U. S. oil and gas production has increased 65% since 1975, while conservation and efficiency has more than doubled what we can do with that energy. So, it’s easy to see which has mattered more. The important thing here is that finding more energy is largely out of our control and shrouded in uncertainty because it relies on a slippery mix of having the right geology, geography, weather and geopolitics.
+A 2019 Chevy Suburban, absurdly large SUV, averages 18.1 mpg. The world grew its energy wealth, not by increasing the energy it had, but by decreasing the energy it needed. U. S. oil and gas production has increased 65% since 1975, while conservation and efficiency has more than doubled what we can do with that energy. So, it’s easy to see which has mattered more. The important thing here is that finding more energy is largely out of our control and shrouded in uncertainty because it relies on a slippery mix of having the right geology, geography, weather and geopolitics.
 
 But becoming more efficient with the energy we use is largely in our control. The decision to buy a lighter car or ride a bike is up to you and has a 100% chance of improving efficiency. The same is true with our money. Investment returns can make you rich, but whether an investing strategy will work and how long it will take for and whether markets will cooperate is always in doubt.
 
@@ -1149,21 +1143,19 @@ Bogle, the man who said high-fee funds violate the humble roots of arithmetic, i
 
 Indeed, it rarely is. The psychology of money.
 
-#### Chapter 12 Surprise.
+#### Chapter 12 Surprise. History is the study of change, ironically used as a map of the future. Stanford professor Scott Sagan once said something everyone who follows the economy or investment markets should hang on their wall.
 
-History is the study of change, ironically used as a map of the future. Stanford professor Scott Sagan once said something everyone who follows the economy or investment markets should hang on their wall. Things that have never happened before happen all the time. History is mostly the study of surprising events, but it is often used by investors and economists as an unassailable guide to the future.
+Things that have never happened before happen all the time. History is mostly the study of surprising events, but it is often used by investors and economists as an unassailable guide to the future. Do you see the irony? Do you see the problem?
 
-Do you see the irony? Do you see the problem? It is marked to have a deep appreciation for economic and investing history. History helps us calibrate our expectations.
+It is marked to have a deep appreciation for economic and investing history. History helps us calibrate our expectations. Study where people tend to go wrong and offers a rough guide of what tends to work. But it is not, in any way, a map of the future.
 
-Study where people tend to go wrong and offers a rough guide of what tends to work. But it is not, in any way, a map of the future. A trap many investors fall into is what I call historians as profits policy, an over-reliance on past data as a signal to future conditions in a field where innovation and change are the lifeblood of progress. You can’t blame investors for doing this.
+A trap many investors fall into is what I call historians as profits policy, an over-reliance on past data as a signal to future conditions in a field where innovation and change are the lifeblood of progress. You can’t blame investors for doing this. If you view investing as a hard science, history should be a perfect guide to the future. Geologists can look at a billion years of historical data and form models of how the earth behaves.
 
-If you view investing as a hard science, history should be a perfect guide to the future. Geologists can look at a billion years of historical data and form models of how the earth behaves. So can meteorologists. And doctors, kidneys operate the same way in 2020 as they did in 1020.
+So can meteorologists. And doctors, kidneys operate the same way in 2020 as they did in 1020. But investing is not a hard science. It’s a massive group of people making imperfect decisions with limited information about things that’ll have a massive impact on their well-being, which can make even smart people nervous, greedy and paranoid.
 
-But investing is not a hard science. It’s a massive group of people making imperfect decisions with limited information about things that’ll have a massive impact on their well-being, which can make even smart people nervous, greedy and paranoid. Richard Feynman, the great physicist, once said, imagine how much hotter physics would be if electrons had feelings. Well, investors have feelings, quite a few of them.
+Richard Feynman, the great physicist, once said, imagine how much hotter physics would be if electrons had feelings. Well, investors have feelings, quite a few of them. That’s why it’s hard to predict what they will do next based solely on what they did in the past. The cornerstone of economics is that things change over time, because the invisible hand hates anything staying too good or too bad indefinitely.
 
-That’s why it’s hard to predict what they will do next based solely on what they did in the past. The cornerstone of economics is that things change over time, because the invisible hand hates anything staying too good or too bad indefinitely. Investor Bill Bonner once described how Mr. Market works. He’s got a capitalism at work t-shirt on and a sledgehammer in his hand.
-
-Few things stay the same for very long, which means we can’t treat historians as profits. The most important driver of anything tied to money is the stories people tell themselves
+Investor Bill Bonner once described how Mr. Market works. He’s got a capitalism at work t-shirt on and a sledgehammer in his hand. Few things stay the same for very long, which means we can’t treat historians as profits. The most important driver of anything tied to money is the stories people tell themselves
 
 
 <a id="sec-032215"></a>
@@ -1375,33 +1367,31 @@ I save a lot, and I have no idea what I’ll use the savings for in the future. 
 
 In fact, the most important part of every plan is planning on your plan, not going according to plan. Now, let me show you how this applies to you.
 
-#### THE PSYCHOLOGY OF MONEY CHAPTER 14 YOU’LL CHANGE.
+#### THE PSYCHOLOGY OF MONEY CHAPTER 14 YOU’LL CHANGE. Long-term planning is harder than it seems, because people’s goals and desires change over time. I grew up with a friend who came from neither privilege nor natural intellect, but was the hardest-working guy I knew.
 
-Long-term planning is harder than it seems, because people’s goals and desires change over time. I grew up with a friend who came from neither privilege nor natural intellect, but was the hardest-working guy I knew. These people have a lot to teach, because they have an unfiltered understanding of every inch of the road to success. His life’s mission and dream as a teenager was to be a doctor.
+These people have a lot to teach, because they have an unfiltered understanding of every inch of the road to success. His life’s mission and dream as a teenager was to be a doctor. To say the odds were stacked against him is being charitable. No reasonable person at the time would consider it a possibility.
 
-To say the odds were stacked against him is being charitable. No reasonable person at the time would consider it a possibility. But he pushed, and a decade older than his classmates, he eventually became a doctor. How much fulfillment comes from starting from nothing, bulldozing your way to the top of medical school, and achieving one of the most noble professions against all odds?
+But he pushed, and a decade older than his classmates, he eventually became a doctor. How much fulfillment comes from starting from nothing, bulldozing your way to the top of medical school, and achieving one of the most noble professions against all odds? I spoke to him a few years ago. The conversation went like this.
 
-I spoke to him a few years ago. The conversation went like this. Me. Long time no talk.
+Me. Long time no talk. How you doing? Him awful career.
 
-How you doing? Him awful career. Me. Haha.
+Me. Haha. Well. Him.
 
-Well. Him. Awful career, man. This went on for ten minutes.
+Awful career, man. This went on for ten minutes. Distress and hours had worn him into the ground. He seemed as disappointed in where he is today, as he was driven toward where he wanted to be fifteen years ago.
 
-Distress and hours had worn him into the ground. He seemed as disappointed in where he is today, as he was driven toward where he wanted to be fifteen years ago. An underpinning of psychology is that people are poor forecasters of their future selves. Imagining a goal is easy and fun.
+An underpinning of psychology is that people are poor forecasters of their future selves. Imagining a goal is easy and fun. Imagining a goal in the context of the realistic life stresses that grow with competitive pursuits is something entirely different. This has a big impact on our ability to plan for future financial goals.
 
-Imagining a goal in the context of the realistic life stresses that grow with competitive pursuits is something entirely different. This has a big impact on our ability to plan for future financial goals. Every five-year-old boy wants to drive a tractor when they grow up. Few jobs look better in the eyes of a young boy whose idea of a good job begins and ends with vroom vroom beep beep big tractor here I come.
+Every five-year-old boy wants to drive a tractor when they grow up. Few jobs look better in the eyes of a young boy whose idea of a good job begins and ends with vroom vroom beep beep big tractor here I come. Then many grow up and realize that driving a tractor maybe isn’t the best career. Maybe they want something more prestigious or lucrative.
 
-Then many grow up and realize that driving a tractor maybe isn’t the best career. Maybe they want something more prestigious or lucrative. So as a teenager they dream of being a lawyer. Now they think, they know, their plan is set.
+So as a teenager they dream of being a lawyer. Now they think, they know, their plan is set. Law school and its costs, here we come. Then as a lawyer they face such long working hours that they rarely see their families.
 
-Law school and its costs, here we come. Then as a lawyer they face such long working hours that they rarely see their families. So perhaps they take a lower paying job with flexible hours. Then they realize that childcare is so expensive that it consumes most of their paycheck.
+So perhaps they take a lower paying job with flexible hours. Then they realize that childcare is so expensive that it consumes most of their paycheck. And they opt to be a stay-at-home parent. This, they conclude, is finally the right choice.
 
-And they opt to be a stay-at-home parent. This, they conclude, is finally the right choice. Then at age 70 they realize that a lifetime of staying home means they are unprepared to afford retirement. Many of us wind through life on a similar trajectory.
+Then at age 70 they realize that a lifetime of staying home means they are unprepared to afford retirement. Many of us wind through life on a similar trajectory. Only 27% of college grads have a job related to their major, according to the Federal Reserve. 29% of stay-at-home parents have a college degree. You likely regret their education, of course.
 
-Only 27% of college grads have a job related to their major, according to the Federal Reserve. 29% of stay-at-home parents have a college degree. You likely regret their education, of course. But we should acknowledge that a new parent in their 30s may think about life goals in a way their 18-year-old self making career goals would never imagine. Long-term financial planning is essential, but things change, both the world around you and your own goals and desires.
+But we should acknowledge that a new parent in their 30s may think about life goals in a way their 18-year-old self making career goals would never imagine. Long-term financial planning is essential, but things change, both the world around you and your own goals and desires. It is one thing to say, we don’t know what the future holds. It’s another to admit that you, yourself, don’t know today what you will even want in the future.
 
-It is one thing to say, we don’t know what the future holds. It’s another to admit that you, yourself, don’t know today what you will even want in the future. And the truth is, few of us do. It’s hard to make enduring long-term decisions when your view of what you will want in the future is likely to shift.
-
-The end-of-history illusion is what psychologists call the tendency for people to be keenly
+And the truth is, few of us do. It’s hard to make enduring long-term decisions when your view of what you will want in the future is likely to shift. The end-of-history illusion is what psychologists call the tendency for people to be keenly
 
 
 <a id="sec-040744"></a>
@@ -1605,19 +1595,19 @@ When you realize how wrong the notion is, you see how vital it is to simply iden
 
 So I don’t pay attention to it, and am in no danger of being persuaded by it. Next let’s talk about pessimism. The Psychology of Money.
 
-#### Chapter 17.
+#### Chapter 17. The Seduction of Pessimism.
 
-The Seduction of Pessimism. Optimism sounds like a sales pitch. Pessimism sounds like someone trying to help you. For reasons I’ve never understood, people like to hear that the world is going to hell.
+Optimism sounds like a sales pitch. Pessimism sounds like someone trying to help you. For reasons I’ve never understood, people like to hear that the world is going to hell. Historian Derde McCloskey.
 
-Historian Derde McCloskey. Optimism is the best bet for most people, because the world tends to get better for most people most of the time. But pessimism holds a special place in our hearts. Pessimism isn’t just more common than optimism.
+Optimism is the best bet for most people, because the world tends to get better for most people most of the time. But pessimism holds a special place in our hearts. Pessimism isn’t just more common than optimism. It also sounds smarter.
 
-It also sounds smarter. It’s intellectually captivating, and it’s paid more attention than optimism, which is often viewed as being oblivious to risk. Before we go further, we should define what optimism is. Real optimists don’t believe that everything will be great.
+It’s intellectually captivating, and it’s paid more attention than optimism, which is often viewed as being oblivious to risk. Before we go further, we should define what optimism is. Real optimists don’t believe that everything will be great. That’s complacency.
 
-That’s complacency. Optimism is a belief that the odds of a good outcome are in your favor over time, even when there will be setbacks along the way. The simple idea that most people wake up in the morning trying to make things a little better and more productive than wake up looking to cause trouble is the foundation of optimism. It’s not complicated.
+Optimism is a belief that the odds of a good outcome are in your favor over time, even when there will be setbacks along the way. The simple idea that most people wake up in the morning trying to make things a little better and more productive than wake up looking to cause trouble is the foundation of optimism. It’s not complicated. It’s not guaranteed either.
 
-It’s not guaranteed either. It’s just the most reasonable bet for most people most of the time. The late statistician, Hans Rosling put it differently. I’m not an optimist.
+It’s just the most reasonable bet for most people most of the time. The late statistician, Hans Rosling put it differently. I’m not an optimist. I’m a very serious possibilities.
 
-I’m a very serious possibilities. Now, we can discuss optimism’s more compelling sibling. Pessimism. December 29th, 2008
+Now, we can discuss optimism’s more compelling sibling. Pessimism. December 29th, 2008
 
 
 <a id="sec-044807"></a>
@@ -1735,15 +1725,13 @@ Now, a short story about stories.
 
 #### WHEN YOU’LL BELIEVE ANYTHING.
 
-#### APPEALING FICTIONS AND WHY STORIES ARE MORE POWERFUL THAN STATISTICS.
+#### APPEALING FICTIONS AND WHY STORIES ARE MORE POWERFUL THAN STATISTICS. Imagine an alien dispatched to Earth. His job is to keep tabs on our economy. He circles above New York City, trying to size up the economy and how it changed between 2007 and 2009.
 
-Imagine an alien dispatched to Earth. His job is to keep tabs on our economy. He circles above New York City, trying to size up the economy and how it changed between 2007 and 2009. On New Year’s Eve 2007, he hovers over Times Square.
+On New Year’s Eve 2007, he hovers over Times Square. He sees tens of thousands of happy partygoers surrounded by bright lights, monstrous billboards, fireworks, and TV cameras. He comes back to Times Square on New Year’s Eve 2009. He sees tens of thousands of happy partygoers surrounded by bright lights, monstrous billboards, fireworks, and TV cameras.
 
-He sees tens of thousands of happy partygoers surrounded by bright lights, monstrous billboards, fireworks, and TV cameras. He comes back to Times Square on New Year’s Eve 2009. He sees tens of thousands of happy partygoers surrounded by bright lights, monstrous billboards, fireworks, and TV cameras. It looks about the same.
+It looks about the same. He cannot see much difference. He sees roughly the same number of New Yorkers hustling around the city. Those people are surrounded by the same number of office buildings, which house the same number of desks with the same number of computers hooked up to the same number of internet connections.
 
-He cannot see much difference. He sees roughly the same number of New Yorkers hustling around the city. Those people are surrounded by the same number of office buildings, which house the same number of desks with the same number of computers hooked up to the same number of internet connections. Outside the city, he sees the same number of factories and warehouses connected by the same highways carrying the same number of trucks.
-
-He gets a little closer to the ground and sees the same universities teaching the same topics and handing out the same degrees to the same number of people. He sees the same number of patents protecting the same groundbreaking ideas.
+Outside the city, he sees the same number of factories and warehouses connected by the same highways carrying the same number of trucks. He gets a little closer to the ground and sees the same universities teaching the same topics and handing out the same degrees to the same number of people. He sees the same number of patents protecting the same groundbreaking ideas.
 
 
 <a id="sec-051316"></a>
@@ -1865,11 +1853,9 @@ We don’t wander around blind and confused. We have to think the world we opera
 
 Here’s all of us. The Psychology of Money.
 
-#### Chapter 19.
+#### Chapter 19. All together now. What we’ve learned about the psychology of your own money.
 
-All together now. What we’ve learned about the psychology of your own money. Congratulations. You’re still listening.
-
-It’s time to tie together a few things we’ve learned. This chapter is a bit of a summary, a few short and actionable lessons that can help you make better financial decisions.
+Congratulations. You’re still listening. It’s time to tie together a few things we’ve learned. This chapter is a bit of a summary, a few short and actionable lessons that can help you make better financial decisions.
 
 First, let me tell you a story about a dentist appointment gone horribly awry. It teaches us something vital about the dangers of giving advice about what to do with your money. Clarence Hughes went to the dentist in 1931. His mouth was radiating pain.
 
@@ -1941,25 +1927,23 @@ But you should be paranoid of ruinous risk because it prevents you from taking f
 
 There is no single right answer, just the answer that works for you. Now let me tell you what works for me. The psychology of money.
 
-#### Chapter 20 Confessions.
+#### Chapter 20 Confessions. The psychology of my own money.
 
-The psychology of my own money. Sandy Gottesman, a billionaire investor who founded the consulting group First Manhattan, is said to ask one question when interviewing candidates for his investment team. What do you own and why? Not what stocks do you think are cheap or what economy is about to have a recession.
+Sandy Gottesman, a billionaire investor who founded the consulting group First Manhattan, is said to ask one question when interviewing candidates for his investment team. What do you own and why? Not what stocks do you think are cheap or what economy is about to have a recession. Just show me what you do with your own money.
 
-Just show me what you do with your own money. I love this question because it highlights what can often be a mile-wide gap between what makes sense, which is what people suggest you do, and what feels right to them, which is what they actually do. Half of all U. S. mutual fund portfolio managers do not invest a cent of their own money in their funds, according to Morningstar. This might seem atrocious, and surely this statistic uncovers some hypocrisy.
+I love this question because it highlights what can often be a mile-wide gap between what makes sense, which is what people suggest you do, and what feels right to them, which is what they actually do. Half of all U. S. mutual fund portfolio managers do not invest a cent of their own money in their funds, according to Morningstar. This might seem atrocious, and surely this statistic uncovers some hypocrisy. But this kind of stuff is more common than you think.
 
-But this kind of stuff is more common than you think. Ken Moray, a professor of medicine at USC, wrote an essay in 2011 titled, How Doctors Die, that showed the degree to which doctors choose different end-of-life treatments for themselves than they recommend for their patients. Doctors don’t die like the rest of us, he wrote. What’s unusual about them is not how much treatment they get compared to most Americans, but how little.
+Ken Moray, a professor of medicine at USC, wrote an essay in 2011 titled, How Doctors Die, that showed the degree to which doctors choose different end-of-life treatments for themselves than they recommend for their patients. Doctors don’t die like the rest of us, he wrote. What’s unusual about them is not how much treatment they get compared to most Americans, but how little. For all the time they spend fending off the deaths of others, they tend to be fairly serene when faced with death themselves.
 
-For all the time they spend fending off the deaths of others, they tend to be fairly serene when faced with death themselves. They know exactly what is going to happen, they know the choices, and they generally have access to any sort of medical care they could want. But they go gently. A doctor may throw the kitchen sink at her patient’s cancer, but choose palliative care for herself.
+They know exactly what is going to happen, they know the choices, and they generally have access to any sort of medical care they could want. But they go gently. A doctor may throw the kitchen sink at her patient’s cancer, but choose palliative care for herself. The difference between what someone suggests you do and what they do for themselves isn’t always a bad thing.
 
-The difference between what someone suggests you do and what they do for themselves isn’t always a bad thing. It just underscores that, when dealing with complicated and emotional issues that affect you and your family, there is no one right answer. There is no universal truth, there is only what works for you and your family, checking the boxes you want checked in a way that leaves you comfortable and sleeping well at night. There are basic principles that must be adhered to.
+It just underscores that, when dealing with complicated and emotional issues that affect you and your family, there is no one right answer. There is no universal truth, there is only what works for you and your family, checking the boxes you want checked in a way that leaves you comfortable and sleeping well at night. There are basic principles that must be adhered to. This is true in finance and in medicine, but important financial decisions are not made in spreadsheets or in textbooks, they are made at the dinner table.
 
-This is true in finance and in medicine, but important financial decisions are not made in spreadsheets or in textbooks, they are made at the dinner table. They often aren’t made with the intention of maximizing returns, but minimizing the chance of disappointing a spouse or child. Those kinds of things are difficult to summarize in charts or formulas, and they vary widely from person to person. What works for one person may not work for another.
+They often aren’t made with the intention of maximizing returns, but minimizing the chance of disappointing a spouse or child. Those kinds of things are difficult to summarize in charts or formulas, and they vary widely from person to person. What works for one person may not work for another. You have to find what works for you.
 
-You have to find what works for you. Here’s what works for me.
+Here’s what works for me. How My Family Thinks About Savings Charlie Munger once said, “I did not intend to get rich, I just wanted to get independent.” We can leave aside rich, but independence has always been my personal financial goal. Chasing the highest returns or leveraging my assets to live the most luxurious life has little interest to me. Both look like games people do to impress their friends, and both have hidden risks.
 
-How My Family Thinks About Savings Charlie Munger once said, “I did not intend to get rich, I just wanted to get independent.” We can leave aside rich, but independence has always been my personal financial goal. Chasing the highest returns or leveraging my assets to live the most luxurious life has little interest to me. Both look like games people do to impress their friends, and both have hidden risks. I mostly just want to wake up every day knowing my family and I can do whatever we want to do on our own terms. Every financial decision we make revolves around that goal.
-
-My parents lived their adult years in two stages, dirt poor and moderately well off.
+I mostly just want to wake up every day knowing my family and I can do whatever we want to do on our own terms. Every financial decision we make revolves around that goal. My parents lived their adult years in two stages, dirt poor and moderately well off.
 
 
 <a id="sec-055336"></a>

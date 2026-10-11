@@ -66,26 +66,12 @@
       --card-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
     }
 
-    [data-line-height="compact"] {
-      --line-height: 1.68;
-    }
-    [data-line-height="normal"] {
-      --line-height: 1.88;
-    }
-    [data-line-height="loose"] {
-      --line-height: 2.12;
-    }
+    [data-line-height="compact"] { --line-height: 1.68; }
+    [data-line-height="normal"] { --line-height: 1.88; }
+    [data-line-height="loose"] { --line-height: 2.12; }
 
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
-    html {
-      scroll-behavior: smooth;
-    }
-
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
     body {
       font-family: var(--font-family);
       font-size: var(--font-size);
@@ -119,7 +105,7 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 0 20px;
+      padding: 0 18px;
       background-color: var(--bg-header);
       backdrop-filter: blur(8px);
       -webkit-backdrop-filter: blur(8px);
@@ -129,7 +115,7 @@
     .header-left, .header-right {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 8px;
       flex-wrap: nowrap;
     }
 
@@ -138,7 +124,7 @@
       border: 1px solid var(--border-color);
       color: var(--text-primary);
       cursor: pointer;
-      font-size: 14px;
+      font-size: 13.5px;
       padding: 6px 10px;
       border-radius: 8px;
       display: inline-flex;
@@ -147,6 +133,7 @@
       transition: all 0.2s;
       white-space: nowrap;
       user-select: none;
+      text-decoration: none;
     }
     .btn-icon:hover {
       background-color: var(--accent-light);
@@ -161,11 +148,132 @@
       font-size: 14px;
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
+    }
+    .home-link:hover { color: var(--accent-color); }
+
+    /* In-Page Search Bar Dropdown */
+    .inpage-search-bar {
+      position: sticky;
+      top: 60px;
+      z-index: 890;
+      background-color: var(--bg-surface);
+      border-bottom: 1px solid var(--border-color);
+      padding: 10px 18px;
+      display: none;
+      align-items: center;
+      gap: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    }
+    .inpage-search-bar.active { display: flex; }
+
+    .inpage-search-input-wrapper {
+      flex: 1;
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    .inpage-search-input {
+      width: 100%;
+      padding: 8px 36px 8px 12px;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      font-size: 14px;
+    }
+    .inpage-search-input:focus { outline: 2px solid var(--accent-color); }
+
+    .inpage-search-clear {
+      position: absolute;
+      right: 10px;
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 16px;
     }
 
-    .home-link:hover {
+    .inpage-search-count {
+      font-size: 13px;
+      color: var(--text-secondary);
+      font-family: monospace;
+      white-space: nowrap;
+    }
+    .search-nav-btns { display: flex; gap: 6px; }
+
+    /* In-Page Search Results Drawer */
+    .inpage-search-drawer {
+      position: fixed;
+      right: 20px;
+      top: 120px;
+      width: 360px;
+      max-height: calc(100vh - 160px);
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+      z-index: 895;
+      display: none;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .inpage-search-drawer.active { display: flex; }
+    .inpage-search-drawer-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-weight: 600;
+      font-size: 14px;
+    }
+    .inpage-search-drawer-list {
+      overflow-y: auto;
+      padding: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .search-result-item {
+      padding: 10px 12px;
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+      background: var(--bg-primary);
+      cursor: pointer;
+      font-size: 13px;
+      transition: all 0.15s;
+    }
+    .search-result-item:hover, .search-result-item.active {
+      border-color: var(--accent-color);
+      background: var(--accent-light);
+    }
+    .search-result-time {
+      font-weight: 700;
       color: var(--accent-color);
+      font-family: monospace;
+      margin-bottom: 4px;
+    }
+    .search-result-snippet {
+      color: var(--text-primary);
+      line-height: 1.5;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    /* Highlight mark */
+    mark.search-highlight {
+      background-color: #fef08a;
+      color: #1f2937;
+      padding: 1px 3px;
+      border-radius: 3px;
+    }
+    mark.search-highlight.active-match {
+      background-color: #f97316;
+      color: #ffffff;
+      outline: 2px solid #ea580c;
     }
 
     /* Layout Wrapper */
@@ -212,9 +320,7 @@
       font-size: 13px;
       margin-bottom: 14px;
     }
-    .toc-search:focus {
-      outline: 2px solid var(--accent-color);
-    }
+    .toc-search:focus { outline: 2px solid var(--accent-color); }
 
     .toc-list {
       list-style: none;
@@ -237,12 +343,10 @@
       overflow: hidden;
       text-overflow: ellipsis;
     }
-
     .toc-item a:hover {
       background-color: var(--accent-light);
       color: var(--accent-color);
     }
-
     .toc-item.active a {
       background-color: var(--accent-color);
       color: #ffffff;
@@ -257,19 +361,17 @@
       display: flex;
       justify-content: center;
     }
-
     .reader-container {
       width: 100%;
       max-width: var(--content-max-width);
     }
 
-    /* Book Hero / Header */
+    /* Book Hero */
     .book-hero {
       margin-bottom: 40px;
       padding-bottom: 24px;
       border-bottom: 2px solid var(--border-color);
     }
-
     .book-hero h1 {
       font-size: 2.1em;
       line-height: 1.35;
@@ -285,7 +387,6 @@
       gap: 10px;
       margin-top: 14px;
     }
-
     .meta-chip {
       display: inline-flex;
       align-items: center;
@@ -297,8 +398,13 @@
       font-size: 13px;
       font-weight: 500;
     }
+    .meta-chip.cat-badge {
+      background-color: #3b82f622;
+      color: #3b82f6;
+      font-weight: 600;
+    }
 
-    /* Content Typography & Enhanced Paragraphs */
+    /* Content Typography */
     .transcript-section {
       margin-bottom: 50px;
       scroll-margin-top: 80px;
@@ -349,25 +455,22 @@
       letter-spacing: 0.015em;
     }
 
-    /* Indented paragraph style (Traditional) */
+    /* Indented paragraph style */
     [data-p-style="indent"] .section-body p {
       text-indent: 2em;
       margin-bottom: 1.15em;
       line-height: var(--line-height);
     }
 
-    /* Block paragraph style (Modern with whitespace) */
+    /* Block paragraph style */
     [data-p-style="block"] .section-body p {
       text-indent: 0;
       margin-bottom: 1.55em;
       line-height: var(--line-height);
     }
+    .section-body p:last-child { margin-bottom: 0; }
 
-    .section-body p:last-child {
-      margin-bottom: 0;
-    }
-
-    /* Floating Navigation Controls */
+    /* Floating Tools */
     .floating-tools {
       position: fixed;
       bottom: 24px;
@@ -377,7 +480,6 @@
       gap: 10px;
       z-index: 800;
     }
-
     .float-btn {
       width: 44px;
       height: 44px;
@@ -399,7 +501,6 @@
       color: var(--accent-color);
     }
 
-    /* Overlay for mobile drawer */
     .backdrop {
       display: none;
       position: fixed;
@@ -419,36 +520,22 @@
         transform: translateX(-100%);
         box-shadow: 4px 0 16px rgba(0,0,0,0.15);
       }
-
-      .sidebar.open {
-        transform: translateX(0);
-      }
-
-      .backdrop.open {
-        display: block;
+      .sidebar.open { transform: translateX(0); }
+      .backdrop.open { display: block; }
+      .inpage-search-drawer {
+        left: 20px;
+        right: 20px;
+        width: auto;
       }
     }
 
     @media (max-width: 640px) {
-      :root {
-        --font-size: 17px;
-      }
-      .main-content {
-        padding: 24px 16px 60px 16px;
-      }
-      .book-hero h1 {
-        font-size: 1.55em;
-      }
-      .top-header {
-        padding: 0 10px;
-      }
-      .btn-icon {
-        padding: 5px 8px;
-        font-size: 13px;
-      }
-      [data-p-style="indent"] .section-body p {
-        text-indent: 1.5em;
-      }
+      :root { --font-size: 17px; }
+      .main-content { padding: 24px 16px 60px 16px; }
+      .book-hero h1 { font-size: 1.55em; }
+      .top-header { padding: 0 10px; }
+      .btn-icon { padding: 5px 7px; font-size: 12.5px; }
+      [data-p-style="indent"] .section-body p { text-indent: 1.5em; }
     }
   </style>
 </head>
@@ -464,6 +551,14 @@
       <a href="index.html" class="home-link" title="返回書架">
         🏠 書架
       </a>
+      <!-- Search Inside Book Button -->
+      <button class="btn-icon" id="search-toggle-btn" title="搜尋本書內文 (Ctrl+F)">
+        🔍 <span>搜尋內文</span>
+      </button>
+      <!-- Global Search Link -->
+      <a href="index.html?tab=search" class="btn-icon" title="前往全書庫全文檢索">
+        🌐 <span>全庫搜尋</span>
+      </a>
     </div>
 
     <div class="header-right">
@@ -473,7 +568,7 @@
       </button>
 
       <!-- Line Height Toggle -->
-      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 精簡)">
+      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 緊湊)">
         ↕ <span id="line-height-label">行距</span>
       </button>
 
@@ -492,6 +587,29 @@
       <button class="btn-icon" id="font-inc-btn" title="放大字級">A+</button>
     </div>
   </header>
+
+  <!-- In-Page Search Bar Dropdown -->
+  <div class="inpage-search-bar" id="inpage-search-bar">
+    <div class="inpage-search-input-wrapper">
+      <input type="text" id="inpage-search-input" class="inpage-search-input" placeholder="🔍 搜尋本書內文關鍵字 (按 Enter 尋找下一處，Esc 關閉)...">
+      <button class="inpage-search-clear" id="inpage-search-clear" title="清空">✕</button>
+    </div>
+    <span class="inpage-search-count" id="inpage-search-count">0 / 0</span>
+    <div class="search-nav-btns">
+      <button class="btn-icon" id="inpage-search-prev" title="上一處 (Shift+Enter)">▲</button>
+      <button class="btn-icon" id="inpage-search-next" title="下一處 (Enter)">▼</button>
+      <button class="btn-icon" id="inpage-search-close" title="關閉搜尋 (Esc)">✕</button>
+    </div>
+  </div>
+
+  <!-- In-Page Search Results Drawer -->
+  <div class="inpage-search-drawer" id="inpage-search-drawer">
+    <div class="inpage-search-drawer-header">
+      <span>搜尋結果清單</span>
+      <button class="btn-icon" id="inpage-drawer-close" style="padding: 2px 6px;">✕</button>
+    </div>
+    <div class="inpage-search-drawer-list" id="inpage-search-drawer-list"></div>
+  </div>
 
   <div class="backdrop" id="backdrop"></div>
 
@@ -605,6 +723,7 @@
         <header class="book-hero">
           <h1>Audiobook_ Deep work by Cal Newport</h1>
           <div class="book-meta-chips">
+            <span class="meta-chip cat-badge">⚡ 習慣與生產力</span>
             <span class="meta-chip">🏷️ 時長：07:42:32</span>
 <span class="meta-chip">🏷️ 模型：small.en</span>
 <span class="meta-chip">🏷️ 日期：2026-09-22</span>
@@ -612,7 +731,7 @@
         </header>
 
         <!-- Transcript Content -->
-        <div class="book-body">
+        <div class="book-body" id="book-body">
           
         <section class="transcript-section" id="sec-000000">
           <div class="section-header">
@@ -744,13 +863,14 @@
             <p class="prose-p">I’m comfortable being bored, and this can be a surprisingly rewarding skill, especially on a lazy DC summer night listening to a Nationals game slowly unfold on the radio. This book is best described as an attempt to formalize and explain my attraction to depth over shallowness, and to detail the types of strategies that have helped me act on this attraction. I’ve committed this thinking to words, in part, to help you follow my lead in rebuilding your life around deep work, but this isn’t the whole story.</p>
 <p class="prose-p">My other interest in distilling and clarifying these thoughts is to further develop my own practice. My recognition of the deep work hypothesis has helped me thrive, but I’m convinced that I haven’t yet reached my full value-producing potential. As you struggle and ultimately triumph with the ideas and rules in the chapters ahead, you can be assured that I’m following suit, ruthlessly culling the shallow and painstakingly cultivating the intensity of my depth. You’ll learn how I fare in this book’s conclusion.</p>
 <p class="prose-p">When Carl Jung wanted to revolutionize the field of psychiatry, he built a retreat in the woods. Jung’s Bollingen Tower became a place where he could maintain his ability to think deeply, and then apply the skill to produce work of such stunning originality that it changed the world. In the chapters ahead, I’ll try to convince you to join me in the effort to build our own personal Bollingen Towers, to cultivate an ability to produce real value in an increasingly distracted world, and to recognize a truth embraced by the most productive and important personalities of generations past.</p>
-<p class="prose-p">A deep life is a good life.</p>
-<h4 class="section-subhead">Part 1.</h4>
-<p class="prose-p">The Idea.</p>
-<h4 class="section-subhead">Chapter 1.</h4>
-<p class="prose-p">Deep Work is Valuable. As Election Day loomed in 2012, traffic at the New York Times website spiked, as is normal during moments of national importance. But this time, something was different. A wildly disproportionate fraction of this traffic, more than 70% by some reports, was visiting a single location in the sprawling domain.</p>
-<p class="prose-p">It wasn’t a front page breaking news story, and it wasn’t commentary from one of the paper’s Pulitzer Prize-winning columnists. It was instead a blog run by a baseball stats geek turned election forecaster named Nate Silver. Less than a year later, ESPN and ABC News lured Silver away from the Times, which tried to retain him by promising a staff of up to a dozen writers, in a major deal that would give Silver’s operation a role in everything from sports to weather to network news segments to, and probably enough, Academy Awards telecasts.</p>
-<p class="prose-p">Though there’s debate about the methodological rigor of Silver’s hand-tuned models, there are few who deny that in 2012, this 35-year-old data whiz was a winner in our economy. Another winner is David Heinermeyer Hanson, a computer programming star who created the Ruby on Rails website development framework, which currently provides the foundation for some of the web’s most popular destinations, including Twitter and Hulu. Hanson is a partner in the influential development firm Basecamp, called 37signalsuntil2014. Hanson doesn’t talk publicly about the magnitude of his profit share from Basecamp or his other revenue sources, but we can assume they’re lucrative given that Hanson splits his time between Chicago, Malibu, and Marbella, Spain, where he dabbles in high-performance racecar driving.</p>
+<p class="prose-p">A deep life is a good life.
+
+#### Part 1. The Idea.
+
+#### Chapter 1. Deep Work is Valuable. As Election Day loomed in 2012, traffic at the New York Times website spiked, as is normal during moments of national importance.</p>
+<p class="prose-p">But this time, something was different. A wildly disproportionate fraction of this traffic, more than 70% by some reports, was visiting a single location in the sprawling domain. It wasn’t a front page breaking news story, and it wasn’t commentary from one of the paper’s Pulitzer Prize-winning columnists. It was instead a blog run by a baseball stats geek turned election forecaster named Nate Silver.</p>
+<p class="prose-p">Less than a year later, ESPN and ABC News lured Silver away from the Times, which tried to retain him by promising a staff of up to a dozen writers, in a major deal that would give Silver’s operation a role in everything from sports to weather to network news segments to, and probably enough, Academy Awards telecasts. Though there’s debate about the methodological rigor of Silver’s hand-tuned models, there are few who deny that in 2012, this 35-year-old data whiz was a winner in our economy.</p>
+<p class="prose-p">Another winner is David Heinermeyer Hanson, a computer programming star who created the Ruby on Rails website development framework, which currently provides the foundation for some of the web’s most popular destinations, including Twitter and Hulu. Hanson is a partner in the influential development firm Basecamp, called 37signalsuntil2014. Hanson doesn’t talk publicly about the magnitude of his profit share from Basecamp or his other revenue sources, but we can assume they’re lucrative given that Hanson splits his time between Chicago, Malibu, and Marbella, Spain, where he dabbles in high-performance racecar driving.</p>
 <p class="prose-p">Our third and final example of a clear winner in our economy is John Doar, a general partner in the famed Silicon Valley venture capital fund Kleiner, Perkins, Caufield, and Byers. Doar helped fund many of the key companies fueling the current technological revolution, including Twitter, Google, Amazon, Netscape, and Sun Microsystems. The return on these investments has been astronomical. Doar’s net worth, as of this writing, is more than $3 billion. Why have Silver, Hanson, and Doar done so well?</p>
 <p class="prose-p">There are two types of answers to this question. The first are micro in scope, and focus on the personality traits and tactics that help</p>
           </div>
@@ -937,14 +1057,14 @@
           <div class="section-body">
             <p class="prose-p">to service their clients. When a Harvard professor forced them to disconnect more regularly as part of a research study, they found, to their surprise, that this connectivity didn’t matter nearly as much as they had assumed. The clients didn’t really need to reach them at all times, and their performance as consultants improved once their attention became less fractured. Similarly, several managers I know tried to convince me that they’re most valuable when they’re able to respond quickly to their team’s problems, preventing project logjams. They see their role as enabling others&#x27; productivity, not necessarily protecting their own.</p>
 <p class="prose-p">Follow-up discussions, however, soon uncovered that this goal didn’t really require attention fracturing connectivity. Indeed, many software companies now deploy the Scrum Project Management methodology, which replaces a lot of this ad hoc messaging with regular, highly structured, and ruthlessly efficient status meetings often held standing up to minimize the urge to bloviate. This approach frees up more managerial time for thinking deeply about the problems their teams are tackling, often improving the overall value of what they produce. Put another way, deep work is not the only skill valuable in our economy, and it’s possible to do well without fostering this ability, but the niches where this is advisable are increasingly rare.</p>
-<p class="prose-p">Unless you have strong evidence that distraction is important for your specific profession, you’re best served, for the reasons argued earlier in this chapter, by giving serious consideration to depth.</p>
-<h4 class="section-subhead">Chapter 2 Deep work is rare.</h4>
-<p class="prose-p">In 2012, Facebook unveiled the plans for a new headquarters designed by Frank Gehry. At the center of this new building is what CEO Mark Zuckerberg called the largest open floor plan in the world. More than 3,000 employees will work on moveable furniture spread over a 10-acre expanse. Facebook, of course, is not the only Silicon Valley heavyweight to embrace the open office concept.</p>
-<p class="prose-p">When Jack Dorsey, whom we met at the end of the last chapter, bought the old San Francisco Chronicle building to House Square, he configured the space so that his developers work in common spaces on long, shared desks. “… We encourage people to stay out in the open because we believe in serendipity and people walking by each other teaching new things,” Dorsey explained. Another big business trend in recent years is the rise of instant messaging.</p>
-<p class="prose-p">A Times article notes that this technology is no longer the province of chatty teenagers and is now helping companies benefit from new productivity gains and improvements in customer response time. A senior project manager at IBM boasts, “… We send 2.5 million IMs within IBM each day.” One of the more successful recent entrants into the business IM space is Hall, a Silicon Valley startup that helps employees move beyond just chat and engage in real-time collaboration. A San Francisco-based developer I know described to me what it was like to work in a company that uses Hall.</p>
-<p class="prose-p">The most efficient employees, he explained, set up their text editor to flash an alert on their screen when a new question or comment is posted to the company’s Hall account. They can then, with a sequence of practiced keystrokes, jump over to Hall, type in their thoughts, and then jump back to their coding with barely a pause. My friends seemed impressed when describing their speed. A third trend is the push for content producers of all types to maintain a social media presence.</p>
-<p class="prose-p">The New York Times, a bastion of old-world media values, now encourages its employees to tweet, a hint taken by the more than 800 writers, editors, and photographers for the paper who now maintain a Twitter account. This is not outlier behavior. It’s instead the new normal. When the novelist Jonathan Franzen wrote a piece for The Guardian calling Twitter a coercive development in the literary world, he was widely ridiculed as out of touch.</p>
-<p class="prose-p">The online magazine Slate called Franzen’s complaints a lonely war on the Internet, and fellow novelist Jennifer Weiner wrote a response in The New Republic in which she argued Franzen’s a category of one, a lonely voice issuing ex cathedra edicts that can only apply to himself.</p>
+<p class="prose-p">Unless you have strong evidence that distraction is important for your specific profession, you’re best served, for the reasons argued earlier in this chapter, by giving serious consideration to depth.
+
+#### Chapter 2 Deep work is rare. In 2012, Facebook unveiled the plans for a new headquarters designed by Frank Gehry. At the center of this new building is what CEO Mark Zuckerberg called the largest open floor plan in the world. More than 3,000 employees will work on moveable furniture spread over a 10-acre expanse.</p>
+<p class="prose-p">Facebook, of course, is not the only Silicon Valley heavyweight to embrace the open office concept. When Jack Dorsey, whom we met at the end of the last chapter, bought the old San Francisco Chronicle building to House Square, he configured the space so that his developers work in common spaces on long, shared desks.</p>
+<p class="prose-p">“… We encourage people to stay out in the open because we believe in serendipity and people walking by each other teaching new things,” Dorsey explained. Another big business trend in recent years is the rise of instant messaging. A Times article notes that this technology is no longer the province of chatty teenagers and is now helping companies benefit from new productivity gains and improvements in customer response time.</p>
+<p class="prose-p">A senior project manager at IBM boasts, “… We send 2.5 million IMs within IBM each day.” One of the more successful recent entrants into the business IM space is Hall, a Silicon Valley startup that helps employees move beyond just chat and engage in real-time collaboration. A San Francisco-based developer I know described to me what it was like to work in a company that uses Hall. The most efficient employees, he explained, set up their text editor to flash an alert on their screen when a new question or comment is posted to the company’s Hall account.</p>
+<p class="prose-p">They can then, with a sequence of practiced keystrokes, jump over to Hall, type in their thoughts, and then jump back to their coding with barely a pause. My friends seemed impressed when describing their speed. A third trend is the push for content producers of all types to maintain a social media presence. The New York Times, a bastion of old-world media values, now encourages its employees to tweet, a hint taken by the more than 800 writers, editors, and photographers for the paper who now maintain a Twitter account.</p>
+<p class="prose-p">This is not outlier behavior. It’s instead the new normal. When the novelist Jonathan Franzen wrote a piece for The Guardian calling Twitter a coercive development in the literary world, he was widely ridiculed as out of touch. The online magazine Slate called Franzen’s complaints a lonely war on the Internet, and fellow novelist Jennifer Weiner wrote a response in The New Republic in which she argued Franzen’s a category of one, a lonely voice issuing ex cathedra edicts that can only apply to himself.</p>
           </div>
         </section>
         
@@ -1089,13 +1209,13 @@
             <p class="prose-p">the deep work struggles to compete against the shiny thrum of tweets, likes, tagged photos, walls, posts, and all the other behaviors that we’re now taught are necessary for no other reason than that they exist. Bad for business, good for you. Deep work should be a priority in today’s business climate, but it’s not. I’ve just summarized various explanations for this paradox.</p>
 <p class="prose-p">Among them are the realities that deep work is hard and shallow work is easier, that in the absence of clear goals for your job, the visible busyness that surrounds shallow work becomes self-preserving, and that our culture has developed a belief that if a behavior relates to the internet, then it’s good, regardless of its impact on our ability to produce valuable things. All of these trends are enabled by the difficulty of directly measuring the value of depth or the cost of ignoring it.</p>
 <p class="prose-p">If you believe in the value of depth, this reality spells bad news for businesses in general as it’s leading them to miss out on potentially massive increases in their value production. But for you, as an individual, good news lurks. The myopia of your peers and employers uncovers a great personal advantage. Assuming the trends outlined here continue, depth will become increasingly rare and therefore increasingly valuable.</p>
-<p class="prose-p">Having just established that there’s nothing fundamentally flawed about deep work and nothing fundamentally necessary about the distracting behaviors that displace it, you can therefore continue with confidence with the ultimate goal of this book, to systematically develop your personal ability to go deep and, by doing so, reap great rewards.</p>
-<h4 class="section-subhead">Chapter 3 Deep Work is Meaningful Rick Fuhrer is a blacksmith.</h4>
-<p class="prose-p">He specializes in ancient and medieval metalworking practices which he painstakingly recreates in his shop, Door County Forge Works. I do all my work by hand and use tools that multiply my force without limiting my creativity or interaction with the material, he explains in his artist statement. What may take me a hundred blows by hand can be accomplished in one by a large swaging machine. This is the antithesis of my goal and to that end all my work shows evidence of the two hands that made it.</p>
-<p class="prose-p">A 2012 PBS documentary provides a glimpse into Fuhrer’s world. We learn that he works in a converted barn in Wisconsin farm country, not far inland from the scenic Sturgeon Bay of Lake Michigan. Fuhrer often leaves the barn doors open to vent the heat of the forges one suspects, his efforts framed by farm fields stretching to the horizon. The setting is idyllic, but the work can seem at first encounter brutish.</p>
-<p class="prose-p">In the documentary Fuhrer is trying to recreate a Viking era sword. He begins by using a 1500 year old technique to smelt crucible steel, an unusually pure, for the period, form of the metal. The result is an ingot, not much bigger than three or four stacked smartphones. This dense ingot must then be shaped and polished into a long and elegant sword blade.</p>
-<p class="prose-p">This part, the initial breakdown is terrible, Fuhrer says to the camera as he methodically heats the ingot, hits it with a hammer, turns it, hits it, then puts it back in the flames to start over. The narrator reveals that it will take eight hours of this hammering to complete the shaping. As you watch Fuhrer work however, the sense of the labor shifts. It becomes clear that he’s not drearily whacking at the metal like a miner with a pickaxe.</p>
-<p class="prose-p">Every hit, though forceful, is carefully controlled. He peers intently at the metal through thin framed intellectual glasses, which seem out of place perched above his heavy beard and broad shoulders, burning it just so for each impact.</p>
+<p class="prose-p">Having just established that there’s nothing fundamentally flawed about deep work and nothing fundamentally necessary about the distracting behaviors that displace it, you can therefore continue with confidence with the ultimate goal of this book, to systematically develop your personal ability to go deep and, by doing so, reap great rewards.
+
+#### Chapter 3 Deep Work is Meaningful Rick Fuhrer is a blacksmith. He specializes in ancient and medieval metalworking practices which he painstakingly recreates in his shop, Door County Forge Works. I do all my work by hand and use tools that multiply my force without limiting my creativity or interaction with the material, he explains in his artist statement.</p>
+<p class="prose-p">What may take me a hundred blows by hand can be accomplished in one by a large swaging machine. This is the antithesis of my goal and to that end all my work shows evidence of the two hands that made it. A 2012 PBS documentary provides a glimpse into Fuhrer’s world. We learn that he works in a converted barn in Wisconsin farm country, not far inland from the scenic Sturgeon Bay of Lake Michigan.</p>
+<p class="prose-p">Fuhrer often leaves the barn doors open to vent the heat of the forges one suspects, his efforts framed by farm fields stretching to the horizon. The setting is idyllic, but the work can seem at first encounter brutish. In the documentary Fuhrer is trying to recreate a Viking era sword. He begins by using a 1500 year old technique to smelt crucible steel, an unusually pure, for the period, form of the metal.</p>
+<p class="prose-p">The result is an ingot, not much bigger than three or four stacked smartphones. This dense ingot must then be shaped and polished into a long and elegant sword blade. This part, the initial breakdown is terrible, Fuhrer says to the camera as he methodically heats the ingot, hits it with a hammer, turns it, hits it, then puts it back in the flames to start over. The narrator reveals that it will take eight hours of this hammering to complete the shaping.</p>
+<p class="prose-p">As you watch Fuhrer work however, the sense of the labor shifts. It becomes clear that he’s not drearily whacking at the metal like a miner with a pickaxe. Every hit, though forceful, is carefully controlled. He peers intently at the metal through thin framed intellectual glasses, which seem out of place perched above his heavy beard and broad shoulders, burning it just so for each impact.</p>
 <p class="prose-p">“&#x27;You have to be very gentle with it, or you will crack it,&#x27; he explains. After a few more hammer strikes, he adds, ”&#x27;You have to nudge it. Slowly it breaks down. Then you start to enjoy it.&#x27;&quot; At one point, about halfway through the smithing, after Fuhrer has finished hammering out the desired shape, he begins rotating the metal carefully in a narrow trough of burning charcoal.</p>
           </div>
         </section>
@@ -1227,10 +1347,10 @@
 <p class="prose-p">The first two chapters of part 1 were pragmatic. They argued that deep work is becoming increasingly valuable in our economy, at the same time that it also is becoming increasingly rare for somewhat arbitrary reasons. This represents a classic market mismatch. If you cultivate this skill, you’ll thrive professionally.</p>
 <p class="prose-p">This final chapter, by contrast, has little to add to this practical discussion of workplace advancement, and yet it’s absolutely necessary for these earlier ideas to gain traction. The sections ahead describe a rigorous program for transforming your professional life into one centered on depth. This is a difficult transition, and as with many such efforts, well-reasoned, pragmatic arguments can motivate you only to a certain point. Eventually, the goal you pursue needs to resonate at a more human level.</p>
 <p class="prose-p">This chapter argues that when it comes to the embrace of depth, such resonance is inevitable. Whether you approach the activity of going deep from the perspective of neuroscience, psychology, or lofty philosophy, these paths all seem to lead back to a connection between depth and meaning. It’s as if our species has evolved into one that flourishes in depth and wallows in shallowness, becoming what we might call Homo sapiens depensus. I earlier quoted Winifred Gallagher, the converted disciple of depth, saying, I’ll live the focused life, because it’s the best kind there is.</p>
-<p class="prose-p">This is perhaps the best way to sum up the argument of this chapter, and of part one more broadly. A deep life is a good life, any way you look at it.</p>
-<h4 class="section-subhead">Part 2.</h4>
-<p class="prose-p">The Rules. Rule number one. Work deeply. Soon after I met David Duane for a drink at a DuPont Circle bar, he brought up the eudaimonia machine.</p>
-<p class="prose-p">Duane is an architecture professor and therefore likes to explore the intersection between the conceptual and the concrete. The</p>
+<p class="prose-p">This is perhaps the best way to sum up the argument of this chapter, and of part one more broadly. A deep life is a good life, any way you look at it.
+
+#### Part 2. The Rules. Rule number one.</p>
+<p class="prose-p">Work deeply. Soon after I met David Duane for a drink at a DuPont Circle bar, he brought up the eudaimonia machine. Duane is an architecture professor and therefore likes to explore the intersection between the conceptual and the concrete. The</p>
           </div>
         </section>
         
@@ -2585,6 +2705,204 @@
 
     document.getElementById('scroll-top-btn').addEventListener('click', () => {
       window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    // ==========================================
+    // IN-PAGE CONTENT SEARCH (單書全文搜尋)
+    // ==========================================
+    const searchBar = document.getElementById('inpage-search-bar');
+    const searchInput = document.getElementById('inpage-search-input');
+    const searchCount = document.getElementById('inpage-search-count');
+    const searchDrawer = document.getElementById('inpage-search-drawer');
+    const searchDrawerList = document.getElementById('inpage-search-drawer-list');
+    const searchToggleBtn = document.getElementById('search-toggle-btn');
+    const searchClearBtn = document.getElementById('inpage-search-clear');
+    const searchPrevBtn = document.getElementById('inpage-search-prev');
+    const searchNextBtn = document.getElementById('inpage-search-next');
+    const searchCloseBtn = document.getElementById('inpage-search-close');
+    const drawerCloseBtn = document.getElementById('inpage-drawer-close');
+
+    let searchMatches = [];
+    let currentMatchIdx = -1;
+
+    // Cache original innerHTML for clean resets
+    const rawParagraphs = Array.from(document.querySelectorAll('.section-body p')).map(p => ({
+      el: p,
+      rawHtml: p.innerHTML,
+      rawText: p.textContent
+    }));
+
+    function openSearch() {
+      searchBar.classList.add('active');
+      searchInput.focus();
+      searchInput.select();
+      if (searchInput.value.trim()) {
+        performSearch(searchInput.value.trim());
+      }
+    }
+
+    function closeSearch() {
+      searchBar.classList.remove('active');
+      searchDrawer.classList.remove('active');
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchCount.textContent = '0 / 0';
+    }
+
+    function clearHighlights() {
+      rawParagraphs.forEach(item => {
+        item.el.innerHTML = item.rawHtml;
+      });
+    }
+
+    function escapeRegex(str) {
+      return str.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+    }
+
+    function escapeHtml(str) {
+      return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+
+    function performSearch(query) {
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchDrawerList.innerHTML = '';
+
+      if (!query || query.trim().length === 0) {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+        return;
+      }
+
+      query = query.trim();
+      const qLower = query.toLowerCase();
+      const regex = new RegExp(`(${escapeRegex(query)})`, 'gi');
+
+      rawParagraphs.forEach((item, pIdx) => {
+        if (item.rawText.toLowerCase().includes(qLower)) {
+          const sec = item.el.closest('.transcript-section');
+          const secTime = sec ? (sec.querySelector('.section-time')?.textContent || '') : '';
+          const secId = sec ? sec.id : '';
+
+          // Apply highlight
+          item.el.innerHTML = item.rawHtml.replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const marks = Array.from(item.el.querySelectorAll('mark.search-highlight'));
+          marks.forEach(mark => {
+            searchMatches.push({
+              mark,
+              el: item.el,
+              secTime,
+              secId
+            });
+          });
+
+          // Snippet creation
+          const matchPos = item.rawText.toLowerCase().indexOf(qLower);
+          const start = Math.max(0, matchPos - 30);
+          const end = Math.min(item.rawText.length, matchPos + query.length + 50);
+          const snippetText = item.rawText.slice(start, end);
+          const snippetHtml = escapeHtml(snippetText).replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const card = document.createElement('div');
+          card.className = 'search-result-item';
+          card.innerHTML = `
+            <div class="search-result-time">${secTime}</div>
+            <div class="search-result-snippet">...${snippetHtml}...</div>
+          `;
+          card.addEventListener('click', () => {
+            const targetIdx = searchMatches.findIndex(m => m.mark === marks[0]);
+            if (targetIdx >= 0) goToMatch(targetIdx);
+          });
+          searchDrawerList.appendChild(card);
+        }
+      });
+
+      if (searchMatches.length > 0) {
+        searchDrawer.classList.add('active');
+        goToMatch(0);
+      } else {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+      }
+    }
+
+    function goToMatch(idx) {
+      if (idx < 0 || idx >= searchMatches.length) return;
+      if (currentMatchIdx >= 0 && searchMatches[currentMatchIdx]) {
+        searchMatches[currentMatchIdx].mark.classList.remove('active-match');
+      }
+      currentMatchIdx = idx;
+      const target = searchMatches[currentMatchIdx];
+      target.mark.classList.add('active-match');
+      searchCount.textContent = `${currentMatchIdx + 1} / ${searchMatches.length}`;
+
+      // Highlight active drawer item
+      const drawerItems = searchDrawerList.querySelectorAll('.search-result-item');
+      drawerItems.forEach(di => di.classList.remove('active'));
+
+      target.mark.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+
+    searchToggleBtn.addEventListener('click', () => {
+      if (searchBar.classList.contains('active')) {
+        closeSearch();
+      } else {
+        openSearch();
+      }
+    });
+
+    let debounceTimer;
+    searchInput.addEventListener('input', (e) => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => {
+        performSearch(e.target.value);
+      }, 200);
+    });
+
+    searchClearBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      performSearch('');
+      searchInput.focus();
+    });
+
+    searchNextBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const nextIdx = (currentMatchIdx + 1) % searchMatches.length;
+      goToMatch(nextIdx);
+    });
+
+    searchPrevBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const prevIdx = (currentMatchIdx - 1 + searchMatches.length) % searchMatches.length;
+      goToMatch(prevIdx);
+    });
+
+    searchInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        if (e.shiftKey) {
+          searchPrevBtn.click();
+        } else {
+          searchNextBtn.click();
+        }
+      } else if (e.key === 'Escape') {
+        closeSearch();
+      }
+    });
+
+    searchCloseBtn.addEventListener('click', closeSearch);
+    drawerCloseBtn.addEventListener('click', () => searchDrawer.classList.remove('active'));
+
+    window.addEventListener('keydown', (e) => {
+      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'f') {
+        e.preventDefault();
+        openSearch();
+      } else if (e.key === 'Escape') {
+        if (searchBar.classList.contains('active')) closeSearch();
+      }
     });
   </script>
 </body>

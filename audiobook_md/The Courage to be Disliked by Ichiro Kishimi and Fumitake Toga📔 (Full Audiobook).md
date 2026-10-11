@@ -2122,23 +2122,23 @@ All words that are used to judge other people are words that come out of vertica
 
 As he sipped the hot coffee, thoughts of his grandfather crossed his mind.
 
-#### EXIST IN THE PRESENT.
+#### EXIST IN THE PRESENT. Philosopher, well, have you worked things out? Youth, gradually, but yes, it’s getting clearer. You don’t seem to be aware of it, but just now you said something really over the top.
 
-Philosopher, well, have you worked things out? Youth, gradually, but yes, it’s getting clearer. You don’t seem to be aware of it, but just now you said something really over the top. It’s a dangerous, rather extreme opinion that just negates everything in the world.
+It’s a dangerous, rather extreme opinion that just negates everything in the world. Philosopher, oh, really? What is it? Youth, it’s the idea that being of use to someone is what gives one a true awareness of one’s worth.
 
-Philosopher, oh, really? What is it? Youth, it’s the idea that being of use to someone is what gives one a true awareness of one’s worth. If you put it the other way around, a person who isn’t of any use to others has no worth at all.
+If you put it the other way around, a person who isn’t of any use to others has no worth at all. That’s what you are saying, isn’t it? If one takes that to its logical conclusion, then the lives of newborn babies and of invalids and old people who are bedridden aren’t worth living either. How could this be?
 
-That’s what you are saying, isn’t it? If one takes that to its logical conclusion, then the lives of newborn babies and of invalids and old people who are bedridden aren’t worth living either. How could this be? Let’s talk about my grandfather.
+Let’s talk about my grandfather. He spends his days bedridden at an old people’s home. Since he has dementia, he doesn’t recognise any of his children or grandchildren, and his condition is such that he would not be able to go on living without constant care. Someone simply couldn’t think of him as being of use to someone.
 
-He spends his days bedridden at an old people’s home. Since he has dementia, he doesn’t recognise any of his children or grandchildren, and his condition is such that he would not be able to go on living without constant care. Someone simply couldn’t think of him as being of use to someone. Don’t you see?
+Don’t you see? Your opinion is basically the same thing as saying to my grandfather, people like you aren’t qualified to live. Philosopher, I reject that definitively. Youth, how do you reject that?
 
-Your opinion is basically the same thing as saying to my grandfather, people like you aren’t qualified to live. Philosopher, I reject that definitively. Youth, how do you reject that? There are parents who refute my explanation of the concept of encouragement by saying, our child does bad things from morning to night, and there is never an occasion to tell him, thank you, or you helped a lot.
+There are parents who refute my explanation of the concept of encouragement by saying, our child does bad things from morning to night, and there is never an occasion to tell him, thank you, or you helped a lot. The context is probably the same as what you are talking about, isn’t it? Yes, it is. So tell me, please, how you justify that.
 
-The context is probably the same as what you are talking about, isn’t it? Yes, it is. So tell me, please, how you justify that. At this point you are looking at another person on the level of his acts.
+At this point you are looking at another person on the level of his acts. In other words, that that person did something, so from that point of view, it might seem that bedridden old people are only a nuisance, and are of no use to anyone. So let’s look at other people not on the level of acts, but on the level of being. Without judging whether or not other people did something, one rejoices in their being there, in their very existence, and one calls out to them with words of gratitude.
 
-In other words, that that person did something, so from that point of view, it might seem that bedridden old people are only a nuisance, and are of no use to anyone. So let’s look at other people not on the level of acts, but on the level of being. Without judging whether or not other people did something, one rejoices in their being there, in their very existence, and one calls out to them with words of gratitude. Youth, you call out to their existence?
+Youth, you call out to their existence? What on earth are you talking about? Philosopher, if you consider things at the level of being, we are of use to others, and have worth just by being here. This is an indisputable fact.
 
-What on earth are you talking about? Philosopher, if you consider things at the level of being, we are of use to others, and have worth just by being here. This is an indisputable fact. No way, enough joking around, being of use to someone just by being here, that’s got to be straight out of some new religion.
+No way, enough joking around, being of use to someone just by being here, that’s got to be straight out of some new religion.
 
 
 <a id="sec-044806"></a>

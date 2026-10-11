@@ -66,26 +66,12 @@
       --card-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
     }
 
-    [data-line-height="compact"] {
-      --line-height: 1.68;
-    }
-    [data-line-height="normal"] {
-      --line-height: 1.88;
-    }
-    [data-line-height="loose"] {
-      --line-height: 2.12;
-    }
+    [data-line-height="compact"] { --line-height: 1.68; }
+    [data-line-height="normal"] { --line-height: 1.88; }
+    [data-line-height="loose"] { --line-height: 2.12; }
 
-    * {
-      box-sizing: border-box;
-      margin: 0;
-      padding: 0;
-    }
-
-    html {
-      scroll-behavior: smooth;
-    }
-
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
     body {
       font-family: var(--font-family);
       font-size: var(--font-size);
@@ -119,7 +105,7 @@
       display: flex;
       align-items: center;
       justify-content: space-between;
-      padding: 0 20px;
+      padding: 0 18px;
       background-color: var(--bg-header);
       backdrop-filter: blur(8px);
       -webkit-backdrop-filter: blur(8px);
@@ -129,7 +115,7 @@
     .header-left, .header-right {
       display: flex;
       align-items: center;
-      gap: 10px;
+      gap: 8px;
       flex-wrap: nowrap;
     }
 
@@ -138,7 +124,7 @@
       border: 1px solid var(--border-color);
       color: var(--text-primary);
       cursor: pointer;
-      font-size: 14px;
+      font-size: 13.5px;
       padding: 6px 10px;
       border-radius: 8px;
       display: inline-flex;
@@ -147,6 +133,7 @@
       transition: all 0.2s;
       white-space: nowrap;
       user-select: none;
+      text-decoration: none;
     }
     .btn-icon:hover {
       background-color: var(--accent-light);
@@ -161,11 +148,132 @@
       font-size: 14px;
       display: flex;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
+    }
+    .home-link:hover { color: var(--accent-color); }
+
+    /* In-Page Search Bar Dropdown */
+    .inpage-search-bar {
+      position: sticky;
+      top: 60px;
+      z-index: 890;
+      background-color: var(--bg-surface);
+      border-bottom: 1px solid var(--border-color);
+      padding: 10px 18px;
+      display: none;
+      align-items: center;
+      gap: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.06);
+    }
+    .inpage-search-bar.active { display: flex; }
+
+    .inpage-search-input-wrapper {
+      flex: 1;
+      position: relative;
+      display: flex;
+      align-items: center;
+    }
+    .inpage-search-input {
+      width: 100%;
+      padding: 8px 36px 8px 12px;
+      border: 1px solid var(--border-color);
+      border-radius: 6px;
+      background-color: var(--bg-primary);
+      color: var(--text-primary);
+      font-size: 14px;
+    }
+    .inpage-search-input:focus { outline: 2px solid var(--accent-color); }
+
+    .inpage-search-clear {
+      position: absolute;
+      right: 10px;
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 16px;
     }
 
-    .home-link:hover {
+    .inpage-search-count {
+      font-size: 13px;
+      color: var(--text-secondary);
+      font-family: monospace;
+      white-space: nowrap;
+    }
+    .search-nav-btns { display: flex; gap: 6px; }
+
+    /* In-Page Search Results Drawer */
+    .inpage-search-drawer {
+      position: fixed;
+      right: 20px;
+      top: 120px;
+      width: 360px;
+      max-height: calc(100vh - 160px);
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+      z-index: 895;
+      display: none;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .inpage-search-drawer.active { display: flex; }
+    .inpage-search-drawer-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-weight: 600;
+      font-size: 14px;
+    }
+    .inpage-search-drawer-list {
+      overflow-y: auto;
+      padding: 8px;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+    }
+    .search-result-item {
+      padding: 10px 12px;
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+      background: var(--bg-primary);
+      cursor: pointer;
+      font-size: 13px;
+      transition: all 0.15s;
+    }
+    .search-result-item:hover, .search-result-item.active {
+      border-color: var(--accent-color);
+      background: var(--accent-light);
+    }
+    .search-result-time {
+      font-weight: 700;
       color: var(--accent-color);
+      font-family: monospace;
+      margin-bottom: 4px;
+    }
+    .search-result-snippet {
+      color: var(--text-primary);
+      line-height: 1.5;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    /* Highlight mark */
+    mark.search-highlight {
+      background-color: #fef08a;
+      color: #1f2937;
+      padding: 1px 3px;
+      border-radius: 3px;
+    }
+    mark.search-highlight.active-match {
+      background-color: #f97316;
+      color: #ffffff;
+      outline: 2px solid #ea580c;
     }
 
     /* Layout Wrapper */
@@ -212,9 +320,7 @@
       font-size: 13px;
       margin-bottom: 14px;
     }
-    .toc-search:focus {
-      outline: 2px solid var(--accent-color);
-    }
+    .toc-search:focus { outline: 2px solid var(--accent-color); }
 
     .toc-list {
       list-style: none;
@@ -237,12 +343,10 @@
       overflow: hidden;
       text-overflow: ellipsis;
     }
-
     .toc-item a:hover {
       background-color: var(--accent-light);
       color: var(--accent-color);
     }
-
     .toc-item.active a {
       background-color: var(--accent-color);
       color: #ffffff;
@@ -257,19 +361,17 @@
       display: flex;
       justify-content: center;
     }
-
     .reader-container {
       width: 100%;
       max-width: var(--content-max-width);
     }
 
-    /* Book Hero / Header */
+    /* Book Hero */
     .book-hero {
       margin-bottom: 40px;
       padding-bottom: 24px;
       border-bottom: 2px solid var(--border-color);
     }
-
     .book-hero h1 {
       font-size: 2.1em;
       line-height: 1.35;
@@ -285,7 +387,6 @@
       gap: 10px;
       margin-top: 14px;
     }
-
     .meta-chip {
       display: inline-flex;
       align-items: center;
@@ -297,8 +398,13 @@
       font-size: 13px;
       font-weight: 500;
     }
+    .meta-chip.cat-badge {
+      background-color: #10b98122;
+      color: #10b981;
+      font-weight: 600;
+    }
 
-    /* Content Typography & Enhanced Paragraphs */
+    /* Content Typography */
     .transcript-section {
       margin-bottom: 50px;
       scroll-margin-top: 80px;
@@ -349,25 +455,22 @@
       letter-spacing: 0.015em;
     }
 
-    /* Indented paragraph style (Traditional) */
+    /* Indented paragraph style */
     [data-p-style="indent"] .section-body p {
       text-indent: 2em;
       margin-bottom: 1.15em;
       line-height: var(--line-height);
     }
 
-    /* Block paragraph style (Modern with whitespace) */
+    /* Block paragraph style */
     [data-p-style="block"] .section-body p {
       text-indent: 0;
       margin-bottom: 1.55em;
       line-height: var(--line-height);
     }
+    .section-body p:last-child { margin-bottom: 0; }
 
-    .section-body p:last-child {
-      margin-bottom: 0;
-    }
-
-    /* Floating Navigation Controls */
+    /* Floating Tools */
     .floating-tools {
       position: fixed;
       bottom: 24px;
@@ -377,7 +480,6 @@
       gap: 10px;
       z-index: 800;
     }
-
     .float-btn {
       width: 44px;
       height: 44px;
@@ -399,7 +501,6 @@
       color: var(--accent-color);
     }
 
-    /* Overlay for mobile drawer */
     .backdrop {
       display: none;
       position: fixed;
@@ -419,36 +520,22 @@
         transform: translateX(-100%);
         box-shadow: 4px 0 16px rgba(0,0,0,0.15);
       }
-
-      .sidebar.open {
-        transform: translateX(0);
-      }
-
-      .backdrop.open {
-        display: block;
+      .sidebar.open { transform: translateX(0); }
+      .backdrop.open { display: block; }
+      .inpage-search-drawer {
+        left: 20px;
+        right: 20px;
+        width: auto;
       }
     }
 
     @media (max-width: 640px) {
-      :root {
-        --font-size: 17px;
-      }
-      .main-content {
-        padding: 24px 16px 60px 16px;
-      }
-      .book-hero h1 {
-        font-size: 1.55em;
-      }
-      .top-header {
-        padding: 0 10px;
-      }
-      .btn-icon {
-        padding: 5px 8px;
-        font-size: 13px;
-      }
-      [data-p-style="indent"] .section-body p {
-        text-indent: 1.5em;
-      }
+      :root { --font-size: 17px; }
+      .main-content { padding: 24px 16px 60px 16px; }
+      .book-hero h1 { font-size: 1.55em; }
+      .top-header { padding: 0 10px; }
+      .btn-icon { padding: 5px 7px; font-size: 12.5px; }
+      [data-p-style="indent"] .section-body p { text-indent: 1.5em; }
     }
   </style>
 </head>
@@ -464,6 +551,14 @@
       <a href="index.html" class="home-link" title="返回書架">
         🏠 書架
       </a>
+      <!-- Search Inside Book Button -->
+      <button class="btn-icon" id="search-toggle-btn" title="搜尋本書內文 (Ctrl+F)">
+        🔍 <span>搜尋內文</span>
+      </button>
+      <!-- Global Search Link -->
+      <a href="index.html?tab=search" class="btn-icon" title="前往全書庫全文檢索">
+        🌐 <span>全庫搜尋</span>
+      </a>
     </div>
 
     <div class="header-right">
@@ -473,7 +568,7 @@
       </button>
 
       <!-- Line Height Toggle -->
-      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 精簡)">
+      <button class="btn-icon" id="line-height-btn" title="切換行距 (舒適 / 寬鬆 / 緊湊)">
         ↕ <span id="line-height-label">行距</span>
       </button>
 
@@ -492,6 +587,29 @@
       <button class="btn-icon" id="font-inc-btn" title="放大字級">A+</button>
     </div>
   </header>
+
+  <!-- In-Page Search Bar Dropdown -->
+  <div class="inpage-search-bar" id="inpage-search-bar">
+    <div class="inpage-search-input-wrapper">
+      <input type="text" id="inpage-search-input" class="inpage-search-input" placeholder="🔍 搜尋本書內文關鍵字 (按 Enter 尋找下一處，Esc 關閉)...">
+      <button class="inpage-search-clear" id="inpage-search-clear" title="清空">✕</button>
+    </div>
+    <span class="inpage-search-count" id="inpage-search-count">0 / 0</span>
+    <div class="search-nav-btns">
+      <button class="btn-icon" id="inpage-search-prev" title="上一處 (Shift+Enter)">▲</button>
+      <button class="btn-icon" id="inpage-search-next" title="下一處 (Enter)">▼</button>
+      <button class="btn-icon" id="inpage-search-close" title="關閉搜尋 (Esc)">✕</button>
+    </div>
+  </div>
+
+  <!-- In-Page Search Results Drawer -->
+  <div class="inpage-search-drawer" id="inpage-search-drawer">
+    <div class="inpage-search-drawer-header">
+      <span>搜尋結果清單</span>
+      <button class="btn-icon" id="inpage-drawer-close" style="padding: 2px 6px;">✕</button>
+    </div>
+    <div class="inpage-search-drawer-list" id="inpage-search-drawer-list"></div>
+  </div>
 
   <div class="backdrop" id="backdrop"></div>
 
@@ -558,6 +676,7 @@
         <header class="book-hero">
           <h1>The Psychology of Money by Morgan Housel - Audiobook (mp3cut.net)上</h1>
           <div class="book-meta-chips">
+            <span class="meta-chip cat-badge">💰 財富與投資</span>
             <span class="meta-chip">🏷️ 時長：03:46:32</span>
 <span class="meta-chip">🏷️ 模型：small.en</span>
 <span class="meta-chip">🏷️ 日期：2026-09-22</span>
@@ -565,7 +684,7 @@
         </header>
 
         <!-- Transcript Content -->
-        <div class="book-body">
+        <div class="book-body" id="book-body">
           
         <section class="transcript-section" id="sec-000000">
           <div class="section-header">
@@ -573,8 +692,9 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">Introducing, The Psychology of Money, by Morgan Hausl. Narrated by Rehan Ahmadzai. Timeless lessons on wealth, greed, and happiness. One of the best and most original finance books in years.</p>
-<h4 class="section-subhead">INTRODUCTION, THE GREATEST SHOW ON EARTH.</h4>
+            <p class="prose-p">Introducing, The Psychology of Money, by Morgan Hausl. Narrated by Rehan Ahmadzai. Timeless lessons on wealth, greed, and happiness. One of the best and most original finance books in years.
+
+#### INTRODUCTION, THE GREATEST SHOW ON EARTH.</p>
 <p class="prose-p">I spend my college years working as a valet at an ice hotel in Los Angeles. One frequent guest was a technology executive. He was a genius, having designed and patented a key component in Wi-Fi rubers in his twenties. He had started and sold several companies.</p>
 <p class="prose-p">He was widely successful. He also had a relationship with money I describe as a mix of insecurity and childish stupidity. He carried a stack of hundred-dollar bills several inches thick. He showed it to everyone who wanted to see it, and many who didn’t.</p>
 <p class="prose-p">He bragged openly and loudly about his wealth, often while drunk and always apropos of nothing. One day, he handed one of my colleagues several thousand dollars of cash and said, “Go to the jewelry store down the street and get me a few thousand dollar gold coins.” An hour later, gold coins in hand, the tech executive and his buddies gathered around by a dock overlooking the Pacific Ocean. They then proceeded to throw the coins into the sea, skipping them like rocks, crackling as they argued whose went furthest, just for fun.</p>
@@ -638,8 +758,9 @@
           </div>
           <div class="section-body">
             <p class="prose-p">consider to be the most important and often counterintuitive features of the psychology of money. The chapters revolve around a common theme, but exist on their own and can be read independently. It’s not a long book. You’re welcome.</p>
-<p class="prose-p">Most readers don’t finish the books they begin, because most single topics don’t require three hundred pages of explanation. I’d rather make twenty short points you finish than one long one you give up on. On we go. The psychology of money.</p>
-<h4 class="section-subhead">Chapter 1.</h4>
+<p class="prose-p">Most readers don’t finish the books they begin, because most single topics don’t require three hundred pages of explanation. I’d rather make twenty short points you finish than one long one you give up on. On we go. The psychology of money.
+
+#### Chapter 1.</p>
 <p class="prose-p">No one’s crazy. Your personal experiences with money make up maybe one hundred millionth of a percent of what’s happened in the world, but maybe eighty percent of how you think the world works. Let me tell you about a problem. It might make you feel better about what you do with your money and less judgmental about what other people do with theirs.</p>
 <p class="prose-p">People do some crazy things with money, but no one’s crazy. Here’s the thing. People from different generations, raised by different parents, who earned different incomes and held different values in different parts of the world, born into different economies, experiencing different job markets with different incentives and different degrees of luck, learn very different lessons. Everyone has their own unique experience with how the world works, and what you’ve experienced is more compelling than what you learned secondhand.</p>
 <p class="prose-p">So all of us, you, me, everyone, go through life anchored to a set of view about how money works that vary widely from person to person. What seems crazy to you might make sense to me. The person who grew up in poverty thinks about risk and reward in ways the child of a wealthy banker cannot fathom if he tried. The person who grew up when inflation was high experienced something the person who grew up with stable prices never had to.</p>
@@ -727,11 +848,12 @@
 <p class="prose-p">Same goes for college. The share of Americans over age 25 with a bachelor’s degree has gone from less than one in 20 in 1940 to one in four by 2015. The average college tuition over that time rose more than fourfold adjusted for inflation. Something so big and so important hitting society so fast explains why, for example, so many people have made poor decisions with student loans over the last 20 years.</p>
 <p class="prose-p">There’s not decades of accumulated experience to even attempt to learn from. We’re winging it. Same for index funds, which are less than 50 years old, and hedge funds, which didn’t take off until the last 25 years. Even widespread use of consumer debt, mortgages, credit cards, and car loans, did not take off until after World War II, when the GI Bill made it easier for millions of Americans to borrow.</p>
 <p class="prose-p">Drugs were domesticated 10 years ago, and sale retained some behaviors of their wild ancestors. Yet, here we are, with between 20 and 50 years of experience in the modern financial system, hoping to be perfectly acclimated. For a topic that is so influenced by emotion versus fact, this is a problem, and it helps explain why we don’t always do what we’re supposed to with money. We all do crazy stuff with money, because we’re all relatively new to this game, and what looks crazy to you might make sense to me.</p>
-<p class="prose-p">But no one’s crazy. We all make decisions based on our own unique experiences that seem to make sense to us in a given moment. Now let me tell you a story about how Bill Gates got rich.</p>
-<h4 class="section-subhead">THE PSYCHOLOGY OF MONEY CHAPTER 2 LUCK AND RISK.</h4>
-<p class="prose-p">Nothing is as good or as bad as it seems. Luck and risk are siblings. They are both the reality that every outcome in life is guided by forces other than individual effort. NYU professor Scott Galloway has a related idea that is so important to remember when judging success, both your own and others. Nothing is as good or as bad as it seems. Bill Gates went to one of the only high schools in the world that had a computer.</p>
-<p class="prose-p">The story of how Lakeside School, just outside Seattle, even got a computer is remarkable. Bill Dougal was a World War II Navi pilot turned high school math and science teacher. He believed that book study wasn’t enough without real-world experience. He also realized that we’d need to know something about computers when we got to college.</p>
-<p class="prose-p">We called late Microsoft co-founder Paul Allen. In 1968, Dougal petitioned the Lakeside School Mothers Club to use the proceeds from its annual rummage sale, about $3,000, to lease a teletype Model 30 computer hooked up to</p>
+<p class="prose-p">But no one’s crazy. We all make decisions based on our own unique experiences that seem to make sense to us in a given moment. Now let me tell you a story about how Bill Gates got rich.
+
+#### THE PSYCHOLOGY OF MONEY CHAPTER 2 LUCK AND RISK. Nothing is as good or as bad as it seems. Luck and risk are siblings.</p>
+<p class="prose-p">They are both the reality that every outcome in life is guided by forces other than individual effort. NYU professor Scott Galloway has a related idea that is so important to remember when judging success, both your own and others. Nothing is as good or as bad as it seems. Bill Gates went to one of the only high schools in the world that had a computer. The story of how Lakeside School, just outside Seattle, even got a computer is remarkable.</p>
+<p class="prose-p">Bill Dougal was a World War II Navi pilot turned high school math and science teacher. He believed that book study wasn’t enough without real-world experience. He also realized that we’d need to know something about computers when we got to college. We called late Microsoft co-founder Paul Allen.</p>
+<p class="prose-p">In 1968, Dougal petitioned the Lakeside School Mothers Club to use the proceeds from its annual rummage sale, about $3,000, to lease a teletype Model 30 computer hooked up to</p>
           </div>
         </section>
         
@@ -897,12 +1019,13 @@
 <p class="prose-p">After he was released from prison, Rajat Gupta told the New York Times he had learned a lesson. Don’t get too attached to anything, your reputation, your accomplishments, or any of it. 5. I think about it now. What does it matter?</p>
 <p class="prose-p">Okay, this thing unjustly destroyed my reputation. That’s only troubling if I’m so attached to my reputation. This seems like the worst possible takeaway from his experience, and what I imagine is the comforting self-justifications of a man who desperately wants his reputation back, but knows it’s gone. Reputation is invaluable.</p>
 <p class="prose-p">Freedom and independence are invaluable. Family and friends are invaluable. Being loved by those who you want to love you is invaluable. Happiness is invaluable, and your best shot at keeping these things is knowing when it’s time to stop taking risks that might harm them, knowing when you have enough.</p>
-<p class="prose-p">The good news is that the most powerful tool for building enough is remarkably simple and doesn’t require taking risks that could damage any of these things. That’s the next chapter. The Psychology of Money.</p>
-<h4 class="section-subhead">Chapter 4.</h4>
-<p class="prose-p">Confounding Compounding. Eighty-one point five billion dollars of Warren Buffett’s eighty-four point five billion dollar net worth came after his sixty-fifth birthday. Our minds are not built to handle such absurdities. Lessons from one field can often teach us something important about unrelated fields.</p>
-<p class="prose-p">Take the billion-year history of ice ages and what they teach us about growing your money. Our scientific knowledge of Earth is younger than you might think. Understanding how the world works often involves drilling deep below its surface, something we haven’t been able to do until fairly recently. Isaac Newton calculated the movement of the stars hundreds of years before we understood some of the basics of our planet.</p>
-<p class="prose-p">It was not until the nineteenth century the scientists agreed that Earth had, on multiple occasions, been covered in ice. There was too much evidence to argue otherwise. All over the world sat fingerprints of a previously frozen world, huge boulders strewn in random locations, rock bits scraped down to thin layers. Evidence became clear that there had not been one ice age, but five distinct ones we could measure.</p>
-<p class="prose-p">The amount of energy needed to freeze the planet, melt it anew, and freeze it over yet again is staggering. What on Earth, literally, could be causing these cycles? It must be the most powerful force on our planet.</p>
+<p class="prose-p">The good news is that the most powerful tool for building enough is remarkably simple and doesn’t require taking risks that could damage any of these things. That’s the next chapter. The Psychology of Money.
+
+#### Chapter 4. Confounding Compounding.</p>
+<p class="prose-p">Eighty-one point five billion dollars of Warren Buffett’s eighty-four point five billion dollar net worth came after his sixty-fifth birthday. Our minds are not built to handle such absurdities. Lessons from one field can often teach us something important about unrelated fields. Take the billion-year history of ice ages and what they teach us about growing your money.</p>
+<p class="prose-p">Our scientific knowledge of Earth is younger than you might think. Understanding how the world works often involves drilling deep below its surface, something we haven’t been able to do until fairly recently. Isaac Newton calculated the movement of the stars hundreds of years before we understood some of the basics of our planet. It was not until the nineteenth century the scientists agreed that Earth had, on multiple occasions, been covered in ice.</p>
+<p class="prose-p">There was too much evidence to argue otherwise. All over the world sat fingerprints of a previously frozen world, huge boulders strewn in random locations, rock bits scraped down to thin layers. Evidence became clear that there had not been one ice age, but five distinct ones we could measure. The amount of energy needed to freeze the planet, melt it anew, and freeze it over yet again is staggering.</p>
+<p class="prose-p">What on Earth, literally, could be causing these cycles? It must be the most powerful force on our planet.</p>
           </div>
         </section>
         
@@ -960,11 +1083,11 @@
 <p class="prose-p">It’s just hard to wrap your head around that math, because it’s not intuitive. There are books on economic cycles, trading strategies, and sector bets. But the most powerful and important book should be called Shut Up and Wait. It’s just one page with a long-term chart of economic growth.</p>
 <p class="prose-p">The practical takeaway is that the counterintuitiveness of compounding may be responsible for the majority of disappointing trades, bad strategies, and successful investing attempts. You can’t blame people for devoting all their effort, effort in what they learn and what they do, to trying to earn the highest investment returns. It intuitively seems like the best way to get rich. But good investing isn’t necessarily about earning the highest returns, because the highest returns tend to be one-off hits that can be repeated.</p>
 <p class="prose-p">It’s about earning pretty good returns that you can stick with and which can be repeated for the longest period of time. That’s when compounding runs wild. The opposite of this, earning huge returns that can be held onto, leads to some tragic stories. We’ll need the next chapter to tell them.</p>
-<p class="prose-p">Chapter to tell them. The Psychology of Money.</p>
-<h4 class="section-subhead">Chapter 5.</h4>
-<p class="prose-p">Getting wealthy versus staying wealthy. Good investing is not necessarily about making good decisions. It’s about consistently not screwing up. There are a million ways to get wealthy, and plenty of books on how to do so.</p>
-<p class="prose-p">But there is only one way to stay wealthy. Some combination of frugality and paranoia. And that’s a topic we don’t discuss enough. Let’s begin with a quick story about two investors, neither of whom knew the other, but whose paths crossed in an interesting way almost a century ago.</p>
-<p class="prose-p">Jesse Livermore was the greatest talk market trader of his day. Born in 1877, he became a professional trader before most people knew you could do such a thing.</p>
+<p class="prose-p">Chapter to tell them. The Psychology of Money.
+
+#### Chapter 5. Getting wealthy versus staying wealthy. Good investing is not necessarily about making good decisions.</p>
+<p class="prose-p">It’s about consistently not screwing up. There are a million ways to get wealthy, and plenty of books on how to do so. But there is only one way to stay wealthy. Some combination of frugality and paranoia.</p>
+<p class="prose-p">And that’s a topic we don’t discuss enough. Let’s begin with a quick story about two investors, neither of whom knew the other, but whose paths crossed in an interesting way almost a century ago. Jesse Livermore was the greatest talk market trader of his day. Born in 1877, he became a professional trader before most people knew you could do such a thing.</p>
           </div>
         </section>
         
@@ -1061,8 +1184,9 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">I sometimes think that no price is too high for a speculator to pay to learn that which will keep him from getting the swelled head. A great many smashes by brilliant men can be traced directly to the swelled head. It’s an expensive disease, he said, everywhere to everybody. Next, we’ll look at another way growth in the face of adversity can be so hard to wrap your head around.</p>
-<h4 class="section-subhead">THE PSYCHOLOGY OF MONEY CHAPTER 6 TALES YOU WHEN.</h4>
+            <p class="prose-p">I sometimes think that no price is too high for a speculator to pay to learn that which will keep him from getting the swelled head. A great many smashes by brilliant men can be traced directly to the swelled head. It’s an expensive disease, he said, everywhere to everybody. Next, we’ll look at another way growth in the face of adversity can be so hard to wrap your head around.
+
+#### THE PSYCHOLOGY OF MONEY CHAPTER 6 TALES YOU WHEN.</p>
 <p class="prose-p">You can be wrong half the time, and still make a fortune. I’ve been banging away at this thing for thirty years. I think the simple math is some projects work and some don’t. There is no reason to belabor either one.</p>
 <p class="prose-p">Just get on to the next. Brad Pitt accepting a Screen Actors Guild Award. Heinz Bergruen fled Nazi Germany in 1936. He settled in America, where he studied literature at UC Berkeley.</p>
 <p class="prose-p">By most accounts, he did not show particular promise in his youth. But by the 1990s, Bergruen was, by any measure, one of the most successful art dealers of all time. In 2000, Bergruen sold part of his massive collection of Picassos, Brox, Cleese and Matissez to the German government for more than 100 million euros. It was such a bargain that the Germans effectively considered it a donation.</p>
@@ -1110,13 +1234,12 @@
 <p class="prose-p">The Russell 3000 has increased more than 73-fold since 1980. That is a spectacular return. That is success. Forty percent of the companies and the index were effectively failures.</p>
 <p class="prose-p">But the seven percent of components that perform extremely well were more than enough to offset the tuts. Just like Hans Bergeron, but with Microsoft and Walmart instead of Picasso and Matisse. Not only do a few companies account for most of the market’s return, but within those companies are even more tail events. In 2018, Amazon drove 6% of the S&amp;P 500&#x27;s returns, and Amazon’s growth is almost entirely due to Prime and Amazon Web Services, which itself are tail events in a company that has experimented with hundreds of products, from the fire phone to travel agencies.</p>
 <p class="prose-p">Apple was responsible for almost 7% of the index’s returns in 2018, and it is driven overwhelmingly by the iPhone, which in the world of tech products is a tail-why as tails get. And who’s working at these companies? Google’s hiring acceptance rate is 0.2%, Facebook’s is 0.1%, Apple’s is about 2%, so the people working on these tail projects that drive tail returns have tail careers.</p>
-<p class="prose-p">Napoleon’s definition of a military genius was, “… the man who can do the average thing when all those around him are going crazy. It’s the same in investing.” Most financial advice is about today. What should you do right now, and what stocks look like goodbyes today?</p>
-<p class="prose-p">But most of the time, today is not that important. Over the course of your lifetime, as an investor, the decisions that you make today, or tomorrow, or next week, will not matter nearly as much as what you do during the small number of days. Only 1% of the time or less, when everyone else around you is going crazy. Consider what would happen if you saved $1 every month from 1900 to 2019.</p>
-<p class="prose-p">You could invest that $1 into the US stock market every month, rain or shine. It doesn’t matter if economists are screaming about a looming recession or new beer market, you just keep investing. Let’s call an investor who does this sue. But maybe, investing during a recession is too scary.</p>
-<p class="prose-p">So perhaps you invest your $1 in the stock market when the economy is not in a recession, sell everything when it’s in a recession, and save your monthly dollar in cash. But invest everything back into the stock market when the recession ends. We’ll call this investor Jim. Or perhaps it takes a few months for a recession to scare you out, and then it takes a while to regain confidence before you get back in the market.</p>
-<p class="prose-p">You invest $1 in stocks when there is no recession, sell 6 months after a recession begins, and invest back in 6 months after a recession ends. We’ll call you Tom. How much money would these 3 investors end up with over time? Sue ends up with $435,551.</p>
-<p class="prose-p">Jim has $257,386. Tom $234,476. Sue wins by a mile. There were 1,428 months between 1900 and 2019.</p>
-<p class="prose-p">Just over 300 of them were during a recession.</p>
+<p class="prose-p">Napoleon’s definition of a military genius was, “… the man who can do the average thing when all those around him are going crazy. It’s the same in investing.” Most financial advice is about today. What should you do right now, and what stocks look like goodbyes today? But most of the time, today is not that important.</p>
+<p class="prose-p">Over the course of your lifetime, as an investor, the decisions that you make today, or tomorrow, or next week, will not matter nearly as much as what you do during the small number of days. Only 1% of the time or less, when everyone else around you is going crazy. Consider what would happen if you saved $1 every month from 1900 to 2019. You could invest that $1 into the US stock market every month, rain or shine.</p>
+<p class="prose-p">It doesn’t matter if economists are screaming about a looming recession or new beer market, you just keep investing. Let’s call an investor who does this sue. But maybe, investing during a recession is too scary. So perhaps you invest your $1 in the stock market when the economy is not in a recession, sell everything when it’s in a recession, and save your monthly dollar in cash.</p>
+<p class="prose-p">But invest everything back into the stock market when the recession ends. We’ll call this investor Jim. Or perhaps it takes a few months for a recession to scare you out, and then it takes a while to regain confidence before you get back in the market. You invest $1 in stocks when there is no recession, sell 6 months after a recession begins, and invest back in 6 months after a recession ends.</p>
+<p class="prose-p">We’ll call you Tom. How much money would these 3 investors end up with over time? Sue ends up with $435,551. Jim has $257,386.</p>
+<p class="prose-p">Tom $234,476. Sue wins by a mile. There were 1,428 months between 1900 and 2019. Just over 300 of them were during a recession.</p>
           </div>
         </section>
         
@@ -1282,15 +1405,15 @@
 <p class="prose-p">After he died, Ronald Reed became many people’s financial role model. He was lionized in the media and cherished on social media. But he was nobody’s financial role model while he was living because every penny of his wealth was hidden, even to those who knew him. Imagine how hard it would be to learn how to write if you couldn’t read the works of great authors.</p>
 <p class="prose-p">Who would be your inspiration? Who would you admire? Whose nuanced tricks and tips would you follow? It would make something that is already hard even harder.</p>
 <p class="prose-p">It’s difficult to learn from what you can’t see, which helps explain why it’s so hard for many to build wealth. The world is filled with people who look modest but are actually wealthy and people who look rich, who live at the razor’s edge of insolvency. Keep this in mind when quickly judging other success and setting your own goals. If wealth is what you don’t spend, what good is it?</p>
-<p class="prose-p">Well, let me convince you to save money.</p>
-<h4 class="section-subhead">THE PSYCHOLOGY OF MONEY CHAPTER X SAVE MONEY.</h4>
-<p class="prose-p">The only factory you can control generates one of the only things that matters. How wonderful! Let me convince you to save money. It won’t take long.</p>
-<p class="prose-p">But it’s an odd task, isn’t it? Do people need to be convinced to save money? My observation is that, yes, many do. Past a certain level of income, people fall into three groups.</p>
-<p class="prose-p">Those who save, those who don’t think they can save, and those who don’t think they need to save. This is for the latter too. The first idea, simple but easy to overlook, is that building wealth has little to do with your income or investment returns, and lots to do with your savings rate. A quick story about the power of efficiency.</p>
-<p class="prose-p">In the 1970s, the world looked like it was running out of oil. The calculation wasn’t hard. The global economy used a lot of oil. The global economy was growing.</p>
-<p class="prose-p">And the amount of oil we could drill couldn’t keep up. We didn’t run out of oil, thank goodness. But that wasn’t just because we found more oil or even got better at taking it out of the ground. The biggest reason we overcame the oil crisis is because we started building cars, factories and homes that are more energy efficient than they used to be.</p>
-<p class="prose-p">The United States uses 60% less energy per dollar of GDP today than it did in 1950. The average miles per gallon of all vehicles on the road has doubled since 1975. A 1989 Ford Taurus 7 averaged 18.0 mpg. A 2019 Chevy Suburban, absurdly large SUV, averages 18.1 mpg.</p>
-<p class="prose-p">The world grew its energy wealth, not by increasing the energy it had, but by decreasing the energy it needed. U. S. oil and gas production has increased 65% since 1975, while conservation and efficiency has more than doubled what we can do with that energy. So, it’s easy to see which has mattered more. The important thing here is that finding more energy is largely out of our control and shrouded in uncertainty because it relies on a slippery mix of having the right geology, geography, weather and geopolitics.</p>
+<p class="prose-p">Well, let me convince you to save money.
+
+#### THE PSYCHOLOGY OF MONEY CHAPTER X SAVE MONEY. The only factory you can control generates one of the only things that matters. How wonderful! Let me convince you to save money.</p>
+<p class="prose-p">It won’t take long. But it’s an odd task, isn’t it? Do people need to be convinced to save money? My observation is that, yes, many do.</p>
+<p class="prose-p">Past a certain level of income, people fall into three groups. Those who save, those who don’t think they can save, and those who don’t think they need to save. This is for the latter too. The first idea, simple but easy to overlook, is that building wealth has little to do with your income or investment returns, and lots to do with your savings rate.</p>
+<p class="prose-p">A quick story about the power of efficiency. In the 1970s, the world looked like it was running out of oil. The calculation wasn’t hard. The global economy used a lot of oil.</p>
+<p class="prose-p">The global economy was growing. And the amount of oil we could drill couldn’t keep up. We didn’t run out of oil, thank goodness. But that wasn’t just because we found more oil or even got better at taking it out of the ground.</p>
+<p class="prose-p">The biggest reason we overcame the oil crisis is because we started building cars, factories and homes that are more energy efficient than they used to be. The United States uses 60% less energy per dollar of GDP today than it did in 1950. The average miles per gallon of all vehicles on the road has doubled since 1975. A 1989 Ford Taurus 7 averaged 18.0 mpg.</p>
+<p class="prose-p">A 2019 Chevy Suburban, absurdly large SUV, averages 18.1 mpg. The world grew its energy wealth, not by increasing the energy it had, but by decreasing the energy it needed. U. S. oil and gas production has increased 65% since 1975, while conservation and efficiency has more than doubled what we can do with that energy. So, it’s easy to see which has mattered more. The important thing here is that finding more energy is largely out of our control and shrouded in uncertainty because it relies on a slippery mix of having the right geology, geography, weather and geopolitics.</p>
 <p class="prose-p">But becoming more efficient with the energy we use is largely in our control. The decision to buy a lighter car or ride a bike is up to you and has a 100% chance of improving efficiency. The same is true with our money. Investment returns can make you rich, but whether an investing strategy will work and how long it will take for and whether markets will cooperate is always in doubt.</p>
 <p class="prose-p">Results are shrouded in uncertainty.</p>
           </div>
@@ -1344,8 +1467,9 @@
           </div>
           <div class="section-body">
             <p class="prose-p">leeway to find your passion and your niche at your own pace. You can find a new routine, a slower pace, and think about life with a different set of assumptions. The ability to do those things when most others can’t is one of the few things that’ll sit you apart in a world where intelligence is no longer a sustainable advantage. Having more control over your time and options is becoming one of the most valuable currencies in the world.</p>
-<p class="prose-p">That’s why more people can, and more people should, save money. You know what else they should do? Stop trying to be so rational. Let me tell you why.</p>
-<h4 class="section-subhead">THE PSYCHOLOGY OF MONEY CHAPTER 11 REASONABLE MORE THAN RATIONAL.</h4>
+<p class="prose-p">That’s why more people can, and more people should, save money. You know what else they should do? Stop trying to be so rational. Let me tell you why.
+
+#### THE PSYCHOLOGY OF MONEY CHAPTER 11 REASONABLE MORE THAN RATIONAL.</p>
 <p class="prose-p">Aiming to be mostly reasonable works better than trying to be coldly rational. You’re not a spreadsheet, you’re a person, a screwed-up emotional person. It took me a while to figure this out, but once it clicked, I realized it’s one of the most important parts of finance. With it comes something that often goes overlooked.</p>
 <p class="prose-p">Do not aim to be coldly rational when making financial decisions. Aim to just be pretty reasonable. Reasonable is more realistic, and you have a better chance of sticking with it for the long run, which is what matters most when managing money. To show you what I mean, let me tell you the story of a guy who tried to cure syphilis with malaria.</p>
 <p class="prose-p">Julius Wagner-Jareg was a nineteenth-century psychiatrist with two unique skills. He was good at recognizing patterns, and what others saw as crazy he found merely bold. His specialty was patience with severe neurosyphilis, then a fatal diagnosis with no known treatment. He began noticing a pattern.</p>
@@ -1412,15 +1536,15 @@
 <p class="prose-p">But making forecasts is reasonable. It’s hard to wake up in the morning telling yourself you have no clue what the future holds, even if it’s true. Acting on investment forecasts is dangerous. But I get why people try to predict what will happen next year.</p>
 <p class="prose-p">It’s human nature. It’s reasonable. Jack Bogle, the late founder of Vanguard, spent his career on a crusade to promote low-cost passive index investing. Many thought it interesting that his son found a career as an active, high-fee hedge fund and mutual fund manager.</p>
 <p class="prose-p">Bogle, the man who said high-fee funds violate the humble roots of arithmetic, invested some of his own money in his son’s funds. What’s the explanation? We do some things for family reasons, Bogle told the Wall Street Journal. If it’s not consistent, well, life isn’t always consistent.</p>
-<p class="prose-p">Indeed, it rarely is. The psychology of money.</p>
-<h4 class="section-subhead">Chapter 12 Surprise.</h4>
-<p class="prose-p">History is the study of change, ironically used as a map of the future. Stanford professor Scott Sagan once said something everyone who follows the economy or investment markets should hang on their wall. Things that have never happened before happen all the time. History is mostly the study of surprising events, but it is often used by investors and economists as an unassailable guide to the future.</p>
-<p class="prose-p">Do you see the irony? Do you see the problem? It is marked to have a deep appreciation for economic and investing history. History helps us calibrate our expectations.</p>
-<p class="prose-p">Study where people tend to go wrong and offers a rough guide of what tends to work. But it is not, in any way, a map of the future. A trap many investors fall into is what I call historians as profits policy, an over-reliance on past data as a signal to future conditions in a field where innovation and change are the lifeblood of progress. You can’t blame investors for doing this.</p>
-<p class="prose-p">If you view investing as a hard science, history should be a perfect guide to the future. Geologists can look at a billion years of historical data and form models of how the earth behaves. So can meteorologists. And doctors, kidneys operate the same way in 2020 as they did in 1020.</p>
-<p class="prose-p">But investing is not a hard science. It’s a massive group of people making imperfect decisions with limited information about things that’ll have a massive impact on their well-being, which can make even smart people nervous, greedy and paranoid. Richard Feynman, the great physicist, once said, imagine how much hotter physics would be if electrons had feelings. Well, investors have feelings, quite a few of them.</p>
-<p class="prose-p">That’s why it’s hard to predict what they will do next based solely on what they did in the past. The cornerstone of economics is that things change over time, because the invisible hand hates anything staying too good or too bad indefinitely. Investor Bill Bonner once described how Mr. Market works. He’s got a capitalism at work t-shirt on and a sledgehammer in his hand.</p>
-<p class="prose-p">Few things stay the same for very long, which means we can’t treat historians as profits. The most important driver of anything tied to money is the stories people tell themselves</p>
+<p class="prose-p">Indeed, it rarely is. The psychology of money.
+
+#### Chapter 12 Surprise. History is the study of change, ironically used as a map of the future. Stanford professor Scott Sagan once said something everyone who follows the economy or investment markets should hang on their wall.</p>
+<p class="prose-p">Things that have never happened before happen all the time. History is mostly the study of surprising events, but it is often used by investors and economists as an unassailable guide to the future. Do you see the irony? Do you see the problem?</p>
+<p class="prose-p">It is marked to have a deep appreciation for economic and investing history. History helps us calibrate our expectations. Study where people tend to go wrong and offers a rough guide of what tends to work. But it is not, in any way, a map of the future.</p>
+<p class="prose-p">A trap many investors fall into is what I call historians as profits policy, an over-reliance on past data as a signal to future conditions in a field where innovation and change are the lifeblood of progress. You can’t blame investors for doing this. If you view investing as a hard science, history should be a perfect guide to the future. Geologists can look at a billion years of historical data and form models of how the earth behaves.</p>
+<p class="prose-p">So can meteorologists. And doctors, kidneys operate the same way in 2020 as they did in 1020. But investing is not a hard science. It’s a massive group of people making imperfect decisions with limited information about things that’ll have a massive impact on their well-being, which can make even smart people nervous, greedy and paranoid.</p>
+<p class="prose-p">Richard Feynman, the great physicist, once said, imagine how much hotter physics would be if electrons had feelings. Well, investors have feelings, quite a few of them. That’s why it’s hard to predict what they will do next based solely on what they did in the past. The cornerstone of economics is that things change over time, because the invisible hand hates anything staying too good or too bad indefinitely.</p>
+<p class="prose-p">Investor Bill Bonner once described how Mr. Market works. He’s got a capitalism at work t-shirt on and a sledgehammer in his hand. Few things stay the same for very long, which means we can’t treat historians as profits. The most important driver of anything tied to money is the stories people tell themselves</p>
           </div>
         </section>
         
@@ -1691,6 +1815,204 @@
 
     document.getElementById('scroll-top-btn').addEventListener('click', () => {
       window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+
+    // ==========================================
+    // IN-PAGE CONTENT SEARCH (單書全文搜尋)
+    // ==========================================
+    const searchBar = document.getElementById('inpage-search-bar');
+    const searchInput = document.getElementById('inpage-search-input');
+    const searchCount = document.getElementById('inpage-search-count');
+    const searchDrawer = document.getElementById('inpage-search-drawer');
+    const searchDrawerList = document.getElementById('inpage-search-drawer-list');
+    const searchToggleBtn = document.getElementById('search-toggle-btn');
+    const searchClearBtn = document.getElementById('inpage-search-clear');
+    const searchPrevBtn = document.getElementById('inpage-search-prev');
+    const searchNextBtn = document.getElementById('inpage-search-next');
+    const searchCloseBtn = document.getElementById('inpage-search-close');
+    const drawerCloseBtn = document.getElementById('inpage-drawer-close');
+
+    let searchMatches = [];
+    let currentMatchIdx = -1;
+
+    // Cache original innerHTML for clean resets
+    const rawParagraphs = Array.from(document.querySelectorAll('.section-body p')).map(p => ({
+      el: p,
+      rawHtml: p.innerHTML,
+      rawText: p.textContent
+    }));
+
+    function openSearch() {
+      searchBar.classList.add('active');
+      searchInput.focus();
+      searchInput.select();
+      if (searchInput.value.trim()) {
+        performSearch(searchInput.value.trim());
+      }
+    }
+
+    function closeSearch() {
+      searchBar.classList.remove('active');
+      searchDrawer.classList.remove('active');
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchCount.textContent = '0 / 0';
+    }
+
+    function clearHighlights() {
+      rawParagraphs.forEach(item => {
+        item.el.innerHTML = item.rawHtml;
+      });
+    }
+
+    function escapeRegex(str) {
+      return str.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+    }
+
+    function escapeHtml(str) {
+      return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    }
+
+    function performSearch(query) {
+      clearHighlights();
+      searchMatches = [];
+      currentMatchIdx = -1;
+      searchDrawerList.innerHTML = '';
+
+      if (!query || query.trim().length === 0) {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+        return;
+      }
+
+      query = query.trim();
+      const qLower = query.toLowerCase();
+      const regex = new RegExp(`(${escapeRegex(query)})`, 'gi');
+
+      rawParagraphs.forEach((item, pIdx) => {
+        if (item.rawText.toLowerCase().includes(qLower)) {
+          const sec = item.el.closest('.transcript-section');
+          const secTime = sec ? (sec.querySelector('.section-time')?.textContent || '') : '';
+          const secId = sec ? sec.id : '';
+
+          // Apply highlight
+          item.el.innerHTML = item.rawHtml.replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const marks = Array.from(item.el.querySelectorAll('mark.search-highlight'));
+          marks.forEach(mark => {
+            searchMatches.push({
+              mark,
+              el: item.el,
+              secTime,
+              secId
+            });
+          });
+
+          // Snippet creation
+          const matchPos = item.rawText.toLowerCase().indexOf(qLower);
+          const start = Math.max(0, matchPos - 30);
+          const end = Math.min(item.rawText.length, matchPos + query.length + 50);
+          const snippetText = item.rawText.slice(start, end);
+          const snippetHtml = escapeHtml(snippetText).replace(regex, '<mark class="search-highlight">$1</mark>');
+
+          const card = document.createElement('div');
+          card.className = 'search-result-item';
+          card.innerHTML = `
+            <div class="search-result-time">${secTime}</div>
+            <div class="search-result-snippet">...${snippetHtml}...</div>
+          `;
+          card.addEventListener('click', () => {
+            const targetIdx = searchMatches.findIndex(m => m.mark === marks[0]);
+            if (targetIdx >= 0) goToMatch(targetIdx);
+          });
+          searchDrawerList.appendChild(card);
+        }
+      });
+
+      if (searchMatches.length > 0) {
+        searchDrawer.classList.add('active');
+        goToMatch(0);
+      } else {
+        searchCount.textContent = '0 / 0';
+        searchDrawer.classList.remove('active');
+      }
+    }
+
+    function goToMatch(idx) {
+      if (idx < 0 || idx >= searchMatches.length) return;
+      if (currentMatchIdx >= 0 && searchMatches[currentMatchIdx]) {
+        searchMatches[currentMatchIdx].mark.classList.remove('active-match');
+      }
+      currentMatchIdx = idx;
+      const target = searchMatches[currentMatchIdx];
+      target.mark.classList.add('active-match');
+      searchCount.textContent = `${currentMatchIdx + 1} / ${searchMatches.length}`;
+
+      // Highlight active drawer item
+      const drawerItems = searchDrawerList.querySelectorAll('.search-result-item');
+      drawerItems.forEach(di => di.classList.remove('active'));
+
+      target.mark.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }
+
+    searchToggleBtn.addEventListener('click', () => {
+      if (searchBar.classList.contains('active')) {
+        closeSearch();
+      } else {
+        openSearch();
+      }
+    });
+
+    let debounceTimer;
+    searchInput.addEventListener('input', (e) => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => {
+        performSearch(e.target.value);
+      }, 200);
+    });
+
+    searchClearBtn.addEventListener('click', () => {
+      searchInput.value = '';
+      performSearch('');
+      searchInput.focus();
+    });
+
+    searchNextBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const nextIdx = (currentMatchIdx + 1) % searchMatches.length;
+      goToMatch(nextIdx);
+    });
+
+    searchPrevBtn.addEventListener('click', () => {
+      if (searchMatches.length === 0) return;
+      const prevIdx = (currentMatchIdx - 1 + searchMatches.length) % searchMatches.length;
+      goToMatch(prevIdx);
+    });
+
+    searchInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') {
+        e.preventDefault();
+        if (e.shiftKey) {
+          searchPrevBtn.click();
+        } else {
+          searchNextBtn.click();
+        }
+      } else if (e.key === 'Escape') {
+        closeSearch();
+      }
+    });
+
+    searchCloseBtn.addEventListener('click', closeSearch);
+    drawerCloseBtn.addEventListener('click', () => searchDrawer.classList.remove('active'));
+
+    window.addEventListener('keydown', (e) => {
+      if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'f') {
+        e.preventDefault();
+        openSearch();
+      } else if (e.key === 'Escape') {
+        if (searchBar.classList.contains('active')) closeSearch();
+      }
     });
   </script>
 </body>
