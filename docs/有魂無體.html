@@ -263,6 +263,160 @@
       overflow: hidden;
     }
 
+    /* User Highlight system */
+    mark.user-hl {
+      background-color: #fef08a;
+      color: inherit;
+      padding: 2px 3px;
+      border-radius: 3px;
+      border-bottom: 2px solid #eab308;
+      cursor: pointer;
+      position: relative;
+    }
+    mark.user-hl.color-green {
+      background-color: #bbf7d0;
+      border-bottom-color: #22c55e;
+    }
+    mark.user-hl.color-blue {
+      background-color: #bfdbfe;
+      border-bottom-color: #3b82f6;
+    }
+    mark.user-hl.color-pink {
+      background-color: #fbcfe8;
+      border-bottom-color: #ec4899;
+    }
+    [data-theme="dark"] mark.user-hl {
+      background-color: rgba(234, 179, 8, 0.35);
+      border-bottom-color: #facc15;
+    }
+    [data-theme="dark"] mark.user-hl.color-green {
+      background-color: rgba(34, 197, 94, 0.35);
+      border-bottom-color: #4ade80;
+    }
+    [data-theme="dark"] mark.user-hl.color-blue {
+      background-color: rgba(59, 130, 246, 0.35);
+      border-bottom-color: #60a5fa;
+    }
+    [data-theme="dark"] mark.user-hl.color-pink {
+      background-color: rgba(236, 72, 153, 0.35);
+      border-bottom-color: #f472b6;
+    }
+
+    /* Floating Selection Popup Menu */
+    .selection-popup {
+      position: absolute;
+      display: none;
+      z-index: 950;
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      box-shadow: 0 10px 25px rgba(0,0,0,0.22);
+      border-radius: 30px;
+      padding: 5px 8px;
+      align-items: center;
+      gap: 6px;
+      animation: popIn 0.15s ease-out;
+      transform: translate(-50%, -100%);
+      margin-top: -8px;
+    }
+    @keyframes popIn {
+      from { opacity: 0; transform: translate(-50%, -90%) scale(0.95); }
+      to { opacity: 1; transform: translate(-50%, -100%) scale(1); }
+    }
+    .selection-popup.active { display: flex; }
+    .color-dot-btn {
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      border: 2px solid #ffffff;
+      cursor: pointer;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+      transition: transform 0.15s;
+    }
+    .color-dot-btn:hover { transform: scale(1.18); }
+    .color-dot-yellow { background-color: #facc15; }
+    .color-dot-green { background-color: #4ade80; }
+    .color-dot-blue { background-color: #60a5fa; }
+    .color-dot-pink { background-color: #f472b6; }
+
+    /* Highlights Drawer */
+    .hl-drawer {
+      position: fixed;
+      right: 20px;
+      top: 120px;
+      width: 380px;
+      max-height: calc(100vh - 160px);
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+      z-index: 896;
+      display: none;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .hl-drawer.active { display: flex; }
+    .hl-drawer-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-weight: 700;
+      font-size: 14px;
+    }
+    .hl-drawer-list {
+      overflow-y: auto;
+      padding: 10px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    .hl-card {
+      padding: 10px 12px;
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+      background: var(--bg-primary);
+      cursor: pointer;
+      font-size: 13.5px;
+      line-height: 1.5;
+      position: relative;
+      transition: all 0.15s;
+      border-left: 4px solid #facc15;
+    }
+    .hl-card.color-green { border-left-color: #22c55e; }
+    .hl-card.color-blue { border-left-color: #3b82f6; }
+    .hl-card.color-pink { border-left-color: #ec4899; }
+    .hl-card:hover {
+      border-color: var(--accent-color);
+      background: var(--accent-light);
+    }
+    .hl-card-time {
+      font-size: 11.5px;
+      font-weight: 700;
+      color: var(--accent-color);
+      margin-bottom: 4px;
+      font-family: monospace;
+      display: flex;
+      justify-content: space-between;
+    }
+    .hl-card-del {
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 13px;
+      padding: 0 4px;
+    }
+    .hl-card-del:hover { color: #ef4444; }
+
+    @media (max-width: 992px) {
+      .hl-drawer {
+        left: 20px;
+        right: 20px;
+        width: auto;
+      }
+    }
+
     /* Highlight mark */
     mark.search-highlight {
       background-color: #fef08a;
@@ -555,6 +709,10 @@
       <button class="btn-icon" id="search-toggle-btn" title="搜尋本書內文 (Ctrl+F)">
         🔍 <span>搜尋內文</span>
       </button>
+      <!-- User Highlights Button -->
+      <button class="btn-icon" id="hl-toggle-btn" title="查看劃線筆記">
+        🖍️ <span>劃線筆記</span> (<span id="hl-count-badge">0</span>)
+      </button>
       <!-- Global Search Link -->
       <a href="index.html?tab=search" class="btn-icon" title="前往全書庫全文檢索">
         🌐 <span>全庫搜尋</span>
@@ -611,6 +769,30 @@
     <div class="inpage-search-drawer-list" id="inpage-search-drawer-list"></div>
   </div>
 
+  <!-- User Selection Floating Popup -->
+  <div class="selection-popup" id="selection-popup">
+    <button class="color-dot-btn color-dot-yellow" data-color="yellow" title="黃色劃線"></button>
+    <button class="color-dot-btn color-dot-green" data-color="green" title="綠色劃線"></button>
+    <button class="color-dot-btn color-dot-blue" data-color="blue" title="藍色劃線"></button>
+    <button class="color-dot-btn color-dot-pink" data-color="pink" title="粉色劃線"></button>
+  </div>
+
+  <!-- User Highlights Drawer -->
+  <div class="hl-drawer" id="hl-drawer">
+    <div class="hl-drawer-header">
+      <span>🖍️ 我的劃線金句筆記</span>
+      <div style="display: flex; gap: 6px; align-items: center;">
+        <button class="btn-icon" id="hl-clear-all" style="padding: 2px 7px; font-size: 11.5px;" title="清空劃線">清空全部</button>
+        <button class="btn-icon" id="hl-drawer-close" style="padding: 2px 6px;">✕</button>
+      </div>
+    </div>
+    <div class="hl-drawer-list" id="hl-drawer-list">
+      <div style="text-align: center; color: var(--text-muted); padding: 30px 10px; font-size: 13px;">
+        選取內文文字即可劃線螢光標記，並保存於此處
+      </div>
+    </div>
+  </div>
+
   <div class="backdrop" id="backdrop"></div>
 
   <div class="layout">
@@ -648,7 +830,7 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">I’m a little bit tired, I’m just a little tired I’ll be there when I’m tired, I’ve been in the wrong place I’m just a little bit tired, I’m just a little bit tired I’m just a little bit tired, I’m just a little bit tired 거거국 고는 � strat 가라 고는 시마요 � in behind 고 있입이 쳠직 모 아 해 실샐 보 심 구래 도�IT�지 닶이 심 땈래 있님 도가 볼 미 심�Sold 무 가게지 밈세 죨입이 � B de joi지 내 게 Oh I</p>
+            <p class="prose-p" id="sec-000000-p0">I’m a little bit tired, I’m just a little tired I’ll be there when I’m tired, I’ve been in the wrong place I’m just a little bit tired, I’m just a little bit tired I’m just a little bit tired, I’m just a little bit tired 거거국 고는 � strat 가라 고는 시마요 � in behind 고 있입이 쳠직 모 아 해 실샐 보 심 구래 도�IT�지 닶이 심 땈래 있님 도가 볼 미 심�Sold 무 가게지 밈세 죨입이 � B de joi지 내 게 Oh I</p>
           </div>
         </section>
         
@@ -659,6 +841,7 @@
 
   <!-- Floating Tools -->
   <div class="floating-tools">
+    <button class="float-btn" id="float-hl-btn" title="劃線筆記">🖍️</button>
     <button class="float-btn" id="scroll-top-btn" title="回到頂部">▲</button>
   </div>
 
@@ -742,6 +925,8 @@
       localStorage.setItem('reader-font-size', size);
     }
     applyFontSize(currentFontSize);
+    applyAllHighlightsToDOM();
+    renderHighlightsDrawer();
 
     document.getElementById('font-dec-btn').addEventListener('click', () => applyFontSize(currentFontSize - 1));
     document.getElementById('font-inc-btn').addEventListener('click', () => applyFontSize(currentFontSize + 1));
@@ -840,6 +1025,210 @@
     let searchMatches = [];
     let currentMatchIdx = -1;
 
+    // ==========================================
+    // USER HIGHLIGHT SYSTEM (LOCALSTORAGE PERSISTED)
+    // ==========================================
+    const bookKey = 'hl_' + location.pathname.split('/').pop().replace('.html', '');
+    let userHighlights = [];
+    try {
+      userHighlights = JSON.parse(localStorage.getItem(bookKey) || '[]');
+    } catch(e) { userHighlights = []; }
+
+    const hlBadge = document.getElementById('hl-count-badge');
+    const hlDrawer = document.getElementById('hl-drawer');
+    const hlDrawerList = document.getElementById('hl-drawer-list');
+    const hlToggleBtn = document.getElementById('hl-toggle-btn');
+    const floatHlBtn = document.getElementById('float-hl-btn');
+    const hlDrawerClose = document.getElementById('hl-drawer-close');
+    const hlClearAll = document.getElementById('hl-clear-all');
+    const selPopup = document.getElementById('selection-popup');
+
+    function updateHlBadge() {
+      if (hlBadge) hlBadge.textContent = userHighlights.length;
+    }
+    updateHlBadge();
+
+    function saveHighlights() {
+      try {
+        localStorage.setItem(bookKey, JSON.stringify(userHighlights));
+      } catch(e) {}
+      updateHlBadge();
+      renderHighlightsDrawer();
+    }
+
+    function renderHighlightsDrawer() {
+      if (!hlDrawerList) return;
+      if (userHighlights.length === 0) {
+        hlDrawerList.innerHTML = '<div style="text-align: center; color: var(--text-muted); padding: 30px 10px; font-size: 13px;">選取文章中任意句子即可浮現螢光筆，劃線保存喜愛的金句！</div>';
+        return;
+      }
+      hlDrawerList.innerHTML = '';
+      userHighlights.forEach((item, idx) => {
+        const card = document.createElement('div');
+        card.className = `hl-card color-${item.color || 'yellow'}`;
+        card.innerHTML = `
+          <div class="hl-card-time">
+            <span>⏱️ ${item.time || '章節記錄'}</span>
+            <button class="hl-card-del" title="刪除此劃線" data-idx="${idx}">✕</button>
+          </div>
+          <div style="color: var(--text-primary);">${item.text}</div>
+        `;
+        card.addEventListener('click', (e) => {
+          if (e.target.classList.contains('hl-card-del')) return;
+          // Jump to paragraph
+          const targetP = document.getElementById(item.pId);
+          if (targetP) {
+            targetP.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            targetP.style.transition = 'outline 0.3s';
+            targetP.style.outline = '3px solid var(--accent-color)';
+            setTimeout(() => { targetP.style.outline = 'none'; }, 1500);
+          }
+        });
+        const delBtn = card.querySelector('.hl-card-del');
+        delBtn.addEventListener('click', (e) => {
+          e.stopPropagation();
+          deleteHighlight(idx);
+        });
+        hlDrawerList.appendChild(card);
+      });
+    }
+
+    function deleteHighlight(idx) {
+      const removed = userHighlights.splice(idx, 1)[0];
+      saveHighlights();
+      // Re-apply highlights on DOM
+      applyAllHighlightsToDOM();
+    }
+
+    if (hlClearAll) {
+      hlClearAll.addEventListener('click', () => {
+        if (confirm('確定要清空本書的所有劃線標記嗎？')) {
+          userHighlights = [];
+          saveHighlights();
+          applyAllHighlightsToDOM();
+        }
+      });
+    }
+
+    function applyAllHighlightsToDOM() {
+      // First restore clean text
+      rawParagraphs.forEach(item => {
+        item.el.innerHTML = item.rawHtml;
+      });
+      // Apply each highlight
+      userHighlights.forEach((hl, hlIdx) => {
+        const pEl = document.getElementById(hl.pId);
+        if (!pEl) return;
+        const text = hl.text;
+        if (!text) return;
+        const currentHtml = pEl.innerHTML;
+        // Search escaped text
+        const regex = new RegExp(`(${escapeRegex(text)})`, 'g');
+        if (regex.test(currentHtml)) {
+          pEl.innerHTML = currentHtml.replace(regex, `<mark class="user-hl color-${hl.color || 'yellow'}" data-hl-idx="${hlIdx}">$1</mark>`);
+        }
+      });
+      // Rebind click to delete or show mark
+      document.querySelectorAll('mark.user-hl').forEach(m => {
+        m.addEventListener('click', (e) => {
+          e.stopPropagation();
+          const idx = parseInt(m.getAttribute('data-hl-idx'), 10);
+          if (!isNaN(idx) && confirm(`要刪除這段劃線標記嗎？
+"${userHighlights[idx]?.text.slice(0, 40)}..."`)) {
+            deleteHighlight(idx);
+          }
+        });
+      });
+    }
+
+    // Text selection detection
+    let currentSelectionRange = null;
+    let selectedText = '';
+    let selectedPId = '';
+    let selectedSecTime = '';
+
+    function handleSelectionChange() {
+      const sel = window.getSelection();
+      if (!sel || sel.isCollapsed || !sel.rangeCount) {
+        selPopup.classList.remove('active');
+        return;
+      }
+      const text = sel.toString().trim();
+      if (text.length < 2) {
+        selPopup.classList.remove('active');
+        return;
+      }
+
+      // Check if selection is within section-body p
+      const range = sel.getRangeAt(0);
+      const containerP = range.commonAncestorContainer.nodeType === 1 
+        ? range.commonAncestorContainer.closest('.section-body p')
+        : range.commonAncestorContainer.parentElement.closest('.section-body p');
+
+      if (!containerP) {
+        selPopup.classList.remove('active');
+        return;
+      }
+
+      currentSelectionRange = range;
+      selectedText = text;
+      selectedPId = containerP.id;
+      const sec = containerP.closest('.transcript-section');
+      selectedSecTime = sec ? (sec.querySelector('.section-time')?.textContent || '') : '';
+
+      const rect = range.getBoundingClientRect();
+      const popupX = rect.left + rect.width / 2;
+      const popupY = rect.top + window.scrollY - 10;
+
+      selPopup.style.left = `${popupX}px`;
+      selPopup.style.top = `${popupY}px`;
+      selPopup.classList.add('active');
+    }
+
+    document.addEventListener('mouseup', () => {
+      setTimeout(handleSelectionChange, 50);
+    });
+    document.addEventListener('touchend', () => {
+      setTimeout(handleSelectionChange, 150);
+    });
+
+    document.querySelectorAll('.color-dot-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        const color = btn.getAttribute('data-color') || 'yellow';
+        if (selectedText && selectedPId) {
+          userHighlights.push({
+            pId: selectedPId,
+            time: selectedSecTime,
+            text: selectedText,
+            color: color,
+            createdAt: Date.now()
+          });
+          saveHighlights();
+          applyAllHighlightsToDOM();
+          selPopup.classList.remove('active');
+          window.getSelection()?.removeAllRanges();
+        }
+      });
+    });
+
+    // Close popup on outside click
+    document.addEventListener('mousedown', (e) => {
+      if (!selPopup.contains(e.target)) {
+        selPopup.classList.remove('active');
+      }
+    });
+
+    // Drawer toggle
+    function toggleHlDrawer() {
+      searchDrawer.classList.remove('active');
+      const isOpen = hlDrawer.classList.toggle('active');
+      if (isOpen) renderHighlightsDrawer();
+    }
+    if (hlToggleBtn) hlToggleBtn.addEventListener('click', toggleHlDrawer);
+    if (floatHlBtn) floatHlBtn.addEventListener('click', toggleHlDrawer);
+    if (hlDrawerClose) hlDrawerClose.addEventListener('click', () => hlDrawer.classList.remove('active'));
+
     // Cache original innerHTML for clean resets
     const rawParagraphs = Array.from(document.querySelectorAll('.section-body p')).map(p => ({
       el: p,
@@ -869,6 +1258,9 @@
       rawParagraphs.forEach(item => {
         item.el.innerHTML = item.rawHtml;
       });
+      if (typeof applyAllHighlightsToDOM === 'function') {
+        applyAllHighlightsToDOM();
+      }
     }
 
     function escapeRegex(str) {

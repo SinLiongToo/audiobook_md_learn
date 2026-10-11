@@ -263,6 +263,160 @@
       overflow: hidden;
     }
 
+    /* User Highlight system */
+    mark.user-hl {
+      background-color: #fef08a;
+      color: inherit;
+      padding: 2px 3px;
+      border-radius: 3px;
+      border-bottom: 2px solid #eab308;
+      cursor: pointer;
+      position: relative;
+    }
+    mark.user-hl.color-green {
+      background-color: #bbf7d0;
+      border-bottom-color: #22c55e;
+    }
+    mark.user-hl.color-blue {
+      background-color: #bfdbfe;
+      border-bottom-color: #3b82f6;
+    }
+    mark.user-hl.color-pink {
+      background-color: #fbcfe8;
+      border-bottom-color: #ec4899;
+    }
+    [data-theme="dark"] mark.user-hl {
+      background-color: rgba(234, 179, 8, 0.35);
+      border-bottom-color: #facc15;
+    }
+    [data-theme="dark"] mark.user-hl.color-green {
+      background-color: rgba(34, 197, 94, 0.35);
+      border-bottom-color: #4ade80;
+    }
+    [data-theme="dark"] mark.user-hl.color-blue {
+      background-color: rgba(59, 130, 246, 0.35);
+      border-bottom-color: #60a5fa;
+    }
+    [data-theme="dark"] mark.user-hl.color-pink {
+      background-color: rgba(236, 72, 153, 0.35);
+      border-bottom-color: #f472b6;
+    }
+
+    /* Floating Selection Popup Menu */
+    .selection-popup {
+      position: absolute;
+      display: none;
+      z-index: 950;
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      box-shadow: 0 10px 25px rgba(0,0,0,0.22);
+      border-radius: 30px;
+      padding: 5px 8px;
+      align-items: center;
+      gap: 6px;
+      animation: popIn 0.15s ease-out;
+      transform: translate(-50%, -100%);
+      margin-top: -8px;
+    }
+    @keyframes popIn {
+      from { opacity: 0; transform: translate(-50%, -90%) scale(0.95); }
+      to { opacity: 1; transform: translate(-50%, -100%) scale(1); }
+    }
+    .selection-popup.active { display: flex; }
+    .color-dot-btn {
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      border: 2px solid #ffffff;
+      cursor: pointer;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+      transition: transform 0.15s;
+    }
+    .color-dot-btn:hover { transform: scale(1.18); }
+    .color-dot-yellow { background-color: #facc15; }
+    .color-dot-green { background-color: #4ade80; }
+    .color-dot-blue { background-color: #60a5fa; }
+    .color-dot-pink { background-color: #f472b6; }
+
+    /* Highlights Drawer */
+    .hl-drawer {
+      position: fixed;
+      right: 20px;
+      top: 120px;
+      width: 380px;
+      max-height: calc(100vh - 160px);
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+      z-index: 896;
+      display: none;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .hl-drawer.active { display: flex; }
+    .hl-drawer-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-weight: 700;
+      font-size: 14px;
+    }
+    .hl-drawer-list {
+      overflow-y: auto;
+      padding: 10px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    .hl-card {
+      padding: 10px 12px;
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+      background: var(--bg-primary);
+      cursor: pointer;
+      font-size: 13.5px;
+      line-height: 1.5;
+      position: relative;
+      transition: all 0.15s;
+      border-left: 4px solid #facc15;
+    }
+    .hl-card.color-green { border-left-color: #22c55e; }
+    .hl-card.color-blue { border-left-color: #3b82f6; }
+    .hl-card.color-pink { border-left-color: #ec4899; }
+    .hl-card:hover {
+      border-color: var(--accent-color);
+      background: var(--accent-light);
+    }
+    .hl-card-time {
+      font-size: 11.5px;
+      font-weight: 700;
+      color: var(--accent-color);
+      margin-bottom: 4px;
+      font-family: monospace;
+      display: flex;
+      justify-content: space-between;
+    }
+    .hl-card-del {
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 13px;
+      padding: 0 4px;
+    }
+    .hl-card-del:hover { color: #ef4444; }
+
+    @media (max-width: 992px) {
+      .hl-drawer {
+        left: 20px;
+        right: 20px;
+        width: auto;
+      }
+    }
+
     /* Highlight mark */
     mark.search-highlight {
       background-color: #fef08a;
@@ -555,6 +709,10 @@
       <button class="btn-icon" id="search-toggle-btn" title="搜尋本書內文 (Ctrl+F)">
         🔍 <span>搜尋內文</span>
       </button>
+      <!-- User Highlights Button -->
+      <button class="btn-icon" id="hl-toggle-btn" title="查看劃線筆記">
+        🖍️ <span>劃線筆記</span> (<span id="hl-count-badge">0</span>)
+      </button>
       <!-- Global Search Link -->
       <a href="index.html?tab=search" class="btn-icon" title="前往全書庫全文檢索">
         🌐 <span>全庫搜尋</span>
@@ -611,6 +769,30 @@
     <div class="inpage-search-drawer-list" id="inpage-search-drawer-list"></div>
   </div>
 
+  <!-- User Selection Floating Popup -->
+  <div class="selection-popup" id="selection-popup">
+    <button class="color-dot-btn color-dot-yellow" data-color="yellow" title="黃色劃線"></button>
+    <button class="color-dot-btn color-dot-green" data-color="green" title="綠色劃線"></button>
+    <button class="color-dot-btn color-dot-blue" data-color="blue" title="藍色劃線"></button>
+    <button class="color-dot-btn color-dot-pink" data-color="pink" title="粉色劃線"></button>
+  </div>
+
+  <!-- User Highlights Drawer -->
+  <div class="hl-drawer" id="hl-drawer">
+    <div class="hl-drawer-header">
+      <span>🖍️ 我的劃線金句筆記</span>
+      <div style="display: flex; gap: 6px; align-items: center;">
+        <button class="btn-icon" id="hl-clear-all" style="padding: 2px 7px; font-size: 11.5px;" title="清空劃線">清空全部</button>
+        <button class="btn-icon" id="hl-drawer-close" style="padding: 2px 6px;">✕</button>
+      </div>
+    </div>
+    <div class="hl-drawer-list" id="hl-drawer-list">
+      <div style="text-align: center; color: var(--text-muted); padding: 30px 10px; font-size: 13px;">
+        選取內文文字即可劃線螢光標記，並保存於此處
+      </div>
+    </div>
+  </div>
+
   <div class="backdrop" id="backdrop"></div>
 
   <div class="layout">
@@ -660,9 +842,9 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">Why has—nobody—told me—this—before—by— D. R. Julie Smith Chapter 1 Understanding Low Mood Everyone has low days—everyone—but we all D. I.</p>
-<p class="prose-p">Er in how frequent the low days are and how severe—the low mood—something that I have come to realize over the years of working as a—psychologist is how much people struggle with low mood and never tell—a soul—their friends and family would never know—they mask it—push it—away and focus on meeting expectations—sometimes people arrive at—therapy are er years of doing that—they feel like they’re GE-ing something wrong—they compare—themselves to the people who appear to have it all together—all of the—time—the ones who are always smiling and apparently full of energy—they buy into the idea that some people are just like that and—happiness is some sort of personality type—you either have it or you—don’t.</p>
-<p class="prose-p">If we see low mood as purely a fault in the brain—we don’t believe we—can change it—so instead we get to work on hiding it—we go about the—day—doing all the right things—smiling at all the right people—yet all the—time feeling a bit empty and dragged down by that low mood—not—enjoying things in the way we are told we should. Take a moment to notice your body temperature—you might feel—perfectly comfortable—or you may be too hot or too cold—while—changes in how hot or cold you feel could be a sign of infection and—illness—it could just as easily be a signal of things around you—maybe—you forgot your jacket—which is normally enough to protect you from—the cold—perhaps the sky has clouded over and it has started to rain—maybe you are hungry or dehydrated when you run for the bus you—notice you warm up—our body temperature is erected by our—environment—both internal and external—and we also have the power—to influence it ourselves—mood is much the same—when we experience—low mood—it may have been influenced by several factors from our—internal and external world—but when we understand what those—influences are—we can use that knowledge to sure it in the direction we—want it to go—sometimes the answer is to grab an extra layer and run—for the bus—sometimes it’s something else—something that the science has been confirming to us—and something—people—OEN learn in therapy—is that we have more power to influence—our emotions than we thought—this means we get to start working on our own well-being and taking—our emotional health into our own hands—it reminds us that our mood—is not fixed and it does not define who we are—it is a sensation we—experience—this doesn’t mean we can eradicate low mood or depression—life still—presents us with hardship—pain and loss and that will always be—reflected in our mental and physical health—instead—it means we can—build up a toolbox with things that help—the more we practice using—those tools—the more skilled we get at using them—so when life throws—us problems that hammer our mood into the ground we have—something to turn to—the concepts and skills covered are for us all—research shows them—to be helpful for those with depression—but they are not a controlled—drug that you need a prescription for—they are life skills—tools that we—can all use as we go through life facing fluctuations in mood—big and—small—for anyone who experiences severe and enduring mental illness it—is always optimal to learn new skills with the support of a professional—how feelings get created—sleep is bliss—then my alarm—oh ends my ears—it’s too loud and I hate—that tune—it sends a shockwave through my body that I am not ready—for—I press snooze and lie back down—my head is aching and I feel—irritated—I press snooze again—if we don’t get up soon the kids will be—late for school—I need to get ready for my meeting—I close my eyes and—see the to-do list lying on my desk in the OCE—dread—irritation—exhaustion—I don’t want to do today is this low mood—did it come from my brain—how did I wake up like—this—let’s trace back—last night I stayed up late working—by the time I—got into bed I was too tired to go back downstairs to grab a glass of—water—then my baby woke up twice in the night—I haven’t slept enough—and</p>
+            <p class="prose-p" id="sec-000000-p0">Why has—nobody—told me—this—before—by— D. R. Julie Smith Chapter 1 Understanding Low Mood Everyone has low days—everyone—but we all D. I.</p>
+<p class="prose-p" id="sec-000000-p1">Er in how frequent the low days are and how severe—the low mood—something that I have come to realize over the years of working as a—psychologist is how much people struggle with low mood and never tell—a soul—their friends and family would never know—they mask it—push it—away and focus on meeting expectations—sometimes people arrive at—therapy are er years of doing that—they feel like they’re GE-ing something wrong—they compare—themselves to the people who appear to have it all together—all of the—time—the ones who are always smiling and apparently full of energy—they buy into the idea that some people are just like that and—happiness is some sort of personality type—you either have it or you—don’t.</p>
+<p class="prose-p" id="sec-000000-p2">If we see low mood as purely a fault in the brain—we don’t believe we—can change it—so instead we get to work on hiding it—we go about the—day—doing all the right things—smiling at all the right people—yet all the—time feeling a bit empty and dragged down by that low mood—not—enjoying things in the way we are told we should. Take a moment to notice your body temperature—you might feel—perfectly comfortable—or you may be too hot or too cold—while—changes in how hot or cold you feel could be a sign of infection and—illness—it could just as easily be a signal of things around you—maybe—you forgot your jacket—which is normally enough to protect you from—the cold—perhaps the sky has clouded over and it has started to rain—maybe you are hungry or dehydrated when you run for the bus you—notice you warm up—our body temperature is erected by our—environment—both internal and external—and we also have the power—to influence it ourselves—mood is much the same—when we experience—low mood—it may have been influenced by several factors from our—internal and external world—but when we understand what those—influences are—we can use that knowledge to sure it in the direction we—want it to go—sometimes the answer is to grab an extra layer and run—for the bus—sometimes it’s something else—something that the science has been confirming to us—and something—people—OEN learn in therapy—is that we have more power to influence—our emotions than we thought—this means we get to start working on our own well-being and taking—our emotional health into our own hands—it reminds us that our mood—is not fixed and it does not define who we are—it is a sensation we—experience—this doesn’t mean we can eradicate low mood or depression—life still—presents us with hardship—pain and loss and that will always be—reflected in our mental and physical health—instead—it means we can—build up a toolbox with things that help—the more we practice using—those tools—the more skilled we get at using them—so when life throws—us problems that hammer our mood into the ground we have—something to turn to—the concepts and skills covered are for us all—research shows them—to be helpful for those with depression—but they are not a controlled—drug that you need a prescription for—they are life skills—tools that we—can all use as we go through life facing fluctuations in mood—big and—small—for anyone who experiences severe and enduring mental illness it—is always optimal to learn new skills with the support of a professional—how feelings get created—sleep is bliss—then my alarm—oh ends my ears—it’s too loud and I hate—that tune—it sends a shockwave through my body that I am not ready—for—I press snooze and lie back down—my head is aching and I feel—irritated—I press snooze again—if we don’t get up soon the kids will be—late for school—I need to get ready for my meeting—I close my eyes and—see the to-do list lying on my desk in the OCE—dread—irritation—exhaustion—I don’t want to do today is this low mood—did it come from my brain—how did I wake up like—this—let’s trace back—last night I stayed up late working—by the time I—got into bed I was too tired to go back downstairs to grab a glass of—water—then my baby woke up twice in the night—I haven’t slept enough—and</p>
           </div>
         </section>
         
@@ -673,22 +855,22 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">I’m dehydrated—the loud alarm woke me from a deep sleep—sending stress hormones shooting through my body as I woke up—my—heart started pounding and that felt something like stress—each of these signals sends information to my brain—we are not okay—so my brain goes on a hunt for reasons why—it searches—it finds—so my—physical discomfort—brought about by lack of sleep and dehydration—helped to create low mood—not all low mood is unidentified dehydration—but when dealing with—mood it is essential to remember that it’s not all in your head—it’s also in—your body state—your relationships—your past and present—your living—conditions and lifestyle—it’s in everything you do and don’t do—in your—diet and your thoughts—your movements and memories—how you feel—is not simply a product of your brain—your brain is constantly working to make sense of what is going on—but it only has a certain number of clues to work from—it takes—information from your body—e.g. heart rate—breathing—blood pressure—hormones—it takes information from each of your senses—what you—can see—hear—touch—taste and smell—it takes information from your—actions and thoughts—it pieces all these clues together with memories—of when you have felt similar in the past and makes a suggestion—a best.</p>
-<p class="prose-p">Guess about what is happening and what you do about it. That guess—can sometimes be felt as an emotion or a mood. The meaning we make—of that emotion and how we respond to it—in turn—sends information—back to the body and the mind about what to do next—Feldman—Barr—2017. So when it comes to changing your mood—the ingredients that go in will determine what comes out.</p>
-<p class="prose-p">The two-way road—lots of self-help books tell us to get our mindset right—they tell us—what you think will change how you feel—but they owe E. N. Miss—something crucial—it doesn’t end there—the relationship works both—ways. The way you feel also influences the types of thoughts that can—pop into your head—making you more vulnerable to experiencing—thoughts that are negative and self-critical.</p>
-<p class="prose-p">Even when we know our—thought-par urns aren’t helping—it is so incredibly hard to think. D. I. errantly when we feel down—and even harder to follow the rule of—only positive thoughts that is O. E.</p>
-<p class="prose-p">N. suggested on social media. There—mere presence of those negative thoughts does not mean that they—came first and caused the low mood. So thinking D. I. errantly may not be—the only answer—how we think is not the whole picture.</p>
-<p class="prose-p">Everything we do and don’t—do influences our mood too. When you feel down—all you want to do is—hide away. You don’t feel like doing any of the things you normally—enjoy—and so you don’t. But disengaging from those things for too long—makes you feel even worse.</p>
-<p class="prose-p">The loop also occurs with our physical. State. Let’s say you have been too busy to exercise for a few weeks. You feel tired and low in mood—so exercising is the last thing you want.</p>
-<p class="prose-p">To do. The longer you avoid the exercise—the more you feel lethargic. And low on energy. When you are low on energy—the chance of.</p>
-<p class="prose-p">Exercising goes down—along with your mood. Low mood gives you the—urge to do the things that make mood worse. Figure 1. The downward spiral of low mood.</p>
-<p class="prose-p">How a few days—of low mood can spiral into depression. Breaking the cycle is—easier to do if we recognize it early and act on it. Adapted. From Gilbert. 1997.</p>
-<p class="prose-p">So we get into these vicious cycles easily because all the D. I. errant. Aspects of our experience are impacting each other. But while this.</p>
-<p class="prose-p">Shows us how we can get stuck in a rut—it also shows us the way out. All these things are interacting to create our experience. But we. Don’t experience our thoughts, bodily sensations, emotions, and actions.</p>
-<p class="prose-p">All separately. We experience them together as one. Like wicker strands. Woven together, it’s hard to notice each one individually.</p>
-<p class="prose-p">We just. Experience the basket as a whole. That is why we need to get practiced. At breaking it down.</p>
-<p class="prose-p">When we do that we can more easily see what. Changes we could make. Figure 2 shows a simple way to break down. Your experience.</p>
-<p class="prose-p">When we break things down in this way, we can start to recognize. Not only what we do that keeps us stuck but also</p>
+            <p class="prose-p" id="sec-000503-p0">I’m dehydrated—the loud alarm woke me from a deep sleep—sending stress hormones shooting through my body as I woke up—my—heart started pounding and that felt something like stress—each of these signals sends information to my brain—we are not okay—so my brain goes on a hunt for reasons why—it searches—it finds—so my—physical discomfort—brought about by lack of sleep and dehydration—helped to create low mood—not all low mood is unidentified dehydration—but when dealing with—mood it is essential to remember that it’s not all in your head—it’s also in—your body state—your relationships—your past and present—your living—conditions and lifestyle—it’s in everything you do and don’t do—in your—diet and your thoughts—your movements and memories—how you feel—is not simply a product of your brain—your brain is constantly working to make sense of what is going on—but it only has a certain number of clues to work from—it takes—information from your body—e.g. heart rate—breathing—blood pressure—hormones—it takes information from each of your senses—what you—can see—hear—touch—taste and smell—it takes information from your—actions and thoughts—it pieces all these clues together with memories—of when you have felt similar in the past and makes a suggestion—a best.</p>
+<p class="prose-p" id="sec-000503-p1">Guess about what is happening and what you do about it. That guess—can sometimes be felt as an emotion or a mood. The meaning we make—of that emotion and how we respond to it—in turn—sends information—back to the body and the mind about what to do next—Feldman—Barr—2017. So when it comes to changing your mood—the ingredients that go in will determine what comes out.</p>
+<p class="prose-p" id="sec-000503-p2">The two-way road—lots of self-help books tell us to get our mindset right—they tell us—what you think will change how you feel—but they owe E. N. Miss—something crucial—it doesn’t end there—the relationship works both—ways. The way you feel also influences the types of thoughts that can—pop into your head—making you more vulnerable to experiencing—thoughts that are negative and self-critical.</p>
+<p class="prose-p" id="sec-000503-p3">Even when we know our—thought-par urns aren’t helping—it is so incredibly hard to think. D. I. errantly when we feel down—and even harder to follow the rule of—only positive thoughts that is O. E.</p>
+<p class="prose-p" id="sec-000503-p4">N. suggested on social media. There—mere presence of those negative thoughts does not mean that they—came first and caused the low mood. So thinking D. I. errantly may not be—the only answer—how we think is not the whole picture.</p>
+<p class="prose-p" id="sec-000503-p5">Everything we do and don’t—do influences our mood too. When you feel down—all you want to do is—hide away. You don’t feel like doing any of the things you normally—enjoy—and so you don’t. But disengaging from those things for too long—makes you feel even worse.</p>
+<p class="prose-p" id="sec-000503-p6">The loop also occurs with our physical. State. Let’s say you have been too busy to exercise for a few weeks. You feel tired and low in mood—so exercising is the last thing you want.</p>
+<p class="prose-p" id="sec-000503-p7">To do. The longer you avoid the exercise—the more you feel lethargic. And low on energy. When you are low on energy—the chance of.</p>
+<p class="prose-p" id="sec-000503-p8">Exercising goes down—along with your mood. Low mood gives you the—urge to do the things that make mood worse. Figure 1. The downward spiral of low mood.</p>
+<p class="prose-p" id="sec-000503-p9">How a few days—of low mood can spiral into depression. Breaking the cycle is—easier to do if we recognize it early and act on it. Adapted. From Gilbert. 1997.</p>
+<p class="prose-p" id="sec-000503-p10">So we get into these vicious cycles easily because all the D. I. errant. Aspects of our experience are impacting each other. But while this.</p>
+<p class="prose-p" id="sec-000503-p11">Shows us how we can get stuck in a rut—it also shows us the way out. All these things are interacting to create our experience. But we. Don’t experience our thoughts, bodily sensations, emotions, and actions.</p>
+<p class="prose-p" id="sec-000503-p12">All separately. We experience them together as one. Like wicker strands. Woven together, it’s hard to notice each one individually.</p>
+<p class="prose-p" id="sec-000503-p13">We just. Experience the basket as a whole. That is why we need to get practiced. At breaking it down.</p>
+<p class="prose-p" id="sec-000503-p14">When we do that we can more easily see what. Changes we could make. Figure 2 shows a simple way to break down. Your experience.</p>
+<p class="prose-p" id="sec-000503-p15">When we break things down in this way, we can start to recognize. Not only what we do that keeps us stuck but also</p>
           </div>
         </section>
         
@@ -699,33 +881,33 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">what we do that. Helps. Most people come to therapy knowing that they want to feel. D.</p>
-<p class="prose-p">I. errant. They have some unpleasant, sometimes excruciating, feelings. They don’t want to have any more and are missing some of the more. Enriching emotions, such as joy and excitement, that they would like to.</p>
-<p class="prose-p">Feel more of. We can’t just press a B. U. on and produce our desired set. Of emotions for the day.</p>
-<p class="prose-p">But we do know that how we feel is closely. Entwined with the state of our body, the thoughts we spend time with. And our actions. Those other parts of our experience are the ones that.</p>
-<p class="prose-p">We can influence and change. The constant feedback between the. Brain, the body, and our environment means that we can use those to. Influence how we feel.</p>
-<p class="prose-p">Figure 2. Spending time with negative thoughts makes it. Highly likely that I will feel low in mood. But feeling low in.</p>
-<p class="prose-p">Mood also makes me more vulnerable to having more. Negative thoughts. This shows us how we get stuck in cycles. Of low mood.</p>
-<p class="prose-p">But it also shows us the way out. Adapted From. Greenburger and Padesky, 2016. Where to start.</p>
-<p class="prose-p">The first step to begin GEing a grasp on low mood is to build our. Awareness of each aspect of the experience. This simply means. Noticing each one.</p>
-<p class="prose-p">This awareness starts O with hindsight. We look. Back on the day and choose moments to look at in detail. Then, with.</p>
-<p class="prose-p">Time and practice, that builds our ability to notice them in the moment. This is where we get the opportunity to change things. In therapy I might ask someone with low mood to notice where they. Feel it in their body.</p>
-<p class="prose-p">They might notice that they feel tired and lethargic. Or lose their appetite. They might also notice that when they feel low. They have thoughts like, I don’t feel like doing anything today.</p>
-<p class="prose-p">I am so. Lazy. I’ll never be successful. What a loser.</p>
-<p class="prose-p">They might have the urge to. Go back to hide in the bathroom at work for a while and scroll through. Social media. Once you get familiar with what is going on inside your own body.</p>
-<p class="prose-p">And mind, you can then expand that awareness to looking at what is. Going on in your environment and your relationships and the impact. That is having on your internal experience and behavior. Take your.</p>
-<p class="prose-p">Time GEing to know the details. When I am feeling this, what am I? Thinking about. When I am feeling this, what state is my body in?</p>
-<p class="prose-p">How. Was I looking at or myself in the days or hours leading up to this? Feeling. Is this an emotion or just physical discomfort from an unmet?</p>
-<p class="prose-p">Need. There are lots of questions. Sometimes the answers will be clear. Other times it will all feel too complex.</p>
-<p class="prose-p">That is okay. Continuing to. Explore and write down experiences will help to build up self-awareness about what makes things be a and what makes things worse. Toolkit.</p>
-<p class="prose-p">Reflect on what is contributing to your low mood. Use the cross-sectional formulation. See figure two page sixteen to practice the skill of picking up on the DI errant aspects of experiences, both positive and negative. You’ll find a blank formulation on page three hundred and forty seven that you can fill in yourself.</p>
-<p class="prose-p">Take ten minutes and pick a moment from that. Day to reflect on. You may notice that some boxes are easier to fill than the others. Reflecting on moments or they happen will help to gradually build up the skill of noticing the links between those aspects of your experience as they happen.</p>
-<p class="prose-p">Try this. You can use these prompts to help you fill in the formulation or you can simply use these as journal prompts. What was happening in the lead up to the moment you are? Reflecting on.</p>
-<p class="prose-p">What was happening just before you noticed the new feeling? What were your thoughts at the time? What were you focusing your entire on on? What emotions were present?</p>
-<p class="prose-p">Where did you feel that in your body? What other physical sensations did you notice? What urges appeared for you? Did you act on those urges?</p>
-<p class="prose-p">If not, what did you do instead? How did your actions influence the emotions? How did your actions influence your thoughts and beliefs? About the situation.</p>
-<p class="prose-p">Chapter summary. Mood fluctuation is normal. Nobody is happy all the time, but we don’t have to be at the mercy of it either. There are things.</p>
-<p class="prose-p">We can do that help. Feeling down is more likely to reflect unmet. needs than a brain malfunction. Each moment of our lives can be broken down into the di errant aspects of our experience.</p>
+            <p class="prose-p" id="sec-001005-p0">what we do that. Helps. Most people come to therapy knowing that they want to feel. D.</p>
+<p class="prose-p" id="sec-001005-p1">I. errant. They have some unpleasant, sometimes excruciating, feelings. They don’t want to have any more and are missing some of the more. Enriching emotions, such as joy and excitement, that they would like to.</p>
+<p class="prose-p" id="sec-001005-p2">Feel more of. We can’t just press a B. U. on and produce our desired set. Of emotions for the day.</p>
+<p class="prose-p" id="sec-001005-p3">But we do know that how we feel is closely. Entwined with the state of our body, the thoughts we spend time with. And our actions. Those other parts of our experience are the ones that.</p>
+<p class="prose-p" id="sec-001005-p4">We can influence and change. The constant feedback between the. Brain, the body, and our environment means that we can use those to. Influence how we feel.</p>
+<p class="prose-p" id="sec-001005-p5">Figure 2. Spending time with negative thoughts makes it. Highly likely that I will feel low in mood. But feeling low in.</p>
+<p class="prose-p" id="sec-001005-p6">Mood also makes me more vulnerable to having more. Negative thoughts. This shows us how we get stuck in cycles. Of low mood.</p>
+<p class="prose-p" id="sec-001005-p7">But it also shows us the way out. Adapted From. Greenburger and Padesky, 2016. Where to start.</p>
+<p class="prose-p" id="sec-001005-p8">The first step to begin GEing a grasp on low mood is to build our. Awareness of each aspect of the experience. This simply means. Noticing each one.</p>
+<p class="prose-p" id="sec-001005-p9">This awareness starts O with hindsight. We look. Back on the day and choose moments to look at in detail. Then, with.</p>
+<p class="prose-p" id="sec-001005-p10">Time and practice, that builds our ability to notice them in the moment. This is where we get the opportunity to change things. In therapy I might ask someone with low mood to notice where they. Feel it in their body.</p>
+<p class="prose-p" id="sec-001005-p11">They might notice that they feel tired and lethargic. Or lose their appetite. They might also notice that when they feel low. They have thoughts like, I don’t feel like doing anything today.</p>
+<p class="prose-p" id="sec-001005-p12">I am so. Lazy. I’ll never be successful. What a loser.</p>
+<p class="prose-p" id="sec-001005-p13">They might have the urge to. Go back to hide in the bathroom at work for a while and scroll through. Social media. Once you get familiar with what is going on inside your own body.</p>
+<p class="prose-p" id="sec-001005-p14">And mind, you can then expand that awareness to looking at what is. Going on in your environment and your relationships and the impact. That is having on your internal experience and behavior. Take your.</p>
+<p class="prose-p" id="sec-001005-p15">Time GEing to know the details. When I am feeling this, what am I? Thinking about. When I am feeling this, what state is my body in?</p>
+<p class="prose-p" id="sec-001005-p16">How. Was I looking at or myself in the days or hours leading up to this? Feeling. Is this an emotion or just physical discomfort from an unmet?</p>
+<p class="prose-p" id="sec-001005-p17">Need. There are lots of questions. Sometimes the answers will be clear. Other times it will all feel too complex.</p>
+<p class="prose-p" id="sec-001005-p18">That is okay. Continuing to. Explore and write down experiences will help to build up self-awareness about what makes things be a and what makes things worse. Toolkit.</p>
+<p class="prose-p" id="sec-001005-p19">Reflect on what is contributing to your low mood. Use the cross-sectional formulation. See figure two page sixteen to practice the skill of picking up on the DI errant aspects of experiences, both positive and negative. You’ll find a blank formulation on page three hundred and forty seven that you can fill in yourself.</p>
+<p class="prose-p" id="sec-001005-p20">Take ten minutes and pick a moment from that. Day to reflect on. You may notice that some boxes are easier to fill than the others. Reflecting on moments or they happen will help to gradually build up the skill of noticing the links between those aspects of your experience as they happen.</p>
+<p class="prose-p" id="sec-001005-p21">Try this. You can use these prompts to help you fill in the formulation or you can simply use these as journal prompts. What was happening in the lead up to the moment you are? Reflecting on.</p>
+<p class="prose-p" id="sec-001005-p22">What was happening just before you noticed the new feeling? What were your thoughts at the time? What were you focusing your entire on on? What emotions were present?</p>
+<p class="prose-p" id="sec-001005-p23">Where did you feel that in your body? What other physical sensations did you notice? What urges appeared for you? Did you act on those urges?</p>
+<p class="prose-p" id="sec-001005-p24">If not, what did you do instead? How did your actions influence the emotions? How did your actions influence your thoughts and beliefs? About the situation.</p>
+<p class="prose-p" id="sec-001005-p25">Chapter summary. Mood fluctuation is normal. Nobody is happy all the time, but we don’t have to be at the mercy of it either. There are things.</p>
+<p class="prose-p" id="sec-001005-p26">We can do that help. Feeling down is more likely to reflect unmet. needs than a brain malfunction. Each moment of our lives can be broken down into the di errant aspects of our experience.</p>
           </div>
         </section>
         
@@ -736,33 +918,33 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">Those things all influence each other. It shows us how we get stuck in a downward spiral of low mood or even depression. Our emotions are constructed through a number of things we can influence. We cannot directly choose our emotions and switch them on, but we can use the things we can control to change how we feel.</p>
-<p class="prose-p">Using the cross-sectional formulation, see Figure 2, page 16, helps to increase awareness of what is impacting on our mood. And keeping us stuck.
+            <p class="prose-p" id="sec-001509-p0">Those things all influence each other. It shows us how we get stuck in a downward spiral of low mood or even depression. Our emotions are constructed through a number of things we can influence. We cannot directly choose our emotions and switch them on, but we can use the things we can control to change how we feel.</p>
+<p class="prose-p" id="sec-001509-p1">Using the cross-sectional formulation, see Figure 2, page 16, helps to increase awareness of what is impacting on our mood. And keeping us stuck.
 
 #### Chapter 2. Mood Pitfalls to Watch Out For. The problem with instant relief.</p>
-<p class="prose-p">Low mood gives us the urge to do things that can make our mood even worse. When we feel discomfort and the threat of low mood, we want. To get back to feeling lighter. Our brain already knows from experience.</p>
-<p class="prose-p">What tends to help the quickest. So we feel urges to do whatever will. Make it all go away as soon as possible. We numb or distract ourselves.</p>
-<p class="prose-p">And push the feelings away. For some that is via alcohol, drugs, or food. For others it is watching hours of TV or scrolling through social media. Each of those things are so inviting because they work, in the short.</p>
-<p class="prose-p">Term. They give us that instant distraction and numbing that we crave. That is, until we switch-o the TV, close down the app, or sober up, and. Then the feelings come back.</p>
-<p class="prose-p">Each time we go round that cycle the. Feelings come back even more intense. Figure 3. The Vicious Cycle of Instant Relief.</p>
-<p class="prose-p">Need from the work of Isabel Clark, 2017. Finding ways to manage low mood involves reflecting on the ways in. Which we respond to those feelings, having compassion for our human. Need for relief, while also being honest with ourselves about which of.</p>
-<p class="prose-p">Those attempts to cope are making things worse in the longer term. OEN the things that work best in the long term are not fast acting. Try this, use these questions as journal prompts to help you. Test on your current coping strategies for low mood.</p>
-<p class="prose-p">When feeling low, what are your go-to responses? Do those responses provide instant relief from the pain and. Discomfort. What E-ECT do they have in the long term?</p>
-<p class="prose-p">What do they cost you? Not in money, but in time, eort. Health. Progress.</p>
-<p class="prose-p">Thought patterns that make you feel worse. As we discussed in the previous chapter, the relationship between. Thoughts and feelings goes both ways. The thoughts we spend time.</p>
-<p class="prose-p">With a E-C-T how we feel, but how we feel also has an E-ECT on the. Thought par earns that come up. Listed below are some of the thought. Biases that we commonly experience when mood is low.</p>
-<p class="prose-p">They might. Sound familiar and that’s because thought biases are normal. They. Happen to everyone to varying degrees.</p>
-<p class="prose-p">But they are more likely to. Even when we experience fluctuations in mood and emotional. States. Understanding what they are and starting to notice them when.</p>
-<p class="prose-p">They appear is a big step towards taking some of the power out of. Them. Mind reading. Having a grasp on what the people around us are thinking and feeling is.</p>
-<p class="prose-p">Crucial for humans. We live in groups and depend on each other, so we. All spend much of our lives making guesses about what other people. Are thinking and feeling.</p>
-<p class="prose-p">But when we’re feeling down, we are more. Likely to assume that those guesses are true. When my friend looked at. Me funny I just knew she hated me.</p>
-<p class="prose-p">But on a D. I. errant day, when I’m. Not struggling with low mood, I might be more inclined to be a bit more. Curious about what was going on and possibly even ask her.</p>
-<p class="prose-p">You might notice that you feel the need for more reassurance from. Others when your mood is low. If you don’t get that extra reassurance. You might automatically assume that they are thinking negatively about.</p>
-<p class="prose-p">You. But that is a bias, and it is quite possible that you are your worst. Critic. Overgeneralization.</p>
-<p class="prose-p">When we are struggling with low mood it only takes one thing to go. Wrong, and we have that tendency to right-o the whole day. You spill. Some milk in the morning.</p>
-<p class="prose-p">It goes everywhere. You feel stressed and. Frustrated as you don’t want to be late. Overgeneralization is when we.</p>
-<p class="prose-p">See this one event as a sign that today will be one of those days. Nothing is going your way, it never does. You start asking the universe. To give you a break because it sure as hell feels like it’s against you.</p>
-<p class="prose-p">Today. When this happens we start to expect more things to go wrong and. It’s a slippery slope towards hopelessness.</p>
+<p class="prose-p" id="sec-001509-p2">Low mood gives us the urge to do things that can make our mood even worse. When we feel discomfort and the threat of low mood, we want. To get back to feeling lighter. Our brain already knows from experience.</p>
+<p class="prose-p" id="sec-001509-p3">What tends to help the quickest. So we feel urges to do whatever will. Make it all go away as soon as possible. We numb or distract ourselves.</p>
+<p class="prose-p" id="sec-001509-p4">And push the feelings away. For some that is via alcohol, drugs, or food. For others it is watching hours of TV or scrolling through social media. Each of those things are so inviting because they work, in the short.</p>
+<p class="prose-p" id="sec-001509-p5">Term. They give us that instant distraction and numbing that we crave. That is, until we switch-o the TV, close down the app, or sober up, and. Then the feelings come back.</p>
+<p class="prose-p" id="sec-001509-p6">Each time we go round that cycle the. Feelings come back even more intense. Figure 3. The Vicious Cycle of Instant Relief.</p>
+<p class="prose-p" id="sec-001509-p7">Need from the work of Isabel Clark, 2017. Finding ways to manage low mood involves reflecting on the ways in. Which we respond to those feelings, having compassion for our human. Need for relief, while also being honest with ourselves about which of.</p>
+<p class="prose-p" id="sec-001509-p8">Those attempts to cope are making things worse in the longer term. OEN the things that work best in the long term are not fast acting. Try this, use these questions as journal prompts to help you. Test on your current coping strategies for low mood.</p>
+<p class="prose-p" id="sec-001509-p9">When feeling low, what are your go-to responses? Do those responses provide instant relief from the pain and. Discomfort. What E-ECT do they have in the long term?</p>
+<p class="prose-p" id="sec-001509-p10">What do they cost you? Not in money, but in time, eort. Health. Progress.</p>
+<p class="prose-p" id="sec-001509-p11">Thought patterns that make you feel worse. As we discussed in the previous chapter, the relationship between. Thoughts and feelings goes both ways. The thoughts we spend time.</p>
+<p class="prose-p" id="sec-001509-p12">With a E-C-T how we feel, but how we feel also has an E-ECT on the. Thought par earns that come up. Listed below are some of the thought. Biases that we commonly experience when mood is low.</p>
+<p class="prose-p" id="sec-001509-p13">They might. Sound familiar and that’s because thought biases are normal. They. Happen to everyone to varying degrees.</p>
+<p class="prose-p" id="sec-001509-p14">But they are more likely to. Even when we experience fluctuations in mood and emotional. States. Understanding what they are and starting to notice them when.</p>
+<p class="prose-p" id="sec-001509-p15">They appear is a big step towards taking some of the power out of. Them. Mind reading. Having a grasp on what the people around us are thinking and feeling is.</p>
+<p class="prose-p" id="sec-001509-p16">Crucial for humans. We live in groups and depend on each other, so we. All spend much of our lives making guesses about what other people. Are thinking and feeling.</p>
+<p class="prose-p" id="sec-001509-p17">But when we’re feeling down, we are more. Likely to assume that those guesses are true. When my friend looked at. Me funny I just knew she hated me.</p>
+<p class="prose-p" id="sec-001509-p18">But on a D. I. errant day, when I’m. Not struggling with low mood, I might be more inclined to be a bit more. Curious about what was going on and possibly even ask her.</p>
+<p class="prose-p" id="sec-001509-p19">You might notice that you feel the need for more reassurance from. Others when your mood is low. If you don’t get that extra reassurance. You might automatically assume that they are thinking negatively about.</p>
+<p class="prose-p" id="sec-001509-p20">You. But that is a bias, and it is quite possible that you are your worst. Critic. Overgeneralization.</p>
+<p class="prose-p" id="sec-001509-p21">When we are struggling with low mood it only takes one thing to go. Wrong, and we have that tendency to right-o the whole day. You spill. Some milk in the morning.</p>
+<p class="prose-p" id="sec-001509-p22">It goes everywhere. You feel stressed and. Frustrated as you don’t want to be late. Overgeneralization is when we.</p>
+<p class="prose-p" id="sec-001509-p23">See this one event as a sign that today will be one of those days. Nothing is going your way, it never does. You start asking the universe. To give you a break because it sure as hell feels like it’s against you.</p>
+<p class="prose-p" id="sec-001509-p24">Today. When this happens we start to expect more things to go wrong and. It’s a slippery slope towards hopelessness.</p>
           </div>
         </section>
         
@@ -773,32 +955,32 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">Understanding thoughts. Particularly like to show up along with the pain of a breakup. 1. Relationship ends and our thoughts start to suggest that this means we. Will never make a relationship work and could never be happy with.</p>
-<p class="prose-p">Anyone else. It is natural to have these thoughts, but le unchecked. They will contribute to more pain and low mood. Eggocentric thinking.</p>
-<p class="prose-p">When times are hard and you’re not feeling at your best, this tends to. Follow our focus. It becomes more DI cult to consider other people’s. Opinions and perspectives, or that they might hold DI errant values.</p>
-<p class="prose-p">This. Bias can cause problems in our relationships because it can disrupt how. Connected we feel to others.</p>
-<p class="prose-p">For example, we set ourselves a rule for. Living, something like, I must always be on time for everything. We. Apply that rule to others and feel oh ended or hurt when they fall.</p>
-<p class="prose-p">Short of that. That might make us feel less tolerant of others. Disrupt. Our mood even further and add relationship tensions into the mix.</p>
-<p class="prose-p">This. Equates with trying to control the uncontrollable and inevitably sends. Our low mood spiraling down further. Emotional reasoning.</p>
-<p class="prose-p">Just as thoughts are not facts, feelings are not facts either. Emotions. Information. But when that information is powerful, intense and.</p>
-<p class="prose-p">Loud, as emotions can be, then we are more vulnerable to believing in. Them as a true reflection of what is going on. I feel it therefore it must. Be a fact.</p>
-<p class="prose-p">Emotional reasoning is a thought bias that leads us to use. What we feel as evidence for something to be true, even when there. Might be plenty of evidence to suggest otherwise.</p>
-<p class="prose-p">For example, you. Look out of an exam feeling deflated, low in mood and lacking in. Confidence. Emotional reasoning tells you this means you must have.</p>
-<p class="prose-p">Failed. You may have performed okay in the exam, but your brain takes. Information from how you feel and you’re not feeling like a winner right. Now.</p>
-<p class="prose-p">The low mood could have been created by the stress followed by. Exhaustion. But the feeling is influencing how you then interpret your. Situation.</p>
-<p class="prose-p">Little filter. The thing about the human brain is that, when you believe something. The brain will scan the environment for any signs that the belief is true. Information that challenges our beliefs about ourselves and the world is.</p>
-<p class="prose-p">Psychologically threatening. Things suddenly become unpredictable and. That doesn’t feel safe. So the brain tends to discount it and hold on to.</p>
-<p class="prose-p">Whatever fits with previous experience, even if that belief causes. Stress. So during hard times, when you may be feeling low and believe. That you are a failure, your mind will act like a sieve, luring go of all the.</p>
-<p class="prose-p">Information that suggests otherwise and holding on to any indication. That you have not lived up to expectation. Let’s say you post a picture on social media and plenty of your. Followers leave positive comments.</p>
-<p class="prose-p">But you are not looking for those. You skim past them, searching for any negative ones. If you find any. You might then spend a significant portion of your day thinking it over.</p>
-<p class="prose-p">Feeling hurt and doubting yourself. In evolutionary terms, it makes sense that when you feel vulnerable. You keep an extra lookout for signs of threat. But when you are trying.</p>
-<p class="prose-p">To come back from a dark place, the mental filter is something to be. Aware of. Musts and shoulds. Beware of those musts and shoulds.</p>
-<p class="prose-p">I don’t mean the healthy and. Normal sense of duty we have to our community. I mean the relentless. Expectations that send us on a downward spiral of unhappiness.</p>
-<p class="prose-p">I must. Be more this, and I should feel that. The musts and shoulds are heavily tied up with perfectionism. 4. Example, if you feel you must never fail, you are searing yourself up for.</p>
-<p class="prose-p">A roller coaster of emotions and a struggle with mood when you make a. Mistake or encounter a setback. We can strive for success and accept. Failures along the way.</p>
-<p class="prose-p">But when we set ourselves unrealistic. Expectations, we become trapped by them. That means we sue err. Whenever there is any sign that we may not be living up to them.</p>
-<p class="prose-p">So watch out for those musts and shoulds. When you are already. Struggling with mood, expecting yourself to do, be and have everything. What you are when you’re at your best is not realistic or helpful.</p>
-<p class="prose-p">All or nothing thinking. Also known as black and white thinking, this is another thought bias. That can make mood worse if we leave it unchecked. This is when we.</p>
+            <p class="prose-p" id="sec-002010-p0">Understanding thoughts. Particularly like to show up along with the pain of a breakup. 1. Relationship ends and our thoughts start to suggest that this means we. Will never make a relationship work and could never be happy with.</p>
+<p class="prose-p" id="sec-002010-p1">Anyone else. It is natural to have these thoughts, but le unchecked. They will contribute to more pain and low mood. Eggocentric thinking.</p>
+<p class="prose-p" id="sec-002010-p2">When times are hard and you’re not feeling at your best, this tends to. Follow our focus. It becomes more DI cult to consider other people’s. Opinions and perspectives, or that they might hold DI errant values.</p>
+<p class="prose-p" id="sec-002010-p3">This. Bias can cause problems in our relationships because it can disrupt how. Connected we feel to others.</p>
+<p class="prose-p" id="sec-002010-p4">For example, we set ourselves a rule for. Living, something like, I must always be on time for everything. We. Apply that rule to others and feel oh ended or hurt when they fall.</p>
+<p class="prose-p" id="sec-002010-p5">Short of that. That might make us feel less tolerant of others. Disrupt. Our mood even further and add relationship tensions into the mix.</p>
+<p class="prose-p" id="sec-002010-p6">This. Equates with trying to control the uncontrollable and inevitably sends. Our low mood spiraling down further. Emotional reasoning.</p>
+<p class="prose-p" id="sec-002010-p7">Just as thoughts are not facts, feelings are not facts either. Emotions. Information. But when that information is powerful, intense and.</p>
+<p class="prose-p" id="sec-002010-p8">Loud, as emotions can be, then we are more vulnerable to believing in. Them as a true reflection of what is going on. I feel it therefore it must. Be a fact.</p>
+<p class="prose-p" id="sec-002010-p9">Emotional reasoning is a thought bias that leads us to use. What we feel as evidence for something to be true, even when there. Might be plenty of evidence to suggest otherwise.</p>
+<p class="prose-p" id="sec-002010-p10">For example, you. Look out of an exam feeling deflated, low in mood and lacking in. Confidence. Emotional reasoning tells you this means you must have.</p>
+<p class="prose-p" id="sec-002010-p11">Failed. You may have performed okay in the exam, but your brain takes. Information from how you feel and you’re not feeling like a winner right. Now.</p>
+<p class="prose-p" id="sec-002010-p12">The low mood could have been created by the stress followed by. Exhaustion. But the feeling is influencing how you then interpret your. Situation.</p>
+<p class="prose-p" id="sec-002010-p13">Little filter. The thing about the human brain is that, when you believe something. The brain will scan the environment for any signs that the belief is true. Information that challenges our beliefs about ourselves and the world is.</p>
+<p class="prose-p" id="sec-002010-p14">Psychologically threatening. Things suddenly become unpredictable and. That doesn’t feel safe. So the brain tends to discount it and hold on to.</p>
+<p class="prose-p" id="sec-002010-p15">Whatever fits with previous experience, even if that belief causes. Stress. So during hard times, when you may be feeling low and believe. That you are a failure, your mind will act like a sieve, luring go of all the.</p>
+<p class="prose-p" id="sec-002010-p16">Information that suggests otherwise and holding on to any indication. That you have not lived up to expectation. Let’s say you post a picture on social media and plenty of your. Followers leave positive comments.</p>
+<p class="prose-p" id="sec-002010-p17">But you are not looking for those. You skim past them, searching for any negative ones. If you find any. You might then spend a significant portion of your day thinking it over.</p>
+<p class="prose-p" id="sec-002010-p18">Feeling hurt and doubting yourself. In evolutionary terms, it makes sense that when you feel vulnerable. You keep an extra lookout for signs of threat. But when you are trying.</p>
+<p class="prose-p" id="sec-002010-p19">To come back from a dark place, the mental filter is something to be. Aware of. Musts and shoulds. Beware of those musts and shoulds.</p>
+<p class="prose-p" id="sec-002010-p20">I don’t mean the healthy and. Normal sense of duty we have to our community. I mean the relentless. Expectations that send us on a downward spiral of unhappiness.</p>
+<p class="prose-p" id="sec-002010-p21">I must. Be more this, and I should feel that. The musts and shoulds are heavily tied up with perfectionism. 4. Example, if you feel you must never fail, you are searing yourself up for.</p>
+<p class="prose-p" id="sec-002010-p22">A roller coaster of emotions and a struggle with mood when you make a. Mistake or encounter a setback. We can strive for success and accept. Failures along the way.</p>
+<p class="prose-p" id="sec-002010-p23">But when we set ourselves unrealistic. Expectations, we become trapped by them. That means we sue err. Whenever there is any sign that we may not be living up to them.</p>
+<p class="prose-p" id="sec-002010-p24">So watch out for those musts and shoulds. When you are already. Struggling with mood, expecting yourself to do, be and have everything. What you are when you’re at your best is not realistic or helpful.</p>
+<p class="prose-p" id="sec-002010-p25">All or nothing thinking. Also known as black and white thinking, this is another thought bias. That can make mood worse if we leave it unchecked. This is when we.</p>
           </div>
         </section>
         
@@ -809,38 +991,38 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">Think in absolutes or extremes. I am either a success or a complete. Failure. If I don’t look perfect, I’m ugly.</p>
-<p class="prose-p">If I make a mistake, I should. Never have bothered. This polarized thinking style leaves no room for. The gray areas that are oen closer to reality.</p>
-<p class="prose-p">The reason this par urn. Of thought makes everything harder is because it makes us vulnerable. To more intense emotional reactions. If failing one exam means you are.</p>
-<p class="prose-p">A failure as a person, then the emotional fallout from that will be more. Extreme and much harder to pull back from. When you feel low in mood, you’re more likely to think in this. But it’s important to remember that this is not because.</p>
-<p class="prose-p">Your brain is GE-ing things wrong or malfunctioning in any way. When. We are under stress, all or nothing thinking creates a sense of certainty. Or predictability about the world.</p>
-<p class="prose-p">What we then miss is the chance to. Think things through more logically, weighing up the DI errant sides of. The argument and coming to a more informed judgment. The four table of thought bias examples.</p>
-<p class="prose-p">Thought bias. What is it? Example. Mind reading.</p>
-<p class="prose-p">Making assumptions about. What others are thinking. And feeling. She hasn’t called in a.</p>
-<p class="prose-p">While because she hates. Me. Overgeneralization. Taking one event and.</p>
-<p class="prose-p">Using it to generalize. About other things. I failed my exam. My.</p>
-<p class="prose-p">Future is ruined. Legocentric thinking. Assuming that others have. The same perspective and.</p>
-<p class="prose-p">Values as we have and. Judging their behavior. Through that lens. I would never be late like.</p>
-<p class="prose-p">That. He obviously doesn’t. Care enough about me. Emotional reasoning.</p>
-<p class="prose-p">I feel it, therefore it must. Be true. I feel guilty, therefore I. Am a bad parent.</p>
-<p class="prose-p">Musts and shoulds. And unrealistic. Expectations that set us. Up to feel like a failure.</p>
-<p class="prose-p">Every day. I must always look. Perfect. I should never do.</p>
-<p class="prose-p">Any less than my absolute. Best. All or nothing thinking. Thinking in absolutes or.</p>
-<p class="prose-p">Extremes. If I don’t get 100%. I’m a failure. If I don’t look.</p>
-<p class="prose-p">Perfect I’m not going out. What to do with thought biases. Now you know some of the common thought biases that can make. Your mood worse.</p>
-<p class="prose-p">What next? We can’t stop those thoughts from. Arriving. But the power is all in seeing them for what they are.</p>
-<p class="prose-p">Biased. And then managing how we respond to them. If we can acknowledge. That each of our thoughts presents just one possible idea among many.</p>
-<p class="prose-p">Then we open ourselves up to the possibility of considering others. This. Means the original thought has less power over our emotional state. To be sure we respond to them in the way we want to.</p>
-<p class="prose-p">First we need. To notice the biases when they appear. If we don’t step back and see. Them as a bias.</p>
-<p class="prose-p">We buy into them as if they present a fair reflection of. Reality. Then they can feed that low mood and exert their influence. Over what we do next.</p>
-<p class="prose-p">Noticing thought biases sounds obvious and it is simple. But it’s not. Always easy. When we’re in the moment.</p>
-<p class="prose-p">We don’t only experience a. Thought that we can see clearly. We experience the mess of emotions. Physical sensations.</p>
-<p class="prose-p">Images. Memories. And urges. All at once.</p>
-<p class="prose-p">We are so. Used to doing everything on autopilot that’s stopping to check out the. Details of the process can take a lot of practice. Here are some ways you can start to spot thought biases and the.</p>
-<p class="prose-p">Effect they have on you. Getting started. High emotion states can make it hard to think clearly. So it can be.</p>
-<p class="prose-p">Easier to start by reflecting on thought biases or the emotions. Of the moment have passed. You build your awareness by looking. Back.</p>
-<p class="prose-p">But that gradually builds towards awareness in real time. Start keeping a journal and choose specific moments to focus on. Both positive and negative. Make a distinction between what you.</p>
-<p class="prose-p">Were thinking at the time what emotions you noticed and what. Physical sensations came with that once you have the thoughts right yen down go over the list of biases and see if your thoughts might have been biased at the time if you are. the moment and have the chance to write something. Down, put pen to paper and express your thoughts, feelings and… bodily sensations. But as you do that, try to use language that… helps</p>
+            <p class="prose-p" id="sec-002510-p0">Think in absolutes or extremes. I am either a success or a complete. Failure. If I don’t look perfect, I’m ugly.</p>
+<p class="prose-p" id="sec-002510-p1">If I make a mistake, I should. Never have bothered. This polarized thinking style leaves no room for. The gray areas that are oen closer to reality.</p>
+<p class="prose-p" id="sec-002510-p2">The reason this par urn. Of thought makes everything harder is because it makes us vulnerable. To more intense emotional reactions. If failing one exam means you are.</p>
+<p class="prose-p" id="sec-002510-p3">A failure as a person, then the emotional fallout from that will be more. Extreme and much harder to pull back from. When you feel low in mood, you’re more likely to think in this. But it’s important to remember that this is not because.</p>
+<p class="prose-p" id="sec-002510-p4">Your brain is GE-ing things wrong or malfunctioning in any way. When. We are under stress, all or nothing thinking creates a sense of certainty. Or predictability about the world.</p>
+<p class="prose-p" id="sec-002510-p5">What we then miss is the chance to. Think things through more logically, weighing up the DI errant sides of. The argument and coming to a more informed judgment. The four table of thought bias examples.</p>
+<p class="prose-p" id="sec-002510-p6">Thought bias. What is it? Example. Mind reading.</p>
+<p class="prose-p" id="sec-002510-p7">Making assumptions about. What others are thinking. And feeling. She hasn’t called in a.</p>
+<p class="prose-p" id="sec-002510-p8">While because she hates. Me. Overgeneralization. Taking one event and.</p>
+<p class="prose-p" id="sec-002510-p9">Using it to generalize. About other things. I failed my exam. My.</p>
+<p class="prose-p" id="sec-002510-p10">Future is ruined. Legocentric thinking. Assuming that others have. The same perspective and.</p>
+<p class="prose-p" id="sec-002510-p11">Values as we have and. Judging their behavior. Through that lens. I would never be late like.</p>
+<p class="prose-p" id="sec-002510-p12">That. He obviously doesn’t. Care enough about me. Emotional reasoning.</p>
+<p class="prose-p" id="sec-002510-p13">I feel it, therefore it must. Be true. I feel guilty, therefore I. Am a bad parent.</p>
+<p class="prose-p" id="sec-002510-p14">Musts and shoulds. And unrealistic. Expectations that set us. Up to feel like a failure.</p>
+<p class="prose-p" id="sec-002510-p15">Every day. I must always look. Perfect. I should never do.</p>
+<p class="prose-p" id="sec-002510-p16">Any less than my absolute. Best. All or nothing thinking. Thinking in absolutes or.</p>
+<p class="prose-p" id="sec-002510-p17">Extremes. If I don’t get 100%. I’m a failure. If I don’t look.</p>
+<p class="prose-p" id="sec-002510-p18">Perfect I’m not going out. What to do with thought biases. Now you know some of the common thought biases that can make. Your mood worse.</p>
+<p class="prose-p" id="sec-002510-p19">What next? We can’t stop those thoughts from. Arriving. But the power is all in seeing them for what they are.</p>
+<p class="prose-p" id="sec-002510-p20">Biased. And then managing how we respond to them. If we can acknowledge. That each of our thoughts presents just one possible idea among many.</p>
+<p class="prose-p" id="sec-002510-p21">Then we open ourselves up to the possibility of considering others. This. Means the original thought has less power over our emotional state. To be sure we respond to them in the way we want to.</p>
+<p class="prose-p" id="sec-002510-p22">First we need. To notice the biases when they appear. If we don’t step back and see. Them as a bias.</p>
+<p class="prose-p" id="sec-002510-p23">We buy into them as if they present a fair reflection of. Reality. Then they can feed that low mood and exert their influence. Over what we do next.</p>
+<p class="prose-p" id="sec-002510-p24">Noticing thought biases sounds obvious and it is simple. But it’s not. Always easy. When we’re in the moment.</p>
+<p class="prose-p" id="sec-002510-p25">We don’t only experience a. Thought that we can see clearly. We experience the mess of emotions. Physical sensations.</p>
+<p class="prose-p" id="sec-002510-p26">Images. Memories. And urges. All at once.</p>
+<p class="prose-p" id="sec-002510-p27">We are so. Used to doing everything on autopilot that’s stopping to check out the. Details of the process can take a lot of practice. Here are some ways you can start to spot thought biases and the.</p>
+<p class="prose-p" id="sec-002510-p28">Effect they have on you. Getting started. High emotion states can make it hard to think clearly. So it can be.</p>
+<p class="prose-p" id="sec-002510-p29">Easier to start by reflecting on thought biases or the emotions. Of the moment have passed. You build your awareness by looking. Back.</p>
+<p class="prose-p" id="sec-002510-p30">But that gradually builds towards awareness in real time. Start keeping a journal and choose specific moments to focus on. Both positive and negative. Make a distinction between what you.</p>
+<p class="prose-p" id="sec-002510-p31">Were thinking at the time what emotions you noticed and what. Physical sensations came with that once you have the thoughts right yen down go over the list of biases and see if your thoughts might have been biased at the time if you are. the moment and have the chance to write something. Down, put pen to paper and express your thoughts, feelings and… bodily sensations. But as you do that, try to use language that… helps</p>
           </div>
         </section>
         
@@ -851,20 +1033,20 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">you get some distance from those thoughts and feelings. For… example, I am having thoughts that… or I am noticing these… sensations. This use of language helps you to step back from the… thoughts and feelings, to see them as an experience that is… washing over you, rather than an absolute truth. If you have someone you trust and can fight in, you can share with… them the thought biases that you are prone to and they can help… you to spot them and call them out.</p>
-<p class="prose-p">But this requires a very good… relationship with someone who is accepting and respectful and… supports you in your choice to work on change and growth. It is… not easy to be called out in the moment, so this one takes some… careful planning to make sure it works for you. Starting a mindfulness practice is the way forward when you want… to get a bird’s eye view of what your thoughts are doing. Having a… set time of the day when you pay a n-tie on to your thoughts is a… great idea.</p>
-<p class="prose-p">It’s your formal practice to build that ability to step… back from your thoughts and observe them without judgment. A few pointers. As we are building awareness of our thoughts, we need to work hard to… see that par urn of thought as just one possible interpretation of the… world and allow ourselves to consider alternatives. S.</p>
-<p class="prose-p">P. O-ing these. Common thought biases and labeling them helps us to do that. This is not something we do just once.</p>
-<p class="prose-p">It takes continued e-ought and… practice. Sometimes you may not spot a thought as biased… at other. Times you will be able to spot them and come back at them with a… more helpful alternative. In trying to find alternatives, some people try to look for the correct… answer.</p>
-<p class="prose-p">It is not so much the exact wording of the alternative… perspective that is important. What ma urs more is the practice of… stopping before you buy into a thought as fact and actively considering… other views. As a general rule, it helps to look for a perspective that… feels more balanced, fair and compassionate and that takes into… account all the information available. Emotions tend to drive more… extreme and biased views.</p>
-<p class="prose-p">But life is O. E. N. more complex and full of… gray areas. It’s okay not to have a clear opinion on something while you… take time to think about D.</p>
-<p class="prose-p">I. errant sides of the story. So give yourself… permission to sit on the fence for as long as you need to… build up that… ability to tolerate not knowing. When we do that, we are choosing to… stop living life by the first thoughts that pop into our head. Our choices… become more consciously thought out.</p>
-<p class="prose-p">Let’s say I spill the milk all over the floor at breakfast and… immediately start asking myself why I am such a failure in life and why. Nothing ever goes right for me. That’s a nice mix of generalization and… all or nothing thinking right there. If I can spot that bias and call it out, I… can open up this window of opportunity in which I can reduce the… intensity of that emotional response that might otherwise follow.</p>
-<p class="prose-p">It is… never fun to spill milk, but our relationship with our thoughts can make. The D. I. errants between a few minutes of frustration and something. That ruins your mood for the entire day.</p>
-<p class="prose-p">Like everything in this book, it’s… very easy to say, but much harder to do. It takes practice and it doesn’t… make us invincible. But it helps, and it stops small moments turning into… big ones. Chapter summary Thought bias is inevitable, but we are not helpless to its… e-ects.</p>
-<p class="prose-p">We naturally look for evidence that confirms our beliefs. We… then experience what we believe, even when there is… evidence to suggest otherwise. Whatever has caused our low mood, it tends to come along. With a focus on Threat and Loss, Gilbert, 1997.</p>
-<p class="prose-p">This bias towards the negative can then feed back to intensify… the low mood if we continue to focus on and believe those… thoughts to be facts. One strategy against the downward spiral this can cause is… understanding that how we feel is not evidence that our… thoughts are true. Another strategy is taking a stance of curiosity. Get some distance from those thoughts by becoming familiar.</p>
-<p class="prose-p">With the common biases, noticing when they appear and… labeling them as biases, not facts.
+            <p class="prose-p" id="sec-003012-p0">you get some distance from those thoughts and feelings. For… example, I am having thoughts that… or I am noticing these… sensations. This use of language helps you to step back from the… thoughts and feelings, to see them as an experience that is… washing over you, rather than an absolute truth. If you have someone you trust and can fight in, you can share with… them the thought biases that you are prone to and they can help… you to spot them and call them out.</p>
+<p class="prose-p" id="sec-003012-p1">But this requires a very good… relationship with someone who is accepting and respectful and… supports you in your choice to work on change and growth. It is… not easy to be called out in the moment, so this one takes some… careful planning to make sure it works for you. Starting a mindfulness practice is the way forward when you want… to get a bird’s eye view of what your thoughts are doing. Having a… set time of the day when you pay a n-tie on to your thoughts is a… great idea.</p>
+<p class="prose-p" id="sec-003012-p2">It’s your formal practice to build that ability to step… back from your thoughts and observe them without judgment. A few pointers. As we are building awareness of our thoughts, we need to work hard to… see that par urn of thought as just one possible interpretation of the… world and allow ourselves to consider alternatives. S.</p>
+<p class="prose-p" id="sec-003012-p3">P. O-ing these. Common thought biases and labeling them helps us to do that. This is not something we do just once.</p>
+<p class="prose-p" id="sec-003012-p4">It takes continued e-ought and… practice. Sometimes you may not spot a thought as biased… at other. Times you will be able to spot them and come back at them with a… more helpful alternative. In trying to find alternatives, some people try to look for the correct… answer.</p>
+<p class="prose-p" id="sec-003012-p5">It is not so much the exact wording of the alternative… perspective that is important. What ma urs more is the practice of… stopping before you buy into a thought as fact and actively considering… other views. As a general rule, it helps to look for a perspective that… feels more balanced, fair and compassionate and that takes into… account all the information available. Emotions tend to drive more… extreme and biased views.</p>
+<p class="prose-p" id="sec-003012-p6">But life is O. E. N. more complex and full of… gray areas. It’s okay not to have a clear opinion on something while you… take time to think about D.</p>
+<p class="prose-p" id="sec-003012-p7">I. errant sides of the story. So give yourself… permission to sit on the fence for as long as you need to… build up that… ability to tolerate not knowing. When we do that, we are choosing to… stop living life by the first thoughts that pop into our head. Our choices… become more consciously thought out.</p>
+<p class="prose-p" id="sec-003012-p8">Let’s say I spill the milk all over the floor at breakfast and… immediately start asking myself why I am such a failure in life and why. Nothing ever goes right for me. That’s a nice mix of generalization and… all or nothing thinking right there. If I can spot that bias and call it out, I… can open up this window of opportunity in which I can reduce the… intensity of that emotional response that might otherwise follow.</p>
+<p class="prose-p" id="sec-003012-p9">It is… never fun to spill milk, but our relationship with our thoughts can make. The D. I. errants between a few minutes of frustration and something. That ruins your mood for the entire day.</p>
+<p class="prose-p" id="sec-003012-p10">Like everything in this book, it’s… very easy to say, but much harder to do. It takes practice and it doesn’t… make us invincible. But it helps, and it stops small moments turning into… big ones. Chapter summary Thought bias is inevitable, but we are not helpless to its… e-ects.</p>
+<p class="prose-p" id="sec-003012-p11">We naturally look for evidence that confirms our beliefs. We… then experience what we believe, even when there is… evidence to suggest otherwise. Whatever has caused our low mood, it tends to come along. With a focus on Threat and Loss, Gilbert, 1997.</p>
+<p class="prose-p" id="sec-003012-p12">This bias towards the negative can then feed back to intensify… the low mood if we continue to focus on and believe those… thoughts to be facts. One strategy against the downward spiral this can cause is… understanding that how we feel is not evidence that our… thoughts are true. Another strategy is taking a stance of curiosity. Get some distance from those thoughts by becoming familiar.</p>
+<p class="prose-p" id="sec-003012-p13">With the common biases, noticing when they appear and… labeling them as biases, not facts.
 
 #### Chapter 3 Things That Help Getting some distance. In the 1994 movie The Mask, Jim Carrey plays a banker called Stanley. IPCIS. He finds a wooden mask that was created by Loki, the Norse god… of mischief.</p>
           </div>
@@ -877,17 +1059,17 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">When he puts it on, it wraps itself around the back of his… head and consumes him, influencing his every move. He becomes the… mask. With the mask right in front of his face, he sees the world through. That lends.</p>
-<p class="prose-p">There is no room for any other perspective. When he pulls it… oh his face and holds it in his hand at arm’s length, the mask loses its… power to change how Stanley feels and behaves. It is still there, but just… that little bit of distance allows Stanley to see that it’s just a mask, it’s… not who he is. When we feel low in mood, thoughts can become all-consuming in.</p>
-<p class="prose-p">This way… the brain senses from the body that things are not okay and… starts o’erring up lots of reasons why that may be. Before you know it… a swarm of negative, self-critical thoughts are buzzing around your… head. If we fuse with those thoughts and allow them to consume us… they can send the already low mood spiraling down further. All those self-help books that told the world to just think positive… didn’t account for the fact that you can’t control the thoughts that… arrive in your mind.</p>
-<p class="prose-p">The part you can control is what you do once they… appear. One of the most important skills for learning to deal with thoughts… and their impact on our mood is GE-ing some distance from them. Sounds DI cult when those thoughts are inside your own mind, but… humans have a powerful tool that helps us to put thoughts at arm’s… length and give us the distance we need. It’s called metacognition… which is a fancy name for thoughts about your thoughts.</p>
-<p class="prose-p">We have this ability to think… but we also have the ability to think… about what we are thinking. Metacognition is the process of stepping… back from the thoughts and GE-ing enough distance to allow us to see… those thoughts for what they really are. When you do this, they lose… some of their power over you and how you feel and behave. You get to… choose how you respond to them rather than feeling controlled and… driven by something.</p>
-<p class="prose-p">Metacognition sounds complicated, but it is simply the process of… noticing which thoughts pop into your head and observing how they… make you feel. You can have a go by pausing for a few minutes and… noticing where your mind wanders to… notice how you can choose to… focus in on a thought, like Stanley P. Ewing the mask over his face, or… you can let it pass and wait for the next thought to arrive. The power of any thought is in how much we buy into it… how much.</p>
-<p class="prose-p">We believe it to be true and meaningful. When we observe our own… thought processes in this way, we start to see thoughts for what they… are and what they are not… thoughts are not facts… they are a mix of… opinions, judgments, stories, memories, theories, interpretations, and… predictions about the future. They are ideas o’er’d up by your brain… about ways we could make sense of the world. But the brain has limited… information to go on.</p>
-<p class="prose-p">The brain’s job is also to save you as much time… and energy as possible. This means it takes shortcuts and makes… guesses and predictions all the time. Mindfulness is a great tool for practicing the observation of your… thoughts and strengthening that mental muscle that allows you to… notice a thought and choose not to stick to it, but to let it pass, making… a deliberate choice about where to focus your anti on. Mindfulness, grabbing the spotlight.</p>
-<p class="prose-p">In the previous chapter one listed a few of the common thought biases… that tend to be a feature of low mood. While some self-help books may… tell you to just think positive, the problem with that is we cannot… control the thoughts that arrive. If we try not to have certain thoughts… then we are, by default, already thinking them. It’s also not realistic.</p>
-<p class="prose-p">Lots of people face incredible hardship in their lives. We don’t want to… add to that burden by searing the impossible standard of only… producing positive thoughts in terrible times. That is likely to add some… self-criticism into the mix when they realize they cannot do that and… start to think it is a personal failure. So, while we cannot transcribe every thought that the mind… produces, our power is in how we respond once it arrives.</p>
-<p class="prose-p">When it comes to thoughts, a anti on is power. If you imagine your… a anti on as a spotlight, many people leave that spotlight to move… freely, wherever the wind blows. Your brain will occasionally take… control if there are any signs of danger or threat. But we can also… consciously choose to redirect that spotlight, paying a anti on to… specific aspects of</p>
+            <p class="prose-p" id="sec-003515-p0">When he puts it on, it wraps itself around the back of his… head and consumes him, influencing his every move. He becomes the… mask. With the mask right in front of his face, he sees the world through. That lends.</p>
+<p class="prose-p" id="sec-003515-p1">There is no room for any other perspective. When he pulls it… oh his face and holds it in his hand at arm’s length, the mask loses its… power to change how Stanley feels and behaves. It is still there, but just… that little bit of distance allows Stanley to see that it’s just a mask, it’s… not who he is. When we feel low in mood, thoughts can become all-consuming in.</p>
+<p class="prose-p" id="sec-003515-p2">This way… the brain senses from the body that things are not okay and… starts o’erring up lots of reasons why that may be. Before you know it… a swarm of negative, self-critical thoughts are buzzing around your… head. If we fuse with those thoughts and allow them to consume us… they can send the already low mood spiraling down further. All those self-help books that told the world to just think positive… didn’t account for the fact that you can’t control the thoughts that… arrive in your mind.</p>
+<p class="prose-p" id="sec-003515-p3">The part you can control is what you do once they… appear. One of the most important skills for learning to deal with thoughts… and their impact on our mood is GE-ing some distance from them. Sounds DI cult when those thoughts are inside your own mind, but… humans have a powerful tool that helps us to put thoughts at arm’s… length and give us the distance we need. It’s called metacognition… which is a fancy name for thoughts about your thoughts.</p>
+<p class="prose-p" id="sec-003515-p4">We have this ability to think… but we also have the ability to think… about what we are thinking. Metacognition is the process of stepping… back from the thoughts and GE-ing enough distance to allow us to see… those thoughts for what they really are. When you do this, they lose… some of their power over you and how you feel and behave. You get to… choose how you respond to them rather than feeling controlled and… driven by something.</p>
+<p class="prose-p" id="sec-003515-p5">Metacognition sounds complicated, but it is simply the process of… noticing which thoughts pop into your head and observing how they… make you feel. You can have a go by pausing for a few minutes and… noticing where your mind wanders to… notice how you can choose to… focus in on a thought, like Stanley P. Ewing the mask over his face, or… you can let it pass and wait for the next thought to arrive. The power of any thought is in how much we buy into it… how much.</p>
+<p class="prose-p" id="sec-003515-p6">We believe it to be true and meaningful. When we observe our own… thought processes in this way, we start to see thoughts for what they… are and what they are not… thoughts are not facts… they are a mix of… opinions, judgments, stories, memories, theories, interpretations, and… predictions about the future. They are ideas o’er’d up by your brain… about ways we could make sense of the world. But the brain has limited… information to go on.</p>
+<p class="prose-p" id="sec-003515-p7">The brain’s job is also to save you as much time… and energy as possible. This means it takes shortcuts and makes… guesses and predictions all the time. Mindfulness is a great tool for practicing the observation of your… thoughts and strengthening that mental muscle that allows you to… notice a thought and choose not to stick to it, but to let it pass, making… a deliberate choice about where to focus your anti on. Mindfulness, grabbing the spotlight.</p>
+<p class="prose-p" id="sec-003515-p8">In the previous chapter one listed a few of the common thought biases… that tend to be a feature of low mood. While some self-help books may… tell you to just think positive, the problem with that is we cannot… control the thoughts that arrive. If we try not to have certain thoughts… then we are, by default, already thinking them. It’s also not realistic.</p>
+<p class="prose-p" id="sec-003515-p9">Lots of people face incredible hardship in their lives. We don’t want to… add to that burden by searing the impossible standard of only… producing positive thoughts in terrible times. That is likely to add some… self-criticism into the mix when they realize they cannot do that and… start to think it is a personal failure. So, while we cannot transcribe every thought that the mind… produces, our power is in how we respond once it arrives.</p>
+<p class="prose-p" id="sec-003515-p10">When it comes to thoughts, a anti on is power. If you imagine your… a anti on as a spotlight, many people leave that spotlight to move… freely, wherever the wind blows. Your brain will occasionally take… control if there are any signs of danger or threat. But we can also… consciously choose to redirect that spotlight, paying a anti on to… specific aspects of</p>
           </div>
         </section>
         
@@ -898,19 +1080,19 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">our experience on purpose. This is not the same as blocking thoughts and trying to ignore them. It is being intentional about which thoughts you give the limelight to… which ones you zoom in on and turn up the volume. Many people come to therapy knowing what they don’t want.</p>
-<p class="prose-p">They… know they have some thoughts and feelings that they would like to get… read of. But when we turn towards the future they do want, it can come… as a bit of a shock, for the simple reason that they have never asked… themselves that question before… painful problems can be so… overwhelming and demanding of our anti on that we start to focus… more on that and less on what we want instead. Many of us are out of the habit of asking ourselves what we want.</p>
-<p class="prose-p">We have responsibilities, a boss to answer to, a mortgage to pay. Children to feed. Over time, we come to realize that our well-being is… not where we’d like it to be, but we have no idea what we actually want… or need, because, well, we never think about it. Now I am not about to tell you that you can manifest things in your… life just by focusing on them.</p>
-<p class="prose-p">But we have to look where we are going if… we want to stay on course. Your anti-on is valuable and helps to create your experience of life. So learning to control where you direct it can have a powerful impact… on your life and your mood. But we are busy, and life is full of daily… responsibilities and duties that we have done a thousand times before.</p>
-<p class="prose-p">So our incredible brains like to make things easier for us by switching on… to autopilot and doing most things automatically. That is why practices… such as mindfulness meditation have become so popular… it enables us… to get some formal practice. If you want to learn to drive, you take… lessons. I see mindfulness practice as the driving lesson for managing… the mind.</p>
-<p class="prose-p">It might feel boring, scary, or frustrating at times, but it gives… your brain the chance to lay down that neural pathway, so that when… you need to use those skills later, they come without too much eort. Practicing mindfulness can be really daunting when you first get… started… because you’re not sure what you should be doing, if you are… geeing it right, or how you should feel while you’re doing it. So in the… toolkit at the end of this chapter you will find a few simple steps to… guide you.</p>
-<p class="prose-p">It doesn’t have to be complex. It doesn’t have to be a… profound experience. It’s like laying weights in the gym, but this time… we are working a mental muscle, and as it grows, your ability to choose. Where you focus your eye and tie on increases, and along with it, so does… your ability to manage your mood.</p>
-<p class="prose-p">How to stop the rumination. Rumination is like a thoughts-washing machine. It’s the process of… churning thoughts over and over for minutes, hours, or days at a time. We already know that the depressed brain is more likely to focus on… the thought biases that can make you feel worse.</p>
-<p class="prose-p">If you combine those… thought biases with the psychological equivalent of rumination, then… you have a recipe for more depression and prolonged distress. In fact, we… the more you ruminate, that the… more you stay stuck in maintaining. It works to intensify and prolong any sadness or… depression that may be there. Remember what we said before about neural pathways?</p>
-<p class="prose-p">The more… you do something, the more established that neural activity becomes. This means the more you churn over painful thoughts or memories, the… easier it becomes for you to bring those things to mind. You find… yourself in a trap in which you continuously re-trigger painful emotions… and distress and spiral down into a dark place. So, what can we do to stop the rumination that feeds painful?</p>
-<p class="prose-p">Emotion. When trying to change something in the moment, purely using a… mental concept in our heads to refocus on something new can be… hugely DI cult. I have seen many people use an active approach to… good E E C T. When you notice that you are sliding down the slippery… slope of rumination, try a firm hand pushed out in front and one word.</p>
-<p class="prose-p">Stop, quickly followed by physical movement, such as standing up and… moving away from the position you are in. Change activity for a… moment, or even just walk around… around or step outside for a few minutes. Whatever is possible at the time. Physically moving your body can help.</p>
-<p class="prose-p">To show your mind when it is otherwise very DI cult. Given that rumination invites us to swim around in thoughts of our. Worst traits and worst moments, and given the physiological. Implications of that on how we feel, one of the simplest ways to.</p>
+            <p class="prose-p" id="sec-004020-p0">our experience on purpose. This is not the same as blocking thoughts and trying to ignore them. It is being intentional about which thoughts you give the limelight to… which ones you zoom in on and turn up the volume. Many people come to therapy knowing what they don’t want.</p>
+<p class="prose-p" id="sec-004020-p1">They… know they have some thoughts and feelings that they would like to get… read of. But when we turn towards the future they do want, it can come… as a bit of a shock, for the simple reason that they have never asked… themselves that question before… painful problems can be so… overwhelming and demanding of our anti on that we start to focus… more on that and less on what we want instead. Many of us are out of the habit of asking ourselves what we want.</p>
+<p class="prose-p" id="sec-004020-p2">We have responsibilities, a boss to answer to, a mortgage to pay. Children to feed. Over time, we come to realize that our well-being is… not where we’d like it to be, but we have no idea what we actually want… or need, because, well, we never think about it. Now I am not about to tell you that you can manifest things in your… life just by focusing on them.</p>
+<p class="prose-p" id="sec-004020-p3">But we have to look where we are going if… we want to stay on course. Your anti-on is valuable and helps to create your experience of life. So learning to control where you direct it can have a powerful impact… on your life and your mood. But we are busy, and life is full of daily… responsibilities and duties that we have done a thousand times before.</p>
+<p class="prose-p" id="sec-004020-p4">So our incredible brains like to make things easier for us by switching on… to autopilot and doing most things automatically. That is why practices… such as mindfulness meditation have become so popular… it enables us… to get some formal practice. If you want to learn to drive, you take… lessons. I see mindfulness practice as the driving lesson for managing… the mind.</p>
+<p class="prose-p" id="sec-004020-p5">It might feel boring, scary, or frustrating at times, but it gives… your brain the chance to lay down that neural pathway, so that when… you need to use those skills later, they come without too much eort. Practicing mindfulness can be really daunting when you first get… started… because you’re not sure what you should be doing, if you are… geeing it right, or how you should feel while you’re doing it. So in the… toolkit at the end of this chapter you will find a few simple steps to… guide you.</p>
+<p class="prose-p" id="sec-004020-p6">It doesn’t have to be complex. It doesn’t have to be a… profound experience. It’s like laying weights in the gym, but this time… we are working a mental muscle, and as it grows, your ability to choose. Where you focus your eye and tie on increases, and along with it, so does… your ability to manage your mood.</p>
+<p class="prose-p" id="sec-004020-p7">How to stop the rumination. Rumination is like a thoughts-washing machine. It’s the process of… churning thoughts over and over for minutes, hours, or days at a time. We already know that the depressed brain is more likely to focus on… the thought biases that can make you feel worse.</p>
+<p class="prose-p" id="sec-004020-p8">If you combine those… thought biases with the psychological equivalent of rumination, then… you have a recipe for more depression and prolonged distress. In fact, we… the more you ruminate, that the… more you stay stuck in maintaining. It works to intensify and prolong any sadness or… depression that may be there. Remember what we said before about neural pathways?</p>
+<p class="prose-p" id="sec-004020-p9">The more… you do something, the more established that neural activity becomes. This means the more you churn over painful thoughts or memories, the… easier it becomes for you to bring those things to mind. You find… yourself in a trap in which you continuously re-trigger painful emotions… and distress and spiral down into a dark place. So, what can we do to stop the rumination that feeds painful?</p>
+<p class="prose-p" id="sec-004020-p10">Emotion. When trying to change something in the moment, purely using a… mental concept in our heads to refocus on something new can be… hugely DI cult. I have seen many people use an active approach to… good E E C T. When you notice that you are sliding down the slippery… slope of rumination, try a firm hand pushed out in front and one word.</p>
+<p class="prose-p" id="sec-004020-p11">Stop, quickly followed by physical movement, such as standing up and… moving away from the position you are in. Change activity for a… moment, or even just walk around… around or step outside for a few minutes. Whatever is possible at the time. Physically moving your body can help.</p>
+<p class="prose-p" id="sec-004020-p12">To show your mind when it is otherwise very DI cult. Given that rumination invites us to swim around in thoughts of our. Worst traits and worst moments, and given the physiological. Implications of that on how we feel, one of the simplest ways to.</p>
           </div>
         </section>
         
@@ -921,32 +1103,32 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">Redirect things, when we are not sure of the way out, is a question. What would I do if I was at my best?</p>
-<p class="prose-p">Now, if you are experiencing dark. Times and depression, you cannot expect yourself to be doing whatever. You would be doing at your best. But you can create a mental picture of.</p>
-<p class="prose-p">The direction you want to move in. So, if I am sighing ruminating on a. Painful experience in my life and have lost several hours to that. Churning, I can ask myself that question.</p>
-<p class="prose-p">The answer may be, I would. Stand up. Take a shower and put some music on that lias my mood. Or.</p>
-<p class="prose-p">Perhaps I would pick an activity I enjoy that absorbs mya ention. For anyone who is prone to rumination, time alone opens up the. Gates of the arena for the thoughts and memories and subsequent. Emotional pain to come flooding in and start circling your mind.</p>
-<p class="prose-p">Human. Connection is quite possibly the most powerful tool we have to let. Those thoughts exit are a few rounds. Friends or a therapist will listen.</p>
-<p class="prose-p">Carefully to each one. But they can be great at holding up a mirror to. Our minds by reflecting back to us what they notice. They help to build.</p>
-<p class="prose-p">Our self-awareness and provide prompts or cues to call a stop to the. Rumination and sure to something new and more helpful to our. Well being. Mindfulness.</p>
-<p class="prose-p">Mindfulness is a state of mind that we can try to cultivate at any time. It means paying a ention to the present moment, with awareness of. Thoughts, feelings and bodily sensations that arrive, without judgment. Or distraction.</p>
-<p class="prose-p">It does not rapidly eliminate low mood or change the. Problems you face. But it does hone your awareness of the details of. Your experience so that you are more able to choose carefully how you.</p>
-<p class="prose-p">Respond. It can be DI cult if you are not sure how to do it. Meditation is like a gym workout for the mind. It provides a space to.</p>
-<p class="prose-p">Practice the skills being used. How to do it. If you are new to mindfulness, guided meditations are a good place to. Start.</p>
-<p class="prose-p">There are lots to choose from online, and I have included some. On my YouTube channel. There are lots of DI errant techniques, each. Based on their own traditions, but most of them share the purpose of.</p>
-<p class="prose-p">Aiming to create clarity of mind. So try out a few DI errant styles and. See which one suits you best. Gratitude practice.</p>
-<p class="prose-p">Gratitude practice is another simple way to get used to turning your. Ention. Find a small notebook and, once a day, write down three. Things that you feel grateful for.</p>
-<p class="prose-p">They can be something big like your. Great ones, or it can be a small detail of your day that you appreciate. Such as the taste of your co ee as you sit down to work.</p>
-<p class="prose-p">Now, this. Sounds almost too simple to be E active, but every time you engage in gratitude, your brain is geeing practice at turning its entire on to things that create pleasant emotional states. The more practice you get either easier. It becomes to use that in other situations.</p>
-<p class="prose-p">Toolkit. Making gratitude a habit. Write down three things you feel thankful for. They can be.</p>
-<p class="prose-p">The larger, more profound aspects of your life or the tiniest of. Details from your day. What more errs is not what you choose. To include, but the practice of turning your ention on.</p>
-<p class="prose-p">Purpose. Spend a few minutes reflecting on those things and allowing. Yourself to feel the sensations and emotions that come along. With a focus on gratitude.</p>
-<p class="prose-p">Doing this once is nice. Doing it every day is a life practice. That builds the mental muscle to choose where you focus your ention and allows you to experience the benefits. Chapter summary.</p>
-<p class="prose-p">We cannot control the thoughts that pop into our minds, but. We do have control of our spotlight of a ention. Trying not to think about something tends to make us think. About it more.</p>
-<p class="prose-p">Focusing all thoughts to be present, but choosing which ones. We give our time and our ention to, can have a powerful. Impact on our emotional experience. Turning our ention on is a skill that can be practiced with both.</p>
-<p class="prose-p">Mindfulness and gratitude practice. While there is a time for focusing on a problem, we also need. To focus on the direction we want to move in, and how we. Want to feel or behave.</p>
-<p class="prose-p">Thoughts are not facts. They are suggestions oh aired up to us. By the brain to help us make sense of the world. The power of any thought is in how much we believe it to be.</p>
-<p class="prose-p">The only truth. Taking power out of those thoughts starts with stepping back.</p>
+            <p class="prose-p" id="sec-004524-p0">Redirect things, when we are not sure of the way out, is a question. What would I do if I was at my best?</p>
+<p class="prose-p" id="sec-004524-p1">Now, if you are experiencing dark. Times and depression, you cannot expect yourself to be doing whatever. You would be doing at your best. But you can create a mental picture of.</p>
+<p class="prose-p" id="sec-004524-p2">The direction you want to move in. So, if I am sighing ruminating on a. Painful experience in my life and have lost several hours to that. Churning, I can ask myself that question.</p>
+<p class="prose-p" id="sec-004524-p3">The answer may be, I would. Stand up. Take a shower and put some music on that lias my mood. Or.</p>
+<p class="prose-p" id="sec-004524-p4">Perhaps I would pick an activity I enjoy that absorbs mya ention. For anyone who is prone to rumination, time alone opens up the. Gates of the arena for the thoughts and memories and subsequent. Emotional pain to come flooding in and start circling your mind.</p>
+<p class="prose-p" id="sec-004524-p5">Human. Connection is quite possibly the most powerful tool we have to let. Those thoughts exit are a few rounds. Friends or a therapist will listen.</p>
+<p class="prose-p" id="sec-004524-p6">Carefully to each one. But they can be great at holding up a mirror to. Our minds by reflecting back to us what they notice. They help to build.</p>
+<p class="prose-p" id="sec-004524-p7">Our self-awareness and provide prompts or cues to call a stop to the. Rumination and sure to something new and more helpful to our. Well being. Mindfulness.</p>
+<p class="prose-p" id="sec-004524-p8">Mindfulness is a state of mind that we can try to cultivate at any time. It means paying a ention to the present moment, with awareness of. Thoughts, feelings and bodily sensations that arrive, without judgment. Or distraction.</p>
+<p class="prose-p" id="sec-004524-p9">It does not rapidly eliminate low mood or change the. Problems you face. But it does hone your awareness of the details of. Your experience so that you are more able to choose carefully how you.</p>
+<p class="prose-p" id="sec-004524-p10">Respond. It can be DI cult if you are not sure how to do it. Meditation is like a gym workout for the mind. It provides a space to.</p>
+<p class="prose-p" id="sec-004524-p11">Practice the skills being used. How to do it. If you are new to mindfulness, guided meditations are a good place to. Start.</p>
+<p class="prose-p" id="sec-004524-p12">There are lots to choose from online, and I have included some. On my YouTube channel. There are lots of DI errant techniques, each. Based on their own traditions, but most of them share the purpose of.</p>
+<p class="prose-p" id="sec-004524-p13">Aiming to create clarity of mind. So try out a few DI errant styles and. See which one suits you best. Gratitude practice.</p>
+<p class="prose-p" id="sec-004524-p14">Gratitude practice is another simple way to get used to turning your. Ention. Find a small notebook and, once a day, write down three. Things that you feel grateful for.</p>
+<p class="prose-p" id="sec-004524-p15">They can be something big like your. Great ones, or it can be a small detail of your day that you appreciate. Such as the taste of your co ee as you sit down to work.</p>
+<p class="prose-p" id="sec-004524-p16">Now, this. Sounds almost too simple to be E active, but every time you engage in gratitude, your brain is geeing practice at turning its entire on to things that create pleasant emotional states. The more practice you get either easier. It becomes to use that in other situations.</p>
+<p class="prose-p" id="sec-004524-p17">Toolkit. Making gratitude a habit. Write down three things you feel thankful for. They can be.</p>
+<p class="prose-p" id="sec-004524-p18">The larger, more profound aspects of your life or the tiniest of. Details from your day. What more errs is not what you choose. To include, but the practice of turning your ention on.</p>
+<p class="prose-p" id="sec-004524-p19">Purpose. Spend a few minutes reflecting on those things and allowing. Yourself to feel the sensations and emotions that come along. With a focus on gratitude.</p>
+<p class="prose-p" id="sec-004524-p20">Doing this once is nice. Doing it every day is a life practice. That builds the mental muscle to choose where you focus your ention and allows you to experience the benefits. Chapter summary.</p>
+<p class="prose-p" id="sec-004524-p21">We cannot control the thoughts that pop into our minds, but. We do have control of our spotlight of a ention. Trying not to think about something tends to make us think. About it more.</p>
+<p class="prose-p" id="sec-004524-p22">Focusing all thoughts to be present, but choosing which ones. We give our time and our ention to, can have a powerful. Impact on our emotional experience. Turning our ention on is a skill that can be practiced with both.</p>
+<p class="prose-p" id="sec-004524-p23">Mindfulness and gratitude practice. While there is a time for focusing on a problem, we also need. To focus on the direction we want to move in, and how we. Want to feel or behave.</p>
+<p class="prose-p" id="sec-004524-p24">Thoughts are not facts. They are suggestions oh aired up to us. By the brain to help us make sense of the world. The power of any thought is in how much we believe it to be.</p>
+<p class="prose-p" id="sec-004524-p25">The only truth. Taking power out of those thoughts starts with stepping back.</p>
           </div>
         </section>
         
@@ -957,36 +1139,36 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">GEing some distance, metacognition, and seeing them for. What they are.
+            <p class="prose-p" id="sec-005027-p0">GEing some distance, metacognition, and seeing them for. What they are.
 
 #### Chapter 4. How to turn bad days into. Better days.</p>
-<p class="prose-p">When we feel low in mood it can start to feel DI cult to make decisions. That, on be a days, we make in an instant. Shall I call in sick or shall I. Push through and see how it goes.</p>
-<p class="prose-p">Shall I call my friend or shall I wait. Until I feel more up to it. Shall I try to eat something healthy or shall I. Eat something more comforting.</p>
-<p class="prose-p">The problem with decision making when you feel down is that low. It gives us the urge to do things that we know will keep us stuck. But the things that we know could help feel overwhelming. We start to.</p>
-<p class="prose-p">Focus on what is the best decision to make and berate ourselves for not. Doing it already. This is perfectionism rearing its head. Perfectionism.</p>
-<p class="prose-p">Paralyzes the decision making process because every decision has some. Inherent uncertainty. And every choice includes some negative side E X to be tolerated. When it comes to tackling low mood, we have to focus on making.</p>
-<p class="prose-p">Good decisions, not perfect decisions. A good decision is one that. Moves you in the direction you want to go. It doesn’t have to catapult.</p>
-<p class="prose-p">You there. But something we must do is keep making decisions, however small. In any survival situation, making decisions and moving is essential. With.</p>
-<p class="prose-p">You find yourself in deep water in the dark, with no way of telling which. Direction leads to safety. What you do know is that if you don’t choose. A direction and start moving, you won’t be able to keep your head.</p>
-<p class="prose-p">Above the surface for long. Low mood wants you to do nothing.</p>
-<p class="prose-p">Therefore, doing anything positive, however small, is a healthy step in. The direction you want to go. O E N what makes decisions more DI cult in periods of low mood is. Our tendency to make decisions based on how we feel and how we.</p>
-<p class="prose-p">Want to feel right now. Basing our decisions instead on personal. Meaning and purpose can owe our assure from an emotional focus to. Decisions and actions based on our values.</p>
-<p class="prose-p">When dealing with low. Mood. Focus on your personal values around health. What is important.</p>
-<p class="prose-p">To you about your physical and mental health. How do you want to be. Living your daily life in a way that expresses that. How much are you.</p>
-<p class="prose-p">Living in line with those values at the moment. What is one thing you. Could do today that would steer you in the direction of looking at ur. Your health in the way you want to.</p>
-<p class="prose-p">Consistency. When your mood is low and the small daily tasks feel like too much. Don’t go searing yourself extreme goals that feel out of reach. Pick one.</p>
-<p class="prose-p">Small change that you know you can action every day. Then make a. Promise to yourself that you will make it happen. It may seem silly at.</p>
-<p class="prose-p">First. Because those small changes won’t reward you with instant. Drastic. Results.</p>
-<p class="prose-p">But they are doing something much more important. They are. Laying down the pathways for a new habit that you can integrate into. Your everyday life and build upon over time as it becomes second.</p>
-<p class="prose-p">Nature. So keep it small. Keep it consistent. Slow change is sustainable.</p>
-<p class="prose-p">Change. Don’t kick yourself while you’re down. We can’t talk about tackling low mood without talking about self criticism and self a act. Low mood increases any self criticism or self a act that we already do.</p>
-<p class="prose-p">It’s very easy to tell someone to just stop. Being hard on themselves. But when something has been a habit from a. Young age.</p>
-<p class="prose-p">Just telling yourself to stop is not likely to cut it. We can’t. Stop those thoughts arriving. But we can build our ability to notice.</p>
-<p class="prose-p">Them and respond in a way that gives them less power over how we. Feel and behave. We can use the same skills that we covered for. Catching thought biases and geeing some distance from them.</p>
-<p class="prose-p">This. Texts us to recognize that those thoughts are emotion loaded judgments not facts. Bring to mind someone you love unconditionally. Now imagine they were speaking about themselves the way that you speak to yourself.</p>
-<p class="prose-p">How would you respond to them? What would you want them to have the courage to see in themselves? How would you want them to speak to themselves instead? This task is one way to help us access that deep sense of compassion.</p>
-<p class="prose-p">That we owe en show to others but neglect to show for ourselves. Self compassion does not have to be air a fairy self indulgence. It is. Being the voice that you most need to hear, one that will give you the.</p>
-<p class="prose-p">Strength to pull yourself back up rather than drive you further into the.</p>
+<p class="prose-p" id="sec-005027-p1">When we feel low in mood it can start to feel DI cult to make decisions. That, on be a days, we make in an instant. Shall I call in sick or shall I. Push through and see how it goes.</p>
+<p class="prose-p" id="sec-005027-p2">Shall I call my friend or shall I wait. Until I feel more up to it. Shall I try to eat something healthy or shall I. Eat something more comforting.</p>
+<p class="prose-p" id="sec-005027-p3">The problem with decision making when you feel down is that low. It gives us the urge to do things that we know will keep us stuck. But the things that we know could help feel overwhelming. We start to.</p>
+<p class="prose-p" id="sec-005027-p4">Focus on what is the best decision to make and berate ourselves for not. Doing it already. This is perfectionism rearing its head. Perfectionism.</p>
+<p class="prose-p" id="sec-005027-p5">Paralyzes the decision making process because every decision has some. Inherent uncertainty. And every choice includes some negative side E X to be tolerated. When it comes to tackling low mood, we have to focus on making.</p>
+<p class="prose-p" id="sec-005027-p6">Good decisions, not perfect decisions. A good decision is one that. Moves you in the direction you want to go. It doesn’t have to catapult.</p>
+<p class="prose-p" id="sec-005027-p7">You there. But something we must do is keep making decisions, however small. In any survival situation, making decisions and moving is essential. With.</p>
+<p class="prose-p" id="sec-005027-p8">You find yourself in deep water in the dark, with no way of telling which. Direction leads to safety. What you do know is that if you don’t choose. A direction and start moving, you won’t be able to keep your head.</p>
+<p class="prose-p" id="sec-005027-p9">Above the surface for long. Low mood wants you to do nothing.</p>
+<p class="prose-p" id="sec-005027-p10">Therefore, doing anything positive, however small, is a healthy step in. The direction you want to go. O E N what makes decisions more DI cult in periods of low mood is. Our tendency to make decisions based on how we feel and how we.</p>
+<p class="prose-p" id="sec-005027-p11">Want to feel right now. Basing our decisions instead on personal. Meaning and purpose can owe our assure from an emotional focus to. Decisions and actions based on our values.</p>
+<p class="prose-p" id="sec-005027-p12">When dealing with low. Mood. Focus on your personal values around health. What is important.</p>
+<p class="prose-p" id="sec-005027-p13">To you about your physical and mental health. How do you want to be. Living your daily life in a way that expresses that. How much are you.</p>
+<p class="prose-p" id="sec-005027-p14">Living in line with those values at the moment. What is one thing you. Could do today that would steer you in the direction of looking at ur. Your health in the way you want to.</p>
+<p class="prose-p" id="sec-005027-p15">Consistency. When your mood is low and the small daily tasks feel like too much. Don’t go searing yourself extreme goals that feel out of reach. Pick one.</p>
+<p class="prose-p" id="sec-005027-p16">Small change that you know you can action every day. Then make a. Promise to yourself that you will make it happen. It may seem silly at.</p>
+<p class="prose-p" id="sec-005027-p17">First. Because those small changes won’t reward you with instant. Drastic. Results.</p>
+<p class="prose-p" id="sec-005027-p18">But they are doing something much more important. They are. Laying down the pathways for a new habit that you can integrate into. Your everyday life and build upon over time as it becomes second.</p>
+<p class="prose-p" id="sec-005027-p19">Nature. So keep it small. Keep it consistent. Slow change is sustainable.</p>
+<p class="prose-p" id="sec-005027-p20">Change. Don’t kick yourself while you’re down. We can’t talk about tackling low mood without talking about self criticism and self a act. Low mood increases any self criticism or self a act that we already do.</p>
+<p class="prose-p" id="sec-005027-p21">It’s very easy to tell someone to just stop. Being hard on themselves. But when something has been a habit from a. Young age.</p>
+<p class="prose-p" id="sec-005027-p22">Just telling yourself to stop is not likely to cut it. We can’t. Stop those thoughts arriving. But we can build our ability to notice.</p>
+<p class="prose-p" id="sec-005027-p23">Them and respond in a way that gives them less power over how we. Feel and behave. We can use the same skills that we covered for. Catching thought biases and geeing some distance from them.</p>
+<p class="prose-p" id="sec-005027-p24">This. Texts us to recognize that those thoughts are emotion loaded judgments not facts. Bring to mind someone you love unconditionally. Now imagine they were speaking about themselves the way that you speak to yourself.</p>
+<p class="prose-p" id="sec-005027-p25">How would you respond to them? What would you want them to have the courage to see in themselves? How would you want them to speak to themselves instead? This task is one way to help us access that deep sense of compassion.</p>
+<p class="prose-p" id="sec-005027-p26">That we owe en show to others but neglect to show for ourselves. Self compassion does not have to be air a fairy self indulgence. It is. Being the voice that you most need to hear, one that will give you the.</p>
+<p class="prose-p" id="sec-005027-p27">Strength to pull yourself back up rather than drive you further into the.</p>
           </div>
         </section>
         
@@ -997,10 +1179,10 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">Ground. It is a voice of honesty, encouragement, support and kindness. It is the nurturing voice that dusts you oh and looks you directly in the. High telling you to go back out there and have another go it is the parent the coach the personal cheerleader there is a good reason that elite athletes have someone in their corner between rounds sets and heats they understand the potent impact of the words that fill your head whether you are in a boxing ring a tennis court a meeting at work or an exam hall the same rule applies.</p>
-<p class="prose-p">So talking to ourselves in the same way we would support and encourage someone we love is a powerful component in managing mood how do you want to feel instead when we are trying to tackle low mood the tendency is to focus on everything we don’t want to think and feel there is value in doing that but if we want to move away from what we don’t want it helps to know where we do want to go instead figure five example formulation for low mood toolkit figuring out what you can do to change how you feel start by filling in the hot cross bun formulation for the low mood scenario found at the back of the book see page three hundred and forty seven I’ve put an example here figure five once you have broken down the thoughts and behaviors that are contributing to your low mood fill in the blank formulation for your beer days see page three hundred and forty eight this time start with the emotions box and fill it with the emotions you would like to feel more of in your everyday life instead of the low mood I have put an example below figure six knowing that your physical state the focus of your thoughts and your behavior all contribute to that feeling use the following prompts to help you fill in the rest of that formulation when you have felt that way in the past what has been the focus of your and tie on what might your thoughts self-talk need to sound like in order for you to feel that way when you have felt that way before how did you behave what did you do more of or less of if you were to feel that way how would you need to be treating your body when you are feeling at your best what do your thoughts sound like what do you tend to be focused on what does that in a voice sound like then figure six example formulation for beer days how do you want to feel behave think see if it reveals anything that has worked for you in the past or oh insights into things that you could pay and tie on to or change about your daily life use it to spend time examining what works try this solution focused miracle question take a moment to imagine that when you close this book a miracle happens and the problems you have been struggling with all disappear what would be the first signs that the problem has gone what would you do di errantly what would you say yes to what would you say no to what would you focus your energy and a end tie on on what would you do more or less of how would you interact with people di errantly how would you structure your life di errantly how would you speak to yourself di errantly what would you be free to let go of take some time to explore your answers to these questions down to the finest detail of those small changes that you would make to your everyday life this is a great exercise for creating a vision of where you are heading it also helps you to explore the idea of how life might be improved by starting to make some of those changes now even with the problems still present what we do and how we do it feeds back to our body and brain about how to feel so sharing direction towards what ma is most and the person we want to be alongside our problems can bring about big share s in mood this technique sure s our focus from the problem to the solution and we can start to fix our gaze on the horizon that we are heading towards chapter summary focus on making good decisions not perfect ones good Enough steers you towards real change.</p>
-<p class="prose-p">Perfectionism causes decision-making paralysis, whereas improving your mood demands that you make decisions and take action. Keep changes small and sustainable. When someone is down, we show them kindness because we know it is what they need. So, if you are commie-ed to managing your mood and overall mental health, commit to practicing self-compassion.</p>
-<p class="prose-p">Once you understand the problem, use it to help you work.</p>
+            <p class="prose-p" id="sec-005531-p0">Ground. It is a voice of honesty, encouragement, support and kindness. It is the nurturing voice that dusts you oh and looks you directly in the. High telling you to go back out there and have another go it is the parent the coach the personal cheerleader there is a good reason that elite athletes have someone in their corner between rounds sets and heats they understand the potent impact of the words that fill your head whether you are in a boxing ring a tennis court a meeting at work or an exam hall the same rule applies.</p>
+<p class="prose-p" id="sec-005531-p1">So talking to ourselves in the same way we would support and encourage someone we love is a powerful component in managing mood how do you want to feel instead when we are trying to tackle low mood the tendency is to focus on everything we don’t want to think and feel there is value in doing that but if we want to move away from what we don’t want it helps to know where we do want to go instead figure five example formulation for low mood toolkit figuring out what you can do to change how you feel start by filling in the hot cross bun formulation for the low mood scenario found at the back of the book see page three hundred and forty seven I’ve put an example here figure five once you have broken down the thoughts and behaviors that are contributing to your low mood fill in the blank formulation for your beer days see page three hundred and forty eight this time start with the emotions box and fill it with the emotions you would like to feel more of in your everyday life instead of the low mood I have put an example below figure six knowing that your physical state the focus of your thoughts and your behavior all contribute to that feeling use the following prompts to help you fill in the rest of that formulation when you have felt that way in the past what has been the focus of your and tie on what might your thoughts self-talk need to sound like in order for you to feel that way when you have felt that way before how did you behave what did you do more of or less of if you were to feel that way how would you need to be treating your body when you are feeling at your best what do your thoughts sound like what do you tend to be focused on what does that in a voice sound like then figure six example formulation for beer days how do you want to feel behave think see if it reveals anything that has worked for you in the past or oh insights into things that you could pay and tie on to or change about your daily life use it to spend time examining what works try this solution focused miracle question take a moment to imagine that when you close this book a miracle happens and the problems you have been struggling with all disappear what would be the first signs that the problem has gone what would you do di errantly what would you say yes to what would you say no to what would you focus your energy and a end tie on on what would you do more or less of how would you interact with people di errantly how would you structure your life di errantly how would you speak to yourself di errantly what would you be free to let go of take some time to explore your answers to these questions down to the finest detail of those small changes that you would make to your everyday life this is a great exercise for creating a vision of where you are heading it also helps you to explore the idea of how life might be improved by starting to make some of those changes now even with the problems still present what we do and how we do it feeds back to our body and brain about how to feel so sharing direction towards what ma is most and the person we want to be alongside our problems can bring about big share s in mood this technique sure s our focus from the problem to the solution and we can start to fix our gaze on the horizon that we are heading towards chapter summary focus on making good decisions not perfect ones good Enough steers you towards real change.</p>
+<p class="prose-p" id="sec-005531-p2">Perfectionism causes decision-making paralysis, whereas improving your mood demands that you make decisions and take action. Keep changes small and sustainable. When someone is down, we show them kindness because we know it is what they need. So, if you are commie-ed to managing your mood and overall mental health, commit to practicing self-compassion.</p>
+<p class="prose-p" id="sec-005531-p3">Once you understand the problem, use it to help you work.</p>
           </div>
         </section>
         
@@ -1011,7 +1193,7 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">Out where you want to go and focus on the horizon ahead of you.</p>
+            <p class="prose-p" id="sec-010031-p0">Out where you want to go and focus on the horizon ahead of you.</p>
           </div>
         </section>
         
@@ -1022,6 +1204,7 @@
 
   <!-- Floating Tools -->
   <div class="floating-tools">
+    <button class="float-btn" id="float-hl-btn" title="劃線筆記">🖍️</button>
     <button class="float-btn" id="scroll-top-btn" title="回到頂部">▲</button>
   </div>
 
@@ -1105,6 +1288,8 @@
       localStorage.setItem('reader-font-size', size);
     }
     applyFontSize(currentFontSize);
+    applyAllHighlightsToDOM();
+    renderHighlightsDrawer();
 
     document.getElementById('font-dec-btn').addEventListener('click', () => applyFontSize(currentFontSize - 1));
     document.getElementById('font-inc-btn').addEventListener('click', () => applyFontSize(currentFontSize + 1));
@@ -1203,6 +1388,210 @@
     let searchMatches = [];
     let currentMatchIdx = -1;
 
+    // ==========================================
+    // USER HIGHLIGHT SYSTEM (LOCALSTORAGE PERSISTED)
+    // ==========================================
+    const bookKey = 'hl_' + location.pathname.split('/').pop().replace('.html', '');
+    let userHighlights = [];
+    try {
+      userHighlights = JSON.parse(localStorage.getItem(bookKey) || '[]');
+    } catch(e) { userHighlights = []; }
+
+    const hlBadge = document.getElementById('hl-count-badge');
+    const hlDrawer = document.getElementById('hl-drawer');
+    const hlDrawerList = document.getElementById('hl-drawer-list');
+    const hlToggleBtn = document.getElementById('hl-toggle-btn');
+    const floatHlBtn = document.getElementById('float-hl-btn');
+    const hlDrawerClose = document.getElementById('hl-drawer-close');
+    const hlClearAll = document.getElementById('hl-clear-all');
+    const selPopup = document.getElementById('selection-popup');
+
+    function updateHlBadge() {
+      if (hlBadge) hlBadge.textContent = userHighlights.length;
+    }
+    updateHlBadge();
+
+    function saveHighlights() {
+      try {
+        localStorage.setItem(bookKey, JSON.stringify(userHighlights));
+      } catch(e) {}
+      updateHlBadge();
+      renderHighlightsDrawer();
+    }
+
+    function renderHighlightsDrawer() {
+      if (!hlDrawerList) return;
+      if (userHighlights.length === 0) {
+        hlDrawerList.innerHTML = '<div style="text-align: center; color: var(--text-muted); padding: 30px 10px; font-size: 13px;">選取文章中任意句子即可浮現螢光筆，劃線保存喜愛的金句！</div>';
+        return;
+      }
+      hlDrawerList.innerHTML = '';
+      userHighlights.forEach((item, idx) => {
+        const card = document.createElement('div');
+        card.className = `hl-card color-${item.color || 'yellow'}`;
+        card.innerHTML = `
+          <div class="hl-card-time">
+            <span>⏱️ ${item.time || '章節記錄'}</span>
+            <button class="hl-card-del" title="刪除此劃線" data-idx="${idx}">✕</button>
+          </div>
+          <div style="color: var(--text-primary);">${item.text}</div>
+        `;
+        card.addEventListener('click', (e) => {
+          if (e.target.classList.contains('hl-card-del')) return;
+          // Jump to paragraph
+          const targetP = document.getElementById(item.pId);
+          if (targetP) {
+            targetP.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            targetP.style.transition = 'outline 0.3s';
+            targetP.style.outline = '3px solid var(--accent-color)';
+            setTimeout(() => { targetP.style.outline = 'none'; }, 1500);
+          }
+        });
+        const delBtn = card.querySelector('.hl-card-del');
+        delBtn.addEventListener('click', (e) => {
+          e.stopPropagation();
+          deleteHighlight(idx);
+        });
+        hlDrawerList.appendChild(card);
+      });
+    }
+
+    function deleteHighlight(idx) {
+      const removed = userHighlights.splice(idx, 1)[0];
+      saveHighlights();
+      // Re-apply highlights on DOM
+      applyAllHighlightsToDOM();
+    }
+
+    if (hlClearAll) {
+      hlClearAll.addEventListener('click', () => {
+        if (confirm('確定要清空本書的所有劃線標記嗎？')) {
+          userHighlights = [];
+          saveHighlights();
+          applyAllHighlightsToDOM();
+        }
+      });
+    }
+
+    function applyAllHighlightsToDOM() {
+      // First restore clean text
+      rawParagraphs.forEach(item => {
+        item.el.innerHTML = item.rawHtml;
+      });
+      // Apply each highlight
+      userHighlights.forEach((hl, hlIdx) => {
+        const pEl = document.getElementById(hl.pId);
+        if (!pEl) return;
+        const text = hl.text;
+        if (!text) return;
+        const currentHtml = pEl.innerHTML;
+        // Search escaped text
+        const regex = new RegExp(`(${escapeRegex(text)})`, 'g');
+        if (regex.test(currentHtml)) {
+          pEl.innerHTML = currentHtml.replace(regex, `<mark class="user-hl color-${hl.color || 'yellow'}" data-hl-idx="${hlIdx}">$1</mark>`);
+        }
+      });
+      // Rebind click to delete or show mark
+      document.querySelectorAll('mark.user-hl').forEach(m => {
+        m.addEventListener('click', (e) => {
+          e.stopPropagation();
+          const idx = parseInt(m.getAttribute('data-hl-idx'), 10);
+          if (!isNaN(idx) && confirm(`要刪除這段劃線標記嗎？
+"${userHighlights[idx]?.text.slice(0, 40)}..."`)) {
+            deleteHighlight(idx);
+          }
+        });
+      });
+    }
+
+    // Text selection detection
+    let currentSelectionRange = null;
+    let selectedText = '';
+    let selectedPId = '';
+    let selectedSecTime = '';
+
+    function handleSelectionChange() {
+      const sel = window.getSelection();
+      if (!sel || sel.isCollapsed || !sel.rangeCount) {
+        selPopup.classList.remove('active');
+        return;
+      }
+      const text = sel.toString().trim();
+      if (text.length < 2) {
+        selPopup.classList.remove('active');
+        return;
+      }
+
+      // Check if selection is within section-body p
+      const range = sel.getRangeAt(0);
+      const containerP = range.commonAncestorContainer.nodeType === 1 
+        ? range.commonAncestorContainer.closest('.section-body p')
+        : range.commonAncestorContainer.parentElement.closest('.section-body p');
+
+      if (!containerP) {
+        selPopup.classList.remove('active');
+        return;
+      }
+
+      currentSelectionRange = range;
+      selectedText = text;
+      selectedPId = containerP.id;
+      const sec = containerP.closest('.transcript-section');
+      selectedSecTime = sec ? (sec.querySelector('.section-time')?.textContent || '') : '';
+
+      const rect = range.getBoundingClientRect();
+      const popupX = rect.left + rect.width / 2;
+      const popupY = rect.top + window.scrollY - 10;
+
+      selPopup.style.left = `${popupX}px`;
+      selPopup.style.top = `${popupY}px`;
+      selPopup.classList.add('active');
+    }
+
+    document.addEventListener('mouseup', () => {
+      setTimeout(handleSelectionChange, 50);
+    });
+    document.addEventListener('touchend', () => {
+      setTimeout(handleSelectionChange, 150);
+    });
+
+    document.querySelectorAll('.color-dot-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        const color = btn.getAttribute('data-color') || 'yellow';
+        if (selectedText && selectedPId) {
+          userHighlights.push({
+            pId: selectedPId,
+            time: selectedSecTime,
+            text: selectedText,
+            color: color,
+            createdAt: Date.now()
+          });
+          saveHighlights();
+          applyAllHighlightsToDOM();
+          selPopup.classList.remove('active');
+          window.getSelection()?.removeAllRanges();
+        }
+      });
+    });
+
+    // Close popup on outside click
+    document.addEventListener('mousedown', (e) => {
+      if (!selPopup.contains(e.target)) {
+        selPopup.classList.remove('active');
+      }
+    });
+
+    // Drawer toggle
+    function toggleHlDrawer() {
+      searchDrawer.classList.remove('active');
+      const isOpen = hlDrawer.classList.toggle('active');
+      if (isOpen) renderHighlightsDrawer();
+    }
+    if (hlToggleBtn) hlToggleBtn.addEventListener('click', toggleHlDrawer);
+    if (floatHlBtn) floatHlBtn.addEventListener('click', toggleHlDrawer);
+    if (hlDrawerClose) hlDrawerClose.addEventListener('click', () => hlDrawer.classList.remove('active'));
+
     // Cache original innerHTML for clean resets
     const rawParagraphs = Array.from(document.querySelectorAll('.section-body p')).map(p => ({
       el: p,
@@ -1232,6 +1621,9 @@
       rawParagraphs.forEach(item => {
         item.el.innerHTML = item.rawHtml;
       });
+      if (typeof applyAllHighlightsToDOM === 'function') {
+        applyAllHighlightsToDOM();
+      }
     }
 
     function escapeRegex(str) {

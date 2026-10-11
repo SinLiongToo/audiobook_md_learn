@@ -263,6 +263,160 @@
       overflow: hidden;
     }
 
+    /* User Highlight system */
+    mark.user-hl {
+      background-color: #fef08a;
+      color: inherit;
+      padding: 2px 3px;
+      border-radius: 3px;
+      border-bottom: 2px solid #eab308;
+      cursor: pointer;
+      position: relative;
+    }
+    mark.user-hl.color-green {
+      background-color: #bbf7d0;
+      border-bottom-color: #22c55e;
+    }
+    mark.user-hl.color-blue {
+      background-color: #bfdbfe;
+      border-bottom-color: #3b82f6;
+    }
+    mark.user-hl.color-pink {
+      background-color: #fbcfe8;
+      border-bottom-color: #ec4899;
+    }
+    [data-theme="dark"] mark.user-hl {
+      background-color: rgba(234, 179, 8, 0.35);
+      border-bottom-color: #facc15;
+    }
+    [data-theme="dark"] mark.user-hl.color-green {
+      background-color: rgba(34, 197, 94, 0.35);
+      border-bottom-color: #4ade80;
+    }
+    [data-theme="dark"] mark.user-hl.color-blue {
+      background-color: rgba(59, 130, 246, 0.35);
+      border-bottom-color: #60a5fa;
+    }
+    [data-theme="dark"] mark.user-hl.color-pink {
+      background-color: rgba(236, 72, 153, 0.35);
+      border-bottom-color: #f472b6;
+    }
+
+    /* Floating Selection Popup Menu */
+    .selection-popup {
+      position: absolute;
+      display: none;
+      z-index: 950;
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      box-shadow: 0 10px 25px rgba(0,0,0,0.22);
+      border-radius: 30px;
+      padding: 5px 8px;
+      align-items: center;
+      gap: 6px;
+      animation: popIn 0.15s ease-out;
+      transform: translate(-50%, -100%);
+      margin-top: -8px;
+    }
+    @keyframes popIn {
+      from { opacity: 0; transform: translate(-50%, -90%) scale(0.95); }
+      to { opacity: 1; transform: translate(-50%, -100%) scale(1); }
+    }
+    .selection-popup.active { display: flex; }
+    .color-dot-btn {
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      border: 2px solid #ffffff;
+      cursor: pointer;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+      transition: transform 0.15s;
+    }
+    .color-dot-btn:hover { transform: scale(1.18); }
+    .color-dot-yellow { background-color: #facc15; }
+    .color-dot-green { background-color: #4ade80; }
+    .color-dot-blue { background-color: #60a5fa; }
+    .color-dot-pink { background-color: #f472b6; }
+
+    /* Highlights Drawer */
+    .hl-drawer {
+      position: fixed;
+      right: 20px;
+      top: 120px;
+      width: 380px;
+      max-height: calc(100vh - 160px);
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+      z-index: 896;
+      display: none;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .hl-drawer.active { display: flex; }
+    .hl-drawer-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-weight: 700;
+      font-size: 14px;
+    }
+    .hl-drawer-list {
+      overflow-y: auto;
+      padding: 10px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    .hl-card {
+      padding: 10px 12px;
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+      background: var(--bg-primary);
+      cursor: pointer;
+      font-size: 13.5px;
+      line-height: 1.5;
+      position: relative;
+      transition: all 0.15s;
+      border-left: 4px solid #facc15;
+    }
+    .hl-card.color-green { border-left-color: #22c55e; }
+    .hl-card.color-blue { border-left-color: #3b82f6; }
+    .hl-card.color-pink { border-left-color: #ec4899; }
+    .hl-card:hover {
+      border-color: var(--accent-color);
+      background: var(--accent-light);
+    }
+    .hl-card-time {
+      font-size: 11.5px;
+      font-weight: 700;
+      color: var(--accent-color);
+      margin-bottom: 4px;
+      font-family: monospace;
+      display: flex;
+      justify-content: space-between;
+    }
+    .hl-card-del {
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 13px;
+      padding: 0 4px;
+    }
+    .hl-card-del:hover { color: #ef4444; }
+
+    @media (max-width: 992px) {
+      .hl-drawer {
+        left: 20px;
+        right: 20px;
+        width: auto;
+      }
+    }
+
     /* Highlight mark */
     mark.search-highlight {
       background-color: #fef08a;
@@ -555,6 +709,10 @@
       <button class="btn-icon" id="search-toggle-btn" title="搜尋本書內文 (Ctrl+F)">
         🔍 <span>搜尋內文</span>
       </button>
+      <!-- User Highlights Button -->
+      <button class="btn-icon" id="hl-toggle-btn" title="查看劃線筆記">
+        🖍️ <span>劃線筆記</span> (<span id="hl-count-badge">0</span>)
+      </button>
       <!-- Global Search Link -->
       <a href="index.html?tab=search" class="btn-icon" title="前往全書庫全文檢索">
         🌐 <span>全庫搜尋</span>
@@ -611,6 +769,30 @@
     <div class="inpage-search-drawer-list" id="inpage-search-drawer-list"></div>
   </div>
 
+  <!-- User Selection Floating Popup -->
+  <div class="selection-popup" id="selection-popup">
+    <button class="color-dot-btn color-dot-yellow" data-color="yellow" title="黃色劃線"></button>
+    <button class="color-dot-btn color-dot-green" data-color="green" title="綠色劃線"></button>
+    <button class="color-dot-btn color-dot-blue" data-color="blue" title="藍色劃線"></button>
+    <button class="color-dot-btn color-dot-pink" data-color="pink" title="粉色劃線"></button>
+  </div>
+
+  <!-- User Highlights Drawer -->
+  <div class="hl-drawer" id="hl-drawer">
+    <div class="hl-drawer-header">
+      <span>🖍️ 我的劃線金句筆記</span>
+      <div style="display: flex; gap: 6px; align-items: center;">
+        <button class="btn-icon" id="hl-clear-all" style="padding: 2px 7px; font-size: 11.5px;" title="清空劃線">清空全部</button>
+        <button class="btn-icon" id="hl-drawer-close" style="padding: 2px 6px;">✕</button>
+      </div>
+    </div>
+    <div class="hl-drawer-list" id="hl-drawer-list">
+      <div style="text-align: center; color: var(--text-muted); padding: 30px 10px; font-size: 13px;">
+        選取內文文字即可劃線螢光標記，並保存於此處
+      </div>
+    </div>
+  </div>
+
   <div class="backdrop" id="backdrop"></div>
 
   <div class="layout">
@@ -649,16 +831,16 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">There’s a single definition of success, look at yourself in a mirror in the evening and wonder if you disappoint the person you were at 18, right before people get corrupted by life. Let him or her be the only judge, not your reputation, not your wealth, not your standing in a community, not the decorations on your lapel. If you do not feel ashamed, then you are successful. All other definitions of success are modern constructions, fragile modern constructions.</p>
-<p class="prose-p">The ancient Greeks&#x27; definition of success was to have had a heroic death, but as we live in a less martial society, we can adapt our definition of success as having taken a heroic route for the benefits of the collective, as narrowly or broadly defined as you want, so long as it’s someone else. For example, secret societies have the rule of Uomo Donori. You’re as good as what you do to other members. So virtue is inseparable from courage, so you have to take some risks, personal, financial, whatever, for the sake of others.</p>
-<p class="prose-p">That’s success. That’s honor. It can be helping the local municipality, for example, I’m given a hint here, or the more micro, the less abstract the better. So success requires absence of fragility.</p>
-<p class="prose-p">I’ve seen billionaires terrified of journalists, wealthy people who felt crushed because their brother-in-law got very rich, academics with Nobel who were scared of comments on a web. The higher you go, the worse the fall. For almost all people I’ve met, external, not internal, success came with an increase in fragility and a heightened state of insecurity. The worst are those former something types with four-page CV, who after leaving office and addicted to the attention of servile bureaucrats, find themselves discarded.</p>
-<p class="prose-p">It’s as if you went home one evening to discover that someone suddenly un-emptied your house of all this furniture. Self-respect, on the other hand, is robust. That’s the approach of the Stoic school. So I’ve seen robust people in my village immune who were proud of being, you know, local citizens, you know, liked by the community.</p>
-<p class="prose-p">They wake up happy and go to bed happy. Or Russian mathematicians who during the difficult post-Soviet period were proud of making $200 a month and did work that was appreciated by 20 people and considered that showing was decorations or accepting awards, that was a sign of weakness and a lack of confidence in one’s own contribution. And believe it or not, some wealthy people are robust, but you just don’t hear about them because they’re not socialized. They live next door and they drink, do not read newspapers.</p>
-<p class="prose-p">Do not follow the news in any way or form. To be convinced, go to the library and try to read last year’s newspaper, okay, and that will convince you. Second thing, if something is nonsense, you say it and you say it out loud. You’ll be harmed a little bit, but it’ll be anti-fagile.</p>
-<p class="prose-p">In the long run, people who need to trust you will trust you. When I was still an obscure author, I walked out of the studio, Bloomberg Radio, because the interviewers, they were saying nonsense. So I just walked out. People told me, you’ll never have any coverage by Bloomberg ever again.</p>
-<p class="prose-p">I said, okay, two years later, they had a cover story on me, okay. So if you see nonsense, say it and say it loud. Treat the doorman with a lot of respect, okay, more than if you were the boss. The boss can go down, not the doorman.</p>
-<p class="prose-p">If something is boring, avoid it, except, of course, taxes and visits to your mother-in-law, okay, other than these, avoid everything boring. Now what was the idea of Hammurabi’s Code? It was not eye for eye. Eye for eye, limiting damages,</p>
+            <p class="prose-p" id="sec-000000-p0">There’s a single definition of success, look at yourself in a mirror in the evening and wonder if you disappoint the person you were at 18, right before people get corrupted by life. Let him or her be the only judge, not your reputation, not your wealth, not your standing in a community, not the decorations on your lapel. If you do not feel ashamed, then you are successful. All other definitions of success are modern constructions, fragile modern constructions.</p>
+<p class="prose-p" id="sec-000000-p1">The ancient Greeks&#x27; definition of success was to have had a heroic death, but as we live in a less martial society, we can adapt our definition of success as having taken a heroic route for the benefits of the collective, as narrowly or broadly defined as you want, so long as it’s someone else. For example, secret societies have the rule of Uomo Donori. You’re as good as what you do to other members. So virtue is inseparable from courage, so you have to take some risks, personal, financial, whatever, for the sake of others.</p>
+<p class="prose-p" id="sec-000000-p2">That’s success. That’s honor. It can be helping the local municipality, for example, I’m given a hint here, or the more micro, the less abstract the better. So success requires absence of fragility.</p>
+<p class="prose-p" id="sec-000000-p3">I’ve seen billionaires terrified of journalists, wealthy people who felt crushed because their brother-in-law got very rich, academics with Nobel who were scared of comments on a web. The higher you go, the worse the fall. For almost all people I’ve met, external, not internal, success came with an increase in fragility and a heightened state of insecurity. The worst are those former something types with four-page CV, who after leaving office and addicted to the attention of servile bureaucrats, find themselves discarded.</p>
+<p class="prose-p" id="sec-000000-p4">It’s as if you went home one evening to discover that someone suddenly un-emptied your house of all this furniture. Self-respect, on the other hand, is robust. That’s the approach of the Stoic school. So I’ve seen robust people in my village immune who were proud of being, you know, local citizens, you know, liked by the community.</p>
+<p class="prose-p" id="sec-000000-p5">They wake up happy and go to bed happy. Or Russian mathematicians who during the difficult post-Soviet period were proud of making $200 a month and did work that was appreciated by 20 people and considered that showing was decorations or accepting awards, that was a sign of weakness and a lack of confidence in one’s own contribution. And believe it or not, some wealthy people are robust, but you just don’t hear about them because they’re not socialized. They live next door and they drink, do not read newspapers.</p>
+<p class="prose-p" id="sec-000000-p6">Do not follow the news in any way or form. To be convinced, go to the library and try to read last year’s newspaper, okay, and that will convince you. Second thing, if something is nonsense, you say it and you say it out loud. You’ll be harmed a little bit, but it’ll be anti-fagile.</p>
+<p class="prose-p" id="sec-000000-p7">In the long run, people who need to trust you will trust you. When I was still an obscure author, I walked out of the studio, Bloomberg Radio, because the interviewers, they were saying nonsense. So I just walked out. People told me, you’ll never have any coverage by Bloomberg ever again.</p>
+<p class="prose-p" id="sec-000000-p8">I said, okay, two years later, they had a cover story on me, okay. So if you see nonsense, say it and say it loud. Treat the doorman with a lot of respect, okay, more than if you were the boss. The boss can go down, not the doorman.</p>
+<p class="prose-p" id="sec-000000-p9">If something is boring, avoid it, except, of course, taxes and visits to your mother-in-law, okay, other than these, avoid everything boring. Now what was the idea of Hammurabi’s Code? It was not eye for eye. Eye for eye, limiting damages,</p>
           </div>
         </section>
         
@@ -669,24 +851,24 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">you know, and making things balanced. No. It was that you cannot walk away from risks you’ve created for others. You should own your risks. That’s the idea of Hammurabi’s Code. You cannot have civilized society unless those who create risks aren’t also aware of that risk.</p>
-<p class="prose-p">But let’s first look at it from a moral standpoint, okay. You’ve heard the golden rule, do unto others what you want them to do to you, which I, in fact, I find a little intrusive because say I like raw lebanese meat, lebanese kimbi. I’m not going to force you to eat it, all right. So there’s actually, and say I’m a bureaucrat and like this kind of stuff, I don’t enforce you.</p>
-<p class="prose-p">There is a much more robust silver rule. Don’t do to others what you don’t want them to do to you. And effectively, you can have civilization without the silver rule. People ask me, what should I be doing?</p>
-<p class="prose-p">Okay. I’m 20 and, you know, I’m going to go somewhere. Start a business. Take risks now.</p>
-<p class="prose-p">Because everybody wants to work for a GMO to improve the world. As you end up like the UN offices, manufacturing problems. So you hire more staff who fly a business class and have an apartment in Geneva, that kind of stuff. Start a business because we’re tired of people who want to work for NGOs, okay. Start a business, create jobs for others, okay.</p>
-<p class="prose-p">And do not rent seek. Do not be in rent seeking. Have some skin in the game. Just like, you know, your grandparents probably, one of your grandfathers was at age 18, disembarking in Normandy.</p>
-<p class="prose-p">They took a lot of risk these kids, 18-year-old. Okay. Take some risks. Start a business.</p>
-<p class="prose-p">Thanks. Because of you, I started doing deadlifting. Yes. So skin in the game.</p>
-<p class="prose-p">Let me tell you something about deadlifting. I was, no, I was, I had this motto, skin in the game, that you should never tell people what they should be doing. You should tell them what you’re doing, okay. And I had the back injury when I was writing anti-fragile, about seven years ago.</p>
-<p class="prose-p">And I cured it by deadlifting. So, and then I started discovering the value of intense heavy weight on humans, like the bones, stuff like that. And the reason I talk about my own deadlifting is only to say that I have skin in the game. I’m telling you, I had the injuries of a deadlifter.</p>
-<p class="prose-p">I’m telling you, so I bear the risk of my advice. I always liked Nassim Taleb’s framing on this, where he said, with my family, I’m a communist. With my close friends, I’m a socialist. You know, at my state level politics, I’m a Democrat.</p>
-<p class="prose-p">At, you know, higher levels, I’m a Republican. And at the federal level, I’m a libertarian, right? So basically, the larger the group of people you have massed together, who have different interests, the less trust there is, the more cheating there is, the better the incentives have to be aligned, the better the system has to work, the more you go towards capitalism. The smaller the group you’re in, you’re in a kibbutz, you’re in your commune, you’re in your house, you’re in your tribe, by all means, be a socialist, with my aunts, with my brother, with my cousins, with my uncles, with my mom, with my family, I’m a socialist.</p>
-<p class="prose-p">That’s the right way to live a loving, happy, integrated life. But when you’re dealing with strangers, I mean, you want to be a real socialist? Great. Open all your doors and windows tomorrow.</p>
-<p class="prose-p">Please, everybody, come take what you want. See how that works out. And there are a lot of rules in my book. So I am going to end up with no-no’s, the things to avoid completely.</p>
-<p class="prose-p">Muscles without strength. Friendship without trust. Opinion without risk. Change without aesthetics.</p>
-<p class="prose-p">Age without values. Food without nourishment. Power without fairness. Facts without rigor.</p>
-<p class="prose-p">Degrees without a tradition. Militarism without fortitude. Progress without civilization. Complication without depth.</p>
-<p class="prose-p">Fluency without content. And most of all, religion without tolerance. Thank you.</p>
+            <p class="prose-p" id="sec-000504-p0">you know, and making things balanced. No. It was that you cannot walk away from risks you’ve created for others. You should own your risks. That’s the idea of Hammurabi’s Code. You cannot have civilized society unless those who create risks aren’t also aware of that risk.</p>
+<p class="prose-p" id="sec-000504-p1">But let’s first look at it from a moral standpoint, okay. You’ve heard the golden rule, do unto others what you want them to do to you, which I, in fact, I find a little intrusive because say I like raw lebanese meat, lebanese kimbi. I’m not going to force you to eat it, all right. So there’s actually, and say I’m a bureaucrat and like this kind of stuff, I don’t enforce you.</p>
+<p class="prose-p" id="sec-000504-p2">There is a much more robust silver rule. Don’t do to others what you don’t want them to do to you. And effectively, you can have civilization without the silver rule. People ask me, what should I be doing?</p>
+<p class="prose-p" id="sec-000504-p3">Okay. I’m 20 and, you know, I’m going to go somewhere. Start a business. Take risks now.</p>
+<p class="prose-p" id="sec-000504-p4">Because everybody wants to work for a GMO to improve the world. As you end up like the UN offices, manufacturing problems. So you hire more staff who fly a business class and have an apartment in Geneva, that kind of stuff. Start a business because we’re tired of people who want to work for NGOs, okay. Start a business, create jobs for others, okay.</p>
+<p class="prose-p" id="sec-000504-p5">And do not rent seek. Do not be in rent seeking. Have some skin in the game. Just like, you know, your grandparents probably, one of your grandfathers was at age 18, disembarking in Normandy.</p>
+<p class="prose-p" id="sec-000504-p6">They took a lot of risk these kids, 18-year-old. Okay. Take some risks. Start a business.</p>
+<p class="prose-p" id="sec-000504-p7">Thanks. Because of you, I started doing deadlifting. Yes. So skin in the game.</p>
+<p class="prose-p" id="sec-000504-p8">Let me tell you something about deadlifting. I was, no, I was, I had this motto, skin in the game, that you should never tell people what they should be doing. You should tell them what you’re doing, okay. And I had the back injury when I was writing anti-fragile, about seven years ago.</p>
+<p class="prose-p" id="sec-000504-p9">And I cured it by deadlifting. So, and then I started discovering the value of intense heavy weight on humans, like the bones, stuff like that. And the reason I talk about my own deadlifting is only to say that I have skin in the game. I’m telling you, I had the injuries of a deadlifter.</p>
+<p class="prose-p" id="sec-000504-p10">I’m telling you, so I bear the risk of my advice. I always liked Nassim Taleb’s framing on this, where he said, with my family, I’m a communist. With my close friends, I’m a socialist. You know, at my state level politics, I’m a Democrat.</p>
+<p class="prose-p" id="sec-000504-p11">At, you know, higher levels, I’m a Republican. And at the federal level, I’m a libertarian, right? So basically, the larger the group of people you have massed together, who have different interests, the less trust there is, the more cheating there is, the better the incentives have to be aligned, the better the system has to work, the more you go towards capitalism. The smaller the group you’re in, you’re in a kibbutz, you’re in your commune, you’re in your house, you’re in your tribe, by all means, be a socialist, with my aunts, with my brother, with my cousins, with my uncles, with my mom, with my family, I’m a socialist.</p>
+<p class="prose-p" id="sec-000504-p12">That’s the right way to live a loving, happy, integrated life. But when you’re dealing with strangers, I mean, you want to be a real socialist? Great. Open all your doors and windows tomorrow.</p>
+<p class="prose-p" id="sec-000504-p13">Please, everybody, come take what you want. See how that works out. And there are a lot of rules in my book. So I am going to end up with no-no’s, the things to avoid completely.</p>
+<p class="prose-p" id="sec-000504-p14">Muscles without strength. Friendship without trust. Opinion without risk. Change without aesthetics.</p>
+<p class="prose-p" id="sec-000504-p15">Age without values. Food without nourishment. Power without fairness. Facts without rigor.</p>
+<p class="prose-p" id="sec-000504-p16">Degrees without a tradition. Militarism without fortitude. Progress without civilization. Complication without depth.</p>
+<p class="prose-p" id="sec-000504-p17">Fluency without content. And most of all, religion without tolerance. Thank you.</p>
           </div>
         </section>
         
@@ -697,6 +879,7 @@
 
   <!-- Floating Tools -->
   <div class="floating-tools">
+    <button class="float-btn" id="float-hl-btn" title="劃線筆記">🖍️</button>
     <button class="float-btn" id="scroll-top-btn" title="回到頂部">▲</button>
   </div>
 
@@ -780,6 +963,8 @@
       localStorage.setItem('reader-font-size', size);
     }
     applyFontSize(currentFontSize);
+    applyAllHighlightsToDOM();
+    renderHighlightsDrawer();
 
     document.getElementById('font-dec-btn').addEventListener('click', () => applyFontSize(currentFontSize - 1));
     document.getElementById('font-inc-btn').addEventListener('click', () => applyFontSize(currentFontSize + 1));
@@ -878,6 +1063,210 @@
     let searchMatches = [];
     let currentMatchIdx = -1;
 
+    // ==========================================
+    // USER HIGHLIGHT SYSTEM (LOCALSTORAGE PERSISTED)
+    // ==========================================
+    const bookKey = 'hl_' + location.pathname.split('/').pop().replace('.html', '');
+    let userHighlights = [];
+    try {
+      userHighlights = JSON.parse(localStorage.getItem(bookKey) || '[]');
+    } catch(e) { userHighlights = []; }
+
+    const hlBadge = document.getElementById('hl-count-badge');
+    const hlDrawer = document.getElementById('hl-drawer');
+    const hlDrawerList = document.getElementById('hl-drawer-list');
+    const hlToggleBtn = document.getElementById('hl-toggle-btn');
+    const floatHlBtn = document.getElementById('float-hl-btn');
+    const hlDrawerClose = document.getElementById('hl-drawer-close');
+    const hlClearAll = document.getElementById('hl-clear-all');
+    const selPopup = document.getElementById('selection-popup');
+
+    function updateHlBadge() {
+      if (hlBadge) hlBadge.textContent = userHighlights.length;
+    }
+    updateHlBadge();
+
+    function saveHighlights() {
+      try {
+        localStorage.setItem(bookKey, JSON.stringify(userHighlights));
+      } catch(e) {}
+      updateHlBadge();
+      renderHighlightsDrawer();
+    }
+
+    function renderHighlightsDrawer() {
+      if (!hlDrawerList) return;
+      if (userHighlights.length === 0) {
+        hlDrawerList.innerHTML = '<div style="text-align: center; color: var(--text-muted); padding: 30px 10px; font-size: 13px;">選取文章中任意句子即可浮現螢光筆，劃線保存喜愛的金句！</div>';
+        return;
+      }
+      hlDrawerList.innerHTML = '';
+      userHighlights.forEach((item, idx) => {
+        const card = document.createElement('div');
+        card.className = `hl-card color-${item.color || 'yellow'}`;
+        card.innerHTML = `
+          <div class="hl-card-time">
+            <span>⏱️ ${item.time || '章節記錄'}</span>
+            <button class="hl-card-del" title="刪除此劃線" data-idx="${idx}">✕</button>
+          </div>
+          <div style="color: var(--text-primary);">${item.text}</div>
+        `;
+        card.addEventListener('click', (e) => {
+          if (e.target.classList.contains('hl-card-del')) return;
+          // Jump to paragraph
+          const targetP = document.getElementById(item.pId);
+          if (targetP) {
+            targetP.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            targetP.style.transition = 'outline 0.3s';
+            targetP.style.outline = '3px solid var(--accent-color)';
+            setTimeout(() => { targetP.style.outline = 'none'; }, 1500);
+          }
+        });
+        const delBtn = card.querySelector('.hl-card-del');
+        delBtn.addEventListener('click', (e) => {
+          e.stopPropagation();
+          deleteHighlight(idx);
+        });
+        hlDrawerList.appendChild(card);
+      });
+    }
+
+    function deleteHighlight(idx) {
+      const removed = userHighlights.splice(idx, 1)[0];
+      saveHighlights();
+      // Re-apply highlights on DOM
+      applyAllHighlightsToDOM();
+    }
+
+    if (hlClearAll) {
+      hlClearAll.addEventListener('click', () => {
+        if (confirm('確定要清空本書的所有劃線標記嗎？')) {
+          userHighlights = [];
+          saveHighlights();
+          applyAllHighlightsToDOM();
+        }
+      });
+    }
+
+    function applyAllHighlightsToDOM() {
+      // First restore clean text
+      rawParagraphs.forEach(item => {
+        item.el.innerHTML = item.rawHtml;
+      });
+      // Apply each highlight
+      userHighlights.forEach((hl, hlIdx) => {
+        const pEl = document.getElementById(hl.pId);
+        if (!pEl) return;
+        const text = hl.text;
+        if (!text) return;
+        const currentHtml = pEl.innerHTML;
+        // Search escaped text
+        const regex = new RegExp(`(${escapeRegex(text)})`, 'g');
+        if (regex.test(currentHtml)) {
+          pEl.innerHTML = currentHtml.replace(regex, `<mark class="user-hl color-${hl.color || 'yellow'}" data-hl-idx="${hlIdx}">$1</mark>`);
+        }
+      });
+      // Rebind click to delete or show mark
+      document.querySelectorAll('mark.user-hl').forEach(m => {
+        m.addEventListener('click', (e) => {
+          e.stopPropagation();
+          const idx = parseInt(m.getAttribute('data-hl-idx'), 10);
+          if (!isNaN(idx) && confirm(`要刪除這段劃線標記嗎？
+"${userHighlights[idx]?.text.slice(0, 40)}..."`)) {
+            deleteHighlight(idx);
+          }
+        });
+      });
+    }
+
+    // Text selection detection
+    let currentSelectionRange = null;
+    let selectedText = '';
+    let selectedPId = '';
+    let selectedSecTime = '';
+
+    function handleSelectionChange() {
+      const sel = window.getSelection();
+      if (!sel || sel.isCollapsed || !sel.rangeCount) {
+        selPopup.classList.remove('active');
+        return;
+      }
+      const text = sel.toString().trim();
+      if (text.length < 2) {
+        selPopup.classList.remove('active');
+        return;
+      }
+
+      // Check if selection is within section-body p
+      const range = sel.getRangeAt(0);
+      const containerP = range.commonAncestorContainer.nodeType === 1 
+        ? range.commonAncestorContainer.closest('.section-body p')
+        : range.commonAncestorContainer.parentElement.closest('.section-body p');
+
+      if (!containerP) {
+        selPopup.classList.remove('active');
+        return;
+      }
+
+      currentSelectionRange = range;
+      selectedText = text;
+      selectedPId = containerP.id;
+      const sec = containerP.closest('.transcript-section');
+      selectedSecTime = sec ? (sec.querySelector('.section-time')?.textContent || '') : '';
+
+      const rect = range.getBoundingClientRect();
+      const popupX = rect.left + rect.width / 2;
+      const popupY = rect.top + window.scrollY - 10;
+
+      selPopup.style.left = `${popupX}px`;
+      selPopup.style.top = `${popupY}px`;
+      selPopup.classList.add('active');
+    }
+
+    document.addEventListener('mouseup', () => {
+      setTimeout(handleSelectionChange, 50);
+    });
+    document.addEventListener('touchend', () => {
+      setTimeout(handleSelectionChange, 150);
+    });
+
+    document.querySelectorAll('.color-dot-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        const color = btn.getAttribute('data-color') || 'yellow';
+        if (selectedText && selectedPId) {
+          userHighlights.push({
+            pId: selectedPId,
+            time: selectedSecTime,
+            text: selectedText,
+            color: color,
+            createdAt: Date.now()
+          });
+          saveHighlights();
+          applyAllHighlightsToDOM();
+          selPopup.classList.remove('active');
+          window.getSelection()?.removeAllRanges();
+        }
+      });
+    });
+
+    // Close popup on outside click
+    document.addEventListener('mousedown', (e) => {
+      if (!selPopup.contains(e.target)) {
+        selPopup.classList.remove('active');
+      }
+    });
+
+    // Drawer toggle
+    function toggleHlDrawer() {
+      searchDrawer.classList.remove('active');
+      const isOpen = hlDrawer.classList.toggle('active');
+      if (isOpen) renderHighlightsDrawer();
+    }
+    if (hlToggleBtn) hlToggleBtn.addEventListener('click', toggleHlDrawer);
+    if (floatHlBtn) floatHlBtn.addEventListener('click', toggleHlDrawer);
+    if (hlDrawerClose) hlDrawerClose.addEventListener('click', () => hlDrawer.classList.remove('active'));
+
     // Cache original innerHTML for clean resets
     const rawParagraphs = Array.from(document.querySelectorAll('.section-body p')).map(p => ({
       el: p,
@@ -907,6 +1296,9 @@
       rawParagraphs.forEach(item => {
         item.el.innerHTML = item.rawHtml;
       });
+      if (typeof applyAllHighlightsToDOM === 'function') {
+        applyAllHighlightsToDOM();
+      }
     }
 
     function escapeRegex(str) {

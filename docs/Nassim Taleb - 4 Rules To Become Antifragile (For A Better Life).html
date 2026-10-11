@@ -263,6 +263,160 @@
       overflow: hidden;
     }
 
+    /* User Highlight system */
+    mark.user-hl {
+      background-color: #fef08a;
+      color: inherit;
+      padding: 2px 3px;
+      border-radius: 3px;
+      border-bottom: 2px solid #eab308;
+      cursor: pointer;
+      position: relative;
+    }
+    mark.user-hl.color-green {
+      background-color: #bbf7d0;
+      border-bottom-color: #22c55e;
+    }
+    mark.user-hl.color-blue {
+      background-color: #bfdbfe;
+      border-bottom-color: #3b82f6;
+    }
+    mark.user-hl.color-pink {
+      background-color: #fbcfe8;
+      border-bottom-color: #ec4899;
+    }
+    [data-theme="dark"] mark.user-hl {
+      background-color: rgba(234, 179, 8, 0.35);
+      border-bottom-color: #facc15;
+    }
+    [data-theme="dark"] mark.user-hl.color-green {
+      background-color: rgba(34, 197, 94, 0.35);
+      border-bottom-color: #4ade80;
+    }
+    [data-theme="dark"] mark.user-hl.color-blue {
+      background-color: rgba(59, 130, 246, 0.35);
+      border-bottom-color: #60a5fa;
+    }
+    [data-theme="dark"] mark.user-hl.color-pink {
+      background-color: rgba(236, 72, 153, 0.35);
+      border-bottom-color: #f472b6;
+    }
+
+    /* Floating Selection Popup Menu */
+    .selection-popup {
+      position: absolute;
+      display: none;
+      z-index: 950;
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      box-shadow: 0 10px 25px rgba(0,0,0,0.22);
+      border-radius: 30px;
+      padding: 5px 8px;
+      align-items: center;
+      gap: 6px;
+      animation: popIn 0.15s ease-out;
+      transform: translate(-50%, -100%);
+      margin-top: -8px;
+    }
+    @keyframes popIn {
+      from { opacity: 0; transform: translate(-50%, -90%) scale(0.95); }
+      to { opacity: 1; transform: translate(-50%, -100%) scale(1); }
+    }
+    .selection-popup.active { display: flex; }
+    .color-dot-btn {
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      border: 2px solid #ffffff;
+      cursor: pointer;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+      transition: transform 0.15s;
+    }
+    .color-dot-btn:hover { transform: scale(1.18); }
+    .color-dot-yellow { background-color: #facc15; }
+    .color-dot-green { background-color: #4ade80; }
+    .color-dot-blue { background-color: #60a5fa; }
+    .color-dot-pink { background-color: #f472b6; }
+
+    /* Highlights Drawer */
+    .hl-drawer {
+      position: fixed;
+      right: 20px;
+      top: 120px;
+      width: 380px;
+      max-height: calc(100vh - 160px);
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+      z-index: 896;
+      display: none;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .hl-drawer.active { display: flex; }
+    .hl-drawer-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-weight: 700;
+      font-size: 14px;
+    }
+    .hl-drawer-list {
+      overflow-y: auto;
+      padding: 10px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    .hl-card {
+      padding: 10px 12px;
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+      background: var(--bg-primary);
+      cursor: pointer;
+      font-size: 13.5px;
+      line-height: 1.5;
+      position: relative;
+      transition: all 0.15s;
+      border-left: 4px solid #facc15;
+    }
+    .hl-card.color-green { border-left-color: #22c55e; }
+    .hl-card.color-blue { border-left-color: #3b82f6; }
+    .hl-card.color-pink { border-left-color: #ec4899; }
+    .hl-card:hover {
+      border-color: var(--accent-color);
+      background: var(--accent-light);
+    }
+    .hl-card-time {
+      font-size: 11.5px;
+      font-weight: 700;
+      color: var(--accent-color);
+      margin-bottom: 4px;
+      font-family: monospace;
+      display: flex;
+      justify-content: space-between;
+    }
+    .hl-card-del {
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 13px;
+      padding: 0 4px;
+    }
+    .hl-card-del:hover { color: #ef4444; }
+
+    @media (max-width: 992px) {
+      .hl-drawer {
+        left: 20px;
+        right: 20px;
+        width: auto;
+      }
+    }
+
     /* Highlight mark */
     mark.search-highlight {
       background-color: #fef08a;
@@ -555,6 +709,10 @@
       <button class="btn-icon" id="search-toggle-btn" title="搜尋本書內文 (Ctrl+F)">
         🔍 <span>搜尋內文</span>
       </button>
+      <!-- User Highlights Button -->
+      <button class="btn-icon" id="hl-toggle-btn" title="查看劃線筆記">
+        🖍️ <span>劃線筆記</span> (<span id="hl-count-badge">0</span>)
+      </button>
       <!-- Global Search Link -->
       <a href="index.html?tab=search" class="btn-icon" title="前往全書庫全文檢索">
         🌐 <span>全庫搜尋</span>
@@ -611,6 +769,30 @@
     <div class="inpage-search-drawer-list" id="inpage-search-drawer-list"></div>
   </div>
 
+  <!-- User Selection Floating Popup -->
+  <div class="selection-popup" id="selection-popup">
+    <button class="color-dot-btn color-dot-yellow" data-color="yellow" title="黃色劃線"></button>
+    <button class="color-dot-btn color-dot-green" data-color="green" title="綠色劃線"></button>
+    <button class="color-dot-btn color-dot-blue" data-color="blue" title="藍色劃線"></button>
+    <button class="color-dot-btn color-dot-pink" data-color="pink" title="粉色劃線"></button>
+  </div>
+
+  <!-- User Highlights Drawer -->
+  <div class="hl-drawer" id="hl-drawer">
+    <div class="hl-drawer-header">
+      <span>🖍️ 我的劃線金句筆記</span>
+      <div style="display: flex; gap: 6px; align-items: center;">
+        <button class="btn-icon" id="hl-clear-all" style="padding: 2px 7px; font-size: 11.5px;" title="清空劃線">清空全部</button>
+        <button class="btn-icon" id="hl-drawer-close" style="padding: 2px 6px;">✕</button>
+      </div>
+    </div>
+    <div class="hl-drawer-list" id="hl-drawer-list">
+      <div style="text-align: center; color: var(--text-muted); padding: 30px 10px; font-size: 13px;">
+        選取內文文字即可劃線螢光標記，並保存於此處
+      </div>
+    </div>
+  </div>
+
   <div class="backdrop" id="backdrop"></div>
 
   <div class="layout">
@@ -650,27 +832,27 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">bad events make people grow. I mean, up to a point, of course, bad events can be, you know, something that kills you, it doesn’t make you grow. But so there’s something called post-traumatic growth and psychologists don’t talk about it. All they talk about is disorder and the idea that nobody doesn’t make any money selling you, you know, post-traumatic growth.</p>
-<p class="prose-p">They give you, because they don’t have to treat you. Nature is treating you. Okay, well, psychologists make money, giving you advice on your post-traumatic disorders. So they like to put disorders.</p>
-<p class="prose-p">And then, of course, the antifragile, a lot of people upregulate on the stressors. That’s a post-traumatic growth.</p>
-<p class="prose-p">In other words, if you need stressors, you must get your stressors. So you know there’s going to be wind. There’s an expression in the states, when life gives you a lemon, you make lemonade. The idea is that you know there’s going to be a lot of wind.</p>
-<p class="prose-p">So either you go in the basement and start crying as for government money, all right, or there’s going to be a lot of wind and you say, oh, I’m going to make some money out of it. Big wood bills. So that’s the main one. And if you look at the history of civilization and countries, you see a parameter, a little bit of stressor has caused a lot of people to do very well.</p>
-<p class="prose-p">I think the most successful country in history, Singapore, they have no resources. So when you don’t have resources, you tend to upregulate. The Phoenicians had no resources. So it forced them to become merchants.</p>
-<p class="prose-p">And one thing leads to another. So it gets you out of the nostalgic states. And you look at Saudi Arabia, they have all the resources, and look what they’ve done with them compared to Singapore. In an early chapter of the book, you have a very long table with three columns, fragile, robust, and antifragile.</p>
-<p class="prose-p">And you can pick any of the rows in that table and elaborate on it. For example, tourists and flaner, one of your favorite words. And there is something quite deep in that discussion. Okay.</p>
-<p class="prose-p">I was an option trader. Option, you like optionality. You see, you like uncertainty. You benefit from uncertainty.</p>
-<p class="prose-p">You like some disorder. When you’re a tourist, you’re on the track. If the bus is late, you’re in trouble. If you’re an adventurer, you benefit.</p>
-<p class="prose-p">You’re opportunistically taking advantage of uncertainty. So therefore, you’re in that category of antifragile. And if you’re robust, you don’t care. So the idea of entrepreneurs are in the category of antifragile.</p>
-<p class="prose-p">And the people who have a very rationalistic thing put on track, you’re following a certain code, you are fragile. Because if something breaks, you’re in trouble. Nothing good can happen. Things can go wrong, but they can’t get better.</p>
-<p class="prose-p">So the fragile has more downside than upside. Uncertainty harms them. Take a plane ride. If you inject uncertainty into your plane ride, I just came from Europe.</p>
-<p class="prose-p">It was eight hours. Ended up to be 16. So I was eight hours late. Did anyone have you ever land in JFK coming from Europe eight hours early? No. That’s so a category of object.</p>
-<p class="prose-p">You inject uncertainty, the travel time extends. The opposite would be a system in which you inject uncertainty. You have benefits. And that’s the antifragile, entrepreneurship.</p>
-<p class="prose-p">If you’re an adventurer, you like uncertainty. And people, you know, couldn’t get it. I have a way to explain it. Someone tells me what’s the difference, was resilient.</p>
-<p class="prose-p">I says there’s a big difference. If I buy insurance on my house in 10 times the amount needed, you know, I want an accident to happen. You see, it’s not as I want. Every day, I want to wake up.</p>
-<p class="prose-p">I say there’s no cow, no earthquake, nothing. If at 10 times I get paid 10 times, the damages. So that’s like inverse insurance. So insurance companies, of course, are short volatility, are harmed by disorder.</p>
-<p class="prose-p">They are fragile. And someone who has 10 times insurance would benefit from uncertainty. I think that education, it’s not very good because in higher doses, because it’s sort of it selects for those who don’t know how to handle uncertainty. Right.</p>
-<p class="prose-p">And this is why people, great scientists like Darwin, Einstein, Groton-Dic, all the big, big, big, big scientists are people who were not into the traditional, you know, education system simply because it kills creativity and all that stuff. So when I was about 14, I decided to become a writer. So I realized that if you stick to school, it narrows what you’re going to know. All right.</p>
-<p class="prose-p">And to be a writer,</p>
+            <p class="prose-p" id="sec-000000-p0">bad events make people grow. I mean, up to a point, of course, bad events can be, you know, something that kills you, it doesn’t make you grow. But so there’s something called post-traumatic growth and psychologists don’t talk about it. All they talk about is disorder and the idea that nobody doesn’t make any money selling you, you know, post-traumatic growth.</p>
+<p class="prose-p" id="sec-000000-p1">They give you, because they don’t have to treat you. Nature is treating you. Okay, well, psychologists make money, giving you advice on your post-traumatic disorders. So they like to put disorders.</p>
+<p class="prose-p" id="sec-000000-p2">And then, of course, the antifragile, a lot of people upregulate on the stressors. That’s a post-traumatic growth.</p>
+<p class="prose-p" id="sec-000000-p3">In other words, if you need stressors, you must get your stressors. So you know there’s going to be wind. There’s an expression in the states, when life gives you a lemon, you make lemonade. The idea is that you know there’s going to be a lot of wind.</p>
+<p class="prose-p" id="sec-000000-p4">So either you go in the basement and start crying as for government money, all right, or there’s going to be a lot of wind and you say, oh, I’m going to make some money out of it. Big wood bills. So that’s the main one. And if you look at the history of civilization and countries, you see a parameter, a little bit of stressor has caused a lot of people to do very well.</p>
+<p class="prose-p" id="sec-000000-p5">I think the most successful country in history, Singapore, they have no resources. So when you don’t have resources, you tend to upregulate. The Phoenicians had no resources. So it forced them to become merchants.</p>
+<p class="prose-p" id="sec-000000-p6">And one thing leads to another. So it gets you out of the nostalgic states. And you look at Saudi Arabia, they have all the resources, and look what they’ve done with them compared to Singapore. In an early chapter of the book, you have a very long table with three columns, fragile, robust, and antifragile.</p>
+<p class="prose-p" id="sec-000000-p7">And you can pick any of the rows in that table and elaborate on it. For example, tourists and flaner, one of your favorite words. And there is something quite deep in that discussion. Okay.</p>
+<p class="prose-p" id="sec-000000-p8">I was an option trader. Option, you like optionality. You see, you like uncertainty. You benefit from uncertainty.</p>
+<p class="prose-p" id="sec-000000-p9">You like some disorder. When you’re a tourist, you’re on the track. If the bus is late, you’re in trouble. If you’re an adventurer, you benefit.</p>
+<p class="prose-p" id="sec-000000-p10">You’re opportunistically taking advantage of uncertainty. So therefore, you’re in that category of antifragile. And if you’re robust, you don’t care. So the idea of entrepreneurs are in the category of antifragile.</p>
+<p class="prose-p" id="sec-000000-p11">And the people who have a very rationalistic thing put on track, you’re following a certain code, you are fragile. Because if something breaks, you’re in trouble. Nothing good can happen. Things can go wrong, but they can’t get better.</p>
+<p class="prose-p" id="sec-000000-p12">So the fragile has more downside than upside. Uncertainty harms them. Take a plane ride. If you inject uncertainty into your plane ride, I just came from Europe.</p>
+<p class="prose-p" id="sec-000000-p13">It was eight hours. Ended up to be 16. So I was eight hours late. Did anyone have you ever land in JFK coming from Europe eight hours early? No. That’s so a category of object.</p>
+<p class="prose-p" id="sec-000000-p14">You inject uncertainty, the travel time extends. The opposite would be a system in which you inject uncertainty. You have benefits. And that’s the antifragile, entrepreneurship.</p>
+<p class="prose-p" id="sec-000000-p15">If you’re an adventurer, you like uncertainty. And people, you know, couldn’t get it. I have a way to explain it. Someone tells me what’s the difference, was resilient.</p>
+<p class="prose-p" id="sec-000000-p16">I says there’s a big difference. If I buy insurance on my house in 10 times the amount needed, you know, I want an accident to happen. You see, it’s not as I want. Every day, I want to wake up.</p>
+<p class="prose-p" id="sec-000000-p17">I say there’s no cow, no earthquake, nothing. If at 10 times I get paid 10 times, the damages. So that’s like inverse insurance. So insurance companies, of course, are short volatility, are harmed by disorder.</p>
+<p class="prose-p" id="sec-000000-p18">They are fragile. And someone who has 10 times insurance would benefit from uncertainty. I think that education, it’s not very good because in higher doses, because it’s sort of it selects for those who don’t know how to handle uncertainty. Right.</p>
+<p class="prose-p" id="sec-000000-p19">And this is why people, great scientists like Darwin, Einstein, Groton-Dic, all the big, big, big, big scientists are people who were not into the traditional, you know, education system simply because it kills creativity and all that stuff. So when I was about 14, I decided to become a writer. So I realized that if you stick to school, it narrows what you’re going to know. All right.</p>
+<p class="prose-p" id="sec-000000-p20">And to be a writer,</p>
           </div>
         </section>
         
@@ -681,16 +863,16 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">you have to read a lot of books. So I started reading wholesale. And it saved me the bad part of education where you have, you know, to read a certain number of books. And so the narrow education, the broader one, I think that’s what saved me from this, you know, race.</p>
-<p class="prose-p">So and then so I had an anti and then developed, you know, very quickly an anti education. I think the only way you can learn things if you’re autodidact and it allows you not just to have a breadth of things, you know, but to focus on things that are really important to you, not to some second rate person who teaches high school. Right. And I hated my high school teachers.</p>
-<p class="prose-p">You can understand it was quite rebellious. So that’s the most. So so it was a so I think that that helped me a lot reading a lot of books.</p>
-<p class="prose-p">The great American author Mark Twain once said, “I never let school get in the way of my education.” Yeah, writers usually don’t like formal education. So but obviously in a in an engineered world in a world that’s so technically complicated, you’ve got to have, you know, to deal with it, you have to you have to have some educational. It’s good to have a minimal education, but not to focus on school, because anything people are going to teach you at school is useless already, or has been used.</p>
-<p class="prose-p">This is one thing you learn as a trader, anything you’re going to read the newspaper, say the first 15 pages of the newspaper is absolutely no relevance to anything. It’s already priced in. So so that’s the way, you know, it’s the same way to view education. So if you compare apprenticeship, which is more tinkering, trial and error, more doing things, apprenticeship is something very prevalent in Switzerland and Germany.</p>
-<p class="prose-p">And I don’t know about Nordic countries. That’s vastly more important than education. They think that historic was to the attachment from the world. Yeah, exactly.</p>
-<p class="prose-p">So in other words, become a vegetable. And that’s the impression that for a long time, for about 2000 years, he has a story. But when I read the type of people that he wanted to keep the upside and not be hurt, Seneca was the wealthiest man in the world. Okay.</p>
-<p class="prose-p">And people found inconsistency. He was not against wealth, you see, and he proved, you know, that effectively one that can be a philosopher. What he was, he wanted the upside and then the mental exercise and wakes up rich. Yeah.</p>
-<p class="prose-p">So he was he was it was he kept the upside. In fact, what they had is my, my thoughts are the people who really had like Buddhist those an attitude, wanted to have the last word was faked. And my definition is I said, they’re the story saves someone who transforms fear into prudence, mistakes and desire someone who wanted the upside without downside. And Seneca approved it.</p>
-<p class="prose-p">And the way you get there is Seneca suggesting is through mental exertions. We’re not through</p>
+            <p class="prose-p" id="sec-000500-p0">you have to read a lot of books. So I started reading wholesale. And it saved me the bad part of education where you have, you know, to read a certain number of books. And so the narrow education, the broader one, I think that’s what saved me from this, you know, race.</p>
+<p class="prose-p" id="sec-000500-p1">So and then so I had an anti and then developed, you know, very quickly an anti education. I think the only way you can learn things if you’re autodidact and it allows you not just to have a breadth of things, you know, but to focus on things that are really important to you, not to some second rate person who teaches high school. Right. And I hated my high school teachers.</p>
+<p class="prose-p" id="sec-000500-p2">You can understand it was quite rebellious. So that’s the most. So so it was a so I think that that helped me a lot reading a lot of books.</p>
+<p class="prose-p" id="sec-000500-p3">The great American author Mark Twain once said, “I never let school get in the way of my education.” Yeah, writers usually don’t like formal education. So but obviously in a in an engineered world in a world that’s so technically complicated, you’ve got to have, you know, to deal with it, you have to you have to have some educational. It’s good to have a minimal education, but not to focus on school, because anything people are going to teach you at school is useless already, or has been used.</p>
+<p class="prose-p" id="sec-000500-p4">This is one thing you learn as a trader, anything you’re going to read the newspaper, say the first 15 pages of the newspaper is absolutely no relevance to anything. It’s already priced in. So so that’s the way, you know, it’s the same way to view education. So if you compare apprenticeship, which is more tinkering, trial and error, more doing things, apprenticeship is something very prevalent in Switzerland and Germany.</p>
+<p class="prose-p" id="sec-000500-p5">And I don’t know about Nordic countries. That’s vastly more important than education. They think that historic was to the attachment from the world. Yeah, exactly.</p>
+<p class="prose-p" id="sec-000500-p6">So in other words, become a vegetable. And that’s the impression that for a long time, for about 2000 years, he has a story. But when I read the type of people that he wanted to keep the upside and not be hurt, Seneca was the wealthiest man in the world. Okay.</p>
+<p class="prose-p" id="sec-000500-p7">And people found inconsistency. He was not against wealth, you see, and he proved, you know, that effectively one that can be a philosopher. What he was, he wanted the upside and then the mental exercise and wakes up rich. Yeah.</p>
+<p class="prose-p" id="sec-000500-p8">So he was he was it was he kept the upside. In fact, what they had is my, my thoughts are the people who really had like Buddhist those an attitude, wanted to have the last word was faked. And my definition is I said, they’re the story saves someone who transforms fear into prudence, mistakes and desire someone who wanted the upside without downside. And Seneca approved it.</p>
+<p class="prose-p" id="sec-000500-p9">And the way you get there is Seneca suggesting is through mental exertions. We’re not through</p>
           </div>
         </section>
         
@@ -701,16 +883,16 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">necessarily some of its action, obviously, but some of it is the way you look at your life, and what you prepare yourself for and what, how you affect your expectations. Exactly. He understood the hedonic treadmill, you know, that Danny Kahneman, he understood it very well, you see, and he wanted to write. Not a bad goal.</p>
-<p class="prose-p">So here I’ve introduced the book, and I end the book with the following. The only way you know you’re alive, you’re not a machine, is if you like variability. So this is if you’re anti fragile, it means you’re alive. Now let me leave you with some quotes and ideas related to these rules.</p>
-<p class="prose-p">Do hard things. Let’s hear Navarro, we can’t stake on this. You know, look at the kids who are born rich, no meaning to their lives. It’s a terrible place.</p>
-<p class="prose-p">Yeah, your real resume is just a cataloging of all your suffering. If I were to ask you to describe your real life to yourself, and you look back in your deathbed, you’re going to go back and say, what are the interesting things I’ve done? And it’s all going to be around the sacrifices that you made and the hard things that you did. Anything you’re given doesn’t matter.</p>
-<p class="prose-p">You know, you have your four limbs, you have your brain, you have your head, you have your skin. That’s all for granted. So you have to do hard things anyway to create your own meaning in life. Quote from Seneca, no man is more unhappy than he who never faces adversity, for he’s not permitted to prove himself.</p>
-<p class="prose-p">Go through life as a flaner. Nassim Taleb wrote, if you know in the morning, what your day looks like with any precision, you’re a little bit dead. The more precision, the more dead you are. You have a calibrated life when most of what you fear has the titling prospect of adventure.</p>
-<p class="prose-p">Develop an anti education quote from Nassim Taleb, only the auto deducts are free. And now a quote from Jim Brown, formal education will make you a living. Self education will make you a fortune. Adopt an anti fragile life philosophy on his book letters from a stoic Seneca growth set aside a certain number of days during which you shall be content with the scantiest and cheapest fare with course and rough dress saying to yourself the while is this the condition that I feared.</p>
-<p class="prose-p">Tim Ferriss is also known for following this practice. Let’s hear it from him for inoculating yourself against that fear of loss failure, especially for things outside of your control. I always talk about it, but I’ll talk about it again is letters from a stoic by Seneca, like training yourself. I’ve given hundreds of copies of this book away.</p>
-<p class="prose-p">The ability to inoculate yourself against fear by training. So for instance, like spending four or five days, not even that much, two days a month where you eat the cheapest food, where the cheapest clothing, don’t use transportation. Then you ask yourself, you know, all along is this the condition I so feared. Totally.</p>
-<p class="prose-p">And then your fear of failure. Like this isn’t so bad. I can do fine.</p>
+            <p class="prose-p" id="sec-001001-p0">necessarily some of its action, obviously, but some of it is the way you look at your life, and what you prepare yourself for and what, how you affect your expectations. Exactly. He understood the hedonic treadmill, you know, that Danny Kahneman, he understood it very well, you see, and he wanted to write. Not a bad goal.</p>
+<p class="prose-p" id="sec-001001-p1">So here I’ve introduced the book, and I end the book with the following. The only way you know you’re alive, you’re not a machine, is if you like variability. So this is if you’re anti fragile, it means you’re alive. Now let me leave you with some quotes and ideas related to these rules.</p>
+<p class="prose-p" id="sec-001001-p2">Do hard things. Let’s hear Navarro, we can’t stake on this. You know, look at the kids who are born rich, no meaning to their lives. It’s a terrible place.</p>
+<p class="prose-p" id="sec-001001-p3">Yeah, your real resume is just a cataloging of all your suffering. If I were to ask you to describe your real life to yourself, and you look back in your deathbed, you’re going to go back and say, what are the interesting things I’ve done? And it’s all going to be around the sacrifices that you made and the hard things that you did. Anything you’re given doesn’t matter.</p>
+<p class="prose-p" id="sec-001001-p4">You know, you have your four limbs, you have your brain, you have your head, you have your skin. That’s all for granted. So you have to do hard things anyway to create your own meaning in life. Quote from Seneca, no man is more unhappy than he who never faces adversity, for he’s not permitted to prove himself.</p>
+<p class="prose-p" id="sec-001001-p5">Go through life as a flaner. Nassim Taleb wrote, if you know in the morning, what your day looks like with any precision, you’re a little bit dead. The more precision, the more dead you are. You have a calibrated life when most of what you fear has the titling prospect of adventure.</p>
+<p class="prose-p" id="sec-001001-p6">Develop an anti education quote from Nassim Taleb, only the auto deducts are free. And now a quote from Jim Brown, formal education will make you a living. Self education will make you a fortune. Adopt an anti fragile life philosophy on his book letters from a stoic Seneca growth set aside a certain number of days during which you shall be content with the scantiest and cheapest fare with course and rough dress saying to yourself the while is this the condition that I feared.</p>
+<p class="prose-p" id="sec-001001-p7">Tim Ferriss is also known for following this practice. Let’s hear it from him for inoculating yourself against that fear of loss failure, especially for things outside of your control. I always talk about it, but I’ll talk about it again is letters from a stoic by Seneca, like training yourself. I’ve given hundreds of copies of this book away.</p>
+<p class="prose-p" id="sec-001001-p8">The ability to inoculate yourself against fear by training. So for instance, like spending four or five days, not even that much, two days a month where you eat the cheapest food, where the cheapest clothing, don’t use transportation. Then you ask yourself, you know, all along is this the condition I so feared. Totally.</p>
+<p class="prose-p" id="sec-001001-p9">And then your fear of failure. Like this isn’t so bad. I can do fine.</p>
           </div>
         </section>
         
@@ -721,6 +903,7 @@
 
   <!-- Floating Tools -->
   <div class="floating-tools">
+    <button class="float-btn" id="float-hl-btn" title="劃線筆記">🖍️</button>
     <button class="float-btn" id="scroll-top-btn" title="回到頂部">▲</button>
   </div>
 
@@ -804,6 +987,8 @@
       localStorage.setItem('reader-font-size', size);
     }
     applyFontSize(currentFontSize);
+    applyAllHighlightsToDOM();
+    renderHighlightsDrawer();
 
     document.getElementById('font-dec-btn').addEventListener('click', () => applyFontSize(currentFontSize - 1));
     document.getElementById('font-inc-btn').addEventListener('click', () => applyFontSize(currentFontSize + 1));
@@ -902,6 +1087,210 @@
     let searchMatches = [];
     let currentMatchIdx = -1;
 
+    // ==========================================
+    // USER HIGHLIGHT SYSTEM (LOCALSTORAGE PERSISTED)
+    // ==========================================
+    const bookKey = 'hl_' + location.pathname.split('/').pop().replace('.html', '');
+    let userHighlights = [];
+    try {
+      userHighlights = JSON.parse(localStorage.getItem(bookKey) || '[]');
+    } catch(e) { userHighlights = []; }
+
+    const hlBadge = document.getElementById('hl-count-badge');
+    const hlDrawer = document.getElementById('hl-drawer');
+    const hlDrawerList = document.getElementById('hl-drawer-list');
+    const hlToggleBtn = document.getElementById('hl-toggle-btn');
+    const floatHlBtn = document.getElementById('float-hl-btn');
+    const hlDrawerClose = document.getElementById('hl-drawer-close');
+    const hlClearAll = document.getElementById('hl-clear-all');
+    const selPopup = document.getElementById('selection-popup');
+
+    function updateHlBadge() {
+      if (hlBadge) hlBadge.textContent = userHighlights.length;
+    }
+    updateHlBadge();
+
+    function saveHighlights() {
+      try {
+        localStorage.setItem(bookKey, JSON.stringify(userHighlights));
+      } catch(e) {}
+      updateHlBadge();
+      renderHighlightsDrawer();
+    }
+
+    function renderHighlightsDrawer() {
+      if (!hlDrawerList) return;
+      if (userHighlights.length === 0) {
+        hlDrawerList.innerHTML = '<div style="text-align: center; color: var(--text-muted); padding: 30px 10px; font-size: 13px;">選取文章中任意句子即可浮現螢光筆，劃線保存喜愛的金句！</div>';
+        return;
+      }
+      hlDrawerList.innerHTML = '';
+      userHighlights.forEach((item, idx) => {
+        const card = document.createElement('div');
+        card.className = `hl-card color-${item.color || 'yellow'}`;
+        card.innerHTML = `
+          <div class="hl-card-time">
+            <span>⏱️ ${item.time || '章節記錄'}</span>
+            <button class="hl-card-del" title="刪除此劃線" data-idx="${idx}">✕</button>
+          </div>
+          <div style="color: var(--text-primary);">${item.text}</div>
+        `;
+        card.addEventListener('click', (e) => {
+          if (e.target.classList.contains('hl-card-del')) return;
+          // Jump to paragraph
+          const targetP = document.getElementById(item.pId);
+          if (targetP) {
+            targetP.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            targetP.style.transition = 'outline 0.3s';
+            targetP.style.outline = '3px solid var(--accent-color)';
+            setTimeout(() => { targetP.style.outline = 'none'; }, 1500);
+          }
+        });
+        const delBtn = card.querySelector('.hl-card-del');
+        delBtn.addEventListener('click', (e) => {
+          e.stopPropagation();
+          deleteHighlight(idx);
+        });
+        hlDrawerList.appendChild(card);
+      });
+    }
+
+    function deleteHighlight(idx) {
+      const removed = userHighlights.splice(idx, 1)[0];
+      saveHighlights();
+      // Re-apply highlights on DOM
+      applyAllHighlightsToDOM();
+    }
+
+    if (hlClearAll) {
+      hlClearAll.addEventListener('click', () => {
+        if (confirm('確定要清空本書的所有劃線標記嗎？')) {
+          userHighlights = [];
+          saveHighlights();
+          applyAllHighlightsToDOM();
+        }
+      });
+    }
+
+    function applyAllHighlightsToDOM() {
+      // First restore clean text
+      rawParagraphs.forEach(item => {
+        item.el.innerHTML = item.rawHtml;
+      });
+      // Apply each highlight
+      userHighlights.forEach((hl, hlIdx) => {
+        const pEl = document.getElementById(hl.pId);
+        if (!pEl) return;
+        const text = hl.text;
+        if (!text) return;
+        const currentHtml = pEl.innerHTML;
+        // Search escaped text
+        const regex = new RegExp(`(${escapeRegex(text)})`, 'g');
+        if (regex.test(currentHtml)) {
+          pEl.innerHTML = currentHtml.replace(regex, `<mark class="user-hl color-${hl.color || 'yellow'}" data-hl-idx="${hlIdx}">$1</mark>`);
+        }
+      });
+      // Rebind click to delete or show mark
+      document.querySelectorAll('mark.user-hl').forEach(m => {
+        m.addEventListener('click', (e) => {
+          e.stopPropagation();
+          const idx = parseInt(m.getAttribute('data-hl-idx'), 10);
+          if (!isNaN(idx) && confirm(`要刪除這段劃線標記嗎？
+"${userHighlights[idx]?.text.slice(0, 40)}..."`)) {
+            deleteHighlight(idx);
+          }
+        });
+      });
+    }
+
+    // Text selection detection
+    let currentSelectionRange = null;
+    let selectedText = '';
+    let selectedPId = '';
+    let selectedSecTime = '';
+
+    function handleSelectionChange() {
+      const sel = window.getSelection();
+      if (!sel || sel.isCollapsed || !sel.rangeCount) {
+        selPopup.classList.remove('active');
+        return;
+      }
+      const text = sel.toString().trim();
+      if (text.length < 2) {
+        selPopup.classList.remove('active');
+        return;
+      }
+
+      // Check if selection is within section-body p
+      const range = sel.getRangeAt(0);
+      const containerP = range.commonAncestorContainer.nodeType === 1 
+        ? range.commonAncestorContainer.closest('.section-body p')
+        : range.commonAncestorContainer.parentElement.closest('.section-body p');
+
+      if (!containerP) {
+        selPopup.classList.remove('active');
+        return;
+      }
+
+      currentSelectionRange = range;
+      selectedText = text;
+      selectedPId = containerP.id;
+      const sec = containerP.closest('.transcript-section');
+      selectedSecTime = sec ? (sec.querySelector('.section-time')?.textContent || '') : '';
+
+      const rect = range.getBoundingClientRect();
+      const popupX = rect.left + rect.width / 2;
+      const popupY = rect.top + window.scrollY - 10;
+
+      selPopup.style.left = `${popupX}px`;
+      selPopup.style.top = `${popupY}px`;
+      selPopup.classList.add('active');
+    }
+
+    document.addEventListener('mouseup', () => {
+      setTimeout(handleSelectionChange, 50);
+    });
+    document.addEventListener('touchend', () => {
+      setTimeout(handleSelectionChange, 150);
+    });
+
+    document.querySelectorAll('.color-dot-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        const color = btn.getAttribute('data-color') || 'yellow';
+        if (selectedText && selectedPId) {
+          userHighlights.push({
+            pId: selectedPId,
+            time: selectedSecTime,
+            text: selectedText,
+            color: color,
+            createdAt: Date.now()
+          });
+          saveHighlights();
+          applyAllHighlightsToDOM();
+          selPopup.classList.remove('active');
+          window.getSelection()?.removeAllRanges();
+        }
+      });
+    });
+
+    // Close popup on outside click
+    document.addEventListener('mousedown', (e) => {
+      if (!selPopup.contains(e.target)) {
+        selPopup.classList.remove('active');
+      }
+    });
+
+    // Drawer toggle
+    function toggleHlDrawer() {
+      searchDrawer.classList.remove('active');
+      const isOpen = hlDrawer.classList.toggle('active');
+      if (isOpen) renderHighlightsDrawer();
+    }
+    if (hlToggleBtn) hlToggleBtn.addEventListener('click', toggleHlDrawer);
+    if (floatHlBtn) floatHlBtn.addEventListener('click', toggleHlDrawer);
+    if (hlDrawerClose) hlDrawerClose.addEventListener('click', () => hlDrawer.classList.remove('active'));
+
     // Cache original innerHTML for clean resets
     const rawParagraphs = Array.from(document.querySelectorAll('.section-body p')).map(p => ({
       el: p,
@@ -931,6 +1320,9 @@
       rawParagraphs.forEach(item => {
         item.el.innerHTML = item.rawHtml;
       });
+      if (typeof applyAllHighlightsToDOM === 'function') {
+        applyAllHighlightsToDOM();
+      }
     }
 
     function escapeRegex(str) {

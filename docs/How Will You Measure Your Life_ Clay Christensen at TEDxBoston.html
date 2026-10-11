@@ -263,6 +263,160 @@
       overflow: hidden;
     }
 
+    /* User Highlight system */
+    mark.user-hl {
+      background-color: #fef08a;
+      color: inherit;
+      padding: 2px 3px;
+      border-radius: 3px;
+      border-bottom: 2px solid #eab308;
+      cursor: pointer;
+      position: relative;
+    }
+    mark.user-hl.color-green {
+      background-color: #bbf7d0;
+      border-bottom-color: #22c55e;
+    }
+    mark.user-hl.color-blue {
+      background-color: #bfdbfe;
+      border-bottom-color: #3b82f6;
+    }
+    mark.user-hl.color-pink {
+      background-color: #fbcfe8;
+      border-bottom-color: #ec4899;
+    }
+    [data-theme="dark"] mark.user-hl {
+      background-color: rgba(234, 179, 8, 0.35);
+      border-bottom-color: #facc15;
+    }
+    [data-theme="dark"] mark.user-hl.color-green {
+      background-color: rgba(34, 197, 94, 0.35);
+      border-bottom-color: #4ade80;
+    }
+    [data-theme="dark"] mark.user-hl.color-blue {
+      background-color: rgba(59, 130, 246, 0.35);
+      border-bottom-color: #60a5fa;
+    }
+    [data-theme="dark"] mark.user-hl.color-pink {
+      background-color: rgba(236, 72, 153, 0.35);
+      border-bottom-color: #f472b6;
+    }
+
+    /* Floating Selection Popup Menu */
+    .selection-popup {
+      position: absolute;
+      display: none;
+      z-index: 950;
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      box-shadow: 0 10px 25px rgba(0,0,0,0.22);
+      border-radius: 30px;
+      padding: 5px 8px;
+      align-items: center;
+      gap: 6px;
+      animation: popIn 0.15s ease-out;
+      transform: translate(-50%, -100%);
+      margin-top: -8px;
+    }
+    @keyframes popIn {
+      from { opacity: 0; transform: translate(-50%, -90%) scale(0.95); }
+      to { opacity: 1; transform: translate(-50%, -100%) scale(1); }
+    }
+    .selection-popup.active { display: flex; }
+    .color-dot-btn {
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      border: 2px solid #ffffff;
+      cursor: pointer;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+      transition: transform 0.15s;
+    }
+    .color-dot-btn:hover { transform: scale(1.18); }
+    .color-dot-yellow { background-color: #facc15; }
+    .color-dot-green { background-color: #4ade80; }
+    .color-dot-blue { background-color: #60a5fa; }
+    .color-dot-pink { background-color: #f472b6; }
+
+    /* Highlights Drawer */
+    .hl-drawer {
+      position: fixed;
+      right: 20px;
+      top: 120px;
+      width: 380px;
+      max-height: calc(100vh - 160px);
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.18);
+      z-index: 896;
+      display: none;
+      flex-direction: column;
+      overflow: hidden;
+    }
+    .hl-drawer.active { display: flex; }
+    .hl-drawer-header {
+      padding: 12px 16px;
+      border-bottom: 1px solid var(--border-color);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-weight: 700;
+      font-size: 14px;
+    }
+    .hl-drawer-list {
+      overflow-y: auto;
+      padding: 10px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    .hl-card {
+      padding: 10px 12px;
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+      background: var(--bg-primary);
+      cursor: pointer;
+      font-size: 13.5px;
+      line-height: 1.5;
+      position: relative;
+      transition: all 0.15s;
+      border-left: 4px solid #facc15;
+    }
+    .hl-card.color-green { border-left-color: #22c55e; }
+    .hl-card.color-blue { border-left-color: #3b82f6; }
+    .hl-card.color-pink { border-left-color: #ec4899; }
+    .hl-card:hover {
+      border-color: var(--accent-color);
+      background: var(--accent-light);
+    }
+    .hl-card-time {
+      font-size: 11.5px;
+      font-weight: 700;
+      color: var(--accent-color);
+      margin-bottom: 4px;
+      font-family: monospace;
+      display: flex;
+      justify-content: space-between;
+    }
+    .hl-card-del {
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 13px;
+      padding: 0 4px;
+    }
+    .hl-card-del:hover { color: #ef4444; }
+
+    @media (max-width: 992px) {
+      .hl-drawer {
+        left: 20px;
+        right: 20px;
+        width: auto;
+      }
+    }
+
     /* Highlight mark */
     mark.search-highlight {
       background-color: #fef08a;
@@ -555,6 +709,10 @@
       <button class="btn-icon" id="search-toggle-btn" title="搜尋本書內文 (Ctrl+F)">
         🔍 <span>搜尋內文</span>
       </button>
+      <!-- User Highlights Button -->
+      <button class="btn-icon" id="hl-toggle-btn" title="查看劃線筆記">
+        🖍️ <span>劃線筆記</span> (<span id="hl-count-badge">0</span>)
+      </button>
       <!-- Global Search Link -->
       <a href="index.html?tab=search" class="btn-icon" title="前往全書庫全文檢索">
         🌐 <span>全庫搜尋</span>
@@ -611,6 +769,30 @@
     <div class="inpage-search-drawer-list" id="inpage-search-drawer-list"></div>
   </div>
 
+  <!-- User Selection Floating Popup -->
+  <div class="selection-popup" id="selection-popup">
+    <button class="color-dot-btn color-dot-yellow" data-color="yellow" title="黃色劃線"></button>
+    <button class="color-dot-btn color-dot-green" data-color="green" title="綠色劃線"></button>
+    <button class="color-dot-btn color-dot-blue" data-color="blue" title="藍色劃線"></button>
+    <button class="color-dot-btn color-dot-pink" data-color="pink" title="粉色劃線"></button>
+  </div>
+
+  <!-- User Highlights Drawer -->
+  <div class="hl-drawer" id="hl-drawer">
+    <div class="hl-drawer-header">
+      <span>🖍️ 我的劃線金句筆記</span>
+      <div style="display: flex; gap: 6px; align-items: center;">
+        <button class="btn-icon" id="hl-clear-all" style="padding: 2px 7px; font-size: 11.5px;" title="清空劃線">清空全部</button>
+        <button class="btn-icon" id="hl-drawer-close" style="padding: 2px 6px;">✕</button>
+      </div>
+    </div>
+    <div class="hl-drawer-list" id="hl-drawer-list">
+      <div style="text-align: center; color: var(--text-muted); padding: 30px 10px; font-size: 13px;">
+        選取內文文字即可劃線螢光標記，並保存於此處
+      </div>
+    </div>
+  </div>
+
   <div class="backdrop" id="backdrop"></div>
 
   <div class="layout">
@@ -651,17 +833,17 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">Well, thank you very much. The world is, in many ways, organized in a nested system. And so we have nations. Within those we have industries.</p>
-<p class="prose-p">Within industries we have corporations. Within those we have business units. Within those we have teams. Within the teams we have people. And within our people we have brains.</p>
-<p class="prose-p">And we’re nested. It turns out that, as I have, and my colleagues have tried to understand how business works, we’ve developed a set of theories. And when I say a theory, what I mean is a statement of causality. An understanding of what causes what and why.</p>
-<p class="prose-p">And some of you know some of the theories. Disruption is a theory. And what it asserts is that the mechanism that causes successful companies to fall is not that they’re not at their work, but rather somebody comes in at the bottom of the market and moves up. And that’s the mechanism, the pursuit of profit at the bottom of the market that makes success so hard to sustain.</p>
-<p class="prose-p">There’s another theory called the theory of the preservation of modularity. And the theory of the preservation of modularity explains, among other things, why the euro doesn’t work. And why SAP implementation systems are so difficult and complicated. And there’s another theory called jobs to be done.</p>
-<p class="prose-p">And what it asserts is that, you know, here’s clay. I have characteristics. I, unfortunately, am 60 years old now. I live in the suburbs.</p>
-<p class="prose-p">Five children, unfortunately, have all left and are living independently. And life has become boring. But the fact that I have those characteristics doesn’t cause me to go out and buy the New York Times. There might be a correlation between my characteristics and the propensity to buy the New York Times, but the characteristics don’t cause me to do anything.</p>
-<p class="prose-p">What causes us to do something is there’s a job that arises in our life, and we have to get the job done. And what causes us to buy a product or service is we have to reach out and find something that can do the job and pull it into our lives. And that’s the causal mechanism behind a purchase, is understanding what’s the job. And the insight there is that the customer’s the wrong unit of analysis.</p>
-<p class="prose-p">It’s the job that we need to understand. So these are all theories, and some of you know those and a number of others from our research. What we have learned, and inadvertently in many ways, is that these statements of causality apply at every stage in this nested system. And so the theories help us understand why nations lose their competitiveness.</p>
-<p class="prose-p">Why Japan was so successful and then died, for example. And why America finds it so hard to regain our momentum. And that goes all the way down to the point of teams. Well a number of years ago in my course at the Harvard Business School. In this course we study these theories, try to understand them, then put these theories on like a set of lenses and examine companies or economies or industries and try to understand can we understand why things are happening the way they’re happening and what actions would lead what results.</p>
-<p class="prose-p">At the end of the course on the last day, rather than asking them to just put on these lenses and examine yet another company, I ask them to look in the mirror and ask them, can you explain why your life is the way it is today because of these theories?</p>
+            <p class="prose-p" id="sec-000000-p0">Well, thank you very much. The world is, in many ways, organized in a nested system. And so we have nations. Within those we have industries.</p>
+<p class="prose-p" id="sec-000000-p1">Within industries we have corporations. Within those we have business units. Within those we have teams. Within the teams we have people. And within our people we have brains.</p>
+<p class="prose-p" id="sec-000000-p2">And we’re nested. It turns out that, as I have, and my colleagues have tried to understand how business works, we’ve developed a set of theories. And when I say a theory, what I mean is a statement of causality. An understanding of what causes what and why.</p>
+<p class="prose-p" id="sec-000000-p3">And some of you know some of the theories. Disruption is a theory. And what it asserts is that the mechanism that causes successful companies to fall is not that they’re not at their work, but rather somebody comes in at the bottom of the market and moves up. And that’s the mechanism, the pursuit of profit at the bottom of the market that makes success so hard to sustain.</p>
+<p class="prose-p" id="sec-000000-p4">There’s another theory called the theory of the preservation of modularity. And the theory of the preservation of modularity explains, among other things, why the euro doesn’t work. And why SAP implementation systems are so difficult and complicated. And there’s another theory called jobs to be done.</p>
+<p class="prose-p" id="sec-000000-p5">And what it asserts is that, you know, here’s clay. I have characteristics. I, unfortunately, am 60 years old now. I live in the suburbs.</p>
+<p class="prose-p" id="sec-000000-p6">Five children, unfortunately, have all left and are living independently. And life has become boring. But the fact that I have those characteristics doesn’t cause me to go out and buy the New York Times. There might be a correlation between my characteristics and the propensity to buy the New York Times, but the characteristics don’t cause me to do anything.</p>
+<p class="prose-p" id="sec-000000-p7">What causes us to do something is there’s a job that arises in our life, and we have to get the job done. And what causes us to buy a product or service is we have to reach out and find something that can do the job and pull it into our lives. And that’s the causal mechanism behind a purchase, is understanding what’s the job. And the insight there is that the customer’s the wrong unit of analysis.</p>
+<p class="prose-p" id="sec-000000-p8">It’s the job that we need to understand. So these are all theories, and some of you know those and a number of others from our research. What we have learned, and inadvertently in many ways, is that these statements of causality apply at every stage in this nested system. And so the theories help us understand why nations lose their competitiveness.</p>
+<p class="prose-p" id="sec-000000-p9">Why Japan was so successful and then died, for example. And why America finds it so hard to regain our momentum. And that goes all the way down to the point of teams. Well a number of years ago in my course at the Harvard Business School. In this course we study these theories, try to understand them, then put these theories on like a set of lenses and examine companies or economies or industries and try to understand can we understand why things are happening the way they’re happening and what actions would lead what results.</p>
+<p class="prose-p" id="sec-000000-p10">At the end of the course on the last day, rather than asking them to just put on these lenses and examine yet another company, I ask them to look in the mirror and ask them, can you explain why your life is the way it is today because of these theories?</p>
           </div>
         </section>
         
@@ -672,15 +854,15 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">And can you predict what will happen in your life if you continue to do what you are now doing? And it’s been a remarkable experience to see the students come back on the last day of class and with causal theories is the explanation what they need to change in their lives so that their life will be the life that they hope to live. And I thought I’d just offer a couple of these in the hopes that as entrepreneurs and ambitious people you end up living the life that you hope you will live.</p>
-<p class="prose-p">So one of the things we observed as I mentioned is that what kills successful companies is somebody comes in at the bottom of the market. So if you go back a few years ago in telecommunications, the darlings of the industry were loosened and Nortel made circuit switching technology and this rusty little or small company, not very consequential called Cisco, emerged. And their technology, the router, wasn’t good enough to be used in voice, but they deployed it at the bottom of the market with data and then went up market and ultimately killed Lucent and Nortel.</p>
-<p class="prose-p">And the reason why is that when they looked down at a router, the router on every dimension wasn’t as good. And so they kept making better and better circuit switch devices. And we ask ourselves, I wonder who decided at Lucent that they should go out and get killed? And when was the date on which they decided they would get killed?</p>
-<p class="prose-p">And the answer, of course, is that nobody made the decision. In fact, what happened is all the individual people in a very successful organization did everything right. But because they did all of these things independently and what made sense in those circumstances, when it summed up, it summed up to disaster. Well, the reason why it sums up to disaster is they’re trying to maximize their profitability.</p>
-<p class="prose-p">And typically, the way you calculate profitability, tomorrow’s investments that pay off tomorrow go to the bottom line and are much more tangible than investments that pay off 10 years from now. Well, when I go back to my graduating classes, I graduated from the MBA program at Harvard in 1979, we have a reunion every five years. When we came back for our fifth reunion, man, everybody was happy. Most of our classmates had married people who were much better looking than my classmates.</p>
-<p class="prose-p">They’re doing well in their career. But as we hit the 10th and 15th and 20th and then the 25th anniversaries, oh my gosh, my friends were coming back not happy with their lives. And very many of them had gotten divorced and their spouses had remarried and they were raising my classmates&#x27; children on the other side of the country, alienated from them. And I guarantee that none of my classmates ever planned when they graduated from the business school to go out and get divorced and have children who hate their guts and are being raised by other children.</p>
-<p class="prose-p">And yet a very large portion of my classmates actually implemented a strategy that they never planned to do. And it turns out that the reason why they do that is the very same mechanism. And that is the pursuit of achievement. So we all, everybody here is driven to achieve.</p>
-<p class="prose-p">And when you have an extra ounce of energy or 30 minutes of time instinctively and unconsciously, you’ll allocate it to whatever activities in your life give you the most immediate evidence of achievement. And our careers provide that immediate evidence of achievement. We close a sale, we ship a product, we finish a presentation, we close a deal, we get promoted, we get paid. And our careers provide the most very tangible immediate achievement.</p>
-<p class="prose-p">In contrast, investments in our families don’t pay off for a very long time.</p>
+            <p class="prose-p" id="sec-000505-p0">And can you predict what will happen in your life if you continue to do what you are now doing? And it’s been a remarkable experience to see the students come back on the last day of class and with causal theories is the explanation what they need to change in their lives so that their life will be the life that they hope to live. And I thought I’d just offer a couple of these in the hopes that as entrepreneurs and ambitious people you end up living the life that you hope you will live.</p>
+<p class="prose-p" id="sec-000505-p1">So one of the things we observed as I mentioned is that what kills successful companies is somebody comes in at the bottom of the market. So if you go back a few years ago in telecommunications, the darlings of the industry were loosened and Nortel made circuit switching technology and this rusty little or small company, not very consequential called Cisco, emerged. And their technology, the router, wasn’t good enough to be used in voice, but they deployed it at the bottom of the market with data and then went up market and ultimately killed Lucent and Nortel.</p>
+<p class="prose-p" id="sec-000505-p2">And the reason why is that when they looked down at a router, the router on every dimension wasn’t as good. And so they kept making better and better circuit switch devices. And we ask ourselves, I wonder who decided at Lucent that they should go out and get killed? And when was the date on which they decided they would get killed?</p>
+<p class="prose-p" id="sec-000505-p3">And the answer, of course, is that nobody made the decision. In fact, what happened is all the individual people in a very successful organization did everything right. But because they did all of these things independently and what made sense in those circumstances, when it summed up, it summed up to disaster. Well, the reason why it sums up to disaster is they’re trying to maximize their profitability.</p>
+<p class="prose-p" id="sec-000505-p4">And typically, the way you calculate profitability, tomorrow’s investments that pay off tomorrow go to the bottom line and are much more tangible than investments that pay off 10 years from now. Well, when I go back to my graduating classes, I graduated from the MBA program at Harvard in 1979, we have a reunion every five years. When we came back for our fifth reunion, man, everybody was happy. Most of our classmates had married people who were much better looking than my classmates.</p>
+<p class="prose-p" id="sec-000505-p5">They’re doing well in their career. But as we hit the 10th and 15th and 20th and then the 25th anniversaries, oh my gosh, my friends were coming back not happy with their lives. And very many of them had gotten divorced and their spouses had remarried and they were raising my classmates&#x27; children on the other side of the country, alienated from them. And I guarantee that none of my classmates ever planned when they graduated from the business school to go out and get divorced and have children who hate their guts and are being raised by other children.</p>
+<p class="prose-p" id="sec-000505-p6">And yet a very large portion of my classmates actually implemented a strategy that they never planned to do. And it turns out that the reason why they do that is the very same mechanism. And that is the pursuit of achievement. So we all, everybody here is driven to achieve.</p>
+<p class="prose-p" id="sec-000505-p7">And when you have an extra ounce of energy or 30 minutes of time instinctively and unconsciously, you’ll allocate it to whatever activities in your life give you the most immediate evidence of achievement. And our careers provide that immediate evidence of achievement. We close a sale, we ship a product, we finish a presentation, we close a deal, we get promoted, we get paid. And our careers provide the most very tangible immediate achievement.</p>
+<p class="prose-p" id="sec-000505-p8">In contrast, investments in our families don’t pay off for a very long time.</p>
           </div>
         </section>
         
@@ -691,13 +873,13 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">In fact on a day-to-day basis our children misbehave over and over again. And it really isn’t until 20 years down the road that you can look at your children and be able to put your hands on your hips and say we raise great children. But on a day-to-day basis achievement doesn’t at hand when we invest in relationships with our family, with our children and our spouses. And as a consequence people like you and I who plan to have a happy life because our families truly are the deepest source of happiness in our lives find that although that’s what we want, the way we invest our time and energy and talents causes us to implement a strategy that we wouldn’t at all plan to pursue.</p>
-<p class="prose-p">And so I wanted to just offer that one as something to think about. The reason why successful companies fail is they invest in things that provide the most immediate and tangible evidence of achievement. And the reason why they have such a short time horizon is that they are run by people like you and I. And we then apply that very same thinking process in our personal lives with sad results.</p>
-<p class="prose-p">Let me just offer another thought that might be useful. I was driving to work a number of years ago early and when I was on Huron Avenue in Cambridge I just had a feeling that something important was going to happen to Clay Christensen and I was going to be given a much more consequential business opportunity than I have just as a plain old professor. And a couple of weeks later somebody who was in that position announced that he was leaving and I put two and two together and decided, gosh, it sounds like for whatever reason I just had this feeling that I’m going to be his replacement.</p>
-<p class="prose-p">So the day came and they chose another person. And I wondered why did I have that feeling that an important thing was going to happen to me? Did the people kind of lose guts or I don’t know. But I wrestled with how will they measure Clay Christensen’s life, you know, if they’re going to not make me the leader of a large institution, how do I know whether my life has been worth living and again how will I measure my life?</p>
-<p class="prose-p">And I realized that I studied this for a long time and I reached the strangest conclusion that God doesn’t employ accountants or statisticians. And what I mean by that is because you and I have finite minds. When we try to understand what’s going on in the world we have to aggregate things. So in your companies you can’t keep track of every individual invoice and so you have to aggregate all those up so that you have receivables and payables and revenues and you can’t keep track of every element of cost and so you have to aggregate all that up into total cost categories and then you subtract that from this and there’s a number.</p>
-<p class="prose-p">And that’s the way we try to understand the world is because we have limited minds. We have to aggregate things up. And then we’ll look at that number compared to last year’s number and if it’s better then we say we’re doing better. And that’s the way we look at the world because of our minds.</p>
-<p class="prose-p">And it has then another interesting effect on us and that is because we have to aggregate we get a sense of hierarchy in the world. In other words people who are higher up in larger organizations are more important than people who preside over fewer numbers of people and fewer numbers down the bottom. And so we tend to get this sense that people who achieve. in a hierarchical sense, their lives will be judged somehow as better, having lived, than those below.</p>
+            <p class="prose-p" id="sec-001006-p0">In fact on a day-to-day basis our children misbehave over and over again. And it really isn’t until 20 years down the road that you can look at your children and be able to put your hands on your hips and say we raise great children. But on a day-to-day basis achievement doesn’t at hand when we invest in relationships with our family, with our children and our spouses. And as a consequence people like you and I who plan to have a happy life because our families truly are the deepest source of happiness in our lives find that although that’s what we want, the way we invest our time and energy and talents causes us to implement a strategy that we wouldn’t at all plan to pursue.</p>
+<p class="prose-p" id="sec-001006-p1">And so I wanted to just offer that one as something to think about. The reason why successful companies fail is they invest in things that provide the most immediate and tangible evidence of achievement. And the reason why they have such a short time horizon is that they are run by people like you and I. And we then apply that very same thinking process in our personal lives with sad results.</p>
+<p class="prose-p" id="sec-001006-p2">Let me just offer another thought that might be useful. I was driving to work a number of years ago early and when I was on Huron Avenue in Cambridge I just had a feeling that something important was going to happen to Clay Christensen and I was going to be given a much more consequential business opportunity than I have just as a plain old professor. And a couple of weeks later somebody who was in that position announced that he was leaving and I put two and two together and decided, gosh, it sounds like for whatever reason I just had this feeling that I’m going to be his replacement.</p>
+<p class="prose-p" id="sec-001006-p3">So the day came and they chose another person. And I wondered why did I have that feeling that an important thing was going to happen to me? Did the people kind of lose guts or I don’t know. But I wrestled with how will they measure Clay Christensen’s life, you know, if they’re going to not make me the leader of a large institution, how do I know whether my life has been worth living and again how will I measure my life?</p>
+<p class="prose-p" id="sec-001006-p4">And I realized that I studied this for a long time and I reached the strangest conclusion that God doesn’t employ accountants or statisticians. And what I mean by that is because you and I have finite minds. When we try to understand what’s going on in the world we have to aggregate things. So in your companies you can’t keep track of every individual invoice and so you have to aggregate all those up so that you have receivables and payables and revenues and you can’t keep track of every element of cost and so you have to aggregate all that up into total cost categories and then you subtract that from this and there’s a number.</p>
+<p class="prose-p" id="sec-001006-p5">And that’s the way we try to understand the world is because we have limited minds. We have to aggregate things up. And then we’ll look at that number compared to last year’s number and if it’s better then we say we’re doing better. And that’s the way we look at the world because of our minds.</p>
+<p class="prose-p" id="sec-001006-p6">And it has then another interesting effect on us and that is because we have to aggregate we get a sense of hierarchy in the world. In other words people who are higher up in larger organizations are more important than people who preside over fewer numbers of people and fewer numbers down the bottom. And so we tend to get this sense that people who achieve. in a hierarchical sense, their lives will be judged somehow as better, having lived, than those below.</p>
           </div>
         </section>
         
@@ -708,14 +890,14 @@
             <span class="section-badge">有聲書逐字學習段落</span>
           </div>
           <div class="section-body">
-            <p class="prose-p">And we measure sometimes how high we go or how successful we are by how much money we make. But these are all the result of our having limited minds and they’re having to aggregate measures of success. And this choice of measurement is actually a big deal. In a company, for example, if you measure profitability by return on net assets, that’s a ratio.</p>
-<p class="prose-p">And sure, you could be innovative, develop successful new products, and take that profitability and stick it into the numerator of the ratio. But you could also reduce the denominator of the ratio by outsourcing everything. And the ratio doesn’t matter whether you build it from the top or subtract from the bottom. If profitability is measured by return on net assets, it causes us to manage it in a particular way.</p>
-<p class="prose-p">And in a similar way, if we follow our professors&#x27; advices from finance and we measure profitability on innovation in terms of internal rate of return, or IRR, it’s a ratio. And sure, you could get the ratio up by being successful with innovation, but you also could get that measure up by only investing in short-term projects. And it’s just a long way of saying, be careful in how you measure success profitability in your company. So how do you measure the success of your life?</p>
-<p class="prose-p">And as I mentioned, it’s because we have to aggregate, we have this sense of hierarchy, wealth, and so on. But the reason I concluded that God doesn’t employ accountants is he has an infinite mind. And what that means, he doesn’t have to aggregate up above the level of individual people in order to have a perfect understanding of what’s going on in this world. And when I realized that, that he doesn’t have to aggregate up above the level of individuals, then I realized, oh my goodness, when I have my interview with God at the end of my life, he’s not going to ask to show me how high I went into anybody’s org chart, or how much money I left behind in the bank when I died.</p>
-<p class="prose-p">But rather he’s going to say, oh Clay, I put you in that circumstance. Now can we talk about the individual people whose lives you helped to become better people because you worked with them, or they were members of your family, or you just met them and they needed your help. And then Clay, I stuck you in this situation. Now let’s talk about the individual people whose lives you blessed because you used the talents I gave you to help them.</p>
-<p class="prose-p">And I realized that that’s the way God will measure my life, is the individual people whose lives I blessed. And I just want to offer that as the second takeaway from at least what Clay Christensen is thinking about. And that is, it’s actually really important that you succeed at what you’re succeeding at, but that isn’t going to be the measure of your life. God doesn’t count.</p>
-<p class="prose-p">He doesn’t aggregate. And he’s just going to assess you on the basis of how well you helped other people be better people. Well, God bless you. I hope that some of these ideas will be helpful to you, and that you will be successful in the way that God will measure success.</p>
-<p class="prose-p">Thank you.</p>
+            <p class="prose-p" id="sec-001511-p0">And we measure sometimes how high we go or how successful we are by how much money we make. But these are all the result of our having limited minds and they’re having to aggregate measures of success. And this choice of measurement is actually a big deal. In a company, for example, if you measure profitability by return on net assets, that’s a ratio.</p>
+<p class="prose-p" id="sec-001511-p1">And sure, you could be innovative, develop successful new products, and take that profitability and stick it into the numerator of the ratio. But you could also reduce the denominator of the ratio by outsourcing everything. And the ratio doesn’t matter whether you build it from the top or subtract from the bottom. If profitability is measured by return on net assets, it causes us to manage it in a particular way.</p>
+<p class="prose-p" id="sec-001511-p2">And in a similar way, if we follow our professors&#x27; advices from finance and we measure profitability on innovation in terms of internal rate of return, or IRR, it’s a ratio. And sure, you could get the ratio up by being successful with innovation, but you also could get that measure up by only investing in short-term projects. And it’s just a long way of saying, be careful in how you measure success profitability in your company. So how do you measure the success of your life?</p>
+<p class="prose-p" id="sec-001511-p3">And as I mentioned, it’s because we have to aggregate, we have this sense of hierarchy, wealth, and so on. But the reason I concluded that God doesn’t employ accountants is he has an infinite mind. And what that means, he doesn’t have to aggregate up above the level of individual people in order to have a perfect understanding of what’s going on in this world. And when I realized that, that he doesn’t have to aggregate up above the level of individuals, then I realized, oh my goodness, when I have my interview with God at the end of my life, he’s not going to ask to show me how high I went into anybody’s org chart, or how much money I left behind in the bank when I died.</p>
+<p class="prose-p" id="sec-001511-p4">But rather he’s going to say, oh Clay, I put you in that circumstance. Now can we talk about the individual people whose lives you helped to become better people because you worked with them, or they were members of your family, or you just met them and they needed your help. And then Clay, I stuck you in this situation. Now let’s talk about the individual people whose lives you blessed because you used the talents I gave you to help them.</p>
+<p class="prose-p" id="sec-001511-p5">And I realized that that’s the way God will measure my life, is the individual people whose lives I blessed. And I just want to offer that as the second takeaway from at least what Clay Christensen is thinking about. And that is, it’s actually really important that you succeed at what you’re succeeding at, but that isn’t going to be the measure of your life. God doesn’t count.</p>
+<p class="prose-p" id="sec-001511-p6">He doesn’t aggregate. And he’s just going to assess you on the basis of how well you helped other people be better people. Well, God bless you. I hope that some of these ideas will be helpful to you, and that you will be successful in the way that God will measure success.</p>
+<p class="prose-p" id="sec-001511-p7">Thank you.</p>
           </div>
         </section>
         
@@ -726,6 +908,7 @@
 
   <!-- Floating Tools -->
   <div class="floating-tools">
+    <button class="float-btn" id="float-hl-btn" title="劃線筆記">🖍️</button>
     <button class="float-btn" id="scroll-top-btn" title="回到頂部">▲</button>
   </div>
 
@@ -809,6 +992,8 @@
       localStorage.setItem('reader-font-size', size);
     }
     applyFontSize(currentFontSize);
+    applyAllHighlightsToDOM();
+    renderHighlightsDrawer();
 
     document.getElementById('font-dec-btn').addEventListener('click', () => applyFontSize(currentFontSize - 1));
     document.getElementById('font-inc-btn').addEventListener('click', () => applyFontSize(currentFontSize + 1));
@@ -907,6 +1092,210 @@
     let searchMatches = [];
     let currentMatchIdx = -1;
 
+    // ==========================================
+    // USER HIGHLIGHT SYSTEM (LOCALSTORAGE PERSISTED)
+    // ==========================================
+    const bookKey = 'hl_' + location.pathname.split('/').pop().replace('.html', '');
+    let userHighlights = [];
+    try {
+      userHighlights = JSON.parse(localStorage.getItem(bookKey) || '[]');
+    } catch(e) { userHighlights = []; }
+
+    const hlBadge = document.getElementById('hl-count-badge');
+    const hlDrawer = document.getElementById('hl-drawer');
+    const hlDrawerList = document.getElementById('hl-drawer-list');
+    const hlToggleBtn = document.getElementById('hl-toggle-btn');
+    const floatHlBtn = document.getElementById('float-hl-btn');
+    const hlDrawerClose = document.getElementById('hl-drawer-close');
+    const hlClearAll = document.getElementById('hl-clear-all');
+    const selPopup = document.getElementById('selection-popup');
+
+    function updateHlBadge() {
+      if (hlBadge) hlBadge.textContent = userHighlights.length;
+    }
+    updateHlBadge();
+
+    function saveHighlights() {
+      try {
+        localStorage.setItem(bookKey, JSON.stringify(userHighlights));
+      } catch(e) {}
+      updateHlBadge();
+      renderHighlightsDrawer();
+    }
+
+    function renderHighlightsDrawer() {
+      if (!hlDrawerList) return;
+      if (userHighlights.length === 0) {
+        hlDrawerList.innerHTML = '<div style="text-align: center; color: var(--text-muted); padding: 30px 10px; font-size: 13px;">選取文章中任意句子即可浮現螢光筆，劃線保存喜愛的金句！</div>';
+        return;
+      }
+      hlDrawerList.innerHTML = '';
+      userHighlights.forEach((item, idx) => {
+        const card = document.createElement('div');
+        card.className = `hl-card color-${item.color || 'yellow'}`;
+        card.innerHTML = `
+          <div class="hl-card-time">
+            <span>⏱️ ${item.time || '章節記錄'}</span>
+            <button class="hl-card-del" title="刪除此劃線" data-idx="${idx}">✕</button>
+          </div>
+          <div style="color: var(--text-primary);">${item.text}</div>
+        `;
+        card.addEventListener('click', (e) => {
+          if (e.target.classList.contains('hl-card-del')) return;
+          // Jump to paragraph
+          const targetP = document.getElementById(item.pId);
+          if (targetP) {
+            targetP.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            targetP.style.transition = 'outline 0.3s';
+            targetP.style.outline = '3px solid var(--accent-color)';
+            setTimeout(() => { targetP.style.outline = 'none'; }, 1500);
+          }
+        });
+        const delBtn = card.querySelector('.hl-card-del');
+        delBtn.addEventListener('click', (e) => {
+          e.stopPropagation();
+          deleteHighlight(idx);
+        });
+        hlDrawerList.appendChild(card);
+      });
+    }
+
+    function deleteHighlight(idx) {
+      const removed = userHighlights.splice(idx, 1)[0];
+      saveHighlights();
+      // Re-apply highlights on DOM
+      applyAllHighlightsToDOM();
+    }
+
+    if (hlClearAll) {
+      hlClearAll.addEventListener('click', () => {
+        if (confirm('確定要清空本書的所有劃線標記嗎？')) {
+          userHighlights = [];
+          saveHighlights();
+          applyAllHighlightsToDOM();
+        }
+      });
+    }
+
+    function applyAllHighlightsToDOM() {
+      // First restore clean text
+      rawParagraphs.forEach(item => {
+        item.el.innerHTML = item.rawHtml;
+      });
+      // Apply each highlight
+      userHighlights.forEach((hl, hlIdx) => {
+        const pEl = document.getElementById(hl.pId);
+        if (!pEl) return;
+        const text = hl.text;
+        if (!text) return;
+        const currentHtml = pEl.innerHTML;
+        // Search escaped text
+        const regex = new RegExp(`(${escapeRegex(text)})`, 'g');
+        if (regex.test(currentHtml)) {
+          pEl.innerHTML = currentHtml.replace(regex, `<mark class="user-hl color-${hl.color || 'yellow'}" data-hl-idx="${hlIdx}">$1</mark>`);
+        }
+      });
+      // Rebind click to delete or show mark
+      document.querySelectorAll('mark.user-hl').forEach(m => {
+        m.addEventListener('click', (e) => {
+          e.stopPropagation();
+          const idx = parseInt(m.getAttribute('data-hl-idx'), 10);
+          if (!isNaN(idx) && confirm(`要刪除這段劃線標記嗎？
+"${userHighlights[idx]?.text.slice(0, 40)}..."`)) {
+            deleteHighlight(idx);
+          }
+        });
+      });
+    }
+
+    // Text selection detection
+    let currentSelectionRange = null;
+    let selectedText = '';
+    let selectedPId = '';
+    let selectedSecTime = '';
+
+    function handleSelectionChange() {
+      const sel = window.getSelection();
+      if (!sel || sel.isCollapsed || !sel.rangeCount) {
+        selPopup.classList.remove('active');
+        return;
+      }
+      const text = sel.toString().trim();
+      if (text.length < 2) {
+        selPopup.classList.remove('active');
+        return;
+      }
+
+      // Check if selection is within section-body p
+      const range = sel.getRangeAt(0);
+      const containerP = range.commonAncestorContainer.nodeType === 1 
+        ? range.commonAncestorContainer.closest('.section-body p')
+        : range.commonAncestorContainer.parentElement.closest('.section-body p');
+
+      if (!containerP) {
+        selPopup.classList.remove('active');
+        return;
+      }
+
+      currentSelectionRange = range;
+      selectedText = text;
+      selectedPId = containerP.id;
+      const sec = containerP.closest('.transcript-section');
+      selectedSecTime = sec ? (sec.querySelector('.section-time')?.textContent || '') : '';
+
+      const rect = range.getBoundingClientRect();
+      const popupX = rect.left + rect.width / 2;
+      const popupY = rect.top + window.scrollY - 10;
+
+      selPopup.style.left = `${popupX}px`;
+      selPopup.style.top = `${popupY}px`;
+      selPopup.classList.add('active');
+    }
+
+    document.addEventListener('mouseup', () => {
+      setTimeout(handleSelectionChange, 50);
+    });
+    document.addEventListener('touchend', () => {
+      setTimeout(handleSelectionChange, 150);
+    });
+
+    document.querySelectorAll('.color-dot-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        const color = btn.getAttribute('data-color') || 'yellow';
+        if (selectedText && selectedPId) {
+          userHighlights.push({
+            pId: selectedPId,
+            time: selectedSecTime,
+            text: selectedText,
+            color: color,
+            createdAt: Date.now()
+          });
+          saveHighlights();
+          applyAllHighlightsToDOM();
+          selPopup.classList.remove('active');
+          window.getSelection()?.removeAllRanges();
+        }
+      });
+    });
+
+    // Close popup on outside click
+    document.addEventListener('mousedown', (e) => {
+      if (!selPopup.contains(e.target)) {
+        selPopup.classList.remove('active');
+      }
+    });
+
+    // Drawer toggle
+    function toggleHlDrawer() {
+      searchDrawer.classList.remove('active');
+      const isOpen = hlDrawer.classList.toggle('active');
+      if (isOpen) renderHighlightsDrawer();
+    }
+    if (hlToggleBtn) hlToggleBtn.addEventListener('click', toggleHlDrawer);
+    if (floatHlBtn) floatHlBtn.addEventListener('click', toggleHlDrawer);
+    if (hlDrawerClose) hlDrawerClose.addEventListener('click', () => hlDrawer.classList.remove('active'));
+
     // Cache original innerHTML for clean resets
     const rawParagraphs = Array.from(document.querySelectorAll('.section-body p')).map(p => ({
       el: p,
@@ -936,6 +1325,9 @@
       rawParagraphs.forEach(item => {
         item.el.innerHTML = item.rawHtml;
       });
+      if (typeof applyAllHighlightsToDOM === 'function') {
+        applyAllHighlightsToDOM();
+      }
     }
 
     function escapeRegex(str) {
