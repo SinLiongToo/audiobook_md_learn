@@ -309,34 +309,48 @@
       z-index: 950;
       background: var(--bg-surface);
       border: 1px solid var(--border-color);
-      box-shadow: 0 10px 25px rgba(0,0,0,0.22);
+      box-shadow: 0 10px 28px rgba(0,0,0,0.25);
       border-radius: 30px;
-      padding: 5px 8px;
+      padding: 6px 10px;
       align-items: center;
-      gap: 6px;
+      gap: 10px;
       animation: popIn 0.15s ease-out;
       transform: translate(-50%, -100%);
-      margin-top: -8px;
+      margin-top: -12px;
+      touch-action: manipulation;
     }
     @keyframes popIn {
-      from { opacity: 0; transform: translate(-50%, -90%) scale(0.95); }
+      from { opacity: 0; transform: translate(-50%, -85%) scale(0.92); }
       to { opacity: 1; transform: translate(-50%, -100%) scale(1); }
     }
     .selection-popup.active { display: flex; }
     .color-dot-btn {
-      width: 24px;
-      height: 24px;
+      width: 32px;
+      height: 32px;
+      min-width: 32px;
       border-radius: 50%;
       border: 2px solid #ffffff;
       cursor: pointer;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+      box-shadow: 0 1px 4px rgba(0,0,0,0.25);
       transition: transform 0.15s;
+      touch-action: manipulation;
     }
-    .color-dot-btn:hover { transform: scale(1.18); }
+    .color-dot-btn:hover, .color-dot-btn:active { transform: scale(1.22); }
     .color-dot-yellow { background-color: #facc15; }
     .color-dot-green { background-color: #4ade80; }
     .color-dot-blue { background-color: #60a5fa; }
     .color-dot-pink { background-color: #f472b6; }
+    .popup-close-btn {
+      background: none;
+      border: none;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-size: 15px;
+      padding: 0 4px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
 
     /* Highlights Drawer */
     .hl-drawer {
@@ -372,7 +386,7 @@
       gap: 8px;
     }
     .hl-card {
-      padding: 10px 12px;
+      padding: 12px 14px;
       border-radius: 8px;
       border: 1px solid var(--border-color);
       background: var(--bg-primary);
@@ -381,7 +395,7 @@
       line-height: 1.5;
       position: relative;
       transition: all 0.15s;
-      border-left: 4px solid #facc15;
+      border-left: 5px solid #facc15;
     }
     .hl-card.color-green { border-left-color: #22c55e; }
     .hl-card.color-blue { border-left-color: #3b82f6; }
@@ -391,29 +405,45 @@
       background: var(--accent-light);
     }
     .hl-card-time {
-      font-size: 11.5px;
+      font-size: 12px;
       font-weight: 700;
       color: var(--accent-color);
-      margin-bottom: 4px;
+      margin-bottom: 6px;
       font-family: monospace;
       display: flex;
       justify-content: space-between;
+      align-items: center;
     }
     .hl-card-del {
-      background: none;
-      border: none;
-      color: var(--text-muted);
+      background: rgba(239, 68, 68, 0.1);
+      border: 1px solid rgba(239, 68, 68, 0.25);
+      color: #ef4444;
       cursor: pointer;
       font-size: 13px;
-      padding: 0 4px;
+      padding: 4px 10px;
+      border-radius: 6px;
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      touch-action: manipulation;
     }
-    .hl-card-del:hover { color: #ef4444; }
+    .hl-card-del:hover, .hl-card-del:active {
+      background: #ef4444;
+      color: #ffffff;
+    }
 
     @media (max-width: 992px) {
       .hl-drawer {
-        left: 20px;
-        right: 20px;
+        left: 14px;
+        right: 14px;
         width: auto;
+        top: 70px;
+        max-height: calc(100vh - 90px);
+      }
+      .color-dot-btn {
+        width: 36px;
+        height: 36px;
+        min-width: 36px;
       }
     }
 
@@ -775,6 +805,7 @@
     <button class="color-dot-btn color-dot-green" data-color="green" title="綠色劃線"></button>
     <button class="color-dot-btn color-dot-blue" data-color="blue" title="藍色劃線"></button>
     <button class="color-dot-btn color-dot-pink" data-color="pink" title="粉色劃線"></button>
+    <button class="popup-close-btn" id="popup-close-btn" title="關閉">✕</button>
   </div>
 
   <!-- User Highlights Drawer -->
@@ -2789,8 +2820,6 @@
       localStorage.setItem('reader-font-size', size);
     }
     applyFontSize(currentFontSize);
-    applyAllHighlightsToDOM();
-    renderHighlightsDrawer();
 
     document.getElementById('font-dec-btn').addEventListener('click', () => applyFontSize(currentFontSize - 1));
     document.getElementById('font-inc-btn').addEventListener('click', () => applyFontSize(currentFontSize + 1));
@@ -2889,6 +2918,13 @@
     let searchMatches = [];
     let currentMatchIdx = -1;
 
+    // Cache original innerHTML for clean resets
+    const rawParagraphs = Array.from(document.querySelectorAll('.section-body p')).map(p => ({
+      el: p,
+      rawHtml: p.innerHTML,
+      rawText: p.textContent
+    }));
+
     // ==========================================
     // USER HIGHLIGHT SYSTEM (LOCALSTORAGE PERSISTED)
     // ==========================================
@@ -2906,6 +2942,7 @@
     const hlDrawerClose = document.getElementById('hl-drawer-close');
     const hlClearAll = document.getElementById('hl-clear-all');
     const selPopup = document.getElementById('selection-popup');
+    const popupCloseBtn = document.getElementById('popup-close-btn');
 
     function updateHlBadge() {
       if (hlBadge) hlBadge.textContent = userHighlights.length;
@@ -2933,15 +2970,16 @@
         card.innerHTML = `
           <div class="hl-card-time">
             <span>⏱️ ${item.time || '章節記錄'}</span>
-            <button class="hl-card-del" title="刪除此劃線" data-idx="${idx}">✕</button>
+            <button class="hl-card-del" title="刪除此劃線" data-idx="${idx}">🗑️ 刪除</button>
           </div>
-          <div style="color: var(--text-primary);">${item.text}</div>
+          <div style="color: var(--text-primary); font-size: 14px;">${item.text}</div>
         `;
         card.addEventListener('click', (e) => {
-          if (e.target.classList.contains('hl-card-del')) return;
+          if (e.target.closest('.hl-card-del')) return;
           // Jump to paragraph
           const targetP = document.getElementById(item.pId);
           if (targetP) {
+            if (window.innerWidth <= 992) hlDrawer.classList.remove('active');
             targetP.scrollIntoView({ behavior: 'smooth', block: 'center' });
             targetP.style.transition = 'outline 0.3s';
             targetP.style.outline = '3px solid var(--accent-color)';
@@ -2949,32 +2987,39 @@
           }
         });
         const delBtn = card.querySelector('.hl-card-del');
-        delBtn.addEventListener('click', (e) => {
+        const handleDel = (e) => {
           e.stopPropagation();
+          e.preventDefault();
           deleteHighlight(idx);
-        });
+        };
+        delBtn.addEventListener('click', handleDel);
+        delBtn.addEventListener('touchend', handleDel);
         hlDrawerList.appendChild(card);
       });
     }
 
     function deleteHighlight(idx) {
-      const removed = userHighlights.splice(idx, 1)[0];
+      userHighlights.splice(idx, 1);
       saveHighlights();
-      // Re-apply highlights on DOM
       applyAllHighlightsToDOM();
     }
 
     if (hlClearAll) {
-      hlClearAll.addEventListener('click', () => {
+      const handleClearAll = (e) => {
+        e.preventDefault();
+        e.stopPropagation();
         if (confirm('確定要清空本書的所有劃線標記嗎？')) {
           userHighlights = [];
           saveHighlights();
           applyAllHighlightsToDOM();
         }
-      });
+      };
+      hlClearAll.addEventListener('click', handleClearAll);
+      hlClearAll.addEventListener('touchend', handleClearAll);
     }
 
     function applyAllHighlightsToDOM() {
+      if (typeof rawParagraphs === 'undefined' || !rawParagraphs) return;
       // First restore clean text
       rawParagraphs.forEach(item => {
         item.el.innerHTML = item.rawHtml;
@@ -3014,12 +3059,10 @@
     function handleSelectionChange() {
       const sel = window.getSelection();
       if (!sel || sel.isCollapsed || !sel.rangeCount) {
-        selPopup.classList.remove('active');
         return;
       }
       const text = sel.toString().trim();
       if (text.length < 2) {
-        selPopup.classList.remove('active');
         return;
       }
 
@@ -3030,7 +3073,6 @@
         : range.commonAncestorContainer.parentElement.closest('.section-body p');
 
       if (!containerP) {
-        selPopup.classList.remove('active');
         return;
       }
 
@@ -3041,7 +3083,9 @@
       selectedSecTime = sec ? (sec.querySelector('.section-time')?.textContent || '') : '';
 
       const rect = range.getBoundingClientRect();
-      const popupX = rect.left + rect.width / 2;
+      const popupWidth = 200;
+      let popupX = rect.left + rect.width / 2;
+      popupX = Math.max(popupWidth / 2 + 10, Math.min(window.innerWidth - popupWidth / 2 - 10, popupX));
       const popupY = rect.top + window.scrollY - 10;
 
       selPopup.style.left = `${popupX}px`;
@@ -3049,35 +3093,64 @@
       selPopup.classList.add('active');
     }
 
+    document.addEventListener('selectionchange', () => {
+      const sel = window.getSelection();
+      if (!sel || sel.isCollapsed) {
+        // Don't close immediately if active to allow tapping color dots on mobile
+      }
+    });
+
     document.addEventListener('mouseup', () => {
-      setTimeout(handleSelectionChange, 50);
+      setTimeout(handleSelectionChange, 60);
     });
     document.addEventListener('touchend', () => {
-      setTimeout(handleSelectionChange, 150);
+      setTimeout(handleSelectionChange, 180);
     });
+
+    function doHighlightColor(color) {
+      if (selectedText && selectedPId) {
+        userHighlights.push({
+          pId: selectedPId,
+          time: selectedSecTime,
+          text: selectedText,
+          color: color,
+          createdAt: Date.now()
+        });
+        saveHighlights();
+        applyAllHighlightsToDOM();
+        selPopup.classList.remove('active');
+        selectedText = '';
+        selectedPId = '';
+        try {
+          window.getSelection()?.removeAllRanges();
+        } catch(e) {}
+      }
+    }
 
     document.querySelectorAll('.color-dot-btn').forEach(btn => {
-      btn.addEventListener('click', (e) => {
+      const trigger = (e) => {
         e.stopPropagation();
+        e.preventDefault();
         const color = btn.getAttribute('data-color') || 'yellow';
-        if (selectedText && selectedPId) {
-          userHighlights.push({
-            pId: selectedPId,
-            time: selectedSecTime,
-            text: selectedText,
-            color: color,
-            createdAt: Date.now()
-          });
-          saveHighlights();
-          applyAllHighlightsToDOM();
-          selPopup.classList.remove('active');
-          window.getSelection()?.removeAllRanges();
-        }
-      });
+        doHighlightColor(color);
+      };
+      btn.addEventListener('click', trigger);
+      btn.addEventListener('touchend', trigger);
     });
 
+    if (popupCloseBtn) {
+      const closePopup = (e) => {
+        e.stopPropagation();
+        e.preventDefault();
+        selPopup.classList.remove('active');
+        selectedText = '';
+      };
+      popupCloseBtn.addEventListener('click', closePopup);
+      popupCloseBtn.addEventListener('touchend', closePopup);
+    }
+
     // Close popup on outside click
-    document.addEventListener('mousedown', (e) => {
+    document.addEventListener('pointerdown', (e) => {
       if (!selPopup.contains(e.target)) {
         selPopup.classList.remove('active');
       }
@@ -3093,12 +3166,7 @@
     if (floatHlBtn) floatHlBtn.addEventListener('click', toggleHlDrawer);
     if (hlDrawerClose) hlDrawerClose.addEventListener('click', () => hlDrawer.classList.remove('active'));
 
-    // Cache original innerHTML for clean resets
-    const rawParagraphs = Array.from(document.querySelectorAll('.section-body p')).map(p => ({
-      el: p,
-      rawHtml: p.innerHTML,
-      rawText: p.textContent
-    }));
+    
 
     function openSearch() {
       searchBar.classList.add('active');
@@ -3266,6 +3334,10 @@
 
     searchCloseBtn.addEventListener('click', closeSearch);
     drawerCloseBtn.addEventListener('click', () => searchDrawer.classList.remove('active'));
+
+    // Initial render of highlights
+    applyAllHighlightsToDOM();
+    renderHighlightsDrawer();
 
     window.addEventListener('keydown', (e) => {
       if ((e.ctrlKey || e.metaKey) && e.key.toLowerCase() === 'f') {
