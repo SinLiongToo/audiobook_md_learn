@@ -316,11 +316,198 @@
 
     #graph-canvas {
       width: 100%;
-      height: 720px;
+      height: 700px;
       border-radius: 10px;
       background: var(--bg-primary);
       cursor: grab;
       display: block;
+      touch-action: none;
+      -webkit-user-select: none;
+      user-select: none;
+    }
+
+    /* Dual Mode Switcher: [🕸️ 視覺畫布拓撲] [📋 知識主題清單] */
+    .graph-view-tabs {
+      display: flex;
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      padding: 4px;
+      gap: 6px;
+      margin-bottom: 16px;
+      width: fit-content;
+      box-shadow: var(--card-shadow);
+    }
+    .view-tab-btn {
+      padding: 8px 16px;
+      border: none;
+      background: none;
+      border-radius: 8px;
+      font-size: 14px;
+      font-weight: 700;
+      color: var(--text-secondary);
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.2s;
+    }
+    .view-tab-btn:hover { color: var(--accent-color); }
+    .view-tab-btn.active {
+      background: var(--accent-color);
+      color: #ffffff;
+      box-shadow: 0 2px 8px rgba(37, 99, 235, 0.25);
+    }
+
+    /* Mode 2: Mobile-First Thematic Cards Matrix */
+    .matrix-toolbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 16px;
+      flex-wrap: wrap;
+    }
+    .matrix-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
+      gap: 16px;
+    }
+    .matrix-card {
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 14px;
+      padding: 18px;
+      box-shadow: var(--card-shadow);
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
+    }
+    .matrix-card:hover {
+      transform: translateY(-2px);
+      box-shadow: var(--card-hover-shadow);
+      border-color: var(--accent-color);
+    }
+    .matrix-theme-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 8px;
+    }
+    .matrix-theme-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 4px 10px;
+      border-radius: 20px;
+      font-size: 13px;
+      font-weight: 700;
+      background: var(--accent-light);
+      color: var(--accent-color);
+    }
+    .matrix-books-pair {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      padding: 12px;
+      background: var(--bg-primary);
+      border-radius: 10px;
+      border: 1px solid var(--border-color);
+    }
+    .matrix-book-item {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      text-decoration: none;
+      color: inherit;
+    }
+    .matrix-book-title {
+      font-size: 13.5px;
+      font-weight: 600;
+      color: var(--text-primary);
+      flex: 1;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .matrix-book-item:hover .matrix-book-title { color: var(--accent-color); }
+
+    /* Responsive Mobile Rules */
+    @media (max-width: 768px) {
+      .graph-view-tabs {
+        width: 100%;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+      }
+      .view-tab-btn {
+        justify-content: center;
+        padding: 8px 10px;
+        font-size: 13px;
+      }
+      .graph-container {
+        padding: 10px;
+      }
+      #graph-canvas {
+        height: 520px;
+      }
+      .graph-toolbar {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 8px;
+      }
+      .graph-search-input {
+        width: 100%;
+      }
+      .graph-controls {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 6px;
+        width: 100%;
+      }
+      .graph-controls .graph-btn {
+        flex: 1;
+        min-height: 42px;
+        justify-content: center;
+        padding: 6px 4px;
+        font-size: 12px;
+      }
+      #graph-fit-all {
+        flex-basis: 100%;
+      }
+      /* Mobile bottom sheet for graph node detail */
+      .graph-info-card {
+        position: fixed !important;
+        left: 0 !important;
+        right: 0 !important;
+        bottom: 0 !important;
+        top: auto !important;
+        width: 100% !important;
+        max-height: 70vh !important;
+        border-radius: 20px 20px 0 0 !important;
+        border: none !important;
+        box-shadow: 0 -10px 35px rgba(0,0,0,0.3) !important;
+        z-index: 9999 !important;
+        padding: 20px !important;
+        overflow-y: auto !important;
+      }
+      /* Fullscreen canvas mode */
+      .graph-container.fullscreen {
+        position: fixed !important;
+        top: 0 !important;
+        left: 0 !important;
+        right: 0 !important;
+        bottom: 0 !important;
+        width: 100vw !important;
+        height: 100vh !important;
+        z-index: 99999 !important;
+        border-radius: 0 !important;
+        padding: 10px !important;
+      }
+      .graph-container.fullscreen #graph-canvas {
+        height: calc(100vh - 120px) !important;
+      }
     }
     #graph-canvas:active { cursor: grabbing; }
 
@@ -1696,9 +1883,16 @@
 
     <!-- TAB 2: CONNECTION GRAPH -->
     <section class="tab-pane" id="pane-graph">
-      <div class="graph-container">
+      <!-- Mode Switcher Pill: [🕸️ 視覺畫布拓撲] [📋 知識主題清單] -->
+      <div class="graph-view-tabs">
+        <button class="view-tab-btn active" id="view-mode-canvas" data-mode="canvas">🕸️ 互動拓撲圖譜 (Canvas)</button>
+        <button class="view-tab-btn" id="view-mode-matrix" data-mode="matrix">📋 知識關聯清單 (List & Cards)</button>
+      </div>
+
+      <!-- Mode 1: Interactive Canvas Container -->
+      <div class="graph-container" id="graph-canvas-container">
         <div class="graph-toolbar">
-          <div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
+          <div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center; flex: 1;">
             <input type="text" id="graph-search" class="graph-search-input" placeholder="🔍 搜尋節點書名...">
             <select id="graph-cat-filter" class="graph-btn">
               <option value="all">🌐 顯示全部分類</option>
@@ -1715,17 +1909,18 @@
             <button class="graph-btn" id="graph-fit-all" title="全景適應 (Fit All)" style="background: var(--accent-light); color: var(--accent-color); font-weight: 700;">🎯 全景適應 (Fit All)</button>
             <button class="graph-btn" id="graph-zoom-in" title="放大">➕</button>
             <button class="graph-btn" id="graph-zoom-out" title="縮小">➖</button>
+            <button class="graph-btn" id="graph-fullscreen" title="全螢幕模式 (Fullscreen)">⛶ 全螢幕</button>
             <button class="graph-btn" id="graph-reset" title="重設視圖">↺ 重設</button>
           </div>
         </div>
 
         <canvas id="graph-canvas"></canvas>
 
-        <!-- Graph Node Detail Card -->
+        <!-- Graph Node Detail Card (Desktop floating / Mobile bottom sheet) -->
         <div class="graph-info-card" id="graph-info-card">
           <div style="display: flex; justify-content: space-between; align-items: center;">
             <span class="graph-info-cat" id="gic-cat">分類</span>
-            <button class="graph-btn" id="gic-close" style="padding: 2px 8px;">✕</button>
+            <button class="graph-btn" id="gic-close" style="padding: 2px 10px; font-size: 16px;">✕</button>
           </div>
           <h3 class="graph-info-title" id="gic-title">書籍標題</h3>
           <div style="font-size: 13px; color: var(--text-muted);" id="gic-meta">時長 / 小節數</div>
@@ -1734,6 +1929,752 @@
             <div class="graph-info-links" id="gic-links"></div>
           </div>
           <a href="#" class="graph-open-btn" id="gic-open">📖 開啟電子書 (Open eBook)</a>
+        </div>
+      </div>
+
+      <!-- Mode 2: Mobile-First Thematic Cards Matrix View -->
+      <div class="graph-matrix-container" id="graph-matrix-container" style="display: none;">
+        <div class="matrix-toolbar">
+          <input type="text" id="matrix-search" class="search-input" placeholder="🔍 搜尋主題關鍵字或書名（例：複利、拖延、思考、反脆弱）...">
+          <div style="font-size: 13px; color: var(--text-muted);" id="matrix-stats">共收錄 36 組跨書知識關聯主題</div>
+        </div>
+        <div class="matrix-grid" id="matrix-grid">
+          
+        <div class="matrix-card" data-search="複利成長與微習慣 Atomic Habits full audiobook by James Clear The Power of Consistency  The Compound Effect by Darren Hardy   Full Audiobook">
+          <div class="matrix-theme-header">
+            <span class="matrix-theme-badge">🔗 複利成長與微習慣</span>
+            <span style="font-size: 12px; color: var(--text-muted);">跨領域關聯</span>
+          </div>
+          <div class="matrix-books-pair">
+            <a href="Atomic Habits full audiobook by James Clear.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #3b82f622; color: #3b82f6; font-size: 11px;">習慣與生產力</span>
+              <span class="matrix-book-title" title="Atomic Habits full audiobook by James Clear">📖 Atomic Habits full audiobook by James Clear</span>
+            </a>
+            <div style="text-align: center; font-size: 13px; color: var(--accent-color); font-weight: bold;">⇅ 深度概念鏈結</div>
+            <a href="The Power of Consistency  The Compound Effect by Darren Hardy   Full Audiobook.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #3b82f622; color: #3b82f6; font-size: 11px;">習慣與生產力</span>
+              <span class="matrix-book-title" title="The Power of Consistency  The Compound Effect by Darren Hardy   Full Audiobook">📖 The Power of Consistency  The Compound Effect by Darren Hardy   Full Audiobook</span>
+            </a>
+          </div>
+          <div style="display: flex; gap: 8px;">
+            <a href="Atomic Habits full audiobook by James Clear.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px;">閱讀 前書</a>
+            <a href="The Power of Consistency  The Compound Effect by Darren Hardy   Full Audiobook.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px; background: var(--bg-surface); color: var(--accent-color); border: 1px solid var(--accent-color);">閱讀 後書</a>
+          </div>
+        </div>
+        
+
+        <div class="matrix-card" data-search="專注深度與減法工作 Atomic Habits full audiobook by James Clear Audiobook_ Deep work by Cal Newport">
+          <div class="matrix-theme-header">
+            <span class="matrix-theme-badge">🔗 專注深度與減法工作</span>
+            <span style="font-size: 12px; color: var(--text-muted);">跨領域關聯</span>
+          </div>
+          <div class="matrix-books-pair">
+            <a href="Atomic Habits full audiobook by James Clear.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #3b82f622; color: #3b82f6; font-size: 11px;">習慣與生產力</span>
+              <span class="matrix-book-title" title="Atomic Habits full audiobook by James Clear">📖 Atomic Habits full audiobook by James Clear</span>
+            </a>
+            <div style="text-align: center; font-size: 13px; color: var(--accent-color); font-weight: bold;">⇅ 深度概念鏈結</div>
+            <a href="Audiobook_ Deep work by Cal Newport.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #3b82f622; color: #3b82f6; font-size: 11px;">習慣與生產力</span>
+              <span class="matrix-book-title" title="Audiobook_ Deep work by Cal Newport">📖 Audiobook_ Deep work by Cal Newport</span>
+            </a>
+          </div>
+          <div style="display: flex; gap: 8px;">
+            <a href="Atomic Habits full audiobook by James Clear.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px;">閱讀 前書</a>
+            <a href="Audiobook_ Deep work by Cal Newport.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px; background: var(--bg-surface); color: var(--accent-color); border: 1px solid var(--accent-color);">閱讀 後書</a>
+          </div>
+        </div>
+        
+
+        <div class="matrix-card" data-search="精準本質主義 Essentialism by Greg McKeown (Audiobook) w Read-through Effortless_ Audiobook Make It Easier to Do What Matters Most by Greg McKeown">
+          <div class="matrix-theme-header">
+            <span class="matrix-theme-badge">🔗 精準本質主義</span>
+            <span style="font-size: 12px; color: var(--text-muted);">跨領域關聯</span>
+          </div>
+          <div class="matrix-books-pair">
+            <a href="Essentialism by Greg McKeown (Audiobook) w Read-through.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #3b82f622; color: #3b82f6; font-size: 11px;">習慣與生產力</span>
+              <span class="matrix-book-title" title="Essentialism by Greg McKeown (Audiobook) w Read-through">📖 Essentialism by Greg McKeown (Audiobook) w Read-through</span>
+            </a>
+            <div style="text-align: center; font-size: 13px; color: var(--accent-color); font-weight: bold;">⇅ 深度概念鏈結</div>
+            <a href="Effortless_ Audiobook Make It Easier to Do What Matters Most by Greg McKeown.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #3b82f622; color: #3b82f6; font-size: 11px;">習慣與生產力</span>
+              <span class="matrix-book-title" title="Effortless_ Audiobook Make It Easier to Do What Matters Most by Greg McKeown">📖 Effortless_ Audiobook Make It Easier to Do What Matters Most by Greg McKeown</span>
+            </a>
+          </div>
+          <div style="display: flex; gap: 8px;">
+            <a href="Essentialism by Greg McKeown (Audiobook) w Read-through.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px;">閱讀 前書</a>
+            <a href="Effortless_ Audiobook Make It Easier to Do What Matters Most by Greg McKeown.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px; background: var(--bg-surface); color: var(--accent-color); border: 1px solid var(--accent-color);">閱讀 後書</a>
+          </div>
+        </div>
+        
+
+        <div class="matrix-card" data-search="個人知識與第二大腦 Audiobook_ Deep work by Cal Newport Building a Second Brain by Tiago Forte  Audiobook">
+          <div class="matrix-theme-header">
+            <span class="matrix-theme-badge">🔗 個人知識與第二大腦</span>
+            <span style="font-size: 12px; color: var(--text-muted);">跨領域關聯</span>
+          </div>
+          <div class="matrix-books-pair">
+            <a href="Audiobook_ Deep work by Cal Newport.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #3b82f622; color: #3b82f6; font-size: 11px;">習慣與生產力</span>
+              <span class="matrix-book-title" title="Audiobook_ Deep work by Cal Newport">📖 Audiobook_ Deep work by Cal Newport</span>
+            </a>
+            <div style="text-align: center; font-size: 13px; color: var(--accent-color); font-weight: bold;">⇅ 深度概念鏈結</div>
+            <a href="Building a Second Brain by Tiago Forte  Audiobook.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #3b82f622; color: #3b82f6; font-size: 11px;">習慣與生產力</span>
+              <span class="matrix-book-title" title="Building a Second Brain by Tiago Forte  Audiobook">📖 Building a Second Brain by Tiago Forte  Audiobook</span>
+            </a>
+          </div>
+          <div style="display: flex; gap: 8px;">
+            <a href="Audiobook_ Deep work by Cal Newport.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px;">閱讀 前書</a>
+            <a href="Building a Second Brain by Tiago Forte  Audiobook.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px; background: var(--bg-surface); color: var(--accent-color); border: 1px solid var(--accent-color);">閱讀 後書</a>
+          </div>
+        </div>
+        
+
+        <div class="matrix-card" data-search="克服拖延與行動力 Eat That Frog! by Brian Tracy   Full Audiobook Do It Today - by Darius Foroux (Full AudioBook) _ Change your life Today!">
+          <div class="matrix-theme-header">
+            <span class="matrix-theme-badge">🔗 克服拖延與行動力</span>
+            <span style="font-size: 12px; color: var(--text-muted);">跨領域關聯</span>
+          </div>
+          <div class="matrix-books-pair">
+            <a href="Eat That Frog! by Brian Tracy   Full Audiobook.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #3b82f622; color: #3b82f6; font-size: 11px;">習慣與生產力</span>
+              <span class="matrix-book-title" title="Eat That Frog! by Brian Tracy   Full Audiobook">📖 Eat That Frog! by Brian Tracy   Full Audiobook</span>
+            </a>
+            <div style="text-align: center; font-size: 13px; color: var(--accent-color); font-weight: bold;">⇅ 深度概念鏈結</div>
+            <a href="Do It Today - by Darius Foroux (Full AudioBook) _ Change your life Today!.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #3b82f622; color: #3b82f6; font-size: 11px;">習慣與生產力</span>
+              <span class="matrix-book-title" title="Do It Today - by Darius Foroux (Full AudioBook) _ Change your life Today!">📖 Do It Today - by Darius Foroux (Full AudioBook) _ Change your life Today!</span>
+            </a>
+          </div>
+          <div style="display: flex; gap: 8px;">
+            <a href="Eat That Frog! by Brian Tracy   Full Audiobook.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px;">閱讀 前書</a>
+            <a href="Do It Today - by Darius Foroux (Full AudioBook) _ Change your life Today!.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px; background: var(--bg-surface); color: var(--accent-color); border: 1px solid var(--accent-color);">閱讀 後書</a>
+          </div>
+        </div>
+        
+
+        <div class="matrix-card" data-search="克服拖延與行動力 Do It Today - by Darius Foroux (Full AudioBook) _ Change your life Today! The Art Of Laziness_ Overcome Procrastination by Library Mindset _ Full Audiobook 🎧">
+          <div class="matrix-theme-header">
+            <span class="matrix-theme-badge">🔗 克服拖延與行動力</span>
+            <span style="font-size: 12px; color: var(--text-muted);">跨領域關聯</span>
+          </div>
+          <div class="matrix-books-pair">
+            <a href="Do It Today - by Darius Foroux (Full AudioBook) _ Change your life Today!.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #3b82f622; color: #3b82f6; font-size: 11px;">習慣與生產力</span>
+              <span class="matrix-book-title" title="Do It Today - by Darius Foroux (Full AudioBook) _ Change your life Today!">📖 Do It Today - by Darius Foroux (Full AudioBook) _ Change your life Today!</span>
+            </a>
+            <div style="text-align: center; font-size: 13px; color: var(--accent-color); font-weight: bold;">⇅ 深度概念鏈結</div>
+            <a href="The Art Of Laziness_ Overcome Procrastination by Library Mindset _ Full Audiobook 🎧.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #3b82f622; color: #3b82f6; font-size: 11px;">習慣與生產力</span>
+              <span class="matrix-book-title" title="The Art Of Laziness_ Overcome Procrastination by Library Mindset _ Full Audiobook 🎧">📖 The Art Of Laziness_ Overcome Procrastination by Library Mindset _ Full Audiobook 🎧</span>
+            </a>
+          </div>
+          <div style="display: flex; gap: 8px;">
+            <a href="Do It Today - by Darius Foroux (Full AudioBook) _ Change your life Today!.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px;">閱讀 前書</a>
+            <a href="The Art Of Laziness_ Overcome Procrastination by Library Mindset _ Full Audiobook 🎧.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px; background: var(--bg-surface); color: var(--accent-color); border: 1px solid var(--accent-color);">閱讀 後書</a>
+          </div>
+        </div>
+        
+
+        <div class="matrix-card" data-search="人性行為與金錢心理 The Psychology of Money by Morgan Housel - Audiobook (mp3cut.net) 下 Poor Charlie’s Almanack_ The Essential Wit and Wisdom of Charles T. Munger (FULL AUDIOBOOK  PT 1)">
+          <div class="matrix-theme-header">
+            <span class="matrix-theme-badge">🔗 人性行為與金錢心理</span>
+            <span style="font-size: 12px; color: var(--text-muted);">跨領域關聯</span>
+          </div>
+          <div class="matrix-books-pair">
+            <a href="The Psychology of Money by Morgan Housel - Audiobook (mp3cut.net) 下.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #10b98122; color: #10b981; font-size: 11px;">財富與投資</span>
+              <span class="matrix-book-title" title="The Psychology of Money by Morgan Housel - Audiobook (mp3cut.net) 下">📖 The Psychology of Money by Morgan Housel - Audiobook (mp3cut.net) 下</span>
+            </a>
+            <div style="text-align: center; font-size: 13px; color: var(--accent-color); font-weight: bold;">⇅ 深度概念鏈結</div>
+            <a href="Poor Charlie’s Almanack_ The Essential Wit and Wisdom of Charles T. Munger (FULL AUDIOBOOK  PT 1).html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #10b98122; color: #10b981; font-size: 11px;">財富與投資</span>
+              <span class="matrix-book-title" title="Poor Charlie’s Almanack_ The Essential Wit and Wisdom of Charles T. Munger (FULL AUDIOBOOK  PT 1)">📖 Poor Charlie’s Almanack_ The Essential Wit and Wisdom of Charles T. Munger (FULL AUDIOBOOK  PT 1)</span>
+            </a>
+          </div>
+          <div style="display: flex; gap: 8px;">
+            <a href="The Psychology of Money by Morgan Housel - Audiobook (mp3cut.net) 下.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px;">閱讀 前書</a>
+            <a href="Poor Charlie’s Almanack_ The Essential Wit and Wisdom of Charles T. Munger (FULL AUDIOBOOK  PT 1).html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px; background: var(--bg-surface); color: var(--accent-color); border: 1px solid var(--accent-color);">閱讀 後書</a>
+          </div>
+        </div>
+        
+
+        <div class="matrix-card" data-search="價值投資核心哲學 Poor Charlie’s Almanack_ The Essential Wit and Wisdom of Charles T. Munger (FULL AUDIOBOOK  PT 1) The Warren Buffett Portfolio_ Mastering the Power of the Focus Investment Strategy _ full audiobook">
+          <div class="matrix-theme-header">
+            <span class="matrix-theme-badge">🔗 價值投資核心哲學</span>
+            <span style="font-size: 12px; color: var(--text-muted);">跨領域關聯</span>
+          </div>
+          <div class="matrix-books-pair">
+            <a href="Poor Charlie’s Almanack_ The Essential Wit and Wisdom of Charles T. Munger (FULL AUDIOBOOK  PT 1).html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #10b98122; color: #10b981; font-size: 11px;">財富與投資</span>
+              <span class="matrix-book-title" title="Poor Charlie’s Almanack_ The Essential Wit and Wisdom of Charles T. Munger (FULL AUDIOBOOK  PT 1)">📖 Poor Charlie’s Almanack_ The Essential Wit and Wisdom of Charles T. Munger (FULL AUDIOBOOK  PT 1)</span>
+            </a>
+            <div style="text-align: center; font-size: 13px; color: var(--accent-color); font-weight: bold;">⇅ 深度概念鏈結</div>
+            <a href="The Warren Buffett Portfolio_ Mastering the Power of the Focus Investment Strategy _ full audiobook.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #10b98122; color: #10b981; font-size: 11px;">財富與投資</span>
+              <span class="matrix-book-title" title="The Warren Buffett Portfolio_ Mastering the Power of the Focus Investment Strategy _ full audiobook">📖 The Warren Buffett Portfolio_ Mastering the Power of the Focus Investment Strategy _ full audiobook</span>
+            </a>
+          </div>
+          <div style="display: flex; gap: 8px;">
+            <a href="Poor Charlie’s Almanack_ The Essential Wit and Wisdom of Charles T. Munger (FULL AUDIOBOOK  PT 1).html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px;">閱讀 前書</a>
+            <a href="The Warren Buffett Portfolio_ Mastering the Power of the Focus Investment Strategy _ full audiobook.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px; background: var(--bg-surface); color: var(--accent-color); border: 1px solid var(--accent-color);">閱讀 後書</a>
+          </div>
+        </div>
+        
+
+        <div class="matrix-card" data-search="長期主義與不變真理 The Psychology of Money by Morgan Housel - Audiobook (mp3cut.net) 下 🌟Part- 13 FULL AUDIOBOOK -  Same As Ever by Morgan Housel🌟">
+          <div class="matrix-theme-header">
+            <span class="matrix-theme-badge">🔗 長期主義與不變真理</span>
+            <span style="font-size: 12px; color: var(--text-muted);">跨領域關聯</span>
+          </div>
+          <div class="matrix-books-pair">
+            <a href="The Psychology of Money by Morgan Housel - Audiobook (mp3cut.net) 下.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #10b98122; color: #10b981; font-size: 11px;">財富與投資</span>
+              <span class="matrix-book-title" title="The Psychology of Money by Morgan Housel - Audiobook (mp3cut.net) 下">📖 The Psychology of Money by Morgan Housel - Audiobook (mp3cut.net) 下</span>
+            </a>
+            <div style="text-align: center; font-size: 13px; color: var(--accent-color); font-weight: bold;">⇅ 深度概念鏈結</div>
+            <a href="🌟Part- 13 FULL AUDIOBOOK -  Same As Ever by Morgan Housel🌟.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #10b98122; color: #10b981; font-size: 11px;">財富與投資</span>
+              <span class="matrix-book-title" title="🌟Part- 13 FULL AUDIOBOOK -  Same As Ever by Morgan Housel🌟">📖 🌟Part- 13 FULL AUDIOBOOK -  Same As Ever by Morgan Housel🌟</span>
+            </a>
+          </div>
+          <div style="display: flex; gap: 8px;">
+            <a href="The Psychology of Money by Morgan Housel - Audiobook (mp3cut.net) 下.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px;">閱讀 前書</a>
+            <a href="🌟Part- 13 FULL AUDIOBOOK -  Same As Ever by Morgan Housel🌟.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px; background: var(--bg-surface); color: var(--accent-color); border: 1px solid var(--accent-color);">閱讀 後書</a>
+          </div>
+        </div>
+        
+
+        <div class="matrix-card" data-search="投資決策與風險意識 The Most Important Thing_Uncommon Sense for the Thoughtful Investor by Howard Marks _ Full Audiobook The Psychology of Money by Morgan Housel - Audiobook (mp3cut.net) 下">
+          <div class="matrix-theme-header">
+            <span class="matrix-theme-badge">🔗 投資決策與風險意識</span>
+            <span style="font-size: 12px; color: var(--text-muted);">跨領域關聯</span>
+          </div>
+          <div class="matrix-books-pair">
+            <a href="The Most Important Thing_Uncommon Sense for the Thoughtful Investor by Howard Marks _ Full Audiobook.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #10b98122; color: #10b981; font-size: 11px;">財富與投資</span>
+              <span class="matrix-book-title" title="The Most Important Thing_Uncommon Sense for the Thoughtful Investor by Howard Marks _ Full Audiobook">📖 The Most Important Thing_Uncommon Sense for the Thoughtful Investor by Howard Marks _ Full Audiobook</span>
+            </a>
+            <div style="text-align: center; font-size: 13px; color: var(--accent-color); font-weight: bold;">⇅ 深度概念鏈結</div>
+            <a href="The Psychology of Money by Morgan Housel - Audiobook (mp3cut.net) 下.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #10b98122; color: #10b981; font-size: 11px;">財富與投資</span>
+              <span class="matrix-book-title" title="The Psychology of Money by Morgan Housel - Audiobook (mp3cut.net) 下">📖 The Psychology of Money by Morgan Housel - Audiobook (mp3cut.net) 下</span>
+            </a>
+          </div>
+          <div style="display: flex; gap: 8px;">
+            <a href="The Most Important Thing_Uncommon Sense for the Thoughtful Investor by Howard Marks _ Full Audiobook.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px;">閱讀 前書</a>
+            <a href="The Psychology of Money by Morgan Housel - Audiobook (mp3cut.net) 下.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px; background: var(--bg-surface); color: var(--accent-color); border: 1px solid var(--accent-color);">閱讀 後書</a>
+          </div>
+        </div>
+        
+
+        <div class="matrix-card" data-search="金錢與生命能量 Your Money Or Your Life AUDIOBOOK FULL by Vicki Robin and Joe Dominguez Die With Zero - Full Audiobook Sharing">
+          <div class="matrix-theme-header">
+            <span class="matrix-theme-badge">🔗 金錢與生命能量</span>
+            <span style="font-size: 12px; color: var(--text-muted);">跨領域關聯</span>
+          </div>
+          <div class="matrix-books-pair">
+            <a href="Your Money Or Your Life AUDIOBOOK FULL by Vicki Robin and Joe Dominguez.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #10b98122; color: #10b981; font-size: 11px;">財富與投資</span>
+              <span class="matrix-book-title" title="Your Money Or Your Life AUDIOBOOK FULL by Vicki Robin and Joe Dominguez">📖 Your Money Or Your Life AUDIOBOOK FULL by Vicki Robin and Joe Dominguez</span>
+            </a>
+            <div style="text-align: center; font-size: 13px; color: var(--accent-color); font-weight: bold;">⇅ 深度概念鏈結</div>
+            <a href="Die With Zero - Full Audiobook Sharing.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #10b98122; color: #10b981; font-size: 11px;">財富與投資</span>
+              <span class="matrix-book-title" title="Die With Zero - Full Audiobook Sharing">📖 Die With Zero - Full Audiobook Sharing</span>
+            </a>
+          </div>
+          <div style="display: flex; gap: 8px;">
+            <a href="Your Money Or Your Life AUDIOBOOK FULL by Vicki Robin and Joe Dominguez.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px;">閱讀 前書</a>
+            <a href="Die With Zero - Full Audiobook Sharing.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px; background: var(--bg-surface); color: var(--accent-color); border: 1px solid var(--accent-color);">閱讀 後書</a>
+          </div>
+        </div>
+        
+
+        <div class="matrix-card" data-search="創富與思考致富 Think And Grow Rich! (1937 - 1st Edition) by Napoleon Hill The Almanack of Naval Ravikant A Guide to Wealth and Happiness">
+          <div class="matrix-theme-header">
+            <span class="matrix-theme-badge">🔗 創富與思考致富</span>
+            <span style="font-size: 12px; color: var(--text-muted);">跨領域關聯</span>
+          </div>
+          <div class="matrix-books-pair">
+            <a href="Think And Grow Rich! (1937 - 1st Edition) by Napoleon Hill.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #10b98122; color: #10b981; font-size: 11px;">財富與投資</span>
+              <span class="matrix-book-title" title="Think And Grow Rich! (1937 - 1st Edition) by Napoleon Hill">📖 Think And Grow Rich! (1937 - 1st Edition) by Napoleon Hill</span>
+            </a>
+            <div style="text-align: center; font-size: 13px; color: var(--accent-color); font-weight: bold;">⇅ 深度概念鏈結</div>
+            <a href="The Almanack of Naval Ravikant A Guide to Wealth and Happiness.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #10b98122; color: #10b981; font-size: 11px;">財富與投資</span>
+              <span class="matrix-book-title" title="The Almanack of Naval Ravikant A Guide to Wealth and Happiness">📖 The Almanack of Naval Ravikant A Guide to Wealth and Happiness</span>
+            </a>
+          </div>
+          <div style="display: flex; gap: 8px;">
+            <a href="Think And Grow Rich! (1937 - 1st Edition) by Napoleon Hill.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px;">閱讀 前書</a>
+            <a href="The Almanack of Naval Ravikant A Guide to Wealth and Happiness.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px; background: var(--bg-surface); color: var(--accent-color); border: 1px solid var(--accent-color);">閱讀 後書</a>
+          </div>
+        </div>
+        
+
+        <div class="matrix-card" data-search="堅毅不拔與硬核行動 Nobody Cares, Work Harder. Discipline Equals Freedom Audiobook by Jocko Willink">
+          <div class="matrix-theme-header">
+            <span class="matrix-theme-badge">🔗 堅毅不拔與硬核行動</span>
+            <span style="font-size: 12px; color: var(--text-muted);">跨領域關聯</span>
+          </div>
+          <div class="matrix-books-pair">
+            <a href="Nobody Cares, Work Harder..html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #f9731622; color: #f97316; font-size: 11px;">意志與心態</span>
+              <span class="matrix-book-title" title="Nobody Cares, Work Harder.">📖 Nobody Cares, Work Harder.</span>
+            </a>
+            <div style="text-align: center; font-size: 13px; color: var(--accent-color); font-weight: bold;">⇅ 深度概念鏈結</div>
+            <a href="Discipline Equals Freedom Audiobook by Jocko Willink.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #f9731622; color: #f97316; font-size: 11px;">意志與心態</span>
+              <span class="matrix-book-title" title="Discipline Equals Freedom Audiobook by Jocko Willink">📖 Discipline Equals Freedom Audiobook by Jocko Willink</span>
+            </a>
+          </div>
+          <div style="display: flex; gap: 8px;">
+            <a href="Nobody Cares, Work Harder..html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px;">閱讀 前書</a>
+            <a href="Discipline Equals Freedom Audiobook by Jocko Willink.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px; background: var(--bg-surface); color: var(--accent-color); border: 1px solid var(--accent-color);">閱讀 後書</a>
+          </div>
+        </div>
+        
+
+        <div class="matrix-card" data-search="軍事自律與生活整潔 MAKE YOUR BED AUDIOBOOK FULL BOOK _ BY  William H. McRaven Discipline Equals Freedom Audiobook by Jocko Willink">
+          <div class="matrix-theme-header">
+            <span class="matrix-theme-badge">🔗 軍事自律與生活整潔</span>
+            <span style="font-size: 12px; color: var(--text-muted);">跨領域關聯</span>
+          </div>
+          <div class="matrix-books-pair">
+            <a href="MAKE YOUR BED AUDIOBOOK FULL BOOK _ BY  William H. McRaven.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #f9731622; color: #f97316; font-size: 11px;">意志與心態</span>
+              <span class="matrix-book-title" title="MAKE YOUR BED AUDIOBOOK FULL BOOK _ BY  William H. McRaven">📖 MAKE YOUR BED AUDIOBOOK FULL BOOK _ BY  William H. McRaven</span>
+            </a>
+            <div style="text-align: center; font-size: 13px; color: var(--accent-color); font-weight: bold;">⇅ 深度概念鏈結</div>
+            <a href="Discipline Equals Freedom Audiobook by Jocko Willink.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #f9731622; color: #f97316; font-size: 11px;">意志與心態</span>
+              <span class="matrix-book-title" title="Discipline Equals Freedom Audiobook by Jocko Willink">📖 Discipline Equals Freedom Audiobook by Jocko Willink</span>
+            </a>
+          </div>
+          <div style="display: flex; gap: 8px;">
+            <a href="MAKE YOUR BED AUDIOBOOK FULL BOOK _ BY  William H. McRaven.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px;">閱讀 前書</a>
+            <a href="Discipline Equals Freedom Audiobook by Jocko Willink.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px; background: var(--bg-surface); color: var(--accent-color); border: 1px solid var(--accent-color);">閱讀 後書</a>
+          </div>
+        </div>
+        
+
+        <div class="matrix-card" data-search="激發潛能與內在巨人 Full Book Motivational Chapter Summaries of Awaken the Giant Within by Anthony Robbins Mindset by Dr. Carol S. dweck full Audio book in English #audiobook #books">
+          <div class="matrix-theme-header">
+            <span class="matrix-theme-badge">🔗 激發潛能與內在巨人</span>
+            <span style="font-size: 12px; color: var(--text-muted);">跨領域關聯</span>
+          </div>
+          <div class="matrix-books-pair">
+            <a href="Full Book Motivational Chapter Summaries of Awaken the Giant Within by Anthony Robbins.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #f9731622; color: #f97316; font-size: 11px;">意志與心態</span>
+              <span class="matrix-book-title" title="Full Book Motivational Chapter Summaries of Awaken the Giant Within by Anthony Robbins">📖 Full Book Motivational Chapter Summaries of Awaken the Giant Within by Anthony Robbins</span>
+            </a>
+            <div style="text-align: center; font-size: 13px; color: var(--accent-color); font-weight: bold;">⇅ 深度概念鏈結</div>
+            <a href="Mindset by Dr. Carol S. dweck full Audio book in English #audiobook #books.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #f9731622; color: #f97316; font-size: 11px;">意志與心態</span>
+              <span class="matrix-book-title" title="Mindset by Dr. Carol S. dweck full Audio book in English #audiobook #books">📖 Mindset by Dr. Carol S. dweck full Audio book in English #audiobook #books</span>
+            </a>
+          </div>
+          <div style="display: flex; gap: 8px;">
+            <a href="Full Book Motivational Chapter Summaries of Awaken the Giant Within by Anthony Robbins.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px;">閱讀 前書</a>
+            <a href="Mindset by Dr. Carol S. dweck full Audio book in English #audiobook #books.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px; background: var(--bg-surface); color: var(--accent-color); border: 1px solid var(--accent-color);">閱讀 後書</a>
+          </div>
+        </div>
+        
+
+        <div class="matrix-card" data-search="反脆弱與斯多葛哲學 Antifragile Audiobook (Part 1) by Nassim Nicholas Taleb Meditations by Marcus Aurelius _ Audiobook with Text">
+          <div class="matrix-theme-header">
+            <span class="matrix-theme-badge">🔗 反脆弱與斯多葛哲學</span>
+            <span style="font-size: 12px; color: var(--text-muted);">跨領域關聯</span>
+          </div>
+          <div class="matrix-books-pair">
+            <a href="Antifragile Audiobook (Part 1) by Nassim Nicholas Taleb.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #8b5cf622; color: #8b5cf6; font-size: 11px;">哲學與思辨</span>
+              <span class="matrix-book-title" title="Antifragile Audiobook (Part 1) by Nassim Nicholas Taleb">📖 Antifragile Audiobook (Part 1) by Nassim Nicholas Taleb</span>
+            </a>
+            <div style="text-align: center; font-size: 13px; color: var(--accent-color); font-weight: bold;">⇅ 深度概念鏈結</div>
+            <a href="Meditations by Marcus Aurelius _ Audiobook with Text.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #8b5cf622; color: #8b5cf6; font-size: 11px;">哲學與思辨</span>
+              <span class="matrix-book-title" title="Meditations by Marcus Aurelius _ Audiobook with Text">📖 Meditations by Marcus Aurelius _ Audiobook with Text</span>
+            </a>
+          </div>
+          <div style="display: flex; gap: 8px;">
+            <a href="Antifragile Audiobook (Part 1) by Nassim Nicholas Taleb.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px;">閱讀 前書</a>
+            <a href="Meditations by Marcus Aurelius _ Audiobook with Text.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px; background: var(--bg-surface); color: var(--accent-color); border: 1px solid var(--accent-color);">閱讀 後書</a>
+          </div>
+        </div>
+        
+
+        <div class="matrix-card" data-search="抗挫力與人生韌性 Antifragile Audiobook (Part 1) by Nassim Nicholas Taleb Nassim Taleb - 11 Rules For Life (How To Live a Resilient Life)">
+          <div class="matrix-theme-header">
+            <span class="matrix-theme-badge">🔗 抗挫力與人生韌性</span>
+            <span style="font-size: 12px; color: var(--text-muted);">跨領域關聯</span>
+          </div>
+          <div class="matrix-books-pair">
+            <a href="Antifragile Audiobook (Part 1) by Nassim Nicholas Taleb.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #8b5cf622; color: #8b5cf6; font-size: 11px;">哲學與思辨</span>
+              <span class="matrix-book-title" title="Antifragile Audiobook (Part 1) by Nassim Nicholas Taleb">📖 Antifragile Audiobook (Part 1) by Nassim Nicholas Taleb</span>
+            </a>
+            <div style="text-align: center; font-size: 13px; color: var(--accent-color); font-weight: bold;">⇅ 深度概念鏈結</div>
+            <a href="Nassim Taleb - 11 Rules For Life (How To Live a Resilient Life).html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #8b5cf622; color: #8b5cf6; font-size: 11px;">哲學與思辨</span>
+              <span class="matrix-book-title" title="Nassim Taleb - 11 Rules For Life (How To Live a Resilient Life)">📖 Nassim Taleb - 11 Rules For Life (How To Live a Resilient Life)</span>
+            </a>
+          </div>
+          <div style="display: flex; gap: 8px;">
+            <a href="Antifragile Audiobook (Part 1) by Nassim Nicholas Taleb.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px;">閱讀 前書</a>
+            <a href="Nassim Taleb - 11 Rules For Life (How To Live a Resilient Life).html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px; background: var(--bg-surface); color: var(--accent-color); border: 1px solid var(--accent-color);">閱讀 後書</a>
+          </div>
+        </div>
+        
+
+        <div class="matrix-card" data-search="認知偏誤與雙系統思維 Daniel Kahneman_ Thinking, Fast &amp; Slow (Audiobook Full) The Art of Thinking Clearly - Rolf Dobelli FULL Audiobook">
+          <div class="matrix-theme-header">
+            <span class="matrix-theme-badge">🔗 認知偏誤與雙系統思維</span>
+            <span style="font-size: 12px; color: var(--text-muted);">跨領域關聯</span>
+          </div>
+          <div class="matrix-books-pair">
+            <a href="Daniel Kahneman_ Thinking, Fast &amp; Slow (Audiobook Full).html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #8b5cf622; color: #8b5cf6; font-size: 11px;">哲學與思辨</span>
+              <span class="matrix-book-title" title="Daniel Kahneman_ Thinking, Fast &amp; Slow (Audiobook Full)">📖 Daniel Kahneman_ Thinking, Fast &amp; Slow (Audiobook Full)</span>
+            </a>
+            <div style="text-align: center; font-size: 13px; color: var(--accent-color); font-weight: bold;">⇅ 深度概念鏈結</div>
+            <a href="The Art of Thinking Clearly - Rolf Dobelli FULL Audiobook.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #8b5cf622; color: #8b5cf6; font-size: 11px;">哲學與思辨</span>
+              <span class="matrix-book-title" title="The Art of Thinking Clearly - Rolf Dobelli FULL Audiobook">📖 The Art of Thinking Clearly - Rolf Dobelli FULL Audiobook</span>
+            </a>
+          </div>
+          <div style="display: flex; gap: 8px;">
+            <a href="Daniel Kahneman_ Thinking, Fast &amp; Slow (Audiobook Full).html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px;">閱讀 前書</a>
+            <a href="The Art of Thinking Clearly - Rolf Dobelli FULL Audiobook.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px; background: var(--bg-surface); color: var(--accent-color); border: 1px solid var(--accent-color);">閱讀 後書</a>
+          </div>
+        </div>
+        
+
+        <div class="matrix-card" data-search="重新思考與認知重塑 Daniel Kahneman_ Thinking, Fast &amp; Slow (Audiobook Full) Full Audiobook Think Again by Adam Grant Audiobook in English _ Think Again  Audiobook for Power">
+          <div class="matrix-theme-header">
+            <span class="matrix-theme-badge">🔗 重新思考與認知重塑</span>
+            <span style="font-size: 12px; color: var(--text-muted);">跨領域關聯</span>
+          </div>
+          <div class="matrix-books-pair">
+            <a href="Daniel Kahneman_ Thinking, Fast &amp; Slow (Audiobook Full).html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #8b5cf622; color: #8b5cf6; font-size: 11px;">哲學與思辨</span>
+              <span class="matrix-book-title" title="Daniel Kahneman_ Thinking, Fast &amp; Slow (Audiobook Full)">📖 Daniel Kahneman_ Thinking, Fast &amp; Slow (Audiobook Full)</span>
+            </a>
+            <div style="text-align: center; font-size: 13px; color: var(--accent-color); font-weight: bold;">⇅ 深度概念鏈結</div>
+            <a href="Full Audiobook Think Again by Adam Grant Audiobook in English _ Think Again  Audiobook for Power.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #8b5cf622; color: #8b5cf6; font-size: 11px;">哲學與思辨</span>
+              <span class="matrix-book-title" title="Full Audiobook Think Again by Adam Grant Audiobook in English _ Think Again  Audiobook for Power">📖 Full Audiobook Think Again by Adam Grant Audiobook in English _ Think Again  Audiobook for Power</span>
+            </a>
+          </div>
+          <div style="display: flex; gap: 8px;">
+            <a href="Daniel Kahneman_ Thinking, Fast &amp; Slow (Audiobook Full).html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px;">閱讀 前書</a>
+            <a href="Full Audiobook Think Again by Adam Grant Audiobook in English _ Think Again  Audiobook for Power.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px; background: var(--bg-surface); color: var(--accent-color); border: 1px solid var(--accent-color);">閱讀 後書</a>
+          </div>
+        </div>
+        
+
+        <div class="matrix-card" data-search="活在當下與心靈覺知 The Power of Now Audiobook Full - Eckhart Tolle Zen Mind, Beginner&#x27;s Mind by Shunryu Suzuki (Full Audio book) [u59jJhsXnwI]">
+          <div class="matrix-theme-header">
+            <span class="matrix-theme-badge">🔗 活在當下與心靈覺知</span>
+            <span style="font-size: 12px; color: var(--text-muted);">跨領域關聯</span>
+          </div>
+          <div class="matrix-books-pair">
+            <a href="The Power of Now Audiobook Full - Eckhart Tolle.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #8b5cf622; color: #8b5cf6; font-size: 11px;">哲學與思辨</span>
+              <span class="matrix-book-title" title="The Power of Now Audiobook Full - Eckhart Tolle">📖 The Power of Now Audiobook Full - Eckhart Tolle</span>
+            </a>
+            <div style="text-align: center; font-size: 13px; color: var(--accent-color); font-weight: bold;">⇅ 深度概念鏈結</div>
+            <a href="Zen Mind, Beginner_s Mind by Shunryu Suzuki (Full Audio book) [u59jJhsXnwI].html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #8b5cf622; color: #8b5cf6; font-size: 11px;">哲學與思辨</span>
+              <span class="matrix-book-title" title="Zen Mind, Beginner&#x27;s Mind by Shunryu Suzuki (Full Audio book) [u59jJhsXnwI]">📖 Zen Mind, Beginner&#x27;s Mind by Shunryu Suzuki (Full Audio book) [u59jJhsXnwI]</span>
+            </a>
+          </div>
+          <div style="display: flex; gap: 8px;">
+            <a href="The Power of Now Audiobook Full - Eckhart Tolle.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px;">閱讀 前書</a>
+            <a href="Zen Mind, Beginner_s Mind by Shunryu Suzuki (Full Audio book) [u59jJhsXnwI].html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px; background: var(--bg-surface); color: var(--accent-color); border: 1px solid var(--accent-color);">閱讀 後書</a>
+          </div>
+        </div>
+        
+
+        <div class="matrix-card" data-search="超越已知與內在自由 Audiobook _ Freedom From The Known by Jiddu Krishnamurti The Power of Now Audiobook Full - Eckhart Tolle">
+          <div class="matrix-theme-header">
+            <span class="matrix-theme-badge">🔗 超越已知與內在自由</span>
+            <span style="font-size: 12px; color: var(--text-muted);">跨領域關聯</span>
+          </div>
+          <div class="matrix-books-pair">
+            <a href="Audiobook _ Freedom From The Known by Jiddu Krishnamurti.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #8b5cf622; color: #8b5cf6; font-size: 11px;">哲學與思辨</span>
+              <span class="matrix-book-title" title="Audiobook _ Freedom From The Known by Jiddu Krishnamurti">📖 Audiobook _ Freedom From The Known by Jiddu Krishnamurti</span>
+            </a>
+            <div style="text-align: center; font-size: 13px; color: var(--accent-color); font-weight: bold;">⇅ 深度概念鏈結</div>
+            <a href="The Power of Now Audiobook Full - Eckhart Tolle.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #8b5cf622; color: #8b5cf6; font-size: 11px;">哲學與思辨</span>
+              <span class="matrix-book-title" title="The Power of Now Audiobook Full - Eckhart Tolle">📖 The Power of Now Audiobook Full - Eckhart Tolle</span>
+            </a>
+          </div>
+          <div style="display: flex; gap: 8px;">
+            <a href="Audiobook _ Freedom From The Known by Jiddu Krishnamurti.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px;">閱讀 前書</a>
+            <a href="The Power of Now Audiobook Full - Eckhart Tolle.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px; background: var(--bg-surface); color: var(--accent-color); border: 1px solid var(--accent-color);">閱讀 後書</a>
+          </div>
+        </div>
+        
+
+        <div class="matrix-card" data-search="阿德勒心理學與自主人生 The Courage to be Disliked by Ichiro Kishimi and Fumitake Toga📔 (Full Audiobook) 12 Rules for Life Full Audiobook _ Jordan B. Peterson">
+          <div class="matrix-theme-header">
+            <span class="matrix-theme-badge">🔗 阿德勒心理學與自主人生</span>
+            <span style="font-size: 12px; color: var(--text-muted);">跨領域關聯</span>
+          </div>
+          <div class="matrix-books-pair">
+            <a href="The Courage to be Disliked by Ichiro Kishimi and Fumitake Toga📔 (Full Audiobook).html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #8b5cf622; color: #8b5cf6; font-size: 11px;">哲學與思辨</span>
+              <span class="matrix-book-title" title="The Courage to be Disliked by Ichiro Kishimi and Fumitake Toga📔 (Full Audiobook)">📖 The Courage to be Disliked by Ichiro Kishimi and Fumitake Toga📔 (Full Audiobook)</span>
+            </a>
+            <div style="text-align: center; font-size: 13px; color: var(--accent-color); font-weight: bold;">⇅ 深度概念鏈結</div>
+            <a href="12 Rules for Life Full Audiobook _ Jordan B. Peterson.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #8b5cf622; color: #8b5cf6; font-size: 11px;">哲學與思辨</span>
+              <span class="matrix-book-title" title="12 Rules for Life Full Audiobook _ Jordan B. Peterson">📖 12 Rules for Life Full Audiobook _ Jordan B. Peterson</span>
+            </a>
+          </div>
+          <div style="display: flex; gap: 8px;">
+            <a href="The Courage to be Disliked by Ichiro Kishimi and Fumitake Toga📔 (Full Audiobook).html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px;">閱讀 前書</a>
+            <a href="12 Rules for Life Full Audiobook _ Jordan B. Peterson.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px; background: var(--bg-surface); color: var(--accent-color); border: 1px solid var(--accent-color);">閱讀 後書</a>
+          </div>
+        </div>
+        
+
+        <div class="matrix-card" data-search="放手哲學與關係界線 The Let Them Theory _ Mel Robbins _ A Life-Changing Tool Millions of People Can’t Stop Talking About The Courage to be Disliked by Ichiro Kishimi and Fumitake Toga📔 (Full Audiobook)">
+          <div class="matrix-theme-header">
+            <span class="matrix-theme-badge">🔗 放手哲學與關係界線</span>
+            <span style="font-size: 12px; color: var(--text-muted);">跨領域關聯</span>
+          </div>
+          <div class="matrix-books-pair">
+            <a href="The Let Them Theory _ Mel Robbins _ A Life-Changing Tool Millions of People Can’t Stop Talking About.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #8b5cf622; color: #8b5cf6; font-size: 11px;">哲學與思辨</span>
+              <span class="matrix-book-title" title="The Let Them Theory _ Mel Robbins _ A Life-Changing Tool Millions of People Can’t Stop Talking About">📖 The Let Them Theory _ Mel Robbins _ A Life-Changing Tool Millions of People Can’t Stop Talking About</span>
+            </a>
+            <div style="text-align: center; font-size: 13px; color: var(--accent-color); font-weight: bold;">⇅ 深度概念鏈結</div>
+            <a href="The Courage to be Disliked by Ichiro Kishimi and Fumitake Toga📔 (Full Audiobook).html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #8b5cf622; color: #8b5cf6; font-size: 11px;">哲學與思辨</span>
+              <span class="matrix-book-title" title="The Courage to be Disliked by Ichiro Kishimi and Fumitake Toga📔 (Full Audiobook)">📖 The Courage to be Disliked by Ichiro Kishimi and Fumitake Toga📔 (Full Audiobook)</span>
+            </a>
+          </div>
+          <div style="display: flex; gap: 8px;">
+            <a href="The Let Them Theory _ Mel Robbins _ A Life-Changing Tool Millions of People Can’t Stop Talking About.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px;">閱讀 前書</a>
+            <a href="The Courage to be Disliked by Ichiro Kishimi and Fumitake Toga📔 (Full Audiobook).html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px; background: var(--bg-surface); color: var(--accent-color); border: 1px solid var(--accent-color);">閱讀 後書</a>
+          </div>
+        </div>
+        
+
+        <div class="matrix-card" data-search="黃金圈法則與無限賽局 Start with WHY by Simon Sinek _ Full Audiobook _ The Infinite Game By Simon Sink challenges us to think bigger FULL AUDIOBOOK IN ENGLISH">
+          <div class="matrix-theme-header">
+            <span class="matrix-theme-badge">🔗 黃金圈法則與無限賽局</span>
+            <span style="font-size: 12px; color: var(--text-muted);">跨領域關聯</span>
+          </div>
+          <div class="matrix-books-pair">
+            <a href="Start with WHY by Simon Sinek _ Full Audiobook _.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #06b6d422; color: #06b6d4; font-size: 11px;">領導與策略</span>
+              <span class="matrix-book-title" title="Start with WHY by Simon Sinek _ Full Audiobook _">📖 Start with WHY by Simon Sinek _ Full Audiobook _</span>
+            </a>
+            <div style="text-align: center; font-size: 13px; color: var(--accent-color); font-weight: bold;">⇅ 深度概念鏈結</div>
+            <a href="The Infinite Game By Simon Sink challenges us to think bigger FULL AUDIOBOOK IN ENGLISH.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #06b6d422; color: #06b6d4; font-size: 11px;">領導與策略</span>
+              <span class="matrix-book-title" title="The Infinite Game By Simon Sink challenges us to think bigger FULL AUDIOBOOK IN ENGLISH">📖 The Infinite Game By Simon Sink challenges us to think bigger FULL AUDIOBOOK IN ENGLISH</span>
+            </a>
+          </div>
+          <div style="display: flex; gap: 8px;">
+            <a href="Start with WHY by Simon Sinek _ Full Audiobook _.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px;">閱讀 前書</a>
+            <a href="The Infinite Game By Simon Sink challenges us to think bigger FULL AUDIOBOOK IN ENGLISH.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px; background: var(--bg-surface); color: var(--accent-color); border: 1px solid var(--accent-color);">閱讀 後書</a>
+          </div>
+        </div>
+        
+
+        <div class="matrix-card" data-search="以終為始與高效能習慣 THE 7 HABITS OF HIGHLY EFFECTIVE PEOPLE __ BY STEPHEN R. COVEY __ FREE AUDIOBOOK 🎧 #7habits Start with WHY by Simon Sinek _ Full Audiobook _">
+          <div class="matrix-theme-header">
+            <span class="matrix-theme-badge">🔗 以終為始與高效能習慣</span>
+            <span style="font-size: 12px; color: var(--text-muted);">跨領域關聯</span>
+          </div>
+          <div class="matrix-books-pair">
+            <a href="THE 7 HABITS OF HIGHLY EFFECTIVE PEOPLE __ BY STEPHEN R. COVEY __ FREE AUDIOBOOK 🎧 #7habits.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #06b6d422; color: #06b6d4; font-size: 11px;">領導與策略</span>
+              <span class="matrix-book-title" title="THE 7 HABITS OF HIGHLY EFFECTIVE PEOPLE __ BY STEPHEN R. COVEY __ FREE AUDIOBOOK 🎧 #7habits">📖 THE 7 HABITS OF HIGHLY EFFECTIVE PEOPLE __ BY STEPHEN R. COVEY __ FREE AUDIOBOOK 🎧 #7habits</span>
+            </a>
+            <div style="text-align: center; font-size: 13px; color: var(--accent-color); font-weight: bold;">⇅ 深度概念鏈結</div>
+            <a href="Start with WHY by Simon Sinek _ Full Audiobook _.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #06b6d422; color: #06b6d4; font-size: 11px;">領導與策略</span>
+              <span class="matrix-book-title" title="Start with WHY by Simon Sinek _ Full Audiobook _">📖 Start with WHY by Simon Sinek _ Full Audiobook _</span>
+            </a>
+          </div>
+          <div style="display: flex; gap: 8px;">
+            <a href="THE 7 HABITS OF HIGHLY EFFECTIVE PEOPLE __ BY STEPHEN R. COVEY __ FREE AUDIOBOOK 🎧 #7habits.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px;">閱讀 前書</a>
+            <a href="Start with WHY by Simon Sinek _ Full Audiobook _.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px; background: var(--bg-surface); color: var(--accent-color); border: 1px solid var(--accent-color);">閱讀 後書</a>
+          </div>
+        </div>
+        
+
+        <div class="matrix-card" data-search="商業戰略與五步推演 📚 Your Next Five Moves_ Master the Art of Business Strategy by Patrick Bet-David - FULL AUDIOBOOK The Art of War by Sun Tzu_ Entire Unabridged Audiobook">
+          <div class="matrix-theme-header">
+            <span class="matrix-theme-badge">🔗 商業戰略與五步推演</span>
+            <span style="font-size: 12px; color: var(--text-muted);">跨領域關聯</span>
+          </div>
+          <div class="matrix-books-pair">
+            <a href="📚 Your Next Five Moves_ Master the Art of Business Strategy by Patrick Bet-David - FULL AUDIOBOOK.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #06b6d422; color: #06b6d4; font-size: 11px;">領導與策略</span>
+              <span class="matrix-book-title" title="📚 Your Next Five Moves_ Master the Art of Business Strategy by Patrick Bet-David - FULL AUDIOBOOK">📖 📚 Your Next Five Moves_ Master the Art of Business Strategy by Patrick Bet-David - FULL AUDIOBOOK</span>
+            </a>
+            <div style="text-align: center; font-size: 13px; color: var(--accent-color); font-weight: bold;">⇅ 深度概念鏈結</div>
+            <a href="The Art of War by Sun Tzu_ Entire Unabridged Audiobook.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #06b6d422; color: #06b6d4; font-size: 11px;">領導與策略</span>
+              <span class="matrix-book-title" title="The Art of War by Sun Tzu_ Entire Unabridged Audiobook">📖 The Art of War by Sun Tzu_ Entire Unabridged Audiobook</span>
+            </a>
+          </div>
+          <div style="display: flex; gap: 8px;">
+            <a href="📚 Your Next Five Moves_ Master the Art of Business Strategy by Patrick Bet-David - FULL AUDIOBOOK.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px;">閱讀 前書</a>
+            <a href="The Art of War by Sun Tzu_ Entire Unabridged Audiobook.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px; background: var(--bg-surface); color: var(--accent-color); border: 1px solid var(--accent-color);">閱讀 後書</a>
+          </div>
+        </div>
+        
+
+        <div class="matrix-card" data-search="人際影響力與深度溝通 HOW TO WIN FRIENDS AND INFLUENCE PEOPLE (AUDIOBOOK) How to Talk to Anyone 92 Little Tricks for Big Success in Relationships Audiobook  (1)">
+          <div class="matrix-theme-header">
+            <span class="matrix-theme-badge">🔗 人際影響力與深度溝通</span>
+            <span style="font-size: 12px; color: var(--text-muted);">跨領域關聯</span>
+          </div>
+          <div class="matrix-books-pair">
+            <a href="HOW TO WIN FRIENDS AND INFLUENCE PEOPLE (AUDIOBOOK).html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #06b6d422; color: #06b6d4; font-size: 11px;">領導與策略</span>
+              <span class="matrix-book-title" title="HOW TO WIN FRIENDS AND INFLUENCE PEOPLE (AUDIOBOOK)">📖 HOW TO WIN FRIENDS AND INFLUENCE PEOPLE (AUDIOBOOK)</span>
+            </a>
+            <div style="text-align: center; font-size: 13px; color: var(--accent-color); font-weight: bold;">⇅ 深度概念鏈結</div>
+            <a href="How to Talk to Anyone 92 Little Tricks for Big Success in Relationships Audiobook  (1).html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #06b6d422; color: #06b6d4; font-size: 11px;">領導與策略</span>
+              <span class="matrix-book-title" title="How to Talk to Anyone 92 Little Tricks for Big Success in Relationships Audiobook  (1)">📖 How to Talk to Anyone 92 Little Tricks for Big Success in Relationships Audiobook  (1)</span>
+            </a>
+          </div>
+          <div style="display: flex; gap: 8px;">
+            <a href="HOW TO WIN FRIENDS AND INFLUENCE PEOPLE (AUDIOBOOK).html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px;">閱讀 前書</a>
+            <a href="How to Talk to Anyone 92 Little Tricks for Big Success in Relationships Audiobook  (1).html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px; background: var(--bg-surface); color: var(--accent-color); border: 1px solid var(--accent-color);">閱讀 後書</a>
+          </div>
+        </div>
+        
+
+        <div class="matrix-card" data-search="公眾演說與TED魅力 Carmine Gallo Talk Like TED Audiobook The Art of Public Speaking FULL Audiobook by Dale Carnegie AudioBooks Library">
+          <div class="matrix-theme-header">
+            <span class="matrix-theme-badge">🔗 公眾演說與TED魅力</span>
+            <span style="font-size: 12px; color: var(--text-muted);">跨領域關聯</span>
+          </div>
+          <div class="matrix-books-pair">
+            <a href="Carmine Gallo Talk Like TED Audiobook.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #06b6d422; color: #06b6d4; font-size: 11px;">領導與策略</span>
+              <span class="matrix-book-title" title="Carmine Gallo Talk Like TED Audiobook">📖 Carmine Gallo Talk Like TED Audiobook</span>
+            </a>
+            <div style="text-align: center; font-size: 13px; color: var(--accent-color); font-weight: bold;">⇅ 深度概念鏈結</div>
+            <a href="The Art of Public Speaking FULL Audiobook by Dale Carnegie AudioBooks Library.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #06b6d422; color: #06b6d4; font-size: 11px;">領導與策略</span>
+              <span class="matrix-book-title" title="The Art of Public Speaking FULL Audiobook by Dale Carnegie AudioBooks Library">📖 The Art of Public Speaking FULL Audiobook by Dale Carnegie AudioBooks Library</span>
+            </a>
+          </div>
+          <div style="display: flex; gap: 8px;">
+            <a href="Carmine Gallo Talk Like TED Audiobook.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px;">閱讀 前書</a>
+            <a href="The Art of Public Speaking FULL Audiobook by Dale Carnegie AudioBooks Library.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px; background: var(--bg-surface); color: var(--accent-color); border: 1px solid var(--accent-color);">閱讀 後書</a>
+          </div>
+        </div>
+        
+
+        <div class="matrix-card" data-search="生命意義與人生衡量 How Will You Measure Your Life_ Clay Christensen at TEDxBoston Tuesdays with Morrie by Mitch Albom _ FULL AUDIOBOOK">
+          <div class="matrix-theme-header">
+            <span class="matrix-theme-badge">🔗 生命意義與人生衡量</span>
+            <span style="font-size: 12px; color: var(--text-muted);">跨領域關聯</span>
+          </div>
+          <div class="matrix-books-pair">
+            <a href="How Will You Measure Your Life_ Clay Christensen at TEDxBoston.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #06b6d422; color: #06b6d4; font-size: 11px;">領導與策略</span>
+              <span class="matrix-book-title" title="How Will You Measure Your Life_ Clay Christensen at TEDxBoston">📖 How Will You Measure Your Life_ Clay Christensen at TEDxBoston</span>
+            </a>
+            <div style="text-align: center; font-size: 13px; color: var(--accent-color); font-weight: bold;">⇅ 深度概念鏈結</div>
+            <a href="Tuesdays with Morrie by Mitch Albom _ FULL AUDIOBOOK.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #ec489922; color: #ec4899; font-size: 11px;">文學與經典</span>
+              <span class="matrix-book-title" title="Tuesdays with Morrie by Mitch Albom _ FULL AUDIOBOOK">📖 Tuesdays with Morrie by Mitch Albom _ FULL AUDIOBOOK</span>
+            </a>
+          </div>
+          <div style="display: flex; gap: 8px;">
+            <a href="How Will You Measure Your Life_ Clay Christensen at TEDxBoston.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px;">閱讀 前書</a>
+            <a href="Tuesdays with Morrie by Mitch Albom _ FULL AUDIOBOOK.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px; background: var(--bg-surface); color: var(--accent-color); border: 1px solid var(--accent-color);">閱讀 後書</a>
+          </div>
+        </div>
+        
+
+        <div class="matrix-card" data-search="反烏托邦與未來省思 Nineteen Eighty-Four by George Orwell _ 1984 _ Full Audiobook 21 Lesson For The 21st Century By Yuval Noah Harari _ Full Audiobook">
+          <div class="matrix-theme-header">
+            <span class="matrix-theme-badge">🔗 反烏托邦與未來省思</span>
+            <span style="font-size: 12px; color: var(--text-muted);">跨領域關聯</span>
+          </div>
+          <div class="matrix-books-pair">
+            <a href="Nineteen Eighty-Four by George Orwell _ 1984 _ Full Audiobook.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #ec489922; color: #ec4899; font-size: 11px;">文學與經典</span>
+              <span class="matrix-book-title" title="Nineteen Eighty-Four by George Orwell _ 1984 _ Full Audiobook">📖 Nineteen Eighty-Four by George Orwell _ 1984 _ Full Audiobook</span>
+            </a>
+            <div style="text-align: center; font-size: 13px; color: var(--accent-color); font-weight: bold;">⇅ 深度概念鏈結</div>
+            <a href="21 Lesson For The 21st Century By Yuval Noah Harari _ Full Audiobook.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #06b6d422; color: #06b6d4; font-size: 11px;">領導與策略</span>
+              <span class="matrix-book-title" title="21 Lesson For The 21st Century By Yuval Noah Harari _ Full Audiobook">📖 21 Lesson For The 21st Century By Yuval Noah Harari _ Full Audiobook</span>
+            </a>
+          </div>
+          <div style="display: flex; gap: 8px;">
+            <a href="Nineteen Eighty-Four by George Orwell _ 1984 _ Full Audiobook.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px;">閱讀 前書</a>
+            <a href="21 Lesson For The 21st Century By Yuval Noah Harari _ Full Audiobook.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px; background: var(--bg-surface); color: var(--accent-color); border: 1px solid var(--accent-color);">閱讀 後書</a>
+          </div>
+        </div>
+        
+
+        <div class="matrix-card" data-search="台灣說唱與念歌藝術 《十殿閻君》呂柳仙 自彈自唱 (有字幕) 懷古勸世歌 呂柳仙 自彈自唱 閩南語">
+          <div class="matrix-theme-header">
+            <span class="matrix-theme-badge">🔗 台灣說唱與念歌藝術</span>
+            <span style="font-size: 12px; color: var(--text-muted);">跨領域關聯</span>
+          </div>
+          <div class="matrix-books-pair">
+            <a href="《十殿閻君》呂柳仙 自彈自唱 (有字幕).html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #eab30822; color: #eab308; font-size: 11px;">台灣念歌與本土</span>
+              <span class="matrix-book-title" title="《十殿閻君》呂柳仙 自彈自唱 (有字幕)">📖 《十殿閻君》呂柳仙 自彈自唱 (有字幕)</span>
+            </a>
+            <div style="text-align: center; font-size: 13px; color: var(--accent-color); font-weight: bold;">⇅ 深度概念鏈結</div>
+            <a href="懷古勸世歌 呂柳仙 自彈自唱 閩南語.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #eab30822; color: #eab308; font-size: 11px;">台灣念歌與本土</span>
+              <span class="matrix-book-title" title="懷古勸世歌 呂柳仙 自彈自唱 閩南語">📖 懷古勸世歌 呂柳仙 自彈自唱 閩南語</span>
+            </a>
+          </div>
+          <div style="display: flex; gap: 8px;">
+            <a href="《十殿閻君》呂柳仙 自彈自唱 (有字幕).html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px;">閱讀 前書</a>
+            <a href="懷古勸世歌 呂柳仙 自彈自唱 閩南語.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px; background: var(--bg-surface); color: var(--accent-color); border: 1px solid var(--accent-color);">閱讀 後書</a>
+          </div>
+        </div>
+        
+
+        <div class="matrix-card" data-search="念歌曲藝與民間諷喻 懷古勸世歌 呂柳仙 自彈自唱 閩南語 G6.有魂無體 唱">
+          <div class="matrix-theme-header">
+            <span class="matrix-theme-badge">🔗 念歌曲藝與民間諷喻</span>
+            <span style="font-size: 12px; color: var(--text-muted);">跨領域關聯</span>
+          </div>
+          <div class="matrix-books-pair">
+            <a href="懷古勸世歌 呂柳仙 自彈自唱 閩南語.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #eab30822; color: #eab308; font-size: 11px;">台灣念歌與本土</span>
+              <span class="matrix-book-title" title="懷古勸世歌 呂柳仙 自彈自唱 閩南語">📖 懷古勸世歌 呂柳仙 自彈自唱 閩南語</span>
+            </a>
+            <div style="text-align: center; font-size: 13px; color: var(--accent-color); font-weight: bold;">⇅ 深度概念鏈結</div>
+            <a href="G6.有魂無體 唱.html" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: #eab30822; color: #eab308; font-size: 11px;">台灣念歌與本土</span>
+              <span class="matrix-book-title" title="G6.有魂無體 唱">📖 G6.有魂無體 唱</span>
+            </a>
+          </div>
+          <div style="display: flex; gap: 8px;">
+            <a href="懷古勸世歌 呂柳仙 自彈自唱 閩南語.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px;">閱讀 前書</a>
+            <a href="G6.有魂無體 唱.html" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px; background: var(--bg-surface); color: var(--accent-color); border: 1px solid var(--accent-color);">閱讀 後書</a>
+          </div>
+        </div>
+        
         </div>
       </div>
     </section>
@@ -2113,20 +3054,22 @@
       };
     }
 
-    function findNodeAt(pos) {
+    function findNodeAt(pos, isTouch = false) {
+      const margin = isTouch ? 22 : 8;
       for (let i = nodes.length - 1; i >= 0; i--) {
         const n = nodes[i];
         if (activeFilterCat !== 'all' && n.cat !== activeFilterCat) continue;
         const dist = Math.hypot(n.x - pos.x, n.y - pos.y);
-        if (dist <= n.radius + 6) return n;
+        if (dist <= n.radius + margin) return n;
       }
       return null;
     }
 
     if (canvas) {
+      // Mouse listeners
       canvas.addEventListener('mousedown', (e) => {
         const pos = getMousePos(e);
-        const node = findNodeAt(pos);
+        const node = findNodeAt(pos, false);
         if (node) {
           draggedNode = node;
         } else {
@@ -2150,7 +3093,7 @@
           drawGraph();
         } else {
           const prevHover = hoveredNode;
-          hoveredNode = findNodeAt(pos);
+          hoveredNode = findNodeAt(pos, false);
           if (prevHover !== hoveredNode) {
             drawGraph();
           }
@@ -2162,12 +3105,20 @@
         draggedNode = null;
       });
 
-      // Touch events for mobile/tablet
+      // Multi-touch gestures (Pinch-to-zoom & 1-finger drag)
+      let initialPinchDistance = null;
+      let initialPinchScale = null;
+      let pinchCenter = { x: 0, y: 0 };
+      let touchStartTime = 0;
+      let touchMoved = false;
+
       canvas.addEventListener('touchstart', (e) => {
-        if (e.touches && e.touches.length === 1) {
+        touchStartTime = Date.now();
+        touchMoved = false;
+        if (e.touches.length === 1) {
           const touch = e.touches[0];
           const pos = getMousePos(touch);
-          const node = findNodeAt(pos);
+          const node = findNodeAt(pos, true);
           if (node) {
             draggedNode = node;
           } else {
@@ -2175,11 +3126,25 @@
             dragStart = { x: touch.clientX - transform.x, y: touch.clientY - transform.y };
           }
           wakeAnimation();
+        } else if (e.touches.length === 2) {
+          isDragging = false;
+          draggedNode = null;
+          const t1 = e.touches[0];
+          const t2 = e.touches[1];
+          initialPinchDistance = Math.hypot(t1.clientX - t2.clientX, t1.clientY - t2.clientY);
+          initialPinchScale = transform.scale;
+          const rect = canvas.getBoundingClientRect();
+          pinchCenter = {
+            x: ((t1.clientX + t2.clientX) / 2) - rect.left,
+            y: ((t1.clientY + t2.clientY) / 2) - rect.top
+          };
         }
-      }, { passive: true });
+      }, { passive: false });
 
       canvas.addEventListener('touchmove', (e) => {
-        if (e.touches && e.touches.length === 1) {
+        e.preventDefault(); // Stop mobile browser page scroll
+        touchMoved = true;
+        if (e.touches.length === 1) {
           const touch = e.touches[0];
           const pos = getMousePos(touch);
           if (draggedNode) {
@@ -2193,12 +3158,39 @@
             transform.y = touch.clientY - dragStart.y;
             drawGraph();
           }
+        } else if (e.touches.length === 2 && initialPinchDistance) {
+          const t1 = e.touches[0];
+          const t2 = e.touches[1];
+          const currentDist = Math.hypot(t1.clientX - t2.clientX, t1.clientY - t2.clientY);
+          if (currentDist > 5) {
+            const ratio = currentDist / initialPinchDistance;
+            const targetScale = Math.max(0.25, Math.min(3.5, initialPinchScale * ratio));
+            const actualFactor = targetScale / transform.scale;
+            transform.x = pinchCenter.x - (pinchCenter.x - transform.x) * actualFactor;
+            transform.y = pinchCenter.y - (pinchCenter.y - transform.y) * actualFactor;
+            transform.scale = targetScale;
+            drawGraph();
+          }
         }
-      }, { passive: true });
+      }, { passive: false });
 
-      window.addEventListener('touchend', () => {
-        isDragging = false;
-        draggedNode = null;
+      canvas.addEventListener('touchend', (e) => {
+        if (e.touches.length < 2) {
+          initialPinchDistance = null;
+        }
+        if (e.touches.length === 0) {
+          // If quick tap without drag on a mobile device, show card
+          if (!touchMoved && (Date.now() - touchStartTime < 350) && e.changedTouches.length === 1) {
+            const touch = e.changedTouches[0];
+            const pos = getMousePos(touch);
+            const node = findNodeAt(pos, true);
+            if (node && !node.isHub) {
+              showGraphInfoCard(node);
+            }
+          }
+          isDragging = false;
+          draggedNode = null;
+        }
       });
 
       canvas.addEventListener('wheel', (e) => {
@@ -2211,13 +3203,13 @@
         transform.x = mouseX - (mouseX - transform.x) * zoomFactor;
         transform.y = mouseY - (mouseY - transform.y) * zoomFactor;
         transform.scale *= zoomFactor;
-        transform.scale = Math.max(0.3, Math.min(3.5, transform.scale));
+        transform.scale = Math.max(0.25, Math.min(3.5, transform.scale));
         drawGraph();
       }, { passive: false });
 
       canvas.addEventListener('click', (e) => {
         const pos = getMousePos(e);
-        const node = findNodeAt(pos);
+        const node = findNodeAt(pos, false);
         if (node && !node.isHub) {
           showGraphInfoCard(node);
         }
@@ -2267,6 +3259,64 @@
 
     const gicClose = document.getElementById('gic-close');
     if (gicClose && gic) gicClose.addEventListener('click', () => gic.classList.remove('active'));
+
+    // Dual View Mode Switcher
+    const modeCanvasBtn = document.getElementById('view-mode-canvas');
+    const modeMatrixBtn = document.getElementById('view-mode-matrix');
+    const canvasContainer = document.getElementById('graph-canvas-container');
+    const matrixContainer = document.getElementById('graph-matrix-container');
+
+    function setGraphViewMode(mode) {
+      if (mode === 'canvas') {
+        if (modeCanvasBtn) modeCanvasBtn.classList.add('active');
+        if (modeMatrixBtn) modeMatrixBtn.classList.remove('active');
+        if (canvasContainer) canvasContainer.style.display = 'block';
+        if (matrixContainer) matrixContainer.style.display = 'none';
+        requestAnimationFrame(() => {
+          initOrResizeGraph();
+          fitAll();
+        });
+      } else {
+        if (modeCanvasBtn) modeCanvasBtn.classList.remove('active');
+        if (modeMatrixBtn) modeMatrixBtn.classList.add('active');
+        if (canvasContainer) canvasContainer.style.display = 'none';
+        if (matrixContainer) matrixContainer.style.display = 'block';
+      }
+    }
+
+    if (modeCanvasBtn) modeCanvasBtn.addEventListener('click', () => setGraphViewMode('canvas'));
+    if (modeMatrixBtn) modeMatrixBtn.addEventListener('click', () => setGraphViewMode('matrix'));
+
+    // Mobile / Desktop Fullscreen Toggle
+    const fullscreenBtn = document.getElementById('graph-fullscreen');
+    if (fullscreenBtn && canvasContainer) {
+      fullscreenBtn.addEventListener('click', () => {
+        const isFs = canvasContainer.classList.toggle('fullscreen');
+        fullscreenBtn.textContent = isFs ? '✕ 關閉全螢幕' : '⛶ 全螢幕';
+        requestAnimationFrame(() => {
+          initOrResizeGraph();
+          fitAll();
+        });
+      });
+    }
+
+    // Matrix View Search
+    const matrixSearch = document.getElementById('matrix-search');
+    const matrixCards = document.querySelectorAll('.matrix-card');
+    if (matrixSearch) {
+      matrixSearch.addEventListener('input', (e) => {
+        const q = e.target.value.toLowerCase().trim();
+        let matchCount = 0;
+        matrixCards.forEach(card => {
+          const text = (card.getAttribute('data-search') || '').toLowerCase();
+          const match = !q || text.includes(q);
+          card.style.display = match ? '' : 'none';
+          if (match) matchCount++;
+        });
+        const statsEl = document.getElementById('matrix-stats');
+        if (statsEl) statsEl.textContent = q ? `搜尋「${q}」結果：共 ${matchCount} 組關聯` : '共收錄 36 組跨書知識關聯主題';
+      });
+    }
 
     // Zoom around viewport center
     function zoomBy(factor) {

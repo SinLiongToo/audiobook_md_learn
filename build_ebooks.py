@@ -1497,11 +1497,198 @@ INDEX_SHELF_TEMPLATE = """<!DOCTYPE html>
 
     #graph-canvas {{
       width: 100%;
-      height: 720px;
+      height: 700px;
       border-radius: 10px;
       background: var(--bg-primary);
       cursor: grab;
       display: block;
+      touch-action: none;
+      -webkit-user-select: none;
+      user-select: none;
+    }}
+
+    /* Dual Mode Switcher: [🕸️ 視覺畫布拓撲] [📋 知識主題清單] */
+    .graph-view-tabs {{
+      display: flex;
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      padding: 4px;
+      gap: 6px;
+      margin-bottom: 16px;
+      width: fit-content;
+      box-shadow: var(--card-shadow);
+    }}
+    .view-tab-btn {{
+      padding: 8px 16px;
+      border: none;
+      background: none;
+      border-radius: 8px;
+      font-size: 14px;
+      font-weight: 700;
+      color: var(--text-secondary);
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      transition: all 0.2s;
+    }}
+    .view-tab-btn:hover {{ color: var(--accent-color); }}
+    .view-tab-btn.active {{
+      background: var(--accent-color);
+      color: #ffffff;
+      box-shadow: 0 2px 8px rgba(37, 99, 235, 0.25);
+    }}
+
+    /* Mode 2: Mobile-First Thematic Cards Matrix */
+    .matrix-toolbar {{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 16px;
+      flex-wrap: wrap;
+    }}
+    .matrix-grid {{
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
+      gap: 16px;
+    }}
+    .matrix-card {{
+      background: var(--bg-surface);
+      border: 1px solid var(--border-color);
+      border-radius: 14px;
+      padding: 18px;
+      box-shadow: var(--card-shadow);
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      transition: transform 0.2s, box-shadow 0.2s, border-color 0.2s;
+    }}
+    .matrix-card:hover {{
+      transform: translateY(-2px);
+      box-shadow: var(--card-hover-shadow);
+      border-color: var(--accent-color);
+    }}
+    .matrix-theme-header {{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 8px;
+    }}
+    .matrix-theme-badge {{
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 4px 10px;
+      border-radius: 20px;
+      font-size: 13px;
+      font-weight: 700;
+      background: var(--accent-light);
+      color: var(--accent-color);
+    }}
+    .matrix-books-pair {{
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      padding: 12px;
+      background: var(--bg-primary);
+      border-radius: 10px;
+      border: 1px solid var(--border-color);
+    }}
+    .matrix-book-item {{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      text-decoration: none;
+      color: inherit;
+    }}
+    .matrix-book-title {{
+      font-size: 13.5px;
+      font-weight: 600;
+      color: var(--text-primary);
+      flex: 1;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }}
+    .matrix-book-item:hover .matrix-book-title {{ color: var(--accent-color); }}
+
+    /* Responsive Mobile Rules */
+    @media (max-width: 768px) {{
+      .graph-view-tabs {{
+        width: 100%;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+      }}
+      .view-tab-btn {{
+        justify-content: center;
+        padding: 8px 10px;
+        font-size: 13px;
+      }}
+      .graph-container {{
+        padding: 10px;
+      }}
+      #graph-canvas {{
+        height: 520px;
+      }}
+      .graph-toolbar {{
+        flex-direction: column;
+        align-items: stretch;
+        gap: 8px;
+      }}
+      .graph-search-input {{
+        width: 100%;
+      }}
+      .graph-controls {{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 6px;
+        width: 100%;
+      }}
+      .graph-controls .graph-btn {{
+        flex: 1;
+        min-height: 42px;
+        justify-content: center;
+        padding: 6px 4px;
+        font-size: 12px;
+      }}
+      #graph-fit-all {{
+        flex-basis: 100%;
+      }}
+      /* Mobile bottom sheet for graph node detail */
+      .graph-info-card {{
+        position: fixed !important;
+        left: 0 !important;
+        right: 0 !important;
+        bottom: 0 !important;
+        top: auto !important;
+        width: 100% !important;
+        max-height: 70vh !important;
+        border-radius: 20px 20px 0 0 !important;
+        border: none !important;
+        box-shadow: 0 -10px 35px rgba(0,0,0,0.3) !important;
+        z-index: 9999 !important;
+        padding: 20px !important;
+        overflow-y: auto !important;
+      }}
+      /* Fullscreen canvas mode */
+      .graph-container.fullscreen {{
+        position: fixed !important;
+        top: 0 !important;
+        left: 0 !important;
+        right: 0 !important;
+        bottom: 0 !important;
+        width: 100vw !important;
+        height: 100vh !important;
+        z-index: 99999 !important;
+        border-radius: 0 !important;
+        padding: 10px !important;
+      }}
+      .graph-container.fullscreen #graph-canvas {{
+        height: calc(100vh - 120px) !important;
+      }}
     }}
     #graph-canvas:active {{ cursor: grabbing; }}
 
@@ -1710,9 +1897,16 @@ INDEX_SHELF_TEMPLATE = """<!DOCTYPE html>
 
     <!-- TAB 2: CONNECTION GRAPH -->
     <section class="tab-pane" id="pane-graph">
-      <div class="graph-container">
+      <!-- Mode Switcher Pill: [🕸️ 視覺畫布拓撲] [📋 知識主題清單] -->
+      <div class="graph-view-tabs">
+        <button class="view-tab-btn active" id="view-mode-canvas" data-mode="canvas">🕸️ 互動拓撲圖譜 (Canvas)</button>
+        <button class="view-tab-btn" id="view-mode-matrix" data-mode="matrix">📋 知識關聯清單 (List & Cards)</button>
+      </div>
+
+      <!-- Mode 1: Interactive Canvas Container -->
+      <div class="graph-container" id="graph-canvas-container">
         <div class="graph-toolbar">
-          <div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center;">
+          <div style="display: flex; gap: 8px; flex-wrap: wrap; align-items: center; flex: 1;">
             <input type="text" id="graph-search" class="graph-search-input" placeholder="🔍 搜尋節點書名...">
             <select id="graph-cat-filter" class="graph-btn">
               <option value="all">🌐 顯示全部分類</option>
@@ -1723,17 +1917,18 @@ INDEX_SHELF_TEMPLATE = """<!DOCTYPE html>
             <button class="graph-btn" id="graph-fit-all" title="全景適應 (Fit All)" style="background: var(--accent-light); color: var(--accent-color); font-weight: 700;">🎯 全景適應 (Fit All)</button>
             <button class="graph-btn" id="graph-zoom-in" title="放大">➕</button>
             <button class="graph-btn" id="graph-zoom-out" title="縮小">➖</button>
+            <button class="graph-btn" id="graph-fullscreen" title="全螢幕模式 (Fullscreen)">⛶ 全螢幕</button>
             <button class="graph-btn" id="graph-reset" title="重設視圖">↺ 重設</button>
           </div>
         </div>
 
         <canvas id="graph-canvas"></canvas>
 
-        <!-- Graph Node Detail Card -->
+        <!-- Graph Node Detail Card (Desktop floating / Mobile bottom sheet) -->
         <div class="graph-info-card" id="graph-info-card">
           <div style="display: flex; justify-content: space-between; align-items: center;">
             <span class="graph-info-cat" id="gic-cat">分類</span>
-            <button class="graph-btn" id="gic-close" style="padding: 2px 8px;">✕</button>
+            <button class="graph-btn" id="gic-close" style="padding: 2px 10px; font-size: 16px;">✕</button>
           </div>
           <h3 class="graph-info-title" id="gic-title">書籍標題</h3>
           <div style="font-size: 13px; color: var(--text-muted);" id="gic-meta">時長 / 小節數</div>
@@ -1742,6 +1937,17 @@ INDEX_SHELF_TEMPLATE = """<!DOCTYPE html>
             <div class="graph-info-links" id="gic-links"></div>
           </div>
           <a href="#" class="graph-open-btn" id="gic-open">📖 開啟電子書 (Open eBook)</a>
+        </div>
+      </div>
+
+      <!-- Mode 2: Mobile-First Thematic Cards Matrix View -->
+      <div class="graph-matrix-container" id="graph-matrix-container" style="display: none;">
+        <div class="matrix-toolbar">
+          <input type="text" id="matrix-search" class="search-input" placeholder="🔍 搜尋主題關鍵字或書名（例：複利、拖延、思考、反脆弱）...">
+          <div style="font-size: 13px; color: var(--text-muted);" id="matrix-stats">共收錄 36 組跨書知識關聯主題</div>
+        </div>
+        <div class="matrix-grid" id="matrix-grid">
+          {matrix_cards_html}
         </div>
       </div>
     </section>
@@ -2115,20 +2321,22 @@ INDEX_SHELF_TEMPLATE = """<!DOCTYPE html>
       }};
     }}
 
-    function findNodeAt(pos) {{
+    function findNodeAt(pos, isTouch = false) {{
+      const margin = isTouch ? 22 : 8;
       for (let i = nodes.length - 1; i >= 0; i--) {{
         const n = nodes[i];
         if (activeFilterCat !== 'all' && n.cat !== activeFilterCat) continue;
         const dist = Math.hypot(n.x - pos.x, n.y - pos.y);
-        if (dist <= n.radius + 6) return n;
+        if (dist <= n.radius + margin) return n;
       }}
       return null;
     }}
 
     if (canvas) {{
+      // Mouse listeners
       canvas.addEventListener('mousedown', (e) => {{
         const pos = getMousePos(e);
-        const node = findNodeAt(pos);
+        const node = findNodeAt(pos, false);
         if (node) {{
           draggedNode = node;
         }} else {{
@@ -2152,7 +2360,7 @@ INDEX_SHELF_TEMPLATE = """<!DOCTYPE html>
           drawGraph();
         }} else {{
           const prevHover = hoveredNode;
-          hoveredNode = findNodeAt(pos);
+          hoveredNode = findNodeAt(pos, false);
           if (prevHover !== hoveredNode) {{
             drawGraph();
           }}
@@ -2164,12 +2372,20 @@ INDEX_SHELF_TEMPLATE = """<!DOCTYPE html>
         draggedNode = null;
       }});
 
-      // Touch events for mobile/tablet
+      // Multi-touch gestures (Pinch-to-zoom & 1-finger drag)
+      let initialPinchDistance = null;
+      let initialPinchScale = null;
+      let pinchCenter = {{ x: 0, y: 0 }};
+      let touchStartTime = 0;
+      let touchMoved = false;
+
       canvas.addEventListener('touchstart', (e) => {{
-        if (e.touches && e.touches.length === 1) {{
+        touchStartTime = Date.now();
+        touchMoved = false;
+        if (e.touches.length === 1) {{
           const touch = e.touches[0];
           const pos = getMousePos(touch);
-          const node = findNodeAt(pos);
+          const node = findNodeAt(pos, true);
           if (node) {{
             draggedNode = node;
           }} else {{
@@ -2177,11 +2393,25 @@ INDEX_SHELF_TEMPLATE = """<!DOCTYPE html>
             dragStart = {{ x: touch.clientX - transform.x, y: touch.clientY - transform.y }};
           }}
           wakeAnimation();
+        }} else if (e.touches.length === 2) {{
+          isDragging = false;
+          draggedNode = null;
+          const t1 = e.touches[0];
+          const t2 = e.touches[1];
+          initialPinchDistance = Math.hypot(t1.clientX - t2.clientX, t1.clientY - t2.clientY);
+          initialPinchScale = transform.scale;
+          const rect = canvas.getBoundingClientRect();
+          pinchCenter = {{
+            x: ((t1.clientX + t2.clientX) / 2) - rect.left,
+            y: ((t1.clientY + t2.clientY) / 2) - rect.top
+          }};
         }}
-      }}, {{ passive: true }});
+      }}, {{ passive: false }});
 
       canvas.addEventListener('touchmove', (e) => {{
-        if (e.touches && e.touches.length === 1) {{
+        e.preventDefault(); // Stop mobile browser page scroll
+        touchMoved = true;
+        if (e.touches.length === 1) {{
           const touch = e.touches[0];
           const pos = getMousePos(touch);
           if (draggedNode) {{
@@ -2195,12 +2425,39 @@ INDEX_SHELF_TEMPLATE = """<!DOCTYPE html>
             transform.y = touch.clientY - dragStart.y;
             drawGraph();
           }}
+        }} else if (e.touches.length === 2 && initialPinchDistance) {{
+          const t1 = e.touches[0];
+          const t2 = e.touches[1];
+          const currentDist = Math.hypot(t1.clientX - t2.clientX, t1.clientY - t2.clientY);
+          if (currentDist > 5) {{
+            const ratio = currentDist / initialPinchDistance;
+            const targetScale = Math.max(0.25, Math.min(3.5, initialPinchScale * ratio));
+            const actualFactor = targetScale / transform.scale;
+            transform.x = pinchCenter.x - (pinchCenter.x - transform.x) * actualFactor;
+            transform.y = pinchCenter.y - (pinchCenter.y - transform.y) * actualFactor;
+            transform.scale = targetScale;
+            drawGraph();
+          }}
         }}
-      }}, {{ passive: true }});
+      }}, {{ passive: false }});
 
-      window.addEventListener('touchend', () => {{
-        isDragging = false;
-        draggedNode = null;
+      canvas.addEventListener('touchend', (e) => {{
+        if (e.touches.length < 2) {{
+          initialPinchDistance = null;
+        }}
+        if (e.touches.length === 0) {{
+          // If quick tap without drag on a mobile device, show card
+          if (!touchMoved && (Date.now() - touchStartTime < 350) && e.changedTouches.length === 1) {{
+            const touch = e.changedTouches[0];
+            const pos = getMousePos(touch);
+            const node = findNodeAt(pos, true);
+            if (node && !node.isHub) {{
+              showGraphInfoCard(node);
+            }}
+          }}
+          isDragging = false;
+          draggedNode = null;
+        }}
       }});
 
       canvas.addEventListener('wheel', (e) => {{
@@ -2213,13 +2470,13 @@ INDEX_SHELF_TEMPLATE = """<!DOCTYPE html>
         transform.x = mouseX - (mouseX - transform.x) * zoomFactor;
         transform.y = mouseY - (mouseY - transform.y) * zoomFactor;
         transform.scale *= zoomFactor;
-        transform.scale = Math.max(0.3, Math.min(3.5, transform.scale));
+        transform.scale = Math.max(0.25, Math.min(3.5, transform.scale));
         drawGraph();
       }}, {{ passive: false }});
 
       canvas.addEventListener('click', (e) => {{
         const pos = getMousePos(e);
-        const node = findNodeAt(pos);
+        const node = findNodeAt(pos, false);
         if (node && !node.isHub) {{
           showGraphInfoCard(node);
         }}
@@ -2269,6 +2526,64 @@ INDEX_SHELF_TEMPLATE = """<!DOCTYPE html>
 
     const gicClose = document.getElementById('gic-close');
     if (gicClose && gic) gicClose.addEventListener('click', () => gic.classList.remove('active'));
+
+    // Dual View Mode Switcher
+    const modeCanvasBtn = document.getElementById('view-mode-canvas');
+    const modeMatrixBtn = document.getElementById('view-mode-matrix');
+    const canvasContainer = document.getElementById('graph-canvas-container');
+    const matrixContainer = document.getElementById('graph-matrix-container');
+
+    function setGraphViewMode(mode) {{
+      if (mode === 'canvas') {{
+        if (modeCanvasBtn) modeCanvasBtn.classList.add('active');
+        if (modeMatrixBtn) modeMatrixBtn.classList.remove('active');
+        if (canvasContainer) canvasContainer.style.display = 'block';
+        if (matrixContainer) matrixContainer.style.display = 'none';
+        requestAnimationFrame(() => {{
+          initOrResizeGraph();
+          fitAll();
+        }});
+      }} else {{
+        if (modeCanvasBtn) modeCanvasBtn.classList.remove('active');
+        if (modeMatrixBtn) modeMatrixBtn.classList.add('active');
+        if (canvasContainer) canvasContainer.style.display = 'none';
+        if (matrixContainer) matrixContainer.style.display = 'block';
+      }}
+    }}
+
+    if (modeCanvasBtn) modeCanvasBtn.addEventListener('click', () => setGraphViewMode('canvas'));
+    if (modeMatrixBtn) modeMatrixBtn.addEventListener('click', () => setGraphViewMode('matrix'));
+
+    // Mobile / Desktop Fullscreen Toggle
+    const fullscreenBtn = document.getElementById('graph-fullscreen');
+    if (fullscreenBtn && canvasContainer) {{
+      fullscreenBtn.addEventListener('click', () => {{
+        const isFs = canvasContainer.classList.toggle('fullscreen');
+        fullscreenBtn.textContent = isFs ? '✕ 關閉全螢幕' : '⛶ 全螢幕';
+        requestAnimationFrame(() => {{
+          initOrResizeGraph();
+          fitAll();
+        }});
+      }});
+    }}
+
+    // Matrix View Search
+    const matrixSearch = document.getElementById('matrix-search');
+    const matrixCards = document.querySelectorAll('.matrix-card');
+    if (matrixSearch) {{
+      matrixSearch.addEventListener('input', (e) => {{
+        const q = e.target.value.toLowerCase().trim();
+        let matchCount = 0;
+        matrixCards.forEach(card => {{
+          const text = (card.getAttribute('data-search') || '').toLowerCase();
+          const match = !q || text.includes(q);
+          card.style.display = match ? '' : 'none';
+          if (match) matchCount++;
+        }});
+        const statsEl = document.getElementById('matrix-stats');
+        if (statsEl) statsEl.textContent = q ? `搜尋「${{q}}」結果：共 ${{matchCount}} 組關聯` : '共收錄 36 組跨書知識關聯主題';
+      }});
+    }}
 
     // Zoom around viewport center
     function zoomBy(factor) {{
@@ -3014,6 +3329,45 @@ def main():
         cat_options.append(f'<option value="{cat_id}">{cat_meta["icon"]} {cat_meta["name"]}</option>')
     graph_cat_options_html = "\n".join(cat_options)
 
+    # Matrix Cards HTML for Tab 2 Mode 2
+    matrix_cards = []
+    for theme_label, book_pair_keywords in CROSS_THEMATIC_LINKS:
+        kw1, kw2 = book_pair_keywords[0].lower(), book_pair_keywords[1].lower()
+        matched1 = [b for b in books_catalog if kw1 in b['title'].lower()]
+        matched2 = [b for b in books_catalog if kw2 in b['title'].lower()]
+        if not matched1 or not matched2:
+            continue
+        b1 = matched1[0]
+        b2 = matched2[0]
+        c1 = CATEGORIES[b1['category']]
+        c2 = CATEGORIES[b2['category']]
+
+        card_html = f'''
+        <div class="matrix-card" data-search="{html.escape(theme_label)} {html.escape(b1['title'])} {html.escape(b2['title'])}">
+          <div class="matrix-theme-header">
+            <span class="matrix-theme-badge">🔗 {html.escape(theme_label)}</span>
+            <span style="font-size: 12px; color: var(--text-muted);">跨領域關聯</span>
+          </div>
+          <div class="matrix-books-pair">
+            <a href="{html.escape(b1['file'])}" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: {c1['color']}22; color: {c1['color']}; font-size: 11px;">{c1['name']}</span>
+              <span class="matrix-book-title" title="{html.escape(b1['title'])}">📖 {html.escape(b1['title'])}</span>
+            </a>
+            <div style="text-align: center; font-size: 13px; color: var(--accent-color); font-weight: bold;">⇅ 深度概念鏈結</div>
+            <a href="{html.escape(b2['file'])}" class="matrix-book-item">
+              <span class="card-cat-badge" style="background: {c2['color']}22; color: {c2['color']}; font-size: 11px;">{c2['name']}</span>
+              <span class="matrix-book-title" title="{html.escape(b2['title'])}">📖 {html.escape(b2['title'])}</span>
+            </a>
+          </div>
+          <div style="display: flex; gap: 8px;">
+            <a href="{html.escape(b1['file'])}" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px;">閱讀 前書</a>
+            <a href="{html.escape(b2['file'])}" class="graph-open-btn" style="flex: 1; text-align: center; padding: 7px 10px; font-size: 12.5px; background: var(--bg-surface); color: var(--accent-color); border: 1px solid var(--accent-color);">閱讀 後書</a>
+          </div>
+        </div>
+        '''
+        matrix_cards.append(card_html)
+    matrix_cards_html = "\n".join(matrix_cards)
+
     # Book Cards HTML for Catalog
     cards = []
     for b in books_catalog:
@@ -3041,7 +3395,8 @@ def main():
         category_pills_html=category_pills_html,
         graph_cat_options_html=graph_cat_options_html,
         cards_html="\n".join(cards),
-        graph_data_json=graph_data_json
+        graph_data_json=graph_data_json,
+        matrix_cards_html=matrix_cards_html
     )
 
     index_path = output_dir / "index.html"
