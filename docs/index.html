@@ -1978,28 +1978,20 @@
         if (n1 === draggedNode) continue;
 
         // Subtle gravity pull to center
-        n1.vx -= n1.x * 0.0008;
-        n1.vy -= n1.y * 0.0008;
+        n1.vx -= n1.x * 0.001;
+        n1.vy -= n1.y * 0.001;
 
-        // Boundary constraint pull back if drifting too far (> 360px)
-        const distFromCenter = Math.hypot(n1.x, n1.y);
-        if (distFromCenter > 360) {
-          const pull = (distFromCenter - 360) * 0.008;
-          n1.vx -= (n1.x / distFromCenter) * pull;
-          n1.vy -= (n1.y / distFromCenter) * pull;
-        }
-
-        // Node-to-node repulsion
+        // Node-to-node normalized repulsion
         for (let j = i + 1; j < nodes.length; j++) {
           const n2 = nodes[j];
           const dx = n2.x - n1.x;
           const dy = n2.y - n1.y;
           const dist = Math.hypot(dx, dy) || 1;
-          const minDist = n1.radius + n2.radius + 24;
+          const minDist = n1.radius + n2.radius + 18;
           if (dist < minDist * 2.2) {
-            const force = (minDist * 2.2 - dist) / (dist * 26);
-            const fx = dx * force;
-            const fy = dy * force;
+            const repForce = Math.min(6, (minDist * 2.2 - dist) / (dist * 2));
+            const fx = (dx / dist) * repForce;
+            const fy = (dy / dist) * repForce;
             n1.vx -= fx;
             n1.vy -= fy;
             n2.vx += fx;
@@ -2008,15 +2000,16 @@
         }
       }
 
-      // Edge spring attraction
+      // Edge spring attraction (Hooke's normalized law)
       edges.forEach(e => {
         const dx = e.target.x - e.source.x;
         const dy = e.target.y - e.source.y;
         const dist = Math.hypot(dx, dy) || 1;
-        const targetDist = e.isThematic ? 85 : 55;
-        const force = (dist - targetDist) * 0.003;
-        const fx = dx * force;
-        const fy = dy * force;
+        const targetDist = e.isThematic ? 95 : 65;
+        const displacement = dist - targetDist;
+        const k = 0.035;
+        const fx = (dx / dist) * displacement * k;
+        const fy = (dy / dist) * displacement * k;
         if (e.source !== draggedNode) { e.source.vx += fx; e.source.vy += fy; }
         if (e.target !== draggedNode) { e.target.vx -= fx; e.target.vy -= fy; }
       });
@@ -2024,8 +2017,8 @@
       let maxSpeed = 0;
       nodes.forEach(n => {
         if (n !== draggedNode) {
-          n.vx *= 0.78;
-          n.vy *= 0.78;
+          n.vx = Math.max(-12, Math.min(12, n.vx * 0.8));
+          n.vy = Math.max(-12, Math.min(12, n.vy * 0.8));
           n.x += n.vx;
           n.y += n.vy;
           maxSpeed = Math.max(maxSpeed, Math.abs(n.vx), Math.abs(n.vy));
@@ -2033,14 +2026,14 @@
       });
 
       simFrames++;
-      // Auto fit-all at frame 30 when initial physics layout settles
-      if (simFrames === 30) {
+      // Auto fit-all at frame 25 when initial layout settles
+      if (simFrames === 25) {
         fitAll();
       }
 
       drawGraph();
 
-      if ((maxSpeed > 0.05 && simFrames < 120) || isDragging || draggedNode) {
+      if ((maxSpeed > 0.05 && simFrames < 150) || isDragging || draggedNode) {
         requestAnimationFrame(animateGraph);
       } else {
         isAnimationRunning = false;
@@ -2169,6 +2162,45 @@
         draggedNode = null;
       });
 
+      // Touch events for mobile/tablet
+      canvas.addEventListener('touchstart', (e) => {
+        if (e.touches && e.touches.length === 1) {
+          const touch = e.touches[0];
+          const pos = getMousePos(touch);
+          const node = findNodeAt(pos);
+          if (node) {
+            draggedNode = node;
+          } else {
+            isDragging = true;
+            dragStart = { x: touch.clientX - transform.x, y: touch.clientY - transform.y };
+          }
+          wakeAnimation();
+        }
+      }, { passive: true });
+
+      canvas.addEventListener('touchmove', (e) => {
+        if (e.touches && e.touches.length === 1) {
+          const touch = e.touches[0];
+          const pos = getMousePos(touch);
+          if (draggedNode) {
+            draggedNode.x = pos.x;
+            draggedNode.y = pos.y;
+            draggedNode.vx = 0;
+            draggedNode.vy = 0;
+            wakeAnimation();
+          } else if (isDragging) {
+            transform.x = touch.clientX - dragStart.x;
+            transform.y = touch.clientY - dragStart.y;
+            drawGraph();
+          }
+        }
+      }, { passive: true });
+
+      window.addEventListener('touchend', () => {
+        isDragging = false;
+        draggedNode = null;
+      });
+
       canvas.addEventListener('wheel', (e) => {
         e.preventDefault();
         const zoomFactor = e.deltaY < 0 ? 1.15 : 0.88;
@@ -2236,6 +2268,24 @@
     const gicClose = document.getElementById('gic-close');
     if (gicClose && gic) gicClose.addEventListener('click', () => gic.classList.remove('active'));
 
+    // Zoom around viewport center
+    function zoomBy(factor) {
+      if (!canvas) return;
+      const width = canvas.width / (window.devicePixelRatio || 1);
+      const height = canvas.height / (window.devicePixelRatio || 1);
+      const centerX = width / 2;
+      const centerY = height / 2;
+
+      const newScale = Math.max(0.25, Math.min(3.5, transform.scale * factor));
+      const actualFactor = newScale / transform.scale;
+
+      transform.x = centerX - (centerX - transform.x) * actualFactor;
+      transform.y = centerY - (centerY - transform.y) * actualFactor;
+      transform.scale = newScale;
+
+      drawGraph();
+    }
+
     // Graph toolbar
     const fitAllBtn = document.getElementById('graph-fit-all');
     const zoomInBtn = document.getElementById('graph-zoom-in');
@@ -2248,17 +2298,23 @@
       fitAll();
     });
     if (zoomInBtn) zoomInBtn.addEventListener('click', () => {
-      transform.scale = Math.min(3.5, transform.scale * 1.25);
-      drawGraph();
+      zoomBy(1.25);
     });
     if (zoomOutBtn) zoomOutBtn.addEventListener('click', () => {
-      transform.scale = Math.max(0.3, transform.scale * 0.8);
-      drawGraph();
+      zoomBy(0.8);
     });
     if (resetBtn) resetBtn.addEventListener('click', () => {
       activeFilterCat = 'all';
       if (graphCatFilter) graphCatFilter.value = 'all';
+      if (graphSearch) graphSearch.value = '';
+      hoveredNode = null;
+      if (gic) gic.classList.remove('active');
+      const width = canvas.width / (window.devicePixelRatio || 1);
+      const height = canvas.height / (window.devicePixelRatio || 1);
+      buildGraphNodes(width, height);
+      simFrames = 0;
       fitAll();
+      wakeAnimation();
     });
 
     if (graphCatFilter) graphCatFilter.addEventListener('change', (e) => {

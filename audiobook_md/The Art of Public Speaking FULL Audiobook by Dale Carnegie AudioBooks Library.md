@@ -432,7 +432,7 @@ No one can say that one interpretation is right and the other wrong. This princi
 <a id="sec-004524"></a>
 ### ⏱️ [00:45:24 - 00:50:24]
 
-#### #### #### #### #### WHAT RELATION DOES THIS HAVE TO THE USE OF THE VOICE? 4.
+#### #### #### #### #### #### WHAT RELATION DOES THIS HAVE TO THE USE OF THE VOICE? 4.
 
 #### WHICH WORDS SHOULD BE EMPHASISED WHICH SUBORDINATED IN A SENTENCE? 5.
 
@@ -3760,7 +3760,7 @@ Give him place, ye prairies. In the midst of this great continent his dust shall
 <a id="sec-100139"></a>
 ### ⏱️ [10:01:39 - 10:06:44]
 
-#### #### #### #### #### THE HISTORY OF LIBERTY.
+#### #### #### #### #### #### THE HISTORY OF LIBERTY.
 
 The event which we commemorate is all-important, not merely in our own annals, but in those of the world. The sitentious English poet has declared that the proper study of mankind is man, and of all inquiries of a temporal nature. The history of our fellow beings is unquestionably among the most interesting. But not all the chapters of human history are alike important.
 
