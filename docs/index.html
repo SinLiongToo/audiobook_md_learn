@@ -275,6 +275,7 @@
       padding: 16px;
       box-shadow: var(--card-shadow);
       position: relative;
+      overflow: hidden;
     }
 
     .graph-toolbar {
@@ -315,7 +316,7 @@
 
     #graph-canvas {
       width: 100%;
-      height: 680px;
+      height: 720px;
       border-radius: 10px;
       background: var(--bg-primary);
       cursor: grab;
@@ -1711,6 +1712,7 @@
             </select>
           </div>
           <div class="graph-controls">
+            <button class="graph-btn" id="graph-fit-all" title="全景適應 (Fit All)" style="background: var(--accent-light); color: var(--accent-color); font-weight: 700;">🎯 全景適應 (Fit All)</button>
             <button class="graph-btn" id="graph-zoom-in" title="放大">➕</button>
             <button class="graph-btn" id="graph-zoom-out" title="縮小">➖</button>
             <button class="graph-btn" id="graph-reset" title="重設視圖">↺ 重設</button>
@@ -1849,6 +1851,7 @@
     const gic = document.getElementById('graph-info-card');
     let graphInitialized = false;
     let isAnimationRunning = false;
+    let simFrames = 0;
     let nodes = [];
     let edges = [];
     let transform = { x: 0, y: 0, scale: 1 };
@@ -1861,7 +1864,7 @@
     function buildGraphNodes(width, height) {
       const hubList = (GRAPH_DATA.nodes || []).filter(n => n.isHub);
       const hubCount = Math.max(1, hubList.length);
-      const hubRadius = 250;
+      const hubRadius = 150; // Compact hub core
 
       nodes = (GRAPH_DATA.nodes || []).map(n => {
         let x = 0, y = 0;
@@ -1873,8 +1876,8 @@
         } else {
           const parentHubIdx = hubList.findIndex(h => h.cat === n.cat);
           const baseAngle = parentHubIdx >= 0 ? (parentHubIdx / hubCount) * Math.PI * 2 - Math.PI / 2 : Math.random() * Math.PI * 2;
-          const r = hubRadius + 50 + Math.random() * 160;
-          const a = baseAngle + (Math.random() - 0.5) * 0.95;
+          const r = hubRadius + 35 + Math.random() * 85;
+          const a = baseAngle + (Math.random() - 0.5) * 0.9;
           x = Math.cos(a) * r;
           y = Math.sin(a) * r;
         }
@@ -1884,7 +1887,7 @@
           y,
           vx: 0,
           vy: 0,
-          radius: n.isHub ? 26 : 14
+          radius: n.isHub ? 24 : 12
         };
       });
 
@@ -1895,13 +1898,49 @@
       }).filter(e => e.source && e.target);
     }
 
+    function fitAll() {
+      if (!nodes || nodes.length === 0 || !canvas) return;
+      const width = canvas.width / (window.devicePixelRatio || 1);
+      const height = canvas.height / (window.devicePixelRatio || 1);
+
+      const visibleNodes = nodes.filter(n => activeFilterCat === 'all' || n.cat === activeFilterCat || (n.isHub && n.cat === activeFilterCat));
+      const targetNodes = visibleNodes.length > 0 ? visibleNodes : nodes;
+
+      let minX = Infinity, maxX = -Infinity, minY = Infinity, maxY = -Infinity;
+      targetNodes.forEach(n => {
+        const r = n.radius + 22;
+        if (n.x - r < minX) minX = n.x - r;
+        if (n.x + r > maxX) maxX = n.x + r;
+        if (n.y - r < minY) minY = n.y - r;
+        if (n.y + r + 20 > maxY) maxY = n.y + r + 20;
+      });
+
+      const graphW = Math.max(60, maxX - minX);
+      const graphH = Math.max(60, maxY - minY);
+      const padX = 60;
+      const padY = 50;
+
+      const scaleX = (width - padX * 2) / graphW;
+      const scaleY = (height - padY * 2) / graphH;
+      const newScale = Math.min(1.25, Math.max(0.35, Math.min(scaleX, scaleY)));
+
+      const centerX = (minX + maxX) / 2;
+      const centerY = (minY + maxY) / 2;
+
+      transform.scale = newScale;
+      transform.x = width / 2 - centerX * newScale;
+      transform.y = height / 2 - centerY * newScale;
+
+      drawGraph();
+    }
+
     function initOrResizeGraph() {
       if (!canvas || !ctx) return;
       const container = canvas.parentElement;
       if (!container) return;
       const rect = container.getBoundingClientRect();
       const width = Math.max(320, container.clientWidth || rect.width || (window.innerWidth - 64));
-      const height = 680;
+      const height = 720;
       const dpr = window.devicePixelRatio || 1;
 
       canvas.width = width * dpr;
@@ -1910,12 +1949,13 @@
       canvas.style.height = height + 'px';
       ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
 
-      if (!graphInitialized || transform.x === 0 || isNaN(transform.x)) {
+      if (!graphInitialized) {
         buildGraphNodes(width, height);
-        transform.x = width / 2;
-        transform.y = height / 2;
-        transform.scale = 1;
         graphInitialized = true;
+        simFrames = 0;
+        fitAll();
+      } else {
+        fitAll();
       }
 
       drawGraph();
@@ -1938,8 +1978,16 @@
         if (n1 === draggedNode) continue;
 
         // Subtle gravity pull to center
-        n1.vx -= n1.x * 0.00035;
-        n1.vy -= n1.y * 0.00035;
+        n1.vx -= n1.x * 0.0008;
+        n1.vy -= n1.y * 0.0008;
+
+        // Boundary constraint pull back if drifting too far (> 360px)
+        const distFromCenter = Math.hypot(n1.x, n1.y);
+        if (distFromCenter > 360) {
+          const pull = (distFromCenter - 360) * 0.008;
+          n1.vx -= (n1.x / distFromCenter) * pull;
+          n1.vy -= (n1.y / distFromCenter) * pull;
+        }
 
         // Node-to-node repulsion
         for (let j = i + 1; j < nodes.length; j++) {
@@ -1947,9 +1995,9 @@
           const dx = n2.x - n1.x;
           const dy = n2.y - n1.y;
           const dist = Math.hypot(dx, dy) || 1;
-          const minDist = n1.radius + n2.radius + 36;
-          if (dist < minDist * 2.8) {
-            const force = (minDist * 2.8 - dist) / (dist * 22);
+          const minDist = n1.radius + n2.radius + 24;
+          if (dist < minDist * 2.2) {
+            const force = (minDist * 2.2 - dist) / (dist * 26);
             const fx = dx * force;
             const fy = dy * force;
             n1.vx -= fx;
@@ -1965,8 +2013,8 @@
         const dx = e.target.x - e.source.x;
         const dy = e.target.y - e.source.y;
         const dist = Math.hypot(dx, dy) || 1;
-        const targetDist = e.isThematic ? 115 : 85;
-        const force = (dist - targetDist) * 0.0022;
+        const targetDist = e.isThematic ? 85 : 55;
+        const force = (dist - targetDist) * 0.003;
         const fx = dx * force;
         const fy = dy * force;
         if (e.source !== draggedNode) { e.source.vx += fx; e.source.vy += fy; }
@@ -1976,17 +2024,23 @@
       let maxSpeed = 0;
       nodes.forEach(n => {
         if (n !== draggedNode) {
-          n.vx *= 0.82;
-          n.vy *= 0.82;
+          n.vx *= 0.78;
+          n.vy *= 0.78;
           n.x += n.vx;
           n.y += n.vy;
           maxSpeed = Math.max(maxSpeed, Math.abs(n.vx), Math.abs(n.vy));
         }
       });
 
+      simFrames++;
+      // Auto fit-all at frame 30 when initial physics layout settles
+      if (simFrames === 30) {
+        fitAll();
+      }
+
       drawGraph();
 
-      if (maxSpeed > 0.06 || isDragging || draggedNode) {
+      if ((maxSpeed > 0.05 && simFrames < 120) || isDragging || draggedNode) {
         requestAnimationFrame(animateGraph);
       } else {
         isAnimationRunning = false;
@@ -2183,12 +2237,16 @@
     if (gicClose && gic) gicClose.addEventListener('click', () => gic.classList.remove('active'));
 
     // Graph toolbar
+    const fitAllBtn = document.getElementById('graph-fit-all');
     const zoomInBtn = document.getElementById('graph-zoom-in');
     const zoomOutBtn = document.getElementById('graph-zoom-out');
     const resetBtn = document.getElementById('graph-reset');
     const graphCatFilter = document.getElementById('graph-cat-filter');
     const graphSearch = document.getElementById('graph-search');
 
+    if (fitAllBtn) fitAllBtn.addEventListener('click', () => {
+      fitAll();
+    });
     if (zoomInBtn) zoomInBtn.addEventListener('click', () => {
       transform.scale = Math.min(3.5, transform.scale * 1.25);
       drawGraph();
@@ -2197,19 +2255,15 @@
       transform.scale = Math.max(0.3, transform.scale * 0.8);
       drawGraph();
     });
-    if (resetBtn && canvas) resetBtn.addEventListener('click', () => {
-      const rect = canvas.parentElement ? canvas.parentElement.getBoundingClientRect() : { width: 800 };
-      transform.x = (rect.width || 800) / 2;
-      transform.y = 340;
-      transform.scale = 1;
+    if (resetBtn) resetBtn.addEventListener('click', () => {
       activeFilterCat = 'all';
       if (graphCatFilter) graphCatFilter.value = 'all';
-      drawGraph();
+      fitAll();
     });
 
     if (graphCatFilter) graphCatFilter.addEventListener('change', (e) => {
       activeFilterCat = e.target.value;
-      drawGraph();
+      fitAll();
     });
 
     if (graphSearch) graphSearch.addEventListener('input', (e) => {

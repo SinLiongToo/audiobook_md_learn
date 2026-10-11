@@ -131,7 +131,7 @@
 <a id="sec-000000"></a>
 ### ⏱️ [00:00:00 - 00:05:02]
 
-#### #### #### #### IN MEMORY OF AMUS TAVERSKY INTRODUCTION.
+#### #### #### #### #### IN MEMORY OF AMUS TAVERSKY INTRODUCTION.
 
 Every author, I suppose, has in mind a setting in which readers of his or her work could benefit from having read it. Mine is the proverbial office water-cooler, where opinions are shared and gossip is exchanged. I hope to enrich the vocabulary that people use when they talk about the judgments and choices of others, the company’s new policies, or a colleague’s investment decisions. Why be concerned with gossip?
 
