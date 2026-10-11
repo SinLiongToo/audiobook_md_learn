@@ -1767,53 +1767,42 @@ INDEX_SHELF_TEMPLATE = """<!DOCTYPE html>
     // Embedded Graph Data
     const GRAPH_DATA = {graph_data_json};
 
+    // Helper functions
+    function escapeRegex(str) {{
+      return (str || '').replace(/[.*+?^${{}}()|[\\]\\\\]/g, '\\\\$&');
+    }}
+
+    function escapeHtml(str) {{
+      return (str || '')
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;');
+    }}
+
     // --- Preferences & Theme ---
     const themeBtn = document.getElementById('theme-btn');
-    let isDark = localStorage.getItem('shelf-theme') === 'dark';
+    let isDark = false;
+    try {{
+      isDark = localStorage.getItem('shelf-theme') === 'dark';
+    }} catch (e) {{}}
+
     function applyTheme() {{
       document.documentElement.setAttribute('data-theme', isDark ? 'dark' : 'light');
-      themeBtn.textContent = isDark ? '☀️ 切換淺色' : '🌙 切換深色';
-      localStorage.setItem('shelf-theme', isDark ? 'dark' : 'light');
+      if (themeBtn) themeBtn.textContent = isDark ? '☀️ 切換淺色' : '🌙 切換深色';
+      try {{
+        localStorage.setItem('shelf-theme', isDark ? 'dark' : 'light');
+      }} catch (e) {{}}
     }}
     applyTheme();
-    themeBtn.addEventListener('click', () => {{
-      isDark = !isDark;
-      applyTheme();
-    }});
 
-    // --- Tab Switcher ---
-    const tabBtns = document.querySelectorAll('.tab-btn');
-    const tabPanes = document.querySelectorAll('.tab-pane');
-
-    function switchTab(tabId) {{
-      tabBtns.forEach(btn => btn.classList.toggle('active', btn.getAttribute('data-tab') === tabId));
-      tabPanes.forEach(pane => pane.classList.toggle('active', pane.id === 'pane-' + tabId));
-      if (tabId === 'graph') {{
-        initOrResizeGraph();
-      }} else if (tabId === 'search') {{
-        loadSearchIndexOnce();
-        document.getElementById('global-search-input').focus();
-      }}
-    }}
-
-    tabBtns.forEach(btn => {{
-      btn.addEventListener('click', () => {{
-        const tab = btn.getAttribute('data-tab');
-        switchTab(tab);
+    if (themeBtn) {{
+      themeBtn.addEventListener('click', () => {{
+        isDark = !isDark;
+        applyTheme();
+        if (graphInitialized) drawGraph();
       }});
-    }});
-
-    // Check URL params for direct search or tab: ?tab=search&q=keyword
-    const urlParams = new URLSearchParams(window.location.search);
-    if (urlParams.get('tab') === 'search') {{
-      switchTab('search');
-      const q = urlParams.get('q');
-      if (q) {{
-        document.getElementById('global-search-input').value = q;
-        loadSearchIndexOnce().then(() => runGlobalSearch(q));
-      }}
-    }} else if (urlParams.get('tab') === 'graph') {{
-      switchTab('graph');
     }}
 
     // ==========================================
@@ -1826,10 +1815,10 @@ INDEX_SHELF_TEMPLATE = """<!DOCTYPE html>
     let currentCategory = 'all';
 
     function filterCatalog() {{
-      const q = searchInput.value.toLowerCase().trim();
+      const q = (searchInput ? searchInput.value : '').toLowerCase().trim();
       let matchCount = 0;
       cards.forEach(card => {{
-        const title = card.getAttribute('data-title').toLowerCase();
+        const title = (card.getAttribute('data-title') || '').toLowerCase();
         const cat = card.getAttribute('data-cat');
         const matchesCat = currentCategory === 'all' || cat === currentCategory;
         const matchesSearch = !q || title.includes(q);
@@ -1840,10 +1829,10 @@ INDEX_SHELF_TEMPLATE = """<!DOCTYPE html>
           card.style.display = 'none';
         }}
       }});
-      noResults.style.display = matchCount === 0 ? 'block' : 'none';
+      if (noResults) noResults.style.display = matchCount === 0 ? 'block' : 'none';
     }}
 
-    searchInput.addEventListener('input', filterCatalog);
+    if (searchInput) searchInput.addEventListener('input', filterCatalog);
 
     catPills.forEach(pill => {{
       pill.addEventListener('click', () => {{
@@ -1858,9 +1847,10 @@ INDEX_SHELF_TEMPLATE = """<!DOCTYPE html>
     // TAB 2: INTERACTIVE KNOWLEDGE CONNECTION GRAPH
     // ==========================================
     const canvas = document.getElementById('graph-canvas');
-    const ctx = canvas.getContext('2d');
+    const ctx = canvas ? canvas.getContext('2d') : null;
     const gic = document.getElementById('graph-info-card');
     let graphInitialized = false;
+    let isAnimationRunning = false;
     let nodes = [];
     let edges = [];
     let transform = {{ x: 0, y: 0, scale: 1 }};
@@ -1870,60 +1860,98 @@ INDEX_SHELF_TEMPLATE = """<!DOCTYPE html>
     let hoveredNode = null;
     let activeFilterCat = 'all';
 
-    function initOrResizeGraph() {{
-      const rect = canvas.parentElement.getBoundingClientRect();
-      const dpr = window.devicePixelRatio || 1;
-      canvas.width = rect.width * dpr;
-      canvas.height = 680 * dpr;
-      canvas.style.width = rect.width + 'px';
-      canvas.style.height = '680px';
-      ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    function buildGraphNodes(width, height) {{
+      const hubList = (GRAPH_DATA.nodes || []).filter(n => n.isHub);
+      const hubCount = Math.max(1, hubList.length);
+      const hubRadius = 250;
 
-      if (!graphInitialized) {{
-        buildGraphNodes();
-        transform.x = rect.width / 2;
-        transform.y = 340;
-        graphInitialized = true;
-        animateGraph();
-      }}
-    }}
+      nodes = (GRAPH_DATA.nodes || []).map(n => {{
+        let x = 0, y = 0;
+        if (n.isHub) {{
+          const hubIdx = hubList.findIndex(h => h.id === n.id);
+          const angle = (hubIdx / hubCount) * Math.PI * 2 - Math.PI / 2;
+          x = Math.cos(angle) * hubRadius;
+          y = Math.sin(angle) * hubRadius;
+        }} else {{
+          const parentHubIdx = hubList.findIndex(h => h.cat === n.cat);
+          const baseAngle = parentHubIdx >= 0 ? (parentHubIdx / hubCount) * Math.PI * 2 - Math.PI / 2 : Math.random() * Math.PI * 2;
+          const r = hubRadius + 50 + Math.random() * 160;
+          const a = baseAngle + (Math.random() - 0.5) * 0.95;
+          x = Math.cos(a) * r;
+          y = Math.sin(a) * r;
+        }}
+        return {{
+          ...n,
+          x,
+          y,
+          vx: 0,
+          vy: 0,
+          radius: n.isHub ? 26 : 14
+        }};
+      }});
 
-    function buildGraphNodes() {{
-      nodes = GRAPH_DATA.nodes.map(n => ({{
-        ...n,
-        x: (Math.random() - 0.5) * 600,
-        y: (Math.random() - 0.5) * 450,
-        vx: 0,
-        vy: 0,
-        radius: n.isHub ? 26 : 14
-      }}));
-
-      edges = GRAPH_DATA.edges.map(e => {{
+      edges = (GRAPH_DATA.edges || []).map(e => {{
         const source = nodes.find(n => n.id === e.source);
         const target = nodes.find(n => n.id === e.target);
         return {{ source, target, label: e.label || '', isThematic: e.isThematic || false }};
       }}).filter(e => e.source && e.target);
     }}
 
+    function initOrResizeGraph() {{
+      if (!canvas || !ctx) return;
+      const container = canvas.parentElement;
+      if (!container) return;
+      const rect = container.getBoundingClientRect();
+      const width = Math.max(320, container.clientWidth || rect.width || (window.innerWidth - 64));
+      const height = 680;
+      const dpr = window.devicePixelRatio || 1;
+
+      canvas.width = width * dpr;
+      canvas.height = height * dpr;
+      canvas.style.width = width + 'px';
+      canvas.style.height = height + 'px';
+      ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+
+      if (!graphInitialized || transform.x === 0 || isNaN(transform.x)) {{
+        buildGraphNodes(width, height);
+        transform.x = width / 2;
+        transform.y = height / 2;
+        transform.scale = 1;
+        graphInitialized = true;
+      }}
+
+      drawGraph();
+      wakeAnimation();
+    }}
+
+    function wakeAnimation() {{
+      if (!isAnimationRunning) {{
+        isAnimationRunning = true;
+        requestAnimationFrame(animateGraph);
+      }}
+    }}
+
     function animateGraph() {{
-      // Simple force simulation
+      if (!graphInitialized) return;
+
+      // Force simulation
       for (let i = 0; i < nodes.length; i++) {{
         const n1 = nodes[i];
         if (n1 === draggedNode) continue;
 
-        // Center gravity
-        n1.vx -= n1.x * 0.0004;
-        n1.vy -= n1.y * 0.0004;
+        // Subtle gravity pull to center
+        n1.vx -= n1.x * 0.00035;
+        n1.vy -= n1.y * 0.00035;
 
-        // Node repulsion
+        // Node-to-node repulsion
         for (let j = i + 1; j < nodes.length; j++) {{
           const n2 = nodes[j];
           const dx = n2.x - n1.x;
           const dy = n2.y - n1.y;
           const dist = Math.hypot(dx, dy) || 1;
-          const minDist = n1.radius + n2.radius + 35;
-          if (dist < minDist * 3) {{
-            const force = (minDist * 3 - dist) / (dist * 20);
+          const minDist = n1.radius + n2.radius + 36;
+          if (dist < minDist * 2.8) {{
+            const force = (minDist * 2.8 - dist) / (dist * 22);
             const fx = dx * force;
             const fy = dy * force;
             n1.vx -= fx;
@@ -1939,29 +1967,36 @@ INDEX_SHELF_TEMPLATE = """<!DOCTYPE html>
         const dx = e.target.x - e.source.x;
         const dy = e.target.y - e.source.y;
         const dist = Math.hypot(dx, dy) || 1;
-        const targetDist = e.isThematic ? 110 : 80;
-        const force = (dist - targetDist) * 0.002;
+        const targetDist = e.isThematic ? 115 : 85;
+        const force = (dist - targetDist) * 0.0022;
         const fx = dx * force;
         const fy = dy * force;
         if (e.source !== draggedNode) {{ e.source.vx += fx; e.source.vy += fy; }}
         if (e.target !== draggedNode) {{ e.target.vx -= fx; e.target.vy -= fy; }}
       }});
 
-      // Update positions with friction
+      let maxSpeed = 0;
       nodes.forEach(n => {{
         if (n !== draggedNode) {{
-          n.vx *= 0.85;
-          n.vy *= 0.85;
+          n.vx *= 0.82;
+          n.vy *= 0.82;
           n.x += n.vx;
           n.y += n.vy;
+          maxSpeed = Math.max(maxSpeed, Math.abs(n.vx), Math.abs(n.vy));
         }}
       }});
 
       drawGraph();
-      requestAnimationFrame(animateGraph);
+
+      if (maxSpeed > 0.06 || isDragging || draggedNode) {{
+        requestAnimationFrame(animateGraph);
+      }} else {{
+        isAnimationRunning = false;
+      }}
     }}
 
     function drawGraph() {{
+      if (!ctx || !canvas) return;
       const width = canvas.width / (window.devicePixelRatio || 1);
       const height = canvas.height / (window.devicePixelRatio || 1);
       ctx.clearRect(0, 0, width, height);
@@ -1981,11 +2016,11 @@ INDEX_SHELF_TEMPLATE = """<!DOCTYPE html>
         ctx.lineTo(e.target.x, e.target.y);
         if (e.isThematic) {{
           ctx.setLineDash([4, 4]);
-          ctx.strokeStyle = isConnectedToHover ? '#f97316' : (isDark ? 'rgba(255,255,255,0.18)' : 'rgba(0,0,0,0.14)');
-          ctx.lineWidth = isConnectedToHover ? 2.5 : 1.2;
+          ctx.strokeStyle = isConnectedToHover ? '#f97316' : (isDark ? 'rgba(255,255,255,0.22)' : 'rgba(0,0,0,0.18)');
+          ctx.lineWidth = isConnectedToHover ? 2.5 : 1.3;
         }} else {{
           ctx.setLineDash([]);
-          ctx.strokeStyle = isConnectedToHover ? e.source.color : (isDark ? 'rgba(255,255,255,0.1)' : 'rgba(0,0,0,0.08)');
+          ctx.strokeStyle = isConnectedToHover ? e.source.color : (isDark ? 'rgba(255,255,255,0.12)' : 'rgba(0,0,0,0.1)');
           ctx.lineWidth = isConnectedToHover ? 2 : 1;
         }}
         ctx.stroke();
@@ -2025,8 +2060,8 @@ INDEX_SHELF_TEMPLATE = """<!DOCTYPE html>
 
     function getMousePos(e) {{
       const rect = canvas.getBoundingClientRect();
-      const clientX = e.clientX || (e.touches && e.touches[0].clientX);
-      const clientY = e.clientY || (e.touches && e.touches[0].clientY);
+      const clientX = e.clientX ?? (e.touches && e.touches[0] ? e.touches[0].clientX : 0);
+      const clientY = e.clientY ?? (e.touches && e.touches[0] ? e.touches[0].clientY : 0);
       return {{
         x: (clientX - rect.left - transform.x) / transform.scale,
         y: (clientY - rect.top - transform.y) / transform.scale
@@ -2038,124 +2073,165 @@ INDEX_SHELF_TEMPLATE = """<!DOCTYPE html>
         const n = nodes[i];
         if (activeFilterCat !== 'all' && n.cat !== activeFilterCat) continue;
         const dist = Math.hypot(n.x - pos.x, n.y - pos.y);
-        if (dist <= n.radius + 5) return n;
+        if (dist <= n.radius + 6) return n;
       }}
       return null;
     }}
 
-    canvas.addEventListener('mousedown', (e) => {{
-      const pos = getMousePos(e);
-      const node = findNodeAt(pos);
-      if (node) {{
-        draggedNode = node;
-      }} else {{
-        isDragging = true;
-        dragStart = {{ x: e.clientX - transform.x, y: e.clientY - transform.y }};
-      }}
-    }});
+    if (canvas) {{
+      canvas.addEventListener('mousedown', (e) => {{
+        const pos = getMousePos(e);
+        const node = findNodeAt(pos);
+        if (node) {{
+          draggedNode = node;
+        }} else {{
+          isDragging = true;
+          dragStart = {{ x: e.clientX - transform.x, y: e.clientY - transform.y }};
+        }}
+        wakeAnimation();
+      }});
 
-    canvas.addEventListener('mousemove', (e) => {{
-      const pos = getMousePos(e);
-      if (draggedNode) {{
-        draggedNode.x = pos.x;
-        draggedNode.y = pos.y;
-      }} else if (isDragging) {{
-        transform.x = e.clientX - dragStart.x;
-        transform.y = e.clientY - dragStart.y;
-      }} else {{
-        hoveredNode = findNodeAt(pos);
-      }}
-    }});
+      canvas.addEventListener('mousemove', (e) => {{
+        const pos = getMousePos(e);
+        if (draggedNode) {{
+          draggedNode.x = pos.x;
+          draggedNode.y = pos.y;
+          draggedNode.vx = 0;
+          draggedNode.vy = 0;
+          wakeAnimation();
+        }} else if (isDragging) {{
+          transform.x = e.clientX - dragStart.x;
+          transform.y = e.clientY - dragStart.y;
+          drawGraph();
+        }} else {{
+          const prevHover = hoveredNode;
+          hoveredNode = findNodeAt(pos);
+          if (prevHover !== hoveredNode) {{
+            drawGraph();
+          }}
+        }}
+      }});
 
-    window.addEventListener('mouseup', () => {{
-      isDragging = false;
-      draggedNode = null;
-    }});
+      window.addEventListener('mouseup', () => {{
+        isDragging = false;
+        draggedNode = null;
+      }});
 
-    canvas.addEventListener('wheel', (e) => {{
-      e.preventDefault();
-      const zoomFactor = e.deltaY < 0 ? 1.15 : 0.88;
-      const rect = canvas.getBoundingClientRect();
-      const mouseX = e.clientX - rect.left;
-      const mouseY = e.clientY - rect.top;
+      canvas.addEventListener('wheel', (e) => {{
+        e.preventDefault();
+        const zoomFactor = e.deltaY < 0 ? 1.15 : 0.88;
+        const rect = canvas.getBoundingClientRect();
+        const mouseX = e.clientX - rect.left;
+        const mouseY = e.clientY - rect.top;
 
-      transform.x = mouseX - (mouseX - transform.x) * zoomFactor;
-      transform.y = mouseY - (mouseY - transform.y) * zoomFactor;
-      transform.scale *= zoomFactor;
-      transform.scale = Math.max(0.3, Math.min(3.5, transform.scale));
-    }}, {{ passive: false }});
+        transform.x = mouseX - (mouseX - transform.x) * zoomFactor;
+        transform.y = mouseY - (mouseY - transform.y) * zoomFactor;
+        transform.scale *= zoomFactor;
+        transform.scale = Math.max(0.3, Math.min(3.5, transform.scale));
+        drawGraph();
+      }}, {{ passive: false }});
 
-    // Node click info card
-    canvas.addEventListener('click', (e) => {{
-      const pos = getMousePos(e);
-      const node = findNodeAt(pos);
-      if (node && !node.isHub) {{
-        showGraphInfoCard(node);
-      }}
-    }});
+      canvas.addEventListener('click', (e) => {{
+        const pos = getMousePos(e);
+        const node = findNodeAt(pos);
+        if (node && !node.isHub) {{
+          showGraphInfoCard(node);
+        }}
+      }});
+    }}
 
     function showGraphInfoCard(node) {{
-      document.getElementById('gic-title').textContent = node.title;
-      const catBadge = document.getElementById('gic-cat');
-      catBadge.textContent = node.catName;
-      catBadge.style.backgroundColor = node.color + '22';
-      catBadge.style.color = node.color;
-      document.getElementById('gic-meta').textContent = `📑 共 ${{node.sections}} 節時間軸`;
-      document.getElementById('gic-open').href = node.file;
-
-      // Find connected books
-      const connectedEdges = edges.filter(e => (e.source === node || e.target === node) && e.isThematic);
+      if (!gic) return;
+      const titleEl = document.getElementById('gic-title');
+      const catEl = document.getElementById('gic-cat');
+      const metaEl = document.getElementById('gic-meta');
+      const openEl = document.getElementById('gic-open');
       const linksContainer = document.getElementById('gic-links');
-      linksContainer.innerHTML = '';
-      if (connectedEdges.length === 0) {{
-        linksContainer.innerHTML = '<div>無特定跨書主題鏈結</div>';
-      }} else {{
-        connectedEdges.forEach(e => {{
-          const other = e.source === node ? e.target : e.source;
-          const a = document.createElement('a');
-          a.href = other.file;
-          a.style.color = 'var(--accent-color)';
-          a.style.textDecoration = 'none';
-          a.innerHTML = `🔗 <strong>${{e.label}}</strong>：${{other.title}}`;
-          linksContainer.appendChild(a);
-        }});
+
+      if (titleEl) titleEl.textContent = node.title;
+      if (catEl) {{
+        catEl.textContent = node.catName;
+        catEl.style.backgroundColor = node.color + '22';
+        catEl.style.color = node.color;
+      }}
+      if (metaEl) metaEl.textContent = `📑 共 ${{node.sections || 0}} 節時間軸`;
+      if (openEl) openEl.href = node.file;
+
+      if (linksContainer) {{
+        const connectedEdges = edges.filter(e => (e.source === node || e.target === node) && e.isThematic);
+        linksContainer.innerHTML = '';
+        if (connectedEdges.length === 0) {{
+          linksContainer.innerHTML = '<div style="color: var(--text-muted); font-size: 13px;">無特定跨書主題鏈結</div>';
+        }} else {{
+          connectedEdges.forEach(e => {{
+            const other = e.source === node ? e.target : e.source;
+            const a = document.createElement('a');
+            a.href = other.file;
+            a.style.color = 'var(--accent-color)';
+            a.style.textDecoration = 'none';
+            a.style.display = 'block';
+            a.style.marginBottom = '6px';
+            a.style.fontSize = '13px';
+            a.innerHTML = `🔗 <strong>${{escapeHtml(e.label)}}</strong>：${{escapeHtml(other.title)}}`;
+            linksContainer.appendChild(a);
+          }});
+        }}
       }}
 
       gic.classList.add('active');
     }}
 
-    document.getElementById('gic-close').addEventListener('click', () => gic.classList.remove('active'));
+    const gicClose = document.getElementById('gic-close');
+    if (gicClose && gic) gicClose.addEventListener('click', () => gic.classList.remove('active'));
 
     // Graph toolbar
-    document.getElementById('graph-zoom-in').addEventListener('click', () => {{
-      transform.scale *= 1.25;
+    const zoomInBtn = document.getElementById('graph-zoom-in');
+    const zoomOutBtn = document.getElementById('graph-zoom-out');
+    const resetBtn = document.getElementById('graph-reset');
+    const graphCatFilter = document.getElementById('graph-cat-filter');
+    const graphSearch = document.getElementById('graph-search');
+
+    if (zoomInBtn) zoomInBtn.addEventListener('click', () => {{
+      transform.scale = Math.min(3.5, transform.scale * 1.25);
+      drawGraph();
     }});
-    document.getElementById('graph-zoom-out').addEventListener('click', () => {{
-      transform.scale *= 0.8;
+    if (zoomOutBtn) zoomOutBtn.addEventListener('click', () => {{
+      transform.scale = Math.max(0.3, transform.scale * 0.8);
+      drawGraph();
     }});
-    document.getElementById('graph-reset').addEventListener('click', () => {{
-      const rect = canvas.getBoundingClientRect();
-      transform.x = rect.width / 2;
+    if (resetBtn && canvas) resetBtn.addEventListener('click', () => {{
+      const rect = canvas.parentElement ? canvas.parentElement.getBoundingClientRect() : {{ width: 800 }};
+      transform.x = (rect.width || 800) / 2;
       transform.y = 340;
       transform.scale = 1;
       activeFilterCat = 'all';
-      document.getElementById('graph-cat-filter').value = 'all';
+      if (graphCatFilter) graphCatFilter.value = 'all';
+      drawGraph();
     }});
 
-    document.getElementById('graph-cat-filter').addEventListener('change', (e) => {{
+    if (graphCatFilter) graphCatFilter.addEventListener('change', (e) => {{
       activeFilterCat = e.target.value;
+      drawGraph();
     }});
 
-    document.getElementById('graph-search').addEventListener('input', (e) => {{
+    if (graphSearch) graphSearch.addEventListener('input', (e) => {{
       const q = e.target.value.toLowerCase().trim();
       if (!q) return;
       const match = nodes.find(n => !n.isHub && n.title.toLowerCase().includes(q));
-      if (match) {{
-        const rect = canvas.getBoundingClientRect();
-        transform.x = rect.width / 2 - match.x * transform.scale;
+      if (match && canvas) {{
+        const rect = canvas.parentElement ? canvas.parentElement.getBoundingClientRect() : {{ width: 800 }};
+        transform.x = (rect.width || 800) / 2 - match.x * transform.scale;
         transform.y = 340 - match.y * transform.scale;
         hoveredNode = match;
+        drawGraph();
         showGraphInfoCard(match);
+      }}
+    }});
+
+    window.addEventListener('resize', () => {{
+      const pane = document.getElementById('pane-graph');
+      if (pane && pane.classList.contains('active')) {{
+        initOrResizeGraph();
       }}
     }});
 
@@ -2166,21 +2242,37 @@ INDEX_SHELF_TEMPLATE = """<!DOCTYPE html>
     let isSearchIndexLoading = false;
 
     async function loadSearchIndexOnce() {{
-      if (searchIndexData) return;
-      if (isSearchIndexLoading) return;
+      if (searchIndexData) return searchIndexData;
+      if (isSearchIndexLoading) return null;
       isSearchIndexLoading = true;
       const statusMsg = document.getElementById('search-status-msg');
-      statusMsg.textContent = '⏳ 正在載入全書庫全文檢索索引 (83 本有聲書)...';
+      if (statusMsg) statusMsg.textContent = '⏳ 正在載入全書庫全文檢索索引 (83 本有聲書)...';
 
       try {{
         const res = await fetch('search_index.json');
+        if (!res.ok) throw new Error(`HTTP ${{res.status}}`);
         searchIndexData = await res.json();
-        statusMsg.textContent = '✅ 全書庫索引載入完成！請輸入關鍵字檢索。';
+        if (statusMsg) statusMsg.textContent = '✅ 全書庫索引載入完成！請輸入關鍵字檢索。';
+        return searchIndexData;
       }} catch (err) {{
-        statusMsg.textContent = '❌ 載入全文索引失敗：' + err;
+        if (statusMsg) {{
+          if (window.location.protocol === 'file:') {{
+            statusMsg.textContent = '⚠️ 本地 file:// 協定受瀏覽器跨域安全性限制。請在 GitHub Pages 線上瀏覽或啟用本地伺服器以使用全文檢索。';
+          }} else {{
+            statusMsg.textContent = '❌ 載入全文索引失敗：' + err.message;
+          }}
+        }}
+        return null;
       }} finally {{
         isSearchIndexLoading = false;
       }}
+    }}
+
+    // Preload index in background after page is fully idle
+    if (window.location.protocol !== 'file:') {{
+      setTimeout(() => {{
+        loadSearchIndexOnce();
+      }}, 1200);
     }}
 
     const globalSearchInput = document.getElementById('global-search-input');
@@ -2190,29 +2282,37 @@ INDEX_SHELF_TEMPLATE = """<!DOCTYPE html>
     const searchStatusCount = document.getElementById('search-status-count');
 
     let globalSearchDebounce;
-    globalSearchInput.addEventListener('input', (e) => {{
-      clearTimeout(globalSearchDebounce);
-      globalSearchDebounce = setTimeout(() => {{
-        runGlobalSearch(e.target.value);
-      }}, 300);
-    }});
-    globalCatSelect.addEventListener('change', () => runGlobalSearch(globalSearchInput.value));
+    if (globalSearchInput) {{
+      globalSearchInput.addEventListener('input', (e) => {{
+        clearTimeout(globalSearchDebounce);
+        globalSearchDebounce = setTimeout(() => {{
+          runGlobalSearch(e.target.value);
+        }}, 250);
+      }});
+    }}
+    if (globalCatSelect) {{
+      globalCatSelect.addEventListener('change', () => {{
+        if (globalSearchInput) runGlobalSearch(globalSearchInput.value);
+      }});
+    }}
 
-    function runGlobalSearch(query) {{
+    async function runGlobalSearch(query) {{
       if (!searchIndexData) {{
-        loadSearchIndexOnce().then(() => runGlobalSearch(query));
-        return;
+        const data = await loadSearchIndexOnce();
+        if (!data) return;
       }}
 
-      query = query.trim();
+      query = (query || '').trim();
+      if (!globalResultsList) return;
       globalResultsList.innerHTML = '';
+
       if (!query) {{
-        searchStatusMsg.textContent = '請輸入關鍵字開始檢索';
-        searchStatusCount.textContent = '';
+        if (searchStatusMsg) searchStatusMsg.textContent = '請輸入關鍵字開始檢索';
+        if (searchStatusCount) searchStatusCount.textContent = '';
         return;
       }}
 
-      const selectedCat = globalCatSelect.value;
+      const selectedCat = globalCatSelect ? globalCatSelect.value : 'all';
       const qLower = query.toLowerCase();
       const regex = new RegExp(`(${{escapeRegex(query)}})`, 'gi');
 
@@ -2223,8 +2323,8 @@ INDEX_SHELF_TEMPLATE = """<!DOCTYPE html>
         if (selectedCat !== 'all' && book.category !== selectedCat) return;
 
         const matchingSections = [];
-        book.sections.forEach(sec => {{
-          if (sec.text.toLowerCase().includes(qLower)) {{
+        (book.sections || []).forEach(sec => {{
+          if (sec.text && sec.text.toLowerCase().includes(qLower)) {{
             matchingSections.push(sec);
           }}
         }});
@@ -2239,7 +2339,7 @@ INDEX_SHELF_TEMPLATE = """<!DOCTYPE html>
           const bookHeader = document.createElement('div');
           bookHeader.className = 'global-book-header';
           bookHeader.innerHTML = `
-            <a href="${{book.file}}" class="global-book-title">${{book.title}}</a>
+            <a href="${{book.file}}" class="global-book-title">${{escapeHtml(book.title)}}</a>
             <span class="card-cat-badge" style="background: var(--accent-light); color: var(--accent-color);">
               ${{matchingSections.length}} 處相符
             </span>
@@ -2249,7 +2349,6 @@ INDEX_SHELF_TEMPLATE = """<!DOCTYPE html>
           const snippetList = document.createElement('div');
           snippetList.className = 'global-snippet-list';
 
-          // Show top 5 matches per book for performance
           matchingSections.slice(0, 5).forEach(sec => {{
             const matchPos = sec.text.toLowerCase().indexOf(qLower);
             const start = Math.max(0, matchPos - 40);
@@ -2261,7 +2360,7 @@ INDEX_SHELF_TEMPLATE = """<!DOCTYPE html>
             item.href = `${{book.file}}#${{sec.id}}`;
             item.className = 'global-snippet-item';
             item.innerHTML = `
-              <div class="global-snippet-time">⏱️ ${{sec.time}}</div>
+              <div class="global-snippet-time">⏱️ ${{escapeHtml(sec.time)}}</div>
               <div class="global-snippet-text">...${{snippetHtml}}...</div>
             `;
             snippetList.appendChild(item);
@@ -2281,13 +2380,57 @@ INDEX_SHELF_TEMPLATE = """<!DOCTYPE html>
         }}
       }});
 
-      searchStatusMsg.textContent = `檢索「${{query}}」結果：共涵蓋 ${{totalBookMatches}} 本書`;
-      searchStatusCount.textContent = `共找到 ${{totalSnippetMatches}} 處段落`;
+      if (searchStatusMsg) searchStatusMsg.textContent = `檢索「${{escapeHtml(query)}}」結果：共涵蓋 ${{totalBookMatches}} 本書`;
+      if (searchStatusCount) searchStatusCount.textContent = `共找到 ${{totalSnippetMatches}} 處段落`;
     }}
+
+    // ==========================================
+    // TAB SWITCHER CONTROLLER (Attached after all components ready)
+    // ==========================================
+    const tabBtns = document.querySelectorAll('.tab-btn');
+    const tabPanes = document.querySelectorAll('.tab-pane');
+
+    function switchTab(tabId) {{
+      tabBtns.forEach(btn => btn.classList.toggle('active', btn.getAttribute('data-tab') === tabId));
+      tabPanes.forEach(pane => pane.classList.toggle('active', pane.id === 'pane-' + tabId));
+
+      if (tabId === 'graph') {{
+        requestAnimationFrame(() => {{
+          initOrResizeGraph();
+        }});
+      }} else if (tabId === 'search') {{
+        loadSearchIndexOnce();
+        if (globalSearchInput) globalSearchInput.focus();
+      }}
+    }}
+
+    tabBtns.forEach(btn => {{
+      btn.addEventListener('click', () => {{
+        const tab = btn.getAttribute('data-tab');
+        if (tab) switchTab(tab);
+      }});
+    }});
+
+    // Check URL params for direct search or tab: ?tab=search&q=keyword
+    try {{
+      const urlParams = new URLSearchParams(window.location.search);
+      const tabParam = urlParams.get('tab');
+      if (tabParam === 'search') {{
+        switchTab('search');
+        const q = urlParams.get('q');
+        if (q && globalSearchInput) {{
+          globalSearchInput.value = q;
+          runGlobalSearch(q);
+        }}
+      }} else if (tabParam === 'graph') {{
+        switchTab('graph');
+      }}
+    }} catch (e) {{}}
   </script>
 </body>
 </html>
 """
+
 
 # ==========================================
 # 4. PARSER & ENHANCER LOGIC

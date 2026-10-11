@@ -432,7 +432,7 @@ No one can say that one interpretation is right and the other wrong. This princi
 <a id="sec-004524"></a>
 ### ⏱️ [00:45:24 - 00:50:24]
 
-#### #### WHAT RELATION DOES THIS HAVE TO THE USE OF THE VOICE? 4.
+#### #### #### #### WHAT RELATION DOES THIS HAVE TO THE USE OF THE VOICE? 4.
 
 #### WHICH WORDS SHOULD BE EMPHASISED WHICH SUBORDINATED IN A SENTENCE? 5.
 
@@ -602,15 +602,15 @@ Wendell Phillips to Saint Louverture. Still on the following selections for chan
 
 #### CHAPTER V.
 
-#### EFFICIENCY THROUGH CHANGE OF PACE.
+#### EFFICIENCY THROUGH CHANGE OF PACE. Here how he clears the points of faith, where Ratlin and Thumpin, now meekly calm, now wild and wrath, he’s stampin' and he’s jumpin'.
 
-Here how he clears the points of faith, where Ratlin and Thumpin, now meekly calm, now wild and wrath, he’s stampin' and he’s jumpin'. Robert Burns, holy fair. The Latins have bequeathed to us a word that has no precise equivalent in our tongue, therefore we have accepted it, body unchanged. It is the word tempo, and means rate of movement, as measured by the time consumed in executing that movement.
+Robert Burns, holy fair. The Latins have bequeathed to us a word that has no precise equivalent in our tongue, therefore we have accepted it, body unchanged. It is the word tempo, and means rate of movement, as measured by the time consumed in executing that movement. Thus far its use has been largely limited to the vocal and musical arts, but it would not be surprising to hear tempo applied to more concrete matters, for it perfectly illustrates the real meaning of the word to say that an ox-cart moves in slow tempo, an express train in a fast tempo.
 
-Thus far its use has been largely limited to the vocal and musical arts, but it would not be surprising to hear tempo applied to more concrete matters, for it perfectly illustrates the real meaning of the word to say that an ox-cart moves in slow tempo, an express train in a fast tempo. Our guns that fire six hundred times a minute shoot at a fast tempo. The old muzzle-loader that required three minutes to load shot at a slow tempo. Every musician understands this principle.
+Our guns that fire six hundred times a minute shoot at a fast tempo. The old muzzle-loader that required three minutes to load shot at a slow tempo. Every musician understands this principle. It requires longer to sing a half note than it does an eighth note.
 
-It requires longer to sing a half note than it does an eighth note. Now tempo is a tremendously important element in good platform work, for when a speaker delivers a whole address at very nearly the same rate of speed, he is depriving himself of one of his chief means of emphasis and power. The baseball pitcher, the bowler and cricket, the tennis server, all know the value of change of pace. change of tempo, in delivering their ball, and so must the public speaker observe its power.
+Now tempo is a tremendously important element in good platform work, for when a speaker delivers a whole address at very nearly the same rate of speed, he is depriving himself of one of his chief means of emphasis and power. The baseball pitcher, the bowler and cricket, the tennis server, all know the value of change of pace. change of tempo, in delivering their ball, and so must the public speaker observe its power. Change of tempo lends naturalness to the delivery. Naturalness, or at least seeming naturalness, as was explained in the chapter on monotony, is greatly to be desired, and the continual change of tempo will go a long way towards establishing it. Mr. Howard Lindsay, stage manager for Miss Margaret Anglin, recently said to the present writer that change of pace was one of the most effective tools of the actor.
 
-Change of tempo lends naturalness to the delivery. Naturalness, or at least seeming naturalness, as was explained in the chapter on monotony, is greatly to be desired, and the continual change of tempo will go a long way towards establishing it. Mr. Howard Lindsay, stage manager for Miss Margaret Anglin, recently said to the present writer that change of pace was one of the most effective tools of the actor. While it
+While it
 
 
 <a id="sec-011534"></a>
@@ -938,29 +938,29 @@ She answers by holding high in her loving hands the child. He is gone. And forev
 
 #### ROBERT J.
 
-#### INGERSAW TO THE SOLDIERS OF INDIANAPOLIS 8.
+#### INGERSAW TO THE SOLDIERS OF INDIANAPOLIS 8. Where would you pause in the following selections?
 
-Where would you pause in the following selections? Try pausing in different places and note the effect it gives. The moving finger writes and having writ moves on. Nor all your piety nor which shall lure it back to cancel half a line.
+Try pausing in different places and note the effect it gives. The moving finger writes and having writ moves on. Nor all your piety nor which shall lure it back to cancel half a line. Nor all your tears.
 
-Nor all your tears. Wash out a word of it. The history of woman-kind is a story of abuse. For ages men beat, sold, and abused their wives and daughters like cattle.
+Wash out a word of it. The history of woman-kind is a story of abuse. For ages men beat, sold, and abused their wives and daughters like cattle. The Spartan mother that gave birth to one of her own sex disgraced herself.
 
-The Spartan mother that gave birth to one of her own sex disgraced herself. The girl-babies were often deserted in the mountains to starve. China bound and deformed their feet. Turkey veiled their faces.
+The girl-babies were often deserted in the mountains to starve. China bound and deformed their feet. Turkey veiled their faces. America denied them equal educational advantages with men.
 
-America denied them equal educational advantages with men. Most of the world still refuses them the right to participate in the government. And everywhere women bear the brunt of an unequal standard of morality. But the women are on the march.
+Most of the world still refuses them the right to participate in the government. And everywhere women bear the brunt of an unequal standard of morality. But the women are on the march. They are walking upward to the sunlit plains where the thinking people rule.
 
-They are walking upward to the sunlit plains where the thinking people rule. China has ceased binding their feet. In the shadow of the harem Turkey has opened a school for girls. America has given women equal educational advantages, and America, we believe, will enfranchise them.
+China has ceased binding their feet. In the shadow of the harem Turkey has opened a school for girls. America has given women equal educational advantages, and America, we believe, will enfranchise them. We can do little to help, and not much to hinder, this great movement.
 
-We can do little to help, and not much to hinder, this great movement. The thinking people have put their okay upon it. It is moving forward to its goal just as surely as this old earth is swinging from the grip of winter toward the spring’s blossoms and the summer’s harvest. Form an editorial by D.
+The thinking people have put their okay upon it. It is moving forward to its goal just as surely as this old earth is swinging from the grip of winter toward the spring’s blossoms and the summer’s harvest. Form an editorial by D. C. in Leslie’s Weekly, June 4, 1914.
 
-C. in Leslie’s Weekly, June 4, 1914. Used by permission. 9. Read aloud the following address, paying careful attention to pause wherever the emphasis may thereby be heightened. The Irrepressible Conflict.
+Used by permission. 9. Read aloud the following address, paying careful attention to pause wherever the emphasis may thereby be heightened. The Irrepressible Conflict. At last the Republican Party has appeared.
 
-At last the Republican Party has appeared. It avows now, as the Republican Party of 1800 did, in one word, its faith and its works. Equal and Exact Justice to All Men. Even when it first entered the field, only half organized, it struck a blow which only just failed to secure, complete and triumphant victory.
+It avows now, as the Republican Party of 1800 did, in one word, its faith and its works. Equal and Exact Justice to All Men. Even when it first entered the field, only half organized, it struck a blow which only just failed to secure, complete and triumphant victory. In this, its second campaign, it has already won advantages which render that triumph now both easy and certain.
 
-In this, its second campaign, it has already won advantages which render that triumph now both easy and certain. The secret of its assured success lies in that very characteristic which, in the mouth of scoffers, constitutes its great and lasting imbecility and reproach. It lies in the fact that it is a party of one idea, but that is a noble one, an idea that fills and expands all generous souls, the idea of equality of all men before human tribunals and human laws, as they are all equal before the divine.
+The secret of its assured success lies in that very characteristic which, in the mouth of scoffers, constitutes its great and lasting imbecility and reproach. It lies in the fact that it is a party of one idea, but that is a noble one, an idea that fills and expands all generous souls, the idea of equality of all men before human tribunals and human laws, as they are all equal before the divine. The Efficiency Through Inflection. How soft the music of those village bells falling at intervals upon the ear in cadence sweet.
 
-The Efficiency Through Inflection. How soft the music of those village bells falling at intervals upon the ear in cadence sweet. Now dying all away, now peeling loud again and louder still, clear and sonorous as the gale comes on. With easy force it opens all the cells where memory slept.
+Now dying all away, now peeling loud again and louder still, clear and sonorous as the gale comes on. With easy force it opens all the cells where memory slept. William Cowper, The Task. Herbert Spencer remarked that cadence, by which he meant the modulation of the tones of the voice in speaking, is the running commentary of the emotions upon the propositions of the intellect.
 
-William Cowper, The Task. Herbert Spencer remarked that cadence, by which he meant the modulation of the tones of the voice in speaking, is the running commentary of the emotions upon the propositions of the intellect. How true this is will appear when we reflect that the little upward and downward shadings of the voice tell more truly
+How true this is will appear when we reflect that the little upward and downward shadings of the voice tell more truly
 
 
 <a id="sec-021112"></a>
@@ -2036,13 +2036,11 @@ It is moving forward to its goal just as surely as this old earth is swinging fr
 
 #### PAYING CAREFUL ATTENTION TO PAWS WHEREVER THE EMPHASIS MAY, THEREBY, BE HIGHTENED.
 
-#### THE IRREPRESSIBLE CONFLICT.
+#### THE IRREPRESSIBLE CONFLICT. At last the Republican Party has appeared. It avows now, as the Republican Party of 1800 did, in one word, its faith and its works.
 
-At last the Republican Party has appeared. It avows now, as the Republican Party of 1800 did, in one word, its faith and its works. Simple and exact justice to all men. Even when it first entered the field, only half organized, it struck a blow which only just failed to secure complete and triumphant victory.
+Simple and exact justice to all men. Even when it first entered the field, only half organized, it struck a blow which only just failed to secure complete and triumphant victory. In this, its second campaign, it has already won advantages which render that triumph now both easy and certain. The secret of its assured success lies in that very characteristic which, in the mouth of scoffers, precedes its great and lasting imbecility and reproach.
 
-In this, its second campaign, it has already won advantages which render that triumph now both easy and certain. The secret of its assured success lies in that very characteristic which, in the mouth of scoffers, precedes its great and lasting imbecility and reproach. It lies in the fact that it is a party of one idea, but that is a noble one. An idea that fills and expands all generous souls.
-
-The idea of
+It lies in the fact that it is a party of one idea, but that is a noble one. An idea that fills and expands all generous souls. The idea of
 
 
 <a id="sec-051336"></a>
@@ -3762,7 +3760,7 @@ Give him place, ye prairies. In the midst of this great continent his dust shall
 <a id="sec-100139"></a>
 ### ⏱️ [10:01:39 - 10:06:44]
 
-#### #### THE HISTORY OF LIBERTY.
+#### #### #### #### THE HISTORY OF LIBERTY.
 
 The event which we commemorate is all-important, not merely in our own annals, but in those of the world. The sitentious English poet has declared that the proper study of mankind is man, and of all inquiries of a temporal nature. The history of our fellow beings is unquestionably among the most interesting. But not all the chapters of human history are alike important.
 
